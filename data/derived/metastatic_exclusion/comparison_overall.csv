@@ -1,0 +1,16 @@
+,value
+cancers_with_changed_top10_set,5.0
+cancers_with_identical_top50,3.0
+top10_slots_changed,6.0
+of_slots,190.0
+any_main,178.0
+any_excluded,177.0
+exact_main,150.0
+exact_excluded,150.0
+mean_top10_jaccard_main_vs_excluded,0.944
+mean_pairwise_cancer_top10_jaccard_main,0.165
+mean_pairwise_cancer_top10_jaccard_excluded,0.158
+mean_P@20_main,88.7
+mean_P@20_excluded,88.2
+mean_P@50_main,77.6
+mean_P@50_excluded,76.7

@@ -1,0 +1,23 @@
+cancers,comparison,mean_top10_jaccard
+all 19,250 vs 1000,0.763
+all 19,500 vs 1000,0.863
+all 19,750 vs 1000,0.952
+all 19,1500 vs 1000,0.914
+all 19,2000 vs 1000,0.887
+all 19,250/500 adjacent,0.808
+all 19,500/750 adjacent,0.869
+all 19,750/1000 adjacent,0.952
+all 19,1000/1500 adjacent,0.914
+all 19,1500/2000 adjacent,0.943
+all 19,mean of adjacent,0.897
+17 (Cervical Cancer and Myeloma excluded),250 vs 1000,0.756
+17 (Cervical Cancer and Myeloma excluded),500 vs 1000,0.877
+17 (Cervical Cancer and Myeloma excluded),750 vs 1000,0.947
+17 (Cervical Cancer and Myeloma excluded),1500 vs 1000,0.904
+17 (Cervical Cancer and Myeloma excluded),2000 vs 1000,0.873
+17 (Cervical Cancer and Myeloma excluded),250/500 adjacent,0.816
+17 (Cervical Cancer and Myeloma excluded),500/750 adjacent,0.884
+17 (Cervical Cancer and Myeloma excluded),750/1000 adjacent,0.947
+17 (Cervical Cancer and Myeloma excluded),1000/1500 adjacent,0.904
+17 (Cervical Cancer and Myeloma excluded),1500/2000 adjacent,0.936
+17 (Cervical Cancer and Myeloma excluded),mean of adjacent,0.897

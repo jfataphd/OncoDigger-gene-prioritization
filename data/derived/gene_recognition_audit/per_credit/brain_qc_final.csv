@@ -1,0 +1,434 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Brain Cancer,IDH1,34257334,random,idh1,C,ML,,symbol 'IDH1' present,8,topographic correlates of driver mutations and endogenous gene expression in pediatric diffuse midline gliomas and hemispheric high-grade gl,ML
+Brain Cancer,IDH1,26395639,random,idh1,C,M,,symbol 'IDH1' present,22,atrx loss in adult supratentorial diffuse astrocytomas correlates with p53 over expression and idh1 mutation and predicts better outcome in ,M
+Brain Cancer,IDH1,35866817,random,idh1,C,M,,symbol 'IDH1' present,40,the correlation analysis of tert promoter mutations with idh1 2 mutations and 1p 19q detected in human gliomas,M
+Brain Cancer,IDH1,19915484,random,idh1,C,M,,symbol 'IDH1' present,47,diagnostic use of idh1 2 mutation analysis in routine clinical testing of formalin-fixed paraffin-embedded glioma tissues,M
+Brain Cancer,IDH1,26603354,random,idh1,C,M,,symbol 'IDH1' present,51,glioblastomas with idh1 2 mutations have a short clinical history and have a favorable clinical outcome,M
+Brain Cancer,IDH1,31960234,random,idh1,C,M,,symbol 'IDH1' present,114,alternative lengthening of telomeres is the major telomere maintenance mechanism in astrocytoma with isocitrate dehydrogenase 1 mutation,M
+Brain Cancer,IDH1,25754088,random,idh1,C,M,,symbol 'IDH1' present,116,clinical implementation of integrated whole-genome copy number and mutation profiling for glioblastoma,M
+Brain Cancer,IDH1,22291938,random,idh1,C,M,,symbol 'IDH1' present,127,correlation of idh1 mutation with clinicopathologic factors and prognosis in primary glioblastoma a report of 118 patients from china,M
+Brain Cancer,IDH1,22323113,random,idh1,C,M,,symbol 'IDH1' present,131,frequent idh1 2 mutations in intracranial chondrosarcoma a possible diagnostic clue for its differentiation from chordoma,M
+Brain Cancer,IDH1,26297251,random,idh1,C,M,,symbol 'IDH1' present,136,the h3 3 k27m mutation results in a poorer prognosis in brainstem gliomas than thalamic gliomas in adults,M
+Brain Cancer,IDH1,20131059,random,idh1,C,M,,symbol 'IDH1' present,142,rapid and sensitive assessment of the idh1 and idh2 mutation status in cerebral gliomas based on dna pyrosequencing,M
+Brain Cancer,IDH1,36941703,random,idh1,C,M,,symbol 'IDH1' present,152,exceptionally rare idh1-mutant adult medulloblastoma with concurrent gnas mutation revealed by in vivo magnetic resonance spectroscopy and d,M
+Brain Cancer,IDH1,32785787,random,idh1,C,ML,,symbol 'IDH1' present,153,comparative molecular analysis of primary and recurrent oligodendroglioma that acquired imbalanced 1p 19q codeletion and tp53 mutation a cas,ML
+Brain Cancer,IDH1,25681309,random,idh1,C,M,,symbol 'IDH1' present,155,prognostic quality of activating tert promoter mutations in glioblastoma interaction with the rs2853669 polymorphism and patient age at diag,M
+Brain Cancer,IDH1,41740066,random,idh1,C,M,,symbol 'IDH1' present,163,noninvasive identification of isocitrate dehydrogenase 1 2 mutation in brainstem gliomas,M
+Brain Cancer,IDH1,26945349,random,idh1,C,M,,symbol 'IDH1' present,201,isocitrate dehydrogenase idh 1 2 mutations as prognostic markers in patients with glioblastomas,M
+Brain Cancer,IDH1,21643985,random,idh1,C,M,,symbol 'IDH1' present,264,idh mutation status impact on in vivo hypoxia biomarkers expression new insights from a clinical nuclear imaging and immunohistochemical stu,M
+Brain Cancer,IDH1,28782849,random,idh1,C,M,,symbol 'IDH1' present,337,diffuse glioma - rare homozygous idh point mutation is it an oncogenetic mechanism,M
+Brain Cancer,IDH1,31727689,random,idh1,C,M,,symbol 'IDH1' present,344,a potent blood-brain barrier-permeable mutant idh1 inhibitor suppresses the growth of glioblastoma with idh1 mutation in a patient-derived o,M
+Brain Cancer,IDH1,23111198,random,idh1,C,M,,symbol 'IDH1' present,363,pyrosequencing of idh1 and idh2 mutations in brain tumors and non-neoplastic conditions,M
+Brain Cancer,IDH1,37374260,random,idh1,C,M,,symbol 'IDH1' present,411,a rare co-occurrence of maffucci syndrome and astrocytoma with idh1 r132h mutation a case report,M
+Brain Cancer,IDH1,20174854,random,idh1,C,M,,symbol 'IDH1' present,422,prognostic significance of histological grading p53 status ykl-40 expression and idh1 mutations in pediatric high-grade gliomas,M
+Brain Cancer,IDH1,41692256,random,idh1,C,M,,symbol 'IDH1' present,455,impact of idh mutation and mgmt methylation as independent prognostic markers in uniformly treated high grade glioma patients a real-world e,M
+Brain Cancer,IDH1,30240866,random,idh1,C,M,,symbol 'IDH1' present,461,braf v600e tert and idh2 mutations in pleomorphic xanthoastrocytoma observations from a large case-series study,M
+Brain Cancer,IDH1,31371348,random,idh1,C,M,,symbol 'IDH1' present,473,dnmt3a co-mutation in an idh1 -mutant glioblastoma,M
+Brain Cancer,IDH1,29556922,random,idh1,C,M,,symbol 'IDH1' present,511,idh mutation analysis in glioma patients by cadma compared with snapshot assay and two immunohistochemical methods,M
+Brain Cancer,IDH1,23079654,random,idh1,C,M,,symbol 'IDH1' present,535,hotspot mutations in h3f3a and idh1 define distinct epigenetic and biological subgroups of glioblastoma,M
+Brain Cancer,IDH1,24590270,random,idh1,C,M,target,symbol 'IDH1' present,589,quantitative metabolome analysis profiles activation of glutaminolysis in glioma with idh1 mutation,M
+Brain Cancer,IDH1,22688054,random,idh1,C,M,,symbol 'IDH1' present,662,nuclear exclusion of tet1 is associated with loss of 5-hydroxymethylcytosine in idh1 wild-type gliomas,M
+Brain Cancer,IDH1,37713468,random,idh1,C,M,,symbol 'IDH1' present,665,glioma genetic profiles associated with electrophysiologic hyperexcitability,M
+Brain Cancer,IDH1,24362902,random,idh1,C,M,,symbol 'IDH1' present,674,an idh1 mutation inhibits growth of glioma cells via gsh depletion and ros generation,M
+Brain Cancer,IDH1,27270908,random,idh1,C,M,,symbol 'IDH1' present,726,impact of idh1 mutation status on outcome in clinical trials for recurrent glioblastoma,M
+Brain Cancer,IDH1,26404554,random,idh1,C,I,,symbol 'IDH1' present,782,malignant transformation of diffuse astrocytoma to glioblastoma associated with newly developed braf v600e mutation,I
+Brain Cancer,IDH1,32563269,random,idh1,C,M,,symbol 'IDH1' present,785,a novel cas9-targeted long-read assay for simultaneous detection of idh1 2 mutations and clinically relevant mgmt methylation in fresh biops,M
+Brain Cancer,IDH1,19903171,random,idh1,C,M,,symbol 'IDH1' present,811,characterization of r132h mutation-specific idh1 antibody binding in brain tumors,M
+Brain Cancer,IDH1,36974551,random,idh1,C,M,,symbol 'IDH1' present,850,detection of idh1 mutation in cfdna and tissue of adult diffuse glioma with allele-specific qpcr,M
+Brain Cancer,IDH1,29676036,random,idh1,C,M,,symbol 'IDH1' present,927,combination of isocitrate dehydrogenase 1 idh1 mutation and podoplanin expression in brain tumors identifies patients at high or low risk of,M
+Brain Cancer,IDH1,24057326,random,idh1,C,M,,symbol 'IDH1' present,970,the differential diagnosis of pilocytic astrocytoma with atypical features and malignant glioma an analysis of 16 cases with emphasis on dis,M
+Brain Cancer,IDH1,31623593,random,idh1,C,ML,,symbol 'IDH1' present,991,clinical insights gained by refining the 2016 who classification of diffuse gliomas with egfr amplification tert mutations pten deletion and,ML
+Brain Cancer,IDH1,40164352,random,idh1,C,M,,symbol 'IDH1' present,992,comprehensive molecular analysis in nrg oncology rtog 9813 a phase 3 study of radiation and temozolomide versus radiation and bcnu ccnu in a,M
+Brain Cancer,TP53,22661320,random,tp53,C,M,,symbol 'TP53' present,52,k27m mutation in histone h3 3 defines clinically and biologically distinct subgroups of pediatric diffuse intrinsic pontine gliomas,M
+Brain Cancer,TP53,41044136,random,tp53,C,M,,symbol 'TP53' present,55,characterization of the mutational status of glioblastoma and high-grade astrocytomas in a latin american cohort,M
+Brain Cancer,TP53,26191234,random,tp53,C,ML,,symbol 'TP53' present,59,gene mutation profiling of primary glioblastoma through multiple tumor biopsy guided by 1h-magnetic resonance spectroscopy,ML
+Brain Cancer,TP53,29786075,random,tp53,C,M,,symbol 'TP53' present,86,tp53 gain-of-function mutation promotes inflammation in glioblastoma,M
+Brain Cancer,TP53,38653957,random,tp53,C,ML,,symbol 'TP53' present,92,genomic landscape of glioblastoma without idh somatic mutation in 42 cases a comprehensive analysis using rna sequencing data,ML
+Brain Cancer,TP53,22587896,random,tp53|tumor protein p53,C,P,,symbol 'TP53' present,106,temperature-tolerant cold-pcr reduces temperature stringency and enables robust mutation enrichment,P
+Brain Cancer,TP53,15455376,random,tp53,C,M,,symbol 'TP53' present,112,o6-methylguanine-dna methyltransferase methylation and tp53 mutation in malignant astrocytomas and their relationships with clinical course,M
+Brain Cancer,TP53,25754088,random,tp53,C,M,,symbol 'TP53' present,116,clinical implementation of integrated whole-genome copy number and mutation profiling for glioblastoma,M
+Brain Cancer,TP53,20603105,random,tp53,C,M,,symbol 'TP53' present,132,idh1 r132 mutation identified in one human melanoma metastasis but not correlated with metastases to the brain,M
+Brain Cancer,TP53,22136423,random,tp53,C,M,,symbol 'TP53' present,137,significance of idh mutations varies with tumor histology grade and genetics in japanese glioma patients,M
+Brain Cancer,TP53,12019170,random,tp53,C,M,,symbol 'TP53' present,149,initiation of human astrocytoma by clonal evolution of cells with progressive loss of p53 functions in a patient with a 283h tp53 germ-line ,M
+Brain Cancer,TP53,32785787,random,tp53,C,M,,symbol 'TP53' present,153,comparative molecular analysis of primary and recurrent oligodendroglioma that acquired imbalanced 1p 19q codeletion and tp53 mutation a cas,M
+Brain Cancer,TP53,32285618,random,tp53,C,M,target,symbol 'TP53' present,176,high maf of egfr mutations and high ratio of t790m sensitizing mutations in ctdna predict better third-generation tki outcomes,M
+Brain Cancer,TP53,19340432,random,tp53,C,M,,symbol 'TP53' present,237,selective acquisition of idh1 r132c mutations in astrocytomas associated with li-fraumeni syndrome,M
+Brain Cancer,TP53,23104868,random,tp53,C,M,,symbol 'TP53' present,239,whole-exome sequencing identifies atrx mutation as a key molecular determinant in lower-grade glioma,M
+Brain Cancer,TP53,22534715,random,tp53,C,M,,symbol 'TP53' present,245,a novel tp53 somatic mutation involved in the pathogenesis of pediatric choroid plexus carcinoma,M
+Brain Cancer,TP53,24344754,random,tp53,C,M,,symbol 'TP53' present,250,idh2 and tp53 mutations are correlated with gliomagenesis in a patient with maffucci syndrome,M
+Brain Cancer,TP53,27935156,random,tp53,C,M,,symbol 'TP53' present,251,casp9 germline mutation in a family with multiple brain tumors,M
+Brain Cancer,TP53,23955565,random,tp53,C,M,,symbol 'TP53' present,329,tert promoter mutations in primary and secondary glioblastomas,M
+Brain Cancer,TP53,20174854,random,tp53,C,M,,symbol 'TP53' present,422,prognostic significance of histological grading p53 status ykl-40 expression and idh1 mutations in pediatric high-grade gliomas,M
+Brain Cancer,TP53,25314060,random,tp53,C,M,,symbol 'TP53' present,486,tert promoter mutations in gliomas genetic associations and clinico-pathological correlations,M
+Brain Cancer,TP53,11577014,random,tp53,C,M,,symbol 'TP53' present,539,promoter methylation of the dna repair gene mgmt in astrocytomas is frequently associated with g c -- a t mutations of the tp53 tumor suppre,M
+Brain Cancer,TP53,30089713,random,tp53,C,M,,symbol 'TP53' present,566,survival in males with glioma and gastric adenocarcinoma correlates with mutant p53 residual transcriptional activity,M
+Brain Cancer,TP53,29173061,random,tp53,C,I,,symbol 'TP53' present,567,targeted sequencing of malignant supratentorial pediatric brain tumors demonstrates a high frequency of clinically relevant mutations,I
+Brain Cancer,TP53,26285240,random,tp53,C,M,,symbol 'TP53' present,573,cancer signature investigation erbb2 her2 -activating mutation and amplification-positive breast carcinoma mimicking lung primary,M
+Brain Cancer,TP53,40022576,random,tp53,C,M,,symbol 'TP53' present,586,dynamic monitoring of circulating tumor dna to predict the risk of non in situ recurrence of postoperative glioma a prospective cohort study,M
+Brain Cancer,TP53,40729073,random,tp53,C,M,,symbol 'TP53' present,599,the association between p53 expression and histopathology grade of astrocytoma,M
+Brain Cancer,TP53,21075857,random,tp53,C,M,,symbol 'TP53' present,603,molecular classification of low-grade diffuse gliomas,M
+Brain Cancer,TP53,22265402,random,tp53,C,M,,symbol 'TP53' present,610,genome sequencing of pediatric medulloblastoma links catastrophic dna rearrangements with tp53 mutations,M
+Brain Cancer,TP53,39285664,random,tp53,C,ML,,symbol 'TP53' present,645,the nf1 gene mutations and co-mutations in lung adenocarcinomas with brain metastasis,ML
+Brain Cancer,TP53,42144589,random,tp53,C,ML,,symbol 'TP53' present,649,braf-amplified glioblastoma patients have a worse prognosis than those with braf mutation and are associated with amplification of met rheb ,ML
+Brain Cancer,TP53,32671623,random,tp53,C,M,,symbol 'TP53' present,650,frequency of the tp53 p r337h mutation in a brazilian cohort of pediatric patients with solid tumors,M
+Brain Cancer,TP53,33095064,random,tp53,C,M,,symbol 'TP53' present,692,idh -wildtype secondary glioblastoma arising in idh -mutant diffuse astrocytoma a case report,M
+Brain Cancer,TP53,24695838,random,tp53,C,ML,,symbol 'TP53' present,708,multigene profiling to identify alternative treatment options for glioblastoma a pilot study,ML
+Brain Cancer,TP53,38377774,random,tp53,C,ML,,symbol 'TP53' present,710,sotorasib in kras g12c-mutated non-small cell lung cancer a multicenter real-world experience from the compassionate use program in germany,ML
+Brain Cancer,TP53,11355303,random,tp53,C,M,,symbol 'TP53' present,798,characterisation of molecular alterations in microdissected archival gliomas,M
+Brain Cancer,TP53,40442404,random,tp53,C,I,,symbol 'TP53' present,883,cyst fluid ctdna as a biomarker for genetic profiling and treatment monitoring in cystic brain metastases,I
+Brain Cancer,TP53,33157564,random,tp53,C,M,,symbol 'TP53' present,917,aggressive treatment in glioblastoma what determines the survival of patients,M
+Brain Cancer,TP53,25537428,random,tp53,C,M,,symbol 'TP53' present,933,association between molecular alterations and tumor location and mri characteristics in anaplastic gliomas,M
+Brain Cancer,TP53,20308654,random,tp53,C,M,,symbol 'TP53' present,993,tp53 alterations determine clinical subgroups and survival of patients with choroid plexus tumors,M
+Brain Cancer,EGFR,31425965,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,48,non-small cell lung cancer harbouring non-resistant uncommon egfr mutations mutation patterns effectiveness of epidermal growth factor recep,M
+Brain Cancer,EGFR,22982650,random,egfr,C,M,target,symbol 'EGFR' present,80,impact of systematic egfr and kras mutation evaluation on progression-free survival and overall survival in patients with advanced non-small,M
+Brain Cancer,EGFR,35866776,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,88,de novo mutation in epidermal growth factor receptor egfr -d761y responding to third generation tyrosine kinase inhibitor osimertinib a case,M
+Brain Cancer,EGFR,40958043,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,101,impact of egfr mutation subtypes and tki generations on clinical outcomes in lung adenocarcinoma patients with brain metastases treated with,M
+Brain Cancer,EGFR,25453849,random,egfr,C,M,,symbol 'EGFR' present,181,additional prognostic role of egfr activating mutations in lung adenocarcinoma patients with brain metastasis integrating with lung specific,M
+Brain Cancer,EGFR,23945384,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,192,association of exon 19 and 21 egfr mutation patterns with treatment outcome after first-line tyrosine kinase inhibitor in metastatic non-sma,M
+Brain Cancer,EGFR,23978641,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,212,distinct features of distant metastasis and lymph node stage in lung adenocarcinoma patients with epidermal growth factor receptor gene muta,M
+Brain Cancer,EGFR,31924107,random,egfr,C,M,target,symbol 'EGFR' present,221,molecular characterization of a large unselected cohort of metastatic colorectal cancers in relation to primary tumor location rare metastat,M
+Brain Cancer,EGFR,37424492,random,egfr,C,M,,symbol 'EGFR' present,280,differences in apparent diffusion coefficient histogram analysis according to egfr mutation status in brain metastasis due to lung adenocarc,M
+Brain Cancer,EGFR,21684624,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,289,detection of the egfr mutation in exhaled breath condensate from a heavy smoker with squamous cell carcinoma of the lung,M
+Brain Cancer,EGFR,10728703,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,297,diversity and frequency of epidermal growth factor receptor mutations in human glioblastomas,M
+Brain Cancer,EGFR,31581124,random,egfr,C,P,,symbol 'EGFR' present,342,usp8 mutations in corticotroph adenomas determine a distinct gene expression profile irrespective of functional tumour status,P
+Brain Cancer,EGFR,27070580,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,347,discordance of mutation statuses of epidermal growth factor receptor and k-ras between primary adenocarcinoma of lung and brain metastasis,M
+Brain Cancer,EGFR,31769228,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,365,driver genes as predictive indicators of brain metastasis in patients with advanced nsclc egfr alk and ret gene mutations,M
+Brain Cancer,EGFR,26455392,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,366,egfr mutation promotes glioblastoma through epigenome and transcription factor network remodeling,M
+Brain Cancer,EGFR,38951457,random,egfr,C,M,,symbol 'EGFR' present,376,assessing survival in non-small cell lung cancer brain metastases after stereotactic radiosurgery before and after the start of the targetab,M
+Brain Cancer,EGFR,30736738,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,462,positive response to icotinib in metastatic lung adenocarcinoma with acquiring egfr leu792h mutation after azd9291 treatment a case report,M
+Brain Cancer,EGFR,30305059,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,478,combining genomic analyses with tumour-derived slice cultures for the characterization of an egfr-activating kinase mutation in a case of gl,M
+Brain Cancer,EGFR,41196054,random,egfr,C,M,target,symbol 'EGFR' present,515,enozertinib is a selective brain-penetrant egfr inhibitor for treating non-small cell lung cancers with egfr exon 20 and atypical mutations,M
+Brain Cancer,EGFR,40696074,random,egfr,C,I,,symbol 'EGFR' present,526,mutational accumulation drives pathway dysregulation to predict glioma patient survival,I
+Brain Cancer,EGFR,35119589,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,552,predicting egfr mutation status by a deep learning approach in patients with non-small cell lung cancer brain metastases,M
+Brain Cancer,EGFR,33439315,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,555,radiomics signature of brain metastasis prediction of egfr mutation status,M
+Brain Cancer,EGFR,38773634,targeted,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,587,mr-based radiomics predictive modelling of egfr mutation and her2 overexpression in metastatic brain adenocarcinoma a two-centre study,M
+Brain Cancer,EGFR,15851741,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,604,egfr tyrosine kinase domain mutations in human gliomas,M
+Brain Cancer,EGFR,18422739,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,647,exon 19 of egfr mutation in relation to the ca-repeat polymorphism in intron 1,M
+Brain Cancer,EGFR,33283409,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,648,the epidermal growth factor receptor variant type iii mutation frequently found in gliomas induces astrogenesis in human cerebral organoids,M
+Brain Cancer,EGFR,32075402,targeted,epidermal_growth_factor_receptor,X,M,,credited via 'epidermal growth factor receptor' inside HER2's name,663,advanced lung adenocarcinoma with coexistent her2 mutation and amplification and response to afatinib a case report,M
+Brain Cancer,EGFR,21378543,targeted,epidermal_growth_factor_receptor,C,G,,credited via alias epidermal_growth_factor_receptor,669,supratentorial primitive neuroectodermal tumors of the central nervous system in adults molecular and histopathologic analysis of 12 cases,G
+Brain Cancer,EGFR,34781171,random,egfr,C,M,,symbol 'EGFR' present,677,mutational profiles of primary pulmonary adenocarcinoma and paired brain metastases disclose the importance of kras mutations,M
+Brain Cancer,EGFR,26639246,random,egfr,C,M,target,symbol 'EGFR' present,734,radiotherapy effects on brain bone metastatic adenocarcinoma lung cancer and the importance of egfr mutation test,M
+Brain Cancer,EGFR,40457320,random,egfr,C,G,,symbol 'EGFR' present,743,rapid diagnosis of adult-type diffuse glioma using a layered scheme,G
+Brain Cancer,EGFR,41151358,random,egfr,C,M,,symbol 'EGFR' present,774,pattern of brain metastases and survival in lung adenocarcinoma with kras or efgr mutation,M
+Brain Cancer,EGFR,28521651,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,783,miliary metastases are associated with epidermal growth factor receptor mutations in non-small cell lung cancer a population-based study,M
+Brain Cancer,EGFR,29301782,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,810,diffusion-weighted imaging of brain metastasis from lung cancer correlation of mri parameters with the histologic type and gene mutation sta,M
+Brain Cancer,EGFR,20595147,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,865,brain metastases from lung cancer responding to erlotinib the importance of egfr mutation,M
+Brain Cancer,EGFR,39684714,random,egfr,C,I,,symbol 'EGFR' present,868,genomic profiling in glioma patients to explore clinically relevant markers,I
+Brain Cancer,EGFR,37144750,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,891,brain-tumor interface-based mri radiomics models to determine egfr mutation response to egfr-tki and t790m resistance mutation in non-small ,M
+Brain Cancer,EGFR,30771009,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,895,current treatment options for breast cancer brain metastases,M
+Brain Cancer,EGFR,34148105,random,egfr,C,G,,symbol 'EGFR' present,902,tert promoter mutation status is necessary and sufficient to diagnose idh-wildtype diffuse astrocytic glioma with molecular features of glio,G
+Brain Cancer,EGFR,34352809,random,egfr,C,M,,symbol 'EGFR' present,903,histone h3 3 g34-mutant diffuse gliomas in adults,M
+Brain Cancer,EGFR,29016808,random,egfr|epidermal_growth_factor_receptor,C,G,,symbol 'EGFR' present,935,molecular differences in idh wildtype glioblastoma according to mgmt promoter methylation,G
+Brain Cancer,EGFR,16186508,targeted,epidermal_growth_factor_receptor,C,M,,credited via alias epidermal_growth_factor_receptor,976,sequence survey of receptor tyrosine kinases reveals mutations in glioblastomas,M
+Brain Cancer,EGFR,31623593,random,egfr,C,G,,symbol 'EGFR' present,991,clinical insights gained by refining the 2016 who classification of diffuse gliomas with egfr amplification tert mutations pten deletion and,G
+Brain Cancer,EGFR,36414827,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,998,overall survival analysis of patients enrolled in a randomized phase iii trial comparing gefitinib and erlotinib for previously treated adva,M
+Brain Cancer,TERT,35864624,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,29,telomerase reverse transcriptase promoter mutations in a cohort of adult gliomas - clinicopathological correlates,M
+Brain Cancer,TERT,30861589,random,tert,C,M,,symbol 'TERT' present,36,whole-exome sequencing revealed mutational profiles of giant cell glioblastomas,M
+Brain Cancer,TERT,31833906,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,45,clinico-neuropathological features of isocitrate dehydrogenase 2 gene mutations in lower-grade gliomas,M
+Brain Cancer,TERT,33967180,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,56,craniopharyngiomas including recurrent cases lack tert promoter hotspot mutations,M
+Brain Cancer,TERT,29650441,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,67,clinical implications of tert promoter mutation on idh mutation and mgmt promoter methylation in diffuse gliomas,M
+Brain Cancer,TERT,30333046,random,tert,C,M,,symbol 'TERT' present,84,tert promoter wild-type glioblastomas show distinct clinical features and frequent pi3k pathway mutations,M
+Brain Cancer,TERT,33899270,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,94,distinct tert promoter c228t and c250t mutations in a patient with an oligodendroglioma a case report,M
+Brain Cancer,TERT,31960234,random,tert,C,M,,symbol 'TERT' present,114,alternative lengthening of telomeres is the major telomere maintenance mechanism in astrocytoma with isocitrate dehydrogenase 1 mutation,M
+Brain Cancer,TERT,32785787,random,tert,C,ML,,symbol 'TERT' present,153,comparative molecular analysis of primary and recurrent oligodendroglioma that acquired imbalanced 1p 19q codeletion and tp53 mutation a cas,ML
+Brain Cancer,TERT,25681309,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,155,prognostic quality of activating tert promoter mutations in glioblastoma interaction with the rs2853669 polymorphism and patient age at diag,M
+Brain Cancer,TERT,27302309,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,160,concurrent tert promoter and braf v600e mutation in epithelioid glioblastoma and concomitant low-grade astrocytoma,M
+Brain Cancer,TERT,24937153,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,180,tert promoter mutations lead to high transcriptional activity under hypoxia and temozolomide treatment and predict poor prognosis in gliomas,M
+Brain Cancer,TERT,33940787,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,225,detection of tert promoter mutations using targeted next-generation sequencing overcoming gc bias through trial and error,M
+Brain Cancer,TERT,25694352,random,tert,C,ML,,symbol 'TERT' present,232,tumor-specific mutations in low-frequency genes affect their functional properties,ML
+Brain Cancer,TERT,27230769,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,242,brain regions associated with telomerase reverse transcriptase promoter mutations in primary glioblastomas,M
+Brain Cancer,TERT,26741813,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,267,the sensitive detection of telomerase reverse transcriptase promoter mutation by amplification refractory mutation system-pcr,M
+Brain Cancer,TERT,23764841,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,271,upregulating mutations in the tert promoter commonly occur in adult malignant gliomas and are strongly associated with total 1p19q loss,M
+Brain Cancer,TERT,30558073,targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,309,idh mutations but not tertp mutations are associated with seizures in lower-grade gliomas,M
+Brain Cancer,TERT,36571926,random+targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,320,telomerase reverse transcriptase promoter mutation and histologic grade in idh wild-type histological lower-grade gliomas the value of perfu,M
+Brain Cancer,TERT,39152999,random+targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,374,diffusion-weighted mri precisely predicts telomerase reverse transcriptase promoter mutation status in world health organization grade iv gl,M
+Brain Cancer,TERT,36999511,random,tert,C,M,,symbol 'TERT' present,381,update on quality assurance in neuropathology summary of the round robin trials on tert promoter mutation h3-3a mutation 1p 19q codeletion a,M
+Brain Cancer,TERT,31664773,random+targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,481,identification of idh and tertp mutation status using 1 h-mrs in 112 hemispheric diffuse gliomas,M
+Brain Cancer,TERT,26351078,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,482,association of telomerase reverse transcriptase promoter mutations with the prognosis of glioma patients a meta-analysis,M
+Brain Cancer,TERT,41742683,random,tert,C,ML,,symbol 'TERT' present,521,clinical and genetic landscape of glioblastoma idh-wildtype with fgfr gene family alterations,ML
+Brain Cancer,TERT,34587990,random,tert,C,M,,symbol 'TERT' present,528,synchronous supratentorial and infratentorial oligodendrogliomas with incongruous idh1 mutations a case report,M
+Brain Cancer,TERT,39874812,random+targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,553,detecting idh and tertp mutations in diffuse gliomas using 1 h-mrs with attention deep-shallow networks,M
+Brain Cancer,TERT,32509858,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,554,noninvasive prediction of tert promoter mutations in high-grade glioma by radiomics analysis based on multiparameter mri,M
+Brain Cancer,TERT,37978079,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,575,multiparametric mri-based fusion radiomics for predicting telomerase reverse transcriptase tert promoter mutations and progression-free surv,M
+Brain Cancer,TERT,28894890,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,598,new prognostic factor telomerase reverse transcriptase promotor mutation presents without mr imaging biomarkers in primary glioblastoma,M
+Brain Cancer,TERT,40560330,random,tert,C,M,,symbol 'TERT' present,600,molecular and clinical determinants of response to checkpoint inhibitor immunotherapy in glioblastoma,M
+Brain Cancer,TERT,38134061,random+targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,670,multimodal mri-based radiomic nomogram for predicting telomerase reverse transcriptase promoter mutation in idh-wildtype histological lower-,M
+Brain Cancer,TERT,39804195,random,tert,C,M,,symbol 'TERT' present,676,tertp mutation and its prognostic value in glioma patients under the 2021 who classification a real-world study,M
+Brain Cancer,TERT,33051308,random,tert,C,M,,symbol 'TERT' present,717,tert promoter mutation analysis for blood-based diagnosis and monitoring of gliomas,M
+Brain Cancer,TERT,26765760,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,735,tert mutation in glioma frequency prognosis and risk,M
+Brain Cancer,TERT,35416795,random,tert,C,M,,symbol 'TERT' present,761,diffuse midline gliomas with histone h3 k27m mutation in adults and children a retrospective series of 164 cases,M
+Brain Cancer,TERT,27694758,targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,797,study of htert and histone 3 mutations in medulloblastoma,M
+Brain Cancer,TERT,40851364,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,803,rapid intraoperative genetic analysis of adult-type diffuse gliomas using a microfluidic real-time polymerase chain reaction device,M
+Brain Cancer,TERT,35018490,random,tert,C,G,,symbol 'TERT' present,834,frequent fgfr1 hotspot alterations in driver-unknown low-grade glioma and mixed neuronal-glial tumors,G
+Brain Cancer,TERT,39208202,random,tert,C,I,,symbol 'TERT' present,911,comparative genomic landscape of lower-grade glioma and glioblastoma,I
+Brain Cancer,TERT,33417137,random,tert,C,M,,symbol 'TERT' present,925,molecular diagnosis of diffuse glioma using a chip-based digital pcr system to analyze idh tert and h3 mutations in the cerebrospinal fluid,M
+Brain Cancer,TERT,38134710,random+targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,939,identification of idh and tertp mutations using dynamic susceptibility contrast mri with deep learning in 162 gliomas,M
+Brain Cancer,TERT,36617452,random,tert,C,M,,symbol 'TERT' present,953,the clinicopathological features and prognosis of multifocal high-grade gliomas in adults with h3f3a mutation,M
+Brain Cancer,IDH2,24889502,random,idh2,C,M,,symbol 'IDH2' present,13,a new sensitive pcr assay for one-step detection of 12 idh1 2 mutations in glioma,M
+Brain Cancer,IDH2,31833906,random,idh2,C,M,,symbol 'IDH2' present,45,clinico-neuropathological features of isocitrate dehydrogenase 2 gene mutations in lower-grade gliomas,M
+Brain Cancer,IDH2,22072542,random,idh2,C,ML,,symbol 'IDH2' present,68,concurrent cic mutations idh mutations and 1p 19q loss distinguish oligodendrogliomas from other cancers,ML
+Brain Cancer,IDH2,24748374,random,idh2,C,M,,symbol 'IDH2' present,78,development of a robust and sensitive pyrosequencing assay for the detection of idh1 2 mutations in gliomas,M
+Brain Cancer,IDH2,38653957,random,idh2,C,M,,symbol 'IDH2' present,92,genomic landscape of glioblastoma without idh somatic mutation in 42 cases a comprehensive analysis using rna sequencing data,M
+Brain Cancer,IDH2,24868540,random,idh2,C,M,,symbol 'IDH2' present,99,idh1 idh2 but not tp53 mutations predict prognosis in bulgarian glioblastoma patients,M
+Brain Cancer,IDH2,35996504,random,idh2,C,M,,symbol 'IDH2' present,105,isocitrate dehydrogenase idh1 and idh2 mutations in human cancer prognostic implications for gliomas,M
+Brain Cancer,IDH2,27780605,random,idh2,C,M,,symbol 'IDH2' present,110,idh1 2 gene hotspot mutations in central nervous system tumours analysis of 922 chinese patients,M
+Brain Cancer,IDH2,28986151,random,idh2,C,ML,,symbol 'IDH2' present,129,braf v600e mutation is a significant prognosticator of the tumour regrowth rate in brainstem gangliogliomas,ML
+Brain Cancer,IDH2,20603105,random,idh2,C,M,,symbol 'IDH2' present,132,idh1 r132 mutation identified in one human melanoma metastasis but not correlated with metastases to the brain,M
+Brain Cancer,IDH2,22136423,random,idh2,C,M,,symbol 'IDH2' present,137,significance of idh mutations varies with tumor histology grade and genetics in japanese glioma patients,M
+Brain Cancer,IDH2,20131059,random,idh2,C,M,,symbol 'IDH2' present,142,rapid and sensitive assessment of the idh1 and idh2 mutation status in cerebral gliomas based on dna pyrosequencing,M
+Brain Cancer,IDH2,22217666,random,idh2,C,M,,symbol 'IDH2' present,184,idh1 2 mutations in who grade ii astrocytomas associated with localization and seizure as the initial symptom,M
+Brain Cancer,IDH2,29031038,random,idh2,C,ML,,symbol 'IDH2' present,199,isocitrate dehydrogenase mutations are better prognostic marker than o6-methylguanine-dna methyltransferase promoter methylation in glioblas,ML
+Brain Cancer,IDH2,19554337,random,idh2,C,M,,symbol 'IDH2' present,226,type and frequency of idh1 and idh2 mutations are related to astrocytic and oligodendroglial differentiation and age a study of 1 010 diffus,M
+Brain Cancer,IDH2,24344754,random,idh2,C,M,,symbol 'IDH2' present,250,idh2 and tp53 mutations are correlated with gliomagenesis in a patient with maffucci syndrome,M
+Brain Cancer,IDH2,21643985,random,idh2,C,M,,symbol 'IDH2' present,264,idh mutation status impact on in vivo hypoxia biomarkers expression new insights from a clinical nuclear imaging and immunohistochemical stu,M
+Brain Cancer,IDH2,23681562,random,idh2,C,M,,symbol 'IDH2' present,275,combining two biomarkers idh1 2 mutations and 1p 19q codeletion to stratify anaplastic oligodendroglioma in three groups a single-center exp,M
+Brain Cancer,IDH2,32068851,random,idh2,C,I,,symbol 'IDH2' present,284,tert promoter mutation analysis to distinguish glioma from gliosis,I
+Brain Cancer,IDH2,38653782,random,idh2,C,M,,symbol 'IDH2' present,317,clinical and imaging characteristics of supratentorial glioma with idh2 mutation,M
+Brain Cancer,IDH2,30113684,random,idh2,C,ML,,symbol 'IDH2' present,325,loss of bcat1 expression is a sensitive marker for idh-mutant diffuse glioma,ML
+Brain Cancer,IDH2,30299371,random,idh2,C,M,,symbol 'IDH2' present,336,detection of idh1 and idh2 mutation in formalin-fixed paraffin-embedded gliomas using allele-specific cold-pcr and probe melting curve analy,M
+Brain Cancer,IDH2,28782849,random,idh2,C,M,,symbol 'IDH2' present,337,diffuse glioma - rare homozygous idh point mutation is it an oncogenetic mechanism,M
+Brain Cancer,IDH2,27268645,random,idh2,C,M,,symbol 'IDH2' present,353,prevalence of idh1 2 mutations in different subtypes of glioma in the north-east population of morocco,M
+Brain Cancer,IDH2,35713454,random,idh2,C,ML,,symbol 'IDH2' present,354,diffuse midline glioma with h3-k27m mutation a rare case with gfap-positive anucleate whorled patterns,ML
+Brain Cancer,IDH2,23111198,random,idh2,C,M,,symbol 'IDH2' present,363,pyrosequencing of idh1 and idh2 mutations in brain tumors and non-neoplastic conditions,M
+Brain Cancer,IDH2,31804140,random,idh2,C,ML,,symbol 'IDH2' present,431,o 6 -methylguanine-dna methyltransferase promoter methylation and isocitrate dehydrogenase mutation as prognostic factors in a cohort of sau,ML
+Brain Cancer,IDH2,31664773,random,idh2,C,M,,symbol 'IDH2' present,481,identification of idh and tertp mutation status using 1 h-mrs in 112 hemispheric diffuse gliomas,M
+Brain Cancer,IDH2,35902443,random,idh2,C,M,,symbol 'IDH2' present,519,clinical application of a highly sensitive digital pcr assay to detect a small fraction of idh1 r132h-mutant alleles in diffuse gliomas,M
+Brain Cancer,IDH2,32296936,random,idh2,C,M,,symbol 'IDH2' present,529,rare occurrence of idh2 mutation in adolescent oligodendroglioma with 1p 19q co-deletion a case report,M
+Brain Cancer,IDH2,26354927,random,idh2,C,ML,,symbol 'IDH2' present,624,molecular classification of anaplastic oligodendroglioma using next-generation sequencing a report of the prospective randomized eortc brain,ML
+Brain Cancer,IDH2,21378543,random,idh2,C,M,,symbol 'IDH2' present,669,supratentorial primitive neuroectodermal tumors of the central nervous system in adults molecular and histopathologic analysis of 12 cases,M
+Brain Cancer,IDH2,31623667,random,idh2,C,P,,symbol 'IDH2' present,754,the prognostic role of idh mutations in homogeneously treated patients with anaplastic astrocytomas and glioblastomas,P
+Brain Cancer,IDH2,32888020,random,idh2,C,M,,symbol 'IDH2' present,756,survival in patients with glioblastoma at a first progression does not correlate with isocitrate dehydrogenase idh 1 gene mutation status,M
+Brain Cancer,IDH2,26404554,random,idh2,C,I,,symbol 'IDH2' present,782,malignant transformation of diffuse astrocytoma to glioblastoma associated with newly developed braf v600e mutation,I
+Brain Cancer,IDH2,32563269,random,idh2,C,M,,symbol 'IDH2' present,785,a novel cas9-targeted long-read assay for simultaneous detection of idh1 2 mutations and clinically relevant mgmt methylation in fresh biops,M
+Brain Cancer,IDH2,19933982,random,idh2,C,M,,symbol 'IDH2' present,787,idh1 mutations in low-grade astrocytomas predict survival but not response to temozolomide,M
+Brain Cancer,IDH2,27460417,random,idh2,C,M,,symbol 'IDH2' present,867,identification of a novel inactivating mutation in isocitrate dehydrogenase 1 idh1-r314c in a high grade astrocytoma,M
+Brain Cancer,IDH2,21913188,random,idh2,C,M,,symbol 'IDH2' present,947,2-hydroxyglutarate concentration in serum from patients with gliomas does not correlate with idh1 2 mutation status or tumor size,M
+Brain Cancer,IDH2,22076165,random,idh2,C,M,,symbol 'IDH2' present,979,glioblastoma with pnet-like components has a higher frequency of isocitrate dehydrogenase 1 idh1 mutation and likely a better prognosis than,M
+Brain Cancer,BRAF,27579614,random,braf,C,ML,,symbol 'BRAF' present,10,gbm-associated mutations and altered protein expression are more common in young patients,ML
+Brain Cancer,BRAF,21239505,random,braf,C,I,,symbol 'BRAF' present,14,kras mutation is associated with lung metastasis in patients with curatively resected colorectal cancer,I
+Brain Cancer,BRAF,27984673,random,braf,C,M,,symbol 'BRAF' present,23,co-occurrence of histone h3 k27m and braf v600e mutations in paediatric midline grade i ganglioglioma,M
+Brain Cancer,BRAF,33967180,random,braf,C,M,,symbol 'BRAF' present,56,craniopharyngiomas including recurrent cases lack tert promoter hotspot mutations,M
+Brain Cancer,BRAF,34525976,random,braf,C,I,,symbol 'BRAF' present,61,infrequent ras mutation is not associated with specific histological phenotype in gliomas,I
+Brain Cancer,BRAF,40968574,random,braf,C,M,,symbol 'BRAF' present,62,coexistence of idh1 mutation and kiaa1549 braf fusion in a diffuse glioma a case report with clinical radiological and pathological correlat,M
+Brain Cancer,BRAF,34672256,random,braf,C,M,,symbol 'BRAF' present,124,the efficacy of immunohistochemistry in the diagnosis of molecular genetic alterations in central nervous system gliomas next-generation seq,M
+Brain Cancer,BRAF,38219188,random,braf,C,M,,symbol 'BRAF' present,125,prognostic value of braf mutation in glioblastoma,M
+Brain Cancer,BRAF,29809131,random,braf,C,ML,,symbol 'BRAF' present,162,cerebellar high-grade gliomas do not present the same molecular alterations as supratentorial high-grade gliomas and may show histone h3 gen,ML
+Brain Cancer,BRAF,24857351,random,braf,C,M,,symbol 'BRAF' present,172,new idh1 i113t mutation associated with braf v600e mutation new driver of gliomagenesis,M
+Brain Cancer,BRAF,26454767,random,braf,C,M,,symbol 'BRAF' present,174,braf mutation and anaplasia may be predictive factors of progression-free survival in adult pleomorphic xanthoastrocytoma,M
+Brain Cancer,BRAF,25165098,random,braf,C,M,,symbol 'BRAF' present,189,complete loss of pten protein expression correlates with shorter time to brain metastasis and survival in stage iiib c melanoma patients wit,M
+Brain Cancer,BRAF,21274720,random,braf,C,M,,symbol 'BRAF' present,205,analysis of braf v600e mutation in 1 320 nervous system tumors reveals high mutation frequencies in pleomorphic xanthoastrocytoma gangliogli,M
+Brain Cancer,BRAF,31345255,random,braf,C,M,,symbol 'BRAF' present,206,dramatic response of braf v600e-mutant epithelioid glioblastoma to combination therapy with braf and mek inhibitor establishment and xenogra,M
+Brain Cancer,BRAF,26164066,random,braf,C,ML,,symbol 'BRAF' present,235,spectrum of gene mutations detected by next generation exome sequencing in brain metastases of lung adenocarcinoma,ML
+Brain Cancer,BRAF,24452629,random,braf,C,ML,,symbol 'BRAF' present,301,mutually exclusive mutations of kit and ras are associated with kit mrna expression and chromosomal instability in primary intracranial pure,ML
+Brain Cancer,BRAF,26994902,random,braf,C,M,,symbol 'BRAF' present,310,disseminated glioneuronal tumors occurring in childhood treatment outcomes and braf alterations including v600e mutation,M
+Brain Cancer,BRAF,35713454,random,braf,C,ML,,symbol 'BRAF' present,354,diffuse midline glioma with h3-k27m mutation a rare case with gfap-positive anucleate whorled patterns,ML
+Brain Cancer,BRAF,28721890,random,braf,C,M,,symbol 'BRAF' present,394,the prognostic value of braf c-kit and nras mutations in melanoma patients with brain metastases,M
+Brain Cancer,BRAF,27792249,random,braf,C,M,,symbol 'BRAF' present,435,a comprehensive analysis identifies braf hotspot mutations associated with gliomas with peculiar epithelial morphology,M
+Brain Cancer,BRAF,26517431,random,braf,C,ML,,symbol 'BRAF' present,439,diffuse midline gliomas with histone h3-k27m mutation a series of 47 cases assessing the spectrum of morphologic variation and associated ge,ML
+Brain Cancer,BRAF,37583001,random,braf,C,ML,,symbol 'BRAF' present,450,loss of satb2 and cdx2 expression is associated with dna mismatch repair protein deficiency and braf mutation in colorectal cancer,ML
+Brain Cancer,BRAF,30240866,random,braf,C,M,,symbol 'BRAF' present,461,braf v600e tert and idh2 mutations in pleomorphic xanthoastrocytoma observations from a large case-series study,M
+Brain Cancer,BRAF,29880043,random,braf,C,M,,symbol 'BRAF' present,517,the genetic landscape of ganglioglioma,M
+Brain Cancer,BRAF,27984807,random,braf,C,M,,symbol 'BRAF' present,531,braf v600e mutation in epilepsy-associated glioneuronal tumors prevalence and correlation with clinical features in a chinese population,M
+Brain Cancer,BRAF,28500561,random,braf,C,M,,symbol 'BRAF' present,620,study of -catenin and braf alterations in adamantinomatous and papillary craniopharyngiomas mutation analysis with immunohistochemical corre,M
+Brain Cancer,BRAF,26354927,random,braf,C,G,,symbol 'BRAF' present,624,molecular classification of anaplastic oligodendroglioma using next-generation sequencing a report of the prospective randomized eortc brain,G
+Brain Cancer,BRAF,22591444,random,braf,C,M,,symbol 'BRAF' present,687,kiaa1549-braf fusions and idh mutations can coexist in diffuse gliomas of adults,M
+Brain Cancer,BRAF,25934342,random,braf,C,M,,symbol 'BRAF' present,729,adult brainstem gliomas correlation of clinical and molecular features,M
+Brain Cancer,BRAF,24888229,random,braf,C,M,,symbol 'BRAF' present,741,braf v600e-mutated lung adenocarcinoma with metastases to the brain responding to treatment with vemurafenib,M
+Brain Cancer,BRAF,30203362,random,braf,C,M,,symbol 'BRAF' present,759,cerebellar glioblastoma a clinical series with contemporary molecular analysis,M
+Brain Cancer,BRAF,35416795,random,braf,C,G,,symbol 'BRAF' present,761,diffuse midline gliomas with histone h3 k27m mutation in adults and children a retrospective series of 164 cases,G
+Brain Cancer,BRAF,28620782,random,braf,C,M,,symbol 'BRAF' present,781,role of key genetic mutations on increasing migration of brain cancer cells through confinement,M
+Brain Cancer,BRAF,35018490,random,braf,C,G,,symbol 'BRAF' present,834,frequent fgfr1 hotspot alterations in driver-unknown low-grade glioma and mixed neuronal-glial tumors,G
+Brain Cancer,BRAF,24470550,random,braf,C,M,,symbol 'BRAF' present,878,adult pilocytic astrocytomas clinical features and molecular analysis,M
+Brain Cancer,BRAF,21638088,random,braf,C,M,,symbol 'BRAF' present,905,assessment of braf v600e mutation status by immunohistochemistry with a mutation-specific monoclonal antibody,M
+Brain Cancer,BRAF,25066317,random,braf,C,M,,symbol 'BRAF' present,908,v600e braf mutation in pilocytic astrocytoma is associated with a more diffuse growth pattern but does not confer a more aggressive clinical,M
+Brain Cancer,BRAF,28667867,random,braf,C,M,,symbol 'BRAF' present,944,autophagy-related protein expression was associated with braf v600e mutation in epilepsy associated glioneuronal tumors,M
+Brain Cancer,BRAF,41807027,random,braf,C,M,,symbol 'BRAF' present,957,high-grade astrocytoma with piloid features an aggressive clinicogenomic entity distinct from pilocytic astrocytoma,M
+Brain Cancer,BRAF,28608265,random,braf,C,P,,symbol 'BRAF' present,958,constitutional mismatch repair deficiency and lynch syndrome among consecutive arab bedouins with colorectal cancer in israel,P
+Brain Cancer,KRAS,24139827,all,kras,C,M,,symbol 'KRAS' present,5,clinical outcome with platinum-based chemotherapy in patients with advanced nonsquamous egfr wild-type non-small-cell lung cancer segregated,M
+Brain Cancer,KRAS,21239505,all,kras,C,M,,symbol 'KRAS' present,14,kras mutation is associated with lung metastasis in patients with curatively resected colorectal cancer,M
+Brain Cancer,KRAS,37240418,all,kras,C,M,target,symbol 'KRAS' present,42,clinical characterization of targetable mutations braf v600e and kras g12c in advanced colorectal cancer-a nation-wide study,M
+Brain Cancer,KRAS,34525976,all,kras,C,M,,symbol 'KRAS' present,61,infrequent ras mutation is not associated with specific histological phenotype in gliomas,M
+Brain Cancer,KRAS,42283096,all,kras,C,M,,symbol 'KRAS' present,66,kras nras braf mutations and mismatch repair deficiency in patients with early-onset colorectal cancer a clinicopathological analysis,M
+Brain Cancer,KRAS,22982650,all,kras,C,M,target,symbol 'KRAS' present,80,impact of systematic egfr and kras mutation evaluation on progression-free survival and overall survival in patients with advanced non-small,M
+Brain Cancer,KRAS,22587896,all,kras,C,I,,symbol 'KRAS' present,106,temperature-tolerant cold-pcr reduces temperature stringency and enables robust mutation enrichment,I
+Brain Cancer,KRAS,26177347,all,kras,C,M,,symbol 'KRAS' present,113,impact of kras mutation on response and outcome of patients with stage iii non-squamous non-small cell lung cancer,M
+Brain Cancer,KRAS,39013258,all,kras,C,M,,symbol 'KRAS' present,126,clinicopathological significance of mutation profile detected by next generation sequencing in different metastatic organs of non-small cell,M
+Brain Cancer,KRAS,31209806,all,kras,C,M,,symbol 'KRAS' present,157,kras exon 3 and pten exon 7 mutations in small-cell lung cancer,M
+Brain Cancer,KRAS,21729655,all,kras,C,M,,symbol 'KRAS' present,196,egfr mutation status in primary lung adenocarcinomas and corresponding metastatic lesions discordance in pleural metastases,M
+Brain Cancer,KRAS,23729630,all,kras,C,M,,symbol 'KRAS' present,209,new monoallelic combination of kras gene mutations in codons 12 and 13 in the lung adenocarcinoma,M
+Brain Cancer,KRAS,36172682,all,kras,C,M,,symbol 'KRAS' present,211,kras mutation in pediatric intracranial germ cell tumors,M
+Brain Cancer,KRAS,26164066,all,kras,C,M,,symbol 'KRAS' present,235,spectrum of gene mutations detected by next generation exome sequencing in brain metastases of lung adenocarcinoma,M
+Brain Cancer,KRAS,26260912,all,kras,C,M,,symbol 'KRAS' present,255,colorectal cancer metastatic to the brain analysis of prognostic factors and impact of kras mutations on presentation and outcome,M
+Brain Cancer,KRAS,29546640,all,kras,C,ML,,symbol 'KRAS' present,272,molecular defects in braf wild-type ameloblastomas and craniopharyngiomas-differences in mutation profiles in epithelial-derived oropharynge,ML
+Brain Cancer,KRAS,24452629,all,kras,C,ML,,symbol 'KRAS' present,301,mutually exclusive mutations of kit and ras are associated with kit mrna expression and chromosomal instability in primary intracranial pure,ML
+Brain Cancer,KRAS,29723602,all,kras,C,M,,symbol 'KRAS' present,313,non-small cell lung cancers with isocitrate dehydrogenase 1 or 2 idh1 2 mutations,M
+Brain Cancer,KRAS,25491172,all,kras,C,M,,symbol 'KRAS' present,332,ras mutations affect pattern of metastatic spread and increase propensity for brain metastasis in colorectal cancer,M
+Brain Cancer,KRAS,20156809,all,kras,C,ML,,symbol 'KRAS' present,372,activating mutations in braf characterize a spectrum of pediatric low-grade gliomas,ML
+Brain Cancer,KRAS,34087798,all,kras,C,M,,symbol 'KRAS' present,412,mutation status and postresection survival of patients with non-small cell lung cancer brain metastasis implications of biomarker-driven the,M
+Brain Cancer,KRAS,37583001,all,kras,C,ML,,symbol 'KRAS' present,450,loss of satb2 and cdx2 expression is associated with dna mismatch repair protein deficiency and braf mutation in colorectal cancer,ML
+Brain Cancer,KRAS,41793689,all,kras,C,ML,,symbol 'KRAS' present,460,genomic analysis and clinical correlation of non-small cell lung cancer with special reference to brain metastasis,ML
+Brain Cancer,KRAS,34518623,all,kras,C,M,,symbol 'KRAS' present,466,impact of kras mutation status on the efficacy of immunotherapy in lung cancer brain metastases,M
+Brain Cancer,KRAS,24714777,all,kras,C,ML,,symbol 'KRAS' present,477,targetable signaling pathway mutations are associated with malignant phenotype in idh-mutant gliomas,ML
+Brain Cancer,KRAS,27999344,all,kras,C,M,,symbol 'KRAS' present,498,egfr and kras mutations predict the incidence and outcome of brain metastases in non-small cell lung cancer,M
+Brain Cancer,KRAS,29880043,all,kras,C,ML,,symbol 'KRAS' present,517,the genetic landscape of ganglioglioma,ML
+Brain Cancer,KRAS,25036404,all,kras,C,M,,symbol 'KRAS' present,524,the impact of tp53 and ras mutations on cerebellar glioblastomas,M
+Brain Cancer,KRAS,32072746,all,kras,C,M,,symbol 'KRAS' present,543,response rate of patients with baseline brain metastases from recently diagnosed non-small cell lung cancer receiving radiotherapy according,M
+Brain Cancer,KRAS,17712732,all,kras,C,M,,symbol 'KRAS' present,561,further evidence for a somatic kras mutation in a pilocytic astrocytoma,M
+Brain Cancer,KRAS,37713468,all,kras,C,I,,symbol 'KRAS' present,665,glioma genetic profiles associated with electrophysiologic hyperexcitability,I
+Brain Cancer,KRAS,39804195,all,kras,C,I,,symbol 'KRAS' present,676,tertp mutation and its prognostic value in glioma patients under the 2021 who classification a real-world study,I
+Brain Cancer,KRAS,34781171,all,kras,C,M,target,symbol 'KRAS' present,677,mutational profiles of primary pulmonary adenocarcinoma and paired brain metastases disclose the importance of kras mutations,M
+Brain Cancer,KRAS,23897899,all,kras,C,M,,symbol 'KRAS' present,702,a clinical model for identifying radiosensitive tumor genotypes in non-small cell lung cancer,M
+Brain Cancer,KRAS,38377774,all,kras,C,M,,symbol 'KRAS' present,710,sotorasib in kras g12c-mutated non-small cell lung cancer a multicenter real-world experience from the compassionate use program in germany,M
+Brain Cancer,KRAS,41151358,all,kras,C,M,,symbol 'KRAS' present,774,pattern of brain metastases and survival in lung adenocarcinoma with kras or efgr mutation,M
+Brain Cancer,KRAS,33510214,all,kras,C,M,,symbol 'KRAS' present,843,development and characterization of patient-derived xenografts from non-small cell lung cancer brain metastases,M
+Brain Cancer,KRAS,17588166,all,kras,C,ML,,symbol 'KRAS' present,846,ras raf pathway activation in gliomas the result of copy number gains rather than activating mutations,ML
+Brain Cancer,KRAS,26520640,all,kras,C,ML,,symbol 'KRAS' present,943,survival but not brain metastasis response relates to lung cancer mutation status after radiosurgery,ML
+Brain Cancer,KRAS,41807027,all,kras,C,M,,symbol 'KRAS' present,957,high-grade astrocytoma with piloid features an aggressive clinicogenomic entity distinct from pilocytic astrocytoma,M
+Brain Cancer,KRAS,30412573,all,kras,C,M,,symbol 'KRAS' present,978,analysis of 7 815 cancer exomes reveals associations between mutational processes and somatic driver mutations,M
+Brain Cancer,KRAS,32179095,all,kras,C,M,,symbol 'KRAS' present,986,radiomic prediction of mutation status based on mr imaging of lung cancer brain metastases,M
+Brain Cancer,KRAS,25224251,all,kras,C,M,,symbol 'KRAS' present,1000,alterations of lkb1 and kras and risk of brain metastasis comprehensive characterization by mutation analysis copy number and gene expressio,M
+Brain Cancer,ATRX,27579614,all,atrx,C,ML,,symbol 'ATRX' present,10,gbm-associated mutations and altered protein expression are more common in young patients,ML
+Brain Cancer,ATRX,26395639,all,atrx,C,M,,symbol 'ATRX' present,22,atrx loss in adult supratentorial diffuse astrocytomas correlates with p53 over expression and idh1 mutation and predicts better outcome in ,M
+Brain Cancer,ATRX,34205437,all,atrx,C,M,,symbol 'ATRX' present,27,transcriptomic landscape of lower grade glioma based on age-related non-silent somatic mutations,M
+Brain Cancer,ATRX,35864624,all,atrx,C,M,,symbol 'ATRX' present,29,telomerase reverse transcriptase promoter mutations in a cohort of adult gliomas - clinicopathological correlates,M
+Brain Cancer,ATRX,22886134,all,atrx,C,M,,symbol 'ATRX' present,35,frequent atrx mutations and loss of expression in adult diffuse astrocytic tumors carrying idh1 idh2 and tp53 mutations,M
+Brain Cancer,ATRX,30861589,all,atrx,C,ML,,symbol 'ATRX' present,36,whole-exome sequencing revealed mutational profiles of giant cell glioblastomas,ML
+Brain Cancer,ATRX,33642283,all,atrx,C,M,,symbol 'ATRX' present,43,tert promoter mutation in adult glioblastomas it's correlation with other relevant molecular markers,M
+Brain Cancer,ATRX,22661320,all,atrx,C,M,,symbol 'ATRX' present,52,k27m mutation in histone h3 3 defines clinically and biologically distinct subgroups of pediatric diffuse intrinsic pontine gliomas,M
+Brain Cancer,ATRX,40968574,all,atrx,C,P,,symbol 'ATRX' present,62,coexistence of idh1 mutation and kiaa1549 braf fusion in a diffuse glioma a case report with clinical radiological and pathological correlat,P
+Brain Cancer,ATRX,30333046,all,atrx,C,W,,symbol 'ATRX' present,84,tert promoter wild-type glioblastomas show distinct clinical features and frequent pi3k pathway mutations,W
+Brain Cancer,ATRX,32111869,all,atrx,C,M,,symbol 'ATRX' present,98,prediction of molecular mutations in diffuse low-grade gliomas using mr imaging features,M
+Brain Cancer,ATRX,31960234,all,atrx,C,M,,symbol 'ATRX' present,114,alternative lengthening of telomeres is the major telomere maintenance mechanism in astrocytoma with isocitrate dehydrogenase 1 mutation,M
+Brain Cancer,ATRX,34672256,all,atrx,C,M,,symbol 'ATRX' present,124,the efficacy of immunohistochemistry in the diagnosis of molecular genetic alterations in central nervous system gliomas next-generation seq,M
+Brain Cancer,ATRX,29809131,all,atrx,C,M,,symbol 'ATRX' present,162,cerebellar high-grade gliomas do not present the same molecular alterations as supratentorial high-grade gliomas and may show histone h3 gen,M
+Brain Cancer,ATRX,29063957,all,atrx,C,M,,symbol 'ATRX' present,170,significance of h3k27m mutation with specific histomorphological features and associated molecular alterations in pediatric high-grade glial,M
+Brain Cancer,ATRX,23104868,all,atrx,C,M,,symbol 'ATRX' present,239,whole-exome sequencing identifies atrx mutation as a key molecular determinant in lower-grade glioma,M
+Brain Cancer,ATRX,24710217,all,atrx,C,ML,,symbol 'ATRX' present,318,the landscape of somatic mutations in epigenetic regulators across 1 000 paediatric cancer genomes,ML
+Brain Cancer,ATRX,30113684,all,atrx,C,P,,symbol 'ATRX' present,325,loss of bcat1 expression is a sensitive marker for idh-mutant diffuse glioma,P
+Brain Cancer,ATRX,28823044,all,atrx,C,M,,symbol 'ATRX' present,341,diagnostic implications of tert promoter mutation status in diffuse gliomas in a routine clinical setting,M
+Brain Cancer,ATRX,24154961,all,atrx,C,P,,symbol 'ATRX' present,424,distribution of tert promoter mutations in pediatric and adult tumors of the nervous system,P
+Brain Cancer,ATRX,29264735,all,atrx,C,M,,symbol 'ATRX' present,438,a case report of adult cerebellar high-grade glioma with h3 1 k27m mutation a rare example of an h3 k27m mutant cerebellar tumor,M
+Brain Cancer,ATRX,26517431,all,atrx,C,G,,symbol 'ATRX' present,439,diffuse midline gliomas with histone h3-k27m mutation a series of 47 cases assessing the spectrum of morphologic variation and associated ge,G
+Brain Cancer,ATRX,38272925,all,atrx,C,M,,symbol 'ATRX' present,514,interplay between atrx and idh1 mutations governs innate immune responses in diffuse gliomas,M
+Brain Cancer,ATRX,41742683,all,atrx,C,ML,,symbol 'ATRX' present,521,clinical and genetic landscape of glioblastoma idh-wildtype with fgfr gene family alterations,ML
+Brain Cancer,ATRX,26354927,all,atrx,C,ML,,symbol 'ATRX' present,624,molecular classification of anaplastic oligodendroglioma using next-generation sequencing a report of the prospective randomized eortc brain,ML
+Brain Cancer,ATRX,33128602,all,atrx,C,M,,symbol 'ATRX' present,659,alternative lengthening of telomeres in molecular subgroups of paediatric high-grade glioma,M
+Brain Cancer,ATRX,37713468,all,atrx,C,ML,,symbol 'ATRX' present,665,glioma genetic profiles associated with electrophysiologic hyperexcitability,ML
+Brain Cancer,ATRX,39804195,all,atrx,C,ML,,symbol 'ATRX' present,676,tertp mutation and its prognostic value in glioma patients under the 2021 who classification a real-world study,ML
+Brain Cancer,ATRX,25257301,all,atrx,C,M,,symbol 'ATRX' present,678,clinical multiplexed exome sequencing distinguishes adult oligodendroglial neoplasms from astrocytic and mixed lineage gliomas,M
+Brain Cancer,ATRX,33095064,all,atrx,C,I,,symbol 'ATRX' present,692,idh -wildtype secondary glioblastoma arising in idh -mutant diffuse astrocytoma a case report,I
+Brain Cancer,ATRX,26414224,all,atrx,C,ML,,symbol 'ATRX' present,700,combined infiltrating astrocytoma pleomorphic xanthoastrocytoma harboring idh1 r132h and braf v600e mutations,ML
+Brain Cancer,ATRX,30203362,all,atrx,C,P,,symbol 'ATRX' present,759,cerebellar glioblastoma a clinical series with contemporary molecular analysis,P
+Brain Cancer,ATRX,35416795,all,atrx,C,M,,symbol 'ATRX' present,761,diffuse midline gliomas with histone h3 k27m mutation in adults and children a retrospective series of 164 cases,M
+Brain Cancer,ATRX,33175579,all,atrx,C,M,,symbol 'ATRX' present,788,radiologic findings and the molecular expression profile of diffuse midline glioma h3 k27m mutant,M
+Brain Cancer,ATRX,28251430,all,atrx,C,P,,symbol 'ATRX' present,809,atrx status correlates with 11 c-methionine uptake in who grade ii and iii gliomas with idh1 mutations,P
+Brain Cancer,ATRX,29948154,all,atrx,C,M,,symbol 'ATRX' present,833,pediatric low-grade gliomas can be molecularly stratified for risk,M
+Brain Cancer,ATRX,24559763,all,atrx,C,M,,symbol 'ATRX' present,856,clinical neuropathology practice news 2-2014 atrx a new candidate biomarker in gliomas,M
+Brain Cancer,ATRX,39684714,all,atrx,C,ML,,symbol 'ATRX' present,868,genomic profiling in glioma patients to explore clinically relevant markers,ML
+Brain Cancer,ATRX,24285547,all,atrx,C,ML,,symbol 'ATRX' present,874,h3f3a k27m mutations in thalamic gliomas from young adult patients,ML
+Brain Cancer,ATRX,39792760,all,atrx,C,M,,symbol 'ATRX' present,885,atrx mutation modifies the dna damage response in glioblastoma multiforme tumor cells and enhances patient prognosis,M
+Brain Cancer,ATRX,34352809,all,atrx,C,ML,,symbol 'ATRX' present,903,histone h3 3 g34-mutant diffuse gliomas in adults,ML
+Brain Cancer,ATRX,39208202,all,atrx,C,I,,symbol 'ATRX' present,911,comparative genomic landscape of lower-grade glioma and glioblastoma,I
+Brain Cancer,ATRX,39202398,all,atrx,C,M,,symbol 'ATRX' present,921,pediatric hemispheric high-grade gliomas and h3 3-g34 mutation a review of the literature on biological features and new therapeutic strateg,M
+Brain Cancer,ATRX,32530481,all,atrx,C,M,,symbol 'ATRX' present,923,current clinical practice about pediatric midline gliomas in the scope of molecular era,M
+Brain Cancer,ATRX,41807027,all,atrx,C,ML,,symbol 'ATRX' present,957,high-grade astrocytoma with piloid features an aggressive clinicogenomic entity distinct from pilocytic astrocytoma,ML
+Brain Cancer,ATRX,30760578,all,atrx,C,P,,symbol 'ATRX' present,961,idh1-r132h acts as a tumor suppressor in glioma via epigenetic up-regulation of the dna damage response,P
+Brain Cancer,ATRX,40164352,all,atrx,C,ML,,symbol 'ATRX' present,992,comprehensive molecular analysis in nrg oncology rtog 9813 a phase 3 study of radiation and temozolomide versus radiation and bcnu ccnu in a,ML
+Brain Cancer,ATRX,33980169,all,atrx,C,ML,,symbol 'ATRX' present,996,braf non-v600e more frequently co-occurs with idh1 2 mutations in adult patients with gliomas than in patients harboring braf v600e but with,ML
+Brain Cancer,ATRX,34210246,all,atrx,C,P,,symbol 'ATRX' present,999,coexistence of tert c228t mutation and malat1 dysregulation in primary glioblastoma new prognostic and therapeutic targets,P
+Brain Cancer,MGMT,27579614,random,mgmt,C,M,,symbol 'MGMT' present,10,gbm-associated mutations and altered protein expression are more common in young patients,M
+Brain Cancer,MGMT,30861589,random,mgmt,C,M,,symbol 'MGMT' present,36,whole-exome sequencing revealed mutational profiles of giant cell glioblastomas,M
+Brain Cancer,MGMT,33631540,random,mgmt|o 6 methylguanine dna methyltransferase,C,G,,symbol 'MGMT' present,41,telomerase reverse transcriptase promoter mutation- and o 6 -methylguanine dna methyltransferase promoter methylation-mediated sensitivity t,G
+Brain Cancer,MGMT,33642283,random,mgmt,C,G,,symbol 'MGMT' present,43,tert promoter mutation in adult glioblastomas it's correlation with other relevant molecular markers,G
+Brain Cancer,MGMT,31833906,random,mgmt,C,M,,symbol 'MGMT' present,45,clinico-neuropathological features of isocitrate dehydrogenase 2 gene mutations in lower-grade gliomas,M
+Brain Cancer,MGMT,29650441,random,mgmt,C,M,,symbol 'MGMT' present,67,clinical implications of tert promoter mutation on idh mutation and mgmt promoter methylation in diffuse gliomas,M
+Brain Cancer,MGMT,32111869,random,mgmt,C,M,,symbol 'MGMT' present,98,prediction of molecular mutations in diffuse low-grade gliomas using mr imaging features,M
+Brain Cancer,MGMT,28851427,random,mgmt,C,M,,symbol 'MGMT' present,111,the frequency and prognostic effect of tert promoter mutation in diffuse gliomas,M
+Brain Cancer,MGMT,22291938,random,mgmt,C,G,,symbol 'MGMT' present,127,correlation of idh1 mutation with clinicopathologic factors and prognosis in primary glioblastoma a report of 118 patients from china,G
+Brain Cancer,MGMT,22034964,random,mgmt|o 6 methylguanine dna methyltransferase,C,M,,symbol 'MGMT' present,130,idh mutations predict longer survival and response to temozolomide in secondary glioblastoma,M
+Brain Cancer,MGMT,29984907,random,mgmt,C,M,,symbol 'MGMT' present,158,the tert promoter mutation status and mgmt promoter methylation status combined with dichotomized mri-derived and clinical features predict ,M
+Brain Cancer,MGMT,34159191,random,mgmt,C,G,,symbol 'MGMT' present,188,establishment and validation of the detection of tert promoter mutations by human gliomas u251 cell lines,G
+Brain Cancer,MGMT,22410704,random,mgmt,C,G,,symbol 'MGMT' present,220,idh mutations as an early and consistent marker in low-grade astrocytomas who grade ii and their consecutive secondary high-grade gliomas,G
+Brain Cancer,MGMT,23015095,random,mgmt,C,M,,symbol 'MGMT' present,222,the prognostic value of idh mutations and mgmt promoter status in secondary high-grade gliomas,M
+Brain Cancer,MGMT,26556853,random,mgmt,C,M,,symbol 'MGMT' present,243,tert promoter mutations and long telomere length predict poor survival and radiotherapy resistance in gliomas,M
+Brain Cancer,MGMT,35713454,random,mgmt,C,ML,,symbol 'MGMT' present,354,diffuse midline glioma with h3-k27m mutation a rare case with gfap-positive anucleate whorled patterns,ML
+Brain Cancer,MGMT,31036078,random+targeted,o 6 methylguanine dna methyltransferase,C,I,,credited via alias o 6 methylguanine dna methyltransferase,356,pik3ca activating mutations are associated with more disseminated disease at presentation and earlier recurrence in glioblastoma,I
+Brain Cancer,MGMT,23111198,random,mgmt,C,G,,symbol 'MGMT' present,363,pyrosequencing of idh1 and idh2 mutations in brain tumors and non-neoplastic conditions,G
+Brain Cancer,MGMT,29748206,random,mgmt,C,M,,symbol 'MGMT' present,417,deep-learning convolutional neural networks accurately classify genetic mutations in gliomas,M
+Brain Cancer,MGMT,27120786,random,mgmt,C,P,,symbol 'MGMT' present,446,idh-1r132h mutation status in diffuse glioma patients implications for classification,P
+Brain Cancer,MGMT,40377745,random,mgmt,C,M,,symbol 'MGMT' present,474,idh mutation and mgmt methylation status in glioblastoma and other gliomas patients a russian retrospective cohort study,M
+Brain Cancer,MGMT,31758617,random+targeted,o 6 methylguanine dna methyltransferase,C,G,,credited via alias o 6 methylguanine dna methyltransferase,538,diffuse gliomas in patients aged 55 years or over a suggestion for idh mutation testing,G
+Brain Cancer,MGMT,11577014,random,mgmt|o 6 methylguanine dna methyltransferase,C,M,,symbol 'MGMT' present,539,promoter methylation of the dna repair gene mgmt in astrocytomas is frequently associated with g c -- a t mutations of the tp53 tumor suppre,M
+Brain Cancer,MGMT,26354927,random,mgmt,C,ML,,symbol 'MGMT' present,624,molecular classification of anaplastic oligodendroglioma using next-generation sequencing a report of the prospective randomized eortc brain,ML
+Brain Cancer,MGMT,24958096,random,mgmt,C,M,,symbol 'MGMT' present,711,malignant clinical features of anaplastic gliomas without idh mutation,M
+Brain Cancer,MGMT,37919784,random,mgmt,C,M,,symbol 'MGMT' present,737,variant allelic frequencies of driver mutations can identify gliomas with potentially false-negative mgmt promoter methylation results,M
+Brain Cancer,MGMT,31623667,random,mgmt,C,P,,symbol 'MGMT' present,754,the prognostic role of idh mutations in homogeneously treated patients with anaplastic astrocytomas and glioblastomas,P
+Brain Cancer,MGMT,30203362,random,mgmt,C,ML,,symbol 'MGMT' present,759,cerebellar glioblastoma a clinical series with contemporary molecular analysis,ML
+Brain Cancer,MGMT,23429602,random,mgmt,C,M,,symbol 'MGMT' present,775,significance of complete 1p 19q co-deletion idh1 mutation and mgmt promoter methylation in gliomas use with caution,M
+Brain Cancer,MGMT,32563269,random,mgmt,C,M,,symbol 'MGMT' present,785,a novel cas9-targeted long-read assay for simultaneous detection of idh1 2 mutations and clinically relevant mgmt methylation in fresh biops,M
+Brain Cancer,MGMT,25078279,random,mgmt,C,G,,symbol 'MGMT' present,814,novel msh6 mutations in treatment-naive glioblastoma and anaplastic oligodendroglioma contribute to temozolomide resistance independently of,G
+Brain Cancer,MGMT,24559763,random,mgmt,C,M,,symbol 'MGMT' present,856,clinical neuropathology practice news 2-2014 atrx a new candidate biomarker in gliomas,M
+Brain Cancer,MGMT,24930669,random,mgmt,C,G,,symbol 'MGMT' present,858,expression level of htert is regulated by somatic mutation and common single nucleotide polymorphism at promoter region in glioblastoma,G
+Brain Cancer,MGMT,26482474,random,mgmt,C,G,,symbol 'MGMT' present,861,histologically distinct neuroepithelial tumors with histone 3 g34 mutation are molecularly similar and comprise a single nosologic entity,G
+Brain Cancer,MGMT,34352809,random,mgmt,C,ML,,symbol 'MGMT' present,903,histone h3 3 g34-mutant diffuse gliomas in adults,ML
+Brain Cancer,MGMT,33157564,random,mgmt,C,G,,symbol 'MGMT' present,917,aggressive treatment in glioblastoma what determines the survival of patients,G
+Brain Cancer,MGMT,36171338,random,mgmt,C,G,,symbol 'MGMT' present,971,clinical and ngs predictors of response to regorafenib in recurrent glioblastoma,G
+Brain Cancer,MGMT,39061104,random,mgmt,C,ML,,symbol 'MGMT' present,984,neuroradiological genetic and clinical characteristics of histone h3 k27-mutant diffuse midline gliomas in the kansai molecular diagnosis ne,ML
+Brain Cancer,MGMT,31623593,random,mgmt,C,G,,symbol 'MGMT' present,991,clinical insights gained by refining the 2016 who classification of diffuse gliomas with egfr amplification tert mutations pten deletion and,G
+Brain Cancer,MGMT,40164352,random,mgmt,C,M,,symbol 'MGMT' present,992,comprehensive molecular analysis in nrg oncology rtog 9813 a phase 3 study of radiation and temozolomide versus radiation and bcnu ccnu in a,M
+Brain Cancer,PTEN,27579614,all,pten,C,M,,symbol 'PTEN' present,10,gbm-associated mutations and altered protein expression are more common in young patients,M
+Brain Cancer,PTEN,40808963,all,pten,C,M,,symbol 'PTEN' present,18,a mutational process signature and genomic alterations associated with outcome and immunogenicity in cancers with brain metastasis,M
+Brain Cancer,PTEN,30861589,all,pten,C,M,,symbol 'PTEN' present,36,whole-exome sequencing revealed mutational profiles of giant cell glioblastomas,M
+Brain Cancer,PTEN,41044136,all,pten,C,M,,symbol 'PTEN' present,55,characterization of the mutational status of glioblastoma and high-grade astrocytomas in a latin american cohort,M
+Brain Cancer,PTEN,26191234,all,pten,C,ML,,symbol 'PTEN' present,59,gene mutation profiling of primary glioblastoma through multiple tumor biopsy guided by 1h-magnetic resonance spectroscopy,ML
+Brain Cancer,PTEN,32583303,all,pten,C,M,,symbol 'PTEN' present,79,molecular genetic profiling reveals novel association between flt3 mutation and survival in glioma,M
+Brain Cancer,PTEN,22752145,all,pten,C,M,,symbol 'PTEN' present,81,correlation of egfr idh1 and pten status with the outcome of patients with recurrent glioblastoma treated in a phase ii clinical trial with ,M
+Brain Cancer,PTEN,23619277,all,pten,C,M,,symbol 'PTEN' present,102,a mosaic pten mutation causing cowden syndrome identified by deep sequencing,M
+Brain Cancer,PTEN,27780605,all,pten,C,P,,symbol 'PTEN' present,110,idh1 2 gene hotspot mutations in central nervous system tumours analysis of 922 chinese patients,P
+Brain Cancer,PTEN,25754088,all,pten,C,M,,symbol 'PTEN' present,116,clinical implementation of integrated whole-genome copy number and mutation profiling for glioblastoma,M
+Brain Cancer,PTEN,39013258,all,pten,C,ML,,symbol 'PTEN' present,126,clinicopathological significance of mutation profile detected by next generation sequencing in different metastatic organs of non-small cell,ML
+Brain Cancer,PTEN,11515790,all,pten,C,M,,symbol 'PTEN' present,143,glioblastoma-related gene mutations and over-expression of functional epidermal growth factor receptors in skmg-3 glioma cells,M
+Brain Cancer,PTEN,31209806,all,phosphatase and tensin homolog|pten,C,M,,symbol 'PTEN' present,157,kras exon 3 and pten exon 7 mutations in small-cell lung cancer,M
+Brain Cancer,PTEN,29809131,all,pten,C,ML,,symbol 'PTEN' present,162,cerebellar high-grade gliomas do not present the same molecular alterations as supratentorial high-grade gliomas and may show histone h3 gen,ML
+Brain Cancer,PTEN,22922798,all,pten,C,G,,symbol 'PTEN' present,164,idh1 mutation of gliomas with long-term survival analysis,G
+Brain Cancer,PTEN,17151929,all,pten,C,M,,symbol 'PTEN' present,177,impact of novel pten mutations in turkish patients with glioblastoma multiforme,M
+Brain Cancer,PTEN,25165098,all,pten,C,M,,symbol 'PTEN' present,189,complete loss of pten protein expression correlates with shorter time to brain metastasis and survival in stage iiib c melanoma patients wit,M
+Brain Cancer,PTEN,11051241,all,pten,C,M,,symbol 'PTEN' present,215,functional evaluation of p53 and pten gene mutations in gliomas,M
+Brain Cancer,PTEN,31527881,all,pten,C,I,target,symbol 'PTEN' present,244,3d spatial organization and network-guided comparison of mutation profiles in glioblastoma reveals similarities across patients,I
+Brain Cancer,PTEN,29546640,all,pten,C,ML,,symbol 'PTEN' present,272,molecular defects in braf wild-type ameloblastomas and craniopharyngiomas-differences in mutation profiles in epithelial-derived oropharynge,ML
+Brain Cancer,PTEN,20393024,all,phosphatase and tensin homolog|pten,C,M,,symbol 'PTEN' present,304,mutations of pten gene in gliomas correlate to tumor differentiation and short-term survival rate,M
+Brain Cancer,PTEN,39864140,all,pten,C,I,,symbol 'PTEN' present,383,immune checkpoint expression and therapeutic implications in idh1-mutant and wild-type glioblastomas,I
+Brain Cancer,PTEN,34048176,all,pten,C,I,,symbol 'PTEN' present,421,lynch syndrome in thai endometrial cancer patients,I
+Brain Cancer,PTEN,24714777,all,pten,C,ML,,symbol 'PTEN' present,477,targetable signaling pathway mutations are associated with malignant phenotype in idh-mutant gliomas,ML
+Brain Cancer,PTEN,14642363,all,pten,C,M,,symbol 'PTEN' present,493,pten gene mutation and high mib-1 labeling index may contribute to dissemination in patients with glioblastoma,M
+Brain Cancer,PTEN,12085208,all,pten,C,M,,symbol 'PTEN' present,505,a novel germline mutation of pten associated with brain tumours of multiple lineages,M
+Brain Cancer,PTEN,29880043,all,pten,C,M,,symbol 'PTEN' present,517,the genetic landscape of ganglioglioma,M
+Brain Cancer,PTEN,41742683,all,pten,C,ML,,symbol 'PTEN' present,521,clinical and genetic landscape of glioblastoma idh-wildtype with fgfr gene family alterations,ML
+Brain Cancer,PTEN,11669337,all,pten,C,M,,symbol 'PTEN' present,523,microsatellite instability pten and p53 germline mutations in glioma families,M
+Brain Cancer,PTEN,40696074,all,pten,C,M,,symbol 'PTEN' present,526,mutational accumulation drives pathway dysregulation to predict glioma patient survival,M
+Brain Cancer,PTEN,32039443,all,pten,C,M,,symbol 'PTEN' present,558,applications of cerebrospinal fluid circulating tumor dna in the diagnosis of gliomas,M
+Brain Cancer,PTEN,15924253,all,pten,C,P,,symbol 'PTEN' present,563,pik3ca mutations in glioblastoma multiforme,P
+Brain Cancer,PTEN,11504770,all,pten,C,M,,symbol 'PTEN' present,565,pten mutation egfr amplification and outcome in patients with anaplastic astrocytoma and glioblastoma multiforme,M
+Brain Cancer,PTEN,28408749,all,pten,C,W,,symbol 'PTEN' present,619,high prevalence of tp53 mutations is associated with poor survival and an emt signature in gliosarcoma patients,W
+Brain Cancer,PTEN,26354927,all,pten,C,G,,symbol 'PTEN' present,624,molecular classification of anaplastic oligodendroglioma using next-generation sequencing a report of the prospective randomized eortc brain,G
+Brain Cancer,PTEN,39285664,all,pten,C,ML,,symbol 'PTEN' present,645,the nf1 gene mutations and co-mutations in lung adenocarcinomas with brain metastasis,ML
+Brain Cancer,PTEN,22089350,all,pten,C,ML,,symbol 'PTEN' present,657,characterization of molecular genetic alterations in gbms highlights a distinctive molecular profile in young adults,ML
+Brain Cancer,PTEN,17098662,all,pten,C,M,,symbol 'PTEN' present,683,association of loss of heterozygosity and pten gene abnormalities with paraclinical clinical modalities and survival time of glioma patients,M
+Brain Cancer,PTEN,33095064,all,pten,C,M,,symbol 'PTEN' present,692,idh -wildtype secondary glioblastoma arising in idh -mutant diffuse astrocytoma a case report,M
+Brain Cancer,PTEN,24695838,all,pten,C,ML,,symbol 'PTEN' present,708,multigene profiling to identify alternative treatment options for glioblastoma a pilot study,ML
+Brain Cancer,PTEN,28922847,all,pten,C,M,,symbol 'PTEN' present,768,germline msh6 mutation in a patient with two independent primary glioblastomas,M
+Brain Cancer,PTEN,28620782,all,pten,C,M,,symbol 'PTEN' present,781,role of key genetic mutations on increasing migration of brain cancer cells through confinement,M
+Brain Cancer,PTEN,11355303,all,pten,C,M,,symbol 'PTEN' present,798,characterisation of molecular alterations in microdissected archival gliomas,M
+Brain Cancer,PTEN,21569770,all,pten,C,ML,,symbol 'PTEN' present,819,idh1 mutations in gliomas first series from a tertiary care centre in india with comprehensive review of literature,ML
+Brain Cancer,PTEN,34952640,all,pten,C,W,,symbol 'PTEN' present,824,idh-wild type glioblastomas featuring at least 30 giant cells are characterized by frequent rb1 and nf1 alterations and hypermutation,W
+Brain Cancer,PTEN,10812170,all,pten,C,M,,symbol 'PTEN' present,841,pten mutation analysis in two genetic subtypes of high-grade oligodendroglial tumors pten is only occasionally mutated in one of the two gen,M
+Brain Cancer,PTEN,11295051,all,pten,C,M,,symbol 'PTEN' present,866,non-isotopic silver-stained sscp is more sensitive than automated direct sequencing for the detection of pten mutations in a mixture of dna ,M
+Brain Cancer,PTEN,39684714,all,pten,C,M,,symbol 'PTEN' present,868,genomic profiling in glioma patients to explore clinically relevant markers,M
+Brain Cancer,PTEN,34148105,all,pten,C,G,,symbol 'PTEN' present,902,tert promoter mutation status is necessary and sufficient to diagnose idh-wildtype diffuse astrocytic glioma with molecular features of glio,G
+Brain Cancer,PTEN,25003235,all,phosphatase and tensin homolog|pten,C,M,,symbol 'PTEN' present,916,pten mutations and activation of the pi3k akt mtor signaling pathway in papillary tumors of the pineal region,M
+Brain Cancer,PTEN,32530481,all,pten,C,M,,symbol 'PTEN' present,923,current clinical practice about pediatric midline gliomas in the scope of molecular era,M
+Brain Cancer,PTEN,35489737,all,pten,C,ML,,symbol 'PTEN' present,945,molecular stratification of medulloblastoma clinical outcomes and therapeutic interventions,ML
+Brain Cancer,PTEN,33009979,all,pten,C,G,,symbol 'PTEN' present,962,additional genetic alterations in braf-mutant gliomas correlate with histologic diagnoses,G
+Brain Cancer,PTEN,15605984,all,pten,C,M,,symbol 'PTEN' present,963,genetic alterations of phosphoinositide 3-kinase subunit genes in human glioblastomas,M
+Brain Cancer,PTEN,31623593,all,pten,C,M,,symbol 'PTEN' present,991,clinical insights gained by refining the 2016 who classification of diffuse gliomas with egfr amplification tert mutations pten deletion and,M

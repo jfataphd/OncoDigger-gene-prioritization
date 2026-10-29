@@ -1,0 +1,35 @@
+cancer,gene,mechanism,n,pool_credits,pct_of_gene_credits
+Prostate Cancer,PARP1,PARP (family/drug-class term) -> PARP1,56,76,73.7
+Thyroid Cancer,PIK3CA,PI3K -> PIK3CA (pathway/family alias),15,54,27.8
+Kidney Cancer,SETD2,HIF-1 -> SETD2 (hypoxia-inducible factor),13,77,16.9
+Stomach Cancer,PIK3CA,PI3K -> PIK3CA (pathway/family alias),14,91,15.4
+Endometrial Cancer,PIK3CA,PI3K -> PIK3CA (pathway/family alias),23,189,12.2
+Esophageal Cancer,PIK3CA,PI3K -> PIK3CA (pathway/family alias),10,84,11.9
+Liver Cancer,PIK3CA,PI3K -> PIK3CA (pathway/family alias),6,51,11.8
+Cervical Cancer,PIK3CA,PI3K -> PIK3CA (pathway/family alias),16,146,11.0
+Bladder Cancer,PIK3CA,PI3K -> PIK3CA (pathway/family alias),10,100,10.0
+Endometrial Cancer,MSH2,HNPCC syndrome name -> MLH1/MSH2,12,124,9.7
+Lung Cancer,PIK3CA,PI3K -> PIK3CA (pathway/family alias),7,79,8.9
+Colorectal Cancer,MLH1,HNPCC syndrome name -> MLH1/MSH2,13,150,8.7
+Colorectal Cancer,MSH2,HNPCC syndrome name -> MLH1/MSH2,11,136,8.1
+Endometrial Cancer,MLH1,HNPCC syndrome name -> MLH1/MSH2,12,161,7.5
+Pancreatic Cancer,MEN1,MEN1 used as syndrome label,4,60,6.7
+Colorectal Cancer,PIK3CA,PI3K -> PIK3CA (pathway/family alias),7,128,5.5
+Cervical Cancer,EGFR,EGFR credited through HER2's name,2,40,5.0
+Breast Cancer,PIK3CA,PI3K -> PIK3CA (pathway/family alias),10,201,5.0
+Melanoma,KIT,'kit' = assay kit -> KIT,6,142,4.2
+Esophageal Cancer,EGFR,EGFR credited through HER2's name,3,85,3.5
+Esophageal Cancer,APC,APC/C (anaphase-promoting complex) -> APC,1,30,3.3
+Leukemia,BCR,BCR = B-cell receptor -> BCR,3,141,2.1
+Kidney Cancer,WT1,WAGR syndrome name -> WT1,2,119,1.7
+Lung Cancer,MET,MET = metastasis -> MET,1,58,1.7
+Lung Cancer,MET,MET = methionine -> MET,1,58,1.7
+Stomach Cancer,CTNNB1,'armadillo' -> CTNNB1,1,64,1.6
+Ovarian Cancer,PIK3CA,PI3K -> PIK3CA (pathway/family alias),1,74,1.4
+Liver Cancer,EGFR,EGFR credited through HER2's name,1,70,1.4
+Colorectal Cancer,EGFR,EGFR credited through HER2's name,2,191,1.0
+Bladder Cancer,TERT,'tert' = tert-butyl chemistry -> TERT,1,124,0.8
+Pancreatic Cancer,BRCA2,symbol inside another gene's full name (PALB2/BRCA),1,128,0.8
+Brain Cancer,EGFR,EGFR credited through HER2's name,1,185,0.5
+Lung Cancer,EGFR,EGFR credited through HER2's name,3,774,0.4
+Ovarian Cancer,BRCA2,symbol inside another gene's full name (PALB2/BRCA),1,463,0.2

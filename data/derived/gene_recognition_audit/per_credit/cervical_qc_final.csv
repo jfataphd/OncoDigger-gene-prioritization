@@ -1,0 +1,386 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Cervical Cancer,PIK3CA,33994859,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,1,lrp1b mutation is associated with tumor hpv status and promotes poor disease outcomes with a higher mutation count in hpv-related cervical c,W
+Cervical Cancer,PIK3CA,27079212,random,pik3ca,C,ML,,symbol 'PIK3CA' present,10,sequencing of mutational hotspots in cancer-related genes in small cell neuroendocrine cervical cancer,ML
+Cervical Cancer,PIK3CA,32653099,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,13,pik3ca mutation and cnv status and post-chemoradiotherapy survival in patients with cervical cancer,M
+Cervical Cancer,PIK3CA,33736612,random,pik3ca,C,M,,symbol 'PIK3CA' present,15,mutational profiles of marker genes of cervical carcinoma in bangladeshi patients,M
+Cervical Cancer,PIK3CA,19148475,random,pik3ca,C,M,,symbol 'PIK3CA' present,22,mutation of pik3ca possible risk factor for cervical carcinogenesis in older women,M
+Cervical Cancer,PIK3CA,25669975,random,pik3ca,C,M,,symbol 'PIK3CA' present,27,comprehensive analysis of targetable oncogenic mutations in chinese cervical cancers,M
+Cervical Cancer,PIK3CA,32951893,random,pik3ca,C,ML,,symbol 'PIK3CA' present,28,mutation profiling of uterine cervical cancer patients treated with definitive radiotherapy,ML
+Cervical Cancer,PIK3CA,28587748,random,pik3ca,C,M,,symbol 'PIK3CA' present,51,liquid biopsy of pik3ca mutations in cervical cancer in hong kong chinese women,M
+Cervical Cancer,PIK3CA,37668363,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,52,prevalence and prognostic significance of pik3ca mutation and cnv status and phosphorylated akt expression in patients with cervical cancer ,M
+Cervical Cancer,PIK3CA,38710532,random,pik3ca,C,M,,symbol 'PIK3CA' present,62,genetic analysis of cervical cancer with lymph node metastasis,M
+Cervical Cancer,PIK3CA,29505425,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,68,next-generation sequencing reveals recurrent somatic mutations in small cell neuroendocrine carcinoma of the uterine cervix,M
+Cervical Cancer,PIK3CA,34584128,random,pik3ca,C,M,,symbol 'PIK3CA' present,78,tp53 mutants and non-hpv16 18 genotypes are poor prognostic factors for concurrent chemoradiotherapy in locally advanced cervical cancer,M
+Cervical Cancer,PIK3CA,41061386,random,pik3ca,C,I,,symbol 'PIK3CA' present,81,clonal origins and divergent evolutionary relationships of synchronous multiple malignant neoplasms in gynecology revealed by next-generatio,I
+Cervical Cancer,PIK3CA,23266353,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,83,pik3ca mutational status and overall survival in patients with cervical cancer treated with radical chemoradiotherapy,M
+Cervical Cancer,PIK3CA,27468883,random,pik3ca,C,M,,symbol 'PIK3CA' present,105,detection of oncogenic mutations in cervical carcinoma using method high resolution melting hrm,M
+Cervical Cancer,PIK3CA,26155992,random,pik3ca,C,M,,symbol 'PIK3CA' present,128,genetic profiles of cervical tumors by high-throughput sequencing for personalized medical care,M
+Cervical Cancer,PIK3CA,29113722,random,pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,141,the landscape of somatic mutations in indonesian cervical cancer is predominated by the pi3k pathway,M
+Cervical Cancer,PIK3CA,35568000,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,145,high incidence of pi3k pathway gene mutations in south indian cervical cancers,M
+Cervical Cancer,PIK3CA,40449138,random,pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,149,profiling of her2 kras and pik3ca mutations in uterine cervical neuroendocrine carcinoma and implications for oncogenic driver targeting the,M
+Cervical Cancer,PIK3CA,38253702,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,156,integrated genomic and transcriptomic analysis reveals the activation of pi3k signaling pathway in hpv-independent cervical cancers,M
+Cervical Cancer,PIK3CA,28077784,random+targeted,pi3k,X,M,target,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,157,identification and characterization of hpv-independent cervical cancers,M
+Cervical Cancer,PIK3CA,42765697,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,158,integrated genomic profiling of pten and tp53 in cervical neuroendocrine carcinoma synergistic roles with her2 kras pik3ca and implications ,M
+Cervical Cancer,PIK3CA,33087507,targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,166,glutaminase inhibitors induce thiol-mediated oxidative stress and radiosensitization in treatment-resistant cervical cancers,M
+Cervical Cancer,PIK3CA,25220666,random,pik3ca,C,M,,symbol 'PIK3CA' present,169,tp53 and pik3ca gene mutations in adenocarcinoma squamous cell carcinoma and high-grade intraepithelial neoplasia of the cervix,M
+Cervical Cancer,PIK3CA,32408396,random+targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,179,hpv-related methylation-based reclassification and risk stratification of cervical cancer,M
+Cervical Cancer,PIK3CA,40347270,random,pik3ca,C,ML,,symbol 'PIK3CA' present,212,hpv-independent squamous sell carcinoma of cervix a clinicopathological immunohistochemical and molecular analysis of six cases,ML
+Cervical Cancer,PIK3CA,27016411,random,pik3ca,C,ML,,symbol 'PIK3CA' present,234,phase i trial evaluating the antiviral agent cidofovir in combination with chemoradiation in cervical cancer patients,ML
+Cervical Cancer,PIK3CA,37204043,targeted,pi3k,X,M,target,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,256,network modeling suggests hiv infection phenocopies pi3k-akt pathway mutations to enhance hpv-associated cervical cancer,M
+Cervical Cancer,PIK3CA,38029652,targeted,pi3k,X,ML,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,259,molecular landscape of erbb2 her2 gene amplification among patients with gynecologic malignancies clinical implications and future direction,ML
+Cervical Cancer,PIK3CA,33817764,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,260,comprehensive genomic profiling and prognostic analysis of cervical gastric-type mucinous adenocarcinoma,W
+Cervical Cancer,PIK3CA,35189471,random,pik3ca,C,M,,symbol 'PIK3CA' present,299,effect of immunotherapy on the immune microenvironment in advanced recurrent cervical cancer,M
+Cervical Cancer,PIK3CA,27030265,targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,327,the human papillomavirus 16 e7 oncoprotein attenuates akt signaling to promote internal ribosome entry site-dependent translation and expres,M
+Cervical Cancer,PIK3CA,37877353,targeted,pi3k,X,P,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,336,parkin regulates igf2bp3 through ubiquitination in the tumourigenesis of cervical cancer,P
+Cervical Cancer,PIK3CA,33208671,random,pik3ca,C,ML,,symbol 'PIK3CA' present,365,molecular profiling reveals limited targetable biomarkers in neuroendocrine carcinoma of the cervix,ML
+Cervical Cancer,PIK3CA,32683364,random,pik3ca,C,M,,symbol 'PIK3CA' present,396,pik3ca mutations and their impact on survival outcomes of patients with cervical cancer a systematic review,M
+Cervical Cancer,PIK3CA,31855952,random,pik3ca,C,ML,,symbol 'PIK3CA' present,423,genomic characterization of hpv-related and gastric-type endocervical adenocarcinoma correlation with subtype and clinical behavior,ML
+Cervical Cancer,PIK3CA,37866161,random,pik3ca,C,M,,symbol 'PIK3CA' present,426,the sgk3-catalase antioxidant signaling axis drives cervical cancer growth and therapy resistance,M
+Cervical Cancer,PIK3CA,36203656,targeted,pi3k,X,I,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,428,molecular classification of human papillomavirus-positive cervical cancers based on immune signature enrichment,I
+Cervical Cancer,PIK3CA,39579262,random,pik3ca,C,ML,,symbol 'PIK3CA' present,442,endocervical adenocarcinoma with a micropapillary component a clinicopathologic analysis in the setting of current who classification,ML
+Cervical Cancer,PIK3CA,41155343,random,pi3k|pik3ca,C,G,,symbol 'PIK3CA' present,474,hpv-independent cervical cancer-a new challenge of modern oncology,G
+Cervical Cancer,PIK3CA,15950068,targeted,pi3k,X,G,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,490,effects of hras oncogene on cell cycle progression in a cervical cancer-derived cell line,G
+Cervical Cancer,PIK3CA,31263021,random,pik3ca,C,M,,symbol 'PIK3CA' present,496,updates and management algorithm for neuroendocrine tumors of the uterine cervix,M
+Cervical Cancer,PIK3CA,24705275,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,507,akt inhibitors promote cell death in cervical cancer through disruption of mtor signaling and glucose uptake,M
+Cervical Cancer,PIK3CA,29316891,random+targeted,pi3k,X,W,target,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,520,serum mir-486-5p as a diagnostic marker in cervical cancer with investigation of potential mechanisms,W
+Cervical Cancer,PIK3CA,34596094,random+targeted,pi3k,X,I,target,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,560,precision medicine for cervical cancer,I
+Cervical Cancer,PIK3CA,36069807,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,683,morphologic and molecular heterogeneity of cervical neuroendocrine neoplasia a report of 14 cases,W
+Cervical Cancer,PIK3CA,33587450,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,744,mtor pathway activation assessed by immunohistochemistry in cervical biopsies of hpv-associated endocervical adenocarcinomas hpva correlatio,W
+Cervical Cancer,PIK3CA,36849702,random,pik3ca,C,M,,symbol 'PIK3CA' present,769,molecular correlates of invasion pattern in hpv-associated endocervical adenocarcinoma emergence of two distinct risk-stratified tiers,M
+Cervical Cancer,PIK3CA,42364717,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,831,signaling pathways in tobacco smoking-induced cervical carcinogenesis beyond hpv-mediated activation,W
+Cervical Cancer,KRAS,26197069,all,kras,C,M,,symbol 'KRAS' present,2,precise classification of cervical carcinomas combined with somatic mutation profiling contributes to predicting disease outcome,M
+Cervical Cancer,KRAS,16256179,all,kras,C,M,,symbol 'KRAS' present,3,consistent absence of braf mutations in cervical and endometrial cancer despite kras mutation status,M
+Cervical Cancer,KRAS,26209091,all,kras,C,M,target,symbol 'KRAS' present,5,epidermal growth factor receptor pathway mutation and expression profiles in cervical squamous cell carcinoma therapeutic implications,M
+Cervical Cancer,KRAS,33127935,all,kras,C,ML,,symbol 'KRAS' present,7,clinical implication of oncogenic somatic mutations in early-stage cervical cancer with radical hysterectomy,ML
+Cervical Cancer,KRAS,24037752,all,kras,C,M,,symbol 'KRAS' present,9,oncogenic mutations in cervical cancer genomic differences between adenocarcinomas and squamous cell carcinomas of the cervix,M
+Cervical Cancer,KRAS,27079212,all,kras,C,ML,,symbol 'KRAS' present,10,sequencing of mutational hotspots in cancer-related genes in small cell neuroendocrine cervical cancer,ML
+Cervical Cancer,KRAS,29185262,all,kras,C,M,,symbol 'KRAS' present,12,mutational analysis of kras and its clinical implications in cervical cancer patients,M
+Cervical Cancer,KRAS,33736612,all,kras,C,M,,symbol 'KRAS' present,15,mutational profiles of marker genes of cervical carcinoma in bangladeshi patients,M
+Cervical Cancer,KRAS,35101299,all,kras,C,I,,symbol 'KRAS' present,16,driver gene mutations in micro-invasive cervical squamous cancers have no prognostic significance,I
+Cervical Cancer,KRAS,29279289,all,kras,C,M,,symbol 'KRAS' present,19,erbb2 mutation a promising target in non-squamous cervical cancer,M
+Cervical Cancer,KRAS,25669975,all,kras,C,G,,symbol 'KRAS' present,27,comprehensive analysis of targetable oncogenic mutations in chinese cervical cancers,G
+Cervical Cancer,KRAS,17360030,all,kras,C,M,,symbol 'KRAS' present,39,inverse correlation between rassf1a hypermethylation kras and braf mutations in cervical adenocarcinoma,M
+Cervical Cancer,KRAS,42247613,all,kras,C,ML,,symbol 'KRAS' present,43,oncogenic impact of pik3ca kras and pten mutations in cervical cancer among south indian women,ML
+Cervical Cancer,KRAS,32544169,all,kras,C,M,,symbol 'KRAS' present,48,comparative genomics of high grade neuroendocrine carcinoma of the cervix,M
+Cervical Cancer,KRAS,35008475,all,kras,C,M,,symbol 'KRAS' present,54,mutation analysis of radioresistant early-stage cervical cancer,M
+Cervical Cancer,KRAS,29505425,all,kras,C,ML,,symbol 'KRAS' present,68,next-generation sequencing reveals recurrent somatic mutations in small cell neuroendocrine carcinoma of the uterine cervix,ML
+Cervical Cancer,KRAS,27048113,all,kras,C,M,,symbol 'KRAS' present,84,g12v kras mutations in cervical cancer under virtual microscope of molecular dynamics simulations,M
+Cervical Cancer,KRAS,21730982,all,kras,C,M,,symbol 'KRAS' present,88,egfr gene amplification is related to adverse clinical outcomes in cervical squamous cell carcinoma making the egfr pathway a novel therapeu,M
+Cervical Cancer,KRAS,22271473,all,kras,C,ML,,symbol 'KRAS' present,91,pi3k akt mtor inhibitors in patients with breast and gynecologic malignancies harboring pik3ca mutations,ML
+Cervical Cancer,KRAS,26336887,all,kras,C,M,,symbol 'KRAS' present,97,targeted genomic profiling reveals recurrent kras mutations and gain of chromosome 1q in mesonephric carcinomas of the female genital tract,M
+Cervical Cancer,KRAS,25724520,all,kras,C,ML,,symbol 'KRAS' present,98,pik3ca pathway mutations predictive of poor response following standard radiochemotherapy cetuximab in cervical cancer patients,ML
+Cervical Cancer,KRAS,27468883,all,kras,C,M,,symbol 'KRAS' present,105,detection of oncogenic mutations in cervical carcinoma using method high resolution melting hrm,M
+Cervical Cancer,KRAS,32641744,all,kras,C,M,,symbol 'KRAS' present,110,genetic characteristics of gastric-type mucinous carcinoma of the uterine cervix,M
+Cervical Cancer,KRAS,33318584,all,kras,C,ML,,symbol 'KRAS' present,124,massively parallel sequencing analysis of 68 gastric-type cervical adenocarcinomas reveals mutations in cell cycle-related genes and potenti,ML
+Cervical Cancer,KRAS,42226181,all,kras,C,ML,,symbol 'KRAS' present,126,in silico analysis of driver genes in squamous cell carcinoma of the cervix insights into their biological functions prognosis immune infilt,ML
+Cervical Cancer,KRAS,26155992,all,kras,C,I,,symbol 'KRAS' present,128,genetic profiles of cervical tumors by high-throughput sequencing for personalized medical care,I
+Cervical Cancer,KRAS,41597409,all,kras,C,G,,symbol 'KRAS' present,144,comprehensive genomic characterization of 102 cervical adenocarcinoma tumors,G
+Cervical Cancer,KRAS,40449138,all,kras,C,M,,symbol 'KRAS' present,149,profiling of her2 kras and pik3ca mutations in uterine cervical neuroendocrine carcinoma and implications for oncogenic driver targeting the,M
+Cervical Cancer,KRAS,24145653,all,kras,C,ML,,symbol 'KRAS' present,155,lobular endocervical glandular hyperplasia is a neoplastic entity with frequent activating gnas mutations,ML
+Cervical Cancer,KRAS,42765697,all,kras,C,M,,symbol 'KRAS' present,158,integrated genomic profiling of pten and tp53 in cervical neuroendocrine carcinoma synergistic roles with her2 kras pik3ca and implications ,M
+Cervical Cancer,KRAS,32408396,all,kras,C,W,,symbol 'KRAS' present,179,hpv-related methylation-based reclassification and risk stratification of cervical cancer,W
+Cervical Cancer,KRAS,31757465,all,kras,C,ML,,symbol 'KRAS' present,191,genomic alterations in stk11 can predict clinical outcomes in cervical cancer patients,ML
+Cervical Cancer,KRAS,32201051,all,kras,C,ML,,symbol 'KRAS' present,197,changes in the genetic landscape during the malignization of high grade squamous intraepithelial lesion into cervical cancer,ML
+Cervical Cancer,KRAS,36184073,all,kras,C,I,,symbol 'KRAS' present,210,identification of novel genetic and epigenetic regulators of different tissue types of cervical cancer,I
+Cervical Cancer,KRAS,33888337,all,kras,C,ML,,symbol 'KRAS' present,215,the next generation sequencing of cancer-related genes in small cell neuroendocrine carcinoma of the cervix,ML
+Cervical Cancer,KRAS,33099482,all,kras,C,M,,symbol 'KRAS' present,216,atypical mesonephric hyperplasia of the uterus harbors pathogenic mutation of kirsten rat sarcoma 2 viral oncogene homolog kras and gain of ,M
+Cervical Cancer,KRAS,28731050,all,kras,C,M,,symbol 'KRAS' present,225,genomic abnormalities in invasive endocervical adenocarcinoma correlate with pattern of invasion biologic and clinical implications,M
+Cervical Cancer,KRAS,40416607,all,kras,C,W,,symbol 'KRAS' present,231,sialyltransferase-related genes as predictive factors for therapeutic response and prognosis in cervical cancer,W
+Cervical Cancer,KRAS,24390348,all,kras,C,G,,symbol 'KRAS' present,232,landscape of genomic alterations in cervical carcinomas,G
+Cervical Cancer,KRAS,27016411,all,kras,C,M,,symbol 'KRAS' present,234,phase i trial evaluating the antiviral agent cidofovir in combination with chemoradiation in cervical cancer patients,M
+Cervical Cancer,KRAS,32859641,all,kras,C,ML,,symbol 'KRAS' present,254,clinicopathological and molecular differences between gastric-type mucinous carcinoma and usual-type endocervical adenocarcinoma of the uter,ML
+Cervical Cancer,KRAS,33398034,all,kras,C,I,,symbol 'KRAS' present,255,genomic alterations caused by hpv integration in a cohort of chinese endocervical adenocarcinomas,I
+Cervical Cancer,KRAS,40806597,all,kras,C,M,,symbol 'KRAS' present,328,a comparative analysis of usual- and gastric-type cervical adenocarcinoma in a japanese population reveals distinct clinicopathological and ,M
+Cervical Cancer,KRAS,31266530,all,kras,C,M,,symbol 'KRAS' present,364,mesonephric adenocarcinoma of the cervix a case report with a three-year follow-up lung metastases and next-generation sequencing analysis,M
+Cervical Cancer,KRAS,33208671,all,kras,C,ML,,symbol 'KRAS' present,365,molecular profiling reveals limited targetable biomarkers in neuroendocrine carcinoma of the cervix,ML
+Cervical Cancer,KRAS,37356314,all,kras,C,ML,,symbol 'KRAS' present,377,the differences in immune features and genomic profiling between squamous cell carcinoma and adenocarcinoma - a multi-center study in chines,ML
+Cervical Cancer,KRAS,34889854,all,kras,C,M,,symbol 'KRAS' present,380,clinical morphologic and molecular features associated with ovarian metastases from pattern a endocervical adenocarcinomas,M
+Cervical Cancer,KRAS,36788068,all,kras,C,ML,,symbol 'KRAS' present,391,mesonephric adenocarcinoma and mesonephric-like adenocarcinoma of the urinary tract,ML
+Cervical Cancer,KRAS,40495175,all,kras,C,I,,symbol 'KRAS' present,397,clinical pathological and molecular features of 100 patients with gastric-type cervical adenocarcinoma,I
+Cervical Cancer,KRAS,31985582,all,kras,C,ML,,symbol 'KRAS' present,419,mesonephric adenocarcinoma of the uterine corpus a report on 2 cases with comparison to its cervical counterpart,ML
+Cervical Cancer,KRAS,31855952,all,kras,C,M,,symbol 'KRAS' present,423,genomic characterization of hpv-related and gastric-type endocervical adenocarcinoma correlation with subtype and clinical behavior,M
+Cervical Cancer,KRAS,28112728,all,kras,C,M,,symbol 'KRAS' present,453,integrated genomic and molecular characterization of cervical cancer,M
+Cervical Cancer,KRAS,41155343,all,kras,C,G,,symbol 'KRAS' present,474,hpv-independent cervical cancer-a new challenge of modern oncology,G
+Cervical Cancer,KRAS,31263021,all,kras,C,M,,symbol 'KRAS' present,496,updates and management algorithm for neuroendocrine tumors of the uterine cervix,M
+Cervical Cancer,KRAS,31118140,all,kras,C,M,,symbol 'KRAS' present,536,results from a single arm single stage phase ii trial of trametinib and gsk2141795 in persistent or recurrent cervical cancer,M
+Cervical Cancer,KRAS,28690098,all,kras|kras proto oncogene gtpase,C,I,,symbol 'KRAS' present,582,mullerian adenosarcoma of the urinary bladder clinicopathologic and immunohistochemical features with novel genetic aberrations,I
+Cervical Cancer,KRAS,38593211,all,kras,C,M,,symbol 'KRAS' present,615,from morphology to methylome epigenetic studies of mullerian mesonephric-like adenocarcinoma reveal similarities to cervical mesonephric ade,M
+Cervical Cancer,KRAS,38428332,all,kras,C,M,,symbol 'KRAS' present,704,diagnosis and management of gastric-type endocervical adenocarcinoma a case report and review of the literature,M
+Cervical Cancer,KRAS,35947285,all,kras,C,I,,symbol 'KRAS' present,776,small cell and other rare histologic types of cervical cancer,I
+Cervical Cancer,KRAS,42289532,all,kras,C,I,,symbol 'KRAS' present,778,clinicopathological and molecular characterization of hpv-associated cervical poorly cohesive carcinoma a rare aggressive entity,I
+Cervical Cancer,KRAS,29974177,all,kras,C,M,,symbol 'KRAS' present,839,imaging and staging of neuroendocrine cervical cancer,M
+Cervical Cancer,TP53,32544169,random,tp53,C,M,,symbol 'TP53' present,48,comparative genomics of high grade neuroendocrine carcinoma of the cervix,M
+Cervical Cancer,TP53,42702935,random,tp53,C,M,,symbol 'TP53' present,60,stk11 mutations and deletions define an aggressive molecular subgroup of cervical adenocarcinoma,M
+Cervical Cancer,TP53,34584128,random,tp53,C,M,,symbol 'TP53' present,78,tp53 mutants and non-hpv16 18 genotypes are poor prognostic factors for concurrent chemoradiotherapy in locally advanced cervical cancer,M
+Cervical Cancer,TP53,35038823,random,tp53,C,ML,,symbol 'TP53' present,95,genomic correlates of unfavorable outcome in locally advanced cervical cancer treated with neoadjuvant chemoradiation,ML
+Cervical Cancer,TP53,41151859,random,tp53,C,ML,,symbol 'TP53' present,106,genomic features of cervical cancer in okinawa japan preliminary findings from 23 patients,ML
+Cervical Cancer,TP53,32641744,random,tp53,C,M,,symbol 'TP53' present,110,genetic characteristics of gastric-type mucinous carcinoma of the uterine cervix,M
+Cervical Cancer,TP53,29160417,random,tp53,C,M,,symbol 'TP53' present,118,radiotherapy modulates expression of egfr ercc1 and p53 in cervical cancer,M
+Cervical Cancer,TP53,33318584,random,tp53,C,M,,symbol 'TP53' present,124,massively parallel sequencing analysis of 68 gastric-type cervical adenocarcinomas reveals mutations in cell cycle-related genes and potenti,M
+Cervical Cancer,TP53,28077784,random,tp53,C,M,target,symbol 'TP53' present,157,identification and characterization of hpv-independent cervical cancers,M
+Cervical Cancer,TP53,42765697,random,tp53,C,M,,symbol 'TP53' present,158,integrated genomic profiling of pten and tp53 in cervical neuroendocrine carcinoma synergistic roles with her2 kras pik3ca and implications ,M
+Cervical Cancer,TP53,39520972,random,tp53,C,M,,symbol 'TP53' present,159,hpv is an essential driver in recurrence of cervical cancer,M
+Cervical Cancer,TP53,27272838,random,tp53,C,M,,symbol 'TP53' present,192,immunohistochemical evaluation of the role of p53 mutation in cervical cancer ser-20 p53-mutant correlates with better prognosis,M
+Cervical Cancer,TP53,40347270,random,tp53,C,ML,,symbol 'TP53' present,212,hpv-independent squamous sell carcinoma of cervix a clinicopathological immunohistochemical and molecular analysis of six cases,ML
+Cervical Cancer,TP53,29323871,random,tp53,C,M,,symbol 'TP53' present,217,microfluidic device for aptamer-based cancer cell capture and genetic mutation detection,M
+Cervical Cancer,TP53,24390348,random,tp53,C,ML,,symbol 'TP53' present,232,landscape of genomic alterations in cervical carcinomas,ML
+Cervical Cancer,TP53,32859641,random,tp53,C,ML,,symbol 'TP53' present,254,clinicopathological and molecular differences between gastric-type mucinous carcinoma and usual-type endocervical adenocarcinoma of the uter,ML
+Cervical Cancer,TP53,38029652,random,tp53,C,M,,symbol 'TP53' present,259,molecular landscape of erbb2 her2 gene amplification among patients with gynecologic malignancies clinical implications and future direction,M
+Cervical Cancer,TP53,36076209,random,tp53,C,I,,symbol 'TP53' present,263,establishment and genetically characterization of patient-derived xenograft models of cervical cancer,I
+Cervical Cancer,TP53,38608077,random,tp53,C,M,,symbol 'TP53' present,264,deciphering age-specific molecular features in cervical cancer and constructing an angio-immune prognostic model,M
+Cervical Cancer,TP53,41077352,random,tp53,C,I,,symbol 'TP53' present,273,comparative analysis reveals recurrent molecular alterations in low-risk human papillomavirus 6 and human papillomavirus 11-associated squam,I
+Cervical Cancer,TP53,38721894,random,tp53,C,M,,symbol 'TP53' present,277,multiomics sequencing and immune microenvironment characteristics define three subtypes of small cell neuroendocrine carcinoma of the cervix,M
+Cervical Cancer,TP53,40087745,random,tp53,C,M,,symbol 'TP53' present,306,proteogenomic characterization of molecular and cellular targets for treatment-resistant subtypes in locally advanced cervical cancers,M
+Cervical Cancer,TP53,35151492,random,tp53,C,I,,symbol 'TP53' present,318,association of recurrent apobec3b alterations with the prognosis of gastric-type cervical adenocarcinoma,I
+Cervical Cancer,TP53,42332782,random,tp53,C,M,,symbol 'TP53' present,321,genomic determinants and an exploratory prognostic model for immunotherapy outcomes in recurrent or metastatic cervical cancer,M
+Cervical Cancer,TP53,38959413,random,tp53,C,M,,symbol 'TP53' present,348,human papilloma virus-independent p53abnormal keratinizing squamous cell carcinoma of the uterine cervix associated with uterine prolapse,M
+Cervical Cancer,TP53,42589439,random,tp53,C,M,,symbol 'TP53' present,443,basic clinical bidirectional empowerment synergistic breakthrough in molecular mechanisms and clinical management of small cell cervical car,M
+Cervical Cancer,TP53,32304153,random,tp53,C,M,,symbol 'TP53' present,497,uterine cervical squamous cell carcinoma without p16 cdkn2a expression heterogeneous causes of an unusual immunophenotype,M
+Cervical Cancer,TP53,29788963,random,tp53,C,M,,symbol 'TP53' present,562,cervical small cell carcinoma frequently presented in multiple high risk hpv infection and often associated with other type of epithelial tu,M
+Cervical Cancer,TP53,33870607,random,tp53,C,M,,symbol 'TP53' present,577,a case of synchronous high-grade cervical intraepithelial neoplasia and metastatic squamous cell carcinomas of unknown primary in rectum,M
+Cervical Cancer,TP53,32041662,random,tp53,C,I,,symbol 'TP53' present,579,epigenetic age acceleration of cervical squamous cell carcinoma converged to human papillomavirus 16 18 expression immunoactivation and favo,I
+Cervical Cancer,TP53,24604526,random+targeted,tumor protein p53,C,P,,credited via alias tumor protein p53,580,cd44 affects the expression level of foslike antigen 1 in cervical cancer tissues,P
+Cervical Cancer,TP53,28375929,random,tp53,C,ML,,symbol 'TP53' present,612,placenta-specific protein 1 expression in human papillomavirus 16 18-positive cervical cancers is associated with tumor histology,ML
+Cervical Cancer,TP53,16524460,random,tp53,C,M,,symbol 'TP53' present,674,cyclin a1 promoter hypermethylation in human papillomavirus-associated cervical cancer,M
+Cervical Cancer,TP53,36069807,random,tp53,C,M,,symbol 'TP53' present,683,morphologic and molecular heterogeneity of cervical neuroendocrine neoplasia a report of 14 cases,M
+Cervical Cancer,TP53,35149769,random,tp53,C,M,,symbol 'TP53' present,697,adult ntrk-rearranged spindle cell neoplasms of the viscera with an emphasis on rare locations and heterologous elements,M
+Cervical Cancer,TP53,39025403,random,tp53,C,I,,symbol 'TP53' present,712,the clinicopathological and molecular characteristics of endocervical gastric-type adenocarcinoma and the use of claudin18 2 as a potential ,I
+Cervical Cancer,TP53,35205332,random,tp53,C,I,,symbol 'TP53' present,742,characterization of the genomic landscape in cervical cancer by next generation sequencing,I
+Cervical Cancer,TP53,33141854,random,tp53,C,M,,symbol 'TP53' present,765,downregulation of 5-hydroxymethylcytosine is associated with the progression of cervical intraepithelial neoplasia,M
+Cervical Cancer,TP53,30234500,random,tp53,C,M,,symbol 'TP53' present,799,gastric-type adenocarcinoma of the cervix tumor with wide range of histologic appearances,M
+Cervical Cancer,TP53,29974177,random,tp53,C,M,,symbol 'TP53' present,839,imaging and staging of neuroendocrine cervical cancer,M
+Cervical Cancer,PTEN,26209091,all,pten,C,P,,symbol 'PTEN' present,5,epidermal growth factor receptor pathway mutation and expression profiles in cervical squamous cell carcinoma therapeutic implications,P
+Cervical Cancer,PTEN,36333792,all,pten,C,M,,symbol 'PTEN' present,8,genomic landscape immune characteristics and prognostic mutation signature of cervical cancer in china,M
+Cervical Cancer,PTEN,31074114,all,phosphatase and tensin homolog|pten,C,M,,symbol 'PTEN' present,23,assessment of epigenetic alterations and in silico analysis of mutation affecting pten expression among indian cervical cancer patients,M
+Cervical Cancer,PTEN,25669975,all,pten,C,M,,symbol 'PTEN' present,27,comprehensive analysis of targetable oncogenic mutations in chinese cervical cancers,M
+Cervical Cancer,PTEN,10959096,all,pten,C,M,,symbol 'PTEN' present,29,biallelic inactivating mutations and an occult germline mutation of pten in primary cervical carcinomas,M
+Cervical Cancer,PTEN,11179477,all,pten,C,M,,symbol 'PTEN' present,41,mutation of the pten gene in advanced cervical cancer correlated with tumor progression and poor outcome after radiotherapy,M
+Cervical Cancer,PTEN,42247613,all,pten,C,ML,,symbol 'PTEN' present,43,oncogenic impact of pik3ca kras and pten mutations in cervical cancer among south indian women,ML
+Cervical Cancer,PTEN,10955808,all,pten,C,M,,symbol 'PTEN' present,53,somatic mutation of pten in vulvar cancer,M
+Cervical Cancer,PTEN,29505425,all,pten,C,I,,symbol 'PTEN' present,68,next-generation sequencing reveals recurrent somatic mutations in small cell neuroendocrine carcinoma of the uterine cervix,I
+Cervical Cancer,PTEN,15172121,all,pten,C,M,,symbol 'PTEN' present,70,association of pten mutation with hpv-negative adenocarcinoma of the uterine cervix,M
+Cervical Cancer,PTEN,34584128,all,pten,C,I,,symbol 'PTEN' present,78,tp53 mutants and non-hpv16 18 genotypes are poor prognostic factors for concurrent chemoradiotherapy in locally advanced cervical cancer,I
+Cervical Cancer,PTEN,41061386,all,pten,C,ML,,symbol 'PTEN' present,81,clonal origins and divergent evolutionary relationships of synchronous multiple malignant neoplasms in gynecology revealed by next-generatio,ML
+Cervical Cancer,PTEN,25426553,all,pten,C,M,,symbol 'PTEN' present,89,targeted pi3k akt mtor therapy for metastatic carcinomas of the cervix a phase i clinical experience,M
+Cervical Cancer,PTEN,26336887,all,pten,C,M,,symbol 'PTEN' present,97,targeted genomic profiling reveals recurrent kras mutations and gain of chromosome 1q in mesonephric carcinomas of the female genital tract,M
+Cervical Cancer,PTEN,41151859,all,pten,C,ML,,symbol 'PTEN' present,106,genomic features of cervical cancer in okinawa japan preliminary findings from 23 patients,ML
+Cervical Cancer,PTEN,42226181,all,pten,C,ML,,symbol 'PTEN' present,126,in silico analysis of driver genes in squamous cell carcinoma of the cervix insights into their biological functions prognosis immune infilt,ML
+Cervical Cancer,PTEN,29113722,all,pten,C,M,,symbol 'PTEN' present,141,the landscape of somatic mutations in indonesian cervical cancer is predominated by the pi3k pathway,M
+Cervical Cancer,PTEN,35568000,all,pten,C,W,,symbol 'PTEN' present,145,high incidence of pi3k pathway gene mutations in south indian cervical cancers,W
+Cervical Cancer,PTEN,42765697,all,pten,C,M,,symbol 'PTEN' present,158,integrated genomic profiling of pten and tp53 in cervical neuroendocrine carcinoma synergistic roles with her2 kras pik3ca and implications ,M
+Cervical Cancer,PTEN,33087507,all,pten,C,M,,symbol 'PTEN' present,166,glutaminase inhibitors induce thiol-mediated oxidative stress and radiosensitization in treatment-resistant cervical cancers,M
+Cervical Cancer,PTEN,37574505,all,pten,C,ML,,symbol 'PTEN' present,187,clinical availability and characteristics of multigene panel testing for recurrent advanced gynecologic cancer,ML
+Cervical Cancer,PTEN,31757465,all,pten,C,G,,symbol 'PTEN' present,191,genomic alterations in stk11 can predict clinical outcomes in cervical cancer patients,G
+Cervical Cancer,PTEN,10657903,all,mmac1|pten,C,M,,symbol 'PTEN' present,199,abnormal structure and expression of pten mmac1 gene in human uterine cancers,M
+Cervical Cancer,PTEN,38625939,all,pten,C,ML,,symbol 'PTEN' present,200,integrated mutational landscape analysis of poorly differentiated high-grade neuroendocrine carcinoma of the uterine cervix,ML
+Cervical Cancer,PTEN,24390348,all,pten,C,ML,,symbol 'PTEN' present,232,landscape of genomic alterations in cervical carcinomas,ML
+Cervical Cancer,PTEN,24778042,all,phosphatase and tensin homolog,C,M,,credited via alias phosphatase and tensin homolog,268,outcomes of patients with metastatic cervical cancer in a phase i clinical trials program,M
+Cervical Cancer,PTEN,25003471,all,phosphatase and tensin homolog|pten,C,M,,symbol 'PTEN' present,278,pten expression in patients with carcinoma of the cervix and its association with p53 ki-67 and cd31,M
+Cervical Cancer,PTEN,34011535,all,pten,C,M,,symbol 'PTEN' present,297,genomic profiling of advanced cervical cancer to predict response to programmed death-1 inhibitor combination therapy a secondary analysis o,M
+Cervical Cancer,PTEN,33208671,all,pten,C,ML,,symbol 'PTEN' present,365,molecular profiling reveals limited targetable biomarkers in neuroendocrine carcinoma of the cervix,ML
+Cervical Cancer,PTEN,34282106,all,pten,C,M,,symbol 'PTEN' present,367,pten loss and arid1a mutation in an hpv-positive metastatic adenocarcinoma diagnosed almost 18 yr after an intact cone excision for endocerv,M
+Cervical Cancer,PTEN,28771191,all,phosphatase and tensin homolog|pten,C,I,,symbol 'PTEN' present,420,somatic host cell alterations in hpv carcinogenesis,I
+Cervical Cancer,PTEN,28112728,all,pten,C,M,,symbol 'PTEN' present,453,integrated genomic and molecular characterization of cervical cancer,M
+Cervical Cancer,PTEN,15196854,all,pten,C,M,,symbol 'PTEN' present,467,epigenetic and genetic alternation of pten in cervical neoplasm,M
+Cervical Cancer,PTEN,16287065,all,pten,C,M,,symbol 'PTEN' present,472,molecular analysis of the pi3k-akt pathway in uterine cervical neoplasia frequent pik3ca amplification and akt phosphorylation,M
+Cervical Cancer,PTEN,41155343,all,pten,C,ML,,symbol 'PTEN' present,474,hpv-independent cervical cancer-a new challenge of modern oncology,ML
+Cervical Cancer,PTEN,24705275,all,pten,C,M,,symbol 'PTEN' present,507,akt inhibitors promote cell death in cervical cancer through disruption of mtor signaling and glucose uptake,M
+Cervical Cancer,PTEN,40014097,all,pten,C,G,target,symbol 'PTEN' present,510,ppp1r13l drives cervical cancer progression by suppressing p63-mediated pten transcription,G
+Cervical Cancer,PTEN,29316891,all,phosphatase and tensin homolog|pten,C,M,target,symbol 'PTEN' present,520,serum mir-486-5p as a diagnostic marker in cervical cancer with investigation of potential mechanisms,M
+Cervical Cancer,PTEN,16803514,all,pten,C,M,,symbol 'PTEN' present,572,evaluation of pten expression in cervical adenocarcinoma by tissue microarray,M
+Cervical Cancer,PTEN,28986522,all,pten,C,P,,symbol 'PTEN' present,578,mammalian ape1 controls mirna processing and its interactome is linked to cancer rna metabolism,P
+Cervical Cancer,PTEN,21698421,all,pten,C,M,,symbol 'PTEN' present,661,aberrant promoter methylation and inactivation of pten gene in cervical carcinoma from indian population,M
+Cervical Cancer,PTEN,30581036,all,pten,C,I,,symbol 'PTEN' present,715,genomic characterization of cervical cancer based on human papillomavirus status,I
+Cervical Cancer,PTEN,17727244,all,pten,C,P,,symbol 'PTEN' present,761,pten and ndufb8 aberrations in cervical cancer tissue,P
+Cervical Cancer,PTEN,35947285,all,pten,C,I,,symbol 'PTEN' present,776,small cell and other rare histologic types of cervical cancer,I
+Cervical Cancer,ERBB2,35101299,all,erbb2,C,ML,,symbol 'ERBB2' present,16,driver gene mutations in micro-invasive cervical squamous cancers have no prognostic significance,ML
+Cervical Cancer,ERBB2,38689071,all,her2,C,M,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,17,her2 mutations in advanced cervical neuroendocrine carcinoma implications for trastuzumab deruxtecan therapy,M
+Cervical Cancer,ERBB2,29279289,all,erbb2,C,M,,symbol 'ERBB2' present,19,erbb2 mutation a promising target in non-squamous cervical cancer,M
+Cervical Cancer,ERBB2,25669975,all,her2,C,G,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,27,comprehensive analysis of targetable oncogenic mutations in chinese cervical cancers,G
+Cervical Cancer,ERBB2,41806198,all,erbb2,C,G,,symbol 'ERBB2' present,34,comprehensive circulating tumor dna mutation profiling via capp-seq liquid biopsy for cervical cancer,G
+Cervical Cancer,ERBB2,29505425,all,erbb2,C,ML,,symbol 'ERBB2' present,68,next-generation sequencing reveals recurrent somatic mutations in small cell neuroendocrine carcinoma of the uterine cervix,ML
+Cervical Cancer,ERBB2,41061386,all,erbb2,C,ML,,symbol 'ERBB2' present,81,clonal origins and divergent evolutionary relationships of synchronous multiple malignant neoplasms in gynecology revealed by next-generatio,ML
+Cervical Cancer,ERBB2,40323698,all,erbb2,C,M,,symbol 'ERBB2' present,93,comprehensive cross-sectional study of cin prevalence hpv genotyping genetic alterations and microbiota as molecular biomarkers for early ce,M
+Cervical Cancer,ERBB2,37643132,all,erbb2,C,G,,symbol 'ERBB2' present,112,assessing the genomic landscape of cervical cancers clinical opportunities and therapeutic targets,G
+Cervical Cancer,ERBB2,33318584,all,erbb2,C,M,,symbol 'ERBB2' present,124,massively parallel sequencing analysis of 68 gastric-type cervical adenocarcinomas reveals mutations in cell cycle-related genes and potenti,M
+Cervical Cancer,ERBB2,42226181,all,erbb2|her2,C,I,target,symbol 'ERBB2' present,126,in silico analysis of driver genes in squamous cell carcinoma of the cervix insights into their biological functions prognosis immune infilt,I
+Cervical Cancer,ERBB2,39475374,all,erbb2,C,M,,symbol 'ERBB2' present,135,clinicopathologic and genomic features of invasive stratified mucin-producing carcinoma of the uterine cervix coexisting with high-grade squ,M
+Cervical Cancer,ERBB2,32723675,all,her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,138,neratinib in patients with her2-mutant metastatic cervical cancer findings from the phase 2 summit basket trial,M
+Cervical Cancer,ERBB2,41597409,all,erbb2,C,G,,symbol 'ERBB2' present,144,comprehensive genomic characterization of 102 cervical adenocarcinoma tumors,G
+Cervical Cancer,ERBB2,40449138,all,her2,C,M,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,149,profiling of her2 kras and pik3ca mutations in uterine cervical neuroendocrine carcinoma and implications for oncogenic driver targeting the,M
+Cervical Cancer,ERBB2,42765697,all,her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,158,integrated genomic profiling of pten and tp53 in cervical neuroendocrine carcinoma synergistic roles with her2 kras pik3ca and implications ,M
+Cervical Cancer,ERBB2,38211393,all,her2,C,M,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,173,targeting her2-mutant metastatic cervical cancer with neratinib final results from the phase 2 summit basket trial,M
+Cervical Cancer,ERBB2,39652450,all,her2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,178,claudin-18 and mutation surrogate immunohistochemistry in gastric-type endocervical lesions and their differential diagnoses,P
+Cervical Cancer,ERBB2,31757465,all,erbb2,C,G,,symbol 'ERBB2' present,191,genomic alterations in stk11 can predict clinical outcomes in cervical cancer patients,G
+Cervical Cancer,ERBB2,38625939,all,erbb2,C,ML,,symbol 'ERBB2' present,200,integrated mutational landscape analysis of poorly differentiated high-grade neuroendocrine carcinoma of the uterine cervix,ML
+Cervical Cancer,ERBB2,36184073,all,erbb2,C,M,,symbol 'ERBB2' present,210,identification of novel genetic and epigenetic regulators of different tissue types of cervical cancer,M
+Cervical Cancer,ERBB2,40347270,all,her2,C,G,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,212,hpv-independent squamous sell carcinoma of cervix a clinicopathological immunohistochemical and molecular analysis of six cases,G
+Cervical Cancer,ERBB2,24390348,all,erbb2,C,ML,,symbol 'ERBB2' present,232,landscape of genomic alterations in cervical carcinomas,ML
+Cervical Cancer,ERBB2,38029652,all,erbb2|her2,C,G,,symbol 'ERBB2' present,259,molecular landscape of erbb2 her2 gene amplification among patients with gynecologic malignancies clinical implications and future direction,G
+Cervical Cancer,ERBB2,33817764,all,erbb2,C,G,,symbol 'ERBB2' present,260,comprehensive genomic profiling and prognostic analysis of cervical gastric-type mucinous adenocarcinoma,G
+Cervical Cancer,ERBB2,31624127,all,erbb2,C,M,,symbol 'ERBB2' present,261,whole-exome sequencing of cervical carcinomas identifies activating erbb2 and pik3ca mutations as targets for combination therapy,M
+Cervical Cancer,ERBB2,24656976,all,her2,C,G,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,307,her2 aberrations in cancer implications for therapy,G
+Cervical Cancer,ERBB2,35151492,all,erbb2,C,ML,,symbol 'ERBB2' present,318,association of recurrent apobec3b alterations with the prognosis of gastric-type cervical adenocarcinoma,ML
+Cervical Cancer,ERBB2,38215117,all,erbb2,C,M,,symbol 'ERBB2' present,359,whether specific genetic feature predicted immunotherapy efficacy a case report,M
+Cervical Cancer,ERBB2,37356314,all,erbb2,C,ML,,symbol 'ERBB2' present,377,the differences in immune features and genomic profiling between squamous cell carcinoma and adenocarcinoma - a multi-center study in chines,ML
+Cervical Cancer,ERBB2,10782406,all,her 2,C,G,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,401,well-differentiated villoglandular adenocarcinoma of the uterine cervix oncogene tumor suppressor gene alterations and human papillomavirus ,G
+Cervical Cancer,ERBB2,25626421,all,erbb2,C,I,,symbol 'ERBB2' present,438,genomic aberrations in cervical adenocarcinomas in hong kong chinese women,I
+Cervical Cancer,ERBB2,39579262,all,erbb2|her2,C,G,,symbol 'ERBB2' present,442,endocervical adenocarcinoma with a micropapillary component a clinicopathologic analysis in the setting of current who classification,G
+Cervical Cancer,ERBB2,34596094,all,her2,C,I,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,560,precision medicine for cervical cancer,I
+Cervical Cancer,ERBB2,37689699,all,her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,621,establishment of a high-fidelity patient-derived xenograft model for cervical cancer enables the evaluation of patient's response to convent,M
+Cervical Cancer,ERBB2,33570867,all,erbb2|her2,C,M,target,symbol 'ERBB2' present,631,the role of predictive biomarkers in endocervical adenocarcinoma recommendations from the international society of gynecological pathologist,M
+Cervical Cancer,ERBB2,39480104,all,erbb2|her2,C,G,,symbol 'ERBB2' present,639,molecular and clinicopathologic characterization of her2-overexpressed squamous cell carcinoma of the cervix,G
+Cervical Cancer,ERBB2,36069807,all,erbb2,C,G,,symbol 'ERBB2' present,683,morphologic and molecular heterogeneity of cervical neuroendocrine neoplasia a report of 14 cases,G
+Cervical Cancer,ERBB2,36849702,all,erbb2,C,ML,,symbol 'ERBB2' present,769,molecular correlates of invasion pattern in hpv-associated endocervical adenocarcinoma emergence of two distinct risk-stratified tiers,ML
+Cervical Cancer,ERBB2,29198328,all,her2,C,I,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,775,the role of nuclear factor-kappa b signaling in human cervical cancer,I
+Cervical Cancer,ERBB2,42289532,all,her2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,778,clinicopathological and molecular characterization of hpv-associated cervical poorly cohesive carcinoma a rare aggressive entity,P
+Cervical Cancer,STK11,42702935,all,stk11,C,M,,symbol 'STK11' present,60,stk11 mutations and deletions define an aggressive molecular subgroup of cervical adenocarcinoma,M
+Cervical Cancer,STK11,23415580,all,lkb1|stk11,C,M,,symbol 'STK11' present,71,cancer risk associated with stk11 lkb1 germline mutations in peutz-jeghers syndrome patients results of an italian multicenter study,M
+Cervical Cancer,STK11,25724520,all,stk11,C,ML,,symbol 'STK11' present,98,pik3ca pathway mutations predictive of poor response following standard radiochemotherapy cetuximab in cervical cancer patients,ML
+Cervical Cancer,STK11,23645358,all,stk11,C,M,,symbol 'STK11' present,101,clonality analysis suggests that stk11 gene mutations are involved in progression of lobular endocervical glandular hyperplasia legh to mini,M
+Cervical Cancer,STK11,32474915,all,stk11,C,M,,symbol 'STK11' present,104,molecular and pathological basis of hpv-negative cervical adenocarcinoma seen in a global study,M
+Cervical Cancer,STK11,32641744,all,stk11,C,I,,symbol 'STK11' present,110,genetic characteristics of gastric-type mucinous carcinoma of the uterine cervix,I
+Cervical Cancer,STK11,33318584,all,stk11,C,M,,symbol 'STK11' present,124,massively parallel sequencing analysis of 68 gastric-type cervical adenocarcinomas reveals mutations in cell cycle-related genes and potenti,M
+Cervical Cancer,STK11,42226181,all,stk11,C,ML,,symbol 'STK11' present,126,in silico analysis of driver genes in squamous cell carcinoma of the cervix insights into their biological functions prognosis immune infilt,ML
+Cervical Cancer,STK11,25738363,all,stk11,C,ML,,symbol 'STK11' present,133,progression of naive intraepithelial neoplasia genome to aggressive squamous cell carcinoma genome of uterine cervix,ML
+Cervical Cancer,STK11,41597409,all,stk11,C,I,,symbol 'STK11' present,144,comprehensive genomic characterization of 102 cervical adenocarcinoma tumors,I
+Cervical Cancer,STK11,24145653,all,stk11,C,ML,,symbol 'STK11' present,155,lobular endocervical glandular hyperplasia is a neoplastic entity with frequent activating gnas mutations,ML
+Cervical Cancer,STK11,41586744,all,serine threonine kinase 11|stk11,C,M,,symbol 'STK11' present,170,integrated genomic and proteomic profiling reveals insights into chemoradiation resistance in cervical cancer,M
+Cervical Cancer,STK11,39652450,all,lkb1|stk11,C,P,,symbol 'STK11' present,178,claudin-18 and mutation surrogate immunohistochemistry in gastric-type endocervical lesions and their differential diagnoses,P
+Cervical Cancer,STK11,31757465,all,stk11,C,M,,symbol 'STK11' present,191,genomic alterations in stk11 can predict clinical outcomes in cervical cancer patients,M
+Cervical Cancer,STK11,10623683,all,lkb1|stk11,C,M,,symbol 'STK11' present,208,somatic mutations in the stk11 lkb1 gene are uncommon in rare gynecological tumor types associated with peutz-jegher's syndrome,M
+Cervical Cancer,STK11,24390348,all,stk11,C,ML,,symbol 'STK11' present,232,landscape of genomic alterations in cervical carcinomas,ML
+Cervical Cancer,STK11,19340305,all,lkb1,C,M,,credited via alias lkb1,235,somatic lkb1 mutations promote cervical cancer progression,M
+Cervical Cancer,STK11,32859641,all,stk11,C,ML,,symbol 'STK11' present,254,clinicopathological and molecular differences between gastric-type mucinous carcinoma and usual-type endocervical adenocarcinoma of the uter,ML
+Cervical Cancer,STK11,33817764,all,stk11,C,M,,symbol 'STK11' present,260,comprehensive genomic profiling and prognostic analysis of cervical gastric-type mucinous adenocarcinoma,M
+Cervical Cancer,STK11,34011535,all,stk11,C,I,,symbol 'STK11' present,297,genomic profiling of advanced cervical cancer to predict response to programmed death-1 inhibitor combination therapy a secondary analysis o,I
+Cervical Cancer,STK11,20193846,all,lkb1|stk11,C,M,,symbol 'STK11' present,314,homozygous deletion of the stk11 lkb1 locus and the generation of novel fusion transcripts in cervical cancer cells,M
+Cervical Cancer,STK11,37356314,all,stk11,C,M,,symbol 'STK11' present,377,the differences in immune features and genomic profiling between squamous cell carcinoma and adenocarcinoma - a multi-center study in chines,M
+Cervical Cancer,STK11,40495175,all,stk11,C,I,,symbol 'STK11' present,397,clinical pathological and molecular features of 100 patients with gastric-type cervical adenocarcinoma,I
+Cervical Cancer,STK11,31855952,all,stk11,C,ML,,symbol 'STK11' present,423,genomic characterization of hpv-related and gastric-type endocervical adenocarcinoma correlation with subtype and clinical behavior,ML
+Cervical Cancer,STK11,36207323,all,stk11,C,M,,symbol 'STK11' present,437,integrated analysis of cervical squamous cell carcinoma cohorts from three continents reveals conserved subtypes of prognostic significance,M
+Cervical Cancer,STK11,39579262,all,stk11,C,ML,,symbol 'STK11' present,442,endocervical adenocarcinoma with a micropapillary component a clinicopathologic analysis in the setting of current who classification,ML
+Cervical Cancer,STK11,40699255,all,stk11,C,M,,symbol 'STK11' present,469,gastric-type endocervical adenocarcinoma in situ as the presenting feature in a mosaic stk11 pathogenic variant carrier with a peutz-jeghers,M
+Cervical Cancer,STK11,41155343,all,stk11,C,ML,,symbol 'STK11' present,474,hpv-independent cervical cancer-a new challenge of modern oncology,ML
+Cervical Cancer,STK11,42151561,all,stk11,C,M,,symbol 'STK11' present,502,clinico-molecular predictors of durable response to immune checkpoint inhibitors ici in metastatic cervical cancer mcc,M
+Cervical Cancer,STK11,34387215,all,stk11,C,ML,,symbol 'STK11' present,542,hpv-negative squamous cell carcinomas of the cervix with special focus on intraepithelial precursor lesions,ML
+Cervical Cancer,STK11,27241107,all,lkb1|stk11,C,M,,symbol 'STK11' present,606,peutz-jeghers syndrome pathobiology pathologic manifestations and suggestions for recommending genetic testing in pathology reports,M
+Cervical Cancer,STK11,34103667,all,stk11,C,ML,,symbol 'STK11' present,646,immunohistochemical and genetic characteristics of hpv-associated endocervical carcinoma with an invasive stratified mucin-producing carcino,ML
+Cervical Cancer,STK11,24490603,all,stk11,C,M,,symbol 'STK11' present,671,a tumor of the uterine cervix with a complex histology in a peutz-jeghers syndrome patient with genomic deletion of the stk11 exon 1 region,M
+Cervical Cancer,STK11,27546620,all,lkb1,C,M,target,credited via alias lkb1,707,lkb1 inhibits hpv-associated cancer progression by targeting cellular metabolism,M
+Cervical Cancer,STK11,39025403,all,stk11,C,I,,symbol 'STK11' present,712,the clinicopathological and molecular characteristics of endocervical gastric-type adenocarcinoma and the use of claudin18 2 as a potential ,I
+Cervical Cancer,STK11,31781355,all,lkb1,C,G,,credited via alias lkb1,784,lkb1 ampk pathway and drug response in cancer a therapeutic perspective,G
+Cervical Cancer,STK11,19407487,all,lkb1,C,M,,credited via alias lkb1,791,inhibition of cervical cancer cell growth through activation of upstream kinases of amp-activated protein kinase,M
+Cervical Cancer,STK11,30234500,all,stk11,C,M,,symbol 'STK11' present,799,gastric-type adenocarcinoma of the cervix tumor with wide range of histologic appearances,M
+Cervical Cancer,STK11,38937781,all,serine threonine kinase 11,C,M,,credited via alias serine threonine kinase 11,857,when synchronous mucinous metaplasia and neoplasia of the female genital tract and peutz-jeghers syndrome meet a case report and literature ,M
+Cervical Cancer,EGFR,26209091,all,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,5,epidermal growth factor receptor pathway mutation and expression profiles in cervical squamous cell carcinoma therapeutic implications,M
+Cervical Cancer,EGFR,24037752,all,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,9,oncogenic mutations in cervical cancer genomic differences between adenocarcinomas and squamous cell carcinomas of the cervix,M
+Cervical Cancer,EGFR,30338793,all,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,11,analysis of gene mutation associated with tyrosine kinase inhibitor sensitivity of epidermal growth factor receptor in cervical cancer patie,M
+Cervical Cancer,EGFR,33736612,all,egfr,C,M,,symbol 'EGFR' present,15,mutational profiles of marker genes of cervical carcinoma in bangladeshi patients,M
+Cervical Cancer,EGFR,25669975,all,egfr,C,ML,,symbol 'EGFR' present,27,comprehensive analysis of targetable oncogenic mutations in chinese cervical cancers,ML
+Cervical Cancer,EGFR,26762413,all,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,32,mutation analysis of egfr and its correlation with the hpv in indian cervical cancer patients,M
+Cervical Cancer,EGFR,41806198,all,egfr,C,G,,symbol 'EGFR' present,34,comprehensive circulating tumor dna mutation profiling via capp-seq liquid biopsy for cervical cancer,G
+Cervical Cancer,EGFR,25789535,all,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,37,egfr promoter methylation egfr mutation and hpv infection in chinese cervical squamous cell carcinoma,M
+Cervical Cancer,EGFR,21730982,all,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,88,egfr gene amplification is related to adverse clinical outcomes in cervical squamous cell carcinoma making the egfr pathway a novel therapeu,M
+Cervical Cancer,EGFR,20937225,all,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,92,egfr p16ink4a and e-cadherin immuno-histochemistry and egfr point mutations analyses in invasive cervical cancer specimens from moroccan wom,M
+Cervical Cancer,EGFR,35038823,all,egfr,C,I,,symbol 'EGFR' present,95,genomic correlates of unfavorable outcome in locally advanced cervical cancer treated with neoadjuvant chemoradiation,I
+Cervical Cancer,EGFR,25724520,all,egfr,C,I,target,symbol 'EGFR' present,98,pik3ca pathway mutations predictive of poor response following standard radiochemotherapy cetuximab in cervical cancer patients,I
+Cervical Cancer,EGFR,27468883,all,egfr,C,ML,,symbol 'EGFR' present,105,detection of oncogenic mutations in cervical carcinoma using method high resolution melting hrm,ML
+Cervical Cancer,EGFR,39387892,all,egfr,C,M,,symbol 'EGFR' present,107,s100 and cd34 positive spindle cell tumors of the uterine cervix with egfr mutation a hitherto unrecognized neoplasm phenotypically and epig,M
+Cervical Cancer,EGFR,29160417,all,egfr|epidermal_growth_factor_receptor,C,P,,symbol 'EGFR' present,118,radiotherapy modulates expression of egfr ercc1 and p53 in cervical cancer,P
+Cervical Cancer,EGFR,26155992,all,egfr,C,I,,symbol 'EGFR' present,128,genetic profiles of cervical tumors by high-throughput sequencing for personalized medical care,I
+Cervical Cancer,EGFR,26676746,all,egfr,C,I,,symbol 'EGFR' present,143,balancing protein stability and activity in cancer a new approach for identifying driver mutations affecting cbl ubiquitin ligase activation,I
+Cervical Cancer,EGFR,17949425,all,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,162,absence of epidermal growth factor receptor mutations in cervical cancer,M
+Cervical Cancer,EGFR,21252859,all,epidermal_growth_factor_receptor,C,G,,credited via alias epidermal_growth_factor_receptor,168,molecular mechanisms of epidermal growth factor receptor overexpression in patients with cervical cancer,G
+Cervical Cancer,EGFR,41586744,all,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,170,integrated genomic and proteomic profiling reveals insights into chemoradiation resistance in cervical cancer,M
+Cervical Cancer,EGFR,36800542,all,egfr,C,I,,symbol 'EGFR' present,181,acquisition of genetic aberrations during the progression of high-grade intraepithelial lesions micro-invasive squamous cancers to widely in,I
+Cervical Cancer,EGFR,20004952,all,epidermal_growth_factor_receptor,C,M,,credited via alias epidermal_growth_factor_receptor,189,thyroid transcription factor 1 expression in ovarian carcinomas is an independent prognostic factor,M
+Cervical Cancer,EGFR,32201051,all,egfr,C,ML,,symbol 'EGFR' present,197,changes in the genetic landscape during the malignization of high grade squamous intraepithelial lesion into cervical cancer,ML
+Cervical Cancer,EGFR,19563658,all,egfr,C,M,,symbol 'EGFR' present,291,molecular characterization of egfr pdgfra and vegfr2 in cervical adenosquamous carcinoma,M
+Cervical Cancer,EGFR,24656976,all,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,307,her2 aberrations in cancer implications for therapy,M
+Cervical Cancer,EGFR,15717992,all,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,309,rationale and clinical experience with epidermal growth factor receptor inhibitors in gynecologic malignancies,M
+Cervical Cancer,EGFR,41620519,all,egfr|epidermal_growth_factor_receptor,C,G,target,symbol 'EGFR' present,311,changes in egfr activity following crispr cas9-editing of the egf binding domain,G
+Cervical Cancer,EGFR,39706867,all,egfr|epidermal_growth_factor_receptor,C,G,,symbol 'EGFR' present,449,oncogenic pik3ca corrupts growth factor signaling specificity,G
+Cervical Cancer,EGFR,27818285,all,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,494,down-regulation of microrna-146a is associated with high-risk human papillomavirus infection and epidermal growth factor receptor overexpres,M
+Cervical Cancer,EGFR,34505336,all,egfr,C,M,,symbol 'EGFR' present,499,next-generation sequencing assisted diagnosis of cervical metastasis in egfr-mutated lung adenocarcinoma a case report,M
+Cervical Cancer,EGFR,30979589,all,egfr|epidermal_growth_factor_receptor,C,I,target,symbol 'EGFR' present,550,the mito cerv-2 trial a randomized phase ii study of cetuximab plus carboplatin and paclitaxel in advanced or recurrent cervical cancer,I
+Cervical Cancer,EGFR,37689699,all,epidermal_growth_factor_receptor,X,M,,credited via 'epidermal growth factor receptor' inside HER2's name,621,establishment of a high-fidelity patient-derived xenograft model for cervical cancer enables the evaluation of patient's response to convent,M
+Cervical Cancer,EGFR,30760827,all,egfr,C,G,,symbol 'EGFR' present,636,establishment molecular and biological characterization of hcb-514 a novel human cervical cancer cell line,G
+Cervical Cancer,EGFR,29468855,all,epidermal_growth_factor_receptor,X,I,target,credited via 'epidermal growth factor receptor' inside HER2's name,640,major clinical research advances in gynecologic cancer in 2017,I
+Cervical Cancer,EGFR,21665306,all,egfr|epidermal_growth_factor_receptor,C,P,target,symbol 'EGFR' present,643,in tumor cells regulation of dna double strand break repair through egf receptor involves both nhej and hr and is independent of p53 and k-r,P
+Cervical Cancer,EGFR,23466569,all,epidermal_growth_factor_receptor,C,M,,credited via alias epidermal_growth_factor_receptor,735,role of gefitinib in patients with recurrent or metastatic cervical carcinoma ineligible or refractory to systemic chemotherapy first study ,M
+Cervical Cancer,EGFR,27509846,all,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,749,ebp50 interacts with egfr and regulates egfr signaling to affect the prognosis of cervical cancer patients,M
+Cervical Cancer,EGFR,29198328,all,egfr,C,W,,symbol 'EGFR' present,775,the role of nuclear factor-kappa b signaling in human cervical cancer,W
+Cervical Cancer,EGFR,42364717,all,egfr,C,I,,symbol 'EGFR' present,831,signaling pathways in tobacco smoking-induced cervical carcinogenesis beyond hpv-mediated activation,I
+Cervical Cancer,EGFR,34848237,all,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,836,a review on the role of epidermal growth factor signaling in the development progression and treatment of cervical cancer,M
+Cervical Cancer,FBXW7,31161818,all,f box and wd repeat domain containing 7|fbxw7,C,M,,symbol 'FBXW7' present,14,fbxw7 mutations promote cell proliferation migration and invasion in cervical cancer,M
+Cervical Cancer,FBXW7,35101299,all,fbxw7,C,I,,symbol 'FBXW7' present,16,driver gene mutations in micro-invasive cervical squamous cancers have no prognostic significance,I
+Cervical Cancer,FBXW7,32951893,all,fbxw7,C,I,,symbol 'FBXW7' present,28,mutation profiling of uterine cervical cancer patients treated with definitive radiotherapy,I
+Cervical Cancer,FBXW7,18485478,all,fbw7|fbxw7|sel 10,C,M,,symbol 'FBXW7' present,56,fbxw7 mutation in adult t-cell and b-cell acute lymphocytic leukemias,M
+Cervical Cancer,FBXW7,38710532,all,fbxw7,C,M,,symbol 'FBXW7' present,62,genetic analysis of cervical cancer with lymph node metastasis,M
+Cervical Cancer,FBXW7,34584128,all,fbxw7,C,I,,symbol 'FBXW7' present,78,tp53 mutants and non-hpv16 18 genotypes are poor prognostic factors for concurrent chemoradiotherapy in locally advanced cervical cancer,I
+Cervical Cancer,FBXW7,38988108,all,fbxw7,C,G,,symbol 'FBXW7' present,102,identifying comprehensive genomic alterations and potential neoantigens for cervical cancer immunotherapy in a cohort of chinese squamous ce,G
+Cervical Cancer,FBXW7,41151859,all,fbxw7,C,ML,,symbol 'FBXW7' present,106,genomic features of cervical cancer in okinawa japan preliminary findings from 23 patients,ML
+Cervical Cancer,FBXW7,33113150,all,fbxw7,C,I,,symbol 'FBXW7' present,109,dynamic analysis of circulating tumor dna to predict prognosis and monitor therapeutic response in metastatic relapsed cervical cancer,I
+Cervical Cancer,FBXW7,42226181,all,fbxw7,C,I,,symbol 'FBXW7' present,126,in silico analysis of driver genes in squamous cell carcinoma of the cervix insights into their biological functions prognosis immune infilt,I
+Cervical Cancer,FBXW7,26155992,all,fbxw7,C,ML,,symbol 'FBXW7' present,128,genetic profiles of cervical tumors by high-throughput sequencing for personalized medical care,ML
+Cervical Cancer,FBXW7,40536270,all,fbxw7,C,I,,symbol 'FBXW7' present,140,the oncologist 2025 vol xx issue xx predictive role of arid1a and b2m mutations and the antigen presentation pathway in the efficacy of defi,I
+Cervical Cancer,FBXW7,29113722,all,fbxw7,C,ML,,symbol 'FBXW7' present,141,the landscape of somatic mutations in indonesian cervical cancer is predominated by the pi3k pathway,ML
+Cervical Cancer,FBXW7,36635412,all,fbxw7,C,ML,,symbol 'FBXW7' present,146,multi-region sequencing depicts intratumor heterogeneity and clonal evolution in cervical cancer,ML
+Cervical Cancer,FBXW7,24390348,all,fbxw7,C,ML,,symbol 'FBXW7' present,232,landscape of genomic alterations in cervical carcinomas,ML
+Cervical Cancer,FBXW7,36225179,all,fbxw7,C,M,,symbol 'FBXW7' present,244,identification of oxidative stress-associated molecular subtypes and signature for predicting survival outcome of cervical squamous cell car,M
+Cervical Cancer,FBXW7,31055200,all,fbxw7,C,M,,symbol 'FBXW7' present,246,immune signature-based subtypes of cervical squamous cell carcinoma tightly associated with human papillomavirus type 16 expression molecula,M
+Cervical Cancer,FBXW7,34011535,all,fbxw7,C,I,,symbol 'FBXW7' present,297,genomic profiling of advanced cervical cancer to predict response to programmed death-1 inhibitor combination therapy a secondary analysis o,I
+Cervical Cancer,FBXW7,42332782,all,fbxw7,C,ML,,symbol 'FBXW7' present,321,genomic determinants and an exploratory prognostic model for immunotherapy outcomes in recurrent or metastatic cervical cancer,ML
+Cervical Cancer,FBXW7,37356314,all,fbxw7,C,ML,,symbol 'FBXW7' present,377,the differences in immune features and genomic profiling between squamous cell carcinoma and adenocarcinoma - a multi-center study in chines,ML
+Cervical Cancer,FBXW7,27998038,all,fbxw7,C,M,,symbol 'FBXW7' present,388,whole-exome sequencing predicted cancer epitope trees of 23 early cervical cancers in chinese women,M
+Cervical Cancer,FBXW7,41379570,all,fbxw7,C,M,,symbol 'FBXW7' present,402,comprehensive multiomics characterization of perineural invasion in cervical cancer reveals diagnostic markers molecular drivers and therape,M
+Cervical Cancer,MTOR,26209091,all,mtor,C,I,,symbol 'MTOR' present,5,epidermal growth factor receptor pathway mutation and expression profiles in cervical squamous cell carcinoma therapeutic implications,I
+Cervical Cancer,MTOR,28042953,all,mtor,C,M,,symbol 'MTOR' present,33,cervical small cell neuroendocrine tumor mutation profiles via whole exome sequencing,M
+Cervical Cancer,MTOR,29505425,all,mtor,C,W,,symbol 'MTOR' present,68,next-generation sequencing reveals recurrent somatic mutations in small cell neuroendocrine carcinoma of the uterine cervix,W
+Cervical Cancer,MTOR,27489350,all,mtor,C,W,,symbol 'MTOR' present,69,phosphatidyl inositol-3 kinase pik3ca e545k mutation confers cisplatin resistance and a migratory phenotype in cervical cancer cells,W
+Cervical Cancer,MTOR,23266353,all,mtor,C,G,,symbol 'MTOR' present,83,pik3ca mutational status and overall survival in patients with cervical cancer treated with radical chemoradiotherapy,G
+Cervical Cancer,MTOR,25426553,all,mtor,C,W,target,symbol 'MTOR' present,89,targeted pi3k akt mtor therapy for metastatic carcinomas of the cervix a phase i clinical experience,W
+Cervical Cancer,MTOR,22271473,all,mtor,C,M,target,symbol 'MTOR' present,91,pi3k akt mtor inhibitors in patients with breast and gynecologic malignancies harboring pik3ca mutations,M
+Cervical Cancer,MTOR,42562966,all,mtor,C,W,target,symbol 'MTOR' present,114,recurrent pik3ca-e545k mutation promotes cervical cancer growth and invasion via akt mtor signaling,W
+Cervical Cancer,MTOR,42226181,all,mtor,C,I,target,symbol 'MTOR' present,126,in silico analysis of driver genes in squamous cell carcinoma of the cervix insights into their biological functions prognosis immune infilt,I
+Cervical Cancer,MTOR,25738363,all,mtor,C,W,,symbol 'MTOR' present,133,progression of naive intraepithelial neoplasia genome to aggressive squamous cell carcinoma genome of uterine cervix,W
+Cervical Cancer,MTOR,36905114,all,mtor,C,W,,symbol 'MTOR' present,136,genomic analysis of cervical carcinoma identifies alpelisib as a therapeutic option for pik3ca-mutant cervical carcinoma via the pi3k akt pa,W
+Cervical Cancer,MTOR,35568000,all,mtor,C,I,,symbol 'MTOR' present,145,high incidence of pi3k pathway gene mutations in south indian cervical cancers,I
+Cervical Cancer,MTOR,28077784,all,mtor,C,W,,symbol 'MTOR' present,157,identification and characterization of hpv-independent cervical cancers,W
+Cervical Cancer,MTOR,42765697,all,mtor,C,W,,symbol 'MTOR' present,158,integrated genomic profiling of pten and tp53 in cervical neuroendocrine carcinoma synergistic roles with her2 kras pik3ca and implications ,W
+Cervical Cancer,MTOR,25220666,all,mtor,C,ML,,symbol 'MTOR' present,169,tp53 and pik3ca gene mutations in adenocarcinoma squamous cell carcinoma and high-grade intraepithelial neoplasia of the cervix,ML
+Cervical Cancer,MTOR,38625939,all,mtor,C,M,,symbol 'MTOR' present,200,integrated mutational landscape analysis of poorly differentiated high-grade neuroendocrine carcinoma of the uterine cervix,M
+Cervical Cancer,MTOR,36646410,all,mtor,C,G,,symbol 'MTOR' present,211,the pik3ca-e545k-sirt4 signaling axis reduces radiosensitivity by promoting glutamine metabolism in cervical cancer,G
+Cervical Cancer,MTOR,31624127,all,mtor,C,M,,symbol 'MTOR' present,261,whole-exome sequencing of cervical carcinomas identifies activating erbb2 and pik3ca mutations as targets for combination therapy,M
+Cervical Cancer,MTOR,25773678,all,mtor,C,M,,symbol 'MTOR' present,271,genetic alterations of pik3ca and tumor response in patients with locally advanced cervical squamous cell carcinoma treated with cisplatin-b,M
+Cervical Cancer,MTOR,24556063,all,mtor,C,G,,symbol 'MTOR' present,414,mtor inhibitors and their clinical application in cervical endometrial and ovarian cancers a critical review,G
+Cervical Cancer,MTOR,16862428,all,mtor,C,W,,symbol 'MTOR' present,456,r-ras promotes metastasis of cervical cancer epithelial cells,W
+Cervical Cancer,MTOR,31228945,all,mtor,C,W,,symbol 'MTOR' present,461,clinicopathological characteristics and molecular abnormalities of primary grade 2 neuroendocrine tumors of the cervix,W
+Cervical Cancer,MTOR,41155343,all,mtor,C,G,,symbol 'MTOR' present,474,hpv-independent cervical cancer-a new challenge of modern oncology,G
+Cervical Cancer,MTOR,41828610,all,mtor,C,G,,symbol 'MTOR' present,501,integrated molecular and functional characterization of cervical small-cell neuroendocrine carcinoma using a 3d organoid model,G
+Cervical Cancer,MTOR,24705275,all,mtor,C,P,,symbol 'MTOR' present,507,akt inhibitors promote cell death in cervical cancer through disruption of mtor signaling and glucose uptake,P
+Cervical Cancer,MTOR,40014097,all,mtor,C,W,,symbol 'MTOR' present,510,ppp1r13l drives cervical cancer progression by suppressing p63-mediated pten transcription,W
+Cervical Cancer,MTOR,35368866,all,mtor,C,W,,symbol 'MTOR' present,656,human papillomavirus type 16 early protein e7 activates autophagy through inhibition of dual-specificity phosphatase 5,W
+Cervical Cancer,MTOR,39103348,all,mtor,C,P,,symbol 'MTOR' present,660,ncaph ubiquitinated by trim21 promotes cell proliferation by inhibiting autophagy of cervical cancer through akt mtor dependent signaling,P
+Cervical Cancer,MTOR,35205332,all,mtor,C,I,,symbol 'MTOR' present,742,characterization of the genomic landscape in cervical cancer by next generation sequencing,I
+Cervical Cancer,MTOR,33587450,all,mtor,C,W,,symbol 'MTOR' present,744,mtor pathway activation assessed by immunohistochemistry in cervical biopsies of hpv-associated endocervical adenocarcinomas hpva correlatio,W
+Cervical Cancer,MTOR,19407487,all,mtor,C,W,,symbol 'MTOR' present,791,inhibition of cervical cancer cell growth through activation of upstream kinases of amp-activated protein kinase,W
+Cervical Cancer,MTOR,42364717,all,mtor,C,I,,symbol 'MTOR' present,831,signaling pathways in tobacco smoking-induced cervical carcinogenesis beyond hpv-mediated activation,I
+Cervical Cancer,MTOR,34763482,all,mtor,C,W,,symbol 'MTOR' present,838,tuberous sclerosis complex misdiagnosed as multiple metastases in a cervical cancer patient case report and literature review,W
+Cervical Cancer,MTOR,27931835,all,mtor,C,M,,symbol 'MTOR' present,846,management of patients with recurrent advanced cervical cancer beyond first line platinum regimens where do we stand a literature review,M
+Cervical Cancer,RB1,33994859,all,rb1,C,ML,,symbol 'RB1' present,1,lrp1b mutation is associated with tumor hpv status and promotes poor disease outcomes with a higher mutation count in hpv-related cervical c,ML
+Cervical Cancer,RB1,35101299,all,rb1,C,I,,symbol 'RB1' present,16,driver gene mutations in micro-invasive cervical squamous cancers have no prognostic significance,I
+Cervical Cancer,RB1,29505425,all,rb1,C,I,,symbol 'RB1' present,68,next-generation sequencing reveals recurrent somatic mutations in small cell neuroendocrine carcinoma of the uterine cervix,I
+Cervical Cancer,RB1,33830625,all,rb1,C,M,,symbol 'RB1' present,125,genomic characterization of small cell carcinomas of the uterine cervix,M
+Cervical Cancer,RB1,40536270,all,rb1,C,I,,symbol 'RB1' present,140,the oncologist 2025 vol xx issue xx predictive role of arid1a and b2m mutations and the antigen presentation pathway in the efficacy of defi,I
+Cervical Cancer,RB1,39520972,all,rb1,C,M,,symbol 'RB1' present,159,hpv is an essential driver in recurrence of cervical cancer,M
+Cervical Cancer,RB1,36800542,all,rb1,C,I,,symbol 'RB1' present,181,acquisition of genetic aberrations during the progression of high-grade intraepithelial lesions micro-invasive squamous cancers to widely in,I
+Cervical Cancer,RB1,38625939,all,rb1,C,ML,,symbol 'RB1' present,200,integrated mutational landscape analysis of poorly differentiated high-grade neuroendocrine carcinoma of the uterine cervix,ML
+Cervical Cancer,RB1,33023625,all,rb1,C,I,,symbol 'RB1' present,204,top2a and cenpf are synergistic master regulators activated in cervical cancer,I
+Cervical Cancer,RB1,28731050,all,rb1,C,ML,,symbol 'RB1' present,225,genomic abnormalities in invasive endocervical adenocarcinoma correlate with pattern of invasion biologic and clinical implications,ML
+Cervical Cancer,RB1,27458253,all,rb1,C,M,,symbol 'RB1' present,361,association of p16-rbsp3 inactivation with phosphorylated rb1 overexpression in basal-parabasal layers of normal cervix unchanged during cac,M
+Cervical Cancer,RB1,28771191,all,rb transcriptional corepressor 1|rb1,C,G,,symbol 'RB1' present,420,somatic host cell alterations in hpv carcinogenesis,G
+Cervical Cancer,RB1,42589439,all,rb1,C,M,,symbol 'RB1' present,443,basic clinical bidirectional empowerment synergistic breakthrough in molecular mechanisms and clinical management of small cell cervical car,M
+Cervical Cancer,RB1,36069807,all,rb1,C,M,,symbol 'RB1' present,683,morphologic and molecular heterogeneity of cervical neuroendocrine neoplasia a report of 14 cases,M
+Cervical Cancer,RB1,33141854,all,rb1,C,G,,symbol 'RB1' present,765,downregulation of 5-hydroxymethylcytosine is associated with the progression of cervical intraepithelial neoplasia,G

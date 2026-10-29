@@ -1,0 +1,6 @@
+gene,pmid,identity,evidence,rationale
+BRCA2,27106063,X,I,"'brca2' occurs only inside PALB2's full name 'partner and localizer of BRCA2'"
+MEN1,25210877,U,W,"'MEN1' used as the syndrome/patient label (MEN1 patients), gene not the topic"
+MEN1,11756777,U,W,"'MEN1' used as the syndrome label ('MEN1-related tumors') in a polyposis case report"
+MEN1,14648742,U,W,"'MEN1' used as the syndrome label (prevalence of MEN1 syndrome in hyperparathyroidism)"
+MEN1,19953642,U,W,"'MEN1' used as the syndrome label (phenocopies); gene not the topic"

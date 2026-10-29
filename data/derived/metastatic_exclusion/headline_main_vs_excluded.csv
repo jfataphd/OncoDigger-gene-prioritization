@@ -1,0 +1,26 @@
+measure,main_ranking,without_secondary_records
+any_hits_of_190,178,177
+any_pct,93.7,93.2
+any_ci,88.9-97.4,88.4-97.4
+exact_hits_of_190,150,150
+exact_pct,78.9,78.9
+exact_ci,74.2-83.2,74.2-83.2
+cancers_with_10_of_10_any,11,11
+lowest_exact_cancers,"Prostate Cancer, Endometrial Cancer (6/10)","Prostate Cancer, Endometrial Cancer (6/10)"
+mean_P@5,97.9,97.9
+mean_P@10,93.7,93.2
+mean_P@15,90.2,90.2
+mean_P@20,88.7,88.2
+mean_P@30,84.9,84.4
+mean_P@40,81.4,81.1
+mean_P@50,77.6,76.7
+pooled_recall@10,150/1740,150/1740
+pooled_recall@20,254/1740,252/1740
+pooled_recall@50,458/1740,457/1740
+mean_pairwise_cancer_top10_jaccard,0.165,0.158
+extra_genes_vs_pooled_per_cancer,5.89,6.05
+extra_genes_IntOGen_any_per_cancer,5.26,5.37
+extra_genes_exact,83/112 (74.1%),85/115 (73.9%)
+nonmatching_top10_pairs,"40 (driver in another cancer 28, not a driver anywhere 12)","40 (driver in another cancer 27, not a driver anywhere 13)"
+"paired change any, excluded minus main (points, 95% CI; cancers better/equal/worse)",,-0.5 (-1.6 to +0.0); 0/18/1
+"paired change exact, excluded minus main (points, 95% CI; cancers better/equal/worse)",,+0.0 (-1.6 to +1.6); 1/17/1

@@ -1,0 +1,21 @@
+cancer,gene,move,intogen_any,intogen_exact
+Prostate Cancer,PALB2,leaves,True,False
+Prostate Cancer,CDK12,enters,True,True
+Bladder Cancer,ERBB2,leaves,True,True
+Bladder Cancer,BRAF,enters,True,True
+Kidney Cancer,KDM5C,leaves,True,True
+Kidney Cancer,CTNNB1,enters,True,True
+Stomach Cancer,ARID1A,leaves,True,True
+Stomach Cancer,KIT,enters,True,False
+Esophageal Cancer,APC,leaves,True,True
+Esophageal Cancer,KIT,enters,True,False
+Cervical Cancer,MTOR,leaves,True,False
+Cervical Cancer,RB1,leaves,True,True
+Cervical Cancer,ARID1A,enters,True,True
+Cervical Cancer,BRAF,enters,True,False
+Leukemia,BCR,leaves,True,True
+Leukemia,RUNX1,enters,True,True
+Myeloma,IRF4,leaves,True,True
+Myeloma,TRAF3,leaves,True,True
+Myeloma,DNMT3A,enters,True,True
+Myeloma,RB1,enters,True,True

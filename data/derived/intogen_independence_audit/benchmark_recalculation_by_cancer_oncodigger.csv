@@ -1,0 +1,22 @@
+metric,any,any,any,any,any,exact,exact,exact,exact,exact
+reference,0_published,1_stat_in_catalog,2_classA,3_stat_any_filter,4_no_literature_gate,0_published,1_stat_in_catalog,2_classA,3_stat_any_filter,4_no_literature_gate
+cancer,,,,,,,,,,
+Bladder Cancer,1.0,0.9,0.9,0.9,1.0,0.9,0.9,0.9,0.9,0.9
+Brain Cancer,0.9,0.8,0.8,0.8,0.9,0.8,0.8,0.8,0.8,0.8
+Breast Cancer,1.0,0.8,0.8,0.8,1.0,0.9,0.7,0.7,0.7,0.9
+Cervical Cancer,1.0,1.0,1.0,1.0,1.0,0.8,0.7,0.5,0.7,0.8
+Colorectal Cancer,0.7,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.6,0.7
+Endometrial Cancer,0.7,0.6,0.6,0.6,0.7,0.6,0.6,0.6,0.6,0.6
+Esophageal Cancer,1.0,1.0,1.0,1.0,1.0,0.7,0.7,0.7,0.7,0.7
+Kidney Cancer,0.9,0.8,0.8,0.8,0.9,0.7,0.6,0.6,0.6,0.7
+Leukemia,1.0,0.9,0.9,0.9,1.0,0.9,0.8,0.8,0.8,0.9
+Liver Cancer,0.9,0.8,0.8,0.8,0.9,0.7,0.7,0.7,0.7,0.7
+Lung Cancer,1.0,0.9,0.9,0.9,1.0,0.9,0.9,0.9,0.9,0.9
+Lymphoma,1.0,1.0,1.0,1.0,1.0,0.9,0.9,0.9,0.9,0.9
+Melanoma,1.0,0.9,0.9,0.9,1.0,0.9,0.9,0.8,0.9,0.9
+Myeloma,0.9,0.9,0.8,0.9,0.9,0.8,0.8,0.8,0.8,0.8
+Ovarian Cancer,0.9,0.8,0.8,0.8,0.9,0.8,0.5,0.5,0.5,0.8
+Pancreatic Cancer,1.0,0.9,0.9,0.9,1.0,0.7,0.6,0.6,0.6,0.7
+Prostate Cancer,0.9,0.7,0.7,0.7,0.9,0.6,0.6,0.6,0.6,0.6
+Stomach Cancer,1.0,0.9,0.9,0.9,1.0,0.8,0.6,0.6,0.6,0.8
+Thyroid Cancer,1.0,0.9,0.9,0.9,1.0,0.9,0.7,0.7,0.7,0.9

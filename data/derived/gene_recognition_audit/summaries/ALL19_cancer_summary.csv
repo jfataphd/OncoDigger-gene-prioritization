@@ -1,0 +1,20 @@
+cancer,top10_genes,abstracts_read,random_or_all,targeted_only,incorrect,uncertain,pool_credits_top10
+Breast Cancer,10,470,378,0,10,0,1731
+Lung Cancer,10,480,367,0,12,0,1616
+Colorectal Cancer,10,471,400,71,33,0,1772
+Prostate Cancer,10,510,411,99,0,56,1204
+Melanoma,10,464,415,49,6,0,1526
+Bladder Cancer,10,443,436,7,11,0,991
+Kidney Cancer,10,456,431,25,15,0,885
+Pancreatic Cancer,10,447,440,7,1,4,1149
+Liver Cancer,10,423,387,36,7,0,773
+Stomach Cancer,10,455,436,19,14,1,827
+Esophageal Cancer,10,398,389,9,14,0,658
+Ovarian Cancer,10,419,417,2,2,0,1537
+Endometrial Cancer,10,478,400,78,47,0,1527
+Cervical Cancer,10,385,376,9,18,0,531
+Thyroid Cancer,10,444,409,35,15,0,1573
+Brain Cancer,10,433,427,6,1,0,1124
+Leukemia,10,414,400,14,3,0,1328
+Lymphoma,10,459,459,0,0,0,763
+Myeloma,10,440,430,10,0,0,556

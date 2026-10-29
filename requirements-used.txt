@@ -1,0 +1,14 @@
+# The environment in which the committed results of this build were produced and the fresh-clone reproduction was run
+# (Windows 11, Python 3.12.0; 2026-10-18). requirements.txt holds the older pins. A fresh clone was run in BOTH environments and
+# regenerated every committed downstream output byte-for-byte identical in each (docs/REPRODUCTION.md), so the numbers do not depend on
+# which of the two is installed. The ranking stage uses only the standard library (sqlite3) and the vendored engine.
+pandas==3.0.6
+numpy==2.2.6
+scipy==1.14.1
+requests==2.34.2
+python-pptx==1.0.2
+pillow==12.3.0
+reportlab==4.5.1
+pymupdf==1.28.2  # optional: only for page/image counts of the rendered PDF
+# Windows + Microsoft PowerPoint only (PPTX -> PNG export, scripts/manuscript/export_pptx_to_png_highres.py)
+comtypes==1.4.16

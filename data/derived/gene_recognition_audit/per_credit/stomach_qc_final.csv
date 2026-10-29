@@ -1,0 +1,456 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Stomach Cancer,CDH1,26072394,random,cadherin 1|cdh1,C,M,,symbol 'CDH1' present,7,accuracy of hereditary diffuse gastric cancer testing criteria and outcomes in patients with a germline mutation in cdh1,M
+Stomach Cancer,CDH1,16061854,random,cdh1,C,M,,symbol 'CDH1' present,25,characterization of a recurrent germ line mutation of the e-cadherin gene implications for genetic testing and clinical management,M
+Stomach Cancer,CDH1,31949278,random,cdh1,C,M,,symbol 'CDH1' present,45,clinical relevance of somatic mutations in main driver genes detected in gastric cancer patients by next-generation dna sequencing,M
+Stomach Cancer,CDH1,19474748,random,cdh1,C,M,,symbol 'CDH1' present,57,germline mutation of the e-cadherin gene in three sibling cases with advanced gastric cancer clinical consequences for the other family memb,M
+Stomach Cancer,CDH1,16870389,random,cdh1,C,M,,symbol 'CDH1' present,134,a novel mutation in the e-cadherin gene in the first family with hereditary diffuse gastric cancer reported in spain,M
+Stomach Cancer,CDH1,29131691,random,cdh1,C,M,,symbol 'CDH1' present,140,a new mutation of the cdh1 gene in a patient with an aggressive signet-ring cell carcinoma of the stomach,M
+Stomach Cancer,CDH1,15288293,random,cdh1,C,M,,symbol 'CDH1' present,150,e-cadherin cdh1 and p53 rather than smad4 and caspase-10 germline mutations contribute to genetic predisposition in portuguese gastric cance,M
+Stomach Cancer,CDH1,15617552,random,cdh1,C,M,,symbol 'CDH1' present,161,a novel stk11 germline mutation in two siblings with peutz-jeghers syndrome complicated by primary gastric cancer,M
+Stomach Cancer,CDH1,31685251,random,cdh1,C,M,,symbol 'CDH1' present,196,total gastrectomy for cdh-1 mutation carriers an institutional experience,M
+Stomach Cancer,CDH1,23431106,random,cdh1,C,M,,symbol 'CDH1' present,218,novel cdh1 germline mutations identified in chinese gastric cancer patients,M
+Stomach Cancer,CDH1,20471195,random,cdh1,C,M,,symbol 'CDH1' present,236,a novel truncating mutation in the e-cadherin gene in the first iranian family with hereditary diffuse gastric cancer,M
+Stomach Cancer,CDH1,15235021,random,cdh1,C,M,,symbol 'CDH1' present,313,germline e-cadherin mutations in hereditary diffuse gastric cancer assessment of 42 new families and review of genetic screening criteria,M
+Stomach Cancer,CDH1,23709761,random,cdh1,C,M,,symbol 'CDH1' present,333,cdh1 germline mutations and the hereditary diffuse gastric and lobular breast cancer syndrome a multicentre study,M
+Stomach Cancer,CDH1,32260281,random,cdh1,C,M,,symbol 'CDH1' present,337,cdh1 mutation distribution and type suggests genetic differences between the etiology of orofacial clefting and gastric cancer,M
+Stomach Cancer,CDH1,22152101,random,cdh1,C,M,,symbol 'CDH1' present,343,biomarker analysis of cetuximab plus oxaliplatin leucovorin 5-fluorouracil in first-line metastatic gastric and oesophago-gastric junction c,M
+Stomach Cancer,CDH1,40974220,random,cadherin 1|cdh1,C,M,,symbol 'CDH1' present,352,hereditary cancer syndromes in familial breast cancer insights into proactive gastric cancer surveillance,M
+Stomach Cancer,CDH1,25187893,random,cdh1,C,M,,symbol 'CDH1' present,374,presymptomatic identification of cdh1 germline mutation in a healthy korean individual with family history of gastric cancer,M
+Stomach Cancer,CDH1,32886433,random,cdh1,C,M,,symbol 'CDH1' present,401,first report of a mexican family with mutation in the cdh1 gene,M
+Stomach Cancer,CDH1,30425335,random,cdh1,C,M,,symbol 'CDH1' present,406,rhoa mutations and cldn18-arhgap fusions in intestinal-type adenocarcinoma with anastomosing glands of the stomach,M
+Stomach Cancer,CDH1,15368100,random,cdh1,C,M,,symbol 'CDH1' present,496,a tp53-truncating germline mutation e287x in a family with characteristics of both hereditary diffuse gastric cancer and li-fraumeni syndrom,M
+Stomach Cancer,CDH1,42752674,random,cdh1,C,M,,symbol 'CDH1' present,500,computational screening of oncogenic genetic variations in tumor suppressor proteins driving gastric cancer pathogenesis,M
+Stomach Cancer,CDH1,40926327,random,cdh1,C,M,,symbol 'CDH1' present,598,actionable genes and carcinogenic pathways for gastric cancer in latinos,M
+Stomach Cancer,CDH1,16600987,random,cdh1,C,I,,symbol 'CDH1' present,603,e-cadherin missense mutations associated with hereditary diffuse gastric cancer hdgc syndrome display distinct invasive behaviors and geneti,I
+Stomach Cancer,CDH1,19168852,random,cdh1,C,M,,symbol 'CDH1' present,627,germline cdh1 deletions in hereditary diffuse gastric cancer families,M
+Stomach Cancer,CDH1,32727394,random,cdh1,C,M,,symbol 'CDH1' present,681,clinical and genomic characteristics of mucosal signet-ring cell carcinoma in helicobacter pylori-uninfected stomach,M
+Stomach Cancer,CDH1,34916374,random,cdh1,C,M,,symbol 'CDH1' present,735,germline likely pathogenic variants in ataxia-telangiectasia-mutated gene in an iranian family with hereditary diffuse gastric cancer withou,M
+Stomach Cancer,CDH1,25979631,random,cdh1,C,M,,symbol 'CDH1' present,743,hereditary diffuse gastric cancer updated clinical guidelines with an emphasis on germline cdh1 mutation carriers,M
+Stomach Cancer,CDH1,21424370,random,cdh1,C,M,,symbol 'CDH1' present,807,a prospective study of total gastrectomy for cdh1-positive hereditary diffuse gastric cancer,M
+Stomach Cancer,CDH1,38145373,random,cdh1,C,M,,symbol 'CDH1' present,809,robotic vagus-sparing total gastrectomy for cdh1 gene mutation treatment,M
+Stomach Cancer,CDH1,17651578,random,cdh1,C,M,,symbol 'CDH1' present,831,prophylactic laparoscopic-assisted total gastrectomy for hereditary diffuse gastric cancer,M
+Stomach Cancer,CDH1,27752808,random,cdh1,C,M,,symbol 'CDH1' present,870,prophylactic total gastrectomy a prospective cohort study of long-term impact on quality of life,M
+Stomach Cancer,CDH1,11419427,random,cdh1,C,M,,symbol 'CDH1' present,873,early gastric cancer in young asymptomatic carriers of germ-line e-cadherin mutations,M
+Stomach Cancer,CDH1,36232418,random,cdh1,C,M,,symbol 'CDH1' present,888,somatic mutational landscape in mexican patients cdh1 mutations and chr20q13 33 amplifications are associated with diffuse-type gastric aden,M
+Stomach Cancer,CDH1,21333186,random,cdh1,C,M,,symbol 'CDH1' present,909,prophylactic laparoscopic gastrectomy for hereditary diffuse gastric cancer a case series in a single family,M
+Stomach Cancer,CDH1,25771876,random,cdh1,C,M,,symbol 'CDH1' present,927,the germline cdh1 c 48 g c substitution contributes to cancer predisposition through generation of a pro-invasive mutation,M
+Stomach Cancer,CDH1,25340522,random,cdh1,C,M,,symbol 'CDH1' present,942,germline mutations in map3k6 are associated with familial gastric cancer,M
+Stomach Cancer,CDH1,20373070,random,cdh1,C,M,,symbol 'CDH1' present,953,hereditary diffuse gastric cancer translation of cdh1 germline mutations into clinical practice,M
+Stomach Cancer,CDH1,35705367,random,cdh1,C,M,,symbol 'CDH1' present,958,escape from cell-cell and cell-matrix adhesion dependence underscores disease progression in gastric cancer organoid models,M
+Stomach Cancer,CDH1,31467357,random,cdh1,C,M,,symbol 'CDH1' present,984,a high-throughput screen to identify novel synthetic lethal compounds for the treatment of e-cadherin-deficient cells,M
+Stomach Cancer,CDH1,27899187,random,cdh1,C,M,,symbol 'CDH1' present,987,genetic predisposition to gastric cancer,M
+Stomach Cancer,TP53,38253255,random,tp53,C,ML,,symbol 'TP53' present,65,a comparison analysis of the somatic mutations in early-onset gastric cancer and traditional gastric cancer,ML
+Stomach Cancer,TP53,36346122,random,tp53,C,M,,symbol 'TP53' present,68,pik3ca somatic mutations as potential biomarker for immunotherapy in elder or tp53 mutated gastric cancer patients,M
+Stomach Cancer,TP53,23196062,random,tp53,C,I,,symbol 'TP53' present,125,comprehensive dna methylation and extensive mutation analyses reveal an association between the cpg island methylator phenotype and oncogeni,I
+Stomach Cancer,TP53,27313181,random,tp53,C,M,,symbol 'TP53' present,152,comprehensive mutation profiling of mucinous gastric carcinoma,M
+Stomach Cancer,TP53,39597086,random,tp53,C,M,,symbol 'TP53' present,153,differences in gender and overall survival for temperature-sensitive tp53 mutations in gastroesophageal cancer,M
+Stomach Cancer,TP53,15617552,random,tp53,C,M,,symbol 'TP53' present,161,a novel stk11 germline mutation in two siblings with peutz-jeghers syndrome complicated by primary gastric cancer,M
+Stomach Cancer,TP53,22037554,random,tp53,C,M,,symbol 'TP53' present,176,exome sequencing identifies frequent mutation of arid1a in molecular subtypes of gastric cancer,M
+Stomach Cancer,TP53,28873240,random,tp53,C,ML,,symbol 'TP53' present,187,gastric poorly cohesive carcinoma a correlative study of mutational signatures and prognostic significance based on histopathological subtyp,ML
+Stomach Cancer,TP53,38663178,random,tp53,C,ML,,symbol 'TP53' present,197,somatic mutations that affect early genetic progression and immune microenvironment in gastric carcinoma,ML
+Stomach Cancer,TP53,39792765,random,tp53,C,I,,symbol 'TP53' present,266,comparative genomic analysis unveiling the mutational landscape associated with premalignant lesions and early-stage gastric cardia cancer,I
+Stomach Cancer,TP53,26980051,random,tp53,C,M,,symbol 'TP53' present,303,reduced mutyh mth1 and ogg1 expression and tp53 mutation in diffuse-type adenocarcinoma of gastric cardia,M
+Stomach Cancer,TP53,30180862,random,tp53,C,M,,symbol 'TP53' present,362,coexisting yap expression and tp53 missense mutations delineates a molecular scenario unexpectedly associated with better survival outcomes ,M
+Stomach Cancer,TP53,32596285,random,tp53,C,M,,symbol 'TP53' present,375,profiles of pd-1 pd-l1 pd-l2 in gastric cancer and their relation with mutation immune infiltration and survival,M
+Stomach Cancer,TP53,37545327,random,tp53,C,I,,symbol 'TP53' present,385,the relationship between gene mutations and the clinicopathological features and prognosis of gastric cancer,I
+Stomach Cancer,TP53,41065300,random,tp53,C,M,,symbol 'TP53' present,461,dna-hypermethylated human gastric cancer circumvents apoptosis in the absence of tp53 mutation,M
+Stomach Cancer,TP53,37463826,random,tp53,C,I,,symbol 'TP53' present,462,molecular profiling of gastric neuroendocrine carcinomas,I
+Stomach Cancer,TP53,34924820,random,tp53,C,M,,symbol 'TP53' present,499,implication of arid1a undercurrents and pdl1 tp53 overexpression in advanced gastric cancer,M
+Stomach Cancer,TP53,26961069,random,tp53,C,I,,symbol 'TP53' present,508,comprehensive molecular portrait using next generation sequencing of resected intestinal-type gastric cancer patients dichotomized according,I
+Stomach Cancer,TP53,24510342,random,tp53,C,M,,symbol 'TP53' present,526,integrated analysis of cancer-related pathways affected by genetic and epigenetic alterations in gastric cancer,M
+Stomach Cancer,TP53,36165930,random,tp53,C,I,,symbol 'TP53' present,528,exploratory genomic analysis of high-grade neuroendocrine neoplasms across diverse primary sites,I
+Stomach Cancer,TP53,24786892,random,tp53,C,M,,symbol 'TP53' present,540,accumulation of somatic mutations in tp53 in gastric epithelium with helicobacter pylori infection,M
+Stomach Cancer,TP53,34873204,random,tp53,C,M,,symbol 'TP53' present,557,comparable genetic alteration profiles between gastric cancers with current and past helicobacter pylori infection,M
+Stomach Cancer,TP53,38662253,random,tp53,C,M,,symbol 'TP53' present,567,a gastric invasive tubular adenocarcinomatous lesion arising from foveolar-type neoplasia molecular histogenesis,M
+Stomach Cancer,TP53,42091970,random,tp53,C,ML,,symbol 'TP53' present,576,genetic susceptibility and gene-environment interactions in gastric cancer among ethnic populations of northeast india,ML
+Stomach Cancer,TP53,40149431,random,tp53,C,ML,,symbol 'TP53' present,583,the status of sox2 expression in gastric cancers with induction of cdx2 defines groups with different genomic landscapes,ML
+Stomach Cancer,TP53,32558489,random,tp53,C,ML,,symbol 'TP53' present,587,identification of hub genes in gastric cancer with high heterogeneity based on weighted gene co-expression network,ML
+Stomach Cancer,TP53,19674071,random,tp53,C,M,,symbol 'TP53' present,588,familial gastric cancer and li-fraumeni syndrome,M
+Stomach Cancer,TP53,35449126,random,tp53,C,M,,symbol 'TP53' present,595,integrated dna and rna sequencing reveals early drivers involved in metastasis of gastric cancer,M
+Stomach Cancer,TP53,40926327,random,tp53,C,M,,symbol 'TP53' present,598,actionable genes and carcinogenic pathways for gastric cancer in latinos,M
+Stomach Cancer,TP53,32869925,random,tp53,C,M,,symbol 'TP53' present,606,cancer-related gene mutations and intratumoral genetic heterogeneity in human epidermal growth factor receptor 2 heterogeneous gastric cance,M
+Stomach Cancer,TP53,33099543,random,tp53,C,ML,,symbol 'TP53' present,626,ctdna in neuroendocrine carcinoma of gastroenteropancreatic origin or of unknown primary the circan-nec pilot study,ML
+Stomach Cancer,TP53,33451982,random,tp53,C,G,,symbol 'TP53' present,628,a crispr cas9-engineered arid1a -deficient human gastric cancer organoid model reveals essential and nonessential modes of oncogenic transfo,G
+Stomach Cancer,TP53,33543328,random,tp53,C,ML,,symbol 'TP53' present,756,her2 copy number as predictor of disease-free survival in her2-positive resectable gastric adenocarcinoma,ML
+Stomach Cancer,TP53,38959111,random,tp53,C,M,,symbol 'TP53' present,758,molecular characterization and clinical relevance of metabolic signature subtypes in gastric cancer,M
+Stomach Cancer,TP53,38494839,random,tp53,C,M,,symbol 'TP53' present,765,differential genetic mutations and immune cell infiltration in high- and low-risk stad implications for prognosis and immunotherapy efficacy,M
+Stomach Cancer,TP53,33048355,random,tp53,C,M,,symbol 'TP53' present,860,morphologic and molecular analysis of early-onset gastric cancer,M
+Stomach Cancer,TP53,34749812,random,tp53,C,I,,symbol 'TP53' present,879,multiscale heterogeneity in gastric adenocarcinoma evolution is an obstacle to precision medicine,I
+Stomach Cancer,TP53,12619111,random,tp53,C,M,,symbol 'TP53' present,904,tp53 and gastric carcinoma a review,M
+Stomach Cancer,TP53,31315834,random,tp53,C,ML,,symbol 'TP53' present,972,tumor genomic profiling guides patients with metastatic gastric cancer to targeted treatment the viktory umbrella trial,ML
+Stomach Cancer,TP53,35722719,random,tp53,C,M,,symbol 'TP53' present,992,clinical significance of chromosomal integrity in gastric cancers,M
+Stomach Cancer,KRAS,26045124,random,kras,C,M,,symbol 'KRAS' present,40,bladder and gastric metastases from lung adenocarcinoma harboring codon 13 kras mutation a case report with unusual clinical outcome,M
+Stomach Cancer,KRAS,25288233,random,kras,C,M,,symbol 'KRAS' present,50,gnas mutation as an alternative mechanism of activation of the wnt -catenin signaling pathway in gastric adenocarcinoma of the fundic gland ,M
+Stomach Cancer,KRAS,23511561,random,kras,C,M,,symbol 'KRAS' present,59,kras and braf mutations are rare and related to dna mismatch repair deficiency in gastric cancer from the east and the west results from a l,M
+Stomach Cancer,KRAS,38253255,random,kras,C,ML,,symbol 'KRAS' present,65,a comparison analysis of the somatic mutations in early-onset gastric cancer and traditional gastric cancer,ML
+Stomach Cancer,KRAS,23196062,random,kras,C,I,,symbol 'KRAS' present,125,comprehensive dna methylation and extensive mutation analyses reveal an association between the cpg island methylator phenotype and oncogeni,I
+Stomach Cancer,KRAS,29725898,random,kras,C,I,,symbol 'KRAS' present,146,rates of tp53 mutation are significantly elevated in african american patients with gastric cancer,I
+Stomach Cancer,KRAS,27175599,random,kras,C,I,,symbol 'KRAS' present,185,the chronological sequence of somatic mutations in early gastric carcinogenesis inferred from multiregion sequencing of gastric adenomas,I
+Stomach Cancer,KRAS,39115206,random,kras,C,G,,symbol 'KRAS' present,206,the landscape and prognosis of microsatellite stable mss esophageal gastro-esophageal junction and gastric adenocarcinomas with high tumor m,G
+Stomach Cancer,KRAS,36853786,random,kras,C,M,,symbol 'KRAS' present,226,analysis of kras mutations in gastrointestinal tract adenocarcinomas reveals site-specific mutational signatures,M
+Stomach Cancer,KRAS,35188590,random,kras,C,M,,symbol 'KRAS' present,294,activating kras and gnas mutations in heterotopic submucosal glands of the stomach,M
+Stomach Cancer,KRAS,20937558,random,kras,C,I,,symbol 'KRAS' present,302,oncogenic mutations in gastric cancer with microsatellite instability,I
+Stomach Cancer,KRAS,11205494,random,kras,C,M,,symbol 'KRAS' present,318,kras mutations are not predictive for progression of preneoplastic gastric lesions,M
+Stomach Cancer,KRAS,28522256,random,kras,C,I,,symbol 'KRAS' present,322,sporadic early-onset diffuse gastric cancers have high frequency of somatic cdh1 alterations but low frequency of somatic rhoa mutations com,I
+Stomach Cancer,KRAS,39327909,random,kras,C,ML,,symbol 'KRAS' present,359,presence of rb1 or absence of lrp1b mutation predicts poor overall survival in patients with gastric neuroendocrine carcinoma and mixed aden,ML
+Stomach Cancer,KRAS,26844548,random,kras,C,M,,symbol 'KRAS' present,365,expression and prognostic significance of human epidermal growth factor receptors 1 and 3 in gastric and esophageal adenocarcinoma,M
+Stomach Cancer,KRAS,34884530,random,kras,C,M,,symbol 'KRAS' present,407,braf mutation is associated with hyperplastic polyp-associated gastric cancer,M
+Stomach Cancer,KRAS,32543103,random,kras,C,M,,symbol 'KRAS' present,489,genetic alteration of colorectal adenoma-carcinoma sequence among gastric adenocarcinoma and dysplastic lesions in a patient with attenuated,M
+Stomach Cancer,KRAS,30946937,random,kras,C,ML,,symbol 'KRAS' present,504,gastric hepatoid adenocarcinomas are a genetically heterogenous group most tumors show chromosomal instability but msi tumors do exist,ML
+Stomach Cancer,KRAS,34873204,random,kras,C,I,,symbol 'KRAS' present,557,comparable genetic alteration profiles between gastric cancers with current and past helicobacter pylori infection,I
+Stomach Cancer,KRAS,40652510,random,kras,C,M,,symbol 'KRAS' present,558,oxidative stress and kras mutation in mist1 cells act in a double-hit manner to drive gastric tumorigenesis,M
+Stomach Cancer,KRAS,23208952,random,kras,C,M,,symbol 'KRAS' present,562,frequent gnas and kras mutations in pyloric gland adenoma of the stomach and duodenum,M
+Stomach Cancer,KRAS,25832318,random,kras,C,M,,symbol 'KRAS' present,581,familial adenomatous polyposis-associated and sporadic pyloric gland adenomas of the upper gastrointestinal tract share common genetic featu,M
+Stomach Cancer,KRAS,25372287,random,kras,C,G,,symbol 'KRAS' present,621,high-throughput sequencing and copy number variation detection using formalin fixed embedded tissue in metastatic gastric cancer,G
+Stomach Cancer,KRAS,37945587,random,kras,C,I,,symbol 'KRAS' present,631,genetic landscape and pd-l1 expression in epstein-barr virus-associated gastric cancer according to the histological pattern,I
+Stomach Cancer,KRAS,17693665,random,kras,C,M,,symbol 'KRAS' present,643,genetic pathways and mutation profiles of human cancers site- and exposure-specific patterns,M
+Stomach Cancer,KRAS,21687951,random,kras,C,M,,symbol 'KRAS' present,659,gastric cancer and concomitant renal cancer a systematic immunohistochemical and molecular analysis,M
+Stomach Cancer,KRAS,25042771,random,kras,C,I,,symbol 'KRAS' present,660,the mutational burdens and evolutionary ages of early gastric cancers are comparable to those of advanced gastric cancers,I
+Stomach Cancer,KRAS,32943104,random,kras,C,ML,,symbol 'KRAS' present,717,analysis of clinicopathological and molecular features of crawling-type gastric adenocarcinoma,ML
+Stomach Cancer,KRAS,32345669,random,kras,C,M,,symbol 'KRAS' present,722,prognostic biomarkers in early-stage gastric adenocarcinoma treated with adjuvant chemoradiotherapy,M
+Stomach Cancer,KRAS,35968980,random,kras,C,ML,,symbol 'KRAS' present,783,sporadic and familial adenomatous polyposis-associated foveolar-type adenoma of the stomach,ML
+Stomach Cancer,KRAS,32883742,random,kras,C,I,,symbol 'KRAS' present,806,comprehensive genomic profiling of gastroenteropancreatic neuroendocrine neoplasms gep-nens,I
+Stomach Cancer,KRAS,24467518,random,kras,C,M,target,symbol 'KRAS' present,818,cetuximab inhibits gastric cancer growth in vivo independent of kras status,M
+Stomach Cancer,KRAS,24935174,random,kras,C,M,,symbol 'KRAS' present,822,whole genome gene copy number profiling of gastric cancer identifies pak1 and kras gene amplification as therapy targets,M
+Stomach Cancer,KRAS,32269290,random,kras,C,ML,,symbol 'KRAS' present,824,an lcm-based genomic analysis of spem gastric cancer and pyloric gland adenoma in an asian cohort,ML
+Stomach Cancer,KRAS,36625379,random,kras,C,ML,,symbol 'KRAS' present,861,on the origin of gastric tumours analysis of a case with intramucosal gastric carcinoma and oxyntic gland adenoma,ML
+Stomach Cancer,KRAS,23481512,random,kras,C,ML,,symbol 'KRAS' present,883,biomarker analysis in oesophagogastric cancer results from the real3 and transmagic trials,ML
+Stomach Cancer,KRAS,41532847,random,kras,C,W,,symbol 'KRAS' present,938,mutational signatures and clonal hematopoiesis in intestinal metaplasia across countries with varying stomach cancer incidence,W
+Stomach Cancer,KRAS,19362747,random,kras,C,M,,symbol 'KRAS' present,941,significant association between egfr-mutated lung adenocarcinoma and past illness from gastric cancer or uterine myoma its implication in ca,M
+Stomach Cancer,KRAS,20959488,random,kras,C,I,,symbol 'KRAS' present,990,k-ras mutation targeted to gastric tissue progenitor cells results in chronic inflammation an altered microenvironment and progression to in,I
+Stomach Cancer,KRAS,23911227,random,kras,C,ML,,symbol 'KRAS' present,998,towards the goal of personalized medicine in gastric cancer--time to move beyond her2 inhibition part ii targeting gene mutations and gene a,ML
+Stomach Cancer,PIK3CA,31771969,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,6,gain-of-function rhoa mutations promote focal adhesion kinase activation and dependency in diffuse gastric cancer,W
+Stomach Cancer,PIK3CA,26251521,random,pik3ca,C,ML,,symbol 'PIK3CA' present,9,clinicopathological characteristics of rhoa mutations in a central european gastric cancer cohort,ML
+Stomach Cancer,PIK3CA,30389134,targeted,pi3k,X,G,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,22,muc16 mutation predicts a favorable clinical outcome and correlates decreased warburg effect in gastric cancer,G
+Stomach Cancer,PIK3CA,30952761,random,pik3ca,C,M,,symbol 'PIK3CA' present,35,exon 9 mutation of pik3ca associated with poor survival in patients with epstein-barr virus-associated gastric cancer,M
+Stomach Cancer,PIK3CA,24088382,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,38,the akt inhibitor azd5363 is selectively active in pi3kca mutant gastric cancer and sensitizes a patient-derived gastric cancer xenograft mo,W
+Stomach Cancer,PIK3CA,37341658,random,pik3ca,C,M,,symbol 'PIK3CA' present,49,pik3ca mutation subtype delineates distinct immune profiles in gastric carcinoma,M
+Stomach Cancer,PIK3CA,20514448,random+targeted,pi3k,X,G,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,91,mutation analysis of tumor suppressor gene pten in patients with gastric carcinomas and its impact on pi3k akt pathway,G
+Stomach Cancer,PIK3CA,34163031,random+targeted,pi3k,X,W,target,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,115,large-scale analysis of kmt2 mutations defines a distinctive molecular subset with treatment implication in gastric cancer,W
+Stomach Cancer,PIK3CA,16309427,random,pik3ca,C,ML,,symbol 'PIK3CA' present,128,erbb2 kinase domain mutation in a gastric cancer metastasis,ML
+Stomach Cancer,PIK3CA,29725898,random,pik3ca,C,I,,symbol 'PIK3CA' present,146,rates of tp53 mutation are significantly elevated in african american patients with gastric cancer,I
+Stomach Cancer,PIK3CA,15784156,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,158,mutations of pik3ca in gastric adenocarcinoma,M
+Stomach Cancer,PIK3CA,24774510,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,170,clinicopathological features and prognostic roles of kras braf pik3ca and nras mutations in advanced gastric cancer,M
+Stomach Cancer,PIK3CA,20937558,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,302,oncogenic mutations in gastric cancer with microsatellite instability,M
+Stomach Cancer,PIK3CA,36724040,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,309,prevalence and associations of beta2-microglobulin mutations in msi-h dmmr cancers,W
+Stomach Cancer,PIK3CA,35438321,random,pik3ca,C,M,target,symbol 'PIK3CA' present,319,kras mutation as a predictor of insufficient trastuzumab efficacy and poor prognosis in her2-positive advanced gastric cancer,M
+Stomach Cancer,PIK3CA,28640116,random,pik3ca,C,I,,symbol 'PIK3CA' present,334,distribution of somatic mutations of cancer-related genes according to microsatellite instability status in korean gastric cancer,I
+Stomach Cancer,PIK3CA,25583476,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,360,mutational landscape of gastric adenocarcinoma in chinese implications for prognosis and therapy,W
+Stomach Cancer,PIK3CA,36450891,random+targeted,pi3k,X,G,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,371,comprehensive transcriptomic profiling and mutational landscape of primary gastric linitis plastica,G
+Stomach Cancer,PIK3CA,25079317,random,pik3ca,C,M,,symbol 'PIK3CA' present,420,comprehensive molecular characterization of gastric adenocarcinoma,M
+Stomach Cancer,PIK3CA,23236232,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,490,alterations in the human epidermal growth factor receptor 2-phosphatidylinositol 3-kinase-v-akt pathway in gastric cancer,M
+Stomach Cancer,PIK3CA,40519936,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,507,decoding the molecular landscape her2 and pd-l1 in advanced gastric cancer,W
+Stomach Cancer,PIK3CA,25815786,random,pik3ca,C,M,target,symbol 'PIK3CA' present,513,identification of kras and pik3ca but not braf mutations in patients with gastric cancer,M
+Stomach Cancer,PIK3CA,24510342,random,pik3ca,C,ML,,symbol 'PIK3CA' present,526,integrated analysis of cancer-related pathways affected by genetic and epigenetic alterations in gastric cancer,ML
+Stomach Cancer,PIK3CA,34873204,random,pik3ca,C,G,,symbol 'PIK3CA' present,557,comparable genetic alteration profiles between gastric cancers with current and past helicobacter pylori infection,G
+Stomach Cancer,PIK3CA,37967684,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,614,deep sequencing reveals recurrent somatic mutations and distinct molecular subgroups in gastric cancer in mizo population north east india,W
+Stomach Cancer,PIK3CA,23208944,random,pik3ca,C,I,,symbol 'PIK3CA' present,619,an -e-catenin ctnna1 mutation in hereditary diffuse gastric cancer,I
+Stomach Cancer,PIK3CA,25372287,random,pik3ca,C,I,,symbol 'PIK3CA' present,621,high-throughput sequencing and copy number variation detection using formalin fixed embedded tissue in metastatic gastric cancer,I
+Stomach Cancer,PIK3CA,25042771,random,pik3ca,C,ML,,symbol 'PIK3CA' present,660,the mutational burdens and evolutionary ages of early gastric cancers are comparable to those of advanced gastric cancers,ML
+Stomach Cancer,PIK3CA,28453696,random,pik3ca,C,M,,symbol 'PIK3CA' present,674,epstein-barr virus-associated gastric cancer reveals intratumoral heterogeneity of pik3ca mutations,M
+Stomach Cancer,PIK3CA,38713052,targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,693,molecular alterations in claudin 18 suppressed and non-suppressed gastric adenocarcinomas to guide targeted therapies,M
+Stomach Cancer,PIK3CA,23960014,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,702,phosphatidylinositol-3-kinase pathway aberrations in gastric and colorectal cancer meta-analysis co-occurrence and ethnic variation,M
+Stomach Cancer,PIK3CA,31949146,random,pik3ca,C,I,,symbol 'PIK3CA' present,719,extreme intratumour heterogeneity and driver evolution in mismatch repair deficient gastro-oesophageal cancer,I
+Stomach Cancer,PIK3CA,34916374,random,pik3ca,C,P,,symbol 'PIK3CA' present,735,germline likely pathogenic variants in ataxia-telangiectasia-mutated gene in an iranian family with hereditary diffuse gastric cancer withou,P
+Stomach Cancer,PIK3CA,26337667,random,pik3ca,C,M,,symbol 'PIK3CA' present,737,epstein-barr virus-associated gastric carcinoma use of host cell machineries and somatic gene mutations,M
+Stomach Cancer,PIK3CA,30796154,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,757,comparison of the clinicopathological characteristics and genetic alterations between patients with gastric cancer with or without helicobac,M
+Stomach Cancer,PIK3CA,21266357,random+targeted,pi3k,X,I,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,779,multiple mutations and bypass mechanisms can contribute to development of acquired resistance to met inhibitors,I
+Stomach Cancer,PIK3CA,27517839,random,pik3ca,C,M,target,symbol 'PIK3CA' present,782,pten loss is associated with a poor response to trastuzumab in her2-overexpressing gastroesophageal adenocarcinoma,M
+Stomach Cancer,PIK3CA,41712871,random,pik3ca,C,M,,symbol 'PIK3CA' present,837,real-world genomic landscape of korean gastric cancer integrating biomarker associations and clinical outcomes in metastatic gastric cancer,M
+Stomach Cancer,PIK3CA,40295072,random,pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,843,development of acquired resistance in alpelisib-treated gastric cancer cells with pik3ca mutations and overcoming strategies,M
+Stomach Cancer,PIK3CA,28460635,targeted,pi3k,X,I,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,847,transcriptomic profiling and quantitative high-throughput qhts drug screening of cdh1 deficient hereditary diffuse gastric cancer hdgc cells,I
+Stomach Cancer,PIK3CA,22292935,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,857,highly frequent pik3ca amplification is associated with poor prognosis in gastric cancer,M
+Stomach Cancer,PIK3CA,34095982,random,pik3ca,C,I,,symbol 'PIK3CA' present,882,a novel genomic classification system of gastric cancer via integrating multidimensional genomic characteristics,I
+Stomach Cancer,PIK3CA,23481512,random,pik3ca,C,ML,,symbol 'PIK3CA' present,883,biomarker analysis in oesophagogastric cancer results from the real3 and transmagic trials,ML
+Stomach Cancer,PIK3CA,12569555,random,pik3ca,C,M,,symbol 'PIK3CA' present,944,frequent monoallelic deletion of pten and its reciprocal associatioin with pik3ca amplification in gastric carcinoma,M
+Stomach Cancer,PIK3CA,25300346,random,pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,951,pten deficiency as a predictive biomarker of resistance to her2-targeted therapy in advanced gastric cancer,M
+Stomach Cancer,PIK3CA,31315834,random,pik3ca,C,ML,,symbol 'PIK3CA' present,972,tumor genomic profiling guides patients with metastatic gastric cancer to targeted treatment the viktory umbrella trial,ML
+Stomach Cancer,PIK3CA,30066183,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,977,e-cadherin-deficient cells have synthetic lethal vulnerabilities in plasma membrane organisation dynamics and function,W
+Stomach Cancer,CTNNB1,26684240,all,ctnnb1,C,I,,symbol 'CTNNB1' present,39,identification of the braf v600e mutation in gastroenteropancreatic neuroendocrine tumors,I
+Stomach Cancer,CTNNB1,18330950,all,beta catenin|ctnnb1,C,P,,symbol 'CTNNB1' present,41,mutations in components of the wnt signaling pathway in gastric cancer,P
+Stomach Cancer,CTNNB1,15191558,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,48,braf point mutations in primary melanoma show different prevalences by subtype,ML
+Stomach Cancer,CTNNB1,25288233,all,ctnnb1,C,M,,symbol 'CTNNB1' present,50,gnas mutation as an alternative mechanism of activation of the wnt -catenin signaling pathway in gastric adenocarcinoma of the fundic gland ,M
+Stomach Cancer,CTNNB1,18720004,all,beta catenin,C,M,,credited via alias beta catenin,52,mutational analysis of wtx gene in wnt beta-catenin pathway in gastric colorectal and hepatocellular carcinomas,M
+Stomach Cancer,CTNNB1,30132154,all,ctnnb1,C,M,,symbol 'CTNNB1' present,67,mutation heterogeneity between primary gastric cancers and their matched lymph node metastases,M
+Stomach Cancer,CTNNB1,11163116,all,beta catenin,C,M,,credited via alias beta catenin,75,somatic beta-catenin mutation in gastric carcinoma--an infrequent event that is not specific for microsatellite instability,M
+Stomach Cancer,CTNNB1,22723903,all,ctnnb1,C,M,,symbol 'CTNNB1' present,100,high-throughput mutation profiling identifies frequent somatic mutations in advanced gastric adenocarcinoma,M
+Stomach Cancer,CTNNB1,23196062,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,125,comprehensive dna methylation and extensive mutation analyses reveal an association between the cpg island methylator phenotype and oncogeni,ML
+Stomach Cancer,CTNNB1,16870389,all,beta catenin,C,I,,credited via alias beta catenin,134,a novel mutation in the e-cadherin gene in the first family with hereditary diffuse gastric cancer reported in spain,I
+Stomach Cancer,CTNNB1,11956818,all,beta catenin,C,M,,credited via alias beta catenin,137,beta-catenin mutations in sporadic fundic gland polyps,M
+Stomach Cancer,CTNNB1,15467739,all,beta catenin,C,P,,credited via alias beta catenin,180,inactivating mutations of the siah-1 gene in gastric cancer,P
+Stomach Cancer,CTNNB1,28873240,all,ctnnb1,C,I,,symbol 'CTNNB1' present,187,gastric poorly cohesive carcinoma a correlative study of mutational signatures and prognostic significance based on histopathological subtyp,I
+Stomach Cancer,CTNNB1,27355872,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,203,tcga increased oncoprotein coding region mutations correlate with a greater expression of apoptosis-effector genes and a positive outcome fo,ML
+Stomach Cancer,CTNNB1,18391748,all,beta catenin,C,P,,credited via alias beta catenin,205,risk-reducing total gastrectomy for germline mutations in e-cadherin cdh1 pathologic findings with clinical implications,P
+Stomach Cancer,CTNNB1,40108450,all,ctnnb1,C,I,,symbol 'CTNNB1' present,225,the somatic mutation landscape of normal gastric epithelium,I
+Stomach Cancer,CTNNB1,11125285,all,beta catenin,C,M,,credited via alias beta catenin,243,mutational analysis of the beta-catenin gene in gastric carcinomas,M
+Stomach Cancer,CTNNB1,16907857,all,beta catenin,C,M,,credited via alias beta catenin,253,pin1 gene mutation is a rare event in gastric cancer,M
+Stomach Cancer,CTNNB1,11238048,all,beta catenin,C,M,,credited via alias beta catenin,272,sporadic fundic gland polyps common gastric polyps arising through activating mutations in the beta-catenin gene,M
+Stomach Cancer,CTNNB1,12067995,all,beta catenin,C,M,,credited via alias beta catenin,284,beta-catenin mutation is a frequent cause of wnt pathway activation in gastric cancer,M
+Stomach Cancer,CTNNB1,14970870,all,beta catenin,C,M,,credited via alias beta catenin,289,frequent loss of the axin1 locus but absence of axin1 gene mutations in adenocarcinomas of the gastro-oesophageal junction with nuclear beta,M
+Stomach Cancer,CTNNB1,35188590,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,294,activating kras and gnas mutations in heterotopic submucosal glands of the stomach,ML
+Stomach Cancer,CTNNB1,11756228,all,beta catenin,C,M,,credited via alias beta catenin,328,increased beta-catenin mrna levels and mutational alterations of the apc and beta-catenin gene are present in intestinal-type gastric cancer,M
+Stomach Cancer,CTNNB1,12163385,all,beta catenin,C,M,,credited via alias beta catenin,331,inverse relationship between apc gene mutation in gastric adenomas and development of adenocarcinoma,M
+Stomach Cancer,CTNNB1,33359239,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,346,neuroendocrine carcinoma and mixed neuroendocrinenon-neuroendocrine neoplasm of the stomach a clinicopathological and exome sequencing study,ML
+Stomach Cancer,CTNNB1,27708434,all,ctnnb1,C,I,,symbol 'CTNNB1' present,368,clinical relevance and molecular phenotypes in gastric cancer of tp53 mutations and gene expressions in combination with other gene mutation,I
+Stomach Cancer,CTNNB1,15135482,all,beta catenin,C,M,,credited via alias beta catenin,377,germline mutational analysis of cdh1 and pathologic features in familial cancer syndrome with diffuse gastric cancer breast cancer proband i,M
+Stomach Cancer,CTNNB1,12118109,all,beta catenin,C,M,,credited via alias beta catenin,404,sporadic fundic gland polyposis a clinical histological and molecular analysis,M
+Stomach Cancer,CTNNB1,29402328,all,ctnnb1,C,P,,symbol 'CTNNB1' present,451,expression of the hippo transducer taz in association with wnt pathway mutations impacts survival outcomes in advanced gastric cancer patien,P
+Stomach Cancer,CTNNB1,37054973,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,471,smarca4 mutations in carcinomas of the esophagus esophagogastric junction and stomach,ML
+Stomach Cancer,CTNNB1,14662019,all,beta catenin,C,M,,credited via alias beta catenin,472,beta-catenin mutations and nuclear accumulation during progression of rat stomach adenocarcinomas,M
+Stomach Cancer,CTNNB1,11241321,all,beta catenin,C,M,,credited via alias beta catenin,491,altered expression and mutation of beta-catenin gene in gastric carcinomas and cell lines,M
+Stomach Cancer,CTNNB1,30946937,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,504,gastric hepatoid adenocarcinomas are a genetically heterogenous group most tumors show chromosomal instability but msi tumors do exist,ML
+Stomach Cancer,CTNNB1,39827855,all,ctnnb1,C,M,,symbol 'CTNNB1' present,515,comparison of genetic mutations of gastric cancer diagnosed before or after helicobacter pylori eradication and between differentiated and u,M
+Stomach Cancer,CTNNB1,24510342,all,ctnnb1,C,M,,symbol 'CTNNB1' present,526,integrated analysis of cancer-related pathways affected by genetic and epigenetic alterations in gastric cancer,M
+Stomach Cancer,CTNNB1,15609344,all,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,550,beta-catenin ctnnb1 gene amplification a new mechanism of protein overexpression in cancer,M
+Stomach Cancer,CTNNB1,23208952,all,ctnnb1,C,M,,symbol 'CTNNB1' present,562,frequent gnas and kras mutations in pyloric gland adenoma of the stomach and duodenum,M
+Stomach Cancer,CTNNB1,12926124,all,beta catenin,C,M,,credited via alias beta catenin,565,expression of beta-catenin and e-cadherin in the adenoma-carcinoma sequence of the stomach,M
+Stomach Cancer,CTNNB1,25656989,all,ctnnb1,C,W,,symbol 'CTNNB1' present,573,retrospective review using targeted deep sequencing reveals mutational differences between gastroesophageal junction and gastric carcinomas,W
+Stomach Cancer,CTNNB1,23071139,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,575,catenin family genes are not commonly mutated in hereditary diffuse gastric cancer,ML
+Stomach Cancer,CTNNB1,42091970,all,ctnnb1,C,I,,symbol 'CTNNB1' present,576,genetic susceptibility and gene-environment interactions in gastric cancer among ethnic populations of northeast india,I
+Stomach Cancer,CTNNB1,15182428,all,beta catenin,C,M,,credited via alias beta catenin,577,beta-catenin gene alteration in glandular stomach adenocarcinomas in n-methyl-n-nitrosourea-treated and helicobacter pylori-infected mongoli,M
+Stomach Cancer,CTNNB1,30344425,all,ctnnb1,C,W,,symbol 'CTNNB1' present,585,fanca d1359y mutation in a patient with gastric polyposis and cancer susceptibility a case report and review of literature,W
+Stomach Cancer,CTNNB1,12598910,all,beta catenin,C,P,,credited via alias beta catenin,602,patterns of beta-catenin expression in gastric carcinoma clinicopathological relevance and mutation analysis,P
+Stomach Cancer,CTNNB1,16600987,all,armadillo,U,I,,credited via 'armadillo' (the Drosophila beta-catenin ortholog) in an E-cadherin (CDH1) mutation paper; CTNNB1 itself not studied,603,e-cadherin missense mutations associated with hereditary diffuse gastric cancer hdgc syndrome display distinct invasive behaviors and geneti,I
+Stomach Cancer,CTNNB1,24011952,all,ctnnb1,C,M,,symbol 'CTNNB1' present,610,alteration in the wnt -catenin signaling pathway in gastric neoplasias of fundic gland chief cell predominant type,M
+Stomach Cancer,CTNNB1,37945587,all,ctnnb1,C,G,,symbol 'CTNNB1' present,631,genetic landscape and pd-l1 expression in epstein-barr virus-associated gastric cancer according to the histological pattern,G
+Stomach Cancer,CTNNB1,15895459,all,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,638,gastric cancer new genetic developments,M
+Stomach Cancer,CTNNB1,33431761,all,ctnnb1,C,M,,symbol 'CTNNB1' present,675,stage iv epstein-barr virus-associated early gastric cancer and comparative analysis of genetic alterations in primary and metastatic tumors,M
+Stomach Cancer,CTNNB1,14610318,all,beta catenin,C,I,,credited via alias beta catenin,696,the g a nucleotide change at cdna position 2494 in the e-cadherin gene cdh1 analysis in italian patients,I
+Stomach Cancer,CTNNB1,26401016,all,ctnnb1,C,W,,symbol 'CTNNB1' present,714,genomic alterations in bcl2l1 and dlc1 contribute to drug sensitivity in gastric cancer,W
+Stomach Cancer,CTNNB1,26364057,all,ctnnb1,C,W,,symbol 'CTNNB1' present,736,gene mutations in gastric cancer a review of recent next-generation sequencing studies,W
+Stomach Cancer,CTNNB1,17295679,all,beta catenin,C,P,target,credited via alias beta catenin,742,somatic mutations of the beta-trcp gene in gastric cancer,P
+Stomach Cancer,CTNNB1,12920223,all,beta catenin,C,M,,credited via alias beta catenin,746,genetic alterations in gastric adenomas of intestinal and foveolar phenotypes,M
+Stomach Cancer,CTNNB1,12767522,all,beta catenin,C,M,,credited via alias beta catenin,754,no involvement of beta-catenin gene mutation in gastric carcinomas induced by n-methyl-n-nitrosourea in male f344 rats,M
+Stomach Cancer,CTNNB1,17163846,all,beta catenin,C,M,,credited via alias beta catenin,768,mutations and nuclear accumulation of beta-catenin correlate with intestinal phenotypic expression in human gastric cancer,M
+Stomach Cancer,CTNNB1,16075282,all,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,771,aberrant cpg island methylation in early-onset sporadic gastric carcinoma,M
+Stomach Cancer,CTNNB1,17295683,all,beta catenin,C,G,,credited via alias beta catenin,786,genetic and epigenetic analysis of the ephb2 gene in gastric cancers,G
+Stomach Cancer,CTNNB1,32269290,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,824,an lcm-based genomic analysis of spem gastric cancer and pyloric gland adenoma in an asian cohort,ML
+Stomach Cancer,CTNNB1,35486034,all,ctnnb1,C,M,,symbol 'CTNNB1' present,839,clinicopathological characteristics survival outcomes and genetic alterations of younger patients with gastric cancer results from the china,M
+Stomach Cancer,CTNNB1,12377817,all,beta catenin,C,M,,credited via alias beta catenin,931,regression of fundic gland polyps following acquisition of helicobacter pylori,M
+Stomach Cancer,CTNNB1,30756200,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,971,identification of early genetic changes in well-differentiated intramucosal gastric carcinoma by target deep sequencing,ML
+Stomach Cancer,CTNNB1,39049011,all,ctnnb1,C,M,,symbol 'CTNNB1' present,993,histogenetic insights and genetic landscape of fibromatosis-like undifferentiated gastric carcinoma a focused study,M
+Stomach Cancer,CTNNB1,11747475,all,beta catenin,C,M,,credited via alias beta catenin,997,alterations of e-cadherin and beta-catenin in gastric cancer,M
+Stomach Cancer,BRAF,30144031,all,braf,C,M,target,symbol 'BRAF' present,3,braf v600e mutation a promising target in colorectal neuroendocrine carcinoma,M
+Stomach Cancer,BRAF,26684240,all,braf,C,M,,symbol 'BRAF' present,39,identification of the braf v600e mutation in gastroenteropancreatic neuroendocrine tumors,M
+Stomach Cancer,BRAF,35050442,all,braf,C,ML,,symbol 'BRAF' present,47,broad spectrum of regorafenib activity on mutant kit and absence of clonal selection in gastrointestinal stromal tumor gist correlative anal,ML
+Stomach Cancer,BRAF,15191558,all,braf,C,M,,symbol 'BRAF' present,48,braf point mutations in primary melanoma show different prevalences by subtype,M
+Stomach Cancer,BRAF,23511561,all,braf,C,M,,symbol 'BRAF' present,59,kras and braf mutations are rare and related to dna mismatch repair deficiency in gastric cancer from the east and the west results from a l,M
+Stomach Cancer,BRAF,23343956,all,braf,C,M,,symbol 'BRAF' present,107,no evidence for braf-v600e mutations in gastroeosophageal tumors results from a high-throughput analysis of 534 cases using a mutation-speci,M
+Stomach Cancer,BRAF,14534542,all,braf,C,M,,symbol 'BRAF' present,114,braf and kras mutations in stomach cancer,M
+Stomach Cancer,BRAF,16309427,all,braf,C,ML,,symbol 'BRAF' present,128,erbb2 kinase domain mutation in a gastric cancer metastasis,ML
+Stomach Cancer,BRAF,16397024,all,braf,C,ML,,symbol 'BRAF' present,147,somatic mutations of erbb2 kinase domain in gastric colorectal and breast carcinomas,ML
+Stomach Cancer,BRAF,24774510,all,braf,C,ML,,symbol 'BRAF' present,170,clinicopathological features and prognostic roles of kras braf pik3ca and nras mutations in advanced gastric cancer,ML
+Stomach Cancer,BRAF,30503528,all,braf,C,M,,symbol 'BRAF' present,172,characterization of pi3kca and braf mutations in gastric adenocarcinoma an approach to a personalized targeted therapy for moroccan her2 ove,M
+Stomach Cancer,BRAF,28873240,all,braf,C,ML,,symbol 'BRAF' present,187,gastric poorly cohesive carcinoma a correlative study of mutational signatures and prognostic significance based on histopathological subtyp,ML
+Stomach Cancer,BRAF,27355872,all,braf,C,I,,symbol 'BRAF' present,203,tcga increased oncoprotein coding region mutations correlate with a greater expression of apoptosis-effector genes and a positive outcome fo,I
+Stomach Cancer,BRAF,23702733,all,braf,C,M,,symbol 'BRAF' present,208,no kras mutations found in gastrointestinal stromal tumors gists molecular genetic study of 514 cases,M
+Stomach Cancer,BRAF,25182956,all,braf,C,M,,symbol 'BRAF' present,209,kit and braf heterogeneous mutations in gastrointestinal stromal tumors after secondary imatinib resistance,M
+Stomach Cancer,BRAF,14668801,all,braf,C,M,,symbol 'BRAF' present,221,braf mutations characterize colon but not gastric cancer with mismatch repair deficiency,M
+Stomach Cancer,BRAF,15616773,all,braf,C,M,,symbol 'BRAF' present,223,braf k-ras mutation microsatellite instability and promoter hypermethylation of hmlh1 mgmt in human gastric carcinomas,M
+Stomach Cancer,BRAF,14513361,all,braf,C,M,,symbol 'BRAF' present,239,mutational analysis of braf and k-ras in gastric cancers absence of braf mutations in gastric cancers,M
+Stomach Cancer,BRAF,35188590,all,braf,C,ML,,symbol 'BRAF' present,294,activating kras and gnas mutations in heterotopic submucosal glands of the stomach,ML
+Stomach Cancer,BRAF,20937558,all,braf,C,M,,symbol 'BRAF' present,302,oncogenic mutations in gastric cancer with microsatellite instability,M
+Stomach Cancer,BRAF,35438321,all,braf,C,ML,,symbol 'BRAF' present,319,kras mutation as a predictor of insufficient trastuzumab efficacy and poor prognosis in her2-positive advanced gastric cancer,ML
+Stomach Cancer,BRAF,22152101,all,braf,C,M,,symbol 'BRAF' present,343,biomarker analysis of cetuximab plus oxaliplatin leucovorin 5-fluorouracil in first-line metastatic gastric and oesophago-gastric junction c,M
+Stomach Cancer,BRAF,22011788,all,braf,C,M,target,symbol 'BRAF' present,373,in vitro and in vivo antitumor activity of cetuximab in human gastric cancer cell lines in relation to epidermal growth factor receptor egfr,M
+Stomach Cancer,BRAF,34884530,all,braf,C,M,,symbol 'BRAF' present,407,braf mutation is associated with hyperplastic polyp-associated gastric cancer,M
+Stomach Cancer,BRAF,42019486,all,braf,C,M,,symbol 'BRAF' present,441,micro-gist with braf mutation arising in a leiomyoma a rare case report and literature review,M
+Stomach Cancer,BRAF,28210747,all,braf,C,M,,symbol 'BRAF' present,483,extent of field change in colorectal cancers with braf mutation,M
+Stomach Cancer,BRAF,30946937,all,braf,C,M,,symbol 'BRAF' present,504,gastric hepatoid adenocarcinomas are a genetically heterogenous group most tumors show chromosomal instability but msi tumors do exist,M
+Stomach Cancer,BRAF,25815786,all,braf,C,M,target,symbol 'BRAF' present,513,identification of kras and pik3ca but not braf mutations in patients with gastric cancer,M
+Stomach Cancer,BRAF,23208952,all,braf,C,M,,symbol 'BRAF' present,562,frequent gnas and kras mutations in pyloric gland adenoma of the stomach and duodenum,M
+Stomach Cancer,BRAF,38662253,all,braf,C,ML,,symbol 'BRAF' present,567,a gastric invasive tubular adenocarcinomatous lesion arising from foveolar-type neoplasia molecular histogenesis,ML
+Stomach Cancer,BRAF,15994075,all,braf,C,ML,,symbol 'BRAF' present,613,the prevalence of pik3ca mutations in gastric and colon cancer,ML
+Stomach Cancer,BRAF,33099543,all,braf,C,M,,symbol 'BRAF' present,626,ctdna in neuroendocrine carcinoma of gastroenteropancreatic origin or of unknown primary the circan-nec pilot study,M
+Stomach Cancer,BRAF,17693665,all,braf,C,I,,symbol 'BRAF' present,643,genetic pathways and mutation profiles of human cancers site- and exposure-specific patterns,I
+Stomach Cancer,BRAF,32943104,all,braf,C,ML,,symbol 'BRAF' present,717,analysis of clinicopathological and molecular features of crawling-type gastric adenocarcinoma,ML
+Stomach Cancer,BRAF,31922331,all,braf,C,M,,symbol 'BRAF' present,759,solid-type poorly differentiated adenocarcinoma of the stomach deficiency of mismatch repair and swi snf complex,M
+Stomach Cancer,BRAF,32883742,all,braf,C,M,,symbol 'BRAF' present,806,comprehensive genomic profiling of gastroenteropancreatic neuroendocrine neoplasms gep-nens,M
+Stomach Cancer,BRAF,32269290,all,braf,C,ML,,symbol 'BRAF' present,824,an lcm-based genomic analysis of spem gastric cancer and pyloric gland adenoma in an asian cohort,ML
+Stomach Cancer,BRAF,26811494,all,braf,C,I,,symbol 'BRAF' present,845,genetic alterations and their clinical implications in gastric cancer peritoneal carcinomatosis revealed by whole-exome sequencing of malign,I
+Stomach Cancer,BRAF,23481512,all,braf,C,ML,,symbol 'BRAF' present,883,biomarker analysis in oesophagogastric cancer results from the real3 and transmagic trials,ML
+Stomach Cancer,BRAF,27265040,all,braf,C,M,,symbol 'BRAF' present,936,gastric gists analysis of c-kit pdgfra and braf mutations in relation to prognosis and clinical pathological characteristics of patients - a,M
+Stomach Cancer,BRAF,41532847,all,braf,C,W,,symbol 'BRAF' present,938,mutational signatures and clonal hematopoiesis in intestinal metaplasia across countries with varying stomach cancer incidence,W
+Stomach Cancer,BRAF,26837764,all,braf,C,ML,,symbol 'BRAF' present,943,stomach-specific activation of oncogenic kras and stat3-dependent inflammation cooperatively promote gastric tumorigenesis in a preclinical ,ML
+Stomach Cancer,BRAF,26202952,all,braf,C,G,,symbol 'BRAF' present,950,multiple gastrointestinal polyps in patients treated with braf inhibitors,G
+Stomach Cancer,BRAF,31557757,all,braf,C,I,,symbol 'BRAF' present,982,gastroenteropancreatic high-grade neuroendocrine neoplasms histology and molecular analysis two sides of the same coin,I
+Stomach Cancer,BRAF,23911227,all,braf,C,G,,symbol 'BRAF' present,998,towards the goal of personalized medicine in gastric cancer--time to move beyond her2 inhibition part ii targeting gene mutations and gene a,G
+Stomach Cancer,APC,27514024,random,apc,C,M,,symbol 'APC' present,23,dysregulated wnt signalling and recurrent mutations of the tumour suppressor rnf43 in early gastric carcinogenesis,M
+Stomach Cancer,APC,26684240,random+targeted,apc,C,I,,symbol 'APC' present,39,identification of the braf v600e mutation in gastroenteropancreatic neuroendocrine tumors,I
+Stomach Cancer,APC,22723903,random+targeted,apc,C,I,,symbol 'APC' present,100,high-throughput mutation profiling identifies frequent somatic mutations in advanced gastric adenocarcinoma,I
+Stomach Cancer,APC,39054516,random+targeted,apc,C,W,,symbol 'APC' present,120,revealing the clinical impact of mtor and arid2 gene mutations on malt lymphoma of the alimentary canal using targeted sequencing,W
+Stomach Cancer,APC,12378616,random,apc,C,M,,symbol 'APC' present,131,mutation analysis of apc gene in gastric cancer with microsatellite instability,M
+Stomach Cancer,APC,10768871,random,apc,C,M,,symbol 'APC' present,171,the relationship between frequencies of extracolonic manifestations and the position of apc germline mutation in patients with familial aden,M
+Stomach Cancer,APC,27175599,random+targeted,apc,C,M,,symbol 'APC' present,185,the chronological sequence of somatic mutations in early gastric carcinogenesis inferred from multiregion sequencing of gastric adenomas,M
+Stomach Cancer,APC,39115206,random+targeted,apc,C,I,,symbol 'APC' present,206,the landscape and prognosis of microsatellite stable mss esophageal gastro-esophageal junction and gastric adenocarcinomas with high tumor m,I
+Stomach Cancer,APC,28039579,targeted,apc,C,M,,symbol 'APC' present,220,discordance of somatic mutations between asian and caucasian patient populations with gastric cancer,M
+Stomach Cancer,APC,11125285,random,apc,C,W,,symbol 'APC' present,243,mutational analysis of the beta-catenin gene in gastric carcinomas,W
+Stomach Cancer,APC,11238048,random,apc,C,M,,symbol 'APC' present,272,sporadic fundic gland polyps common gastric polyps arising through activating mutations in the beta-catenin gene,M
+Stomach Cancer,APC,14970870,random,apc,C,M,,symbol 'APC' present,289,frequent loss of the axin1 locus but absence of axin1 gene mutations in adenocarcinomas of the gastro-oesophageal junction with nuclear beta,M
+Stomach Cancer,APC,11756228,random,apc,C,M,,symbol 'APC' present,328,increased beta-catenin mrna levels and mutational alterations of the apc and beta-catenin gene are present in intestinal-type gastric cancer,M
+Stomach Cancer,APC,33359239,targeted,apc,C,M,,symbol 'APC' present,346,neuroendocrine carcinoma and mixed neuroendocrinenon-neuroendocrine neoplasm of the stomach a clinicopathological and exome sequencing study,M
+Stomach Cancer,APC,24272205,random,apc,C,ML,,symbol 'APC' present,349,high-throughput mutation profiling identifies novel molecular dysregulation in high-grade intraepithelial neoplasia and early gastric cancer,ML
+Stomach Cancer,APC,30474112,random,apc,C,M,,symbol 'APC' present,358,initial and crucial genetic events in intestinal-type gastric intramucosal neoplasia,M
+Stomach Cancer,APC,39327909,targeted,apc,C,I,,symbol 'APC' present,359,presence of rb1 or absence of lrp1b mutation predicts poor overall survival in patients with gastric neuroendocrine carcinoma and mixed aden,I
+Stomach Cancer,APC,37545327,random+targeted,apc,C,M,,symbol 'APC' present,385,the relationship between gene mutations and the clinicopathological features and prognosis of gastric cancer,M
+Stomach Cancer,APC,11399952,targeted,apc,C,M,,symbol 'APC' present,394,absence of microsatellite instability and germline mutations of e-cadherin apc and p53 genes in japanese familial gastric cancer,M
+Stomach Cancer,APC,27158207,random,apc,C,M,,symbol 'APC' present,414,clinicopathological features of familial adenomatous polyposis in korean patients,M
+Stomach Cancer,APC,29402328,random,apc,C,W,,symbol 'APC' present,451,expression of the hippo transducer taz in association with wnt pathway mutations impacts survival outcomes in advanced gastric cancer patien,W
+Stomach Cancer,APC,37054973,targeted,apc,C,ML,,symbol 'APC' present,471,smarca4 mutations in carcinomas of the esophagus esophagogastric junction and stomach,ML
+Stomach Cancer,APC,32543103,random,apc,C,M,,symbol 'APC' present,489,genetic alteration of colorectal adenoma-carcinoma sequence among gastric adenocarcinoma and dysplastic lesions in a patient with attenuated,M
+Stomach Cancer,APC,42752674,random+targeted,apc,C,M,,symbol 'APC' present,500,computational screening of oncogenic genetic variations in tumor suppressor proteins driving gastric cancer pathogenesis,M
+Stomach Cancer,APC,30012100,random,apc,C,M,,symbol 'APC' present,512,variables affecting penetrance of gastric and duodenal phenotype in familial adenomatous polyposis patients,M
+Stomach Cancer,APC,36165930,random+targeted,apc,C,I,,symbol 'APC' present,528,exploratory genomic analysis of high-grade neuroendocrine neoplasms across diverse primary sites,I
+Stomach Cancer,APC,15609344,random,apc,C,I,,symbol 'APC' present,550,beta-catenin ctnnb1 gene amplification a new mechanism of protein overexpression in cancer,I
+Stomach Cancer,APC,17085661,random,apc,C,M,,symbol 'APC' present,560,gastric and intestinal phenotypic marker expression in early differentiated-type tumors of the stomach clinicopathologic significance and ge,M
+Stomach Cancer,APC,11304579,targeted,apc,C,M,,symbol 'APC' present,564,molecular characterization of undifferentiated-type gastric carcinoma,M
+Stomach Cancer,APC,34196586,random,apc,C,M,,symbol 'APC' present,571,mutations of key driver genes in gastric cancer metastasis risk a systematic review and meta-analysis,M
+Stomach Cancer,APC,42091970,targeted,apc,C,I,,symbol 'APC' present,576,genetic susceptibility and gene-environment interactions in gastric cancer among ethnic populations of northeast india,I
+Stomach Cancer,APC,29307989,random+targeted,apc,C,M,,symbol 'APC' present,580,gene mutations in stool from gastric and colorectal neoplasia patients by next-generation sequencing,M
+Stomach Cancer,APC,25832318,random,apc,C,M,,symbol 'APC' present,581,familial adenomatous polyposis-associated and sporadic pyloric gland adenomas of the upper gastrointestinal tract share common genetic featu,M
+Stomach Cancer,APC,40378287,targeted,apc,C,I,,symbol 'APC' present,591,genomic analyses reveal the evolving characteristics of intestinal metaplasia and gastric cancer,I
+Stomach Cancer,APC,24011952,random,apc,C,W,,symbol 'APC' present,610,alteration in the wnt -catenin signaling pathway in gastric neoplasias of fundic gland chief cell predominant type,W
+Stomach Cancer,APC,25372287,random+targeted,apc,C,ML,,symbol 'APC' present,621,high-throughput sequencing and copy number variation detection using formalin fixed embedded tissue in metastatic gastric cancer,ML
+Stomach Cancer,APC,29968043,random,apc,C,M,,symbol 'APC' present,633,first report of an asian family with gastric adenocarcinoma and proximal polyposis of the stomach gapps revealed with the germline mutation ,M
+Stomach Cancer,APC,17693665,random+targeted,apc,C,W,,symbol 'APC' present,643,genetic pathways and mutation profiles of human cancers site- and exposure-specific patterns,W
+Stomach Cancer,APC,25042771,targeted,apc,C,ML,,symbol 'APC' present,660,the mutational burdens and evolutionary ages of early gastric cancers are comparable to those of advanced gastric cancers,ML
+Stomach Cancer,APC,40741479,random,apc,C,M,,symbol 'APC' present,695,clinicopathological significance of histological diversity in gastric adenocarcinoma with primitive enterocyte phenotype a methylation-drive,M
+Stomach Cancer,APC,26401016,random,apc,C,ML,,symbol 'APC' present,714,genomic alterations in bcl2l1 and dlc1 contribute to drug sensitivity in gastric cancer,ML
+Stomach Cancer,APC,12920223,random,apc,C,M,,symbol 'APC' present,746,genetic alterations in gastric adenomas of intestinal and foveolar phenotypes,M
+Stomach Cancer,APC,31409086,random,apc,C,M,,symbol 'APC' present,749,gapps - gastric adenocarcinoma and proximal polyposis of the stomach syndrome in 8 families tested at masaryk memorial cancer institute - pr,M
+Stomach Cancer,APC,35715605,random+targeted,apc,C,I,,symbol 'APC' present,764,multiple primary malignances managed with surgical excision a case report with next generation sequencing analysis,I
+Stomach Cancer,APC,17163846,random,apc,C,M,,symbol 'APC' present,768,mutations and nuclear accumulation of beta-catenin correlate with intestinal phenotypic expression in human gastric cancer,M
+Stomach Cancer,APC,32883742,random+targeted,apc,C,M,,symbol 'APC' present,806,comprehensive genomic profiling of gastroenteropancreatic neuroendocrine neoplasms gep-nens,M
+Stomach Cancer,APC,11819821,targeted,apc,C,P,,symbol 'APC' present,814,telomere erosion is independent of microsatellite instability but related to loss of heterozygosity in gastric cancer,P
+Stomach Cancer,APC,32269290,random+targeted,apc,C,I,,symbol 'APC' present,824,an lcm-based genomic analysis of spem gastric cancer and pyloric gland adenoma in an asian cohort,I
+Stomach Cancer,APC,34839352,targeted,apc,C,M,,symbol 'APC' present,833,genetic alterations in gastric amphicrine carcinomas and comparison with gastric mixed neuroendocrine-non-neuroendocrine neoplasms,M
+Stomach Cancer,APC,35486034,random+targeted,apc,C,I,,symbol 'APC' present,839,clinicopathological characteristics survival outcomes and genetic alterations of younger patients with gastric cancer results from the china,I
+Stomach Cancer,APC,33048355,targeted,apc,C,I,,symbol 'APC' present,860,morphologic and molecular analysis of early-onset gastric cancer,I
+Stomach Cancer,APC,22846738,random,apc,C,M,,symbol 'APC' present,959,genetic testing by cancer site stomach,M
+Stomach Cancer,BRCA2,40719786,all,brca2,C,M,,symbol 'BRCA2' present,1,predictive value of homologous recombination-related gene mutations in survival outcomes of first-line nivolumab plus chemotherapy for gastr,M
+Stomach Cancer,BRCA2,26182300,all,brca2,C,M,,symbol 'BRCA2' present,60,hereditary diffuse gastric cancer syndrome cdh1 mutations and beyond,M
+Stomach Cancer,BRCA2,35622232,all,brca2,C,M,,symbol 'BRCA2' present,69,comparative analysis of cancer gene mutations using targeted sequencing in matched primary and recurrent gastric cancers after chemotherapy,M
+Stomach Cancer,BRCA2,21895635,all,brca2,C,M,,symbol 'BRCA2' present,90,brca1 and brca2 mutations among familial breast cancer patients from costa rica,M
+Stomach Cancer,BRCA2,30239046,all,brca2,C,I,,symbol 'BRCA2' present,95,somatic mutational profiles of stage ii and iii gastric cancer according to tumor microenvironment immune type,I
+Stomach Cancer,BRCA2,15131399,all,brca2,C,M,,symbol 'BRCA2' present,110,cancer variation associated with the position of the mutation in the brca2 gene,M
+Stomach Cancer,BRCA2,21271559,all,brca2,C,ML,,symbol 'BRCA2' present,148,germline mutations of the e-cadherin gene in families with inherited invasive lobular breast carcinoma but no diffuse gastric cancer,ML
+Stomach Cancer,BRCA2,27313181,all,brca2,C,ML,,symbol 'BRCA2' present,152,comprehensive mutation profiling of mucinous gastric carcinoma,ML
+Stomach Cancer,BRCA2,34725190,all,brca2,C,ML,,symbol 'BRCA2' present,168,association of homologous recombination-dna damage response gene mutations with immune biomarkers in gastroesophageal cancers,ML
+Stomach Cancer,BRCA2,39056403,all,brca2,C,ML,,symbol 'BRCA2' present,184,clinical approach for managing patients with unexpected cdh1 mutations a case report,ML
+Stomach Cancer,BRCA2,25981591,all,brca2,C,G,,symbol 'BRCA2' present,193,cdh1 germ-line missense mutation identified by multigene sequencing in a family with no history of diffuse gastric cancer,G
+Stomach Cancer,BRCA2,37129948,all,brca2,C,M,,symbol 'BRCA2' present,219,brca2 germline mutations identify gastric cancers responsive to parp inhibitors,M
+Stomach Cancer,BRCA2,36627197,all,brca2,C,ML,,symbol 'BRCA2' present,238,profiling of the genetic features of chinese patients with gastric cancer with hrd germline mutations in a large-scale retrospective study,ML
+Stomach Cancer,BRCA2,17660459,all,brca2,C,M,,symbol 'BRCA2' present,292,germline e-cadherin mutations in familial lobular breast cancer,M
+Stomach Cancer,BRCA2,12052256,all,brca2,C,M,,symbol 'BRCA2' present,311,mutation analysis of the chk2 gene in breast carcinoma and other cancers,M
+Stomach Cancer,BRCA2,15550590,all,brca2,C,M,,symbol 'BRCA2' present,355,risk of cancer at sites other than the breast in swedish families eligible for brca1 or brca2 mutation testing,M
+Stomach Cancer,BRCA2,39327909,all,brca2,C,ML,,symbol 'BRCA2' present,359,presence of rb1 or absence of lrp1b mutation predicts poor overall survival in patients with gastric neuroendocrine carcinoma and mixed aden,ML
+Stomach Cancer,BRCA2,25583476,all,brca2,C,M,,symbol 'BRCA2' present,360,mutational landscape of gastric adenocarcinoma in chinese implications for prognosis and therapy,M
+Stomach Cancer,BRCA2,16546942,all,brca2,C,M,,symbol 'BRCA2' present,383,spontaneous and irradiation-induced tumor susceptibility in brca2 germline mutant mice and cooperative effects with a p53 germline mutation,M
+Stomach Cancer,BRCA2,12373604,all,brca2,C,M,,symbol 'BRCA2' present,412,brca2 gene mutations in families with aggregations of breast and stomach cancers,M
+Stomach Cancer,BRCA2,33933102,all,brca2,C,I,,symbol 'BRCA2' present,433,clinicopathological features of tumor mutation burden epstein-barr virus infection microsatellite instability and pd-l1 status in chinese pa,I
+Stomach Cancer,BRCA2,18440592,all,brca2,C,I,,symbol 'BRCA2' present,438,gastric cancer with high-level microsatellite instability target gene mutations clinicopathologic features and long-term survival,I
+Stomach Cancer,BRCA2,12114473,all,brca2,C,M,,symbol 'BRCA2' present,470,the effect of a single brca2 mutation on cancer in iceland,M
+Stomach Cancer,BRCA2,40653790,all,brca2,C,M,,symbol 'BRCA2' present,533,gastric cancer risk and brca1 2 mutations a systematic review and meta-analysis,M
+Stomach Cancer,BRCA2,29025585,all,brca2,C,ML,,symbol 'BRCA2' present,546,genetic gastric cancer susceptibility in the international clinical cancer genomics community research network,ML
+Stomach Cancer,BRCA2,32521533,all,brca2,C,ML,,symbol 'BRCA2' present,605,pathogenic germline mutations in chinese patients with gastric cancer identified by next-generation sequencing,ML
+Stomach Cancer,BRCA2,28702897,all,brca2,C,M,,symbol 'BRCA2' present,650,hereditary diffuse gastric cancer and lynch syndromes in a brca1 2 negative breast cancer patient,M
+Stomach Cancer,BRCA2,42446611,all,brca2,C,M,,symbol 'BRCA2' present,700,germline whole-exome sequencing identifies ctnnd1 as a candidate gene for hereditary gastric cancer in a large brazilian cohort,M
+Stomach Cancer,BRCA2,31570735,all,brca2,C,M,,symbol 'BRCA2' present,728,molecular profiles and metastasis markers in chinese patients with gastric carcinoma,M
+Stomach Cancer,BRCA2,34916374,all,brca2,C,M,,symbol 'BRCA2' present,735,germline likely pathogenic variants in ataxia-telangiectasia-mutated gene in an iranian family with hereditary diffuse gastric cancer withou,M
+Stomach Cancer,BRCA2,26364057,all,brca2,C,I,,symbol 'BRCA2' present,736,gene mutations in gastric cancer a review of recent next-generation sequencing studies,I
+Stomach Cancer,BRCA2,26857264,all,brca2,C,I,,symbol 'BRCA2' present,848,genomic landscape of somatic alterations in esophageal squamous cell carcinoma and gastric cancer,I
+Stomach Cancer,BRCA2,12210079,all,brca2,C,I,,symbol 'BRCA2' present,864,genetic progression in sporadic endometrial and gastrointestinal cancers with high microsatellite instability,I
+Stomach Cancer,BRCA2,15217503,all,brca2,C,P,,symbol 'BRCA2' present,887,no germline mutations in the histone acetyltransferase gene ep300 in brca1 and brca2 negative families with breast cancer and gastric pancre,P
+Stomach Cancer,BRCA2,26511885,all,brca2,C,M,,symbol 'BRCA2' present,956,a mutational signature in gastric cancer suggests therapeutic strategies,M
+Stomach Cancer,BRCA2,22846738,all,brca2,C,M,,symbol 'BRCA2' present,959,genetic testing by cancer site stomach,M
+Stomach Cancer,PDGFRA,15690055,all,pdgfra|platelet derived growth factor receptor alpha,C,M,,symbol 'PDGFRA' present,2,correlation of kit and platelet-derived growth factor receptor alpha mutations with gene activation and expression profiles in gastrointesti,M
+Stomach Cancer,PDGFRA,28284172,all,pdgfra|platelet derived growth factor receptor alpha,C,M,,symbol 'PDGFRA' present,19,clinical characteristics and treatment outcome in a large multicentre observational cohort of pdgfra exon 18 mutated gastrointestinal stroma,M
+Stomach Cancer,PDGFRA,16785193,all,pdgfra|platelet derived growth factor receptor alpha,C,M,,symbol 'PDGFRA' present,51,platelet-derived growth factor receptor family mutations in gastrointestinal stromal tumours,M
+Stomach Cancer,PDGFRA,31124195,all,pdgfra,C,M,,symbol 'PDGFRA' present,66,kit mutation in a naive succinate dehydrogenase-deficient gastric gist,M
+Stomach Cancer,PDGFRA,33909171,all,pdgfra,C,M,,symbol 'PDGFRA' present,87,nationwide evaluation of mutation-tailored treatment of gastrointestinal stromal tumors in daily clinical practice,M
+Stomach Cancer,PDGFRA,24338275,all,pdgfra,C,ML,,symbol 'PDGFRA' present,89,prognostic value of mutational characteristics in gastrointestinal stromal tumors a single-center experience in 275 cases,ML
+Stomach Cancer,PDGFRA,17824795,all,pdgfra,C,M,,symbol 'PDGFRA' present,133,imatinib in the management of multiple gastrointestinal stromal tumors associated with a germline kit k642e mutation,M
+Stomach Cancer,PDGFRA,33879132,all,pdgfra,C,ML,,symbol 'PDGFRA' present,169,mutations in alk and tsc1 in a gastrointestinal stromal tumor a case report,ML
+Stomach Cancer,PDGFRA,15146165,all,pdgfra,C,M,,symbol 'PDGFRA' present,188,a great majority of gists with pdgfra mutations represent gastric tumors of low or no malignant potential,M
+Stomach Cancer,PDGFRA,23702733,all,pdgfra,C,ML,,symbol 'PDGFRA' present,208,no kras mutations found in gastrointestinal stromal tumors gists molecular genetic study of 514 cases,ML
+Stomach Cancer,PDGFRA,25182956,all,pdgfra,C,M,,symbol 'PDGFRA' present,209,kit and braf heterogeneous mutations in gastrointestinal stromal tumors after secondary imatinib resistance,M
+Stomach Cancer,PDGFRA,15326474,all,pdgfra,C,M,,symbol 'PDGFRA' present,251,gastrointestinal stromal tumors gists with kit and pdgfra mutations have distinct gene expression profiles,M
+Stomach Cancer,PDGFRA,18657298,all,platelet derived growth factor receptor alpha,C,M,,credited via alias platelet derived growth factor receptor alpha,270,a gastrointestinal stromal tumor of the stomach morphologically resembling a neurofibroma demonstration of a novel platelet-derived growth f,M
+Stomach Cancer,PDGFRA,20834236,all,pdgfra,C,M,,symbol 'PDGFRA' present,277,epithelioid mixed phenotype in gastrointestinal stromal tumors with kit mutation from the stomach is associated with accelerated passage of ,M
+Stomach Cancer,PDGFRA,42482629,all,pdgfra,C,M,,symbol 'PDGFRA' present,285,golgi-pattern pdgfra immunoreactivity correlates with pdgfra mutation status in gastric epithelioid and mixed-type gastrointestinal stromal ,M
+Stomach Cancer,PDGFRA,32648338,all,platelet derived growth factor receptor alpha,C,M,,credited via alias platelet derived growth factor receptor alpha,305,laparoscopic surgery for familial multiple gastrointestinal stromal tumors with germ line c-kit gene mutation,M
+Stomach Cancer,PDGFRA,22855146,all,pdgfra|platelet derived growth factor receptor alpha,C,M,,symbol 'PDGFRA' present,342,tyrosine-kinase mutations in c-kit and pdgfr-alpha genes of imatinib naive adult patients with gastrointestinal stromal tumours gists of the,M
+Stomach Cancer,PDGFRA,22160160,all,pdgfra,C,M,,symbol 'PDGFRA' present,396,high kit and pdgfra are associated with shorter patients survival in gastroenteropancreatic neuroendocrine tumors but mutations are a rare e,M
+Stomach Cancer,PDGFRA,42019486,all,pdgfra,C,M,,symbol 'PDGFRA' present,441,micro-gist with braf mutation arising in a leiomyoma a rare case report and literature review,M
+Stomach Cancer,PDGFRA,16685437,all,pdgfra|platelet derived growth factor receptor alpha,C,M,,symbol 'PDGFRA' present,443,deletion of the kit gene is associated with liver metastasis and poor prognosis in patients with gastrointestinal stromal tumor in the stoma,M
+Stomach Cancer,PDGFRA,26191304,all,pdgfra,C,M,,symbol 'PDGFRA' present,465,myxoid epithelioid gastrointestinal stromal tumor harboring an unreported pdgfra mutation report of a case and review of the literature,M
+Stomach Cancer,PDGFRA,24266839,all,pdgfra,C,M,,symbol 'PDGFRA' present,476,rhabdoid morphology in gastrointestinal stromal tumours gists is associated with pdgfra mutations but does not imply aggressive behaviour,M
+Stomach Cancer,PDGFRA,17527083,all,pdgfra|platelet derived growth factor receptor alpha,C,M,,symbol 'PDGFRA' present,486,multicentric sporadic gastrointestinal stromal tumors gists of the stomach with distinct clonal origin differential diagnosis to familial an,M
+Stomach Cancer,PDGFRA,21064103,all,pdgfra,C,M,,symbol 'PDGFRA' present,525,expression profiling of gist cd133 is associated with kit exon 11 mutations gastric location and poor prognosis,M
+Stomach Cancer,PDGFRA,23283817,all,pdgfra,C,M,,symbol 'PDGFRA' present,527,coexistence of gastrointestinal stromal tumors and gastric adenocarcinomas,M
+Stomach Cancer,PDGFRA,17673922,all,pdgfra,C,M,,symbol 'PDGFRA' present,536,site-dependent differential kit and pdgfra expression in gastric and intestinal gastrointestinal stromal tumors,M
+Stomach Cancer,PDGFRA,15917417,all,pdgfra,C,M,,symbol 'PDGFRA' present,611,the location of kit and pdgfra gene mutations in gastrointestinal stromal tumours is site and phenotype associated,M
+Stomach Cancer,PDGFRA,18724245,all,pdgfra,C,M,,symbol 'PDGFRA' present,617,multiple sporadic gastrointestinal stromal tumors gists of the proximal stomach are caused by different somatic kit mutations suggesting a f,M
+Stomach Cancer,PDGFRA,22804613,all,pdgfra,C,M,,symbol 'PDGFRA' present,712,loss of succinate dehydrogenase subunit b sdhb expression is limited to a distinctive subset of gastric wild-type gastrointestinal stromal t,M
+Stomach Cancer,PDGFRA,19319643,all,pdgfra,C,M,,symbol 'PDGFRA' present,734,laparoscopic resection of sporadic synchronous gastric and jejunal gastrointestinal stromal tumors report of a case,M
+Stomach Cancer,PDGFRA,34257559,all,pdgfra,C,ML,,symbol 'PDGFRA' present,762,differential expression of cadm1 in gastrointestinal stromal tumors of different sites and with different gene abnormalities,ML
+Stomach Cancer,PDGFRA,35715605,all,pdgfra,C,M,,symbol 'PDGFRA' present,764,multiple primary malignances managed with surgical excision a case report with next generation sequencing analysis,M
+Stomach Cancer,PDGFRA,17197927,all,pdgfra,C,M,,symbol 'PDGFRA' present,787,minute gastric sclerosing stromal tumors gist tumorlets are common in adults and frequently show c-kit mutations,M
+Stomach Cancer,PDGFRA,15613856,all,pdgfra,C,M,,symbol 'PDGFRA' present,849,gastrointestinal stromal tumors of the stomach a clinicopathologic immunohistochemical and molecular genetic study of 1765 cases with long-t,M
+Stomach Cancer,PDGFRA,17629038,all,platelet derived growth factor receptor alpha,C,M,,credited via alias platelet derived growth factor receptor alpha,871,two cases of gastrointestinal stromal tumor of the stomach with lymph node metastasis,M
+Stomach Cancer,PDGFRA,40347384,all,pdgfra|platelet derived growth factor receptor alpha,C,M,,symbol 'PDGFRA' present,914,pimitespib therapy for a patient with pdgfra d842v-mutant gastrointestinal stromal tumor,M
+Stomach Cancer,PDGFRA,27265040,all,pdgfra,C,M,,symbol 'PDGFRA' present,936,gastric gists analysis of c-kit pdgfra and braf mutations in relation to prognosis and clinical pathological characteristics of patients - a,M
+Stomach Cancer,PDGFRA,22593460,all,pdgfra|platelet derived growth factor receptor alpha,C,M,,symbol 'PDGFRA' present,947,a kit-negative dog1-positive epithelioid gist of the stomach harboring a novel pdgfra exon 14 single nucleotide deletion,M
+Stomach Cancer,ARID1A,38324965,all,arid1a,C,M,,symbol 'ARID1A' present,44,comparative analysis of arid1a mutations with mrna levels and protein expression in gastric carcinoma,M
+Stomach Cancer,ARID1A,38253255,all,arid1a,C,M,,symbol 'ARID1A' present,65,a comparison analysis of the somatic mutations in early-onset gastric cancer and traditional gastric cancer,M
+Stomach Cancer,ARID1A,36346122,all,arid1a,C,I,,symbol 'ARID1A' present,68,pik3ca somatic mutations as potential biomarker for immunotherapy in elder or tp53 mutated gastric cancer patients,I
+Stomach Cancer,ARID1A,36779847,all,arid1a,C,I,,symbol 'ARID1A' present,99,comparison of the mutation patterns between tumor tissue and cell-free dna in stage iv gastric cancer,I
+Stomach Cancer,ARID1A,40436141,all,arid1a,C,ML,,symbol 'ARID1A' present,121,genomic landscape of paired primary and peritoneal metastatic lesions in gastric cancer highlights evolutionary dynamics and mutational driv,ML
+Stomach Cancer,ARID1A,29725898,all,arid1a,C,ML,,symbol 'ARID1A' present,146,rates of tp53 mutation are significantly elevated in african american patients with gastric cancer,ML
+Stomach Cancer,ARID1A,27313181,all,arid1a,C,I,,symbol 'ARID1A' present,152,comprehensive mutation profiling of mucinous gastric carcinoma,I
+Stomach Cancer,ARID1A,34725190,all,arid1a,C,ML,,symbol 'ARID1A' present,168,association of homologous recombination-dna damage response gene mutations with immune biomarkers in gastroesophageal cancers,ML
+Stomach Cancer,ARID1A,22037554,all,arid1a,C,M,,symbol 'ARID1A' present,176,exome sequencing identifies frequent mutation of arid1a in molecular subtypes of gastric cancer,M
+Stomach Cancer,ARID1A,38663178,all,arid1a,C,M,,symbol 'ARID1A' present,197,somatic mutations that affect early genetic progression and immune microenvironment in gastric carcinoma,M
+Stomach Cancer,ARID1A,40108450,all,arid1a,C,I,,symbol 'ARID1A' present,225,the somatic mutation landscape of normal gastric epithelium,I
+Stomach Cancer,ARID1A,37325934,all,arid1a,C,M,,symbol 'ARID1A' present,245,genomic characterization between her2-positive and negative gastric cancer patients in a prospective trial,M
+Stomach Cancer,ARID1A,39043541,all,arid1a,C,ML,,symbol 'ARID1A' present,296,mutational and transcriptional profile predicts the prognosis of stage iv gastric cancer - prognostic factors for metastatic gastric cancer,ML
+Stomach Cancer,ARID1A,28522256,all,arid1a,C,I,,symbol 'ARID1A' present,322,sporadic early-onset diffuse gastric cancers have high frequency of somatic cdh1 alterations but low frequency of somatic rhoa mutations com,I
+Stomach Cancer,ARID1A,38148578,all,arid1a,C,M,,symbol 'ARID1A' present,326,clinical outcome and molecular landscape of patients with arid1a-loss gastric cancer,M
+Stomach Cancer,ARID1A,34607103,all,arid1a,C,ML,,symbol 'ARID1A' present,336,molecular classification reveals the diverse genetic and prognostic features of gastric cancer a multi-omics consensus ensemble clustering,ML
+Stomach Cancer,ARID1A,39327909,all,arid1a,C,ML,,symbol 'ARID1A' present,359,presence of rb1 or absence of lrp1b mutation predicts poor overall survival in patients with gastric neuroendocrine carcinoma and mixed aden,ML
+Stomach Cancer,ARID1A,25583476,all,arid1a,C,I,,symbol 'ARID1A' present,360,mutational landscape of gastric adenocarcinoma in chinese implications for prognosis and therapy,I
+Stomach Cancer,ARID1A,37545327,all,arid1a,C,M,,symbol 'ARID1A' present,385,the relationship between gene mutations and the clinicopathological features and prognosis of gastric cancer,M
+Stomach Cancer,ARID1A,30425335,all,arid1a,C,P,,symbol 'ARID1A' present,406,rhoa mutations and cldn18-arhgap fusions in intestinal-type adenocarcinoma with anastomosing glands of the stomach,P
+Stomach Cancer,ARID1A,33933102,all,arid1a,C,ML,,symbol 'ARID1A' present,433,clinicopathological features of tumor mutation burden epstein-barr virus infection microsatellite instability and pd-l1 status in chinese pa,ML
+Stomach Cancer,ARID1A,36369379,all,arid1a|at rich interaction domain 1a,C,M,,symbol 'ARID1A' present,450,somatic arid1a mutation stratifies patients with gastric cancer to pd-1 blockade and adjuvant chemotherapy,M
+Stomach Cancer,ARID1A,37054973,all,arid1a,C,ML,,symbol 'ARID1A' present,471,smarca4 mutations in carcinomas of the esophagus esophagogastric junction and stomach,ML
+Stomach Cancer,ARID1A,37395342,all,arid1a,C,G,,symbol 'ARID1A' present,473,the epigenetic modifier lysine methyltransferase 2c is frequently mutated in gastric remnant carcinoma,G
+Stomach Cancer,ARID1A,39476606,all,arid1a,C,M,,symbol 'ARID1A' present,497,association of atm and arid1a in gastric carcinoma,M
+Stomach Cancer,ARID1A,34924820,all,arid1a,C,M,,symbol 'ARID1A' present,499,implication of arid1a undercurrents and pdl1 tp53 overexpression in advanced gastric cancer,M
+Stomach Cancer,ARID1A,30946937,all,arid1a,C,ML,,symbol 'ARID1A' present,504,gastric hepatoid adenocarcinomas are a genetically heterogenous group most tumors show chromosomal instability but msi tumors do exist,ML
+Stomach Cancer,ARID1A,33511732,all,arid1a,C,ML,,symbol 'ARID1A' present,522,deep targeted sequencing and its potential implication for cancer therapy in chinese patients with gastric adenocarcinoma,ML
+Stomach Cancer,ARID1A,24786892,all,arid1a,C,M,,symbol 'ARID1A' present,540,accumulation of somatic mutations in tp53 in gastric epithelium with helicobacter pylori infection,M
+Stomach Cancer,ARID1A,34196586,all,arid1a,C,ML,,symbol 'ARID1A' present,571,mutations of key driver genes in gastric cancer metastasis risk a systematic review and meta-analysis,ML
+Stomach Cancer,ARID1A,40149431,all,arid1a,C,G,,symbol 'ARID1A' present,583,the status of sox2 expression in gastric cancers with induction of cdx2 defines groups with different genomic landscapes,G
+Stomach Cancer,ARID1A,40926327,all,arid1a,C,M,,symbol 'ARID1A' present,598,actionable genes and carcinogenic pathways for gastric cancer in latinos,M
+Stomach Cancer,ARID1A,22009941,all,arid1a,C,I,,symbol 'ARID1A' present,612,somatic mutations in the chromatin remodeling gene arid1a occur in several tumor types,I
+Stomach Cancer,ARID1A,37967684,all,arid1a,C,M,,symbol 'ARID1A' present,614,deep sequencing reveals recurrent somatic mutations and distinct molecular subgroups in gastric cancer in mizo population north east india,M
+Stomach Cancer,ARID1A,23208944,all,arid1a,C,I,,symbol 'ARID1A' present,619,an -e-catenin ctnna1 mutation in hereditary diffuse gastric cancer,I
+Stomach Cancer,ARID1A,33451982,all,arid1a,C,M,,symbol 'ARID1A' present,628,a crispr cas9-engineered arid1a -deficient human gastric cancer organoid model reveals essential and nonessential modes of oncogenic transfo,M
+Stomach Cancer,ARID1A,25042771,all,arid1a,C,ML,,symbol 'ARID1A' present,660,the mutational burdens and evolutionary ages of early gastric cancers are comparable to those of advanced gastric cancers,ML
+Stomach Cancer,ARID1A,32727394,all,arid1a,C,ML,,symbol 'ARID1A' present,681,clinical and genomic characteristics of mucosal signet-ring cell carcinoma in helicobacter pylori-uninfected stomach,ML
+Stomach Cancer,ARID1A,22484628,all,arid1a,C,M,,symbol 'ARID1A' present,682,exome sequencing of gastric adenocarcinoma identifies recurrent somatic mutations in cell adhesion and chromatin remodeling genes,M
+Stomach Cancer,ARID1A,33196828,all,arid1a,C,M,,symbol 'ARID1A' present,691,arid1a deficiency in ebv-positive gastric cancer is partially regulated by ebv-encoded mirnas but not by dna promotor hypermethylation,M
+Stomach Cancer,ARID1A,40741479,all,arid1a,C,M,,symbol 'ARID1A' present,695,clinicopathological significance of histological diversity in gastric adenocarcinoma with primitive enterocyte phenotype a methylation-drive,M
+Stomach Cancer,ARID1A,26364057,all,arid1a,C,I,,symbol 'ARID1A' present,736,gene mutations in gastric cancer a review of recent next-generation sequencing studies,I
+Stomach Cancer,ARID1A,26337667,all,arid1a,C,M,,symbol 'ARID1A' present,737,epstein-barr virus-associated gastric carcinoma use of host cell machineries and somatic gene mutations,M
+Stomach Cancer,ARID1A,31922331,all,arid1a,C,P,,symbol 'ARID1A' present,759,solid-type poorly differentiated adenocarcinoma of the stomach deficiency of mismatch repair and swi snf complex,P
+Stomach Cancer,ARID1A,36269546,all,arid1a|at rich interaction domain 1a,C,M,,symbol 'ARID1A' present,763,novel preclinical gastroenteropancreatic neuroendocrine neoplasia models demonstrate the feasibility of mutation-based targeted therapy,M
+Stomach Cancer,ARID1A,32883742,all,arid1a,C,ML,,symbol 'ARID1A' present,806,comprehensive genomic profiling of gastroenteropancreatic neuroendocrine neoplasms gep-nens,ML
+Stomach Cancer,ARID1A,24816253,all,arid1a,C,I,,symbol 'ARID1A' present,813,whole-genome sequencing and comprehensive molecular profiling identify new driver mutations in gastric cancer,I
+Stomach Cancer,ARID1A,41712871,all,arid1a,C,ML,,symbol 'ARID1A' present,837,real-world genomic landscape of korean gastric cancer integrating biomarker associations and clinical outcomes in metastatic gastric cancer,ML
+Stomach Cancer,ARID1A,34095982,all,arid1a,C,ML,,symbol 'ARID1A' present,882,a novel genomic classification system of gastric cancer via integrating multidimensional genomic characteristics,ML
+Stomach Cancer,ARID1A,35596898,all,arid1a,C,I,,symbol 'ARID1A' present,884,socs3 gene silencing does not occur through methylation and mutations in gastric cancer,I
+Stomach Cancer,ARID1A,35131383,all,arid1a,C,M,,symbol 'ARID1A' present,916,arid1a loss-of-function induces cpg island methylator phenotype,M
+Stomach Cancer,ARID1A,41532847,all,arid1a,C,W,,symbol 'ARID1A' present,938,mutational signatures and clonal hematopoiesis in intestinal metaplasia across countries with varying stomach cancer incidence,W
+Stomach Cancer,ARID1A,40889068,all,arid1a,C,ML,,symbol 'ARID1A' present,996,circulating tumor dna profiling reveals genomic evolution in recurrent gastric or gastroesophageal junction cancer,ML

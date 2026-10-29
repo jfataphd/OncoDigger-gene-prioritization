@@ -1,0 +1,39 @@
+symbol,cancer,postings,retained,retained_mixed_case_only,retained_title_cased_title_only
+MET,Breast Cancer,3953,421,131,0
+MET,Lung Cancer,4105,1733,114,1
+MET,Colorectal Cancer,2655,348,68,0
+MET,Prostate Cancer,1931,154,43,0
+MET,Melanoma,689,145,36,1
+MET,Bladder Cancer,539,48,11,0
+MET,Kidney Cancer,796,238,20,1
+MET,Pancreatic Cancer,904,111,24,0
+MET,Liver Cancer,1556,315,86,0
+MET,Stomach Cancer,933,304,28,0
+MET,Esophageal Cancer,609,90,9,0
+MET,Ovarian Cancer,931,98,27,0
+MET,Endometrial Cancer,481,29,6,0
+MET,Cervical Cancer,795,29,9,0
+MET,Thyroid Cancer,643,115,24,0
+MET,Brain Cancer,1688,316,32,0
+MET,Leukemia,689,47,9,0
+MET,Lymphoma,707,50,10,0
+MET,Myeloma,290,24,7,0
+REST,Breast Cancer,802,35,7,3
+REST,Lung Cancer,512,27,7,2
+REST,Colorectal Cancer,574,12,3,2
+REST,Prostate Cancer,296,34,2,0
+REST,Melanoma,141,3,0,0
+REST,Bladder Cancer,80,1,0,0
+REST,Kidney Cancer,198,14,0,0
+REST,Pancreatic Cancer,222,2,0,0
+REST,Liver Cancer,287,4,1,1
+REST,Stomach Cancer,268,2,0,0
+REST,Esophageal Cancer,108,0,0,0
+REST,Ovarian Cancer,153,6,3,3
+REST,Endometrial Cancer,53,1,0,0
+REST,Cervical Cancer,160,6,1,0
+REST,Thyroid Cancer,136,0,0,0
+REST,Brain Cancer,373,46,1,0
+REST,Leukemia,252,5,2,0
+REST,Lymphoma,193,3,0,0
+REST,Myeloma,74,1,0,0

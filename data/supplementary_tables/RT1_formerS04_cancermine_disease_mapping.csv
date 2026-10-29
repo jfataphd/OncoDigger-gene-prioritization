@@ -1,0 +1,20 @@
+Cancer,Name pattern(s),Matched terms,Audit correction / reassignment
+Breast Cancer,breast,15,0
+Lung Cancer,lung,12,0
+Colorectal Cancer,"colorectal, colon, rectal, rectum",8,0
+Prostate Cancer,prostate,4,0
+Melanoma,melanoma,15,0
+Bladder Cancer,bladder,9,0
+Kidney Cancer,"kidney, renal",16,0
+Pancreatic Cancer,pancrea,8,0
+Liver Cancer,"liver, hepato",8,1 liver-lymphoma term reassigned to Lymphoma
+Stomach Cancer,"stomach, gastric",7,0
+Esophageal Cancer,"esophag, gastroesophageal",7,0
+Ovarian Cancer,ovar,20,1 ovarian-lymphoma term reassigned to Lymphoma
+Endometrial Cancer,"endometri, uterine corpus",13,1 ovarian-cancer subtype reassigned to Ovarian Cancer
+Cervical Cancer,cervi,5,0
+Thyroid Cancer,thyroid,9,0
+Brain Cancer,"brain, glioma, glioblastoma, astrocytoma",16,0
+Leukemia,leukemia,44,0
+Lymphoma,lymphoma,34,0
+Myeloma,myeloma,1,0

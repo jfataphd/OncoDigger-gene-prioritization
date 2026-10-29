@@ -1,0 +1,348 @@
+gene,cancers,screened_corpus,approved_name,total_postings,sample_size,C_g,G_g,bucket
+ABL1,Leukemia,leukemia_cancer_inclusive,"ABL proto-oncogene 1, non-receptor tyrosine kinase",999,500,0.994,0.65,GREEN
+ACD,Melanoma,melanoma_cancer_inclusive,ACD shelterin complex subunit and telomerase recruitment factor,18,18,1.0,0.5556,GREEN
+ACVR1,Brain Cancer,brain_cancer_inclusive,activin A receptor type 1,46,46,1.0,0.8043,GREEN
+AFP,Liver Cancer,liver_cancer_inclusive,alpha fetoprotein,5459,500,0.996,0.676,GREEN
+AHR,Brain Cancer,brain_cancer_inclusive,aryl hydrocarbon receptor,99,99,0.3131,0.1818,RED
+AICDA,Lymphoma,lymphoma_cancer_inclusive,activation induced cytidine deaminase,25,25,0.8,0.32,AMBER
+AIP,Brain Cancer,brain_cancer_inclusive,AHR interacting HSP90 co-chaperone,178,178,0.9944,0.8989,GREEN
+AKT1,Bladder Cancer;Breast Cancer;Colorectal Cancer;Endometrial Cancer;Liver Cancer;Lung Cancer;Pancreatic Cancer;Thyroid Cancer,bladder_cancer_inclusive,AKT serine/threonine kinase 1,37,37,0.8108,0.4865,AMBER
+ALK,Brain Cancer;Cervical Cancer;Liver Cancer;Lung Cancer;Thyroid Cancer,brain_cancer_inclusive,ALK receptor tyrosine kinase,339,339,0.9971,0.7847,GREEN
+AMACR,Breast Cancer;Endometrial Cancer;Kidney Cancer;Prostate Cancer,breast_cancer_inclusive,alpha-methylacyl-CoA racemase,6,6,1.0,0.8333,GREEN
+APC,Bladder Cancer;Breast Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Liver Cancer;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer;Thyroid Cancer,bladder_cancer_inclusive,APC regulator of Wnt signaling pathway,68,68,0.9706,0.4118,GREEN
+APOBEC3B,Myeloma,myeloma_cancer_inclusive,apolipoprotein B mRNA editing enzyme catalytic subunit 3B,3,3,1.0,0.3333,GREEN
+AR,Prostate Cancer;Thyroid Cancer,prostate_cancer_inclusive,androgen receptor,5933,500,0.994,0.92,GREEN
+ARID1A,Bladder Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Liver Cancer;Lymphoma;Melanoma;Ovarian Cancer;Pancreatic Cancer;Stomach Cancer,bladder_cancer_inclusive,AT-rich interaction domain 1A,73,73,1.0,0.5753,GREEN
+ARID2,Liver Cancer;Melanoma;Stomach Cancer,liver_cancer_inclusive,AT-rich interaction domain 2,34,34,0.9706,0.5588,GREEN
+ASXL1,Esophageal Cancer;Leukemia;Myeloma,esophageal_cancer_inclusive,ASXL transcriptional regulator 1,3,3,1.0,0.3333,GREEN
+ATM,Bladder Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Leukemia;Liver Cancer;Lung Cancer;Lymphoma;Myeloma;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer,bladder_cancer_inclusive,ATM serine/threonine kinase,62,62,1.0,0.5161,GREEN
+ATR,Endometrial Cancer;Ovarian Cancer;Prostate Cancer,endometrial_cancer_inclusive,ATR checkpoint kinase,16,16,1.0,0.5625,GREEN
+ATRX,Brain Cancer;Liver Cancer;Melanoma;Pancreatic Cancer;Thyroid Cancer,brain_cancer_inclusive,ATRX chromatin remodeler,460,460,1.0,0.6957,GREEN
+AXIN1,Liver Cancer,liver_cancer_inclusive,axin 1,88,88,0.8409,0.5455,AMBER
+AXIN2,Endometrial Cancer,endometrial_cancer_inclusive,axin 2,5,5,0.6,0.6,AMBER
+B2M,Lymphoma,lymphoma_cancer_inclusive,beta-2-microglobulin,88,88,0.9773,0.3636,GREEN
+BAP1,Kidney Cancer;Liver Cancer;Lung Cancer;Melanoma,kidney_cancer_inclusive,BRCA1 associated deubiquitinase 1,241,241,0.9959,0.6473,GREEN
+BARD1,Breast Cancer;Endometrial Cancer;Ovarian Cancer;Pancreatic Cancer,breast_cancer_inclusive,BRCA1 associated RING domain 1,247,247,0.9919,0.5547,GREEN
+BCAR3,Breast Cancer,breast_cancer_inclusive,"BCAR3 adaptor protein, NSP family member",23,23,1.0,0.6087,GREEN
+BCL10,Lymphoma,lymphoma_cancer_inclusive,BCL10 immune signaling adaptor,149,149,0.8188,0.5302,AMBER
+BCL2,Lymphoma;Myeloma,lymphoma_cancer_inclusive,BCL2 apoptosis regulator,1713,500,0.882,0.438,GREEN
+BCL2L11,Lung Cancer,lung_cancer_inclusive,BCL2 like 11,17,17,1.0,0.7059,GREEN
+BCL6,Lymphoma;Myeloma,lymphoma_cancer_inclusive,BCL6 transcription repressor,1238,500,0.932,0.36,GREEN
+BCOR,Leukemia,leukemia_cancer_inclusive,BCL6 corepressor,106,106,0.9528,0.5283,GREEN
+BCORL1,Leukemia,leukemia_cancer_inclusive,BCL6 corepressor like 1,33,33,1.0,0.5758,GREEN
+BCR,Leukemia,leukemia_cancer_inclusive,BCR activator of RhoGEF and GTPase,2636,500,0.886,0.61,GREEN
+BIRC2,Myeloma,myeloma_cancer_inclusive,baculoviral IAP repeat containing 2,5,5,1.0,0.4,GREEN
+BIRC3,Leukemia;Myeloma,leukemia_cancer_inclusive,baculoviral IAP repeat containing 3,90,90,1.0,0.5778,GREEN
+BLM,Stomach Cancer,stomach_cancer_inclusive,BLM RecQ like helicase,9,9,1.0,0.6667,GREEN
+BMPR1A,Colorectal Cancer,colorectal_cancer_inclusive,bone morphogenetic protein receptor type 1A,79,79,0.9114,0.6582,GREEN
+BRAF,Bladder Cancer;Brain Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Leukemia;Liver Cancer;Lung Cancer;Lymphoma;Melanoma;Myeloma;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer;Thyroid Cancer,bladder_cancer_inclusive,"B-Raf proto-oncogene, serine/threonine kinase",49,49,0.9592,0.7347,GREEN
+BRAP,Kidney Cancer,kidney_cancer_inclusive,BRCA1 associated protein,1,1,1.0,1.0,GREEN
+BRCA1,Bladder Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Liver Cancer;Lung Cancer;Melanoma;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer,bladder_cancer_inclusive,BRCA1 DNA repair associated,46,46,1.0,0.4565,GREEN
+BRCA2,Bladder Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Liver Cancer;Lung Cancer;Melanoma;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer,bladder_cancer_inclusive,BRCA2 DNA repair associated,35,35,1.0,0.4571,GREEN
+BRIP1,Breast Cancer;Endometrial Cancer;Ovarian Cancer;Prostate Cancer;Stomach Cancer,breast_cancer_inclusive,BRCA1 interacting DNA helicase 1,218,218,0.9954,0.3853,GREEN
+BTG2,Lymphoma,lymphoma_cancer_inclusive,BTG anti-proliferation factor 2,23,23,1.0,0.4348,GREEN
+CA9,Kidney Cancer,kidney_cancer_inclusive,carbonic anhydrase 9,134,134,1.0,0.3881,GREEN
+CALR,Leukemia,leukemia_cancer_inclusive,calreticulin,90,90,0.9778,0.6333,GREEN
+CARD11,Lymphoma,lymphoma_cancer_inclusive,caspase recruitment domain family member 11,139,139,0.9928,0.5468,GREEN
+CBFB,Leukemia,leukemia_cancer_inclusive,core-binding factor subunit beta,130,130,0.9385,0.4,GREEN
+CBL,Leukemia,leukemia_cancer_inclusive,Cbl proto-oncogene,213,213,0.8826,0.5681,GREEN
+CCDC6,Thyroid Cancer,thyroid_cancer_inclusive,coiled-coil domain containing 6,25,25,1.0,0.52,GREEN
+CCL14,Liver Cancer,liver_cancer_inclusive,C-C motif chemokine ligand 14,9,9,1.0,0.5556,GREEN
+CCND1,Endometrial Cancer;Esophageal Cancer;Myeloma,endometrial_cancer_inclusive,cyclin D1,35,35,0.9714,0.4857,GREEN
+CCND3,Lymphoma,lymphoma_cancer_inclusive,cyclin D3,68,68,0.9853,0.4265,GREEN
+CCNE1,Endometrial Cancer,endometrial_cancer_inclusive,cyclin E1,39,39,1.0,0.7949,GREEN
+CCS,Colorectal Cancer,colorectal_cancer_inclusive,copper chaperone for superoxide dismutase,146,146,0.5616,0.0342,AMBER
+CD274,Bladder Cancer;Cervical Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Lung Cancer;Melanoma;Stomach Cancer;Thyroid Cancer,bladder_cancer_inclusive,CD274 molecule,28,28,1.0,0.5714,GREEN
+CD34,Leukemia,leukemia_cancer_inclusive,CD34 molecule,3336,500,1.0,0.166,AMBER
+CD38,Myeloma,myeloma_cancer_inclusive,CD38 molecule,671,500,1.0,0.246,AMBER
+CD48,Leukemia,leukemia_cancer_inclusive,CD48 molecule,24,24,1.0,0.4583,GREEN
+CD58,Lymphoma,lymphoma_cancer_inclusive,CD58 molecule,64,64,1.0,0.4688,GREEN
+CD79B,Lymphoma,lymphoma_cancer_inclusive,CD79b molecule,295,295,0.7254,0.4576,AMBER
+CDH1,Breast Cancer;Esophageal Cancer;Ovarian Cancer;Stomach Cancer,breast_cancer_inclusive,cadherin 1,618,500,0.954,0.524,GREEN
+CDK12,Endometrial Cancer;Ovarian Cancer;Prostate Cancer,endometrial_cancer_inclusive,cyclin dependent kinase 12,2,2,1.0,0.5,GREEN
+CDK4,Esophageal Cancer;Melanoma,esophageal_cancer_inclusive,cyclin dependent kinase 4,77,77,0.9091,0.5844,GREEN
+CDKN1A,Bladder Cancer;Cervical Cancer,bladder_cancer_inclusive,cyclin dependent kinase inhibitor 1A,31,31,0.9355,0.6129,GREEN
+CDKN2A,Bladder Cancer;Brain Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Liver Cancer;Lymphoma;Melanoma;Myeloma;Pancreatic Cancer;Stomach Cancer,bladder_cancer_inclusive,cyclin dependent kinase inhibitor 2A,93,93,1.0,0.6022,GREEN
+CDKN2C,Myeloma,myeloma_cancer_inclusive,cyclin dependent kinase inhibitor 2C,19,19,1.0,0.6316,GREEN
+CEBPA,Leukemia,leukemia_cancer_inclusive,CCAAT enhancer binding protein alpha,678,500,0.97,0.732,GREEN
+CFTR,Pancreatic Cancer,pancreas_cancer_inclusive,CF transmembrane conductance regulator,50,50,1.0,0.58,GREEN
+CHD1,Prostate Cancer,prostate_cancer_inclusive,chromodomain helicase DNA binding protein 1,61,61,1.0,0.7377,GREEN
+CHEK1,Endometrial Cancer;Prostate Cancer,endometrial_cancer_inclusive,checkpoint kinase 1,4,4,1.0,0.25,AMBER
+CHEK2,Bladder Cancer;Breast Cancer;Colorectal Cancer;Endometrial Cancer;Kidney Cancer;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer;Thyroid Cancer,bladder_cancer_inclusive,checkpoint kinase 2,14,14,1.0,0.6429,GREEN
+CIC,Brain Cancer,brain_cancer_inclusive,capicua transcriptional repressor,75,75,1.0,0.7467,GREEN
+CPD,Melanoma,melanoma_cancer_inclusive,carboxypeptidase D,24,24,0.9583,0.0417,AMBER
+CRBN,Myeloma,myeloma_cancer_inclusive,cereblon,104,104,1.0,0.5769,GREEN
+CREBBP,Bladder Cancer;Lymphoma,bladder_cancer_inclusive,CREB binding lysine acetyltransferase,15,15,1.0,0.2667,AMBER
+CSF3R,Leukemia,leukemia_cancer_inclusive,colony stimulating factor 3 receptor,102,102,1.0,0.8627,GREEN
+CSMD3,Lung Cancer,lung_cancer_inclusive,CUB and Sushi multiple domains 3,14,14,1.0,0.5,GREEN
+CTLA4,Melanoma,melanoma_cancer_inclusive,cytotoxic T-lymphocyte associated protein 4,176,176,0.9545,0.3352,GREEN
+CTNNA1,Stomach Cancer,stomach_cancer_inclusive,catenin alpha 1,42,42,1.0,0.8333,GREEN
+CTNNB1,Bladder Cancer;Brain Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Liver Cancer;Lung Cancer;Lymphoma;Melanoma;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer;Thyroid Cancer,bladder_cancer_inclusive,catenin beta 1,20,20,0.9,0.4,GREEN
+CUL3,Lung Cancer,lung_cancer_inclusive,cullin 3,27,27,0.9259,0.5556,GREEN
+CXCR4,Lymphoma,lymphoma_cancer_inclusive,C-X-C motif chemokine receptor 4,240,240,1.0,0.7208,GREEN
+CYLD,Myeloma,myeloma_cancer_inclusive,CYLD lysine 63 deubiquitinase,13,13,1.0,0.4615,GREEN
+CYP19A1,Breast Cancer,breast_cancer_inclusive,cytochrome P450 family 19 subfamily A member 1,138,138,1.0,0.6014,GREEN
+CYSLTR2,Melanoma,melanoma_cancer_inclusive,cysteinyl leukotriene receptor 2,30,30,1.0,0.5333,GREEN
+DAXX,Pancreatic Cancer,pancreas_cancer_inclusive,death domain associated protein,141,141,0.9929,0.7021,GREEN
+DDIT3,Lymphoma,lymphoma_cancer_inclusive,DNA damage inducible transcript 3,6,6,1.0,0.1667,AMBER
+DDR2,Lung Cancer,lung_cancer_inclusive,discoidin domain receptor tyrosine kinase 2,69,69,0.9855,0.6667,GREEN
+DGCR8,Kidney Cancer;Thyroid Cancer,kidney_cancer_inclusive,DGCR8 microprocessor complex subunit,14,14,1.0,0.6429,GREEN
+DICER1,Brain Cancer;Cervical Cancer;Kidney Cancer;Ovarian Cancer;Thyroid Cancer,brain_cancer_inclusive,"dicer 1, ribonuclease III",60,60,0.9833,0.6833,GREEN
+DIS3,Myeloma,myeloma_cancer_inclusive,DIS3 exosome endoribonuclease and 3'-5' exoribonuclease,40,40,1.0,0.525,GREEN
+DNMT3A,Leukemia;Lymphoma;Myeloma,leukemia_cancer_inclusive,DNA methyltransferase 3 alpha,827,500,0.964,0.638,GREEN
+DROSHA,Kidney Cancer,kidney_cancer_inclusive,drosha ribonuclease III,20,20,0.9,0.6,GREEN
+EGF,Colorectal Cancer;Esophageal Cancer;Lung Cancer,colorectal_cancer_inclusive,epidermal growth factor,399,399,0.995,0.5489,GREEN
+EGFR,Bladder Cancer;Brain Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Liver Cancer;Lung Cancer;Melanoma;Pancreatic Cancer;Prostate Cancer;Stomach Cancer;Thyroid Cancer,bladder_cancer_inclusive,epidermal growth factor receptor,403,403,0.7916,0.6203,AMBER
+EGR1,Myeloma,myeloma_cancer_inclusive,early growth response 1,11,11,0.9091,0.2727,AMBER
+EGR3,Breast Cancer,breast_cancer_inclusive,early growth response 3,19,19,1.0,0.4211,GREEN
+EIF1AX,Melanoma;Thyroid Cancer,melanoma_cancer_inclusive,eukaryotic translation initiation factor 1A X-linked,60,60,1.0,0.6,GREEN
+ELAC2,Prostate Cancer,prostate_cancer_inclusive,elaC ribonuclease Z 2,61,61,0.9836,0.8361,GREEN
+ELOC,Kidney Cancer,kidney_cancer_inclusive,elongin C,24,24,1.0,0.6667,GREEN
+EML4,Lung Cancer,lung_cancer_inclusive,EMAP like 4,247,247,0.9879,0.7976,GREEN
+EP300,Bladder Cancer;Cervical Cancer;Esophageal Cancer;Lymphoma,bladder_cancer_inclusive,EP300 lysine acetyltransferase,21,21,1.0,0.5238,GREEN
+EPCAM,Endometrial Cancer,endometrial_cancer_inclusive,epithelial cell adhesion molecule,28,28,0.6429,0.3214,AMBER
+EPHA5,Lung Cancer,lung_cancer_inclusive,EPH receptor A5,21,21,0.8095,0.381,AMBER
+ERBB2,Bladder Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Liver Cancer;Lung Cancer;Ovarian Cancer;Pancreatic Cancer;Stomach Cancer,bladder_cancer_inclusive,erb-b2 receptor tyrosine kinase 2,147,147,0.8707,0.5034,GREEN
+ERBB3,Bladder Cancer;Breast Cancer;Cervical Cancer;Stomach Cancer,bladder_cancer_inclusive,erb-b2 receptor tyrosine kinase 3,26,26,0.7692,0.3077,AMBER
+ERBB4,Esophageal Cancer;Lung Cancer;Melanoma,esophageal_cancer_inclusive,erb-b2 receptor tyrosine kinase 4,9,9,0.5556,0.4444,AMBER
+ERCC1,Lung Cancer,lung_cancer_inclusive,"ERCC excision repair 1, endonuclease non-catalytic subunit",445,445,1.0,0.6719,GREEN
+ERCC2,Bladder Cancer,bladder_cancer_inclusive,"ERCC excision repair 2, TFIIH core complex helicase subunit",59,59,1.0,0.5593,GREEN
+ERG,Prostate Cancer,prostate_cancer_inclusive,ETS transcription factor ERG,1008,500,0.996,0.708,GREEN
+ESR1,Breast Cancer;Endometrial Cancer,breast_cancer_inclusive,estrogen receptor 1,1312,500,0.994,0.726,GREEN
+ETV6,Leukemia;Thyroid Cancer,leukemia_cancer_inclusive,ETS variant transcription factor 6,486,486,0.9959,0.5021,GREEN
+EZH1,Thyroid Cancer,thyroid_cancer_inclusive,enhancer of zeste 1 polycomb repressive complex 2 subunit,13,13,1.0,0.6923,GREEN
+EZH2,Leukemia;Lymphoma;Myeloma,leukemia_cancer_inclusive,enhancer of zeste 2 polycomb repressive complex 2 subunit,329,329,0.9574,0.5532,GREEN
+F3,Lung Cancer,lung_cancer_inclusive,"coagulation factor III, tissue factor",118,118,1.0,0.2373,AMBER
+FAM107B,Colorectal Cancer,colorectal_cancer_inclusive,family with sequence similarity 107 member B,1,1,1.0,0.0,AMBER
+FANCA,Prostate Cancer,prostate_cancer_inclusive,FA complementation group A,29,29,1.0,0.2414,AMBER
+FANCC,Bladder Cancer,bladder_cancer_inclusive,FA complementation group C,13,13,1.0,0.6923,GREEN
+FANCL,Prostate Cancer,prostate_cancer_inclusive,FA complementation group L,6,6,1.0,0.0,AMBER
+FAP,Colorectal Cancer;Stomach Cancer;Thyroid Cancer,colorectal_cancer_inclusive,fibroblast activation protein alpha,1624,500,0.996,0.244,AMBER
+FAS,Lymphoma,lymphoma_cancer_inclusive,Fas cell surface death receptor,326,326,0.2209,0.1319,RED
+FASTK,Colorectal Cancer,colorectal_cancer_inclusive,Fas activated serine/threonine kinase,1,1,1.0,0.0,AMBER
+FAT1,Cervical Cancer;Esophageal Cancer;Myeloma,cervical_cancer_inclusive,FAT atypical cadherin 1,9,9,1.0,0.6667,GREEN
+FAT4,Stomach Cancer,stomach_cancer_inclusive,FAT atypical cadherin 4,21,21,0.9524,0.5714,GREEN
+FBXW7,Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Leukemia;Liver Cancer,cervical_cancer_inclusive,F-box and WD repeat domain containing 7,27,27,1.0,0.4074,GREEN
+FGFR1,Bladder Cancer;Brain Cancer,bladder_cancer_inclusive,fibroblast growth factor receptor 1,46,46,1.0,0.587,GREEN
+FGFR2,Bladder Cancer;Endometrial Cancer;Ovarian Cancer;Stomach Cancer,bladder_cancer_inclusive,fibroblast growth factor receptor 2,51,51,1.0,0.451,GREEN
+FGFR3,Bladder Cancer;Breast Cancer;Cervical Cancer;Kidney Cancer;Myeloma,bladder_cancer_inclusive,fibroblast growth factor receptor 3,588,500,1.0,0.798,GREEN
+FGFR4,Cervical Cancer,cervical_cancer_inclusive,fibroblast growth factor receptor 4,8,8,1.0,0.5,GREEN
+FH,Kidney Cancer,kidney_cancer_inclusive,fumarate hydratase,305,305,1.0,0.6262,GREEN
+FHIT,Cervical Cancer,cervical_cancer_inclusive,fragile histidine triad diadenosine triphosphatase,59,59,0.9831,0.7458,GREEN
+FLCN,Kidney Cancer,kidney_cancer_inclusive,folliculin,153,153,0.9935,0.817,GREEN
+FLT3,Leukemia;Myeloma,leukemia_cancer_inclusive,fms related receptor tyrosine kinase 3,3099,500,0.964,0.818,GREEN
+FOXA1,Prostate Cancer,prostate_cancer_inclusive,forkhead box A1,256,256,0.9219,0.4219,GREEN
+FOXD3,Cervical Cancer;Esophageal Cancer;Thyroid Cancer,cervical_cancer_inclusive,forkhead box D3,4,4,0.5,0.25,AMBER
+FOXD3-AS1,Colorectal Cancer;Lung Cancer;Melanoma,colorectal_cancer_inclusive,FOXD3 antisense RNA 1,4,4,1.0,0.25,AMBER
+FOXL2,Ovarian Cancer,ovarian_cancer_inclusive,forkhead box L2,191,191,0.9843,0.7958,GREEN
+GABPA,Esophageal Cancer,esophageal_cancer_inclusive,GA binding protein transcription factor subunit alpha,2,2,1.0,0.0,AMBER
+GATA2,Leukemia,leukemia_cancer_inclusive,GATA binding protein 2,219,219,0.9269,0.5571,GREEN
+GATA3,Breast Cancer;Cervical Cancer;Kidney Cancer,breast_cancer_inclusive,GATA binding protein 3,524,500,0.996,0.532,GREEN
+GNA11,Liver Cancer;Melanoma,liver_cancer_inclusive,G protein subunit alpha 11,17,17,1.0,0.7059,GREEN
+GNAQ,Liver Cancer;Melanoma,liver_cancer_inclusive,G protein subunit alpha q,23,23,1.0,0.7391,GREEN
+GNAS,Brain Cancer;Cervical Cancer;Colorectal Cancer;Liver Cancer;Pancreatic Cancer;Stomach Cancer;Thyroid Cancer,brain_cancer_inclusive,GNAS complex locus,80,80,1.0,0.8375,GREEN
+GPNMB,Kidney Cancer,kidney_cancer_inclusive,glycoprotein nmb,47,47,0.9787,0.5319,GREEN
+H3C3,Brain Cancer,brain_cancer_inclusive,H3 clustered histone 3,1,1,1.0,1.0,GREEN
+HFE,Liver Cancer,liver_cancer_inclusive,homeostatic iron regulator,69,69,0.9855,0.8116,GREEN
+HGS,Ovarian Cancer,ovarian_cancer_inclusive,hepatocyte growth factor-regulated tyrosine kinase substrate,46,46,1.0,0.0652,AMBER
+HIF1A,Kidney Cancer,kidney_cancer_inclusive,hypoxia inducible factor 1 subunit alpha,52,52,0.8654,0.4615,GREEN
+HLA-A,Cervical Cancer,cervical_cancer_inclusive,"major histocompatibility complex, class I, A",62,62,1.0,0.3226,GREEN
+HLA-B,Cervical Cancer,cervical_cancer_inclusive,"major histocompatibility complex, class I, B",38,38,1.0,0.4474,GREEN
+HNF1A,Liver Cancer,liver_cancer_inclusive,HNF1 homeobox A,74,74,0.9459,0.5135,GREEN
+HNF1B,Liver Cancer,liver_cancer_inclusive,HNF1 homeobox B,6,6,1.0,0.6667,GREEN
+HNF4A,Liver Cancer,liver_cancer_inclusive,hepatocyte nuclear factor 4 alpha,66,66,0.8333,0.3485,AMBER
+HOXB13,Prostate Cancer,prostate_cancer_inclusive,homeobox B13,224,224,0.9554,0.5893,GREEN
+HP,Pancreatic Cancer,pancreas_cancer_inclusive,haptoglobin,59,59,0.8983,0.1017,AMBER
+HRAS,Bladder Cancer;Brain Cancer;Cervical Cancer;Colorectal Cancer;Liver Cancer;Melanoma;Thyroid Cancer,bladder_cancer_inclusive,"HRas proto-oncogene, GTPase",80,80,0.9875,0.675,GREEN
+ID3,Lymphoma,lymphoma_cancer_inclusive,inhibitor of DNA binding 3,59,59,0.8136,0.6271,AMBER
+IDH1,Brain Cancer;Leukemia;Liver Cancer;Lung Cancer;Melanoma;Prostate Cancer,brain_cancer_inclusive,isocitrate dehydrogenase (NADP(+)) 1,1695,500,1.0,0.746,GREEN
+IDH2,Brain Cancer;Leukemia;Lymphoma;Myeloma,brain_cancer_inclusive,isocitrate dehydrogenase (NADP(+)) 2,305,305,1.0,0.8066,GREEN
+IGF2,Kidney Cancer,kidney_cancer_inclusive,insulin like growth factor 2,72,72,0.9583,0.6111,GREEN
+IGH,Lymphoma;Myeloma,lymphoma_cancer_inclusive,immunoglobulin heavy locus,1253,500,0.478,0.238,RED
+IGLL5,Myeloma,myeloma_cancer_inclusive,immunoglobulin lambda like polypeptide 5,4,4,1.0,1.0,GREEN
+IKZF1,Leukemia,leukemia_cancer_inclusive,IKAROS family zinc finger 1,469,469,0.9765,0.7036,GREEN
+IL6,Myeloma,myeloma_cancer_inclusive,interleukin 6,59,59,0.9492,0.339,GREEN
+IL6ST,Liver Cancer,liver_cancer_inclusive,interleukin 6 cytokine family signal transducer,16,16,1.0,0.75,GREEN
+INS,Myeloma,myeloma_cancer_inclusive,insulin,8,8,0.125,0.0,RED
+IRF4,Myeloma,myeloma_cancer_inclusive,interferon regulatory factor 4,139,139,1.0,0.4964,GREEN
+JAK1,Endometrial Cancer;Leukemia;Liver Cancer,endometrial_cancer_inclusive,Janus kinase 1,13,13,1.0,0.7692,GREEN
+JAK2,Leukemia,leukemia_cancer_inclusive,Janus kinase 2,812,500,0.942,0.69,GREEN
+JAK3,Leukemia;Lymphoma,leukemia_cancer_inclusive,Janus kinase 3,123,123,0.8699,0.561,GREEN
+KALRN,Melanoma,melanoma_cancer_inclusive,kalirin RhoGEF kinase,2,2,1.0,0.5,GREEN
+KDM5C,Kidney Cancer,kidney_cancer_inclusive,lysine demethylase 5C,58,58,1.0,0.3966,GREEN
+KDM6A,Bladder Cancer;Pancreatic Cancer;Prostate Cancer,bladder_cancer_inclusive,lysine demethylase 6A,66,66,0.9697,0.5909,GREEN
+KDR,Melanoma,melanoma_cancer_inclusive,kinase insert domain receptor,40,40,1.0,0.7,GREEN
+KEAP1,Esophageal Cancer;Liver Cancer;Lung Cancer,esophageal_cancer_inclusive,kelch like ECH associated protein 1,16,16,0.5,0.4375,AMBER
+KIAA1549,Brain Cancer,brain_cancer_inclusive,KIAA1549,62,62,1.0,0.5161,GREEN
+KIT,Bladder Cancer;Brain Cancer;Breast Cancer;Colorectal Cancer;Esophageal Cancer;Kidney Cancer;Leukemia;Liver Cancer;Lung Cancer;Melanoma;Ovarian Cancer;Pancreatic Cancer;Stomach Cancer;Thyroid Cancer,bladder_cancer_inclusive,"KIT proto-oncogene, receptor tyrosine kinase",148,148,0.1284,0.0811,RED
+KLF6,Prostate Cancer,prostate_cancer_inclusive,KLF transcription factor 6,29,29,1.0,0.7586,GREEN
+KMT2A,Myeloma,myeloma_cancer_inclusive,lysine methyltransferase 2A,2,2,1.0,0.0,AMBER
+KMT2B,Cervical Cancer;Lymphoma,cervical_cancer_inclusive,lysine methyltransferase 2B,2,2,1.0,0.5,GREEN
+KMT2C,Bladder Cancer;Cervical Cancer;Lung Cancer;Lymphoma;Prostate Cancer;Stomach Cancer,bladder_cancer_inclusive,lysine methyltransferase 2C,12,12,0.9167,0.3333,GREEN
+KMT2D,Bladder Cancer;Cervical Cancer;Colorectal Cancer;Esophageal Cancer;Leukemia;Liver Cancer;Lymphoma;Myeloma;Prostate Cancer;Stomach Cancer,bladder_cancer_inclusive,lysine methyltransferase 2D,39,39,0.9744,0.4872,GREEN
+KRAS,Bladder Cancer;Brain Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Leukemia;Liver Cancer;Lung Cancer;Lymphoma;Melanoma;Myeloma;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer;Thyroid Cancer,bladder_cancer_inclusive,"KRAS proto-oncogene, GTPase",77,77,0.9481,0.6234,GREEN
+KRIT1,Brain Cancer,brain_cancer_inclusive,KRIT1 ankyrin repeat containing,19,19,0.8947,0.7895,GREEN
+KRT20,Bladder Cancer,bladder_cancer_inclusive,keratin 20,23,23,1.0,0.3913,GREEN
+LGALS3,Thyroid Cancer,thyroid_cancer_inclusive,galectin 3,20,20,0.95,0.15,AMBER
+LRP1B,Cervical Cancer;Melanoma;Stomach Cancer,cervical_cancer_inclusive,LDL receptor related protein 1B,5,5,1.0,0.6,GREEN
+LTB,Myeloma,myeloma_cancer_inclusive,lymphotoxin beta,4,4,1.0,0.25,AMBER
+MAF,Myeloma,myeloma_cancer_inclusive,MAF bZIP transcription factor,79,79,0.9114,0.3418,GREEN
+MAP2K1,Colorectal Cancer;Lung Cancer;Melanoma;Thyroid Cancer,colorectal_cancer_inclusive,mitogen-activated protein kinase kinase 1,44,44,1.0,0.3182,GREEN
+MAP2K4,Breast Cancer,breast_cancer_inclusive,mitogen-activated protein kinase kinase 4,35,35,1.0,0.5143,GREEN
+MAP3K1,Breast Cancer,breast_cancer_inclusive,mitogen-activated protein kinase kinase kinase 1,130,130,0.9769,0.3846,GREEN
+MAPK3,Thyroid Cancer,thyroid_cancer_inclusive,mitogen-activated protein kinase 3,1,1,1.0,0.0,AMBER
+MC1R,Melanoma,melanoma_cancer_inclusive,melanocortin 1 receptor,411,411,0.9732,0.8564,GREEN
+MDM2,Bladder Cancer;Cervical Cancer;Esophageal Cancer,bladder_cancer_inclusive,MDM2 proto-oncogene,89,89,0.8764,0.5169,GREEN
+MED12,Breast Cancer;Prostate Cancer,breast_cancer_inclusive,mediator complex subunit 12,70,70,1.0,0.8143,GREEN
+MEF2B,Lymphoma,lymphoma_cancer_inclusive,myocyte enhancer factor 2B,43,43,1.0,0.5814,GREEN
+MEN1,Brain Cancer;Liver Cancer;Pancreatic Cancer,brain_cancer_inclusive,menin 1,214,214,0.9907,0.6963,GREEN
+MET,Brain Cancer;Breast Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Liver Cancer;Lung Cancer;Melanoma;Ovarian Cancer;Pancreatic Cancer;Stomach Cancer;Thyroid Cancer,brain_cancer_inclusive,"MET proto-oncogene, receptor tyrosine kinase",1688,500,0.274,0.102,RED
+MGMT,Brain Cancer;Esophageal Cancer,brain_cancer_inclusive,O-6-methylguanine-DNA methyltransferase,2138,500,1.0,0.706,GREEN
+MIR21,Thyroid Cancer,thyroid_cancer_inclusive,microRNA 21,2,2,0.0,0.0,RED
+MKI67,Bladder Cancer;Brain Cancer;Breast Cancer;Esophageal Cancer;Thyroid Cancer,bladder_cancer_inclusive,marker of proliferation Ki-67,16,16,0.9375,0.4375,GREEN
+MLH1,Bladder Cancer;Brain Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer,bladder_cancer_inclusive,mutL homolog 1,47,47,1.0,0.5957,GREEN
+MLH3,Colorectal Cancer,colorectal_cancer_inclusive,mutL homolog 3,50,50,0.98,0.52,GREEN
+MPL,Leukemia,leukemia_cancer_inclusive,"MPL proto-oncogene, thrombopoietin receptor",120,120,0.8917,0.625,GREEN
+MSH2,Bladder Cancer;Brain Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer,bladder_cancer_inclusive,mutS homolog 2,53,53,1.0,0.6792,GREEN
+MSH6,Bladder Cancer;Brain Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer,bladder_cancer_inclusive,mutS homolog 6,34,34,1.0,0.4412,GREEN
+MSR1,Prostate Cancer,prostate_cancer_inclusive,macrophage scavenger receptor 1,49,49,1.0,0.6531,GREEN
+MT-ATP6,Ovarian Cancer;Prostate Cancer,ovarian_cancer_inclusive,mitochondrially encoded ATP synthase membrane subunit 6,1,1,1.0,0.0,AMBER
+MTOR,Bladder Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Kidney Cancer;Melanoma;Pancreatic Cancer;Thyroid Cancer,bladder_cancer_inclusive,mechanistic target of rapamycin kinase,303,303,0.0231,0.0198,RED
+MTUS1,Bladder Cancer;Lung Cancer,bladder_cancer_inclusive,microtubule associated scaffold protein 1,2,2,1.0,0.5,GREEN
+MUC16,Melanoma;Ovarian Cancer;Stomach Cancer,melanoma_cancer_inclusive,"mucin 16, cell surface associated",11,11,0.9091,0.6364,GREEN
+MUC2,Pancreatic Cancer,pancreas_cancer_inclusive,"mucin 2, oligomeric mucus/gel-forming",153,153,1.0,0.4052,GREEN
+MUC6,Stomach Cancer,stomach_cancer_inclusive,"mucin 6, oligomeric mucus/gel-forming (gene/pseudogene)",218,218,0.9908,0.3394,GREEN
+MUTYH,Breast Cancer;Colorectal Cancer;Ovarian Cancer;Prostate Cancer,breast_cancer_inclusive,mutY DNA glycosylase,86,86,0.9767,0.5349,GREEN
+MYC,Cervical Cancer;Esophageal Cancer;Liver Cancer;Lymphoma;Myeloma;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer,cervical_cancer_inclusive,"MYC proto-oncogene, bHLH transcription factor",80,80,0.7625,0.4625,AMBER
+MYD88,Leukemia;Lymphoma;Myeloma,leukemia_cancer_inclusive,MYD88 innate immune signal transduction adaptor,106,106,0.7642,0.5,AMBER
+MYH11,Leukemia,leukemia_cancer_inclusive,myosin heavy chain 11,148,148,1.0,0.3784,GREEN
+NBN,Breast Cancer;Ovarian Cancer;Prostate Cancer;Stomach Cancer,breast_cancer_inclusive,nibrin,100,100,0.99,0.32,GREEN
+NBR1,Ovarian Cancer,ovarian_cancer_inclusive,NBR1 autophagy cargo receptor,3,3,1.0,1.0,GREEN
+NCOA4,Thyroid Cancer,thyroid_cancer_inclusive,nuclear receptor coactivator 4,16,16,1.0,0.3125,GREEN
+NF1,Brain Cancer;Breast Cancer;Colorectal Cancer;Esophageal Cancer;Leukemia;Lung Cancer;Melanoma;Thyroid Cancer,brain_cancer_inclusive,neurofibromin 1,428,428,0.9416,0.4089,GREEN
+NFE2L2,Esophageal Cancer;Liver Cancer;Lung Cancer,esophageal_cancer_inclusive,NFE2 like bZIP transcription factor 2,36,36,1.0,0.4722,GREEN
+NKX2-1,Lung Cancer;Thyroid Cancer,lung_cancer_inclusive,NK2 homeobox 1,140,140,0.9143,0.4929,GREEN
+NODAL,Lymphoma;Thyroid Cancer,lymphoma_cancer_inclusive,nodal growth differentiation factor,2266,500,0.004,0.002,RED
+NOTCH1,Cervical Cancer;Esophageal Cancer;Leukemia;Lymphoma,cervical_cancer_inclusive,notch receptor 1,56,56,0.3393,0.2143,RED
+NOTCH2,Lymphoma,lymphoma_cancer_inclusive,notch receptor 2,90,90,0.9222,0.5444,GREEN
+NPM1,Leukemia,leukemia_cancer_inclusive,nucleophosmin 1,1622,500,0.998,0.74,GREEN
+NR4A3,Lung Cancer;Lymphoma,lung_cancer_inclusive,nuclear receptor subfamily 4 group A member 3,9,9,1.0,0.5556,GREEN
+NRAS,Bladder Cancer;Brain Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Leukemia;Liver Cancer;Lung Cancer;Lymphoma;Melanoma;Myeloma;Ovarian Cancer;Pancreatic Cancer;Thyroid Cancer,bladder_cancer_inclusive,"NRAS proto-oncogene, GTPase",25,25,1.0,0.48,GREEN
+NSD2,Myeloma,myeloma_cancer_inclusive,nuclear receptor binding SET domain protein 2,36,36,0.9722,0.6111,GREEN
+NTRK1,Thyroid Cancer,thyroid_cancer_inclusive,neurotrophic receptor tyrosine kinase 1,78,78,1.0,0.5,GREEN
+NTRK3,Thyroid Cancer,thyroid_cancer_inclusive,neurotrophic receptor tyrosine kinase 3,53,53,1.0,0.434,GREEN
+PALB2,Breast Cancer;Colorectal Cancer;Endometrial Cancer;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer,breast_cancer_inclusive,partner and localizer of BRCA2,665,500,0.998,0.56,GREEN
+PARP1,Breast Cancer;Endometrial Cancer;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer,breast_cancer_inclusive,poly(ADP-ribose) polymerase 1,324,324,0.9938,0.5247,GREEN
+PAX6,Kidney Cancer,kidney_cancer_inclusive,paired box 6,39,39,1.0,0.8462,GREEN
+PAX8,Thyroid Cancer,thyroid_cancer_inclusive,paired box 8,268,268,0.9067,0.4216,GREEN
+PBRM1,Kidney Cancer,kidney_cancer_inclusive,polybromo 1,258,258,0.9884,0.6705,GREEN
+PDCD1,Bladder Cancer;Cervical Cancer;Esophageal Cancer;Lung Cancer;Melanoma,bladder_cancer_inclusive,programmed cell death 1,13,13,0.9231,0.2308,AMBER
+PDGFRA,Brain Cancer;Breast Cancer;Colorectal Cancer;Esophageal Cancer;Liver Cancer;Melanoma;Stomach Cancer,brain_cancer_inclusive,platelet derived growth factor receptor alpha,261,261,0.9617,0.6897,GREEN
+PGR,Breast Cancer;Ovarian Cancer,breast_cancer_inclusive,progesterone receptor,1234,500,0.204,0.118,RED
+PHF6,Leukemia,leukemia_cancer_inclusive,PHD finger protein 6,97,97,0.9897,0.6804,GREEN
+PIK3CA,Bladder Cancer;Brain Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Liver Cancer;Lung Cancer;Melanoma;Myeloma;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer;Thyroid Cancer,bladder_cancer_inclusive,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",139,139,0.9928,0.5827,GREEN
+PIK3R1,Brain Cancer;Breast Cancer;Endometrial Cancer;Ovarian Cancer,brain_cancer_inclusive,phosphoinositide-3-kinase regulatory subunit 1,35,35,1.0,0.5714,GREEN
+PIM1,Lymphoma,lymphoma_cancer_inclusive,"Pim-1 proto-oncogene, serine/threonine kinase",110,110,0.9455,0.5364,GREEN
+PKHD1,Colorectal Cancer,colorectal_cancer_inclusive,PKHD1 ciliary IPT domain containing fibrocystin/polyductin,7,7,1.0,0.8571,GREEN
+PLCB4,Melanoma,melanoma_cancer_inclusive,phospholipase C beta 4,21,21,1.0,0.5714,GREEN
+PLEKHS1,Thyroid Cancer,thyroid_cancer_inclusive,pleckstrin homology domain containing S1,3,3,1.0,1.0,GREEN
+PMS2,Bladder Cancer;Brain Cancer;Colorectal Cancer;Endometrial Cancer;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer,bladder_cancer_inclusive,"PMS1 homolog 2, mismatch repair system component",24,24,1.0,0.2083,AMBER
+POLD1,Colorectal Cancer;Endometrial Cancer,colorectal_cancer_inclusive,"DNA polymerase delta 1, catalytic subunit",99,99,1.0,0.697,GREEN
+POLE,Brain Cancer;Colorectal Cancer;Endometrial Cancer;Ovarian Cancer;Pancreatic Cancer;Stomach Cancer,brain_cancer_inclusive,"DNA polymerase epsilon, catalytic subunit",106,106,0.3491,0.2453,RED
+POMC,Brain Cancer,brain_cancer_inclusive,proopiomelanocortin,72,72,0.9583,0.5,GREEN
+POT1,Melanoma,melanoma_cancer_inclusive,protection of telomeres 1,55,55,1.0,0.6545,GREEN
+PPARG,Thyroid Cancer,thyroid_cancer_inclusive,peroxisome proliferator activated receptor gamma,49,49,0.8163,0.551,AMBER
+PPM1D,Brain Cancer;Ovarian Cancer,brain_cancer_inclusive,"protein phosphatase, Mg2+/Mn2+ dependent 1D",19,19,1.0,0.6842,GREEN
+PPP2R1A,Endometrial Cancer;Ovarian Cancer,endometrial_cancer_inclusive,protein phosphatase 2 scaffold subunit Aalpha,42,42,1.0,0.6429,GREEN
+PPP6C,Melanoma,melanoma_cancer_inclusive,protein phosphatase 6 catalytic subunit,12,12,1.0,0.6667,GREEN
+PRAME,Melanoma,melanoma_cancer_inclusive,PRAME nuclear receptor transcriptional regulator,242,242,0.9959,0.5785,GREEN
+PRCC,Kidney Cancer,kidney_cancer_inclusive,proline rich mitotic checkpoint control factor,607,500,0.48,0.114,RED
+PRDM1,Myeloma,myeloma_cancer_inclusive,PR/SET domain 1,18,18,1.0,0.5,GREEN
+PREX2,Melanoma,melanoma_cancer_inclusive,"phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2",12,12,1.0,0.75,GREEN
+PRL,Brain Cancer,brain_cancer_inclusive,prolactin,698,500,0.992,0.096,AMBER
+PROX1,Esophageal Cancer,esophageal_cancer_inclusive,prospero homeobox 1,4,4,0.5,0.5,AMBER
+PRSS1,Pancreatic Cancer,pancreas_cancer_inclusive,serine protease 1,59,59,1.0,0.678,GREEN
+PSMB5,Myeloma,myeloma_cancer_inclusive,proteasome 20S subunit beta 5,16,16,1.0,0.625,GREEN
+PTCH1,Brain Cancer;Colorectal Cancer;Esophageal Cancer,brain_cancer_inclusive,patched 1,138,138,0.6522,0.4855,AMBER
+PTEN,Bladder Cancer;Brain Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Liver Cancer;Lung Cancer;Lymphoma;Melanoma;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer;Thyroid Cancer,bladder_cancer_inclusive,phosphatase and tensin homolog,189,189,0.9418,0.6138,GREEN
+PTPN11,Brain Cancer;Leukemia,brain_cancer_inclusive,protein tyrosine phosphatase non-receptor type 11,25,25,1.0,0.72,GREEN
+PTPRD,Melanoma,melanoma_cancer_inclusive,protein tyrosine phosphatase receptor type D,7,7,1.0,0.2857,AMBER
+PTPRT,Lung Cancer,lung_cancer_inclusive,protein tyrosine phosphatase receptor type T,10,10,1.0,0.7,GREEN
+RAC1,Melanoma,melanoma_cancer_inclusive,Rac family small GTPase 1,141,141,0.4894,0.2624,RED
+RAD50,Ovarian Cancer;Stomach Cancer,ovarian_cancer_inclusive,RAD50 double strand break repair protein,44,44,0.9091,0.3409,GREEN
+RAD51,Breast Cancer;Ovarian Cancer;Prostate Cancer,breast_cancer_inclusive,RAD51 recombinase,446,446,0.8408,0.4126,AMBER
+RAD51C,Breast Cancer;Endometrial Cancer;Ovarian Cancer;Prostate Cancer;Stomach Cancer,breast_cancer_inclusive,RAD51 paralog C,236,236,0.9788,0.3686,GREEN
+RAD51D,Breast Cancer;Endometrial Cancer;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer,breast_cancer_inclusive,RAD51 paralog D,157,157,1.0,0.2994,AMBER
+RB1,Bladder Cancer;Brain Cancer;Breast Cancer;Cervical Cancer;Esophageal Cancer;Kidney Cancer;Liver Cancer;Lung Cancer;Myeloma;Pancreatic Cancer;Prostate Cancer;Stomach Cancer,bladder_cancer_inclusive,RB transcriptional corepressor 1,154,154,0.9805,0.5519,GREEN
+RBM10,Lung Cancer,lung_cancer_inclusive,RNA binding motif protein 10,55,55,0.9818,0.6182,GREEN
+RET,Cervical Cancer;Colorectal Cancer;Lung Cancer;Thyroid Cancer,cervical_cancer_inclusive,ret proto-oncogene,6,6,1.0,0.5,GREEN
+RHBDF2,Esophageal Cancer,esophageal_cancer_inclusive,rhomboid 5 homolog 2,9,9,0.8889,0.6667,GREEN
+RHO,Stomach Cancer,stomach_cancer_inclusive,rhodopsin,113,113,0.0442,0.0265,RED
+RHOA,Lymphoma;Stomach Cancer,lymphoma_cancer_inclusive,ras homolog family member A,148,148,0.8514,0.6149,GREEN
+RNASEL,Prostate Cancer,prostate_cancer_inclusive,ribonuclease L,85,85,0.9294,0.7059,GREEN
+RNF43,Colorectal Cancer;Pancreatic Cancer;Stomach Cancer,colorectal_cancer_inclusive,ring finger protein 43,120,120,0.9833,0.6667,GREEN
+ROS1,Lung Cancer,lung_cancer_inclusive,"ROS proto-oncogene 1, receptor tyrosine kinase",1283,500,0.996,0.554,GREEN
+RPL22,Endometrial Cancer,endometrial_cancer_inclusive,ribosomal protein L22,5,5,1.0,0.8,GREEN
+RUNX1,Leukemia,leukemia_cancer_inclusive,RUNX family transcription factor 1,1314,500,0.972,0.566,GREEN
+RUNX1T1,Leukemia,leukemia_cancer_inclusive,RUNX1 partner transcriptional co-repressor 1,123,123,1.0,0.3496,GREEN
+SART3,Breast Cancer,breast_cancer_inclusive,"spliceosome associated factor 3, U4/U6 recycling protein",4,4,1.0,0.5,GREEN
+SCT,Pancreatic Cancer,pancreas_cancer_inclusive,secretin,22,22,0.9091,0.0909,AMBER
+SDC1,Myeloma,myeloma_cancer_inclusive,syndecan 1,10,10,0.8,0.3,AMBER
+SDHA,Kidney Cancer,kidney_cancer_inclusive,succinate dehydrogenase complex flavoprotein subunit A,32,32,1.0,0.4375,GREEN
+SDHB,Bladder Cancer;Kidney Cancer;Stomach Cancer,bladder_cancer_inclusive,succinate dehydrogenase complex iron sulfur subunit B,14,14,1.0,0.8571,GREEN
+SDHC,Kidney Cancer,kidney_cancer_inclusive,succinate dehydrogenase complex subunit C,21,21,1.0,0.4762,GREEN
+SDHD,Kidney Cancer,kidney_cancer_inclusive,succinate dehydrogenase complex subunit D,27,27,1.0,0.5185,GREEN
+SETBP1,Leukemia,leukemia_cancer_inclusive,SET binding protein 1,95,95,1.0,0.7368,GREEN
+SETD2,Kidney Cancer,kidney_cancer_inclusive,"SET domain containing 2, histone lysine methyltransferase",198,198,0.9949,0.5253,GREEN
+SF3B1,Leukemia;Melanoma;Myeloma,leukemia_cancer_inclusive,splicing factor 3b subunit 1,335,335,0.997,0.6657,GREEN
+SHE,Thyroid Cancer,thyroid_cancer_inclusive,Src homology 2 domain containing E,598,500,0.0,0.0,RED
+SHH,Brain Cancer,brain_cancer_inclusive,sonic hedgehog signaling molecule,689,500,0.806,0.298,AMBER
+SMAD4,Cervical Cancer;Colorectal Cancer;Esophageal Cancer;Liver Cancer;Pancreatic Cancer;Stomach Cancer,cervical_cancer_inclusive,SMAD family member 4,20,20,0.6,0.3,AMBER
+SMARCA4,Brain Cancer;Endometrial Cancer;Esophageal Cancer;Lung Cancer;Ovarian Cancer,brain_cancer_inclusive,SWI/SNF related BAF chromatin remodeling complex subunit ATPase 4,59,59,1.0,0.5593,GREEN
+SMARCB1,Endometrial Cancer;Kidney Cancer;Pancreatic Cancer;Stomach Cancer,endometrial_cancer_inclusive,SWI/SNF related BAF chromatin remodeling complex subunit B1,27,27,1.0,0.4444,GREEN
+SMO,Brain Cancer,brain_cancer_inclusive,"smoothened, frizzled class receptor",116,116,0.681,0.5259,AMBER
+SOCS1,Lymphoma,lymphoma_cancer_inclusive,suppressor of cytokine signaling 1,75,75,0.96,0.5333,GREEN
+SPINK1,Pancreatic Cancer,pancreas_cancer_inclusive,serine peptidase inhibitor Kazal type 1,55,55,1.0,0.7818,GREEN
+SPN,Pancreatic Cancer,pancreas_cancer_inclusive,sialophorin,255,255,1.0,0.102,AMBER
+SPOP,Endometrial Cancer;Prostate Cancer,endometrial_cancer_inclusive,speckle type BTB/POZ protein,20,20,1.0,0.75,GREEN
+SRSF2,Leukemia,leukemia_cancer_inclusive,serine and arginine rich splicing factor 2,277,277,0.9964,0.5451,GREEN
+STAG2,Bladder Cancer;Leukemia,bladder_cancer_inclusive,STAG2 cohesin complex component,32,32,0.9688,0.625,GREEN
+STAT3,Lymphoma;Myeloma,lymphoma_cancer_inclusive,signal transducer and activator of transcription 3,549,500,0.946,0.592,GREEN
+STAT6,Lymphoma,lymphoma_cancer_inclusive,signal transducer and activator of transcription 6,124,124,0.9113,0.5,GREEN
+STK11,Breast Cancer;Cervical Cancer;Liver Cancer;Lung Cancer;Ovarian Cancer;Pancreatic Cancer;Stomach Cancer;Thyroid Cancer,breast_cancer_inclusive,serine/threonine kinase 11,110,110,1.0,0.3909,GREEN
+SUFU,Brain Cancer,brain_cancer_inclusive,SUFU negative regulator of hedgehog signaling,65,65,0.8308,0.6154,AMBER
+TACC3,Bladder Cancer,bladder_cancer_inclusive,transforming acidic coiled-coil containing protein 3,13,13,1.0,0.5385,GREEN
+TBL1XR1,Lymphoma,lymphoma_cancer_inclusive,TBL1X/Y related 1,40,40,0.975,0.5,GREEN
+TENT5C,Myeloma,myeloma_cancer_inclusive,terminal nucleotidyltransferase 5C,3,3,1.0,0.0,AMBER
+TERT,Bladder Cancer;Brain Cancer;Cervical Cancer;Kidney Cancer;Liver Cancer;Melanoma;Ovarian Cancer;Thyroid Cancer,bladder_cancer_inclusive,telomerase reverse transcriptase,170,170,0.9941,0.7706,GREEN
+TET2,Esophageal Cancer;Leukemia;Lung Cancer;Lymphoma;Myeloma,esophageal_cancer_inclusive,tet methylcytosine dioxygenase 2,11,11,1.0,0.9091,GREEN
+TFE3,Kidney Cancer,kidney_cancer_inclusive,transcription factor binding to IGHM enhancer 3,451,451,1.0,0.6186,GREEN
+TFEB,Kidney Cancer,kidney_cancer_inclusive,transcription factor EB,157,157,1.0,0.5223,GREEN
+TG,Thyroid Cancer,thyroid_cancer_inclusive,thyroglobulin,1485,500,0.094,0.026,RED
+TGFBR2,Colorectal Cancer,colorectal_cancer_inclusive,transforming growth factor beta receptor 2,99,99,0.9394,0.7071,GREEN
+TMPRSS2,Prostate Cancer,prostate_cancer_inclusive,transmembrane serine protease 2,581,500,0.996,0.616,GREEN
+TNF,Cervical Cancer,cervical_cancer_inclusive,tumor necrosis factor,244,244,0.9426,0.3074,GREEN
+TNFAIP3,Lymphoma,lymphoma_cancer_inclusive,TNF alpha induced protein 3,137,137,1.0,0.5912,GREEN
+TNFRSF11A,Breast Cancer;Colorectal Cancer;Lung Cancer;Melanoma;Prostate Cancer,breast_cancer_inclusive,TNF receptor superfamily member 11a,10,10,0.9,0.5,GREEN
+TNFRSF13B,Myeloma,myeloma_cancer_inclusive,TNF receptor superfamily member 13B,6,6,1.0,0.1667,AMBER
+TNFRSF14,Lymphoma,lymphoma_cancer_inclusive,TNF receptor superfamily member 14,77,77,1.0,0.5844,GREEN
+TP53,Bladder Cancer;Brain Cancer;Breast Cancer;Cervical Cancer;Colorectal Cancer;Endometrial Cancer;Esophageal Cancer;Kidney Cancer;Leukemia;Liver Cancer;Lung Cancer;Lymphoma;Melanoma;Myeloma;Ovarian Cancer;Pancreatic Cancer;Prostate Cancer;Stomach Cancer;Thyroid Cancer,bladder_cancer_inclusive,tumor protein p53,428,428,0.9696,0.6869,GREEN
+TPO,Thyroid Cancer,thyroid_cancer_inclusive,thyroid peroxidase,148,148,0.9932,0.3986,GREEN
+TRAF2,Myeloma,myeloma_cancer_inclusive,TNF receptor associated factor 2,14,14,0.8571,0.2143,AMBER
+TRAF3,Lymphoma;Myeloma,lymphoma_cancer_inclusive,TNF receptor associated factor 3,44,44,1.0,0.5682,GREEN
+TSC1,Bladder Cancer;Kidney Cancer,bladder_cancer_inclusive,TSC complex subunit 1,44,44,1.0,0.6136,GREEN
+TSC2,Bladder Cancer;Kidney Cancer;Liver Cancer;Pancreatic Cancer,bladder_cancer_inclusive,TSC complex subunit 2,10,10,1.0,0.9,GREEN
+TSHR,Thyroid Cancer,thyroid_cancer_inclusive,thyroid stimulating hormone receptor,225,225,0.9422,0.8133,GREEN
+TTN,Bladder Cancer;Liver Cancer;Ovarian Cancer;Stomach Cancer,bladder_cancer_inclusive,titin,8,8,1.0,0.25,AMBER
+TTR,Liver Cancer,liver_cancer_inclusive,transthyretin,155,155,1.0,0.1032,AMBER
+TYMS,Lung Cancer,lung_cancer_inclusive,thymidylate synthetase,73,73,0.9863,0.5479,GREEN
+TYR,Thyroid Cancer,thyroid_cancer_inclusive,tyrosinase,20,20,0.0,0.0,RED
+U2AF1,Leukemia,leukemia_cancer_inclusive,U2 small nuclear RNA auxiliary factor 1,143,143,1.0,0.5804,GREEN
+UBA1,Myeloma,myeloma_cancer_inclusive,ubiquitin like modifier activating enzyme 1,7,7,1.0,0.7143,GREEN
+USP8,Brain Cancer,brain_cancer_inclusive,ubiquitin specific peptidase 8,56,56,1.0,0.8036,GREEN
+VHL,Brain Cancer;Kidney Cancer;Pancreatic Cancer,brain_cancer_inclusive,von Hippel-Lindau tumor suppressor,198,198,0.9798,0.4848,GREEN
+WT1,Kidney Cancer;Leukemia,kidney_cancer_inclusive,WT1 transcription factor,512,500,0.988,0.772,GREEN
+YY1,Cervical Cancer;Pancreatic Cancer,cervical_cancer_inclusive,YY1 transcription factor,19,19,1.0,0.3684,GREEN
+ZFHX3,Lung Cancer,lung_cancer_inclusive,zinc finger homeobox 3,10,10,1.0,0.6,GREEN
+ZNF750,Esophageal Cancer,esophageal_cancer_inclusive,zinc finger protein 750,17,17,1.0,0.7059,GREEN
+ZRSR2,Leukemia,leukemia_cancer_inclusive,"zinc finger CCCH-type, RNA binding motif and serine/arginine rich 2",46,46,1.0,0.3696,GREEN

@@ -1,0 +1,452 @@
+[
+ {
+  "rank": 1,
+  "gene": "KRAS",
+  "relevance": 159.384,
+  "support": 114,
+  "background": 646,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 2,
+  "gene": "TP53",
+  "relevance": 145.939,
+  "support": 153,
+  "background": 843,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 3,
+  "gene": "CTNNB1",
+  "relevance": 123.791,
+  "support": 143,
+  "background": 914,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 4,
+  "gene": "BRAF",
+  "relevance": 89.497,
+  "support": 76,
+  "background": 316,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 5,
+  "gene": "NRAS",
+  "relevance": 54.301,
+  "support": 45,
+  "background": 185,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 6,
+  "gene": "TERT",
+  "relevance": 49.947,
+  "support": 70,
+  "background": 516,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 7,
+  "gene": "EGFR",
+  "relevance": 40.998,
+  "support": 70,
+  "background": 1298,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 8,
+  "gene": "PIK3CA",
+  "relevance": 25.256,
+  "support": 51,
+  "background": 1991,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 9,
+  "gene": "APC",
+  "relevance": 14.81,
+  "support": 34,
+  "background": 407,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 10,
+  "gene": "HFE",
+  "relevance": 8.598,
+  "support": 17,
+  "background": 72,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 11,
+  "gene": "AXIN1",
+  "relevance": 8.588,
+  "support": 19,
+  "background": 91,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 12,
+  "gene": "HNF1A",
+  "relevance": 7.378,
+  "support": 16,
+  "background": 154,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 13,
+  "gene": "ARID1A",
+  "relevance": 6.699,
+  "support": 17,
+  "background": 110,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 14,
+  "gene": "KIT",
+  "relevance": 6.211,
+  "support": 26,
+  "background": 1226,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 15,
+  "gene": "ERBB2",
+  "relevance": 6.159,
+  "support": 18,
+  "background": 399,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 16,
+  "gene": "PTEN",
+  "relevance": 5.555,
+  "support": 22,
+  "background": 635,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 17,
+  "gene": "CDKN2A",
+  "relevance": 5.386,
+  "support": 18,
+  "background": 291,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 18,
+  "gene": "BAP1",
+  "relevance": 5.066,
+  "support": 11,
+  "background": 59,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 19,
+  "gene": "FBXW7",
+  "relevance": 4.394,
+  "support": 9,
+  "background": 61,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 20,
+  "gene": "GNAQ",
+  "relevance": 3.888,
+  "support": 8,
+  "background": 25,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 21,
+  "gene": "BRCA2",
+  "relevance": 3.83,
+  "support": 10,
+  "background": 55,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 22,
+  "gene": "PDGFRA",
+  "relevance": 3.604,
+  "support": 8,
+  "background": 57,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 23,
+  "gene": "HRAS",
+  "relevance": 3.483,
+  "support": 9,
+  "background": 51,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 24,
+  "gene": "GNA11",
+  "relevance": 3.34,
+  "support": 7,
+  "background": 17,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 25,
+  "gene": "AKT1",
+  "relevance": 3.337,
+  "support": 6,
+  "background": 160,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 26,
+  "gene": "ALK",
+  "relevance": 3.063,
+  "support": 8,
+  "background": 66,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 27,
+  "gene": "IDH1",
+  "relevance": 2.882,
+  "support": 9,
+  "background": 54,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 28,
+  "gene": "SMAD4",
+  "relevance": 2.834,
+  "support": 11,
+  "background": 195,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 29,
+  "gene": "JAK1",
+  "relevance": 2.787,
+  "support": 8,
+  "background": 98,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 30,
+  "gene": "MET",
+  "relevance": 2.752,
+  "support": 19,
+  "background": 1926,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 31,
+  "gene": "TSC2",
+  "relevance": 2.688,
+  "support": 8,
+  "background": 53,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 32,
+  "gene": "RB1",
+  "relevance": 2.463,
+  "support": 8,
+  "background": 89,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 33,
+  "gene": "MEN1",
+  "relevance": 2.373,
+  "support": 5,
+  "background": 36,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 34,
+  "gene": "NFE2L2",
+  "relevance": 2.345,
+  "support": 14,
+  "background": 526,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 35,
+  "gene": "KEAP1",
+  "relevance": 2.291,
+  "support": 10,
+  "background": 146,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 36,
+  "gene": "TTR",
+  "relevance": 2.153,
+  "support": 4,
+  "background": 172,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 37,
+  "gene": "GNAS",
+  "relevance": 2.12,
+  "support": 6,
+  "background": 23,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 38,
+  "gene": "AFP",
+  "relevance": 2.112,
+  "support": 30,
+  "background": 7898,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 39,
+  "gene": "HNF4A",
+  "relevance": 2.073,
+  "support": 6,
+  "background": 201,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 40,
+  "gene": "KMT2D",
+  "relevance": 2.048,
+  "support": 6,
+  "background": 23,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 41,
+  "gene": "HNF1B",
+  "relevance": 1.964,
+  "support": 6,
+  "background": 85,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 42,
+  "gene": "TTN",
+  "relevance": 1.935,
+  "support": 5,
+  "background": 23,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 43,
+  "gene": "ARID2",
+  "relevance": 1.917,
+  "support": 6,
+  "background": 36,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 44,
+  "gene": "BRCA1",
+  "relevance": 1.895,
+  "support": 7,
+  "background": 93,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 45,
+  "gene": "CCL14",
+  "relevance": 1.736,
+  "support": 7,
+  "background": 388,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 46,
+  "gene": "STK11",
+  "relevance": 1.695,
+  "support": 7,
+  "background": 69,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 47,
+  "gene": "ATM",
+  "relevance": 1.607,
+  "support": 7,
+  "background": 120,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 48,
+  "gene": "MYC",
+  "relevance": 1.594,
+  "support": 13,
+  "background": 1465,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 49,
+  "gene": "ATRX",
+  "relevance": 1.496,
+  "support": 4,
+  "background": 15,
+  "N": 1000,
+  "C": 127252
+ },
+ {
+  "rank": 50,
+  "gene": "IL6ST",
+  "relevance": 1.359,
+  "support": 5,
+  "background": 59,
+  "N": 1000,
+  "C": 127252
+ }
+]

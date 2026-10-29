@@ -1,0 +1,33 @@
+system,reference,metric,mean_diff_pp,boot_ci_lo_pp,boot_ci_hi_pp,cancers_oncodigger_better,ties,cancers_oncodigger_worse
+Pooled cancer-blind control,published,any_cancer_P@10,-6.3,-11.1,-2.6,0,11,8
+Pooled cancer-blind control,published,exact_cancer_concordance,25.8,20.0,32.1,19,0,0
+Pooled cancer-blind control,statistical,any_cancer_P@10,-4.7,-10.0,-0.5,3,8,8
+Pooled cancer-blind control,statistical,exact_cancer_concordance,35.3,27.9,42.6,18,1,0
+CancerMine,published,any_cancer_P@10,5.8,0.5,11.6,10,7,2
+CancerMine,published,exact_cancer_concordance,18.9,13.2,23.7,18,0,1
+CancerMine,statistical,any_cancer_P@10,5.3,-1.6,12.1,9,6,4
+CancerMine,statistical,exact_cancer_concordance,19.5,13.2,25.8,16,2,1
+ChatGPT (one response),published,any_cancer_P@10,14.7,7.4,21.6,12,6,1
+ChatGPT (one response),published,exact_cancer_concordance,2.6,-5.3,11.6,9,2,8
+ChatGPT (one response),statistical,any_cancer_P@10,7.9,1.1,14.2,10,6,3
+ChatGPT (one response),statistical,exact_cancer_concordance,3.2,-5.8,13.2,9,1,9
+DISEASES 2.0,published,any_cancer_P@10,33.7,25.3,42.6,17,2,0
+DISEASES 2.0,published,exact_cancer_concordance,35.8,26.3,44.7,17,2,0
+DISEASES 2.0,statistical,any_cancer_P@10,34.7,25.3,44.2,16,3,0
+DISEASES 2.0,statistical,exact_cancer_concordance,38.4,30.0,46.8,18,1,0
+PubTator 3.0,published,any_cancer_P@10,25.8,19.5,31.6,17,2,0
+PubTator 3.0,published,exact_cancer_concordance,35.3,25.3,43.7,16,2,1
+PubTator 3.0,statistical,any_cancer_P@10,25.3,17.9,31.6,17,1,1
+PubTator 3.0,statistical,exact_cancer_concordance,37.9,29.5,45.8,19,0,0
+Matched frequency-only (clean vocabulary),published,any_cancer_P@10,1.6,0.0,3.2,3,16,0
+Matched frequency-only (clean vocabulary),published,exact_cancer_concordance,2.6,0.0,5.3,6,12,1
+Matched frequency-only (clean vocabulary),statistical,any_cancer_P@10,2.1,-0.5,4.7,6,11,2
+Matched frequency-only (clean vocabulary),statistical,exact_cancer_concordance,4.2,1.1,7.9,7,11,1
+Frequency baseline (aliases),published,any_cancer_P@10,31.6,24.2,38.9,19,0,0
+Frequency baseline (aliases),published,exact_cancer_concordance,37.9,30.0,46.3,19,0,0
+Frequency baseline (aliases),statistical,any_cancer_P@10,25.8,17.4,34.2,16,3,0
+Frequency baseline (aliases),statistical,exact_cancer_concordance,39.5,31.6,48.4,19,0,0
+Frequency baseline (primary symbols),published,any_cancer_P@10,30.0,23.2,36.3,18,1,0
+Frequency baseline (primary symbols),published,exact_cancer_concordance,40.5,33.2,47.9,19,0,0
+Frequency baseline (primary symbols),statistical,any_cancer_P@10,24.7,16.8,32.6,16,2,1
+Frequency baseline (primary symbols),statistical,exact_cancer_concordance,39.5,32.6,46.3,19,0,0

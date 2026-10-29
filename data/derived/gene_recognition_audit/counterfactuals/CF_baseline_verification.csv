@@ -1,0 +1,13 @@
+cancer,order_top50_identical_to_frozen,positions_matching,support_equal,background_equal,relevance_equal_tol,top10_equals_canonical,intogen_any_190,intogen_exact_190
+Breast Cancer,True,50/50,23/23,23/23,23/23,True,178,150
+Lung Cancer,True,50/50,25/26,25/26,25/26,True,178,150
+Colorectal Cancer,True,50/50,22/22,22/22,22/22,True,178,150
+Prostate Cancer,True,50/50,22/22,22/22,22/22,True,178,150
+Bladder Cancer,True,50/50,27/27,27/27,27/27,True,178,150
+Kidney Cancer,True,50/50,22/22,22/22,22/22,True,178,150
+Liver Cancer,True,50/50,31/31,31/31,31/31,True,178,150
+Stomach Cancer,True,50/50,22/22,22/22,22/22,True,178,150
+Esophageal Cancer,True,50/50,25/25,25/25,25/25,True,178,150
+Endometrial Cancer,True,50/50,20/20,20/20,20/20,True,178,150
+Cervical Cancer,True,50/50,19/19,19/19,19/19,True,178,150
+Thyroid Cancer,True,50/50,13/13,13/13,13/13,True,178,150

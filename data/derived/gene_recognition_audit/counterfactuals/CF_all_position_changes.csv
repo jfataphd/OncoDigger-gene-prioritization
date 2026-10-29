@@ -1,0 +1,62 @@
+cancer,scenario,gene,rank_before,rank_after
+Lung Cancer,'PI3K' alias removed from PIK3CA,ALK,5.0,6.0
+Lung Cancer,'PI3K' alias removed from PIK3CA,PIK3CA,6.0,5.0
+Colorectal Cancer,'PI3K' alias removed from PIK3CA,MLH1,5.0,6.0
+Colorectal Cancer,'PI3K' alias removed from PIK3CA,NRAS,4.0,5.0
+Colorectal Cancer,'PI3K' alias removed from PIK3CA,PIK3CA,6.0,4.0
+Colorectal Cancer,'HNPCC' syndrome alias removed from MLH1 and MSH2,APC,8.0,7.0
+Colorectal Cancer,'HNPCC' syndrome alias removed from MLH1 and MSH2,MLH1,5.0,6.0
+Colorectal Cancer,'HNPCC' syndrome alias removed from MLH1 and MSH2,MSH2,7.0,9.0
+Colorectal Cancer,'HNPCC' syndrome alias removed from MLH1 and MSH2,PIK3CA,6.0,5.0
+Colorectal Cancer,'HNPCC' syndrome alias removed from MLH1 and MSH2,TP53,9.0,8.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,APC,21.0,20.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,ATR,36.0,35.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,BRAF,20.0,19.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,BRIP1,26.0,25.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,CDK12,12.0,11.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,CHD1,25.0,24.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,CHEK1,39.0,38.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,CTNNB1,29.0,28.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,EGFR,30.0,29.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,ELAC2,45.0,44.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,ERG,13.0,12.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,FANCA,35.0,34.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,FANCL,41.0,40.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,FGFR3,50.0,49.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,FOXA1,16.0,15.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,HOXB13,15.0,14.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,IDH1,33.0,32.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,KDM6A,48.0,47.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,KLF6,46.0,45.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,KMT2C,38.0,37.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,KMT2D,40.0,39.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,KRAS,27.0,26.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,MED12,31.0,30.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,MET,,50.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,MLH1,17.0,16.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,MSH2,14.0,13.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,MSH6,18.0,17.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,MSR1,37.0,36.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,MT-ATP6,47.0,46.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,MUTYH,43.0,42.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,MYC,32.0,31.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,NBN,19.0,18.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,PALB2,10.0,9.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,PARP1,9.0,
+Prostate Cancer,family alias 'PARP' removed from PARP1,PIK3CA,24.0,23.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,PMS2,28.0,27.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,RAD51,34.0,33.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,RAD51C,23.0,22.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,RAD51D,44.0,43.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,RB1,11.0,10.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,RNASEL,42.0,41.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,RNF43,49.0,48.0
+Prostate Cancer,family alias 'PARP' removed from PARP1,TMPRSS2,22.0,21.0
+Kidney Cancer,'HIF-1' alias removed from SETD2,FLCN,6.0,7.0
+Kidney Cancer,'HIF-1' alias removed from SETD2,SETD2,7.0,6.0
+Liver Cancer,'PI3K' alias removed from PIK3CA,EGFR,7.0,8.0
+Liver Cancer,'PI3K' alias removed from PIK3CA,NRAS,5.0,6.0
+Liver Cancer,'PI3K' alias removed from PIK3CA,PIK3CA,8.0,5.0
+Liver Cancer,'PI3K' alias removed from PIK3CA,TERT,6.0,7.0
+Endometrial Cancer,'HNPCC' syndrome alias removed from MLH1 and MSH2,MSH2,8.0,9.0
+Endometrial Cancer,'HNPCC' syndrome alias removed from MLH1 and MSH2,MSH6,9.0,8.0

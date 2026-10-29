@@ -1,0 +1,20 @@
+Cancer,Main ranking,w = 3,Change,Top-10 genes retained
+Breast Cancer,9,9,0,10
+Lung Cancer,9,9,0,10
+Colorectal Cancer,7,7,0,10
+Prostate Cancer,6,7,+1,9
+Melanoma,9,9,0,10
+Bladder Cancer,9,9,0,9
+Kidney Cancer,7,7,0,9
+Pancreatic Cancer,7,7,0,10
+Liver Cancer,7,7,0,10
+Stomach Cancer,8,7,-1,9
+Esophageal Cancer,7,6,-1,9
+Ovarian Cancer,8,8,0,10
+Endometrial Cancer,6,6,0,10
+Cervical Cancer,8,8,0,8
+Thyroid Cancer,9,9,0,10
+Brain Cancer,8,8,0,10
+Leukemia,9,9,0,9
+Lymphoma,9,9,0,10
+Myeloma,8,8,0,8

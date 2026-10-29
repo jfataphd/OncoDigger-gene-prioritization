@@ -1,0 +1,457 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Kidney Cancer,VHL,36911986,random,vhl,C,ML,,symbol 'VHL' present,3,exploration of morphological features of clear cell renal cell carcinoma with pbrm1 setd2 bap1 or kdm5c mutations,ML
+Kidney Cancer,VHL,40306016,random,vhl,C,ML,,symbol 'VHL' present,13,prediction tools for assessing functional impacts of gene mutations in clear cell renal cell carcinoma a comparative study,ML
+Kidney Cancer,VHL,31653662,random,vhl,C,I,,symbol 'VHL' present,22,mutations and response to rapalogs in patients with metastatic renal cell carcinoma,I
+Kidney Cancer,VHL,37515929,random,vhl,C,I,,symbol 'VHL' present,29,gene mutation profiling and clinical significances in patients with renal cell carcinoma,I
+Kidney Cancer,VHL,20959442,random,vhl,C,I,,symbol 'VHL' present,65,mutation analysis of hif prolyl hydroxylases phd egln in individuals with features of phaeochromocytoma and renal cell carcinoma susceptibil,I
+Kidney Cancer,VHL,18728283,random,vhl,C,M,,symbol 'VHL' present,69,germline sdhb mutations and familial renal cell carcinoma,M
+Kidney Cancer,VHL,37843608,random,vhl,C,M,,symbol 'VHL' present,84,mutation in chek2 triggers von hippel-lindau hemangioblastoma growth,M
+Kidney Cancer,VHL,26707870,random,vhl,C,M,target,symbol 'VHL' present,87,renal cell carcinoma programmed death-ligand 1 a new direct target of hypoxia-inducible factor-2 alpha is regulated by von hippel-lindau gen,M
+Kidney Cancer,VHL,10766184,random,vhl|von hippel lindau tumor suppressor,C,M,,symbol 'VHL' present,108,vhl alterations in human clear cell renal cell carcinoma association with advanced tumor stage and a novel hot spot mutation,M
+Kidney Cancer,VHL,28853079,random,vhl,C,M,,symbol 'VHL' present,161,specific localization of missense mutations in the vhl gene in clear cell renal cell carcinoma,M
+Kidney Cancer,VHL,23224817,random,vhl,C,M,,symbol 'VHL' present,184,a novel missense mutation n78d in a family with von hippel-lindau disease with central nervous system haemangioblastomas pancreatic and rena,M
+Kidney Cancer,VHL,28052007,random,vhl,C,M,,symbol 'VHL' present,186,vhl missense mutations in the p53 binding domain show different effects on p53 signaling and hif degradation in clear cell renal cell carcin,M
+Kidney Cancer,VHL,39263870,random,vhl,C,P,,symbol 'VHL' present,187,differences in mutations across tumour sizes in clear-cell renal cell carcinoma,P
+Kidney Cancer,VHL,15383938,random,vhl,C,M,,symbol 'VHL' present,199,a unique case of renal carcinoma with xp11 2 translocations tfe3 gene fusions in a 3-year-old child with coexistent von hippel-lindau gene m,M
+Kidney Cancer,VHL,33994165,random,vhl,C,I,,symbol 'VHL' present,211,correlating immune cell infiltration patterns with recurrent somatic mutations in advanced clear cell renal cell carcinoma,I
+Kidney Cancer,VHL,12384800,random,vhl,C,M,,symbol 'VHL' present,257,effects of von hippel-lindau gene mutation and methylation status on expression of transmembrane carbonic anhydrases in renal cell carcinoma,M
+Kidney Cancer,VHL,24029645,random,vhl,C,ML,,symbol 'VHL' present,258,radiogenomics of clear cell renal cell carcinoma associations between ct imaging features and mutations,ML
+Kidney Cancer,VHL,19252526,random,vhl,C,M,,symbol 'VHL' present,403,vhl type 2b gene mutation moderates hif dosage in vitro and in vivo,M
+Kidney Cancer,VHL,15220362,random,vhl,C,W,target,symbol 'VHL' present,404,molecular genetic analysis of fih-1 fh and sdhb candidate tumour suppressor genes in renal cell carcinoma,W
+Kidney Cancer,VHL,40750932,random,vhl|von hippel lindau tumor suppressor,C,P,,symbol 'VHL' present,427,pembrolizumab plus axitinib versus sunitinib for advanced clear cell renal cell carcinoma 5-year survival and biomarker analyses of the phas,P
+Kidney Cancer,VHL,38344974,random,vhl,C,M,target,symbol 'VHL' present,486,belzutifan hif-2 inhibitor and clear cell renal cell carcinoma with somatic von-hippel-lindau loss-of-function mutation,M
+Kidney Cancer,VHL,34522206,random,vhl,C,M,,symbol 'VHL' present,523,deficiency of the x-inactivation escaping gene kdm5c in clear cell renal cell carcinoma promotes tumorigenicity by reprogramming glycogen me,M
+Kidney Cancer,VHL,11793370,random,vhl,C,M,,symbol 'VHL' present,537,vhl mutations and their correlation with tumour cell proliferation microvessel density and patient prognosis in clear cell renal cell carcin,M
+Kidney Cancer,VHL,23036577,random,vhl,C,M,,symbol 'VHL' present,570,clinical and pathologic impact of select chromatin-modulating tumor suppressors in clear cell renal cell carcinoma,M
+Kidney Cancer,VHL,23797736,random,vhl,C,I,,symbol 'VHL' present,572,integrated molecular analysis of clear-cell renal cell carcinoma,I
+Kidney Cancer,VHL,26758419,random,vhl,C,M,,symbol 'VHL' present,588,down-regulation of c12orf59 is associated with a poor prognosis and vhl mutations in renal cell carcinoma,M
+Kidney Cancer,VHL,23857093,random,vhl,C,M,,symbol 'VHL' present,627,von hippel lindau disease with colon adenocarcinoma renal cell carcinoma and adrenal pheochromocytoma,M
+Kidney Cancer,VHL,11904337,random,vhl,C,M,,symbol 'VHL' present,641,mutational analysis of the von hippel lindau gene in clear cell renal carcinomas from tuberous sclerosis complex patients,M
+Kidney Cancer,VHL,38564827,random,vhl,C,M,,symbol 'VHL' present,658,vhl mutation drives human clear cell renal cell carcinoma progression through pi3k akt-dependent cholesteryl ester accumulation,M
+Kidney Cancer,VHL,11331613,random,vhl,C,M,,symbol 'VHL' present,701,contrasting effects on hif-1alpha regulation by disease-causing pvhl mutations correlate with patterns of tumourigenesis in von hippel-linda,M
+Kidney Cancer,VHL,31999483,random,vhl,C,M,,symbol 'VHL' present,715,ufmylation is activated in renal cancer and is not associated with von hippel-lindau mutation,M
+Kidney Cancer,VHL,20034980,random,vhl,C,M,,symbol 'VHL' present,747,renal cell carcinoma in children and young adults clinicopathological immunohistochemical and vhl gene analysis of 46 cases with follow-up,M
+Kidney Cancer,VHL,11331612,random,vhl|von hippel lindau tumor suppressor,C,M,,symbol 'VHL' present,752,von hippel-lindau protein mutants linked to type 2c vhl disease preserve the ability to downregulate hif,M
+Kidney Cancer,VHL,11257110,random,vhl,C,W,,symbol 'VHL' present,762,genotype-phenotype correlation in von hippel-lindau syndrome,W
+Kidney Cancer,VHL,11912179,random,vhl,C,M,,symbol 'VHL' present,815,disruption of a novel mfs transporter gene dirc2 by a familial renal cell carcinoma-associated t 2 3 q35 q21,M
+Kidney Cancer,VHL,21248752,random,vhl,C,I,,symbol 'VHL' present,816,exome sequencing identifies frequent mutation of the swi snf complex gene pbrm1 in renal carcinoma,I
+Kidney Cancer,VHL,40246078,random,vhl,C,M,,symbol 'VHL' present,918,eloc-mutated renal cell carcinoma is a rare indolent tumor with distinctive genomic characteristics,M
+Kidney Cancer,VHL,28624320,random,vhl,C,M,,symbol 'VHL' present,937,prognostic value of the vhl hif-1 and vegf signaling pathway and associated mapk erk1 2 and erk5 pathways in clear-cell renal cell carcinoma,M
+Kidney Cancer,VHL,11526493,random,vhl,C,M,,symbol 'VHL' present,987,the pvhl-associated scf ubiquitin ligase complex molecular genetic analysis of elongin b and c rbx1 and hif-1alpha in renal cell carcinoma,M
+Kidney Cancer,VHL,26447894,random,vhl,C,M,,symbol 'VHL' present,989,molecular genetic alterations in renal cell carcinomas with tubulocystic pattern tubulocystic renal cell carcinoma tubulocystic renal cell c,M
+Kidney Cancer,WT1,36227513,random,wt1,C,M,,symbol 'WT1' present,58,a case of potter sequence with wt1 mutation,M
+Kidney Cancer,WT1,12552561,targeted,wagr,X,M,,"credited only via the syndrome name 'WAGR'; the abstract is about PAX6/aniridia, WT1 not named",66,missense mutations in the dna-binding region and termination codon in pax6,M
+Kidney Cancer,WT1,21384108,random,wt1,C,M,,symbol 'WT1' present,74,a novel wt1 gene mutation in a patient with wilms' tumor and 46 xy gonadal dysgenesis,M
+Kidney Cancer,WT1,28326956,random,wt1,C,I,,symbol 'WT1' present,82,clinical pathologic and genetic features of wilms tumors with wtx gene mutation,I
+Kidney Cancer,WT1,29958641,random,wt1,C,M,,symbol 'WT1' present,91,description of mutation spectrum and polymorphism of wilms' tumor 1 wt1 gene in hypospadias patients in the indonesian population,M
+Kidney Cancer,WT1,17061122,random,wt1,C,M,,symbol 'WT1' present,99,wt1 intron 9 splice acceptor site mutation in a 46 xy male with focal segmental glomerulosclerosis,M
+Kidney Cancer,WT1,15579438,random,wt1,C,M,,symbol 'WT1' present,104,ctnnb1 mutations and overexpression of wnt beta-catenin target genes in wt1-mutant wilms' tumors,M
+Kidney Cancer,WT1,29968962,random,wt1,C,M,,symbol 'WT1' present,118,convergent evolution of 11p allelic loss in multifocal wilms tumors arising in wt1 mutation carriers,M
+Kidney Cancer,WT1,20595692,random,wt1,C,M,,symbol 'WT1' present,142,genotype phenotype correlation in nephrotic syndrome caused by wt1 mutations,M
+Kidney Cancer,WT1,18311776,random,wt1,C,M,,symbol 'WT1' present,144,wilms tumor genetics mutations in wt1 wtx and ctnnb1 account for only about one-third of tumors,M
+Kidney Cancer,WT1,28321846,targeted,wagr,X,M,,"credited only via the syndrome name 'WAGR'; the abstract is about PAX6/aniridia, WT1 not named",159,molecular analysis of patients with aniridia in russian federation broadens the spectrum of pax6 mutations,M
+Kidney Cancer,WT1,14745636,random,wt1,C,M,,symbol 'WT1' present,174,slow progressive fsgs associated with an f392l wt1 mutation,M
+Kidney Cancer,WT1,17172473,random,wt1,C,M,,symbol 'WT1' present,206,sequential wt1 and ctnnb1 mutations and alterations of beta-catenin localisation in intralobar nephrogenic rests and associated wilms tumour,M
+Kidney Cancer,WT1,11745420,random,wt1,C,M,,symbol 'WT1' present,210,mutations deletions of the wt1 gene loss of heterozygosity on chromosome arms 11p and 11q chromosome ploidy and histology in wilms' tumors i,M
+Kidney Cancer,WT1,15150775,random,wt1,C,M,,symbol 'WT1' present,218,twenty-four new cases of wt1 germline mutations and review of the literature genotype phenotype correlations for wilms tumor development,M
+Kidney Cancer,WT1,12119492,random,wt1,C,M,,symbol 'WT1' present,234,gonadal mosaicism of frasier syndrome in 3 chinese siblings with donor splice site mutation of wilms' tumour gene,M
+Kidney Cancer,WT1,30367465,random,wt1,C,M,,symbol 'WT1' present,242,loss or oncogenic mutation of drosha impairs kidney development and function but is not sufficient for wilms tumor formation,M
+Kidney Cancer,WT1,21888862,random,wt1,C,M,,symbol 'WT1' present,294,wt1 mutations may be a cause of severe renal failure due to nephroblastomatosis in wilms' tumor patients,M
+Kidney Cancer,WT1,28081536,random,wt1,C,M,,symbol 'WT1' present,309,wt1 haploinsufficiency supports milder renal manifestation in two patients with denys-drash syndrome,M
+Kidney Cancer,WT1,18516627,random,wt1,C,M,,symbol 'WT1' present,316,a novel wilms' tumor 1 gene mutation in a child with severe renal dysfunction and persistent renal blastema,M
+Kidney Cancer,WT1,15957141,random,wt1,C,M,,symbol 'WT1' present,317,novel familial wt1 read-through mutation associated with wilms tumor and slow progressive nephropathy,M
+Kidney Cancer,WT1,22952427,random,wt1,C,M,,symbol 'WT1' present,323,clinically relevant subsets identified by gene expression patterns support a revised ontogenic model of wilms tumor a children's oncology gr,M
+Kidney Cancer,WT1,18464243,random,wt1,C,M,,symbol 'WT1' present,386,duplication of paternal igf2 or loss of maternal igf2 imprinting occurs in half of wilms tumors with various structural wt1 abnormalities,M
+Kidney Cancer,WT1,10772697,random,wt1,C,M,,symbol 'WT1' present,411,analysis of the p53 gene by pcr-sscp in ten cases of wilms' tumor,M
+Kidney Cancer,WT1,12949968,random,wt1,C,I,,symbol 'WT1' present,467,the simpson-golabi-behmel gene gpc3 is not involved in sporadic wilms tumorigenesis,I
+Kidney Cancer,WT1,12796362,random,wt1,C,M,,symbol 'WT1' present,507,two molecular subgroups of wilms' tumors with or without wt1 mutations,M
+Kidney Cancer,WT1,11360189,random,wt1,C,I,,symbol 'WT1' present,532,absence of ppp2r1a mutations in wilms tumor,I
+Kidney Cancer,WT1,17873895,random,wt1,C,M,,symbol 'WT1' present,565,wnt signaling pathway analysis in renal cell carcinoma in young patients,M
+Kidney Cancer,WT1,15503171,random,wt1,C,M,,symbol 'WT1' present,586,a wt1 exon 1 mutation in a child diagnosed with denys-drash syndrome,M
+Kidney Cancer,WT1,18709391,random,wt1,C,ML,,symbol 'WT1' present,590,genetic forms of nephrotic syndrome a single-center experience in brussels,ML
+Kidney Cancer,WT1,27036314,targeted,wt 1,C,I,,credited via alias wt 1,599,tumor progression in dicer1-mutated cystic nephroma-witnessing the genesis of anaplastic sarcoma of the kidney,I
+Kidney Cancer,WT1,14646409,random,wt1,C,M,,symbol 'WT1' present,622,46 xy phenotypic male with focal segmental glomerulosclerosis caused by the wt1 splice site mutation,M
+Kidney Cancer,WT1,11519891,random,wt1,C,M,,symbol 'WT1' present,623,novel wt1 mutation c388y in a female child with denys-drash syndrome,M
+Kidney Cancer,WT1,41495530,random,wt1,C,M,,symbol 'WT1' present,661,congenital nephrotic syndrome in a newborn with glycogen storage disease and wilms tumor 1 wt1 mutation,M
+Kidney Cancer,WT1,16245160,random,wt1,C,M,,symbol 'WT1' present,683,gonadal effects of a mouse denys-drash syndrome mutation,M
+Kidney Cancer,WT1,11479730,random,wagr|wt1,C,M,,symbol 'WT1' present,732,population-based risk estimates of wilms tumor in sporadic aniridia a comprehensive mutation screening procedure of pax6 identifies 80 of mu,M
+Kidney Cancer,WT1,27417956,random,wagr|wt1,C,M,,symbol 'WT1' present,761,clinical aspects of wt1 and the kidney,M
+Kidney Cancer,WT1,18273617,random,wt1,C,M,,symbol 'WT1' present,768,topotecan distribution in an anephric infant with therapy-resistant bilateral wilms tumor with a novel germline wt1 gene mutation,M
+Kidney Cancer,WT1,35211794,random,wt1,C,M,,symbol 'WT1' present,809,wt1 complete gonadal dysgenesis with membranoproliferative glomerulonephritis case series and literature review,M
+Kidney Cancer,WT1,15349765,random,wt1,C,M,,symbol 'WT1' present,819,a novel mutation of wt1 exon 9 in a patient with denys-drash syndrome and pyloric stenosis,M
+Kidney Cancer,WT1,12050205,random,wagr|wt1,C,M,,symbol 'WT1' present,869,an unusual phenotype of frasier syndrome due to ivs9 4c t mutation in the wt1 gene predominantly male ambiguous genitalia and absence of gon,M
+Kidney Cancer,WT1,20332316,random,wt1,C,ML,,symbol 'WT1' present,872,subtype-specific fbxw7 mutation and mycn copy number gain in wilms' tumor,ML
+Kidney Cancer,WT1,41099277,random,wt1,C,I,,symbol 'WT1' present,960,frequent braf v600e and tert promoter-mutated renal epithelial-predominant wilms tumours with metanephric features a distinct subset within ,I
+Kidney Cancer,BAP1,29978187,random,bap1,C,I,,symbol 'BAP1' present,4,prevalence of germline mutations in cancer susceptibility genes in patients with advanced renal cell carcinoma,I
+Kidney Cancer,BAP1,40306016,random,bap1,C,ML,,symbol 'BAP1' present,13,prediction tools for assessing functional impacts of gene mutations in clear cell renal cell carcinoma a comparative study,ML
+Kidney Cancer,BAP1,31653662,random,bap1,C,ML,,symbol 'BAP1' present,22,mutations and response to rapalogs in patients with metastatic renal cell carcinoma,ML
+Kidney Cancer,BAP1,35886066,random,bap1,C,ML,,symbol 'BAP1' present,44,comprehensive analysis of hmcn1 somatic mutation in clear cell renal cell carcinoma,ML
+Kidney Cancer,BAP1,38456787,random,bap1,C,M,,symbol 'BAP1' present,102,the prevalence and radiologic features of renal cancers associated with flcn bap1 sdh and met germline mutations,M
+Kidney Cancer,BAP1,25873077,random,bap1,C,I,,symbol 'BAP1' present,114,germline mutations in the cdkn2b tumor suppressor gene predispose to renal cell carcinoma,I
+Kidney Cancer,BAP1,26452128,random,bap1,C,M,,symbol 'BAP1' present,150,computational analysis of the mutations in bap1 pbrm1 and setd2 genes reveals the impaired molecular processes in renal cell carcinoma,M
+Kidney Cancer,BAP1,39263870,random,bap1,C,M,,symbol 'BAP1' present,187,differences in mutations across tumour sizes in clear-cell renal cell carcinoma,M
+Kidney Cancer,BAP1,33994165,random,bap1,C,I,,symbol 'BAP1' present,211,correlating immune cell infiltration patterns with recurrent somatic mutations in advanced clear cell renal cell carcinoma,I
+Kidney Cancer,BAP1,24029645,random,bap1,C,M,,symbol 'BAP1' present,258,radiogenomics of clear cell renal cell carcinoma associations between ct imaging features and mutations,M
+Kidney Cancer,BAP1,23620406,random,bap1,C,M,,symbol 'BAP1' present,260,adverse outcomes in clear cell renal cell carcinoma with mutations of 3p21 epigenetic regulators bap1 and setd2 a report by mskcc and the ki,M
+Kidney Cancer,BAP1,30660076,random,bap1,C,M,,symbol 'BAP1' present,261,expression and mutation patterns of pbrm1 bap1 and setd2 mirror specific evolutionary subtypes in clear cell renal cell carcinoma,M
+Kidney Cancer,BAP1,38933491,random,bap1,C,ML,,symbol 'BAP1' present,339,mutational profile of primary clear cell renal cell carcinoma predicts recurrence and potential candidacy for adjuvant immune checkpoint inh,ML
+Kidney Cancer,BAP1,30814637,random,bap1,C,M,,symbol 'BAP1' present,366,linking binary gene relationships to drivers of renal cell carcinoma reveals convergent function in alternate tumor progression paths,M
+Kidney Cancer,BAP1,35918352,random,bap1,C,M,,symbol 'BAP1' present,397,exploring synthetic lethal network for the precision treatment of clear cell renal cell carcinoma,M
+Kidney Cancer,BAP1,40233528,random,bap1,C,M,,symbol 'BAP1' present,398,insights into the impact of chromosome 3p mutations in advanced renal cell carcinoma treated with immune-based combinations or targeted ther,M
+Kidney Cancer,BAP1,31635476,random,bap1,C,M,,symbol 'BAP1' present,406,machine learning-based unenhanced ct texture analysis for predicting bap1 mutation status of clear cell renal cell carcinomas,M
+Kidney Cancer,BAP1,40750932,random,bap1,C,ML,,symbol 'BAP1' present,427,pembrolizumab plus axitinib versus sunitinib for advanced clear cell renal cell carcinoma 5-year survival and biomarker analyses of the phas,ML
+Kidney Cancer,BAP1,35654752,random,bap1,C,M,,symbol 'BAP1' present,454,intratumoral resolution of driver gene mutation heterogeneity in renal cancer using deep learning,M
+Kidney Cancer,BAP1,25753955,random,bap1,C,M,,symbol 'BAP1' present,461,radiogenomics of clear cell renal cell carcinoma preliminary findings of the cancer genome atlas-renal cell carcinoma tcga-rcc imaging resea,M
+Kidney Cancer,BAP1,24243779,random,bap1,C,M,,symbol 'BAP1' present,472,expanding the clinical phenotype of hereditary bap1 cancer predisposition syndrome reporting three new cases,M
+Kidney Cancer,BAP1,32860304,random,bap1,C,I,,symbol 'BAP1' present,476,genetic and epigenetic profiling indicates the proximal tubule origin of renal cancers in end-stage renal disease,I
+Kidney Cancer,BAP1,23333114,random,bap1,C,M,,symbol 'BAP1' present,477,effects on survival of bap1 and pbrm1 mutations in sporadic clear-cell renal-cell carcinoma a retrospective analysis with independent valida,M
+Kidney Cancer,BAP1,37976977,random,bap1,C,M,,symbol 'BAP1' present,487,morphological characteristics of setd2-mutated locally advanced clear cell renal cell carcinoma comparison with bap1-mutated clear cell rena,M
+Kidney Cancer,BAP1,24166983,random,bap1,C,M,,symbol 'BAP1' present,509,clinical and pathological impact of vhl pbrm1 bap1 setd2 kdm6a and jarid1c in clear cell renal cell carcinoma,M
+Kidney Cancer,BAP1,29132830,random,bap1,C,ML,,symbol 'BAP1' present,512,characterizing recurrent and lethal small renal masses in clear cell renal cell carcinoma using recurrent somatic mutations,ML
+Kidney Cancer,BAP1,23036577,random,bap1,C,M,,symbol 'BAP1' present,570,clinical and pathologic impact of select chromatin-modulating tumor suppressors in clear cell renal cell carcinoma,M
+Kidney Cancer,BAP1,25465300,random,bap1,C,M,,symbol 'BAP1' present,616,loss of pbrm1 and bap1 expression is less common in non-clear cell renal cell carcinoma than in clear cell renal cell carcinoma,M
+Kidney Cancer,BAP1,35444164,random,bap1,C,I,,symbol 'BAP1' present,624,evaluation of a seven gene mutational profile as a prognostic factor in a population-based study of clear cell renal cell carcinoma,I
+Kidney Cancer,BAP1,23709298,random,bap1,C,M,,symbol 'BAP1' present,645,a novel germline mutation in bap1 predisposes to familial clear-cell renal cell carcinoma,M
+Kidney Cancer,BAP1,40856833,random,bap1,C,M,,symbol 'BAP1' present,681,bap1 as a predictive biomarker of therapeutic response to oncolytic vaccinia virus for metastatic renal cell carcinoma therapy,M
+Kidney Cancer,BAP1,30886153,random,bap1,C,M,,symbol 'BAP1' present,703,clonal architectures predict clinical outcome in clear cell renal cell carcinoma,M
+Kidney Cancer,BAP1,32251007,random,bap1,C,I,,symbol 'BAP1' present,723,report from the international society of urological pathology isup consultation conference on molecular pathology of urogenital cancers iii ,I
+Kidney Cancer,BAP1,23832661,random,bap1,C,M,,symbol 'BAP1' present,728,cooperation and antagonism among cancer genes the renal cancer paradigm,M
+Kidney Cancer,BAP1,28793149,random,bap1,C,M,,symbol 'BAP1' present,766,genotypic and phenotypic features of bap1 cancer syndrome a report of 8 new families and review of cases in the literature,M
+Kidney Cancer,BAP1,28327121,random,bap1,C,M,,symbol 'BAP1' present,817,bap1 and pbrm1 in metastatic clear cell renal cell carcinoma tumor heterogeneity and concordance with paired primary tumor,M
+Kidney Cancer,BAP1,22949125,random,bap1,C,I,,symbol 'BAP1' present,861,loss of pbrm1 expression is associated with renal cell carcinoma progression,I
+Kidney Cancer,BAP1,31409087,random,bap1,C,M,,symbol 'BAP1' present,878,bap1 syndrome - predisposition to malignant mesothelioma skin and uveal melanoma renal and other cancers,M
+Kidney Cancer,BAP1,34215851,random,bap1,C,M,,symbol 'BAP1' present,901,spatial immunoprofiling of the intratumoral and peritumoral tissue of renal cell carcinoma patients,M
+Kidney Cancer,BAP1,39910301,random,bap1,C,ML,,symbol 'BAP1' present,922,a neoantigen vaccine generates antitumour immunity in renal cell carcinoma,ML
+Kidney Cancer,PBRM1,36911986,random,pbrm1,C,M,,symbol 'PBRM1' present,3,exploration of morphological features of clear cell renal cell carcinoma with pbrm1 setd2 bap1 or kdm5c mutations,M
+Kidney Cancer,PBRM1,34580025,random,pbrm1,C,ML,,symbol 'PBRM1' present,50,somatic mutations as preoperative predictors of metastases in patients with localized clear cell renal cell carcinoma - an exploratory analy,ML
+Kidney Cancer,PBRM1,25911086,random,pbrm1,C,M,,symbol 'PBRM1' present,67,a germline mutation in pbrm1 predisposes to renal cell carcinoma,M
+Kidney Cancer,PBRM1,36333181,random,pbrm1,C,ML,,symbol 'PBRM1' present,71,molecular portraits of clear cell ovarian and endometrial carcinoma with comparison to clear cell renal cell carcinoma,ML
+Kidney Cancer,PBRM1,26452128,random,pbrm1|polybromo 1,C,M,,symbol 'PBRM1' present,150,computational analysis of the mutations in bap1 pbrm1 and setd2 genes reveals the impaired molecular processes in renal cell carcinoma,M
+Kidney Cancer,PBRM1,22385958,random,pbrm1,C,M,,symbol 'PBRM1' present,202,single-cell exome sequencing reveals single-nucleotide mutation characteristics of a kidney tumor,M
+Kidney Cancer,PBRM1,33121461,random,pbrm1,C,ML,,symbol 'PBRM1' present,235,8q24 clear cell renal cell carcinoma germline variant is associated with vhl mutation status and clinical aggressiveness,ML
+Kidney Cancer,PBRM1,37079762,random,pbrm1|polybromo 1,C,M,,symbol 'PBRM1' present,243,significance of pbrm1 mutation in disease progress and drug selection in clear cell renal cell carcinoma,M
+Kidney Cancer,PBRM1,24029645,random,pbrm1,C,ML,,symbol 'PBRM1' present,258,radiogenomics of clear cell renal cell carcinoma associations between ct imaging features and mutations,ML
+Kidney Cancer,PBRM1,23620406,random,pbrm1,C,M,,symbol 'PBRM1' present,260,adverse outcomes in clear cell renal cell carcinoma with mutations of 3p21 epigenetic regulators bap1 and setd2 a report by mskcc and the ki,M
+Kidney Cancer,PBRM1,30660076,random,pbrm1,C,M,,symbol 'PBRM1' present,261,expression and mutation patterns of pbrm1 bap1 and setd2 mirror specific evolutionary subtypes in clear cell renal cell carcinoma,M
+Kidney Cancer,PBRM1,38933491,random,pbrm1,C,ML,,symbol 'PBRM1' present,339,mutational profile of primary clear cell renal cell carcinoma predicts recurrence and potential candidacy for adjuvant immune checkpoint inh,ML
+Kidney Cancer,PBRM1,26015515,random,pbrm1,C,I,,symbol 'PBRM1' present,377,sunitinib treatment exacerbates intratumoral heterogeneity in metastatic renal cancer,I
+Kidney Cancer,PBRM1,30277889,random,pbrm1,C,ML,,symbol 'PBRM1' present,378,reliable gene mutation prediction in clear cell renal cell carcinoma through multi-classifier multi-objective radiogenomics model,ML
+Kidney Cancer,PBRM1,32358509,random,pbrm1|polybromo 1,C,M,,symbol 'PBRM1' present,392,pbrm1 loss defines a nonimmunogenic tumor phenotype associated with checkpoint inhibitor resistance in renal carcinoma,M
+Kidney Cancer,PBRM1,29674707,random,pbrm1,C,I,,symbol 'PBRM1' present,422,targeted genomic landscape of metastases compared to primary tumours in clear cell metastatic renal cell carcinoma,I
+Kidney Cancer,PBRM1,39592856,random,pbrm1,C,M,,symbol 'PBRM1' present,425,understanding the biological processes of kidney carcinogenesis an integrative multi-omics approach,M
+Kidney Cancer,PBRM1,40750932,random,pbrm1|polybromo 1,C,M,,symbol 'PBRM1' present,427,pembrolizumab plus axitinib versus sunitinib for advanced clear cell renal cell carcinoma 5-year survival and biomarker analyses of the phas,M
+Kidney Cancer,PBRM1,35654752,random,pbrm1,C,M,,symbol 'PBRM1' present,454,intratumoral resolution of driver gene mutation heterogeneity in renal cancer using deep learning,M
+Kidney Cancer,PBRM1,32860304,random,pbrm1,C,I,,symbol 'PBRM1' present,476,genetic and epigenetic profiling indicates the proximal tubule origin of renal cancers in end-stage renal disease,I
+Kidney Cancer,PBRM1,25087671,random,pbrm1,C,M,,symbol 'PBRM1' present,478,commentary on effects on survival of bap1 and pbrm1 mutations in sporadic clear-cell renal-cell carcinoma a retrospective analysis with inde,M
+Kidney Cancer,PBRM1,27751729,random,pbrm1,C,M,,symbol 'PBRM1' present,508,genomic biomarkers of a randomized trial comparing first-line everolimus and sunitinib in patients with metastatic renal cell carcinoma,M
+Kidney Cancer,PBRM1,29132830,random,pbrm1,C,ML,,symbol 'PBRM1' present,512,characterizing recurrent and lethal small renal masses in clear cell renal cell carcinoma using recurrent somatic mutations,ML
+Kidney Cancer,PBRM1,23904343,random+targeted,polybromo 1,C,I,,credited via alias polybromo 1,595,inactivating mutations in swi snf chromatin remodeling genes in human cancer,I
+Kidney Cancer,PBRM1,33157048,random,pbrm1,C,M,,symbol 'PBRM1' present,604,molecular subsets in renal cancer determine outcome to checkpoint and angiogenesis blockade,M
+Kidney Cancer,PBRM1,25465300,random,pbrm1|polybromo 1,C,M,,symbol 'PBRM1' present,616,loss of pbrm1 and bap1 expression is less common in non-clear cell renal cell carcinoma than in clear cell renal cell carcinoma,M
+Kidney Cancer,PBRM1,35444164,random,pbrm1,C,M,,symbol 'PBRM1' present,624,evaluation of a seven gene mutational profile as a prognostic factor in a population-based study of clear cell renal cell carcinoma,M
+Kidney Cancer,PBRM1,34003534,targeted,baf180,C,G,,credited via alias baf180,625,succinate dehydrogenase-deficient renal cancer featuring fructose-1 6-biphosphatase loss pyruvate kinase m2 overexpression and swi snf chrom,G
+Kidney Cancer,PBRM1,32251007,random,pbrm1,C,I,,symbol 'PBRM1' present,723,report from the international society of urological pathology isup consultation conference on molecular pathology of urogenital cancers iii ,I
+Kidney Cancer,PBRM1,23832661,random,pbrm1,C,M,,symbol 'PBRM1' present,728,cooperation and antagonism among cancer genes the renal cancer paradigm,M
+Kidney Cancer,PBRM1,29754934,random,pbrm1,C,ML,,symbol 'PBRM1' present,758,comprehensive genomic profiling of metastatic tumors in a phase 2 biomarker study of everolimus in advanced renal cell carcinoma,ML
+Kidney Cancer,PBRM1,24158655,random,pbrm1,C,M,,symbol 'PBRM1' present,795,variation in chromatin accessibility in human kidney cancer links h3k36 methyltransferase loss with widespread rna processing defects,M
+Kidney Cancer,PBRM1,21248752,random,pbrm1,C,I,,symbol 'PBRM1' present,816,exome sequencing identifies frequent mutation of the swi snf complex gene pbrm1 in renal carcinoma,I
+Kidney Cancer,PBRM1,28327121,random,pbrm1,C,M,,symbol 'PBRM1' present,817,bap1 and pbrm1 in metastatic clear cell renal cell carcinoma tumor heterogeneity and concordance with paired primary tumor,M
+Kidney Cancer,PBRM1,36529627,random,pbrm1,C,M,,symbol 'PBRM1' present,847,prognostic role of long-chain acyl-coenzyme a synthetase family genes in patients with clear cell renal cell carcinoma a comprehensive bioin,M
+Kidney Cancer,PBRM1,39672382,random,pbrm1,C,I,,symbol 'PBRM1' present,855,biomarker analyses from the phase iii randomized clear trial lenvatinib plus pembrolizumab versus sunitinib in advanced renal cell carcinoma,I
+Kidney Cancer,PBRM1,22949125,random,pbrm1|polybromo 1,C,P,,symbol 'PBRM1' present,861,loss of pbrm1 expression is associated with renal cell carcinoma progression,P
+Kidney Cancer,PBRM1,25676555,random,pbrm1,C,M,,symbol 'PBRM1' present,874,tceb1-mutated renal cell carcinoma a distinct genomic and morphological subtype,M
+Kidney Cancer,PBRM1,34215851,random,pbrm1,C,M,,symbol 'PBRM1' present,901,spatial immunoprofiling of the intratumoral and peritumoral tissue of renal cell carcinoma patients,M
+Kidney Cancer,PBRM1,28710314,random,pbrm1,C,ML,,symbol 'PBRM1' present,944,sarcomatoid renal cell carcinoma has a distinct molecular pathogenesis driver mutation profile and transcriptional landscape,ML
+Kidney Cancer,PBRM1,35321833,random,pbrm1,C,P,,symbol 'PBRM1' present,970,establishing a prognostic model based on three genomic instability-related lncrnas for clear cell renal cell cancer,P
+Kidney Cancer,FH,29978187,random+targeted,fh,C,ML,,symbol 'FH' present,4,prevalence of germline mutations in cancer susceptibility genes in patients with advanced renal cell carcinoma,ML
+Kidney Cancer,FH,30548481,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,23,germline mutations of renal cancer predisposition genes and clinical relevance in chinese patients with sporadic early-onset disease,M
+Kidney Cancer,FH,20618355,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,26,hereditary leiomyomatosis and renal cell cancer in families referred for fumarate hydratase germline mutation analysis,M
+Kidney Cancer,FH,15937070,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,45,novel mutations in fh and expansion of the spectrum of phenotypes expressed in families with hereditary leiomyomatosis and renal cell cancer,M
+Kidney Cancer,FH,38279137,random,fh,C,M,,symbol 'FH' present,47,genetic and clinical characterization of a novel fh founder mutation in families with hereditary leiomyomatosis and renal cell cancer syndro,M
+Kidney Cancer,FH,25873077,targeted,fh,C,I,,symbol 'FH' present,114,germline mutations in the cdkn2b tumor suppressor gene predispose to renal cell carcinoma,I
+Kidney Cancer,FH,40012254,targeted,fh,C,M,,symbol 'FH' present,115,germline mutations in renal neoplasms and their clinicopathological correlations,M
+Kidney Cancer,FH,34488032,targeted,fh,C,I,,symbol 'FH' present,138,germline mutation in the nbr1 gene involved in autophagy detected in a family with renal tumors,I
+Kidney Cancer,FH,12761039,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,140,genetic and functional analyses of fh mutations in multiple cutaneous and uterine leiomyomatosis hereditary leiomyomatosis and renal cancer ,M
+Kidney Cancer,FH,12183404,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,143,few fh mutations in sporadic counterparts of tumor types observed in hereditary leiomyomatosis and renal cell cancer families,M
+Kidney Cancer,FH,42687010,random+targeted,fh,C,P,,symbol 'FH' present,151,aggressive high-grade papillary-patterned renal cell carcinomas harboring flcn mutations expanding the clinicopathological spectrum in birt-,P
+Kidney Cancer,FH,38181579,targeted,fumarate hydratase,C,P,,credited via alias fumarate hydratase,173,aggressive renal cell carcinoma with biphasic papillary and solid clear cell features harboring idh2 r172m mutation,P
+Kidney Cancer,FH,18413815,targeted,fumarate hydratase,C,I,,credited via alias fumarate hydratase,196,loss of complex i due to mitochondrial dna mutations in renal oncocytoma,I
+Kidney Cancer,FH,12772087,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,230,mutations in the fumarate hydratase gene cause hereditary leiomyomatosis and renal cell cancer in families in north america,M
+Kidney Cancer,FH,21398687,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,255,novel fh mutations in families with hereditary leiomyomatosis and renal cell cancer hlrcc and patients with isolated type 2 papillary renal ,M
+Kidney Cancer,FH,18503824,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,295,mutation screening of fumarate hydratase by multiplex ligation-dependent probe amplification detection of exonic deletion in a patient with ,M
+Kidney Cancer,FH,18986479,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,310,absence of fumarate hydratase mutation in a family with cutaneous leiomyosarcoma and renal cancer,M
+Kidney Cancer,FH,21733559,targeted,fumarate hydratase,C,M,,credited via alias fumarate hydratase,311,renal medullary carcinomas histopathologic phenotype associated with diverse genotypes,M
+Kidney Cancer,FH,36981015,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,348,a missense mutation c 1132g a in fumarate hydratase fh leads to hereditary leiomyomatosis and renal cell cancer hlrcc syndrome and insights ,M
+Kidney Cancer,FH,14695314,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,369,biallelic inactivation of fumarate hydratase fh occurs in nonsyndromic uterine leiomyomas but is rare in other tumors,M
+Kidney Cancer,FH,25923021,random+targeted,fumarate hydratase,C,M,,credited via alias fumarate hydratase,389,fumarate hydratase mutation in a young woman with uterine leiomyomas and a family history of renal cell cancer,M
+Kidney Cancer,FH,15220362,random+targeted,fh,C,M,,symbol 'FH' present,404,molecular genetic analysis of fih-1 fh and sdhb candidate tumour suppressor genes in renal cell carcinoma,M
+Kidney Cancer,FH,22014576,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,413,an antioxidant response phenotype shared between hereditary and sporadic type 2 papillary renal cell carcinoma,M
+Kidney Cancer,FH,37468236,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,444,clinical phenotype and genetic function analysis of a rare family with hereditary leiomyomatosis and renal cell carcinoma complicated with b,M
+Kidney Cancer,FH,30303819,targeted,fh,C,P,,symbol 'FH' present,448,somatic mutations of tsc2 or mtor characterize a morphologically distinct subset of sporadic renal cell carcinoma with eosinophilic and vacu,P
+Kidney Cancer,FH,17270241,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,462,conventional renal cancer in a patient with fumarate hydratase mutation,M
+Kidney Cancer,FH,31752777,random+targeted,fumarate hydratase,C,I,,credited via alias fumarate hydratase,521,nrf2 gene mutation and single nucleotide polymorphism rs6721961 of the nrf2 promoter region in renal cell cancer,I
+Kidney Cancer,FH,16237213,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,522,missense mutations in fumarate hydratase in multiple cutaneous and uterine leiomyomatosis and renal cell cancer,M
+Kidney Cancer,FH,33165095,random+targeted,fumarate hydratase,C,P,,credited via alias fumarate hydratase,533,multifocal renal cell carcinomas with somatic idh2 mutation report of a previously undescribed neoplasm,P
+Kidney Cancer,FH,42151595,targeted,fh,C,P,,symbol 'FH' present,558,highgrade renal cell carcinoma with somatic brca2 mutation and biphasic morphology an additional case expanding the morphological spectrum o,P
+Kidney Cancer,FH,37053010,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,559,circulating succinate-modifying metabolites accurately classify and reflect the status of fumarate hydratase-deficient renal cell carcinoma,M
+Kidney Cancer,FH,24684806,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,581,novel missense mutation in the fh gene in familial renal cell cancer patients lacking cutaneous leiomyomas,M
+Kidney Cancer,FH,35993574,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,597,a clinicopathologic and molecular analysis of fumarate hydratase-deficient pheochromocytoma and paraganglioma,M
+Kidney Cancer,FH,33414138,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,611,integrated molecular characterization of fumarate hydratase-deficient renal cell carcinoma,M
+Kidney Cancer,FH,38430974,random+targeted,fh,C,I,,symbol 'FH' present,618,dclre1b apollo germline mutations associated with renal cell carcinoma impair telomere protection,I
+Kidney Cancer,FH,31524643,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,673,a clinicopathologic and molecular analysis of fumarate hydratase-deficient renal cell carcinoma in 32 patients,M
+Kidney Cancer,FH,17034471,targeted,fumarate hydratase,C,M,,credited via alias fumarate hydratase,707,the syndrome of hereditary leiomyomatosis and renal cell cancer hlrcc the clinical features of an individual with a fumarate hydratase gene ,M
+Kidney Cancer,FH,32251007,random,fh|fumarate hydratase,C,P,,symbol 'FH' present,723,report from the international society of urological pathology isup consultation conference on molecular pathology of urogenital cancers iii ,P
+Kidney Cancer,FH,36495298,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,726,morphologic characteristics and mutational analysis of fumarate hydratase deficient kidney and smooth muscle tumors,M
+Kidney Cancer,FH,39980061,random+targeted,fumarate hydratase,C,I,,credited via alias fumarate hydratase,739,whole exome sequencing identified mutations of forkhead box i 1 foxi1 keratin 6 c krt6c and gap junction protein delta 2 gjd2 in a low-grade,I
+Kidney Cancer,FH,21630274,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,808,aberrant succination of proteins in fumarate hydratase-deficient mice and hlrcc patients is a robust biomarker of mutation status,M
+Kidney Cancer,FH,39613564,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,823,fumarate hydratase-deficient renal cell carcinoma a single institution-based study of 29 patients by clinicopathological immunohistochemical,M
+Kidney Cancer,FH,36074152,targeted,fumarate hydratase,C,P,,credited via alias fumarate hydratase,837,genomic characteristics and single-cell profiles after immunotherapy in fumarate hydratase-deficient renal cell carcinoma,P
+Kidney Cancer,FH,15663510,targeted,fumarate hydratase,C,M,,credited via alias fumarate hydratase,844,familial multiple cutaneous and uterine leiomyomas associated with papillary renal cell cancer,M
+Kidney Cancer,FH,27161211,random,fh,C,M,,symbol 'FH' present,858,complete penetrance and absence of intrafamilial variability in a large family with hereditary leiomyomatosis and renal cell carcinoma,M
+Kidney Cancer,FH,25800244,targeted,fh,C,M,,symbol 'FH' present,895,familial pheochromocytoma and renal cell carcinoma syndrome tmem127 as a novel candidate gene for the association,M
+Kidney Cancer,FH,41560567,random+targeted,fh,C,I,,symbol 'FH' present,898,hemangioblastoma of the kidney-a comprehensive clinical pathological and genetic analysis of four cases,I
+Kidney Cancer,FH,37316640,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,924,in deep bioinformatic characterization of a novel fumarate hydratase variant fh c 199t g p tyr67asp in hereditary leiomyomatosis and renal c,M
+Kidney Cancer,FH,41731704,random+targeted,fh,C,P,,symbol 'FH' present,931,brca2 and nf2 -mutated high-grade renal cell carcinoma a case report and literature review,P
+Kidney Cancer,FH,40304778,random,fh|fumarate hydratase,C,M,,symbol 'FH' present,955,clinicopathological and molecular features of so-called low-grade oncocytic fumarate hydratase-deficient renal cell carcinoma a study of 5 c,M
+Kidney Cancer,FH,34654685,random+targeted,fh,C,P,,symbol 'FH' present,963,germline variants identified in patients with early-onset renal cell carcinoma referred for germline genetic testing,P
+Kidney Cancer,FH,39562336,targeted,fumarate hydratase,C,G,,credited via alias fumarate hydratase,980,morphological diversity in sdh-deficient renal carcinomas a three-case exploration of variant features and dedifferentiation,G
+Kidney Cancer,FH,26447894,random,fh,C,M,,symbol 'FH' present,989,molecular genetic alterations in renal cell carcinomas with tubulocystic pattern tubulocystic renal cell carcinoma tubulocystic renal cell c,M
+Kidney Cancer,FLCN,15852235,all,flcn|folliculin,C,M,,symbol 'FLCN' present,1,germline bhd-mutation spectrum and phenotype analysis of a large cohort of families with birt-hogg-dube syndrome,M
+Kidney Cancer,FLCN,42000053,all,flcn,C,M,,symbol 'FLCN' present,8,renal tumors harboring flcn mutations case series from clinical practice,M
+Kidney Cancer,FLCN,35477461,all,flcn,C,M,,symbol 'FLCN' present,24,genetic insight into birt-hogg-dube syndrome in indian patients reveals novel mutations at flcn,M
+Kidney Cancer,FLCN,18728283,all,flcn,C,M,,symbol 'FLCN' present,69,germline sdhb mutations and familial renal cell carcinoma,M
+Kidney Cancer,FLCN,35691222,all,flcn|folliculin,C,M,,symbol 'FLCN' present,86,a novel missense mutation in the folliculin gene associated with the renal tumor-only phenotype of birt-hogg-dube syndrome,M
+Kidney Cancer,FLCN,27258496,all,flcn,C,M,,symbol 'FLCN' present,92,case report of birt-hogg-dube syndrome germline mutations of flcn detected in patients with renal cancer and thyroid cancer,M
+Kidney Cancer,FLCN,38456787,all,flcn,C,M,,symbol 'FLCN' present,102,the prevalence and radiologic features of renal cancers associated with flcn bap1 sdh and met germline mutations,M
+Kidney Cancer,FLCN,25873077,all,flcn,C,I,,symbol 'FLCN' present,114,germline mutations in the cdkn2b tumor suppressor gene predispose to renal cell carcinoma,I
+Kidney Cancer,FLCN,40012254,all,flcn,C,I,,symbol 'FLCN' present,115,germline mutations in renal neoplasms and their clinicopathological correlations,I
+Kidney Cancer,FLCN,28499369,all,flcn,C,M,,symbol 'FLCN' present,122,characterization of a splice-site mutation in the tumor suppressor gene flcn associated with renal cancer,M
+Kidney Cancer,FLCN,22146830,all,flcn,C,M,,symbol 'FLCN' present,124,renal cancer and pneumothorax risk in birt-hogg-dube syndrome an analysis of 115 flcn mutation carriers from 35 bhd families,M
+Kidney Cancer,FLCN,34488032,all,flcn,C,I,,symbol 'FLCN' present,138,germline mutation in the nbr1 gene involved in autophagy detected in a family with renal tumors,I
+Kidney Cancer,FLCN,19733897,all,flcn|folliculin,C,M,,symbol 'FLCN' present,149,novel intronic germline flcn gene mutation in a patient with multiple ipsilateral renal neoplasms,M
+Kidney Cancer,FLCN,42687010,all,flcn|folliculin,C,M,,symbol 'FLCN' present,151,aggressive high-grade papillary-patterned renal cell carcinomas harboring flcn mutations expanding the clinicopathological spectrum in birt-,M
+Kidney Cancer,FLCN,23264078,all,flcn|folliculin,C,M,,symbol 'FLCN' present,155,a de novo flcn mutation in a patient with spontaneous pneumothorax and renal cancer a clinical and molecular evaluation,M
+Kidney Cancer,FLCN,23874397,all,flcn|folliculin,C,M,,symbol 'FLCN' present,158,human folliculin delays cell cycle progression through late s and g2 m-phases effect of phosphorylation and tumor associated mutations,M
+Kidney Cancer,FLCN,38127826,all,flcn,C,ML,,symbol 'FLCN' present,188,pathogenic germline mutational landscape in patients with renal cell carcinoma and associated clinicopathologic features,ML
+Kidney Cancer,FLCN,17611575,all,flcn,C,M,,symbol 'FLCN' present,268,birt-hogg-dube syndrome clinical and genetic studies of 20 families,M
+Kidney Cancer,FLCN,26603437,all,flcn,C,M,,symbol 'FLCN' present,280,are lung cysts in renal cell cancer rcc patients an indication for flcn mutation analysis,M
+Kidney Cancer,FLCN,19562744,all,flcn|folliculin,C,M,,symbol 'FLCN' present,297,the folliculin mutation database an online database of mutations associated with birt-hogg-dube syndrome,M
+Kidney Cancer,FLCN,14961590,all,folliculin,C,M,,credited via alias folliculin,322,lack of mutation of the folliculin gene in sporadic chromophobe renal cell carcinoma and renal oncocytoma,M
+Kidney Cancer,FLCN,18219524,all,flcn,C,M,,symbol 'FLCN' present,329,second hits in the flcn gene in a hereditary renal cancer syndrome in dogs,M
+Kidney Cancer,FLCN,28805452,all,flcn,C,M,,symbol 'FLCN' present,343,birt-hogg-dube syndrome with a novel mutation in the flcn gene,M
+Kidney Cancer,FLCN,25594584,all,flcn|folliculin,C,M,,symbol 'FLCN' present,354,distinctive expression patterns of glycoprotein non-metastatic b and folliculin in renal tumors in patients with birt-hogg-dube syndrome,M
+Kidney Cancer,FLCN,20522427,all,flcn,C,M,,symbol 'FLCN' present,373,investigation of the birt-hogg-dube tumour suppressor gene flcn in familial and sporadic colorectal cancer,M
+Kidney Cancer,FLCN,37468236,all,flcn,C,M,,symbol 'FLCN' present,444,clinical phenotype and genetic function analysis of a rare family with hereditary leiomyomatosis and renal cell carcinoma complicated with b,M
+Kidney Cancer,FLCN,42423092,all,flcn|folliculin,C,M,,symbol 'FLCN' present,510,histiocyte-rich renal epithelial neoplasm a morphology associated with folliculin mutations and birt-hogg-dube syndrome,M
+Kidney Cancer,FLCN,27991910,all,flcn|folliculin,C,M,,symbol 'FLCN' present,511,establishment and characterization of bhd-f59rsvt an immortalized cell line derived from a renal cell carcinoma in a patient with birt-hogg-,M
+Kidney Cancer,FLCN,27220747,all,flcn|folliculin,C,M,,symbol 'FLCN' present,528,genetic epidemiologic and clinicopathologic studies of japanese asian patients with birt-hogg-dube syndrome,M
+Kidney Cancer,FLCN,36859772,all,flcn|folliculin,C,M,,symbol 'FLCN' present,573,colon adenocarcinoma and birt-hogg-dube syndrome in a young patient case report and exploration of pathologic implications,M
+Kidney Cancer,FLCN,19802896,all,flcn|folliculin,C,M,,symbol 'FLCN' present,583,a new locus-specific database lsdb for mutations in the folliculin flcn gene,M
+Kidney Cancer,FLCN,38430974,all,flcn,C,I,,symbol 'FLCN' present,618,dclre1b apollo germline mutations associated with renal cell carcinoma impair telomere protection,I
+Kidney Cancer,FLCN,34229741,all,flcn|folliculin,C,M,,symbol 'FLCN' present,619,novel folliculin gene mutations in polish patients with birt-hogg-dube syndrome,M
+Kidney Cancer,FLCN,28891800,all,flcn,C,M,,symbol 'FLCN' present,631,a novel heterozygous mutation in the birt-hogg-dube syndrome,M
+Kidney Cancer,FLCN,28007907,all,flcn|folliculin,C,M,,symbol 'FLCN' present,644,h255y and k508r missense mutations in tumour suppressor folliculin flcn promote kidney cell proliferation,M
+Kidney Cancer,FLCN,18437022,all,flcn|folliculin,C,M,,symbol 'FLCN' present,651,a case of birt-hogg-dube syndrome,M
+Kidney Cancer,FLCN,17124507,all,folliculin,C,M,,credited via alias folliculin,666,novel mutations in the bhd gene and absence of loss of heterozygosity in fibrofolliculomas of birt-hogg-dube patients,M
+Kidney Cancer,FLCN,36258004,all,flcn|folliculin,C,M,,symbol 'FLCN' present,677,heterozygous germline flcn mutation in birt-hogg-dube syndrome with bilateral renal hybrid oncocytic chromophobe tumor and unilateral renal ,M
+Kidney Cancer,FLCN,21781069,all,flcn,C,M,,symbol 'FLCN' present,690,birt-hogg-dube syndrome in a patient with localized fibrofolliculomas and a novel mutation in the flcn gene,M
+Kidney Cancer,FLCN,12204536,all,folliculin,C,P,,credited via alias folliculin,710,mutations in a novel gene lead to kidney tumors lung wall defects and benign tumors of the hair follicle in patients with the birt-hogg-dube,P
+Kidney Cancer,FLCN,22211584,all,flcn|folliculin,C,M,,symbol 'FLCN' present,731,flcn gene-mutated renal cell neoplasms mother and daughter cases with a novel germline mutation,M
+Kidney Cancer,FLCN,40321032,all,flcn|folliculin,C,M,,symbol 'FLCN' present,759,clinically sporadic folliculin -mutated renal epithelial neoplasms represent a mixture of true somatic folliculin -mutated and occult birt-h,M
+Kidney Cancer,FLCN,37170274,all,flcn|folliculin,C,M,,symbol 'FLCN' present,767,exons 1-3 deletion in flcn is associated with increased risk of pneumothorax in chinese patients with birt-hogg-dube syndrome,M
+Kidney Cancer,FLCN,18573707,all,flcn|folliculin,C,M,,symbol 'FLCN' present,780,birt-hogg-dube bhd syndrome report of two novel germline mutations in the folliculin flcn gene,M
+Kidney Cancer,FLCN,22871425,all,flcn|folliculin,C,M,,symbol 'FLCN' present,798,nodular dermatofibrosis in a dog without a renal tumour or a mutation in the folliculin gene,M
+Kidney Cancer,FLCN,18794106,all,flcn,C,M,,symbol 'FLCN' present,805,familial non-vhl clear cell conventional renal cell carcinoma clinical features segregation analysis and mutation analysis of flcn,M
+Kidney Cancer,FLCN,19785621,all,flcn,C,M,,symbol 'FLCN' present,822,birt-hogg-dube syndrome clinical and genetic studies of 10 french families,M
+Kidney Cancer,FLCN,21412933,all,flcn|folliculin,C,M,,symbol 'FLCN' present,839,identification of intragenic deletions and duplication in the flcn gene in birt-hogg-dube syndrome,M
+Kidney Cancer,FLCN,28623476,all,flcn|folliculin,C,M,,symbol 'FLCN' present,848,early onset renal cell carcinoma in an adolescent girl with germline flcn exon 5 deletion,M
+Kidney Cancer,FLCN,31778855,all,flcn|folliculin,C,M,,symbol 'FLCN' present,978,a case of birt-hogg-dube syndrome implying reduced or no wild-type folliculin without mutated protein is pathogenic,M
+Kidney Cancer,SETD2,36911986,random,setd2,C,M,,symbol 'SETD2' present,3,exploration of morphological features of clear cell renal cell carcinoma with pbrm1 setd2 bap1 or kdm5c mutations,M
+Kidney Cancer,SETD2,40306016,random,setd2,C,I,,symbol 'SETD2' present,13,prediction tools for assessing functional impacts of gene mutations in clear cell renal cell carcinoma a comparative study,I
+Kidney Cancer,SETD2,31653662,random,setd2,C,ML,,symbol 'SETD2' present,22,mutations and response to rapalogs in patients with metastatic renal cell carcinoma,ML
+Kidney Cancer,SETD2,37515929,random,setd2,C,M,,symbol 'SETD2' present,29,gene mutation profiling and clinical significances in patients with renal cell carcinoma,M
+Kidney Cancer,SETD2,34580025,random,setd2,C,M,,symbol 'SETD2' present,50,somatic mutations as preoperative predictors of metastases in patients with localized clear cell renal cell carcinoma - an exploratory analy,M
+Kidney Cancer,SETD2,30416077,random,setd2,C,I,,symbol 'SETD2' present,156,genomically annotated risk model for advanced renal-cell carcinoma a retrospective cohort study,I
+Kidney Cancer,SETD2,20032376,targeted,hif 1,X,I,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",213,mutation analysis of hypoxia-inducible factors hif1a and hif2a in renal cell carcinoma,I
+Kidney Cancer,SETD2,29066084,random,setd2,C,M,,symbol 'SETD2' present,254,comparative genomic profiling of matched primary and metastatic tumors in renal cell carcinoma,M
+Kidney Cancer,SETD2,24029645,random,setd2,C,ML,,symbol 'SETD2' present,258,radiogenomics of clear cell renal cell carcinoma associations between ct imaging features and mutations,ML
+Kidney Cancer,SETD2,23620406,random,setd2,C,M,,symbol 'SETD2' present,260,adverse outcomes in clear cell renal cell carcinoma with mutations of 3p21 epigenetic regulators bap1 and setd2 a report by mskcc and the ki,M
+Kidney Cancer,SETD2,26891804,random,setd2,C,G,,symbol 'SETD2' present,345,genomic profiling of the genes on chromosome 3p in sporadic clear cell renal cell carcinoma,G
+Kidney Cancer,SETD2,12781449,targeted,hif 1,X,P,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",363,expression of hif-1 and ubiquitin in conventional renal cell carcinoma relationship to mutations of the von hippel-lindau tumor suppressor g,P
+Kidney Cancer,SETD2,12853836,targeted,hif 1,X,M,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",364,overproduction of vascular endothelial growth factor related to von hippel-lindau tumor suppressor gene mutations and hypoxia-inducible fact,M
+Kidney Cancer,SETD2,40233528,random,setd2,C,M,,symbol 'SETD2' present,398,insights into the impact of chromosome 3p mutations in advanced renal cell carcinoma treated with immune-based combinations or targeted ther,M
+Kidney Cancer,SETD2,15220362,targeted,hif 1,X,G,target,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",404,molecular genetic analysis of fih-1 fh and sdhb candidate tumour suppressor genes in renal cell carcinoma,G
+Kidney Cancer,SETD2,29674707,random,setd2,C,I,,symbol 'SETD2' present,422,targeted genomic landscape of metastases compared to primary tumours in clear cell metastatic renal cell carcinoma,I
+Kidney Cancer,SETD2,39592856,random,setd2,C,M,,symbol 'SETD2' present,425,understanding the biological processes of kidney carcinogenesis an integrative multi-omics approach,M
+Kidney Cancer,SETD2,35654752,random,setd2,C,M,,symbol 'SETD2' present,454,intratumoral resolution of driver gene mutation heterogeneity in renal cancer using deep learning,M
+Kidney Cancer,SETD2,25753955,random,setd2,C,ML,,symbol 'SETD2' present,461,radiogenomics of clear cell renal cell carcinoma preliminary findings of the cancer genome atlas-renal cell carcinoma tcga-rcc imaging resea,ML
+Kidney Cancer,SETD2,37976977,random,setd2,C,M,,symbol 'SETD2' present,487,morphological characteristics of setd2-mutated locally advanced clear cell renal cell carcinoma comparison with bap1-mutated clear cell rena,M
+Kidney Cancer,SETD2,41785935,random,setd2,C,I,,symbol 'SETD2' present,502,clinical pathologic and molecular profiles of sarcomatoid and rhabdoid differentiated clear cell renal cell carcinoma a series of 21 tumors,I
+Kidney Cancer,SETD2,27751729,random,setd2,C,ML,,symbol 'SETD2' present,508,genomic biomarkers of a randomized trial comparing first-line everolimus and sunitinib in patients with metastatic renal cell carcinoma,ML
+Kidney Cancer,SETD2,24166983,random,setd2,C,ML,,symbol 'SETD2' present,509,clinical and pathological impact of vhl pbrm1 bap1 setd2 kdm6a and jarid1c in clear cell renal cell carcinoma,ML
+Kidney Cancer,SETD2,22397650,random,setd2,C,ML,,symbol 'SETD2' present,552,intratumor heterogeneity and branched evolution revealed by multiregion sequencing,ML
+Kidney Cancer,SETD2,25124064,random,setd2,C,ML,,symbol 'SETD2' present,632,the impact of genetic heterogeneity on biomarker development in kidney cancer assessed by multiregional sampling,ML
+Kidney Cancer,SETD2,23902947,targeted,hif 1,X,M,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",656,identification of somatic vhl gene mutations in sporadic head and neck paragangliomas in association with activation of the hif-1 mir-210 si,M
+Kidney Cancer,SETD2,39732963,random,setd2,C,M,,symbol 'SETD2' present,688,development and validation of a prognostic model based on m6a-related lncrnas to predict prognosis for papillary renal cell cancer patients,M
+Kidney Cancer,SETD2,23792563,random,setd2,C,I,,symbol 'SETD2' present,718,comprehensive molecular characterization of clear cell renal cell carcinoma,I
+Kidney Cancer,SETD2,32251007,random,setd2,C,I,,symbol 'SETD2' present,723,report from the international society of urological pathology isup consultation conference on molecular pathology of urogenital cancers iii ,I
+Kidney Cancer,SETD2,23832661,random,setd2,C,M,,symbol 'SETD2' present,728,cooperation and antagonism among cancer genes the renal cancer paradigm,M
+Kidney Cancer,SETD2,25528216,random,setd2,C,M,,symbol 'SETD2' present,749,loss of mlh1 confers resistance to pi3k inhibitors in renal clear cell carcinoma with setd2 mutation,M
+Kidney Cancer,SETD2,39703069,random+targeted,hif 1,X,M,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",754,machine learning-based pathomics model to predict the prognosis in clear cell renal cell carcinoma,M
+Kidney Cancer,SETD2,29754934,random,setd2,C,ML,,symbol 'SETD2' present,758,comprehensive genomic profiling of metastatic tumors in a phase 2 biomarker study of everolimus in advanced renal cell carcinoma,ML
+Kidney Cancer,SETD2,32661119,random,setd2,C,I,,symbol 'SETD2' present,771,correlates of clinical benefit from immunotherapy and targeted therapy in metastatic renal cell carcinoma comprehensive genomic and transcri,I
+Kidney Cancer,SETD2,27595394,random+targeted,hif 1,X,M,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",774,targeting renal cell carcinoma with a hif-2 antagonist,M
+Kidney Cancer,SETD2,23881929,targeted,hif 1,X,M,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",790,the role of aberrant vhl hif pathway elements in predicting clinical outcome to pazopanib therapy in patients with metastatic clear-cell ren,M
+Kidney Cancer,SETD2,24158655,random,setd2,C,M,,symbol 'SETD2' present,795,variation in chromatin accessibility in human kidney cancer links h3k36 methyltransferase loss with widespread rna processing defects,M
+Kidney Cancer,SETD2,20054297,random,setd2,C,I,,symbol 'SETD2' present,811,systematic sequencing of renal carcinoma reveals inactivation of histone modifying genes,I
+Kidney Cancer,SETD2,21248752,random,setd2,C,G,,symbol 'SETD2' present,816,exome sequencing identifies frequent mutation of the swi snf complex gene pbrm1 in renal carcinoma,G
+Kidney Cancer,SETD2,36591111,random,setd2,C,ML,,symbol 'SETD2' present,825,hybrid metabolic activity-related prognostic model and its effect on tumor in renal cell carcinoma,ML
+Kidney Cancer,SETD2,26111976,random,setd2,C,M,,symbol 'SETD2' present,852,intratumoral morphologic and molecular heterogeneity of rhabdoid renal cell carcinoma challenges for personalized therapy,M
+Kidney Cancer,SETD2,22949125,random,setd2,C,I,,symbol 'SETD2' present,861,loss of pbrm1 expression is associated with renal cell carcinoma progression,I
+Kidney Cancer,SETD2,11431362,targeted,hif 1,X,I,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",879,constitutive activation of hypoxia-inducible genes related to overexpression of hypoxia-inducible factor-1alpha in clear cell renal carcinom,I
+Kidney Cancer,SETD2,26536169,random,setd2,C,ML,,symbol 'SETD2' present,928,comprehensive molecular characterization of papillary renal-cell carcinoma,ML
+Kidney Cancer,SETD2,24294381,random+targeted,hif 1,X,P,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",935,clear cell papillary renal cell carcinoma a clinicopathological study emphasizing ultrastructural features and cytogenetic heterogeneity,P
+Kidney Cancer,SETD2,28624320,random+targeted,hif 1,X,W,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",937,prognostic value of the vhl hif-1 and vegf signaling pathway and associated mapk erk1 2 and erk5 pathways in clear-cell renal cell carcinoma,W
+Kidney Cancer,SETD2,31727677,targeted,hif 1,X,G,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",952,hif-2 complex dissociation target inhibition and acquired resistance with pt2385 a first-in-class hif-2 inhibitor in patients with clear cel,G
+Kidney Cancer,SETD2,28963640,random+targeted,hif 1,X,I,,"credited only via the alias 'HIF-1', which in these abstracts is hypoxia-inducible factor 1",995,development of response classifier for vascular endothelial growth factor receptor vegfr -tyrosine kinase inhibitor tki in metastatic renal ,I
+Kidney Cancer,TP53,28862265,all,tp53,C,M,,symbol 'TP53' present,19,anaplastic sarcomas of the kidney are characterized by dicer1 mutations,M
+Kidney Cancer,TP53,31653662,all,tp53,C,I,,symbol 'TP53' present,22,mutations and response to rapalogs in patients with metastatic renal cell carcinoma,I
+Kidney Cancer,TP53,25670083,all,tp53,C,ML,,symbol 'TP53' present,32,mutations in the six1 2 pathway and the drosha dgcr8 mirna microprocessor complex underlie high-risk blastemal type wilms tumors,ML
+Kidney Cancer,TP53,39369320,all,tp53,C,I,,symbol 'TP53' present,33,double hit in clear-cell renal cell carcinoma with germline pathogenic atm mutation and somatic vhl mutation,I
+Kidney Cancer,TP53,29172931,all,tp53,C,M,,symbol 'TP53' present,56,hif2a germline-mutation-induced polycythemia in a patient with vhl-associated renal-cell carcinoma,M
+Kidney Cancer,TP53,36333181,all,tp53,C,M,,symbol 'TP53' present,71,molecular portraits of clear cell ovarian and endometrial carcinoma with comparison to clear cell renal cell carcinoma,M
+Kidney Cancer,TP53,27702824,all,tp53,C,M,,symbol 'TP53' present,90,significance of tp53 mutation in wilms tumors with diffuse anaplasia a report from the children's oncology group,M
+Kidney Cancer,TP53,27741505,all,tp53,C,ML,,symbol 'TP53' present,93,wide spetcrum mutational analysis of metastatic renal cell cancer a retrospective next generation sequencing approach,ML
+Kidney Cancer,TP53,25313908,all,tp53,C,M,,symbol 'TP53' present,126,tp53 mutational status is a potential marker for risk stratification in wilms tumour with diffuse anaplasia,M
+Kidney Cancer,TP53,40119186,all,tp53,C,ML,,symbol 'TP53' present,128,genomic analysis of small renal masses reveals mutations linked with renal cell carcinoma and fast-growing tumors,ML
+Kidney Cancer,TP53,37354253,all,tp53,C,I,,symbol 'TP53' present,134,tuberous sclerosis complex mutations in patients with pancreatic neuroendocrine tumors observations on phenotypic and treatment-related asso,I
+Kidney Cancer,TP53,30416077,all,tp53,C,M,,symbol 'TP53' present,156,genomically annotated risk model for advanced renal-cell carcinoma a retrospective cohort study,M
+Kidney Cancer,TP53,32066305,all,tp53,C,M,,symbol 'TP53' present,165,association between tp53 mutation and prognosis in wilms tumor a meta-analysis,M
+Kidney Cancer,TP53,28601352,all,tp53,C,ML,,symbol 'TP53' present,167,comprehensive genomic characterization of upper tract urothelial carcinoma,ML
+Kidney Cancer,TP53,28222777,all,tp53,C,M,,symbol 'TP53' present,171,identification of somatic and germ-line dicer1 mutations in pleuropulmonary blastoma cystic nephroma and rhabdomyosarcoma tumors within a di,M
+Kidney Cancer,TP53,28052007,all,tp53,C,G,,symbol 'TP53' present,186,vhl missense mutations in the p53 binding domain show different effects on p53 signaling and hif degradation in clear cell renal cell carcin,G
+Kidney Cancer,TP53,33994165,all,tp53,C,I,,symbol 'TP53' present,211,correlating immune cell infiltration patterns with recurrent somatic mutations in advanced clear cell renal cell carcinoma,I
+Kidney Cancer,TP53,32228295,all,tp53,C,M,,symbol 'TP53' present,214,muscle-invasive urothelial cancer association of mutational status with metastatic pattern and survival,M
+Kidney Cancer,TP53,28753773,all,tp53,C,M,,symbol 'TP53' present,229,integration of recurrent somatic mutations with clinical outcomes a pooled analysis of 1049 patients with clear cell renal cell carcinoma,M
+Kidney Cancer,TP53,40712109,all,tp53,C,G,,symbol 'TP53' present,277,genomic landscape and clinical relevance in chinese patients with upper tract urothelial carcinoma,G
+Kidney Cancer,TP53,36586494,all,tp53|tumor protein p53,C,M,,symbol 'TP53' present,287,semantic computed tomography features for predicting brca1-associated protein 1 and or tumor protein p53 gene mutation status in clear cell ,M
+Kidney Cancer,TP53,42655970,all,tp53,C,M,,symbol 'TP53' present,298,integrating molecular classification based on fgfr3 kras hras and tp53 mutation with tnm staging modestly improves prediction of prognosis o,M
+Kidney Cancer,TP53,25749049,all,tp53,C,M,,symbol 'TP53' present,387,multiple mechanisms of mycn dysregulation in wilms tumour,M
+Kidney Cancer,TP53,38775158,all,tp53,C,M,,symbol 'TP53' present,421,molecular underpinnings of dedifferentiation and aggressiveness in chromophobe renal cell carcinoma,M
+Kidney Cancer,TP53,29674707,all,tp53,C,ML,,symbol 'TP53' present,422,targeted genomic landscape of metastases compared to primary tumours in clear cell metastatic renal cell carcinoma,ML
+Kidney Cancer,TP53,33556910,all,tp53,C,ML,,symbol 'TP53' present,426,broad spectrum mutational analysis of chromophobe renal cell carcinoma using next-generation sequencing,ML
+Kidney Cancer,TP53,36905177,all,tp53,C,M,,symbol 'TP53' present,430,wilms' tumor 1 expression combined with genetic mutations for prognostic assessment in mds,M
+Kidney Cancer,TP53,32860304,all,tp53,C,I,,symbol 'TP53' present,476,genetic and epigenetic profiling indicates the proximal tubule origin of renal cancers in end-stage renal disease,I
+Kidney Cancer,TP53,24038938,all,tp53,C,M,,symbol 'TP53' present,480,association of tp53 polymorphisms on the risk of wilms tumor,M
+Kidney Cancer,TP53,30536551,all,tp53,C,M,,symbol 'TP53' present,493,clinical significance of the mutational landscape and fragmentation of circulating tumor dna in renal cell carcinoma,M
+Kidney Cancer,TP53,41785935,all,tp53,C,M,,symbol 'TP53' present,502,clinical pathologic and molecular profiles of sarcomatoid and rhabdoid differentiated clear cell renal cell carcinoma a series of 21 tumors,M
+Kidney Cancer,TP53,11793443,all,tp53,C,M,,symbol 'TP53' present,520,discordance of genetic alterations between primary head and neck tumors and corresponding metastases associated with mutational status of th,M
+Kidney Cancer,TP53,20137853,all,tp53,C,M,,symbol 'TP53' present,529,tp53 egfr and kras mutations in relation to vhl inactivation and lifestyle risk factors in renal-cell carcinoma from central and eastern eur,M
+Kidney Cancer,TP53,28049139,all,tp53,C,M,,symbol 'TP53' present,575,a randomized phase 2 study of mk-2206 versus everolimus in refractory renal cell carcinoma,M
+Kidney Cancer,TP53,39654327,all,tp53,C,M,,symbol 'TP53' present,591,diagnostic and prognostic genomic aberrations in upper tract urothelial carcinoma can be identified in focal barbotage samples,M
+Kidney Cancer,TP53,33157048,all,tp53,C,M,,symbol 'TP53' present,604,molecular subsets in renal cancer determine outcome to checkpoint and angiogenesis blockade,M
+Kidney Cancer,TP53,35444164,all,tp53,C,ML,,symbol 'TP53' present,624,evaluation of a seven gene mutational profile as a prognostic factor in a population-based study of clear cell renal cell carcinoma,ML
+Kidney Cancer,TP53,32616874,all,tp53,C,M,,symbol 'TP53' present,630,molecular characterization of chromophobe renal cell carcinoma reveals mtor pathway alterations in patients with poor outcome,M
+Kidney Cancer,TP53,30986100,all,tp53,C,I,,symbol 'TP53' present,648,design of a targeted sequencing assay to detect rare mutations in circulating tumor dna,I
+Kidney Cancer,TP53,26278805,all,tp53,C,M,,symbol 'TP53' present,650,genomic characterization of upper tract urothelial carcinoma,M
+Kidney Cancer,TP53,30543698,all,tp53,C,M,,symbol 'TP53' present,664,a unique subset of low-risk wilms tumors is characterized by loss of function of trim28 kap1 a gene critical in early renal development a ch,M
+Kidney Cancer,TP53,34980496,all,tp53,C,M,,symbol 'TP53' present,696,molecular genetic determinants of shorter time on active surveillance in a prospective phase 2 clinical trial in metastatic renal cell carci,M
+Kidney Cancer,TP53,21054160,all,tp53,C,M,,symbol 'TP53' present,711,rhabdomyosarcoma-associated renal cell carcinoma a link with constitutional tp53 mutation,M
+Kidney Cancer,TP53,34663543,all,tp53,C,ML,,symbol 'TP53' present,735,differences in genomic profile of high-grade urothelial carcinoma according to tumor location,ML
+Kidney Cancer,TP53,17133269,all,tp53,C,M,,symbol 'TP53' present,743,mutations in bhd and tp53 genes but not in hnf1beta gene in a large series of sporadic chromophobe renal cell carcinoma,M
+Kidney Cancer,TP53,34375486,all,tp53,C,P,,symbol 'TP53' present,751,genomic profile - a possible diagnostic and prognostic marker in upper tract urothelial carcinoma,P
+Kidney Cancer,TP53,36717819,all,tp53,C,ML,,symbol 'TP53' present,789,clinical and genomic features in patients with second primary glioblastoma following first primary renal cell carcinoma,ML
+Kidney Cancer,TP53,21456047,all,tp53,C,I,,symbol 'TP53' present,820,copy number profiling in von hippel-lindau disease renal cell carcinoma,I
+Kidney Cancer,TP53,29765141,all,tp53,C,M,,symbol 'TP53' present,842,polyoma virus-associated carcinomas of the urologic tract a clinicopathologic and molecular study,M
+Kidney Cancer,TP53,37480572,all,tp53,C,ML,,symbol 'TP53' present,851,comparative analyses of the prognosis tumor immune microenvironment and drug treatment response between left-sided and right-sided colon can,ML
+Kidney Cancer,TP53,27126173,all,tp53,C,M,,symbol 'TP53' present,871,combined deletion of vhl trp53 and kif3a causes cystic and neoplastic renal lesions,M
+Kidney Cancer,TP53,20332316,all,tp53,C,I,,symbol 'TP53' present,872,subtype-specific fbxw7 mutation and mycn copy number gain in wilms' tumor,I
+Kidney Cancer,TP53,28807937,all,tp53,C,M,,symbol 'TP53' present,883,hnf1b loss exacerbates the development of chromophobe renal cell carcinomas,M
+Kidney Cancer,TP53,37792584,all,tp53,C,I,,symbol 'TP53' present,908,trim28 inactivation in epithelial nephroblastoma is frequent and often associated with predisposing trim28 germline variants,I
+Kidney Cancer,TP53,38492778,all,tp53,C,M,,symbol 'TP53' present,927,high-grade nonsarcomatoid chromophobe renal cell carcinoma a series of 22 cases with novel molecular features on a subset,M
+Kidney Cancer,TP53,28710314,all,tp53,C,ML,,symbol 'TP53' present,944,sarcomatoid renal cell carcinoma has a distinct molecular pathogenesis driver mutation profile and transcriptional landscape,ML
+Kidney Cancer,TP53,31727677,all,tp53,C,M,,symbol 'TP53' present,952,hif-2 complex dissociation target inhibition and acquired resistance with pt2385 a first-in-class hif-2 inhibitor in patients with clear cel,M
+Kidney Cancer,TP53,25787918,all,tp53,C,M,,symbol 'TP53' present,961,a child with li-fraumeni syndrome modes to inactivate the second allele of tp53 in three different malignancies,M
+Kidney Cancer,TP53,32560270,all,tp53,C,M,,symbol 'TP53' present,986,inhibition of transglutaminase 2 but not of mdm2 has a significant therapeutic effect on renal cell carcinoma,M
+Kidney Cancer,TSC2,31586081,all,tsc2,C,ML,,symbol 'TSC2' present,20,mutational analysis of renal angiomyolipoma associated with tuberous sclerosis complex and the outcome of short-term everolimus therapy,ML
+Kidney Cancer,TSC2,31653662,all,tsc2,C,W,,symbol 'TSC2' present,22,mutations and response to rapalogs in patients with metastatic renal cell carcinoma,W
+Kidney Cancer,TSC2,26831717,all,tsc2,C,M,,symbol 'TSC2' present,25,mutations in tsc1 tsc2 and mtor are associated with response to rapalogs in patients with metastatic renal cell carcinoma,M
+Kidney Cancer,TSC2,30327302,all,tsc2,C,M,,symbol 'TSC2' present,34,pten expression not mutation status in tsc1 tsc2 or mtor correlates with the outcome on everolimus in patients with renal cell carcinoma tre,M
+Kidney Cancer,TSC2,26255626,all,tsc2,C,M,,symbol 'TSC2' present,112,point mutations of the mtor-rheb pathway in renal cell carcinoma,M
+Kidney Cancer,TSC2,31927531,all,tsc2,C,M,,symbol 'TSC2' present,125,germline mutation of tsc1 or tsc2 gene in chinese patients with bilateral renal angiomyolipomas and mutation spectrum of chinese tsc patient,M
+Kidney Cancer,TSC2,37354253,all,tsc2,C,M,,symbol 'TSC2' present,134,tuberous sclerosis complex mutations in patients with pancreatic neuroendocrine tumors observations on phenotypic and treatment-related asso,M
+Kidney Cancer,TSC2,39571694,all,tsc2,C,M,,symbol 'TSC2' present,136,genetic validation of a tsc2 immunohistochemistry assay in tsc mtor-pathway altered renal tumors,M
+Kidney Cancer,TSC2,34521993,all,tsc2,C,M,,symbol 'TSC2' present,146,eosinophilic vacuolated tumor evt of kidney demonstrates sporadic tsc mtor mutations next-generation sequencing multi-institutional study of,M
+Kidney Cancer,TSC2,31847710,all,tsc2,C,M,,symbol 'TSC2' present,153,renal angiomyolipoma aml harboring a missense mutation of tsc2 with copy-neutral loss of heterozygosity cn-loh,M
+Kidney Cancer,TSC2,32604168,all,tsc2,C,M,,symbol 'TSC2' present,175,acquired cystic kidney disease-associated renal cell carcinoma ackd-rcc harbor recurrent mutations in kmt2c and tsc2 genes,M
+Kidney Cancer,TSC2,31597506,all,tsc2,C,M,,symbol 'TSC2' present,193,two novel tsc2 mutations in renal epithelioid angiomyolipoma sensitive to everolimus,M
+Kidney Cancer,TSC2,21949787,all,tsc2,C,M,,symbol 'TSC2' present,204,angiomyolipoma have common mutations in tsc2 but no other common genetic events,M
+Kidney Cancer,TSC2,42055232,all,tsc2,C,M,,symbol 'TSC2' present,233,morphology spectrum and molecular landscape in eosinophilic solid and cystic renal cell carcinoma,M
+Kidney Cancer,TSC2,28065512,all,tsc2,C,M,,symbol 'TSC2' present,240,assessment of tuberous sclerosis complex associated with renal lesions by targeted next-generation sequencing in mainland china,M
+Kidney Cancer,TSC2,31850909,all,tsc2,C,ML,,symbol 'TSC2' present,290,renal cell carcinoma with leiomyomatous stroma harbor somatic mutations of tsc1 tsc2 mtor and or eloc tceb1 clinicopathologic and molecular ,ML
+Kidney Cancer,TSC2,29610387,all,tsc2,C,M,,symbol 'TSC2' present,312,exceptional response to everolimus in a novel tuberous sclerosis complex-2 mutation-associated metastatic renal-cell carcinoma,M
+Kidney Cancer,TSC2,29975249,all,tsc2,C,M,,symbol 'TSC2' present,347,eosinophilic solid and cystic esc renal cell carcinomas harbor tsc mutations molecular analysis supports an expanding clinicopathologic spec,M
+Kidney Cancer,TSC2,31454656,all,tsc2,C,M,,symbol 'TSC2' present,380,a renal cell carcinoma with biallelic somatic tsc2 mutation clinical study and literature review,M
+Kidney Cancer,TSC2,23647917,all,tsc2,C,M,,symbol 'TSC2' present,390,the ominous sequence in patients with tuberous sclerosis complex,M
+Kidney Cancer,TSC2,31335987,all,tsc2,C,ML,,symbol 'TSC2' present,412,pten expression and mutations in tsc1 tsc2 and mtor are associated with response to rapalogs in patients with renal cell carcinoma,ML
+Kidney Cancer,TSC2,27494029,all,tsc2,C,M,,symbol 'TSC2' present,417,whole exome sequencing identifies tsc1 tsc2 biallelic loss as the primary and sufficient driver event for renal angiomyolipoma development,M
+Kidney Cancer,TSC2,30303819,all,tsc2,C,M,,symbol 'TSC2' present,448,somatic mutations of tsc2 or mtor characterize a morphologically distinct subset of sporadic renal cell carcinoma with eosinophilic and vacu,M
+Kidney Cancer,TSC2,29764404,all,tsc2,C,M,,symbol 'TSC2' present,484,advanced sporadic renal epithelioid angiomyolipoma case report of an extraordinary response to sirolimus linked to tsc2 mutation,M
+Kidney Cancer,TSC2,40706452,all,tsc2,C,M,,symbol 'TSC2' present,494,genomic landscape and molecular evolutionary trajectories of renal epithelioid angiomyolipoma and benign angiomyolipoma,M
+Kidney Cancer,TSC2,31098421,all,tsc2,C,I,,symbol 'TSC2' present,505,setd2 gigyf2 fgfr3 bcr kmt2c and tsc2 as candidate genes for differentiating multilocular cystic renal neoplasm of low malignant potential f,I
+Kidney Cancer,TSC2,25432535,all,tsc2,C,M,,symbol 'TSC2' present,506,a shower of second hit events as the cause of multifocal renal cell carcinoma in tuberous sclerosis complex,M
+Kidney Cancer,TSC2,32616874,all,tsc2|tuberin,C,M,,symbol 'TSC2' present,630,molecular characterization of chromophobe renal cell carcinoma reveals mtor pathway alterations in patients with poor outcome,M
+Kidney Cancer,TSC2,11904337,all,tsc2,C,ML,,symbol 'TSC2' present,641,mutational analysis of the von hippel lindau gene in clear cell renal carcinomas from tuberous sclerosis complex patients,ML
+Kidney Cancer,TSC2,37088333,all,tsc2,C,ML,,symbol 'TSC2' present,668,biallelic eloc-inactivated renal cell carcinoma molecular features supporting classification as a distinct entity,ML
+Kidney Cancer,TSC2,33352195,all,tsc2,C,M,,symbol 'TSC2' present,674,tsc mtor-mutated eosinophilic renal tumors are a distinct entity that is ck7 ck20- vimentin- a validation study,M
+Kidney Cancer,TSC2,38501656,all,tsc2,C,I,,symbol 'TSC2' present,676,recurrent tuberous sclerosis complex mammalian target of rapamycin mutations define primary renal hemangioblastoma as a unique entity distin,I
+Kidney Cancer,TSC2,26859683,all,tsc2,C,ML,,symbol 'TSC2' present,689,next-generation sequencing reveals somatic mutations that confer exceptional response to everolimus,ML
+Kidney Cancer,TSC2,29668487,all,tsc2,C,M,,symbol 'TSC2' present,693,are sporadic eosinophilic solid and cystic renal cell carcinomas characterized by somatic tuberous sclerosis gene mutations,M
+Kidney Cancer,TSC2,31389395,all,tsc2,C,M,,symbol 'TSC2' present,717,tsc1 2 mutations as markers of response to everolimus in metastatic renal cell carcinoma a case study,M
+Kidney Cancer,TSC2,32251007,all,tsc2,C,M,,symbol 'TSC2' present,723,report from the international society of urological pathology isup consultation conference on molecular pathology of urogenital cancers iii ,M
+Kidney Cancer,TSC2,30036593,all,tsc2,C,M,,symbol 'TSC2' present,742,genotype-phenotype correlation of patients with tuberous sclerosis complex-associated renal angiomyolipoma a descriptive study,M
+Kidney Cancer,TSC2,34635572,all,tsc2,C,M,,symbol 'TSC2' present,776,sporadic facial angiofibroma and sporadic angiomyolipoma mimicking tuberous sclerosis complex,M
+Kidney Cancer,TSC2,34802045,all,tsc2,C,ML,,symbol 'TSC2' present,783,oncocytic renal neoplasms with diffuse keratin 7 immunohistochemistry harbor frequent alterations in the mammalian target of rapamycin pathw,ML
+Kidney Cancer,TSC2,11710839,all,tsc2,C,M,,symbol 'TSC2' present,850,analysis of the tsc1 and tsc2 genes in sporadic renal cell carcinomas,M
+Kidney Cancer,TSC2,31925975,all,tsc2,C,M,,symbol 'TSC2' present,854,interstitial chromosomal deletion of the tuberous sclerosis complex 2 locus is a signature for radiation-associated renal tumors in eker rat,M
+Kidney Cancer,TSC2,27748010,all,tsc2,C,M,,symbol 'TSC2' present,886,renal cell carcinoma harboring somatic tsc2 mutations in a child with methylmalonic acidemia,M
+Kidney Cancer,TSC2,29249553,all,tsc2,C,M,,symbol 'TSC2' present,903,liver angiomyolipomas in tuberous sclerosis complex-their incidence and course,M
+Kidney Cancer,TSC2,28547571,all,tsc2,C,M,,symbol 'TSC2' present,909,clinical presentations and molecular studies of invasive renal epithelioid angiomyolipoma,M
+Kidney Cancer,TSC2,40985837,all,tsc2,C,ML,,symbol 'TSC2' present,912,clinicopathological and molecular characterization of seven rare cases of renal cell carcinoma with hemangioblastoma-like features expanding,ML
+Kidney Cancer,TSC2,40246078,all,tsc2,C,I,,symbol 'TSC2' present,918,eloc-mutated renal cell carcinoma is a rare indolent tumor with distinctive genomic characteristics,I
+Kidney Cancer,TSC2,21567926,all,tsc2,C,M,,symbol 'TSC2' present,920,clinical and molecular description of a wilms tumor in a patient with tuberous sclerosis complex,M
+Kidney Cancer,TSC2,41999441,all,tsc2,C,M,,symbol 'TSC2' present,938,a case of giant renal angiomyolipoma and diabetic nephropathy with abnormalities in the genes tsc2 and hnf1b,M
+Kidney Cancer,TSC2,19443708,all,tsc2|tuberin,C,M,,symbol 'TSC2' present,949,the methylation of the tsc2 promoter underlies the abnormal growth of tsc2 angiomyolipoma-derived smooth muscle cells,M
+Kidney Cancer,TSC2,30285856,all,tsc2,C,M,,symbol 'TSC2' present,998,durable response to anti-pd-1 immunotherapy in epithelioid angiomyolipoma a report on the successful treatment of a rare malignancy,M
+Kidney Cancer,TSC2,30220708,all,tsc2,C,ML,,symbol 'TSC2' present,999,everolimus and pazopanib e p benefit genomically selected patients with metastatic urothelial carcinoma,ML
+Kidney Cancer,KDM5C,36911986,all,kdm5c,C,M,,symbol 'KDM5C' present,3,exploration of morphological features of clear cell renal cell carcinoma with pbrm1 setd2 bap1 or kdm5c mutations,M
+Kidney Cancer,KDM5C,31653662,all,kdm5c,C,ML,,symbol 'KDM5C' present,22,mutations and response to rapalogs in patients with metastatic renal cell carcinoma,ML
+Kidney Cancer,KDM5C,26484545,all,kdm5c,C,I,,symbol 'KDM5C' present,46,gender specific mutation incidence and survival associations in clear cell renal cell carcinoma ccrcc,I
+Kidney Cancer,KDM5C,34580025,all,kdm5c,C,P,,symbol 'KDM5C' present,50,somatic mutations as preoperative predictors of metastases in patients with localized clear cell renal cell carcinoma - an exploratory analy,P
+Kidney Cancer,KDM5C,36333181,all,kdm5c,C,I,,symbol 'KDM5C' present,71,molecular portraits of clear cell ovarian and endometrial carcinoma with comparison to clear cell renal cell carcinoma,I
+Kidney Cancer,KDM5C,28212566,all,kdm5c,C,M,,symbol 'KDM5C' present,132,genetic characterization of polish ccrcc patients somatic mutation analysis of pbrm1 bap1 and kdmc5 genomic snp array analysis in tumor biop,M
+Kidney Cancer,KDM5C,30416077,all,kdm5c,C,I,,symbol 'KDM5C' present,156,genomically annotated risk model for advanced renal-cell carcinoma a retrospective cohort study,I
+Kidney Cancer,KDM5C,33994165,all,kdm5c,C,M,,symbol 'KDM5C' present,211,correlating immune cell infiltration patterns with recurrent somatic mutations in advanced clear cell renal cell carcinoma,M
+Kidney Cancer,KDM5C,33400184,all,kdm5c,C,M,,symbol 'KDM5C' present,244,relationship between visceral adipose tissue and genetic mutations vhl and kdm5c in clear cell renal cell carcinoma,M
+Kidney Cancer,KDM5C,24029645,all,kdm5c,C,M,,symbol 'KDM5C' present,258,radiogenomics of clear cell renal cell carcinoma associations between ct imaging features and mutations,M
+Kidney Cancer,KDM5C,39955388,all,kdm5c,C,M,,symbol 'KDM5C' present,292,kdm5c and kdm5d mutations have different consequences in clear cell renal cell carcinoma cells,M
+Kidney Cancer,KDM5C,28408295,all,kdm5c,C,M,,symbol 'KDM5C' present,296,genomic alterations as predictors of survival among patients within a combined cohort with clear cell renal cell carcinoma undergoing cytore,M
+Kidney Cancer,KDM5C,38933491,all,kdm5c,C,ML,,symbol 'KDM5C' present,339,mutational profile of primary clear cell renal cell carcinoma predicts recurrence and potential candidacy for adjuvant immune checkpoint inh,ML
+Kidney Cancer,KDM5C,27556922,all,kdm5c,C,I,,symbol 'KDM5C' present,447,an integrative genomics approach for identifying novel functional consequences of pbrm1 truncated mutations in clear cell renal cell carcino,I
+Kidney Cancer,KDM5C,25753955,all,kdm5c,C,P,,symbol 'KDM5C' present,461,radiogenomics of clear cell renal cell carcinoma preliminary findings of the cancer genome atlas-renal cell carcinoma tcga-rcc imaging resea,P
+Kidney Cancer,KDM5C,32860304,all,kdm5c,C,I,,symbol 'KDM5C' present,476,genetic and epigenetic profiling indicates the proximal tubule origin of renal cancers in end-stage renal disease,I
+Kidney Cancer,KDM5C,27751729,all,kdm5c,C,M,,symbol 'KDM5C' present,508,genomic biomarkers of a randomized trial comparing first-line everolimus and sunitinib in patients with metastatic renal cell carcinoma,M
+Kidney Cancer,KDM5C,29132830,all,kdm5c,C,M,,symbol 'KDM5C' present,512,characterizing recurrent and lethal small renal masses in clear cell renal cell carcinoma using recurrent somatic mutations,M
+Kidney Cancer,KDM5C,34522206,all,kdm5c,C,G,,symbol 'KDM5C' present,523,deficiency of the x-inactivation escaping gene kdm5c in clear cell renal cell carcinoma promotes tumorigenicity by reprogramming glycogen me,G
+Kidney Cancer,KDM5C,22397650,all,kdm5c,C,M,,symbol 'KDM5C' present,552,intratumor heterogeneity and branched evolution revealed by multiregion sequencing,M
+Kidney Cancer,KDM5C,23036577,all,kdm5c,C,ML,,symbol 'KDM5C' present,570,clinical and pathologic impact of select chromatin-modulating tumor suppressors in clear cell renal cell carcinoma,ML
+Kidney Cancer,KDM5C,33157048,all,kdm5c,C,M,,symbol 'KDM5C' present,604,molecular subsets in renal cancer determine outcome to checkpoint and angiogenesis blockade,M
+Kidney Cancer,KDM5C,35444164,all,kdm5c,C,I,,symbol 'KDM5C' present,624,evaluation of a seven gene mutational profile as a prognostic factor in a population-based study of clear cell renal cell carcinoma,I
+Kidney Cancer,KDM5C,25124064,all,kdm5c,C,ML,,symbol 'KDM5C' present,632,the impact of genetic heterogeneity on biomarker development in kidney cancer assessed by multiregional sampling,ML
+Kidney Cancer,KDM5C,29754934,all,kdm5c,C,ML,,symbol 'KDM5C' present,758,comprehensive genomic profiling of metastatic tumors in a phase 2 biomarker study of everolimus in advanced renal cell carcinoma,ML
+Kidney Cancer,KDM5C,32661119,all,kdm5c,C,ML,,symbol 'KDM5C' present,771,correlates of clinical benefit from immunotherapy and targeted therapy in metastatic renal cell carcinoma comprehensive genomic and transcri,ML
+Kidney Cancer,KDM5C,20054297,all,kdm5c,C,I,,symbol 'KDM5C' present,811,systematic sequencing of renal carcinoma reveals inactivation of histone modifying genes,I
+Kidney Cancer,KDM5C,21248752,all,kdm5c,C,I,,symbol 'KDM5C' present,816,exome sequencing identifies frequent mutation of the swi snf complex gene pbrm1 in renal carcinoma,I
+Kidney Cancer,KDM5C,39672382,all,kdm5c,C,I,,symbol 'KDM5C' present,855,biomarker analyses from the phase iii randomized clear trial lenvatinib plus pembrolizumab versus sunitinib in advanced renal cell carcinoma,I
+Kidney Cancer,KDM5C,22949125,all,kdm5c,C,I,,symbol 'KDM5C' present,861,loss of pbrm1 expression is associated with renal cell carcinoma progression,I
+Kidney Cancer,KDM5C,39910301,all,kdm5c,C,ML,,symbol 'KDM5C' present,922,a neoantigen vaccine generates antitumour immunity in renal cell carcinoma,ML

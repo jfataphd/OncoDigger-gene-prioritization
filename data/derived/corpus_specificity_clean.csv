@@ -1,0 +1,20 @@
+cancer,overlap_with_global,cancer_specific_in_top10,cancer_specific_genes
+Bladder Cancer,3,7,ARID1A; ERBB2; FGFR3; HRAS; KDM6A; RB1; TERT
+Brain Cancer,4,6,ATRX; IDH1; IDH2; MGMT; PTEN; TERT
+Breast Cancer,4,6,AKT1; CHEK2; ERBB2; ESR1; PALB2; PTEN
+Cervical Cancer,4,6,ERBB2; FBXW7; MTOR; PTEN; RB1; STK11
+Colorectal Cancer,6,4,APC; MLH1; MSH2; MSH6
+Endometrial Cancer,4,6,ARID1A; CTNNB1; MLH1; MSH2; MSH6; PTEN
+Esophageal Cancer,6,4,APC; CDKN2A; NFE2L2; NOTCH1
+Kidney Cancer,1,9,BAP1; FH; FLCN; KDM5C; PBRM1; SETD2; TSC2; VHL; WT1
+Leukemia,3,7,ASXL1; BCR; CEBPA; DNMT3A; IDH1; NPM1; TET2
+Liver Cancer,6,4,APC; CTNNB1; HFE; TERT
+Lung Cancer,5,5,ALK; CD274; ERBB2; MET; STK11
+Lymphoma,1,9,ATM; CARD11; CD79B; CREBBP; EZH2; KMT2D; MYD88; RHOA; TET2
+Melanoma,2,8,BAP1; CDKN2A; GNA11; GNAQ; KIT; NF1; SF3B1; TERT
+Myeloma,4,6,DIS3; FGFR3; IGH; IRF4; MYC; TRAF3
+Ovarian Cancer,7,3,CTNNB1; PTEN; RAD51C
+Pancreatic Cancer,5,5,CDKN2A; GNAS; MEN1; PALB2; SMAD4
+Prostate Cancer,3,7,AR; ATM; CHEK2; PALB2; PARP1; PTEN; SPOP
+Stomach Cancer,5,5,APC; ARID1A; CDH1; CTNNB1; PDGFRA
+Thyroid Cancer,5,5,EIF1AX; HRAS; RET; TERT; TSHR

@@ -1,0 +1,5 @@
+Category,n,%,Explanation
+Low corpus volume,157,82.2%,"Fewer than 20 full-corpus lexicon-detected mentions (no title sample examined); consistent with the broader sparse-presence pattern (Supplementary Results S10). That these pairs would not rank at any analysis-pool size is a prediction, not a tested result."
+Low `mutat*` occurrence in sampled titles,30,15.7%,"≥20 full-corpus mentions, but under 20% of a 20-title sample contain `mutat*`. The sampled titles were on-topic cancer literature (expression, transcription-factor biology, immune/HLA typing, germline risk polymorphisms), but the absence of the word from a title does not show that the abstract lacks mutation data."
+Vocabulary artefact,1,0.5%,"MAX (Brain Cancer): confirmed, by direct title inspection, to be a false-alias collision with ""maximum"" and the soybean species *Glycine max*, not the MAX gene (Supplementary Results S10)."
+Unresolved,3,1.6%,"SF3B1 (Breast), ARID2 (Lung) and CREBBP (Lung): ≥20 full-corpus mentions with ≥20% of sampled titles containing `mutat*`, which still did not rank. Reported as an open question rather than explained away."

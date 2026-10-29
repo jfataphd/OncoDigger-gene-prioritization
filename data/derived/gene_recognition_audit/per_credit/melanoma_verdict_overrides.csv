@@ -1,0 +1,7 @@
+gene,pmid,identity,evidence,rationale
+KIT,38946192,X,I,"'kit' = BRAF mutation detection kit (assay), KIT gene not mentioned"
+KIT,29708815,X,I,"'kit' = mTOR activity assay kit; KIT gene not mentioned"
+KIT,28130756,X,I,"'kit' = commercial BRAF V600 test kit; KIT gene not mentioned"
+KIT,28248732,X,I,"'kit' = DNA extraction kit; KIT gene not mentioned"
+KIT,16123397,X,I,"'kit' = MutectoR assay kit; KIT gene not mentioned"
+KIT,25376477,X,I,"'kit' = BRAF RGQ PCR kit (Qiagen); KIT gene not mentioned"

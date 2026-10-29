@@ -1,0 +1,13 @@
+cancer,gene,move,main_rank,excluded_rank
+Breast Cancer,AKT1,leaves top 10,10,11
+Breast Cancer,ATM,enters top 10,11,10
+Kidney Cancer,KDM5C,leaves top 10,10,13
+Kidney Cancer,CTNNB1,enters top 10,12,10
+Liver Cancer,EGFR,leaves top 10,7,40
+Liver Cancer,PIK3CA,leaves top 10,8,14
+Liver Cancer,AXIN1,enters top 10,11,5
+Liver Cancer,ARID1A,enters top 10,13,6
+Ovarian Cancer,RAD51C,leaves top 10,10,12
+Ovarian Cancer,MLH1,enters top 10,11,10
+Brain Cancer,KRAS,leaves top 10,7,19
+Brain Cancer,AIP,enters top 10,11,10

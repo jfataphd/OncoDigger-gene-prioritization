@@ -1,0 +1,448 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Pancreatic Cancer,KRAS,29303908,random,kras,C,M,,symbol 'KRAS' present,8,progression of chronic pancreatitis to pancreatic cancer is there a role of gene mutations as a screening tool,M
+Pancreatic Cancer,KRAS,31969677,random,kras,C,M,,symbol 'KRAS' present,29,preoperative detection of kras g12d mutation in ctdna is a powerful predictor for early recurrence of resectable pdac patients,M
+Pancreatic Cancer,KRAS,28139399,random,kras,C,M,,symbol 'KRAS' present,31,utility of serum dna as a marker for kras mutations in pancreatic cancer tissue,M
+Pancreatic Cancer,KRAS,33082481,random,kras,C,M,,symbol 'KRAS' present,33,gnas mutation detection in circulating cell-free dna is a specific predictor for intraductal papillary mucinous neoplasms of the pancreas es,M
+Pancreatic Cancer,KRAS,26684240,random,kras,C,I,,symbol 'KRAS' present,34,identification of the braf v600e mutation in gastroenteropancreatic neuroendocrine tumors,I
+Pancreatic Cancer,KRAS,39906959,random,kras,C,M,,symbol 'KRAS' present,95,unveiling the intriguing relationship oncogenic kras morphological shifts and mutational complexity in pancreatic mucinous cystic neoplasms,M
+Pancreatic Cancer,KRAS,35417072,random,kras,C,M,,symbol 'KRAS' present,99,significance of kras mutation testing in biliary brushing cytology specimens a 10-year retrospective review,M
+Pancreatic Cancer,KRAS,37771286,random,kras,C,M,,symbol 'KRAS' present,107,kras mutations in pancreatic cancer could we talk about a risk factor for the development of thromboembolic phenomena,M
+Pancreatic Cancer,KRAS,28930868,random,kras,C,ML,target,symbol 'KRAS' present,114,next-generation sequencing revealed tp53 mutations to be malignant marker for intraductal papillary mucinous neoplasms that could be detecte,ML
+Pancreatic Cancer,KRAS,31897893,random,kras,C,M,,symbol 'KRAS' present,131,evaluation of local recurrence of pancreatic cancer by kras mutation analysis using washes from endoscopic ultrasound-guided fine-needle asp,M
+Pancreatic Cancer,KRAS,40090570,random,kras,C,M,,symbol 'KRAS' present,178,spatial distribution and activation changes of t cells in pancreatic tumors according to kras mutation subtype,M
+Pancreatic Cancer,KRAS,31925676,random,kras,C,M,,symbol 'KRAS' present,203,mutational mosaics of cell-free dna from pancreatic cyst fluids,M
+Pancreatic Cancer,KRAS,31025231,random,kras,C,W,,symbol 'KRAS' present,208,gnas but not extended ras mutations spectrum are associated with a better prognosis in intraductal pancreatic mucinous neoplasms,W
+Pancreatic Cancer,KRAS,32704002,random,kras,C,M,,symbol 'KRAS' present,253,time-saving method for directly amplifying and capturing a minimal amount of pancreatic tumor-derived mutations from fine-needle aspirates u,M
+Pancreatic Cancer,KRAS,23426962,random,kras,C,M,,symbol 'KRAS' present,283,multiple kras mutations in pancreatic adenocarcinoma molecular features of neoplastic clones indicate the selection of divergent populations,M
+Pancreatic Cancer,KRAS,42041735,random,kras,C,M,,symbol 'KRAS' present,286,molecular profiling and survival outcomes in pancreatic ductal adenocarcinoma a multicenter real-world study from turkey,M
+Pancreatic Cancer,KRAS,25656048,random,kras,C,M,,symbol 'KRAS' present,290,activating mutations of gnas and kras in cystic fluid can help detect intraductal papillary mucinous neoplasms of the pancreas,M
+Pancreatic Cancer,KRAS,41965303,random,kras,C,M,,symbol 'KRAS' present,294,cbago-enriched cas12a biosensor for cancer mutations screening,M
+Pancreatic Cancer,KRAS,31746520,random,kras,C,M,,symbol 'KRAS' present,313,quantitative monitoring of circulating tumor dna in patients with advanced pancreatic cancer undergoing chemotherapy,M
+Pancreatic Cancer,KRAS,23565280,random,kras,C,M,,symbol 'KRAS' present,323,somatic mutations in exocrine pancreatic tumors association with patient survival,M
+Pancreatic Cancer,KRAS,21945955,random,kras,C,M,,symbol 'KRAS' present,375,somatic mutations in pik3ca and activation of akt in intraductal tubulopapillary neoplasms of the pancreas,M
+Pancreatic Cancer,KRAS,31406347,random,kras,C,M,,symbol 'KRAS' present,384,mutations in rabl3 alter kras prenylation and are associated with hereditary pancreatic cancer,M
+Pancreatic Cancer,KRAS,40289347,random,kras,C,M,target,symbol 'KRAS' present,451,discovery of potent pde nampt dual inhibitors preclinical evaluation in kras mutant pancreatic cancer cells,M
+Pancreatic Cancer,KRAS,27375074,random,kras,C,M,,symbol 'KRAS' present,454,reality of single circulating tumor cell sequencing for molecular diagnostics in pancreatic cancer,M
+Pancreatic Cancer,KRAS,24504548,random,kras,C,M,,symbol 'KRAS' present,510,next generation sequencing improves the accuracy of kras mutation analysis in endoscopic ultrasound fine needle aspiration pancreatic lesion,M
+Pancreatic Cancer,KRAS,41348949,random,kras,C,M,,symbol 'KRAS' present,562,tp53 kras variant allele frequency ratio predicts advanced disease in mucin-producing cystic neoplasms of the pancreas,M
+Pancreatic Cancer,KRAS,31077597,random,kras,C,M,,symbol 'KRAS' present,567,multiple kras mutations in the non-mucinous epithelial lining in the majority of mucinous cystic neoplasms of the pancreas,M
+Pancreatic Cancer,KRAS,31739488,random,kras,C,M,target,symbol 'KRAS' present,599,crispr cas9-mediated knock-out of kras g12d mutated pancreatic cancer cell lines,M
+Pancreatic Cancer,KRAS,35752283,random,kras,C,ML,,symbol 'KRAS' present,682,uncovering potential interventions for pancreatic cancer patients via mathematical modeling,ML
+Pancreatic Cancer,KRAS,42422981,random,kras,C,ML,,symbol 'KRAS' present,737,synthetic lethality targets in pancreatic ductal adenocarcinoma prevalence and limitations of liquid biopsy detection in a minority-serving ,ML
+Pancreatic Cancer,KRAS,22846349,random,kras,C,M,,symbol 'KRAS' present,766,molecular analysis of centrifugation supernatant fluid from pancreaticobiliary duct samples can improve cancer detection,M
+Pancreatic Cancer,KRAS,36853374,random,kras,C,M,,symbol 'KRAS' present,817,precision oncology in pancreatic cancer experiences and challenges of the cccmunich lmu molecular tumor board,M
+Pancreatic Cancer,KRAS,32002592,random,kras,C,ML,,symbol 'KRAS' present,818,imaging phenotype using 18 f-fluorodeoxyglucose positron emission tomography-based radiomics and genetic alterations of pancreatic ductal ad,ML
+Pancreatic Cancer,KRAS,29427136,random,kras,C,M,,symbol 'KRAS' present,838,molecular alterations associated with dna repair in pancreatic adenocarcinoma are associated with sites of recurrence,M
+Pancreatic Cancer,KRAS,39825392,random,kras,C,M,,symbol 'KRAS' present,892,intercellular timp-1-cd63 signaling directs the evolution of immune escape and metastasis in kras-mutated pancreatic cancer cells,M
+Pancreatic Cancer,KRAS,42447995,random,kras,C,M,,symbol 'KRAS' present,901,conditional dependency of oncogenic kras in driving ketone body catabolism and pancreatic cancer growth,M
+Pancreatic Cancer,KRAS,28196014,random,kras,C,M,,symbol 'KRAS' present,947,methylation of tumor suppressor genes in autoimmune pancreatitis,M
+Pancreatic Cancer,KRAS,31711852,random,kras,C,I,,symbol 'KRAS' present,972,sequential molecular and cytologic analyses provides a complementary approach to the diagnosis of pancreatic cystic lesions a decade of clin,I
+Pancreatic Cancer,KRAS,18090159,random,kras,C,M,,symbol 'KRAS' present,974,kras mutation analysis of fine needle aspirate under eus guidance facilitates risk stratification of patients with pancreatic mass,M
+Pancreatic Cancer,KRAS,34781244,random,kras,C,M,target,symbol 'KRAS' present,999,one-shot dual gene editing for drug-resistant pancreatic cancer therapy,M
+Pancreatic Cancer,BRCA2,26440929,random,brca2,C,M,,symbol 'BRCA2' present,27,identification of germline genetic mutations in patients with pancreatic cancer,M
+Pancreatic Cancer,BRCA2,25940717,random,brca2,C,M,,symbol 'BRCA2' present,42,germline brca mutations in a large clinic-based cohort of patients with pancreatic adenocarcinoma,M
+Pancreatic Cancer,BRCA2,21365267,random+targeted,brca2,C,M,,symbol 'BRCA2' present,50,palb2 mutations in familial breast and pancreatic cancer,M
+Pancreatic Cancer,BRCA2,39969335,random,brca2,C,M,,symbol 'BRCA2' present,64,tislelizumab plus ag regimen for long-term cr in 2 patients with metastatic brca-mutation pancreatic cancer a case report,M
+Pancreatic Cancer,BRCA2,33229504,random,brca2,C,M,,symbol 'BRCA2' present,72,molecular characteristics of brca1 2 and palb2 mutations in pancreatic ductal adenocarcinoma,M
+Pancreatic Cancer,BRCA2,36717774,random,brca2,C,M,,symbol 'BRCA2' present,115,evaluation of inherited germline mutations in cancer susceptibility genes among pancreatic cancer patients a single-center study,M
+Pancreatic Cancer,BRCA2,18437078,random,brca2,C,M,,symbol 'BRCA2' present,139,brca2 mutations as a universal risk factor for pancreatic cancer has a limited role in korean ethnic group,M
+Pancreatic Cancer,BRCA2,35205366,random,brca2,C,M,,symbol 'BRCA2' present,149,pancreatic cancer with mutation in brca1 2 mlh1 and apc genes phenotype correlation and detection of a novel germline brca2 mutation,M
+Pancreatic Cancer,BRCA2,27106063,targeted,brca2,X,I,,'brca2' occurs only inside PALB2's full name 'partner and localizer of BRCA2',154,mutation analysis of the palb2 gene in unselected pancreatic cancer patients in the czech republic,I
+Pancreatic Cancer,BRCA2,38350919,random,brca2,C,M,,symbol 'BRCA2' present,158,germline mutations of homologous recombination genes and clinical outcomes in pancreatic cancer a multicenter study in taiwan,M
+Pancreatic Cancer,BRCA2,40044664,random,brca2,C,I,,symbol 'BRCA2' present,177,pathogenic germline variants in chinese pancreatic adenocarcinoma patients,I
+Pancreatic Cancer,BRCA2,19140568,random,brca2,C,ML,,symbol 'BRCA2' present,192,is there any relationship between brca1 gene mutation and pancreatic cancer development,ML
+Pancreatic Cancer,BRCA2,27838800,random,brca2,C,M,,symbol 'BRCA2' present,201,double germline mutations in apc and brca2 in an individual with a pancreatic tumor,M
+Pancreatic Cancer,BRCA2,11075991,random,brca2,C,M,,symbol 'BRCA2' present,233,multiple primary tumors as an indicator for p16ink4a germline mutations in pancreatic cancer patients,M
+Pancreatic Cancer,BRCA2,28782087,random,brca2,C,M,,symbol 'BRCA2' present,238,germline brca mutations in asian patients with pancreatic adenocarcinoma a prospective study evaluating risk category for genetic testing,M
+Pancreatic Cancer,BRCA2,29802286,random,brca2,C,M,,symbol 'BRCA2' present,243,mutations in brca1 brca2 and palb2 and a panel of 50 cancer-associated genes in pancreatic ductal adenocarcinoma,M
+Pancreatic Cancer,BRCA2,21934105,random,brca2,C,M,,symbol 'BRCA2' present,246,an emerging entity pancreatic adenocarcinoma associated with a known brca mutation clinical descriptors treatment implications and future di,M
+Pancreatic Cancer,BRCA2,19064968,random,brca2,C,M,,symbol 'BRCA2' present,247,brca germline mutations in jewish patients with pancreatic adenocarcinoma,M
+Pancreatic Cancer,BRCA2,28375947,random,brca2,C,M,,symbol 'BRCA2' present,320,chronic pancreatitis-like change in brca2 mutation carriers,M
+Pancreatic Cancer,BRCA2,19277124,random,brca2,C,M,,symbol 'BRCA2' present,368,potential excess mortality in brca1 2 mutation carriers beyond breast ovarian prostate and pancreatic cancers and melanoma,M
+Pancreatic Cancer,BRCA2,32885350,random,brca2,C,I,,symbol 'BRCA2' present,396,foundationone cdx gene profiling in japanese pancreatic ductal adenocarcinoma patients a single-institution experience,I
+Pancreatic Cancer,BRCA2,36463295,random,brca2,C,I,,symbol 'BRCA2' present,424,ngs-based targeted gene mutational profiles in korean patients with pancreatic cancer,I
+Pancreatic Cancer,BRCA2,12114473,random,brca2,C,M,,symbol 'BRCA2' present,476,the effect of a single brca2 mutation on cancer in iceland,M
+Pancreatic Cancer,BRCA2,22368299,random,brca2,C,ML,,symbol 'BRCA2' present,478,cdkn2a is the main susceptibility gene in italian pancreatic cancer families,ML
+Pancreatic Cancer,BRCA2,42464142,random,brca2,C,M,,symbol 'BRCA2' present,480,next-generation sequencing-based characterization of brca1 2 variants across multiple tumor types in vietnamese patients,M
+Pancreatic Cancer,BRCA2,25072261,random,brca2,C,M,,symbol 'BRCA2' present,481,overall survival and clinical characteristics of pancreatic cancer in brca mutation carriers,M
+Pancreatic Cancer,BRCA2,29922827,random,brca2,C,I,,symbol 'BRCA2' present,524,association between inherited germline mutations in cancer predisposition genes and risk of pancreatic cancer,I
+Pancreatic Cancer,BRCA2,35819745,random,brca2,C,M,,symbol 'BRCA2' present,598,pancreatic mixed acinar-neuroendocrine carcinoma in a patient with a germline brca2 mutation a case report,M
+Pancreatic Cancer,BRCA2,38809921,random,brca2,C,M,,symbol 'BRCA2' present,605,the role of germline brca1 brca2 mutations in familial pancreatic cancer a systematic review and meta-analysis,M
+Pancreatic Cancer,BRCA2,40273902,random,brca2,C,I,,symbol 'BRCA2' present,611,sustained clinical response to olaparib in a patient with metastatic pancreatic cancer and somatic atm mutation r2034ter a case report,I
+Pancreatic Cancer,BRCA2,25788227,random,brca2,C,M,,symbol 'BRCA2' present,672,cancer risks in jewish male brca1 and brca2 mutation carriers,M
+Pancreatic Cancer,BRCA2,31002019,random,brca2,C,M,,symbol 'BRCA2' present,696,pancreatic acinar cell carcinoma is associated with brca2 germline mutations a case report and literature review,M
+Pancreatic Cancer,BRCA2,30131383,random,brca2,C,ML,,symbol 'BRCA2' present,698,germline and somatic dna damage repair gene mutations and overall survival in metastatic pancreatic adenocarcinoma patients treated with fol,ML
+Pancreatic Cancer,BRCA2,33287145,random,brca2,C,M,,symbol 'BRCA2' present,729,five italian families with two mutations in brca genes,M
+Pancreatic Cancer,BRCA2,25356972,random,brca2,C,W,,symbol 'BRCA2' present,753,brca1 brca2 palb2 and cdkn2a mutations in familial pancreatic cancer a pacgene study,W
+Pancreatic Cancer,BRCA2,19264984,random,brca2,C,P,,symbol 'BRCA2' present,756,exomic sequencing identifies palb2 as a pancreatic cancer susceptibility gene,P
+Pancreatic Cancer,BRCA2,25366685,random,brca2,C,M,,symbol 'BRCA2' present,786,olaparib monotherapy in patients with advanced cancer and a germline brca1 2 mutation,M
+Pancreatic Cancer,BRCA2,27114589,random,brca2,C,M,,symbol 'BRCA2' present,791,benefit of surveillance for pancreatic cancer in high-risk individuals outcome of long-term prospective follow-up studies from three europea,M
+Pancreatic Cancer,BRCA2,30407325,random,brca2,C,M,,symbol 'BRCA2' present,827,response of germline brca2-mutated advanced pancreatic acinar cell carcinoma to olaparib a case report,M
+Pancreatic Cancer,BRCA2,22187320,random,brca2,C,M,,symbol 'BRCA2' present,911,risk of cancer other than breast or ovarian in individuals with brca1 and brca2 mutations,M
+Pancreatic Cancer,BRCA2,35779338,random,brca2,C,P,,symbol 'BRCA2' present,919,ears2 significantly coexpresses with palb2 in breast and pancreatic cancer,P
+Pancreatic Cancer,TP53,32552660,random,tp53,C,M,,symbol 'TP53' present,55,a novel hotspot and rare somatic mutation p a138v at tp53 is associated with poor survival of pancreatic ductal and periampullary adenocarci,M
+Pancreatic Cancer,TP53,35399143,random,tp53,C,M,,symbol 'TP53' present,85,predictors of long-term survival in pancreatic ductal adenocarcinoma after pancreatectomy tp53 and smad4 mutation scoring in combination wit,M
+Pancreatic Cancer,TP53,28930868,random,tp53,C,M,target,symbol 'TP53' present,114,next-generation sequencing revealed tp53 mutations to be malignant marker for intraductal papillary mucinous neoplasms that could be detecte,M
+Pancreatic Cancer,TP53,41151908,random,tp53,C,M,,symbol 'TP53' present,147,clearance of tp53 mutations in ctdna reflects therapeutic response in advanced pancreatic cancer patients,M
+Pancreatic Cancer,TP53,35205366,random,tp53,C,I,,symbol 'TP53' present,149,pancreatic cancer with mutation in brca1 2 mlh1 and apc genes phenotype correlation and detection of a novel germline brca2 mutation,I
+Pancreatic Cancer,TP53,25210493,random,tp53,C,I,,symbol 'TP53' present,224,kras and daxx atrx gene mutations are correlated with the clinicopathological features advanced diseases and poor prognosis in chinese patie,I
+Pancreatic Cancer,TP53,32314446,random,tp53,C,ML,,symbol 'TP53' present,244,combination of kras and smad4 mutations in formalin-fixed paraffin-embedded tissues as a biomarker for pancreatic cancer,ML
+Pancreatic Cancer,TP53,26555578,random,tp53,C,I,,symbol 'TP53' present,276,whole exome sequencing of rapid autopsy tumors and xenograft models reveals possible driver mutations underlying tumor progression,I
+Pancreatic Cancer,TP53,33789615,random,tp53,C,G,,symbol 'TP53' present,372,a novel tp53-associated nomogram to predict the overall survival in patients with pancreatic cancer,G
+Pancreatic Cancer,TP53,21945955,random,tp53,C,P,,symbol 'TP53' present,375,somatic mutations in pik3ca and activation of akt in intraductal tubulopapillary neoplasms of the pancreas,P
+Pancreatic Cancer,TP53,34902987,random,tp53|tumor protein p53,C,M,,symbol 'TP53' present,383,a tp53-associated immune prognostic signature for the prediction of the overall survival and therapeutic responses in pancreatic cancer,M
+Pancreatic Cancer,TP53,33515627,random,tp53,C,ML,,symbol 'TP53' present,412,next-generation sequencing analysis suggests varied multistep mutational pathogenesis for endocrine mucin-producing sweat gland carcinoma wi,ML
+Pancreatic Cancer,TP53,27256393,random,tp53,C,P,,symbol 'TP53' present,447,infiltrating immune cells and gene mutations in pancreatic ductal adenocarcinoma,P
+Pancreatic Cancer,TP53,39382626,random,tp53,C,M,,symbol 'TP53' present,458,rapid evolution of metastases in patients with treated g3 neuroendocrine tumors associated with nec-like transformation and tp53 mutation,M
+Pancreatic Cancer,TP53,22156295,random,tp53,C,M,,symbol 'TP53' present,486,whole-exome sequencing of human pancreatic cancers and characterization of genomic instability caused by mlh1 haploinsufficiency and complet,M
+Pancreatic Cancer,TP53,36928600,random,tp53,C,I,,symbol 'TP53' present,494,characterization of pancreatic cancer with ultra-low tumor mutational burden,I
+Pancreatic Cancer,TP53,26727920,random,tp53,C,I,,symbol 'TP53' present,533,statewide retrospective review of familial pancreatic cancer in delaware and frequency of genetic mutations in pancreatic cancer kindreds,I
+Pancreatic Cancer,TP53,40612867,random,tp53,C,ML,,symbol 'TP53' present,534,etv1 transcriptional manipulation of kifc1 regulates the progression of pancreatic cancer,ML
+Pancreatic Cancer,TP53,25479140,random,tp53,C,ML,,symbol 'TP53' present,536,prevalence of germline mutations in cancer predisposition genes in patients with pancreatic cancer,ML
+Pancreatic Cancer,TP53,14506146,random,tp53,C,ML,,symbol 'TP53' present,546,pancreatic carcinoma in carriers of a specific 19 base pair deletion of cdkn2a p16 p16-leiden,ML
+Pancreatic Cancer,TP53,34792696,random,tp53,C,ML,,symbol 'TP53' present,594,comprehensive analysis of somatic mutations in driver genes of resected pancreatic ductal adenocarcinoma reveals kras g12d and mutant tp53 c,ML
+Pancreatic Cancer,TP53,32891532,random,tp53,C,M,,symbol 'TP53' present,601,pancreatic neuroendocrine carcinoma g3 may be heterogeneous and could be classified into two distinct groups,M
+Pancreatic Cancer,TP53,34797250,random,tp53,C,ML,,symbol 'TP53' present,603,pancreatic cancer-related mutational burden is not increased in a patient cohort with clinically severe chronic pancreatitis,ML
+Pancreatic Cancer,TP53,37163715,random,tp53,C,M,,symbol 'TP53' present,647,tp53 gain-of-function and non-gain-of-function mutations are associated with differential prognosis in advanced pancreatic ductal adenocarci,M
+Pancreatic Cancer,TP53,42277390,random,tp53,C,ML,,symbol 'TP53' present,668,an integrative mutational and network analysis of pancreatic cancer reveals key genes and signalling pathways,ML
+Pancreatic Cancer,TP53,35752283,random,tp53,C,ML,,symbol 'TP53' present,682,uncovering potential interventions for pancreatic cancer patients via mathematical modeling,ML
+Pancreatic Cancer,TP53,40301983,random,tp53,C,M,,symbol 'TP53' present,712,pd-l1 levels tp53 mutation profiles and survival outcomes in pancreatic cancer differ by immune-nutritional status,M
+Pancreatic Cancer,TP53,40274200,random,tp53,C,ML,,symbol 'TP53' present,784,genomic mutation and clinicopathological features of kras wild-type tumors in chinese cohort with pancreatic adenocarcinoma,ML
+Pancreatic Cancer,TP53,40621620,random,tp53,C,M,,symbol 'TP53' present,802,arid1a deficiency sensitises pancreatic cancer to fatty acid synthase inhibition,M
+Pancreatic Cancer,TP53,32228502,random,tp53,C,M,,symbol 'TP53' present,807,the first pancreatic neuroendocrine tumor in li-fraumeni syndrome a case report,M
+Pancreatic Cancer,TP53,40545177,random,tp53,C,I,,symbol 'TP53' present,822,potential for clinical management of pancreatic cancer through whole exome profiling of site-specific metastases and matched primary tumors,I
+Pancreatic Cancer,TP53,35131878,random,tp53,C,M,,symbol 'TP53' present,835,small-molecule mmri62 induces ferroptosis and inhibits metastasis in pancreatic cancer via degradation of ferritin heavy chain and mutant p5,M
+Pancreatic Cancer,TP53,42152075,random,tp53,C,M,,symbol 'TP53' present,848,integrated genomics and transcriptomics reveal key events in pancreatic neuroendocrine neoplasm,M
+Pancreatic Cancer,TP53,35511415,random,tp53,C,ML,,symbol 'TP53' present,881,comprehensive molecular profiling of pancreatic ductal adenocarcinoma in fna biopsy and resection specimens,ML
+Pancreatic Cancer,TP53,30836094,random,tp53,C,M,,symbol 'TP53' present,886,real-time targeted genome profile analysis of pancreatic ductal adenocarcinomas identifies genetic alterations that might be targeted with e,M
+Pancreatic Cancer,TP53,19351817,random,tp53,C,I,,symbol 'TP53' present,906,genetic mutations associated with cigarette smoking in pancreatic cancer,I
+Pancreatic Cancer,TP53,31399545,random,tp53,C,M,,symbol 'TP53' present,917,arf6 and amap1 are major targets of kras and tp53 mutations to promote invasion pd-l1 dynamics and immune evasion of pancreatic cancer,M
+Pancreatic Cancer,TP53,32524539,random,tp53,C,I,,symbol 'TP53' present,930,impact of driver mutations on the evolution of isolated metachronous lung metastasis of pancreatic ductal adenocarcinoma,I
+Pancreatic Cancer,TP53,31799787,random,tp53,C,M,,symbol 'TP53' present,994,pathogenesis of multiple pancreatic cancers involves multicentric carcinogenesis and intrapancreatic metastasis,M
+Pancreatic Cancer,TP53,31225717,random,tp53,C,M,,symbol 'TP53' present,996,genomic analysis of pancreatic juice dna assesses malignant risk of intraductal papillary mucinous neoplasm of pancreas,M
+Pancreatic Cancer,BRCA1,39198618,random,brca1,C,M,,symbol 'BRCA1' present,6,clinical utility of brca and atm mutation status in circulating tumour dna for treatment selection in advanced pancreatic cancer,M
+Pancreatic Cancer,BRCA1,37791389,random,brca1,C,M,,symbol 'BRCA1' present,14,clinical characterization of patients with gbrca1 2 mutation-positive unresectable pancreatic cancer a multicenter prospective study,M
+Pancreatic Cancer,BRCA1,26440929,random,brca1,C,ML,,symbol 'BRCA1' present,27,identification of germline genetic mutations in patients with pancreatic cancer,ML
+Pancreatic Cancer,BRCA1,21598239,random,brca1,C,M,,symbol 'BRCA1' present,39,prevalence of brca1 and brca2 mutations in ashkenazi jewish families with breast and pancreatic cancer,M
+Pancreatic Cancer,BRCA1,21365267,random,brca1,C,M,,symbol 'BRCA1' present,50,palb2 mutations in familial breast and pancreatic cancer,M
+Pancreatic Cancer,BRCA1,33229504,random,brca1,C,M,,symbol 'BRCA1' present,72,molecular characteristics of brca1 2 and palb2 mutations in pancreatic ductal adenocarcinoma,M
+Pancreatic Cancer,BRCA1,27038244,random,brca1,C,M,,symbol 'BRCA1' present,111,do founder mutations characteristic of some cancer sites also predispose to pancreatic cancer,M
+Pancreatic Cancer,BRCA1,37907567,random,brca1,C,M,,symbol 'BRCA1' present,132,crispr cas9-mediated knock-in of brca1 2 mutations restores response to olaparib in pancreatic cancer cell lines,M
+Pancreatic Cancer,BRCA1,35205366,random,brca1,C,ML,,symbol 'BRCA1' present,149,pancreatic cancer with mutation in brca1 2 mlh1 and apc genes phenotype correlation and detection of a novel germline brca2 mutation,ML
+Pancreatic Cancer,BRCA1,19140568,random,brca1,C,M,,symbol 'BRCA1' present,192,is there any relationship between brca1 gene mutation and pancreatic cancer development,M
+Pancreatic Cancer,BRCA1,15162061,random,brca1,C,M,,symbol 'BRCA1' present,214,possible causes of chromosome instability comparison of chromosomal abnormalities in cancer cell lines with mutations in brca1 brca2 chk2 an,M
+Pancreatic Cancer,BRCA1,18439109,random,brca1,C,M,,symbol 'BRCA1' present,223,predominant ashkenazi brca1 2 mutations in families with pancreatic cancer,M
+Pancreatic Cancer,BRCA1,10667595,random,brca1,C,M,,symbol 'BRCA1' present,225,inherited predisposition to pancreatic adenocarcinoma role of family history and germ-line p16 brca1 and brca2 mutations,M
+Pancreatic Cancer,BRCA1,29802286,random,brca1,C,M,,symbol 'BRCA1' present,243,mutations in brca1 brca2 and palb2 and a panel of 50 cancer-associated genes in pancreatic ductal adenocarcinoma,M
+Pancreatic Cancer,BRCA1,27488870,random,brca1,C,M,,symbol 'BRCA1' present,271,the prevalence of founder mutations among individuals from families with familial pancreatic cancer syndrome,M
+Pancreatic Cancer,BRCA1,31577767,random,brca1,C,M,,symbol 'BRCA1' present,304,a case report of a dramatic response to olaparib in a patient with metastatic pancreatic cancer harboring a germline brca2 mutation,M
+Pancreatic Cancer,BRCA1,27532258,random,brca1,C,M,,symbol 'BRCA1' present,331,analysis of founder mutations in rare tumors associated with hereditary breast ovarian cancer reveals a novel association of brca2 mutations,M
+Pancreatic Cancer,BRCA1,31858328,random,brca1,C,M,,symbol 'BRCA1' present,336,de novo pathogenic germline variant in palb2 in a patient with pancreatic cancer,M
+Pancreatic Cancer,BRCA1,23658460,random,brca1,C,M,,symbol 'BRCA1' present,349,high prevalence of brca1 and brca2 germline mutations with loss of heterozygosity in a series of resected pancreatic adenocarcinoma and othe,M
+Pancreatic Cancer,BRCA1,19277124,random,brca1,C,M,,symbol 'BRCA1' present,368,potential excess mortality in brca1 2 mutation carriers beyond breast ovarian prostate and pancreatic cancers and melanoma,M
+Pancreatic Cancer,BRCA1,15550590,random,brca1,C,M,,symbol 'BRCA1' present,390,risk of cancer at sites other than the breast in swedish families eligible for brca1 or brca2 mutation testing,M
+Pancreatic Cancer,BRCA1,36463295,random,brca1,C,M,,symbol 'BRCA1' present,424,ngs-based targeted gene mutational profiles in korean patients with pancreatic cancer,M
+Pancreatic Cancer,BRCA1,20582465,random,brca1,C,I,,symbol 'BRCA1' present,438,palb2 analysis in brca2-like families,I
+Pancreatic Cancer,BRCA1,42464142,random,brca1,C,M,,symbol 'BRCA1' present,480,next-generation sequencing-based characterization of brca1 2 variants across multiple tumor types in vietnamese patients,M
+Pancreatic Cancer,BRCA1,25072261,random,brca1,C,M,,symbol 'BRCA1' present,481,overall survival and clinical characteristics of pancreatic cancer in brca mutation carriers,M
+Pancreatic Cancer,BRCA1,33612442,random,brca1,C,M,,symbol 'BRCA1' present,520,biologic behavior of resected brca-mutated pancreatic cancer comparison with sporadic pancreatic cancer and other brca-related cancers,M
+Pancreatic Cancer,BRCA1,26727920,random,brca1,C,M,,symbol 'BRCA1' present,533,statewide retrospective review of familial pancreatic cancer in delaware and frequency of genetic mutations in pancreatic cancer kindreds,M
+Pancreatic Cancer,BRCA1,25479140,random,brca1,C,ML,,symbol 'BRCA1' present,536,prevalence of germline mutations in cancer predisposition genes in patients with pancreatic cancer,ML
+Pancreatic Cancer,BRCA1,26180923,random,brca1,C,M,,symbol 'BRCA1' present,553,brca1 and brca2 mutations sensitize to chemotherapy in patient-derived pancreatic cancer xenografts,M
+Pancreatic Cancer,BRCA1,38809921,random,brca1,C,M,,symbol 'BRCA1' present,605,the role of germline brca1 brca2 mutations in familial pancreatic cancer a systematic review and meta-analysis,M
+Pancreatic Cancer,BRCA1,40273902,random,brca1,C,M,,symbol 'BRCA1' present,611,sustained clinical response to olaparib in a patient with metastatic pancreatic cancer and somatic atm mutation r2034ter a case report,M
+Pancreatic Cancer,BRCA1,39258876,random,brca1,C,M,,symbol 'BRCA1' present,636,predicting brca mutation and stratifying targeted therapy response using multimodal learning a multicenter study,M
+Pancreatic Cancer,BRCA1,25948675,random,brca1,C,ML,,symbol 'BRCA1' present,671,brcapro 6 0 model validation in male patients presenting for brca testing,ML
+Pancreatic Cancer,BRCA1,33287145,random,brca1,C,M,,symbol 'BRCA1' present,729,five italian families with two mutations in brca genes,M
+Pancreatic Cancer,BRCA1,25356972,random,brca1,C,ML,,symbol 'BRCA1' present,753,brca1 brca2 palb2 and cdkn2a mutations in familial pancreatic cancer a pacgene study,ML
+Pancreatic Cancer,BRCA1,23935836,random,brca1,C,M,,symbol 'BRCA1' present,773,analysis of palb2 gene in brca1 brca2 negative spanish hereditary breast ovarian cancer families with pancreatic cancer cases,M
+Pancreatic Cancer,BRCA1,27114589,random,brca1,C,ML,,symbol 'BRCA1' present,791,benefit of surveillance for pancreatic cancer in high-risk individuals outcome of long-term prospective follow-up studies from three europea,ML
+Pancreatic Cancer,BRCA1,38836973,random,brca1,C,M,,symbol 'BRCA1' present,836,a case of brca1-mutated giant pancreatic acinar cell carcinoma successfully treated with modified folfirinox therapy and radical resection,M
+Pancreatic Cancer,BRCA1,21975290,random,brca1,C,M,,symbol 'BRCA1' present,959,intraductal papillary mucinous neoplasm of the pancreas associated cancers family history genetic predisposition,M
+Pancreatic Cancer,BRCA1,26041759,random,brca1,C,M,,symbol 'BRCA1' present,979,the brca2 polymorphic stop codon stuff or nonsense,M
+Pancreatic Cancer,CDKN2A,41712870,random,cdkn2a,C,I,,symbol 'CDKN2A' present,13,prognostic implications of codon-specific kras mutations in localized and advanced stages of pancreatic cancer,I
+Pancreatic Cancer,CDKN2A,37083062,random,cdkn2a,C,I,,symbol 'CDKN2A' present,38,patients with deleterious germline mutations a heterogeneous population for pancreatic cancer screening,I
+Pancreatic Cancer,CDKN2A,11102889,random+targeted,ink4|ink4a|p16 ink4a,C,M,,credited via alias ink4|ink4a|p16 ink4a,84,k-ras oncogene subtype mutations are associated with survival but not expression of p53 p16 ink4a p21 waf-1 cyclin d1 erbb-2 and erbb-3 in r,M
+Pancreatic Cancer,CDKN2A,35399143,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,85,predictors of long-term survival in pancreatic ductal adenocarcinoma after pancreatectomy tp53 and smad4 mutation scoring in combination wit,ML
+Pancreatic Cancer,CDKN2A,29661971,random,cdkn2a,C,M,,symbol 'CDKN2A' present,119,cm-score a validated scoring system to predict cdkn2a germline mutations in melanoma families from northern europe,M
+Pancreatic Cancer,CDKN2A,32989607,random,cdkn2a,C,M,,symbol 'CDKN2A' present,164,frame familial risk assessment of melanoma-a risk prediction tool to guide cdkn2a germline mutation testing in australian familial melanoma,M
+Pancreatic Cancer,CDKN2A,16397522,random,cdkn2a|cyclin dependent kinase inhibitor 2a,C,M,,symbol 'CDKN2A' present,176,population-based prevalence of cdkn2a mutations in utah melanoma families,M
+Pancreatic Cancer,CDKN2A,41668632,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,184,genetic and clinical characteristics of patients with tumor mutation burden-high unresectable pancreatic cancer and the efficacy of pembroli,ML
+Pancreatic Cancer,CDKN2A,39999309,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,204,somatic genomic profiling of pancreatic ductal adenocarcinomas from a diverse cohort of patients,ML
+Pancreatic Cancer,CDKN2A,10922411,random,cdkn2a|ink4a|p16 ink4a,C,M,,symbol 'CDKN2A' present,213,high frequency of multiple melanomas and breast and pancreas carcinomas in cdkn2a mutation-positive melanoma families,M
+Pancreatic Cancer,CDKN2A,11075991,random+targeted,p16ink4a,C,M,,credited via alias p16ink4a,233,multiple primary tumors as an indicator for p16ink4a germline mutations in pancreatic cancer patients,M
+Pancreatic Cancer,CDKN2A,29802286,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,243,mutations in brca1 brca2 and palb2 and a panel of 50 cancer-associated genes in pancreatic ductal adenocarcinoma,ML
+Pancreatic Cancer,CDKN2A,28767289,random,cdkn2a,C,I,,symbol 'CDKN2A' present,261,deleterious germline mutations in patients with apparently sporadic pancreatic adenocarcinoma,I
+Pancreatic Cancer,CDKN2A,23565280,random,cdkn2a,C,M,,symbol 'CDKN2A' present,323,somatic mutations in exocrine pancreatic tumors association with patient survival,M
+Pancreatic Cancer,CDKN2A,38378604,random,cdkn2a,C,I,,symbol 'CDKN2A' present,342,high somatic mutations in circulating tumor dna predict response of metastatic pancreatic ductal adenocarcinoma to first-line nab-paclitaxel,I
+Pancreatic Cancer,CDKN2A,32885350,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,396,foundationone cdx gene profiling in japanese pancreatic ductal adenocarcinoma patients a single-institution experience,ML
+Pancreatic Cancer,CDKN2A,15146471,random,cdkn2a,C,M,,symbol 'CDKN2A' present,397,familial melanoma pancreatic cancer and germline cdkn2a mutations,M
+Pancreatic Cancer,CDKN2A,40107149,random,cdkn2a,C,G,,symbol 'CDKN2A' present,414,a multimodal framework for assessing the link between pathomics transcriptomics and pancreatic cancer mutations,G
+Pancreatic Cancer,CDKN2A,29684357,random,cdkn2a,C,I,,symbol 'CDKN2A' present,437,genome-wide somatic copy number alterations and mutations in high-grade pancreatic intraepithelial neoplasia,I
+Pancreatic Cancer,CDKN2A,37685923,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,442,mutation analysis of pancreatic juice and plasma for the detection of pancreatic cancer,ML
+Pancreatic Cancer,CDKN2A,29922827,random,cdkn2a,C,M,,symbol 'CDKN2A' present,524,association between inherited germline mutations in cancer predisposition genes and risk of pancreatic cancer,M
+Pancreatic Cancer,CDKN2A,29991580,random,cdkn2a,C,M,,symbol 'CDKN2A' present,560,high growth rate of pancreatic ductal adenocarcinoma in cdkn2a-p16-leiden mutation carriers,M
+Pancreatic Cancer,CDKN2A,27804060,random,cdkn2a,C,M,,symbol 'CDKN2A' present,577,uptake of genetic counseling genetic testing and surveillance in hereditary malignant melanoma cdkn2a in norway,M
+Pancreatic Cancer,CDKN2A,10937052,targeted,mts1|p16ink4a,C,M,,credited via alias mts1|p16ink4a,591,immunohistochemical p16ink4a analysis of archival tumors with deletion hypermethylation or mutation of the cdkn2 mts1 gene a comparison of f,M
+Pancreatic Cancer,CDKN2A,12802288,random+targeted,ink4a|p16 ink4a,C,M,,credited via alias ink4a|p16 ink4a,593,frequent rassf1a promoter hypermethylation and k-ras mutations in pancreatic carcinoma,M
+Pancreatic Cancer,CDKN2A,34797250,random,cdkn2a,C,I,,symbol 'CDKN2A' present,603,pancreatic cancer-related mutational burden is not increased in a patient cohort with clinically severe chronic pancreatitis,I
+Pancreatic Cancer,CDKN2A,12454511,random,cdkn2a,C,M,,symbol 'CDKN2A' present,617,cdkn2a germline mutations in familial pancreatic cancer,M
+Pancreatic Cancer,CDKN2A,33144687,random,cdkn2a,C,I,,symbol 'CDKN2A' present,622,prediction of survival and recurrence in patients with pancreatic cancer by integrating multi-omics data,I
+Pancreatic Cancer,CDKN2A,36165930,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,628,exploratory genomic analysis of high-grade neuroendocrine neoplasms across diverse primary sites,ML
+Pancreatic Cancer,CDKN2A,29769629,random,cdkn2a,C,M,,symbol 'CDKN2A' present,643,risk of multiple pancreatic cancers in cdkn2a-p16-leiden mutation carriers,M
+Pancreatic Cancer,CDKN2A,37163715,random,cdkn2a,C,M,,symbol 'CDKN2A' present,647,tp53 gain-of-function and non-gain-of-function mutations are associated with differential prognosis in advanced pancreatic ductal adenocarci,M
+Pancreatic Cancer,CDKN2A,42277390,random,cdkn2a,C,I,,symbol 'CDKN2A' present,668,an integrative mutational and network analysis of pancreatic cancer reveals key genes and signalling pathways,I
+Pancreatic Cancer,CDKN2A,35752283,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,682,uncovering potential interventions for pancreatic cancer patients via mathematical modeling,ML
+Pancreatic Cancer,CDKN2A,35392854,random,cdkn2a,C,I,,symbol 'CDKN2A' present,723,longitudinal profiling of circulating tumour dna for tracking tumour dynamics in pancreatic cancer,I
+Pancreatic Cancer,CDKN2A,38622664,random,cdkn2a,C,I,,symbol 'CDKN2A' present,731,selective epigenetic alterations in rnf43 in pancreatic exocrine cells from high-fat-diet-induced obese mice implications for pancreatic can,I
+Pancreatic Cancer,CDKN2A,42422981,random,cdkn2a,C,I,,symbol 'CDKN2A' present,737,synthetic lethality targets in pancreatic ductal adenocarcinoma prevalence and limitations of liquid biopsy detection in a minority-serving ,I
+Pancreatic Cancer,CDKN2A,36508685,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,755,clinicopathologic and molecular features of pancreatic ductal adenocarcinomas harboring alterations in compass-like complex genes,ML
+Pancreatic Cancer,CDKN2A,26646266,random,cdkn2a,C,P,,symbol 'CDKN2A' present,798,distinction of invasive carcinoma derived from intraductal papillary mucinous neoplasms from concomitant ductal adenocarcinoma of the pancre,P
+Pancreatic Cancer,CDKN2A,40545177,random,cdkn2a,C,I,,symbol 'CDKN2A' present,822,potential for clinical management of pancreatic cancer through whole exome profiling of site-specific metastases and matched primary tumors,I
+Pancreatic Cancer,CDKN2A,35511415,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,881,comprehensive molecular profiling of pancreatic ductal adenocarcinoma in fna biopsy and resection specimens,ML
+Pancreatic Cancer,CDKN2A,28196015,random,cdkn2a,C,M,,symbol 'CDKN2A' present,951,genomic characterization of low- and high-grade pancreatic mucinous cystic neoplasms reveals recurrent kras alterations in high-risk lesions,M
+Pancreatic Cancer,CDKN2A,11787853,targeted,p16ink4a,C,M,,credited via alias p16ink4a,961,genetic profile of 22 pancreatic carcinoma cell lines analysis of k-ras p53 p16 and dpc4 smad4,M
+Pancreatic Cancer,CDKN2A,12749268,targeted,mts1,C,M,,credited via alias mts1,978,p53 mutation but not p16 mts1 mutation occurs in intraductal papillary mucinous tumors of the pancreas,M
+Pancreatic Cancer,SMAD4,41712870,random,smad4,C,ML,,symbol 'SMAD4' present,13,prognostic implications of codon-specific kras mutations in localized and advanced stages of pancreatic cancer,ML
+Pancreatic Cancer,SMAD4,40528743,random,smad4,C,I,,symbol 'SMAD4' present,53,the mutational status of driver genes in patients with resected pancreatic ductal adenocarcinoma is associated with pathological characteris,I
+Pancreatic Cancer,SMAD4,34247626,random,smad4,C,ML,,symbol 'SMAD4' present,60,the germline somatic dna damage repair gene mutations modulate the therapeutic response in chinese patients with advanced pancreatic ductal ,ML
+Pancreatic Cancer,SMAD4,35399143,random,smad4,C,M,,symbol 'SMAD4' present,85,predictors of long-term survival in pancreatic ductal adenocarcinoma after pancreatectomy tp53 and smad4 mutation scoring in combination wit,M
+Pancreatic Cancer,SMAD4,14639103,random,dpc4|smad4,C,M,,symbol 'SMAD4' present,86,dpc4 smad4 no mutations rare allelic imbalances and retained protein expression in pancreatic endocrine tumors,M
+Pancreatic Cancer,SMAD4,37642079,random,smad4,C,M,,symbol 'SMAD4' present,136,the mutation portraits of oncogenes and tumor supressor genes in predicting the overall survival in pancreatic cancer a bayesian network met,M
+Pancreatic Cancer,SMAD4,10975709,targeted,dpc4,C,M,,credited via alias dpc4,163,reassessment of k-ras mutations at codon 12 by direct pcr and sequencing from tissue microdissection in human pancreatic adenocarcinomas,M
+Pancreatic Cancer,SMAD4,39999309,random,smad4,C,ML,,symbol 'SMAD4' present,204,somatic genomic profiling of pancreatic ductal adenocarcinomas from a diverse cohort of patients,ML
+Pancreatic Cancer,SMAD4,32234756,random,smad4,C,I,,symbol 'SMAD4' present,237,tp53 mutations predict sensitivity to adjuvant gemcitabine in patients with pancreatic ductal adenocarcinoma next-generation sequencing resu,I
+Pancreatic Cancer,SMAD4,11943721,targeted,dpc4,C,P,,credited via alias dpc4,370,solid-pseudopapillary tumors of the pancreas are genetically distinct from pancreatic ductal adenocarcinomas and almost always harbor beta-c,P
+Pancreatic Cancer,SMAD4,40440097,random,smad4,C,M,,symbol 'SMAD4' present,385,smad4 deficiency promotes pancreatic cancer progression and confers susceptibility to tgf inhibition,M
+Pancreatic Cancer,SMAD4,15014009,random,dpc4|smad4,C,M,,symbol 'SMAD4' present,387,missense mutations of madh4 characterization of the mutational hot spot and functional consequences in human tumors,M
+Pancreatic Cancer,SMAD4,32885350,random,smad4,C,ML,,symbol 'SMAD4' present,396,foundationone cdx gene profiling in japanese pancreatic ductal adenocarcinoma patients a single-institution experience,ML
+Pancreatic Cancer,SMAD4,29301828,random,smad4,C,I,,symbol 'SMAD4' present,404,pancreatic juice mutation concentrations can help predict the grade of dysplasia in patients undergoing pancreatic surveillance,I
+Pancreatic Cancer,SMAD4,40107149,random,smad4,C,G,,symbol 'SMAD4' present,414,a multimodal framework for assessing the link between pathomics transcriptomics and pancreatic cancer mutations,G
+Pancreatic Cancer,SMAD4,22504380,random,smad4,C,M,,symbol 'SMAD4' present,419,smad4 genetic alterations predict a worse prognosis in patients with pancreatic ductal adenocarcinoma,M
+Pancreatic Cancer,SMAD4,29661773,random,smad4,C,ML,,symbol 'SMAD4' present,430,integrated genomic and immunophenotypic classification of pancreatic cancer reveals three distinct subtypes with prognostic predictive signi,ML
+Pancreatic Cancer,SMAD4,29684357,random,smad4,C,M,,symbol 'SMAD4' present,437,genome-wide somatic copy number alterations and mutations in high-grade pancreatic intraepithelial neoplasia,M
+Pancreatic Cancer,SMAD4,38693041,random,smad family member 4|smad4,C,M,,symbol 'SMAD4' present,440,k-ras mutation detected by peptide nucleic acid-clamping polymerase chain reaction ki-67 s100p and smad4 expression can improve the diagnost,M
+Pancreatic Cancer,SMAD4,36740808,random,smad4,C,M,,symbol 'SMAD4' present,493,loss of function smad4 nonstop mutations in human cancer,M
+Pancreatic Cancer,SMAD4,31684910,random,smad4,C,M,,symbol 'SMAD4' present,525,smad4 y353c promotes the progression of pdac,M
+Pancreatic Cancer,SMAD4,12379307,random,smad4,C,M,,symbol 'SMAD4' present,530,induction and expression of betaig-h3 in pancreatic cancer cells,M
+Pancreatic Cancer,SMAD4,14506146,random,smad4,C,ML,,symbol 'SMAD4' present,546,pancreatic carcinoma in carriers of a specific 19 base pair deletion of cdkn2a p16 p16-leiden,ML
+Pancreatic Cancer,SMAD4,28679692,random,smad4,C,ML,,symbol 'SMAD4' present,556,an unusual genomic variant of pancreatic ductal adenocarcinoma with an indolent clinical course,ML
+Pancreatic Cancer,SMAD4,34792696,random,smad4,C,ML,,symbol 'SMAD4' present,594,comprehensive analysis of somatic mutations in driver genes of resected pancreatic ductal adenocarcinoma reveals kras g12d and mutant tp53 c,ML
+Pancreatic Cancer,SMAD4,41085025,random,smad4,C,ML,,symbol 'SMAD4' present,642,a case of pancreatic ductal adenocarcinoma in prss1-associated hereditary pancreatitis in the absence of high-grade panin suggestive of chro,ML
+Pancreatic Cancer,SMAD4,37163715,random,smad4,C,ML,,symbol 'SMAD4' present,647,tp53 gain-of-function and non-gain-of-function mutations are associated with differential prognosis in advanced pancreatic ductal adenocarci,ML
+Pancreatic Cancer,SMAD4,18677542,random,smad4,C,ML,,symbol 'SMAD4' present,711,loss of heterozygosity predicts poor survival after resection of pancreatic adenocarcinoma,ML
+Pancreatic Cancer,SMAD4,11696422,targeted,dpc4,C,P,,credited via alias dpc4,717,distinctive molecular genetic alterations in sporadic and familial adenomatous polyposis-associated pancreatoblastomas frequent alterations ,P
+Pancreatic Cancer,SMAD4,35392854,random,smad4,C,I,,symbol 'SMAD4' present,723,longitudinal profiling of circulating tumour dna for tracking tumour dynamics in pancreatic cancer,I
+Pancreatic Cancer,SMAD4,38622664,random,smad4,C,I,,symbol 'SMAD4' present,731,selective epigenetic alterations in rnf43 in pancreatic exocrine cells from high-fat-diet-induced obese mice implications for pancreatic can,I
+Pancreatic Cancer,SMAD4,10813711,random+targeted,dpc4,C,G,,credited via alias dpc4,735,characterization of a newly established human pancreatic carcinoma cell line uk pan-1,G
+Pancreatic Cancer,SMAD4,42422981,random,smad4,C,I,,symbol 'SMAD4' present,737,synthetic lethality targets in pancreatic ductal adenocarcinoma prevalence and limitations of liquid biopsy detection in a minority-serving ,I
+Pancreatic Cancer,SMAD4,34880877,random,smad4,C,M,,symbol 'SMAD4' present,757,successful immunotherapy for pancreatic cancer in a patient with tsc2 and smad4 mutations a case report,M
+Pancreatic Cancer,SMAD4,17659731,random,dpc4|smad4,C,I,,symbol 'SMAD4' present,788,evaluation of clinical relevance of examining k-ras p16 and p53 mutations along with allelic losses at 9p and 18q in eus-guided fine needle ,I
+Pancreatic Cancer,SMAD4,19058223,random,smad4,C,I,,symbol 'SMAD4' present,820,mutational profiling of cancer candidate genes in glioblastoma melanoma and pancreatic carcinoma reveals a snapshot of their genomic landsca,I
+Pancreatic Cancer,SMAD4,40545177,random,smad4,C,M,,symbol 'SMAD4' present,822,potential for clinical management of pancreatic cancer through whole exome profiling of site-specific metastases and matched primary tumors,M
+Pancreatic Cancer,SMAD4,32583281,random,smad4,C,I,,symbol 'SMAD4' present,853,pancreatic ductal adenocarcinomas from mexican patients present a distinct genomic mutational pattern,I
+Pancreatic Cancer,SMAD4,35511415,random,smad4,C,ML,,symbol 'SMAD4' present,881,comprehensive molecular profiling of pancreatic ductal adenocarcinoma in fna biopsy and resection specimens,ML
+Pancreatic Cancer,SMAD4,30836094,random,smad4,C,I,,symbol 'SMAD4' present,886,real-time targeted genome profile analysis of pancreatic ductal adenocarcinomas identifies genetic alterations that might be targeted with e,I
+Pancreatic Cancer,SMAD4,32573775,random,smad4,C,I,,symbol 'SMAD4' present,890,alterations in driver genes are predictive of survival in patients with resected pancreatic ductal adenocarcinoma,I
+Pancreatic Cancer,SMAD4,15565642,random+targeted,dpc4,C,M,,credited via alias dpc4,928,p53 and dpc4 alterations in the bile of patients with pancreatic carcinoma,M
+Pancreatic Cancer,SMAD4,11787853,random,dpc4|smad4,C,M,,symbol 'SMAD4' present,961,genetic profile of 22 pancreatic carcinoma cell lines analysis of k-ras p53 p16 and dpc4 smad4,M
+Pancreatic Cancer,GNAS,25081753,all,gnas,C,M,,symbol 'GNAS' present,2,clinicopathological significance of somatic rnf43 mutation and aberrant expression of ring finger protein 43 in intraductal papillary mucino,M
+Pancreatic Cancer,GNAS,33082481,all,gnas,C,M,,symbol 'GNAS' present,33,gnas mutation detection in circulating cell-free dna is a specific predictor for intraductal papillary mucinous neoplasms of the pancreas es,M
+Pancreatic Cancer,GNAS,35013462,all,gnas,C,M,,symbol 'GNAS' present,66,relevance of gene mutations and methylation to the growth of pancreatic intraductal papillary mucinous neoplasms based on pyrosequencing,M
+Pancreatic Cancer,GNAS,36454217,all,gnas,C,I,,symbol 'GNAS' present,79,a pilot study to evaluate tissue- and plasma-based dna driver mutations in a cohort of patients with pancreatic intraductal papillary mucino,I
+Pancreatic Cancer,GNAS,39219164,all,gnas|gnas complex locus,C,M,,symbol 'GNAS' present,93,kras and gnas mutations in cell-free dna and in circulating epithelial cells in patients with intraductal papillary mucinous neoplasms-an ob,M
+Pancreatic Cancer,GNAS,25796395,all,gnas,C,M,,symbol 'GNAS' present,110,gnas mutation is a frequent event in pancreatic intraductal papillary mucinous neoplasms and associated adenocarcinomas,M
+Pancreatic Cancer,GNAS,28930868,all,gnas,C,ML,target,symbol 'GNAS' present,114,next-generation sequencing revealed tp53 mutations to be malignant marker for intraductal papillary mucinous neoplasms that could be detecte,ML
+Pancreatic Cancer,GNAS,24897499,all,gnas,C,M,,symbol 'GNAS' present,167,deep sequencing of cancer-related genes revealed gnas mutations to be associated with intraductal papillary mucinous neoplasms and its main ,M
+Pancreatic Cancer,GNAS,40044664,all,gnas,C,I,,symbol 'GNAS' present,177,pathogenic germline variants in chinese pancreatic adenocarcinoma patients,I
+Pancreatic Cancer,GNAS,33082211,all,gnas,C,ML,,symbol 'GNAS' present,197,improved assessment of response status in patients with pancreatic cancer treated with neoadjuvant therapy using somatic mutations and liqui,ML
+Pancreatic Cancer,GNAS,31925676,all,gnas,C,M,,symbol 'GNAS' present,203,mutational mosaics of cell-free dna from pancreatic cyst fluids,M
+Pancreatic Cancer,GNAS,31025231,all,gnas,C,M,,symbol 'GNAS' present,208,gnas but not extended ras mutations spectrum are associated with a better prognosis in intraductal pancreatic mucinous neoplasms,M
+Pancreatic Cancer,GNAS,29802286,all,gnas,C,ML,,symbol 'GNAS' present,243,mutations in brca1 brca2 and palb2 and a panel of 50 cancer-associated genes in pancreatic ductal adenocarcinoma,ML
+Pancreatic Cancer,GNAS,25656048,all,gnas,C,M,,symbol 'GNAS' present,290,activating mutations of gnas and kras in cystic fluid can help detect intraductal papillary mucinous neoplasms of the pancreas,M
+Pancreatic Cancer,GNAS,25840541,all,gnas,C,M,,symbol 'GNAS' present,305,gnas and kras mutations define separate progression pathways in intraductal papillary mucinous neoplasm-associated carcinoma,M
+Pancreatic Cancer,GNAS,28570009,all,gnas,C,ML,,symbol 'GNAS' present,309,mucinous cystic neoplasms of the liver and pancreas relationship between kras driver mutations and disease progression,ML
+Pancreatic Cancer,GNAS,38743932,all,gnas,C,M,,symbol 'GNAS' present,367,genetic assessment of intraductal papillary mucinous neoplasm for predicting concomitant pancreatic ductal adenocarcinoma,M
+Pancreatic Cancer,GNAS,25479586,all,gnas,C,M,,symbol 'GNAS' present,374,clinical significance of gnas mutation in intraductal papillary mucinous neoplasm of the pancreas with concomitant pancreatic ductal adenoca,M
+Pancreatic Cancer,GNAS,26253016,all,gnas,C,M,,symbol 'GNAS' present,428,impact of next-generation sequencing on the clinical diagnosis of pancreatic cysts,M
+Pancreatic Cancer,GNAS,31852070,all,gnas,C,M,,symbol 'GNAS' present,433,mccune albright syndrome is a genetic predisposition to intraductal papillary and mucinous neoplasms of the pancreas associated pancreatic c,M
+Pancreatic Cancer,GNAS,29796909,all,gnas,C,M,,symbol 'GNAS' present,434,clinical impact of kras and gnas analysis added to cea and cytology in pancreatic cystic fluid obtained by eus-fna,M
+Pancreatic Cancer,GNAS,41076409,all,gnas,C,M,,symbol 'GNAS' present,443,effects of kruppel-like factor 4 mutation on the clinicopathological characteristics and its related protein expressions in intraductal papi,M
+Pancreatic Cancer,GNAS,32205290,all,gnas,C,M,,symbol 'GNAS' present,457,detection of circulating tumor dna in patients with pancreatic cancer using digital next-generation sequencing,M
+Pancreatic Cancer,GNAS,31278869,all,gnas,C,M,,symbol 'GNAS' present,460,next-generation sequencing of endoscopic ultrasound guided microbiopsies from pancreatic cystic neoplasms,M
+Pancreatic Cancer,GNAS,41511487,all,gnas,C,M,,symbol 'GNAS' present,488,six-color multiplex digital pcr assays for comprehensive screening and identification of multiple driver mutations associated with pancreati,M
+Pancreatic Cancer,GNAS,30230086,all,gnas,C,M,,symbol 'GNAS' present,497,next generation sequencing of the cellular and liquid fraction of pancreatic cyst fluid supports discrimination of ipmn from pseudocysts and,M
+Pancreatic Cancer,GNAS,28259593,all,gnas,C,M,,symbol 'GNAS' present,505,using an endoscopic distal cap to collect pancreatic fluid from the ampulla with video,M
+Pancreatic Cancer,GNAS,39865498,all,gnas,C,M,,symbol 'GNAS' present,535,cytologic histologic and clinical correlation of minor mutations in pancreatic cysts,M
+Pancreatic Cancer,GNAS,41348949,all,gnas,C,ML,,symbol 'GNAS' present,562,tp53 kras variant allele frequency ratio predicts advanced disease in mucin-producing cystic neoplasms of the pancreas,ML
+Pancreatic Cancer,GNAS,24604757,all,gnas,C,M,,symbol 'GNAS' present,572,targeted next-generation sequencing of cancer genes dissects the molecular profiles of intraductal papillary neoplasms of the pancreas,M
+Pancreatic Cancer,GNAS,36965665,all,gnas,C,M,,symbol 'GNAS' present,584,multiplex digital pcr assay to detect multiple kras and gnas mutations associated with pancreatic carcinogenesis from minimal specimen amoun,M
+Pancreatic Cancer,GNAS,32939577,all,gnas,C,M,,symbol 'GNAS' present,634,digital pcr-based plasma cell-free dna mutation analysis for early-stage pancreatic tumor diagnosis and surveillance,M
+Pancreatic Cancer,GNAS,36578081,all,gnas,C,M,,symbol 'GNAS' present,674,intraductal oncocytic papillary neoplasm arising in peutz-jeghers syndrome bile duct a unique case report,M
+Pancreatic Cancer,GNAS,31576098,all,gnas,C,M,,symbol 'GNAS' present,675,genomic profile concordance between pancreatic cyst fluid and neoplastic tissue,M
+Pancreatic Cancer,GNAS,40784822,all,gnas,C,ML,,symbol 'GNAS' present,704,association between intra-tumoral microbiome and genetic alterations in intraductal papillary mucinous neoplasms of the pancreas,ML
+Pancreatic Cancer,GNAS,23532108,all,gnas,C,M,,symbol 'GNAS' present,710,intraductal papillary mucinous neoplasms of the pancreas with distinct pancreatic ductal adenocarcinomas are frequently of gastric subtype,M
+Pancreatic Cancer,GNAS,38622664,all,gnas,C,I,,symbol 'GNAS' present,731,selective epigenetic alterations in rnf43 in pancreatic exocrine cells from high-fat-diet-induced obese mice implications for pancreatic can,I
+Pancreatic Cancer,GNAS,23846778,all,gnas,C,M,,symbol 'GNAS' present,739,clinicopathological correlates of activating gnas mutations in intraductal papillary mucinous neoplasm ipmn of the pancreas,M
+Pancreatic Cancer,GNAS,21775669,all,gnas,C,M,,symbol 'GNAS' present,750,recurrent gnas mutations define an unexpected pathway for pancreatic cyst development,M
+Pancreatic Cancer,GNAS,31175866,all,gnas,C,M,,symbol 'GNAS' present,781,intraductal papillary mucinous neoplasms arise from multiple independent clones each with distinct mutations,M
+Pancreatic Cancer,GNAS,34674710,all,gnas,C,M,,symbol 'GNAS' present,783,a case of ectopic pancreas of the stomach accompanied by intraductal papillary mucinous neoplasm with gnas mutation,M
+Pancreatic Cancer,GNAS,26646266,all,gnas,C,M,,symbol 'GNAS' present,798,distinction of invasive carcinoma derived from intraductal papillary mucinous neoplasms from concomitant ductal adenocarcinoma of the pancre,M
+Pancreatic Cancer,GNAS,27295533,all,gnas,C,M,,symbol 'GNAS' present,811,tracking the clonal evolution of adenosquamous carcinoma a rare variant of intraductal papillary mucinous neoplasm of the pancreas,M
+Pancreatic Cancer,GNAS,23893889,all,gnas,C,M,,symbol 'GNAS' present,859,the discrete nature and distinguishing molecular features of pancreatic intraductal tubulopapillary neoplasms and intraductal papillary muci,M
+Pancreatic Cancer,GNAS,30342036,all,gnas,C,M,,symbol 'GNAS' present,867,pathways of progression from intraductal papillary mucinous neoplasm to pancreatic ductal adenocarcinoma based on molecular features,M
+Pancreatic Cancer,GNAS,30879148,all,gnas,C,M,,symbol 'GNAS' present,874,clinical assessment of the gnas mutation status in patients with intraductal papillary mucinous neoplasm of the pancreas,M
+Pancreatic Cancer,GNAS,27203738,all,gnas,C,I,,symbol 'GNAS' present,898,targeted next generation sequencing of endoscopic ultrasound acquired cytology from ampullary and pancreatic adenocarcinoma has the potentia,I
+Pancreatic Cancer,GNAS,26087898,all,gnas,C,I,,symbol 'GNAS' present,905,exome-level comparison of primary well-differentiated neuroendocrine tumors and their cell lines,I
+Pancreatic Cancer,GNAS,22355676,all,gnas,C,M,,symbol 'GNAS' present,926,whole-exome sequencing uncovers frequent gnas mutations in intraductal papillary mucinous neoplasms of the pancreas,M
+Pancreatic Cancer,GNAS,24525507,all,gnas,C,M,,symbol 'GNAS' present,927,gnas sequencing identifies ipmn-specific mutations in a subgroup of diminutive pancreatic cysts referred to as incipient ipmns,M
+Pancreatic Cancer,GNAS,24498386,all,gnas,C,M,,symbol 'GNAS' present,957,a gnas mutation found in pancreatic intraductal papillary mucinous neoplasms induces drastic alterations of gene expression profiles with up,M
+Pancreatic Cancer,GNAS,31711852,all,gnas,C,I,,symbol 'GNAS' present,972,sequential molecular and cytologic analyses provides a complementary approach to the diagnosis of pancreatic cystic lesions a decade of clin,I
+Pancreatic Cancer,GNAS,27343369,all,gnas,C,M,,symbol 'GNAS' present,980,detection of hot-spot mutations in circulating cell-free dna from patients with intraductal papillary mucinous neoplasms of the pancreas,M
+Pancreatic Cancer,GNAS,25530484,all,gnas,C,M,,symbol 'GNAS' present,985,assessment of clonality of multisegmental main duct intraductal papillary mucinous neoplasms of the pancreas based on gnas mutation analysis,M
+Pancreatic Cancer,GNAS,27514845,all,gnas,C,M,,symbol 'GNAS' present,993,value of adding gnas testing to pancreatic cyst fluid kras and carcinoembryonic antigen analysis for the diagnosis of intraductal papillary ,M
+Pancreatic Cancer,GNAS,31225717,all,gnas,C,ML,,symbol 'GNAS' present,996,genomic analysis of pancreatic juice dna assesses malignant risk of intraductal papillary mucinous neoplasm of pancreas,ML
+Pancreatic Cancer,BRAF,30144031,all,braf,C,M,target,symbol 'BRAF' present,4,braf v600e mutation a promising target in colorectal neuroendocrine carcinoma,M
+Pancreatic Cancer,BRAF,37017614,all,braf,C,M,,symbol 'BRAF' present,5,impact of kras and braf mutations on treatment efficacy and survival in high-grade gastroenteropancreatic neuroendocrine neoplasms,M
+Pancreatic Cancer,BRAF,26684240,all,braf,C,M,,symbol 'BRAF' present,34,identification of the braf v600e mutation in gastroenteropancreatic neuroendocrine tumors,M
+Pancreatic Cancer,BRAF,18376308,all,braf,C,M,target,symbol 'BRAF' present,58,mutational analyses of multiple oncogenic pathways in intraductal papillary mucinous neoplasms of the pancreas,M
+Pancreatic Cancer,BRAF,12969789,all,braf,C,M,,symbol 'BRAF' present,90,braf and k-ras gene mutations in human pancreatic cancers,M
+Pancreatic Cancer,BRAF,41797461,all,braf,C,M,,symbol 'BRAF' present,118,treatment of metastatic pancreatic cancer with concurrent braf v600e mutation and germline brca2 mutation a case report,M
+Pancreatic Cancer,BRAF,15842051,all,braf,C,M,,symbol 'BRAF' present,166,braf gene mutations are rare events in gastroenteropancreatic neuroendocrine tumors,M
+Pancreatic Cancer,BRAF,40935782,all,braf,C,ML,,symbol 'BRAF' present,170,prediction model for mutation detection via circulating tumor dna analysis in pancreatic cancer,ML
+Pancreatic Cancer,BRAF,33082211,all,braf,C,ML,,symbol 'BRAF' present,197,improved assessment of response status in patients with pancreatic cancer treated with neoadjuvant therapy using somatic mutations and liqui,ML
+Pancreatic Cancer,BRAF,39999309,all,braf,C,I,,symbol 'BRAF' present,204,somatic genomic profiling of pancreatic ductal adenocarcinomas from a diverse cohort of patients,I
+Pancreatic Cancer,BRAF,31025231,all,braf,C,M,,symbol 'BRAF' present,208,gnas but not extended ras mutations spectrum are associated with a better prognosis in intraductal pancreatic mucinous neoplasms,M
+Pancreatic Cancer,BRAF,18343945,all,braf,C,M,,symbol 'BRAF' present,230,pik3ca kras and braf mutations in intraductal papillary mucinous neoplasm carcinoma ipmn c of the pancreas,M
+Pancreatic Cancer,BRAF,30348712,all,b raf proto oncogene serine threonine kinase|braf,C,M,,symbol 'BRAF' present,281,impact of ethnicity on somatic mutation rates of pancreatic adenocarcinoma,M
+Pancreatic Cancer,BRAF,31158244,all,braf,C,M,,symbol 'BRAF' present,288,rare braf mutations in pancreatic neuroendocrine tumors may predict response to raf and mek inhibition,M
+Pancreatic Cancer,BRAF,26927447,all,braf,C,M,,symbol 'BRAF' present,328,kras braf and pik3ca mutations and patient prognosis in 126 pancreatic cancers pyrosequencing technology and literature review,M
+Pancreatic Cancer,BRAF,18813127,all,braf,C,M,,symbol 'BRAF' present,340,histologic immunohistochemical and molecular classification of 52 ipmns of the pancreas,M
+Pancreatic Cancer,BRAF,14507635,all,braf,C,M,,symbol 'BRAF' present,355,braf and fbxw7 cdc4 fbw7 ago sel10 mutations in distinct subsets of pancreatic cancer potential therapeutic targets,M
+Pancreatic Cancer,BRAF,21945955,all,braf,C,I,,symbol 'BRAF' present,375,somatic mutations in pik3ca and activation of akt in intraductal tubulopapillary neoplasms of the pancreas,I
+Pancreatic Cancer,BRAF,38814411,all,braf,C,M,,symbol 'BRAF' present,415,prolonged response to dabrafenib trametinib in grade 3 metastatic pancreatic neuroendocrine tumor net g3 with braf v600e mutation,M
+Pancreatic Cancer,BRAF,16598499,all,braf,C,M,,symbol 'BRAF' present,420,molecular analysis of the egfr-ras-raf pathway in pancreatic ductal adenocarcinomas lack of mutations in the braf and egfr genes,M
+Pancreatic Cancer,BRAF,17097223,all,braf,C,M,,symbol 'BRAF' present,432,braf and kras gene mutations in intraductal papillary mucinous neoplasm carcinoma ipmn ipmc of the pancreas,M
+Pancreatic Cancer,BRAF,34614142,all,braf,C,M,,symbol 'BRAF' present,472,braf rearrangements and braf v600e mutations are seen in a subset of pancreatic carcinomas with acinar differentiation,M
+Pancreatic Cancer,BRAF,34476331,all,braf,C,M,,symbol 'BRAF' present,532,retrospective case series analysis of raf family alterations in pancreatic cancer real-world outcomes from targeted and standard therapies,M
+Pancreatic Cancer,BRAF,39865498,all,braf,C,I,,symbol 'BRAF' present,535,cytologic histologic and clinical correlation of minor mutations in pancreatic cysts,I
+Pancreatic Cancer,BRAF,37983855,all,braf,C,ML,,symbol 'BRAF' present,547,mucinous cystadenocarcinoma of the breast harbours trps1 expressions and pik3ca alterations,ML
+Pancreatic Cancer,BRAF,41348949,all,braf,C,ML,,symbol 'BRAF' present,562,tp53 kras variant allele frequency ratio predicts advanced disease in mucin-producing cystic neoplasms of the pancreas,ML
+Pancreatic Cancer,BRAF,24604757,all,braf,C,M,,symbol 'BRAF' present,572,targeted next-generation sequencing of cancer genes dissects the molecular profiles of intraductal papillary neoplasms of the pancreas,M
+Pancreatic Cancer,BRAF,19893451,all,braf,C,ML,,symbol 'BRAF' present,580,resequencing analysis of the human tyrosine kinase gene family in pancreatic cancer,ML
+Pancreatic Cancer,BRAF,22041919,all,braf,C,ML,,symbol 'BRAF' present,596,different subtypes of intraductal papillary mucinous neoplasm in the pancreas have distinct pathways to pancreatic cancer progression,ML
+Pancreatic Cancer,BRAF,21547907,all,braf,C,M,,symbol 'BRAF' present,615,molecular characteristics and biological behaviours of the oncocytic and pancreatobiliary subtypes of intraductal papillary mucinous neoplas,M
+Pancreatic Cancer,BRAF,31519698,all,braf,C,M,,symbol 'BRAF' present,648,identification of targetable braf n486 p490 variant by whole-genome sequencing leading to dabrafenib-induced remission of a braf -mutant pan,M
+Pancreatic Cancer,BRAF,24186143,all,braf,C,W,,symbol 'BRAF' present,665,epidermal growth factor receptor signaling pathway is frequently altered in ampullary carcinoma at protein and genetic levels,W
+Pancreatic Cancer,BRAF,22699145,all,braf,C,M,,symbol 'BRAF' present,695,frequencies and prognostic role of kras and braf mutations in patients with localized pancreatic and ampullary adenocarcinomas,M
+Pancreatic Cancer,BRAF,37410975,all,braf,C,M,,symbol 'BRAF' present,720,tumor mutational burden in real-world patients with pancreatic cancer genomic alterations and predictive value for immune checkpoint inhibit,M
+Pancreatic Cancer,BRAF,33099543,all,braf,C,M,,symbol 'BRAF' present,736,ctdna in neuroendocrine carcinoma of gastroenteropancreatic origin or of unknown primary the circan-nec pilot study,M
+Pancreatic Cancer,BRAF,41372636,all,braf,C,ML,,symbol 'BRAF' present,740,translational relevance of the genomic landscape of kras g12d -mutant colorectal and pancreatic cancers,ML
+Pancreatic Cancer,BRAF,17351944,all,braf,C,M,,symbol 'BRAF' present,762,molecular diagnostic testing as an adjunct to morphologic evaluation of pancreatic ductal system brushings potential augmentation for diagno,M
+Pancreatic Cancer,BRAF,40274200,all,braf,C,I,,symbol 'BRAF' present,784,genomic mutation and clinicopathological features of kras wild-type tumors in chinese cohort with pancreatic adenocarcinoma,I
+Pancreatic Cancer,BRAF,32583281,all,braf,C,G,,symbol 'BRAF' present,853,pancreatic ductal adenocarcinomas from mexican patients present a distinct genomic mutational pattern,G
+Pancreatic Cancer,BRAF,23893889,all,braf,C,M,,symbol 'BRAF' present,859,the discrete nature and distinguishing molecular features of pancreatic intraductal tubulopapillary neoplasms and intraductal papillary muci,M
+Pancreatic Cancer,BRAF,33668025,all,braf,C,ML,,symbol 'BRAF' present,860,durable response to pd-1 blockade in a patient with metastatic pancreatic undifferentiated carcinoma with osteoclast-like giant cells,ML
+Pancreatic Cancer,BRAF,40317966,all,braf,C,M,,symbol 'BRAF' present,861,clinicopathological and molecular characterization of kras wild-type pancreatic ductal adenocarcinomas reveals precursor lesions with oncoge,M
+Pancreatic Cancer,BRAF,25855536,all,braf,C,M,,symbol 'BRAF' present,877,whole-exome sequencing of pancreatic cancer defines genetic diversity and therapeutic targets,M
+Pancreatic Cancer,BRAF,32883742,all,braf,C,M,,symbol 'BRAF' present,958,comprehensive genomic profiling of gastroenteropancreatic neuroendocrine neoplasms gep-nens,M
+Pancreatic Cancer,BRAF,24978597,all,braf,C,ML,,symbol 'BRAF' present,960,discovery of novel akt inhibitors with enhanced anti-tumor effects in combination with the mek inhibitor,ML
+Pancreatic Cancer,MEN1,17623761,all,men1,C,M,,symbol 'MEN1' present,3,clinical testing for mutations in the men1 gene in sweden a report on 200 unrelated cases,M
+Pancreatic Cancer,MEN1,35521758,all,men1,C,M,,symbol 'MEN1' present,9,convergence between germline and somatic mutations in pancreatic neuroendocrine tumors,M
+Pancreatic Cancer,MEN1,39093924,all,men1,C,M,,symbol 'MEN1' present,24,men1 daxx atrx mutations enhance progression-free survival in gastroenteropancreatic neuroendocrine tumors treated with peptide receptor rad,M
+Pancreatic Cancer,MEN1,35698921,all,men1,C,ML,,symbol 'MEN1' present,40,high-grade transformation of pancreatic neuroendocrine tumor associated with tp53 mutations a diagnostic pitfall mimicking neuroendocrine ca,ML
+Pancreatic Cancer,MEN1,10634374,all,men1,C,M,,symbol 'MEN1' present,43,genotype phenotype correlation of multiple endocrine neoplasia type 1 gene mutations in sporadic gastrinomas,M
+Pancreatic Cancer,MEN1,14639103,all,men1,C,M,,symbol 'MEN1' present,86,dpc4 smad4 no mutations rare allelic imbalances and retained protein expression in pancreatic endocrine tumors,M
+Pancreatic Cancer,MEN1,30747827,all,men1,C,M,,symbol 'MEN1' present,105,performance of daxx immunohistochemistry as a screen for daxx mutations in pancreatic neuroendocrine tumors,M
+Pancreatic Cancer,MEN1,41323978,all,men1,C,M,,symbol 'MEN1' present,113,case report novel likely pathogenic men1 mosaic mutation in the family with men-1 syndrome,M
+Pancreatic Cancer,MEN1,37488390,all,men1,C,M,,symbol 'MEN1' present,134,detecting somatic mutations for well-differentiated pancreatic neuroendocrine tumors in endoscopic ultrasound-guided fine needle aspiration ,M
+Pancreatic Cancer,MEN1,26564120,all,men1,C,M,,symbol 'MEN1' present,156,vipoma with multiple endocrine neoplasia type 1 identified as an atypical gene mutation,M
+Pancreatic Cancer,MEN1,33705973,all,men1,C,ML,,symbol 'MEN1' present,191,mutation and expression of gene yy1 in pancreatic neuroendocrine tumors and its clinical significance,ML
+Pancreatic Cancer,MEN1,17766710,all,men1,C,M,,symbol 'MEN1' present,194,multiple endocrine neoplasia type 1 in northern finland clinical features and genotype phenotype correlation,M
+Pancreatic Cancer,MEN1,37354253,all,men1,C,ML,,symbol 'MEN1' present,212,tuberous sclerosis complex mutations in patients with pancreatic neuroendocrine tumors observations on phenotypic and treatment-related asso,ML
+Pancreatic Cancer,MEN1,20710116,all,men1,C,M,,symbol 'MEN1' present,219,a novel mutation of the men1 gene in a chinese kindred with multiple endocrine neoplasia type 1,M
+Pancreatic Cancer,MEN1,23745036,all,men1,C,ML,,symbol 'MEN1' present,221,prss1 p leu81met mutation results in autoimmune pancreatitis,ML
+Pancreatic Cancer,MEN1,25210493,all,men1,C,W,,symbol 'MEN1' present,224,kras and daxx atrx gene mutations are correlated with the clinicopathological features advanced diseases and poor prognosis in chinese patie,W
+Pancreatic Cancer,MEN1,25210877,all,men1,U,W,,"'MEN1' used as the syndrome/patient label (MEN1 patients), gene not the topic",279,higher risk of aggressive pancreatic neuroendocrine tumors in men1 patients with men1 mutations affecting the ches1 interacting menin domain,W
+Pancreatic Cancer,MEN1,40696424,all,men1,C,M,,symbol 'MEN1' present,287,multiple endocrine neoplasia type 1 with neuroglycopenic symptoms with a novel heterozygous men1 gene mutation,M
+Pancreatic Cancer,MEN1,15944766,all,men1,C,M,,symbol 'MEN1' present,300,multiple endocrine neoplasia type 1 gene mutations in sporadic gastrinomas in japan,M
+Pancreatic Cancer,MEN1,17710155,all,men1,C,M,,symbol 'MEN1' present,301,mutational analysis of p27 cdkn1b and p18 cdkn2c in sporadic pancreatic endocrine tumors argues against tumor-suppressor function,M
+Pancreatic Cancer,MEN1,30021865,all,men1,C,ML,,symbol 'MEN1' present,371,hotspot daxx ptch2 and cyfip2 mutations in pancreatic neuroendocrine neoplasms,ML
+Pancreatic Cancer,MEN1,33359239,all,men1,C,I,,symbol 'MEN1' present,377,neuroendocrine carcinoma and mixed neuroendocrinenon-neuroendocrine neoplasm of the stomach a clinicopathological and exome sequencing study,I
+Pancreatic Cancer,MEN1,30083881,all,men1,C,M,,symbol 'MEN1' present,393,a novel germline mutation at exon 10 of men1 gene a clinical survey and positive genotype-phenotype analysis of a men1 italian family includ,M
+Pancreatic Cancer,MEN1,21184284,all,men1,C,M,,symbol 'MEN1' present,406,a new frameshift men1 gene mutation associated with familial malignant insulinomas,M
+Pancreatic Cancer,MEN1,41936330,all,men1,C,M,,symbol 'MEN1' present,439,a de novo men1 gene mutation in a 4-year-old boy with hypoglycemia a case report and functional study,M
+Pancreatic Cancer,MEN1,39382626,all,men1,C,ML,,symbol 'MEN1' present,458,rapid evolution of metastases in patients with treated g3 neuroendocrine tumors associated with nec-like transformation and tp53 mutation,ML
+Pancreatic Cancer,MEN1,37492626,all,men1,C,M,,symbol 'MEN1' present,483,clinically defined mutations in men1 alter its tumor-suppressive function through increased menin turnover,M
+Pancreatic Cancer,MEN1,15714081,all,men1,C,M,,symbol 'MEN1' present,485,clinical testing for multiple endocrine neoplasia type 1 in a dna diagnostic laboratory,M
+Pancreatic Cancer,MEN1,39865498,all,men1,C,I,,symbol 'MEN1' present,535,cytologic histologic and clinical correlation of minor mutations in pancreatic cysts,I
+Pancreatic Cancer,MEN1,39366850,all,men1,C,ML,,symbol 'MEN1' present,558,daxx is associated with early recurrence of pancreatic neuroendocrine tumors after r0 resection,ML
+Pancreatic Cancer,MEN1,42794433,all,men1,C,M,,symbol 'MEN1' present,559,the genomic patterns of well-differentiated pancreatic neuroendocrine tumors nets identify sub-sets for rational therapeutic targeting,M
+Pancreatic Cancer,MEN1,32345369,all,men1,C,M,,symbol 'MEN1' present,561,centromeric cohesion failure invokes a conserved choreography of chromosomal mis-segregations in pancreatic neuroendocrine tumor,M
+Pancreatic Cancer,MEN1,39638700,all,men1,C,M,,symbol 'MEN1' present,564,genotype-based prognosis prediction for men1-related pancreatic neuroendocrine tumors in korean patients a single-center retrospective study,M
+Pancreatic Cancer,MEN1,20566584,all,men1,C,M,,symbol 'MEN1' present,582,men1 in pancreatic endocrine tumors analysis of gene and protein status in 169 sporadic neoplasms reveals alterations in the vast majority o,M
+Pancreatic Cancer,MEN1,26307114,all,men1,C,M,,symbol 'MEN1' present,589,novel men 1 gene findings in rare sporadic insulinoma--a case control study,M
+Pancreatic Cancer,MEN1,17397250,all,men1,C,M,,symbol 'MEN1' present,619,men1 935-1g c splicing mutation in an indian patient with multiple endocrine neoplasia type 1,M
+Pancreatic Cancer,MEN1,27994516,all,men1,C,M,,symbol 'MEN1' present,640,genes involved in angiogenesis and mtor pathways are frequently mutated in asian patients with pancreatic neuroendocrine tumors,M
+Pancreatic Cancer,MEN1,34160414,all,men1,C,M,,symbol 'MEN1' present,670,a germline c 1546dupc men1 mutation in an men1 family a case report,M
+Pancreatic Cancer,MEN1,28969599,all,men1,C,M,,symbol 'MEN1' present,678,genetic analysis of parathyroid and pancreatic tumors in a patient with multiple endocrine neoplasia type 1 using whole-exome sequencing,M
+Pancreatic Cancer,MEN1,12049533,all,men1,C,M,,symbol 'MEN1' present,681,genotype-phenotype analysis in multiple endocrine neoplasia type 1,M
+Pancreatic Cancer,MEN1,10759881,all,men1,C,M,,symbol 'MEN1' present,694,lack of men1 gene mutations in 27 sporadic insulinomas,M
+Pancreatic Cancer,MEN1,14648742,all,men1,U,W,,'MEN1' used as the syndrome label (prevalence of MEN1 syndrome in hyperparathyroidism),713,prevalence of multiple endocrine neoplasia type 1 in young patients with apparently sporadic primary hyperparathyroidism or pancreaticoduode,W
+Pancreatic Cancer,MEN1,18775714,all,men1,C,M,,symbol 'MEN1' present,724,men1 missense mutations impair sensitization to apoptosis induced by wild-type menin in endocrine pancreatic tumor cells,M
+Pancreatic Cancer,MEN1,19953642,all,men1,U,W,,'MEN1' used as the syndrome label (phenocopies); gene not the topic,730,diagnostic challenges due to phenocopies lessons from multiple endocrine neoplasia type1 men1,W
+Pancreatic Cancer,MEN1,23778871,all,men1,C,M,,symbol 'MEN1' present,801,a men1 syndrome with a paraganglioma,M
+Pancreatic Cancer,MEN1,18601604,all,men1,C,M,,symbol 'MEN1' present,843,a novel men1 frameshift germline mutation in two italian monozygotic twins,M
+Pancreatic Cancer,MEN1,26424307,all,men1,C,M,,symbol 'MEN1' present,845,a novel missense mutation of the men1 gene in a patient with multiple endocrine neoplasia type 1 with glucagonoma and obesity,M
+Pancreatic Cancer,MEN1,15205994,all,men1,C,M,,symbol 'MEN1' present,868,unusual presentation of multiple endocrine neoplasia type 1 in a young woman with a novel mutation of the men1 gene,M
+Pancreatic Cancer,MEN1,11114630,all,men1,C,M,,symbol 'MEN1' present,869,pancreaticoduodenal endocrine tumors in multiple endocrine neoplasia type 1 surgery or surveillance,M
+Pancreatic Cancer,MEN1,22490989,all,men1,C,M,,symbol 'MEN1' present,870,a novel menin gene deletional mutation in a little series of italian patients affected by apparently sporadic multiple endocrine neoplasia t,M
+Pancreatic Cancer,MEN1,30428914,all,men1,C,M,,symbol 'MEN1' present,893,multiple endocrine neoplasia type 1 extensive analysis of a large database of florentine patients,M
+Pancreatic Cancer,MEN1,26087898,all,men1,C,ML,,symbol 'MEN1' present,905,exome-level comparison of primary well-differentiated neuroendocrine tumors and their cell lines,ML
+Pancreatic Cancer,MEN1,19491073,all,men1,C,M,,symbol 'MEN1' present,907,parathyroid carcinoma in multiple endocrine neoplasia type 1 with a classic germline mutation,M
+Pancreatic Cancer,MEN1,28179320,all,men1|menin 1,C,I,,symbol 'MEN1' present,932,detection of somatic mutations in gastroenteropancreatic neuroendocrine tumors using targeted deep sequencing,I
+Pancreatic Cancer,MEN1,27342911,all,men1,C,I,,symbol 'MEN1' present,934,aberrant menin expression is an early event in pancreatic neuroendocrine tumorigenesis,I
+Pancreatic Cancer,MEN1,11756777,all,men1,U,W,,'MEN1' used as the syndrome label ('MEN1-related tumors') in a polyposis case report,954,familial adenomatous polyposis associated with multiple endocrine neoplasia type 1-related tumors and thyroid carcinoma a case report with c,W
+Pancreatic Cancer,MEN1,32883742,all,men1,C,I,,symbol 'MEN1' present,958,comprehensive genomic profiling of gastroenteropancreatic neuroendocrine neoplasms gep-nens,I
+Pancreatic Cancer,MEN1,10646853,all,men1,C,M,,symbol 'MEN1' present,977,identical clonality of sporadic gastrinomas at multiple sites,M
+Pancreatic Cancer,MEN1,40424057,all,men1,C,M,,symbol 'MEN1' present,982,familial mahvash disease with metastatic pancreatic net and men1 mutations,M
+Pancreatic Cancer,MEN1,14686752,all,men1,C,M,,symbol 'MEN1' present,992,a novel missense mutation of the men1 gene in a multiple endocrine neoplasia type 1 patient associated with carcinoid syndrome,M
+Pancreatic Cancer,PALB2,33028596,all,palb2,C,I,,symbol 'PALB2' present,21,effect of germline mutations in homologous recombination repair genes on overall survival of patients with pancreatic adenocarcinoma,I
+Pancreatic Cancer,PALB2,26440929,all,palb2,C,ML,,symbol 'PALB2' present,27,identification of germline genetic mutations in patients with pancreatic cancer,ML
+Pancreatic Cancer,PALB2,37083062,all,palb2,C,ML,,symbol 'PALB2' present,38,patients with deleterious germline mutations a heterogeneous population for pancreatic cancer screening,ML
+Pancreatic Cancer,PALB2,35737913,all,palb2,C,ML,,symbol 'PALB2' present,45,rad51b harbors germline mutations associated with pancreatic ductal adenocarcinoma,ML
+Pancreatic Cancer,PALB2,21365267,all,palb2|partner and localizer of brca2,C,M,,symbol 'PALB2' present,50,palb2 mutations in familial breast and pancreatic cancer,M
+Pancreatic Cancer,PALB2,33229504,all,palb2,C,M,,symbol 'PALB2' present,72,molecular characteristics of brca1 2 and palb2 mutations in pancreatic ductal adenocarcinoma,M
+Pancreatic Cancer,PALB2,27038244,all,palb2,C,I,,symbol 'PALB2' present,111,do founder mutations characteristic of some cancer sites also predispose to pancreatic cancer,I
+Pancreatic Cancer,PALB2,22166947,all,palb2,C,M,,symbol 'PALB2' present,129,routine testing for palb2 mutations in familial pancreatic cancer families and breast cancer families with pancreatic cancer is not indicate,M
+Pancreatic Cancer,PALB2,35205366,all,palb2,C,I,,symbol 'PALB2' present,149,pancreatic cancer with mutation in brca1 2 mlh1 and apc genes phenotype correlation and detection of a novel germline brca2 mutation,I
+Pancreatic Cancer,PALB2,27106063,all,palb2|partner and localizer of brca2,C,M,,symbol 'PALB2' present,154,mutation analysis of the palb2 gene in unselected pancreatic cancer patients in the czech republic,M
+Pancreatic Cancer,PALB2,38350919,all,palb2,C,I,,symbol 'PALB2' present,158,germline mutations of homologous recombination genes and clinical outcomes in pancreatic cancer a multicenter study in taiwan,I
+Pancreatic Cancer,PALB2,40935782,all,palb2,C,ML,,symbol 'PALB2' present,170,prediction model for mutation detection via circulating tumor dna analysis in pancreatic cancer,ML
+Pancreatic Cancer,PALB2,30883245,all,palb2,C,I,,symbol 'PALB2' present,196,deleterious germline mutations are a risk factor for neoplastic progression among high-risk individuals undergoing pancreatic surveillance,I
+Pancreatic Cancer,PALB2,42487270,all,palb2,C,M,,symbol 'PALB2' present,236,genomic alterations and their clinical implications in pancreatic ductal adenocarcinoma in a large-scale chinese cohort,M
+Pancreatic Cancer,PALB2,29802286,all,palb2,C,M,,symbol 'PALB2' present,243,mutations in brca1 brca2 and palb2 and a panel of 50 cancer-associated genes in pancreatic ductal adenocarcinoma,M
+Pancreatic Cancer,PALB2,28767289,all,palb2,C,I,,symbol 'PALB2' present,261,deleterious germline mutations in patients with apparently sporadic pancreatic adenocarcinoma,I
+Pancreatic Cancer,PALB2,27488870,all,palb2,C,M,,symbol 'PALB2' present,271,the prevalence of founder mutations among individuals from families with familial pancreatic cancer syndrome,M
+Pancreatic Cancer,PALB2,21614589,all,palb2,C,M,,symbol 'PALB2' present,275,lack of germline palb2 mutations in melanoma-prone families with cdkn2a mutations and pancreatic cancer,M
+Pancreatic Cancer,PALB2,31858328,all,palb2,C,M,,symbol 'PALB2' present,336,de novo pathogenic germline variant in palb2 in a patient with pancreatic cancer,M
+Pancreatic Cancer,PALB2,28726808,all,palb2,C,ML,,symbol 'PALB2' present,344,prevalence of germ-line mutations in cancer genes among pancreatic cancer patients with a positive family history,ML
+Pancreatic Cancer,PALB2,20412113,all,palb2,C,M,,symbol 'PALB2' present,354,palb2 mutations in european familial pancreatic cancer families,M
+Pancreatic Cancer,PALB2,31871297,all,palb2,C,I,,symbol 'PALB2' present,364,germline dna sequencing reveals novel mutations predictive of overall survival in a cohort of patients with pancreatic cancer,I
+Pancreatic Cancer,PALB2,39576455,all,palb2,C,W,,symbol 'PALB2' present,403,survival outcomes and genetic characteristics of resected pancreatic acinar cell carcinoma,W
+Pancreatic Cancer,PALB2,20582465,all,palb2,C,M,,symbol 'PALB2' present,438,palb2 analysis in brca2-like families,M
+Pancreatic Cancer,PALB2,36054589,all,palb2,C,I,,symbol 'PALB2' present,448,a comprehensive literature review and meta-analysis of the prevalence of pan-cancer brca mutations homologous recombination repair gene muta,I
+Pancreatic Cancer,PALB2,22368299,all,palb2,C,ML,,symbol 'PALB2' present,478,cdkn2a is the main susceptibility gene in italian pancreatic cancer families,ML
+Pancreatic Cancer,PALB2,25479140,all,palb2,C,I,,symbol 'PALB2' present,536,prevalence of germline mutations in cancer predisposition genes in patients with pancreatic cancer,I
+Pancreatic Cancer,PALB2,32669374,all,palb2,C,I,,symbol 'PALB2' present,597,a phase i ii study of veliparib abt-888 in combination with 5-fluorouracil and oxaliplatin in patients with metastatic pancreatic cancer,I
+Pancreatic Cancer,PALB2,25896973,all,palb2,C,W,,symbol 'PALB2' present,688,precision medicine for advanced pancreas cancer the individualized molecular pancreatic cancer therapy impact trial,W
+Pancreatic Cancer,PALB2,30131383,all,palb2,C,I,,symbol 'PALB2' present,698,germline and somatic dna damage repair gene mutations and overall survival in metastatic pancreatic adenocarcinoma patients treated with fol,I
+Pancreatic Cancer,PALB2,32997802,all,palb2,C,M,,symbol 'PALB2' present,715,frequency and molecular characteristics of palb2-associated cancers in russian patients,M
+Pancreatic Cancer,PALB2,37410975,all,palb2,C,I,,symbol 'PALB2' present,720,tumor mutational burden in real-world patients with pancreatic cancer genomic alterations and predictive value for immune checkpoint inhibit,I
+Pancreatic Cancer,PALB2,25356972,all,palb2,C,ML,,symbol 'PALB2' present,753,brca1 brca2 palb2 and cdkn2a mutations in familial pancreatic cancer a pacgene study,ML
+Pancreatic Cancer,PALB2,19264984,all,palb2,C,M,,symbol 'PALB2' present,756,exomic sequencing identifies palb2 as a pancreatic cancer susceptibility gene,M
+Pancreatic Cancer,PALB2,23935836,all,fancn|palb2,C,M,,symbol 'PALB2' present,773,analysis of palb2 gene in brca1 brca2 negative spanish hereditary breast ovarian cancer families with pancreatic cancer cases,M
+Pancreatic Cancer,PALB2,27114589,all,palb2,C,ML,,symbol 'PALB2' present,791,benefit of surveillance for pancreatic cancer in high-risk individuals outcome of long-term prospective follow-up studies from three europea,ML
+Pancreatic Cancer,PALB2,21415078,all,palb2,C,M,,symbol 'PALB2' present,794,germline palb2 mutation analysis in breast-pancreas cancer families,M
+Pancreatic Cancer,PALB2,21989927,all,palb2,C,M,,symbol 'PALB2' present,847,contribution of germline mutations in the brca and palb2 genes to pancreatic cancer in italy,M
+Pancreatic Cancer,PALB2,35779338,all,palb2,C,M,,symbol 'PALB2' present,919,ears2 significantly coexpresses with palb2 in breast and pancreatic cancer,M

@@ -1,0 +1,3611 @@
+variant,cancer,rank,gene
+baseline W*ln(1+E)*ln(1+S),Breast Cancer,1,BRCA1
+baseline W*ln(1+E)*ln(1+S),Breast Cancer,2,BRCA2
+baseline W*ln(1+E)*ln(1+S),Breast Cancer,3,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Breast Cancer,4,ERBB2
+baseline W*ln(1+E)*ln(1+S),Breast Cancer,5,TP53
+baseline W*ln(1+E)*ln(1+S),Breast Cancer,6,PALB2
+baseline W*ln(1+E)*ln(1+S),Breast Cancer,7,CHEK2
+baseline W*ln(1+E)*ln(1+S),Breast Cancer,8,ESR1
+baseline W*ln(1+E)*ln(1+S),Breast Cancer,9,EGFR
+baseline W*ln(1+E)*ln(1+S),Breast Cancer,10,PTEN
+baseline W*ln(1+E)*ln(1+S),Lung Cancer,1,EGFR
+baseline W*ln(1+E)*ln(1+S),Lung Cancer,2,KRAS
+baseline W*ln(1+E)*ln(1+S),Lung Cancer,3,CD274
+baseline W*ln(1+E)*ln(1+S),Lung Cancer,4,TP53
+baseline W*ln(1+E)*ln(1+S),Lung Cancer,5,BRAF
+baseline W*ln(1+E)*ln(1+S),Lung Cancer,6,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Lung Cancer,7,ERBB2
+baseline W*ln(1+E)*ln(1+S),Lung Cancer,8,ALK
+baseline W*ln(1+E)*ln(1+S),Lung Cancer,9,MET
+baseline W*ln(1+E)*ln(1+S),Lung Cancer,10,STK11
+baseline W*ln(1+E)*ln(1+S),Colorectal Cancer,1,KRAS
+baseline W*ln(1+E)*ln(1+S),Colorectal Cancer,2,BRAF
+baseline W*ln(1+E)*ln(1+S),Colorectal Cancer,3,EGFR
+baseline W*ln(1+E)*ln(1+S),Colorectal Cancer,4,MLH1
+baseline W*ln(1+E)*ln(1+S),Colorectal Cancer,5,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Colorectal Cancer,6,NRAS
+baseline W*ln(1+E)*ln(1+S),Colorectal Cancer,7,MSH2
+baseline W*ln(1+E)*ln(1+S),Colorectal Cancer,8,APC
+baseline W*ln(1+E)*ln(1+S),Colorectal Cancer,9,TP53
+baseline W*ln(1+E)*ln(1+S),Colorectal Cancer,10,MSH6
+baseline W*ln(1+E)*ln(1+S),Prostate Cancer,1,BRCA2
+baseline W*ln(1+E)*ln(1+S),Prostate Cancer,2,BRCA1
+baseline W*ln(1+E)*ln(1+S),Prostate Cancer,3,PTEN
+baseline W*ln(1+E)*ln(1+S),Prostate Cancer,4,TP53
+baseline W*ln(1+E)*ln(1+S),Prostate Cancer,5,ATM
+baseline W*ln(1+E)*ln(1+S),Prostate Cancer,6,AR
+baseline W*ln(1+E)*ln(1+S),Prostate Cancer,7,SPOP
+baseline W*ln(1+E)*ln(1+S),Prostate Cancer,8,PARP1
+baseline W*ln(1+E)*ln(1+S),Prostate Cancer,9,CHEK2
+baseline W*ln(1+E)*ln(1+S),Prostate Cancer,10,PALB2
+baseline W*ln(1+E)*ln(1+S),Melanoma,1,BRAF
+baseline W*ln(1+E)*ln(1+S),Melanoma,2,NRAS
+baseline W*ln(1+E)*ln(1+S),Melanoma,3,KIT
+baseline W*ln(1+E)*ln(1+S),Melanoma,4,CDKN2A
+baseline W*ln(1+E)*ln(1+S),Melanoma,5,TERT
+baseline W*ln(1+E)*ln(1+S),Melanoma,6,GNAQ
+baseline W*ln(1+E)*ln(1+S),Melanoma,7,GNA11
+baseline W*ln(1+E)*ln(1+S),Melanoma,8,BAP1
+baseline W*ln(1+E)*ln(1+S),Melanoma,9,PDCD1
+baseline W*ln(1+E)*ln(1+S),Melanoma,10,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Bladder Cancer,1,FGFR3
+baseline W*ln(1+E)*ln(1+S),Bladder Cancer,2,TP53
+baseline W*ln(1+E)*ln(1+S),Bladder Cancer,3,TERT
+baseline W*ln(1+E)*ln(1+S),Bladder Cancer,4,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Bladder Cancer,5,CD274
+baseline W*ln(1+E)*ln(1+S),Bladder Cancer,6,RB1
+baseline W*ln(1+E)*ln(1+S),Bladder Cancer,7,KRAS
+baseline W*ln(1+E)*ln(1+S),Bladder Cancer,8,ERBB2
+baseline W*ln(1+E)*ln(1+S),Bladder Cancer,9,EGFR
+baseline W*ln(1+E)*ln(1+S),Bladder Cancer,10,ARID1A
+baseline W*ln(1+E)*ln(1+S),Kidney Cancer,1,VHL
+baseline W*ln(1+E)*ln(1+S),Kidney Cancer,2,WT1
+baseline W*ln(1+E)*ln(1+S),Kidney Cancer,3,PBRM1
+baseline W*ln(1+E)*ln(1+S),Kidney Cancer,4,BAP1
+baseline W*ln(1+E)*ln(1+S),Kidney Cancer,5,FH
+baseline W*ln(1+E)*ln(1+S),Kidney Cancer,6,SETD2
+baseline W*ln(1+E)*ln(1+S),Kidney Cancer,7,FLCN
+baseline W*ln(1+E)*ln(1+S),Kidney Cancer,8,TSC2
+baseline W*ln(1+E)*ln(1+S),Kidney Cancer,9,TP53
+baseline W*ln(1+E)*ln(1+S),Kidney Cancer,10,CTNNB1
+baseline W*ln(1+E)*ln(1+S),Pancreatic Cancer,1,KRAS
+baseline W*ln(1+E)*ln(1+S),Pancreatic Cancer,2,BRCA2
+baseline W*ln(1+E)*ln(1+S),Pancreatic Cancer,3,CDKN2A
+baseline W*ln(1+E)*ln(1+S),Pancreatic Cancer,4,TP53
+baseline W*ln(1+E)*ln(1+S),Pancreatic Cancer,5,BRCA1
+baseline W*ln(1+E)*ln(1+S),Pancreatic Cancer,6,SMAD4
+baseline W*ln(1+E)*ln(1+S),Pancreatic Cancer,7,GNAS
+baseline W*ln(1+E)*ln(1+S),Pancreatic Cancer,8,PALB2
+baseline W*ln(1+E)*ln(1+S),Pancreatic Cancer,9,BRAF
+baseline W*ln(1+E)*ln(1+S),Pancreatic Cancer,10,MEN1
+baseline W*ln(1+E)*ln(1+S),Liver Cancer,1,KRAS
+baseline W*ln(1+E)*ln(1+S),Liver Cancer,2,CTNNB1
+baseline W*ln(1+E)*ln(1+S),Liver Cancer,3,TP53
+baseline W*ln(1+E)*ln(1+S),Liver Cancer,4,BRAF
+baseline W*ln(1+E)*ln(1+S),Liver Cancer,5,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Liver Cancer,6,TERT
+baseline W*ln(1+E)*ln(1+S),Liver Cancer,7,NRAS
+baseline W*ln(1+E)*ln(1+S),Liver Cancer,8,EGFR
+baseline W*ln(1+E)*ln(1+S),Liver Cancer,9,KIT
+baseline W*ln(1+E)*ln(1+S),Liver Cancer,10,APC
+baseline W*ln(1+E)*ln(1+S),Stomach Cancer,1,CDH1
+baseline W*ln(1+E)*ln(1+S),Stomach Cancer,2,TP53
+baseline W*ln(1+E)*ln(1+S),Stomach Cancer,3,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Stomach Cancer,4,KRAS
+baseline W*ln(1+E)*ln(1+S),Stomach Cancer,5,CTNNB1
+baseline W*ln(1+E)*ln(1+S),Stomach Cancer,6,EGFR
+baseline W*ln(1+E)*ln(1+S),Stomach Cancer,7,KIT
+baseline W*ln(1+E)*ln(1+S),Stomach Cancer,8,BRAF
+baseline W*ln(1+E)*ln(1+S),Stomach Cancer,9,APC
+baseline W*ln(1+E)*ln(1+S),Stomach Cancer,10,BRCA2
+baseline W*ln(1+E)*ln(1+S),Esophageal Cancer,1,TP53
+baseline W*ln(1+E)*ln(1+S),Esophageal Cancer,2,EGFR
+baseline W*ln(1+E)*ln(1+S),Esophageal Cancer,3,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Esophageal Cancer,4,CDKN2A
+baseline W*ln(1+E)*ln(1+S),Esophageal Cancer,5,KRAS
+baseline W*ln(1+E)*ln(1+S),Esophageal Cancer,6,BRAF
+baseline W*ln(1+E)*ln(1+S),Esophageal Cancer,7,ERBB2
+baseline W*ln(1+E)*ln(1+S),Esophageal Cancer,8,CD274
+baseline W*ln(1+E)*ln(1+S),Esophageal Cancer,9,NOTCH1
+baseline W*ln(1+E)*ln(1+S),Esophageal Cancer,10,KIT
+baseline W*ln(1+E)*ln(1+S),Ovarian Cancer,1,BRCA1
+baseline W*ln(1+E)*ln(1+S),Ovarian Cancer,2,BRCA2
+baseline W*ln(1+E)*ln(1+S),Ovarian Cancer,3,TP53
+baseline W*ln(1+E)*ln(1+S),Ovarian Cancer,4,POLE
+baseline W*ln(1+E)*ln(1+S),Ovarian Cancer,5,KRAS
+baseline W*ln(1+E)*ln(1+S),Ovarian Cancer,6,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Ovarian Cancer,7,ARID1A
+baseline W*ln(1+E)*ln(1+S),Ovarian Cancer,8,MLH1
+baseline W*ln(1+E)*ln(1+S),Ovarian Cancer,9,CTNNB1
+baseline W*ln(1+E)*ln(1+S),Ovarian Cancer,10,BRAF
+baseline W*ln(1+E)*ln(1+S),Endometrial Cancer,1,PTEN
+baseline W*ln(1+E)*ln(1+S),Endometrial Cancer,2,POLE
+baseline W*ln(1+E)*ln(1+S),Endometrial Cancer,3,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Endometrial Cancer,4,MLH1
+baseline W*ln(1+E)*ln(1+S),Endometrial Cancer,5,TP53
+baseline W*ln(1+E)*ln(1+S),Endometrial Cancer,6,KRAS
+baseline W*ln(1+E)*ln(1+S),Endometrial Cancer,7,MSH2
+baseline W*ln(1+E)*ln(1+S),Endometrial Cancer,8,CTNNB1
+baseline W*ln(1+E)*ln(1+S),Endometrial Cancer,9,ARID1A
+baseline W*ln(1+E)*ln(1+S),Endometrial Cancer,10,MSH6
+baseline W*ln(1+E)*ln(1+S),Cervical Cancer,1,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Cervical Cancer,2,KRAS
+baseline W*ln(1+E)*ln(1+S),Cervical Cancer,3,TP53
+baseline W*ln(1+E)*ln(1+S),Cervical Cancer,4,PTEN
+baseline W*ln(1+E)*ln(1+S),Cervical Cancer,5,ERBB2
+baseline W*ln(1+E)*ln(1+S),Cervical Cancer,6,STK11
+baseline W*ln(1+E)*ln(1+S),Cervical Cancer,7,EGFR
+baseline W*ln(1+E)*ln(1+S),Cervical Cancer,8,FBXW7
+baseline W*ln(1+E)*ln(1+S),Cervical Cancer,9,CD274
+baseline W*ln(1+E)*ln(1+S),Cervical Cancer,10,MTOR
+baseline W*ln(1+E)*ln(1+S),Thyroid Cancer,1,BRAF
+baseline W*ln(1+E)*ln(1+S),Thyroid Cancer,2,RET
+baseline W*ln(1+E)*ln(1+S),Thyroid Cancer,3,TERT
+baseline W*ln(1+E)*ln(1+S),Thyroid Cancer,4,NRAS
+baseline W*ln(1+E)*ln(1+S),Thyroid Cancer,5,HRAS
+baseline W*ln(1+E)*ln(1+S),Thyroid Cancer,6,KRAS
+baseline W*ln(1+E)*ln(1+S),Thyroid Cancer,7,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Thyroid Cancer,8,TP53
+baseline W*ln(1+E)*ln(1+S),Thyroid Cancer,9,CCDC6
+baseline W*ln(1+E)*ln(1+S),Thyroid Cancer,10,EIF1AX
+baseline W*ln(1+E)*ln(1+S),Brain Cancer,1,IDH1
+baseline W*ln(1+E)*ln(1+S),Brain Cancer,2,TP53
+baseline W*ln(1+E)*ln(1+S),Brain Cancer,3,EGFR
+baseline W*ln(1+E)*ln(1+S),Brain Cancer,4,TERT
+baseline W*ln(1+E)*ln(1+S),Brain Cancer,5,IDH2
+baseline W*ln(1+E)*ln(1+S),Brain Cancer,6,BRAF
+baseline W*ln(1+E)*ln(1+S),Brain Cancer,7,KRAS
+baseline W*ln(1+E)*ln(1+S),Brain Cancer,8,ATRX
+baseline W*ln(1+E)*ln(1+S),Brain Cancer,9,PIK3CA
+baseline W*ln(1+E)*ln(1+S),Brain Cancer,10,MGMT
+baseline W*ln(1+E)*ln(1+S),Leukemia,1,FLT3
+baseline W*ln(1+E)*ln(1+S),Leukemia,2,NPM1
+baseline W*ln(1+E)*ln(1+S),Leukemia,3,DNMT3A
+baseline W*ln(1+E)*ln(1+S),Leukemia,4,BCR
+baseline W*ln(1+E)*ln(1+S),Leukemia,5,CEBPA
+baseline W*ln(1+E)*ln(1+S),Leukemia,6,NRAS
+baseline W*ln(1+E)*ln(1+S),Leukemia,7,ASXL1
+baseline W*ln(1+E)*ln(1+S),Leukemia,8,RUNX1
+baseline W*ln(1+E)*ln(1+S),Leukemia,9,TP53
+baseline W*ln(1+E)*ln(1+S),Leukemia,10,IDH1
+baseline W*ln(1+E)*ln(1+S),Lymphoma,1,MYD88
+baseline W*ln(1+E)*ln(1+S),Lymphoma,2,TP53
+baseline W*ln(1+E)*ln(1+S),Lymphoma,3,MYC
+baseline W*ln(1+E)*ln(1+S),Lymphoma,4,CD79B
+baseline W*ln(1+E)*ln(1+S),Lymphoma,5,KMT2D
+baseline W*ln(1+E)*ln(1+S),Lymphoma,6,EZH2
+baseline W*ln(1+E)*ln(1+S),Lymphoma,7,CREBBP
+baseline W*ln(1+E)*ln(1+S),Lymphoma,8,BCL2
+baseline W*ln(1+E)*ln(1+S),Lymphoma,9,ATM
+baseline W*ln(1+E)*ln(1+S),Lymphoma,10,TET2
+baseline W*ln(1+E)*ln(1+S),Myeloma,1,NRAS
+baseline W*ln(1+E)*ln(1+S),Myeloma,2,TP53
+baseline W*ln(1+E)*ln(1+S),Myeloma,3,BRAF
+baseline W*ln(1+E)*ln(1+S),Myeloma,4,KRAS
+baseline W*ln(1+E)*ln(1+S),Myeloma,5,DIS3
+baseline W*ln(1+E)*ln(1+S),Myeloma,6,SDC1
+baseline W*ln(1+E)*ln(1+S),Myeloma,7,IGH
+baseline W*ln(1+E)*ln(1+S),Myeloma,8,MYC
+baseline W*ln(1+E)*ln(1+S),Myeloma,9,FGFR3
+baseline W*ln(1+E)*ln(1+S),Myeloma,10,CCND1
+drop ln(1+S):  W*ln(1+E),Breast Cancer,1,BRCA1
+drop ln(1+S):  W*ln(1+E),Breast Cancer,2,BRCA2
+drop ln(1+S):  W*ln(1+E),Breast Cancer,3,PIK3CA
+drop ln(1+S):  W*ln(1+E),Breast Cancer,4,ERBB2
+drop ln(1+S):  W*ln(1+E),Breast Cancer,5,TP53
+drop ln(1+S):  W*ln(1+E),Breast Cancer,6,PALB2
+drop ln(1+S):  W*ln(1+E),Breast Cancer,7,CHEK2
+drop ln(1+S):  W*ln(1+E),Breast Cancer,8,ESR1
+drop ln(1+S):  W*ln(1+E),Breast Cancer,9,MKI67
+drop ln(1+S):  W*ln(1+E),Breast Cancer,10,PTEN
+drop ln(1+S):  W*ln(1+E),Lung Cancer,1,EGFR
+drop ln(1+S):  W*ln(1+E),Lung Cancer,2,KRAS
+drop ln(1+S):  W*ln(1+E),Lung Cancer,3,CD274
+drop ln(1+S):  W*ln(1+E),Lung Cancer,4,TP53
+drop ln(1+S):  W*ln(1+E),Lung Cancer,5,BRAF
+drop ln(1+S):  W*ln(1+E),Lung Cancer,6,PIK3CA
+drop ln(1+S):  W*ln(1+E),Lung Cancer,7,ERBB2
+drop ln(1+S):  W*ln(1+E),Lung Cancer,8,ALK
+drop ln(1+S):  W*ln(1+E),Lung Cancer,9,STK11
+drop ln(1+S):  W*ln(1+E),Lung Cancer,10,PDCD1
+drop ln(1+S):  W*ln(1+E),Colorectal Cancer,1,KRAS
+drop ln(1+S):  W*ln(1+E),Colorectal Cancer,2,BRAF
+drop ln(1+S):  W*ln(1+E),Colorectal Cancer,3,EGFR
+drop ln(1+S):  W*ln(1+E),Colorectal Cancer,4,MLH1
+drop ln(1+S):  W*ln(1+E),Colorectal Cancer,5,PIK3CA
+drop ln(1+S):  W*ln(1+E),Colorectal Cancer,6,NRAS
+drop ln(1+S):  W*ln(1+E),Colorectal Cancer,7,MSH2
+drop ln(1+S):  W*ln(1+E),Colorectal Cancer,8,TP53
+drop ln(1+S):  W*ln(1+E),Colorectal Cancer,9,APC
+drop ln(1+S):  W*ln(1+E),Colorectal Cancer,10,MSH6
+drop ln(1+S):  W*ln(1+E),Prostate Cancer,1,BRCA2
+drop ln(1+S):  W*ln(1+E),Prostate Cancer,2,BRCA1
+drop ln(1+S):  W*ln(1+E),Prostate Cancer,3,PTEN
+drop ln(1+S):  W*ln(1+E),Prostate Cancer,4,TP53
+drop ln(1+S):  W*ln(1+E),Prostate Cancer,5,ATM
+drop ln(1+S):  W*ln(1+E),Prostate Cancer,6,SPOP
+drop ln(1+S):  W*ln(1+E),Prostate Cancer,7,CHEK2
+drop ln(1+S):  W*ln(1+E),Prostate Cancer,8,PARP1
+drop ln(1+S):  W*ln(1+E),Prostate Cancer,9,AR
+drop ln(1+S):  W*ln(1+E),Prostate Cancer,10,PALB2
+drop ln(1+S):  W*ln(1+E),Melanoma,1,BRAF
+drop ln(1+S):  W*ln(1+E),Melanoma,2,NRAS
+drop ln(1+S):  W*ln(1+E),Melanoma,3,KIT
+drop ln(1+S):  W*ln(1+E),Melanoma,4,CDKN2A
+drop ln(1+S):  W*ln(1+E),Melanoma,5,TERT
+drop ln(1+S):  W*ln(1+E),Melanoma,6,GNAQ
+drop ln(1+S):  W*ln(1+E),Melanoma,7,PDCD1
+drop ln(1+S):  W*ln(1+E),Melanoma,8,GNA11
+drop ln(1+S):  W*ln(1+E),Melanoma,9,BAP1
+drop ln(1+S):  W*ln(1+E),Melanoma,10,PIK3CA
+drop ln(1+S):  W*ln(1+E),Bladder Cancer,1,FGFR3
+drop ln(1+S):  W*ln(1+E),Bladder Cancer,2,TP53
+drop ln(1+S):  W*ln(1+E),Bladder Cancer,3,TERT
+drop ln(1+S):  W*ln(1+E),Bladder Cancer,4,PIK3CA
+drop ln(1+S):  W*ln(1+E),Bladder Cancer,5,CD274
+drop ln(1+S):  W*ln(1+E),Bladder Cancer,6,KRAS
+drop ln(1+S):  W*ln(1+E),Bladder Cancer,7,RB1
+drop ln(1+S):  W*ln(1+E),Bladder Cancer,8,ERBB2
+drop ln(1+S):  W*ln(1+E),Bladder Cancer,9,EGFR
+drop ln(1+S):  W*ln(1+E),Bladder Cancer,10,ARID1A
+drop ln(1+S):  W*ln(1+E),Kidney Cancer,1,VHL
+drop ln(1+S):  W*ln(1+E),Kidney Cancer,2,WT1
+drop ln(1+S):  W*ln(1+E),Kidney Cancer,3,PBRM1
+drop ln(1+S):  W*ln(1+E),Kidney Cancer,4,BAP1
+drop ln(1+S):  W*ln(1+E),Kidney Cancer,5,FH
+drop ln(1+S):  W*ln(1+E),Kidney Cancer,6,SETD2
+drop ln(1+S):  W*ln(1+E),Kidney Cancer,7,FLCN
+drop ln(1+S):  W*ln(1+E),Kidney Cancer,8,TSC2
+drop ln(1+S):  W*ln(1+E),Kidney Cancer,9,TP53
+drop ln(1+S):  W*ln(1+E),Kidney Cancer,10,CTNNB1
+drop ln(1+S):  W*ln(1+E),Pancreatic Cancer,1,KRAS
+drop ln(1+S):  W*ln(1+E),Pancreatic Cancer,2,BRCA2
+drop ln(1+S):  W*ln(1+E),Pancreatic Cancer,3,CDKN2A
+drop ln(1+S):  W*ln(1+E),Pancreatic Cancer,4,BRCA1
+drop ln(1+S):  W*ln(1+E),Pancreatic Cancer,5,TP53
+drop ln(1+S):  W*ln(1+E),Pancreatic Cancer,6,SMAD4
+drop ln(1+S):  W*ln(1+E),Pancreatic Cancer,7,PALB2
+drop ln(1+S):  W*ln(1+E),Pancreatic Cancer,8,GNAS
+drop ln(1+S):  W*ln(1+E),Pancreatic Cancer,9,BRAF
+drop ln(1+S):  W*ln(1+E),Pancreatic Cancer,10,PIK3CA
+drop ln(1+S):  W*ln(1+E),Liver Cancer,1,KRAS
+drop ln(1+S):  W*ln(1+E),Liver Cancer,2,CTNNB1
+drop ln(1+S):  W*ln(1+E),Liver Cancer,3,TP53
+drop ln(1+S):  W*ln(1+E),Liver Cancer,4,BRAF
+drop ln(1+S):  W*ln(1+E),Liver Cancer,5,PIK3CA
+drop ln(1+S):  W*ln(1+E),Liver Cancer,6,NRAS
+drop ln(1+S):  W*ln(1+E),Liver Cancer,7,TERT
+drop ln(1+S):  W*ln(1+E),Liver Cancer,8,EGFR
+drop ln(1+S):  W*ln(1+E),Liver Cancer,9,KIT
+drop ln(1+S):  W*ln(1+E),Liver Cancer,10,APC
+drop ln(1+S):  W*ln(1+E),Stomach Cancer,1,CDH1
+drop ln(1+S):  W*ln(1+E),Stomach Cancer,2,TP53
+drop ln(1+S):  W*ln(1+E),Stomach Cancer,3,PIK3CA
+drop ln(1+S):  W*ln(1+E),Stomach Cancer,4,KRAS
+drop ln(1+S):  W*ln(1+E),Stomach Cancer,5,CTNNB1
+drop ln(1+S):  W*ln(1+E),Stomach Cancer,6,EGFR
+drop ln(1+S):  W*ln(1+E),Stomach Cancer,7,KIT
+drop ln(1+S):  W*ln(1+E),Stomach Cancer,8,BRAF
+drop ln(1+S):  W*ln(1+E),Stomach Cancer,9,BRCA2
+drop ln(1+S):  W*ln(1+E),Stomach Cancer,10,APC
+drop ln(1+S):  W*ln(1+E),Esophageal Cancer,1,TP53
+drop ln(1+S):  W*ln(1+E),Esophageal Cancer,2,EGFR
+drop ln(1+S):  W*ln(1+E),Esophageal Cancer,3,PIK3CA
+drop ln(1+S):  W*ln(1+E),Esophageal Cancer,4,CDKN2A
+drop ln(1+S):  W*ln(1+E),Esophageal Cancer,5,KRAS
+drop ln(1+S):  W*ln(1+E),Esophageal Cancer,6,BRAF
+drop ln(1+S):  W*ln(1+E),Esophageal Cancer,7,NOTCH1
+drop ln(1+S):  W*ln(1+E),Esophageal Cancer,8,CD274
+drop ln(1+S):  W*ln(1+E),Esophageal Cancer,9,ERBB2
+drop ln(1+S):  W*ln(1+E),Esophageal Cancer,10,KIT
+drop ln(1+S):  W*ln(1+E),Ovarian Cancer,1,BRCA1
+drop ln(1+S):  W*ln(1+E),Ovarian Cancer,2,BRCA2
+drop ln(1+S):  W*ln(1+E),Ovarian Cancer,3,TP53
+drop ln(1+S):  W*ln(1+E),Ovarian Cancer,4,POLE
+drop ln(1+S):  W*ln(1+E),Ovarian Cancer,5,KRAS
+drop ln(1+S):  W*ln(1+E),Ovarian Cancer,6,PIK3CA
+drop ln(1+S):  W*ln(1+E),Ovarian Cancer,7,MLH1
+drop ln(1+S):  W*ln(1+E),Ovarian Cancer,8,ARID1A
+drop ln(1+S):  W*ln(1+E),Ovarian Cancer,9,CTNNB1
+drop ln(1+S):  W*ln(1+E),Ovarian Cancer,10,BRIP1
+drop ln(1+S):  W*ln(1+E),Endometrial Cancer,1,PTEN
+drop ln(1+S):  W*ln(1+E),Endometrial Cancer,2,POLE
+drop ln(1+S):  W*ln(1+E),Endometrial Cancer,3,PIK3CA
+drop ln(1+S):  W*ln(1+E),Endometrial Cancer,4,MLH1
+drop ln(1+S):  W*ln(1+E),Endometrial Cancer,5,KRAS
+drop ln(1+S):  W*ln(1+E),Endometrial Cancer,6,TP53
+drop ln(1+S):  W*ln(1+E),Endometrial Cancer,7,MSH2
+drop ln(1+S):  W*ln(1+E),Endometrial Cancer,8,CTNNB1
+drop ln(1+S):  W*ln(1+E),Endometrial Cancer,9,ARID1A
+drop ln(1+S):  W*ln(1+E),Endometrial Cancer,10,MSH6
+drop ln(1+S):  W*ln(1+E),Cervical Cancer,1,PIK3CA
+drop ln(1+S):  W*ln(1+E),Cervical Cancer,2,KRAS
+drop ln(1+S):  W*ln(1+E),Cervical Cancer,3,TP53
+drop ln(1+S):  W*ln(1+E),Cervical Cancer,4,PTEN
+drop ln(1+S):  W*ln(1+E),Cervical Cancer,5,ERBB2
+drop ln(1+S):  W*ln(1+E),Cervical Cancer,6,STK11
+drop ln(1+S):  W*ln(1+E),Cervical Cancer,7,FBXW7
+drop ln(1+S):  W*ln(1+E),Cervical Cancer,8,EGFR
+drop ln(1+S):  W*ln(1+E),Cervical Cancer,9,CD274
+drop ln(1+S):  W*ln(1+E),Cervical Cancer,10,RB1
+drop ln(1+S):  W*ln(1+E),Thyroid Cancer,1,BRAF
+drop ln(1+S):  W*ln(1+E),Thyroid Cancer,2,RET
+drop ln(1+S):  W*ln(1+E),Thyroid Cancer,3,TERT
+drop ln(1+S):  W*ln(1+E),Thyroid Cancer,4,NRAS
+drop ln(1+S):  W*ln(1+E),Thyroid Cancer,5,HRAS
+drop ln(1+S):  W*ln(1+E),Thyroid Cancer,6,KRAS
+drop ln(1+S):  W*ln(1+E),Thyroid Cancer,7,PIK3CA
+drop ln(1+S):  W*ln(1+E),Thyroid Cancer,8,TP53
+drop ln(1+S):  W*ln(1+E),Thyroid Cancer,9,CCDC6
+drop ln(1+S):  W*ln(1+E),Thyroid Cancer,10,EIF1AX
+drop ln(1+S):  W*ln(1+E),Brain Cancer,1,IDH1
+drop ln(1+S):  W*ln(1+E),Brain Cancer,2,TP53
+drop ln(1+S):  W*ln(1+E),Brain Cancer,3,EGFR
+drop ln(1+S):  W*ln(1+E),Brain Cancer,4,TERT
+drop ln(1+S):  W*ln(1+E),Brain Cancer,5,IDH2
+drop ln(1+S):  W*ln(1+E),Brain Cancer,6,BRAF
+drop ln(1+S):  W*ln(1+E),Brain Cancer,7,KRAS
+drop ln(1+S):  W*ln(1+E),Brain Cancer,8,ATRX
+drop ln(1+S):  W*ln(1+E),Brain Cancer,9,MLH1
+drop ln(1+S):  W*ln(1+E),Brain Cancer,10,PIK3CA
+drop ln(1+S):  W*ln(1+E),Leukemia,1,FLT3
+drop ln(1+S):  W*ln(1+E),Leukemia,2,NPM1
+drop ln(1+S):  W*ln(1+E),Leukemia,3,DNMT3A
+drop ln(1+S):  W*ln(1+E),Leukemia,4,BCR
+drop ln(1+S):  W*ln(1+E),Leukemia,5,CEBPA
+drop ln(1+S):  W*ln(1+E),Leukemia,6,NRAS
+drop ln(1+S):  W*ln(1+E),Leukemia,7,ASXL1
+drop ln(1+S):  W*ln(1+E),Leukemia,8,RUNX1
+drop ln(1+S):  W*ln(1+E),Leukemia,9,IDH1
+drop ln(1+S):  W*ln(1+E),Leukemia,10,TET2
+drop ln(1+S):  W*ln(1+E),Lymphoma,1,MYD88
+drop ln(1+S):  W*ln(1+E),Lymphoma,2,TP53
+drop ln(1+S):  W*ln(1+E),Lymphoma,3,MYC
+drop ln(1+S):  W*ln(1+E),Lymphoma,4,CD79B
+drop ln(1+S):  W*ln(1+E),Lymphoma,5,EZH2
+drop ln(1+S):  W*ln(1+E),Lymphoma,6,KMT2D
+drop ln(1+S):  W*ln(1+E),Lymphoma,7,CREBBP
+drop ln(1+S):  W*ln(1+E),Lymphoma,8,BCL2
+drop ln(1+S):  W*ln(1+E),Lymphoma,9,ATM
+drop ln(1+S):  W*ln(1+E),Lymphoma,10,CARD11
+drop ln(1+S):  W*ln(1+E),Myeloma,1,NRAS
+drop ln(1+S):  W*ln(1+E),Myeloma,2,BRAF
+drop ln(1+S):  W*ln(1+E),Myeloma,3,TP53
+drop ln(1+S):  W*ln(1+E),Myeloma,4,KRAS
+drop ln(1+S):  W*ln(1+E),Myeloma,5,DIS3
+drop ln(1+S):  W*ln(1+E),Myeloma,6,SDC1
+drop ln(1+S):  W*ln(1+E),Myeloma,7,IGH
+drop ln(1+S):  W*ln(1+E),Myeloma,8,FGFR3
+drop ln(1+S):  W*ln(1+E),Myeloma,9,MYC
+drop ln(1+S):  W*ln(1+E),Myeloma,10,CCND1
+drop enrichment:  W*ln(1+S),Breast Cancer,1,BRCA1
+drop enrichment:  W*ln(1+S),Breast Cancer,2,BRCA2
+drop enrichment:  W*ln(1+S),Breast Cancer,3,PIK3CA
+drop enrichment:  W*ln(1+S),Breast Cancer,4,ERBB2
+drop enrichment:  W*ln(1+S),Breast Cancer,5,TP53
+drop enrichment:  W*ln(1+S),Breast Cancer,6,ESR1
+drop enrichment:  W*ln(1+S),Breast Cancer,7,EGFR
+drop enrichment:  W*ln(1+S),Breast Cancer,8,PALB2
+drop enrichment:  W*ln(1+S),Breast Cancer,9,PTEN
+drop enrichment:  W*ln(1+S),Breast Cancer,10,CYP19A1
+drop enrichment:  W*ln(1+S),Lung Cancer,1,EGFR
+drop enrichment:  W*ln(1+S),Lung Cancer,2,KRAS
+drop enrichment:  W*ln(1+S),Lung Cancer,3,TP53
+drop enrichment:  W*ln(1+S),Lung Cancer,4,BRAF
+drop enrichment:  W*ln(1+S),Lung Cancer,5,ALK
+drop enrichment:  W*ln(1+S),Lung Cancer,6,CD274
+drop enrichment:  W*ln(1+S),Lung Cancer,7,PIK3CA
+drop enrichment:  W*ln(1+S),Lung Cancer,8,ERBB2
+drop enrichment:  W*ln(1+S),Lung Cancer,9,MET
+drop enrichment:  W*ln(1+S),Lung Cancer,10,STK11
+drop enrichment:  W*ln(1+S),Colorectal Cancer,1,KRAS
+drop enrichment:  W*ln(1+S),Colorectal Cancer,2,BRAF
+drop enrichment:  W*ln(1+S),Colorectal Cancer,3,EGFR
+drop enrichment:  W*ln(1+S),Colorectal Cancer,4,MLH1
+drop enrichment:  W*ln(1+S),Colorectal Cancer,5,PIK3CA
+drop enrichment:  W*ln(1+S),Colorectal Cancer,6,NRAS
+drop enrichment:  W*ln(1+S),Colorectal Cancer,7,APC
+drop enrichment:  W*ln(1+S),Colorectal Cancer,8,MSH2
+drop enrichment:  W*ln(1+S),Colorectal Cancer,9,TP53
+drop enrichment:  W*ln(1+S),Colorectal Cancer,10,MSH6
+drop enrichment:  W*ln(1+S),Prostate Cancer,1,BRCA2
+drop enrichment:  W*ln(1+S),Prostate Cancer,2,BRCA1
+drop enrichment:  W*ln(1+S),Prostate Cancer,3,AR
+drop enrichment:  W*ln(1+S),Prostate Cancer,4,TP53
+drop enrichment:  W*ln(1+S),Prostate Cancer,5,ATM
+drop enrichment:  W*ln(1+S),Prostate Cancer,6,PTEN
+drop enrichment:  W*ln(1+S),Prostate Cancer,7,SPOP
+drop enrichment:  W*ln(1+S),Prostate Cancer,8,PARP1
+drop enrichment:  W*ln(1+S),Prostate Cancer,9,CHEK2
+drop enrichment:  W*ln(1+S),Prostate Cancer,10,ERG
+drop enrichment:  W*ln(1+S),Melanoma,1,BRAF
+drop enrichment:  W*ln(1+S),Melanoma,2,NRAS
+drop enrichment:  W*ln(1+S),Melanoma,3,KIT
+drop enrichment:  W*ln(1+S),Melanoma,4,CDKN2A
+drop enrichment:  W*ln(1+S),Melanoma,5,TERT
+drop enrichment:  W*ln(1+S),Melanoma,6,GNAQ
+drop enrichment:  W*ln(1+S),Melanoma,7,BAP1
+drop enrichment:  W*ln(1+S),Melanoma,8,GNA11
+drop enrichment:  W*ln(1+S),Melanoma,9,CDK4
+drop enrichment:  W*ln(1+S),Melanoma,10,NF1
+drop enrichment:  W*ln(1+S),Bladder Cancer,1,FGFR3
+drop enrichment:  W*ln(1+S),Bladder Cancer,2,TP53
+drop enrichment:  W*ln(1+S),Bladder Cancer,3,TERT
+drop enrichment:  W*ln(1+S),Bladder Cancer,4,PIK3CA
+drop enrichment:  W*ln(1+S),Bladder Cancer,5,RB1
+drop enrichment:  W*ln(1+S),Bladder Cancer,6,CD274
+drop enrichment:  W*ln(1+S),Bladder Cancer,7,ERBB2
+drop enrichment:  W*ln(1+S),Bladder Cancer,8,KRAS
+drop enrichment:  W*ln(1+S),Bladder Cancer,9,ARID1A
+drop enrichment:  W*ln(1+S),Bladder Cancer,10,HRAS
+drop enrichment:  W*ln(1+S),Kidney Cancer,1,VHL
+drop enrichment:  W*ln(1+S),Kidney Cancer,2,WT1
+drop enrichment:  W*ln(1+S),Kidney Cancer,3,BAP1
+drop enrichment:  W*ln(1+S),Kidney Cancer,4,FH
+drop enrichment:  W*ln(1+S),Kidney Cancer,5,PBRM1
+drop enrichment:  W*ln(1+S),Kidney Cancer,6,SETD2
+drop enrichment:  W*ln(1+S),Kidney Cancer,7,MTOR
+drop enrichment:  W*ln(1+S),Kidney Cancer,8,FLCN
+drop enrichment:  W*ln(1+S),Kidney Cancer,9,TP53
+drop enrichment:  W*ln(1+S),Kidney Cancer,10,MET
+drop enrichment:  W*ln(1+S),Pancreatic Cancer,1,KRAS
+drop enrichment:  W*ln(1+S),Pancreatic Cancer,2,BRCA2
+drop enrichment:  W*ln(1+S),Pancreatic Cancer,3,TP53
+drop enrichment:  W*ln(1+S),Pancreatic Cancer,4,BRCA1
+drop enrichment:  W*ln(1+S),Pancreatic Cancer,5,CDKN2A
+drop enrichment:  W*ln(1+S),Pancreatic Cancer,6,SMAD4
+drop enrichment:  W*ln(1+S),Pancreatic Cancer,7,MEN1
+drop enrichment:  W*ln(1+S),Pancreatic Cancer,8,GNAS
+drop enrichment:  W*ln(1+S),Pancreatic Cancer,9,BRAF
+drop enrichment:  W*ln(1+S),Pancreatic Cancer,10,EGFR
+drop enrichment:  W*ln(1+S),Liver Cancer,1,KRAS
+drop enrichment:  W*ln(1+S),Liver Cancer,2,TP53
+drop enrichment:  W*ln(1+S),Liver Cancer,3,CTNNB1
+drop enrichment:  W*ln(1+S),Liver Cancer,4,BRAF
+drop enrichment:  W*ln(1+S),Liver Cancer,5,EGFR
+drop enrichment:  W*ln(1+S),Liver Cancer,6,PIK3CA
+drop enrichment:  W*ln(1+S),Liver Cancer,7,TERT
+drop enrichment:  W*ln(1+S),Liver Cancer,8,NRAS
+drop enrichment:  W*ln(1+S),Liver Cancer,9,APC
+drop enrichment:  W*ln(1+S),Liver Cancer,10,AFP
+drop enrichment:  W*ln(1+S),Stomach Cancer,1,CDH1
+drop enrichment:  W*ln(1+S),Stomach Cancer,2,TP53
+drop enrichment:  W*ln(1+S),Stomach Cancer,3,PIK3CA
+drop enrichment:  W*ln(1+S),Stomach Cancer,4,KRAS
+drop enrichment:  W*ln(1+S),Stomach Cancer,5,KIT
+drop enrichment:  W*ln(1+S),Stomach Cancer,6,APC
+drop enrichment:  W*ln(1+S),Stomach Cancer,7,CTNNB1
+drop enrichment:  W*ln(1+S),Stomach Cancer,8,EGFR
+drop enrichment:  W*ln(1+S),Stomach Cancer,9,ERBB2
+drop enrichment:  W*ln(1+S),Stomach Cancer,10,BRAF
+drop enrichment:  W*ln(1+S),Esophageal Cancer,1,TP53
+drop enrichment:  W*ln(1+S),Esophageal Cancer,2,EGFR
+drop enrichment:  W*ln(1+S),Esophageal Cancer,3,PIK3CA
+drop enrichment:  W*ln(1+S),Esophageal Cancer,4,CDKN2A
+drop enrichment:  W*ln(1+S),Esophageal Cancer,5,KRAS
+drop enrichment:  W*ln(1+S),Esophageal Cancer,6,ERBB2
+drop enrichment:  W*ln(1+S),Esophageal Cancer,7,NOTCH1
+drop enrichment:  W*ln(1+S),Esophageal Cancer,8,BRAF
+drop enrichment:  W*ln(1+S),Esophageal Cancer,9,CD274
+drop enrichment:  W*ln(1+S),Esophageal Cancer,10,KIT
+drop enrichment:  W*ln(1+S),Ovarian Cancer,1,BRCA1
+drop enrichment:  W*ln(1+S),Ovarian Cancer,2,BRCA2
+drop enrichment:  W*ln(1+S),Ovarian Cancer,3,TP53
+drop enrichment:  W*ln(1+S),Ovarian Cancer,4,KRAS
+drop enrichment:  W*ln(1+S),Ovarian Cancer,5,PIK3CA
+drop enrichment:  W*ln(1+S),Ovarian Cancer,6,POLE
+drop enrichment:  W*ln(1+S),Ovarian Cancer,7,PTEN
+drop enrichment:  W*ln(1+S),Ovarian Cancer,8,CTNNB1
+drop enrichment:  W*ln(1+S),Ovarian Cancer,9,BRAF
+drop enrichment:  W*ln(1+S),Ovarian Cancer,10,MLH1
+drop enrichment:  W*ln(1+S),Endometrial Cancer,1,PTEN
+drop enrichment:  W*ln(1+S),Endometrial Cancer,2,PIK3CA
+drop enrichment:  W*ln(1+S),Endometrial Cancer,3,POLE
+drop enrichment:  W*ln(1+S),Endometrial Cancer,4,TP53
+drop enrichment:  W*ln(1+S),Endometrial Cancer,5,MLH1
+drop enrichment:  W*ln(1+S),Endometrial Cancer,6,KRAS
+drop enrichment:  W*ln(1+S),Endometrial Cancer,7,CTNNB1
+drop enrichment:  W*ln(1+S),Endometrial Cancer,8,MSH2
+drop enrichment:  W*ln(1+S),Endometrial Cancer,9,MSH6
+drop enrichment:  W*ln(1+S),Endometrial Cancer,10,ARID1A
+drop enrichment:  W*ln(1+S),Cervical Cancer,1,PIK3CA
+drop enrichment:  W*ln(1+S),Cervical Cancer,2,TP53
+drop enrichment:  W*ln(1+S),Cervical Cancer,3,KRAS
+drop enrichment:  W*ln(1+S),Cervical Cancer,4,PTEN
+drop enrichment:  W*ln(1+S),Cervical Cancer,5,EGFR
+drop enrichment:  W*ln(1+S),Cervical Cancer,6,ERBB2
+drop enrichment:  W*ln(1+S),Cervical Cancer,7,MTOR
+drop enrichment:  W*ln(1+S),Cervical Cancer,8,STK11
+drop enrichment:  W*ln(1+S),Cervical Cancer,9,FBXW7
+drop enrichment:  W*ln(1+S),Cervical Cancer,10,CD274
+drop enrichment:  W*ln(1+S),Thyroid Cancer,1,BRAF
+drop enrichment:  W*ln(1+S),Thyroid Cancer,2,RET
+drop enrichment:  W*ln(1+S),Thyroid Cancer,3,TERT
+drop enrichment:  W*ln(1+S),Thyroid Cancer,4,NRAS
+drop enrichment:  W*ln(1+S),Thyroid Cancer,5,KRAS
+drop enrichment:  W*ln(1+S),Thyroid Cancer,6,HRAS
+drop enrichment:  W*ln(1+S),Thyroid Cancer,7,TP53
+drop enrichment:  W*ln(1+S),Thyroid Cancer,8,PIK3CA
+drop enrichment:  W*ln(1+S),Thyroid Cancer,9,PAX8
+drop enrichment:  W*ln(1+S),Thyroid Cancer,10,TSHR
+drop enrichment:  W*ln(1+S),Brain Cancer,1,IDH1
+drop enrichment:  W*ln(1+S),Brain Cancer,2,EGFR
+drop enrichment:  W*ln(1+S),Brain Cancer,3,TP53
+drop enrichment:  W*ln(1+S),Brain Cancer,4,BRAF
+drop enrichment:  W*ln(1+S),Brain Cancer,5,TERT
+drop enrichment:  W*ln(1+S),Brain Cancer,6,IDH2
+drop enrichment:  W*ln(1+S),Brain Cancer,7,MGMT
+drop enrichment:  W*ln(1+S),Brain Cancer,8,PTEN
+drop enrichment:  W*ln(1+S),Brain Cancer,9,ATRX
+drop enrichment:  W*ln(1+S),Brain Cancer,10,KRAS
+drop enrichment:  W*ln(1+S),Leukemia,1,FLT3
+drop enrichment:  W*ln(1+S),Leukemia,2,NPM1
+drop enrichment:  W*ln(1+S),Leukemia,3,BCR
+drop enrichment:  W*ln(1+S),Leukemia,4,DNMT3A
+drop enrichment:  W*ln(1+S),Leukemia,5,TP53
+drop enrichment:  W*ln(1+S),Leukemia,6,CEBPA
+drop enrichment:  W*ln(1+S),Leukemia,7,RUNX1
+drop enrichment:  W*ln(1+S),Leukemia,8,NRAS
+drop enrichment:  W*ln(1+S),Leukemia,9,ASXL1
+drop enrichment:  W*ln(1+S),Leukemia,10,ABL1
+drop enrichment:  W*ln(1+S),Lymphoma,1,MYD88
+drop enrichment:  W*ln(1+S),Lymphoma,2,TP53
+drop enrichment:  W*ln(1+S),Lymphoma,3,BCL2
+drop enrichment:  W*ln(1+S),Lymphoma,4,MYC
+drop enrichment:  W*ln(1+S),Lymphoma,5,EZH2
+drop enrichment:  W*ln(1+S),Lymphoma,6,CD79B
+drop enrichment:  W*ln(1+S),Lymphoma,7,KMT2D
+drop enrichment:  W*ln(1+S),Lymphoma,8,NODAL
+drop enrichment:  W*ln(1+S),Lymphoma,9,CREBBP
+drop enrichment:  W*ln(1+S),Lymphoma,10,ATM
+drop enrichment:  W*ln(1+S),Myeloma,1,TP53
+drop enrichment:  W*ln(1+S),Myeloma,2,NRAS
+drop enrichment:  W*ln(1+S),Myeloma,3,BRAF
+drop enrichment:  W*ln(1+S),Myeloma,4,KRAS
+drop enrichment:  W*ln(1+S),Myeloma,5,IGH
+drop enrichment:  W*ln(1+S),Myeloma,6,DIS3
+drop enrichment:  W*ln(1+S),Myeloma,7,MYC
+drop enrichment:  W*ln(1+S),Myeloma,8,FGFR3
+drop enrichment:  W*ln(1+S),Myeloma,9,SDC1
+drop enrichment:  W*ln(1+S),Myeloma,10,CCND1
+drop W:  ln(1+E)*ln(1+S),Breast Cancer,1,BRCA1
+drop W:  ln(1+E)*ln(1+S),Breast Cancer,2,PALB2
+drop W:  ln(1+E)*ln(1+S),Breast Cancer,3,BRCA2
+drop W:  ln(1+E)*ln(1+S),Breast Cancer,4,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Breast Cancer,5,CHEK2
+drop W:  ln(1+E)*ln(1+S),Breast Cancer,6,ERBB2
+drop W:  ln(1+E)*ln(1+S),Breast Cancer,7,TP53
+drop W:  ln(1+E)*ln(1+S),Breast Cancer,8,MKI67
+drop W:  ln(1+E)*ln(1+S),Breast Cancer,9,CDKN2A
+drop W:  ln(1+E)*ln(1+S),Breast Cancer,10,MSH2
+drop W:  ln(1+E)*ln(1+S),Lung Cancer,1,CD274
+drop W:  ln(1+E)*ln(1+S),Lung Cancer,2,EGFR
+drop W:  ln(1+E)*ln(1+S),Lung Cancer,3,PDCD1
+drop W:  ln(1+E)*ln(1+S),Lung Cancer,4,NKX2-1
+drop W:  ln(1+E)*ln(1+S),Lung Cancer,5,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Lung Cancer,6,KRAS
+drop W:  ln(1+E)*ln(1+S),Lung Cancer,7,ERBB2
+drop W:  ln(1+E)*ln(1+S),Lung Cancer,8,BRAF
+drop W:  ln(1+E)*ln(1+S),Lung Cancer,9,TP53
+drop W:  ln(1+E)*ln(1+S),Lung Cancer,10,NRAS
+drop W:  ln(1+E)*ln(1+S),Colorectal Cancer,1,CTNNB1
+drop W:  ln(1+E)*ln(1+S),Colorectal Cancer,2,KRAS
+drop W:  ln(1+E)*ln(1+S),Colorectal Cancer,3,NRAS
+drop W:  ln(1+E)*ln(1+S),Colorectal Cancer,4,MLH1
+drop W:  ln(1+E)*ln(1+S),Colorectal Cancer,5,KIT
+drop W:  ln(1+E)*ln(1+S),Colorectal Cancer,6,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Colorectal Cancer,7,MSH2
+drop W:  ln(1+E)*ln(1+S),Colorectal Cancer,8,BRAF
+drop W:  ln(1+E)*ln(1+S),Colorectal Cancer,9,SMAD4
+drop W:  ln(1+E)*ln(1+S),Colorectal Cancer,10,EGFR
+drop W:  ln(1+E)*ln(1+S),Prostate Cancer,1,PTEN
+drop W:  ln(1+E)*ln(1+S),Prostate Cancer,2,PARP1
+drop W:  ln(1+E)*ln(1+S),Prostate Cancer,3,BRCA2
+drop W:  ln(1+E)*ln(1+S),Prostate Cancer,4,BRCA1
+drop W:  ln(1+E)*ln(1+S),Prostate Cancer,5,CHEK2
+drop W:  ln(1+E)*ln(1+S),Prostate Cancer,6,SPOP
+drop W:  ln(1+E)*ln(1+S),Prostate Cancer,7,MSH2
+drop W:  ln(1+E)*ln(1+S),Prostate Cancer,8,ATM
+drop W:  ln(1+E)*ln(1+S),Prostate Cancer,9,TP53
+drop W:  ln(1+E)*ln(1+S),Prostate Cancer,10,MLH1
+drop W:  ln(1+E)*ln(1+S),Melanoma,1,CDKN2A
+drop W:  ln(1+E)*ln(1+S),Melanoma,2,KIT
+drop W:  ln(1+E)*ln(1+S),Melanoma,3,NRAS
+drop W:  ln(1+E)*ln(1+S),Melanoma,4,PTEN
+drop W:  ln(1+E)*ln(1+S),Melanoma,5,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Melanoma,6,PDCD1
+drop W:  ln(1+E)*ln(1+S),Melanoma,7,TERT
+drop W:  ln(1+E)*ln(1+S),Melanoma,8,BRAF
+drop W:  ln(1+E)*ln(1+S),Melanoma,9,SF3B1
+drop W:  ln(1+E)*ln(1+S),Melanoma,10,GNA11
+drop W:  ln(1+E)*ln(1+S),Bladder Cancer,1,FGFR3
+drop W:  ln(1+E)*ln(1+S),Bladder Cancer,2,TERT
+drop W:  ln(1+E)*ln(1+S),Bladder Cancer,3,TP53
+drop W:  ln(1+E)*ln(1+S),Bladder Cancer,4,CD274
+drop W:  ln(1+E)*ln(1+S),Bladder Cancer,5,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Bladder Cancer,6,EGFR
+drop W:  ln(1+E)*ln(1+S),Bladder Cancer,7,CDKN2A
+drop W:  ln(1+E)*ln(1+S),Bladder Cancer,8,KMT2D
+drop W:  ln(1+E)*ln(1+S),Bladder Cancer,9,ARID1A
+drop W:  ln(1+E)*ln(1+S),Bladder Cancer,10,PTEN
+drop W:  ln(1+E)*ln(1+S),Kidney Cancer,1,VHL
+drop W:  ln(1+E)*ln(1+S),Kidney Cancer,2,WT1
+drop W:  ln(1+E)*ln(1+S),Kidney Cancer,3,PBRM1
+drop W:  ln(1+E)*ln(1+S),Kidney Cancer,4,TSC2
+drop W:  ln(1+E)*ln(1+S),Kidney Cancer,5,PTEN
+drop W:  ln(1+E)*ln(1+S),Kidney Cancer,6,BRAF
+drop W:  ln(1+E)*ln(1+S),Kidney Cancer,7,SETD2
+drop W:  ln(1+E)*ln(1+S),Kidney Cancer,8,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Kidney Cancer,9,FLCN
+drop W:  ln(1+E)*ln(1+S),Kidney Cancer,10,DICER1
+drop W:  ln(1+E)*ln(1+S),Pancreatic Cancer,1,CDKN2A
+drop W:  ln(1+E)*ln(1+S),Pancreatic Cancer,2,SMAD4
+drop W:  ln(1+E)*ln(1+S),Pancreatic Cancer,3,PALB2
+drop W:  ln(1+E)*ln(1+S),Pancreatic Cancer,4,BRCA2
+drop W:  ln(1+E)*ln(1+S),Pancreatic Cancer,5,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Pancreatic Cancer,6,KRAS
+drop W:  ln(1+E)*ln(1+S),Pancreatic Cancer,7,BRCA1
+drop W:  ln(1+E)*ln(1+S),Pancreatic Cancer,8,TP53
+drop W:  ln(1+E)*ln(1+S),Pancreatic Cancer,9,MLH1
+drop W:  ln(1+E)*ln(1+S),Pancreatic Cancer,10,GNAS
+drop W:  ln(1+E)*ln(1+S),Liver Cancer,1,CTNNB1
+drop W:  ln(1+E)*ln(1+S),Liver Cancer,2,TP53
+drop W:  ln(1+E)*ln(1+S),Liver Cancer,3,BRAF
+drop W:  ln(1+E)*ln(1+S),Liver Cancer,4,KRAS
+drop W:  ln(1+E)*ln(1+S),Liver Cancer,5,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Liver Cancer,6,TERT
+drop W:  ln(1+E)*ln(1+S),Liver Cancer,7,NRAS
+drop W:  ln(1+E)*ln(1+S),Liver Cancer,8,CDKN2A
+drop W:  ln(1+E)*ln(1+S),Liver Cancer,9,KIT
+drop W:  ln(1+E)*ln(1+S),Liver Cancer,10,MKI67
+drop W:  ln(1+E)*ln(1+S),Stomach Cancer,1,CTNNB1
+drop W:  ln(1+E)*ln(1+S),Stomach Cancer,2,EGFR
+drop W:  ln(1+E)*ln(1+S),Stomach Cancer,3,CDH1
+drop W:  ln(1+E)*ln(1+S),Stomach Cancer,4,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Stomach Cancer,5,TP53
+drop W:  ln(1+E)*ln(1+S),Stomach Cancer,6,MLH1
+drop W:  ln(1+E)*ln(1+S),Stomach Cancer,7,PTEN
+drop W:  ln(1+E)*ln(1+S),Stomach Cancer,8,KIT
+drop W:  ln(1+E)*ln(1+S),Stomach Cancer,9,CD274
+drop W:  ln(1+E)*ln(1+S),Stomach Cancer,10,KRAS
+drop W:  ln(1+E)*ln(1+S),Esophageal Cancer,1,TP53
+drop W:  ln(1+E)*ln(1+S),Esophageal Cancer,2,EGFR
+drop W:  ln(1+E)*ln(1+S),Esophageal Cancer,3,CDKN2A
+drop W:  ln(1+E)*ln(1+S),Esophageal Cancer,4,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Esophageal Cancer,5,CD274
+drop W:  ln(1+E)*ln(1+S),Esophageal Cancer,6,KRAS
+drop W:  ln(1+E)*ln(1+S),Esophageal Cancer,7,KIT
+drop W:  ln(1+E)*ln(1+S),Esophageal Cancer,8,BRAF
+drop W:  ln(1+E)*ln(1+S),Esophageal Cancer,9,NFE2L2
+drop W:  ln(1+E)*ln(1+S),Esophageal Cancer,10,PTEN
+drop W:  ln(1+E)*ln(1+S),Ovarian Cancer,1,BRCA2
+drop W:  ln(1+E)*ln(1+S),Ovarian Cancer,2,POLE
+drop W:  ln(1+E)*ln(1+S),Ovarian Cancer,3,BRCA1
+drop W:  ln(1+E)*ln(1+S),Ovarian Cancer,4,ARID1A
+drop W:  ln(1+E)*ln(1+S),Ovarian Cancer,5,BRIP1
+drop W:  ln(1+E)*ln(1+S),Ovarian Cancer,6,MSH2
+drop W:  ln(1+E)*ln(1+S),Ovarian Cancer,7,CHEK2
+drop W:  ln(1+E)*ln(1+S),Ovarian Cancer,8,MLH1
+drop W:  ln(1+E)*ln(1+S),Ovarian Cancer,9,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Ovarian Cancer,10,DICER1
+drop W:  ln(1+E)*ln(1+S),Endometrial Cancer,1,PTEN
+drop W:  ln(1+E)*ln(1+S),Endometrial Cancer,2,POLE
+drop W:  ln(1+E)*ln(1+S),Endometrial Cancer,3,MLH1
+drop W:  ln(1+E)*ln(1+S),Endometrial Cancer,4,MSH2
+drop W:  ln(1+E)*ln(1+S),Endometrial Cancer,5,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Endometrial Cancer,6,ARID1A
+drop W:  ln(1+E)*ln(1+S),Endometrial Cancer,7,KRAS
+drop W:  ln(1+E)*ln(1+S),Endometrial Cancer,8,CTNNB1
+drop W:  ln(1+E)*ln(1+S),Endometrial Cancer,9,TP53
+drop W:  ln(1+E)*ln(1+S),Endometrial Cancer,10,FBXW7
+drop W:  ln(1+E)*ln(1+S),Cervical Cancer,1,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Cervical Cancer,2,KRAS
+drop W:  ln(1+E)*ln(1+S),Cervical Cancer,3,PTEN
+drop W:  ln(1+E)*ln(1+S),Cervical Cancer,4,TP53
+drop W:  ln(1+E)*ln(1+S),Cervical Cancer,5,STK11
+drop W:  ln(1+E)*ln(1+S),Cervical Cancer,6,CD274
+drop W:  ln(1+E)*ln(1+S),Cervical Cancer,7,ERBB2
+drop W:  ln(1+E)*ln(1+S),Cervical Cancer,8,ARID1A
+drop W:  ln(1+E)*ln(1+S),Cervical Cancer,9,FBXW7
+drop W:  ln(1+E)*ln(1+S),Cervical Cancer,10,KMT2D
+drop W:  ln(1+E)*ln(1+S),Thyroid Cancer,1,RET
+drop W:  ln(1+E)*ln(1+S),Thyroid Cancer,2,TERT
+drop W:  ln(1+E)*ln(1+S),Thyroid Cancer,3,NRAS
+drop W:  ln(1+E)*ln(1+S),Thyroid Cancer,4,BRAF
+drop W:  ln(1+E)*ln(1+S),Thyroid Cancer,5,CCDC6
+drop W:  ln(1+E)*ln(1+S),Thyroid Cancer,6,HRAS
+drop W:  ln(1+E)*ln(1+S),Thyroid Cancer,7,DICER1
+drop W:  ln(1+E)*ln(1+S),Thyroid Cancer,8,KRAS
+drop W:  ln(1+E)*ln(1+S),Thyroid Cancer,9,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Thyroid Cancer,10,NCOA4
+drop W:  ln(1+E)*ln(1+S),Brain Cancer,1,IDH1
+drop W:  ln(1+E)*ln(1+S),Brain Cancer,2,CDKN2A
+drop W:  ln(1+E)*ln(1+S),Brain Cancer,3,IDH2
+drop W:  ln(1+E)*ln(1+S),Brain Cancer,4,MLH1
+drop W:  ln(1+E)*ln(1+S),Brain Cancer,5,TERT
+drop W:  ln(1+E)*ln(1+S),Brain Cancer,6,MSH2
+drop W:  ln(1+E)*ln(1+S),Brain Cancer,7,MKI67
+drop W:  ln(1+E)*ln(1+S),Brain Cancer,8,TP53
+drop W:  ln(1+E)*ln(1+S),Brain Cancer,9,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Brain Cancer,10,H3C3
+drop W:  ln(1+E)*ln(1+S),Leukemia,1,U2AF1
+drop W:  ln(1+E)*ln(1+S),Leukemia,2,PTPN11
+drop W:  ln(1+E)*ln(1+S),Leukemia,3,NRAS
+drop W:  ln(1+E)*ln(1+S),Leukemia,4,DNMT3A
+drop W:  ln(1+E)*ln(1+S),Leukemia,5,FLT3
+drop W:  ln(1+E)*ln(1+S),Leukemia,6,NPM1
+drop W:  ln(1+E)*ln(1+S),Leukemia,7,CEBPA
+drop W:  ln(1+E)*ln(1+S),Leukemia,8,KIT
+drop W:  ln(1+E)*ln(1+S),Leukemia,9,ASXL1
+drop W:  ln(1+E)*ln(1+S),Leukemia,10,IDH1
+drop W:  ln(1+E)*ln(1+S),Lymphoma,1,MYC
+drop W:  ln(1+E)*ln(1+S),Lymphoma,2,CD79B
+drop W:  ln(1+E)*ln(1+S),Lymphoma,3,MYD88
+drop W:  ln(1+E)*ln(1+S),Lymphoma,4,TP53
+drop W:  ln(1+E)*ln(1+S),Lymphoma,5,CDKN2A
+drop W:  ln(1+E)*ln(1+S),Lymphoma,6,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Lymphoma,7,KMT2D
+drop W:  ln(1+E)*ln(1+S),Lymphoma,8,TNFRSF14
+drop W:  ln(1+E)*ln(1+S),Lymphoma,9,AICDA
+drop W:  ln(1+E)*ln(1+S),Lymphoma,10,CREBBP
+drop W:  ln(1+E)*ln(1+S),Myeloma,1,NRAS
+drop W:  ln(1+E)*ln(1+S),Myeloma,2,BRAF
+drop W:  ln(1+E)*ln(1+S),Myeloma,3,KRAS
+drop W:  ln(1+E)*ln(1+S),Myeloma,4,TP53
+drop W:  ln(1+E)*ln(1+S),Myeloma,5,SDC1
+drop W:  ln(1+E)*ln(1+S),Myeloma,6,DIS3
+drop W:  ln(1+E)*ln(1+S),Myeloma,7,PIK3CA
+drop W:  ln(1+E)*ln(1+S),Myeloma,8,TET2
+drop W:  ln(1+E)*ln(1+S),Myeloma,9,IL6
+drop W:  ln(1+E)*ln(1+S),Myeloma,10,DNMT3A
+W only,Breast Cancer,1,BRCA1
+W only,Breast Cancer,2,BRCA2
+W only,Breast Cancer,3,PIK3CA
+W only,Breast Cancer,4,ERBB2
+W only,Breast Cancer,5,TP53
+W only,Breast Cancer,6,ESR1
+W only,Breast Cancer,7,EGFR
+W only,Breast Cancer,8,PALB2
+W only,Breast Cancer,9,CYP19A1
+W only,Breast Cancer,10,PTEN
+W only,Lung Cancer,1,EGFR
+W only,Lung Cancer,2,KRAS
+W only,Lung Cancer,3,TP53
+W only,Lung Cancer,4,BRAF
+W only,Lung Cancer,5,ALK
+W only,Lung Cancer,6,CD274
+W only,Lung Cancer,7,PIK3CA
+W only,Lung Cancer,8,ERBB2
+W only,Lung Cancer,9,MET
+W only,Lung Cancer,10,STK11
+W only,Colorectal Cancer,1,KRAS
+W only,Colorectal Cancer,2,BRAF
+W only,Colorectal Cancer,3,EGFR
+W only,Colorectal Cancer,4,MLH1
+W only,Colorectal Cancer,5,PIK3CA
+W only,Colorectal Cancer,6,NRAS
+W only,Colorectal Cancer,7,APC
+W only,Colorectal Cancer,8,MSH2
+W only,Colorectal Cancer,9,TP53
+W only,Colorectal Cancer,10,MSH6
+W only,Prostate Cancer,1,BRCA2
+W only,Prostate Cancer,2,BRCA1
+W only,Prostate Cancer,3,AR
+W only,Prostate Cancer,4,TP53
+W only,Prostate Cancer,5,ATM
+W only,Prostate Cancer,6,PTEN
+W only,Prostate Cancer,7,SPOP
+W only,Prostate Cancer,8,CHEK2
+W only,Prostate Cancer,9,PARP1
+W only,Prostate Cancer,10,ERG
+W only,Melanoma,1,BRAF
+W only,Melanoma,2,NRAS
+W only,Melanoma,3,KIT
+W only,Melanoma,4,CDKN2A
+W only,Melanoma,5,TERT
+W only,Melanoma,6,GNAQ
+W only,Melanoma,7,BAP1
+W only,Melanoma,8,GNA11
+W only,Melanoma,9,NF1
+W only,Melanoma,10,CDK4
+W only,Bladder Cancer,1,FGFR3
+W only,Bladder Cancer,2,TP53
+W only,Bladder Cancer,3,TERT
+W only,Bladder Cancer,4,PIK3CA
+W only,Bladder Cancer,5,RB1
+W only,Bladder Cancer,6,CD274
+W only,Bladder Cancer,7,KRAS
+W only,Bladder Cancer,8,ERBB2
+W only,Bladder Cancer,9,HRAS
+W only,Bladder Cancer,10,ARID1A
+W only,Kidney Cancer,1,VHL
+W only,Kidney Cancer,2,WT1
+W only,Kidney Cancer,3,BAP1
+W only,Kidney Cancer,4,FH
+W only,Kidney Cancer,5,PBRM1
+W only,Kidney Cancer,6,SETD2
+W only,Kidney Cancer,7,FLCN
+W only,Kidney Cancer,8,MTOR
+W only,Kidney Cancer,9,TP53
+W only,Kidney Cancer,10,MET
+W only,Pancreatic Cancer,1,KRAS
+W only,Pancreatic Cancer,2,BRCA2
+W only,Pancreatic Cancer,3,TP53
+W only,Pancreatic Cancer,4,BRCA1
+W only,Pancreatic Cancer,5,CDKN2A
+W only,Pancreatic Cancer,6,SMAD4
+W only,Pancreatic Cancer,7,MEN1
+W only,Pancreatic Cancer,8,GNAS
+W only,Pancreatic Cancer,9,BRAF
+W only,Pancreatic Cancer,10,ATM
+W only,Liver Cancer,1,KRAS
+W only,Liver Cancer,2,TP53
+W only,Liver Cancer,3,CTNNB1
+W only,Liver Cancer,4,BRAF
+W only,Liver Cancer,5,EGFR
+W only,Liver Cancer,6,PIK3CA
+W only,Liver Cancer,7,NRAS
+W only,Liver Cancer,8,TERT
+W only,Liver Cancer,9,APC
+W only,Liver Cancer,10,AFP
+W only,Stomach Cancer,1,CDH1
+W only,Stomach Cancer,2,TP53
+W only,Stomach Cancer,3,PIK3CA
+W only,Stomach Cancer,4,KRAS
+W only,Stomach Cancer,5,KIT
+W only,Stomach Cancer,6,APC
+W only,Stomach Cancer,7,CTNNB1
+W only,Stomach Cancer,8,EGFR
+W only,Stomach Cancer,9,BRAF
+W only,Stomach Cancer,10,ERBB2
+W only,Esophageal Cancer,1,TP53
+W only,Esophageal Cancer,2,EGFR
+W only,Esophageal Cancer,3,PIK3CA
+W only,Esophageal Cancer,4,CDKN2A
+W only,Esophageal Cancer,5,KRAS
+W only,Esophageal Cancer,6,ERBB2
+W only,Esophageal Cancer,7,NOTCH1
+W only,Esophageal Cancer,8,BRAF
+W only,Esophageal Cancer,9,CD274
+W only,Esophageal Cancer,10,KIT
+W only,Ovarian Cancer,1,BRCA1
+W only,Ovarian Cancer,2,BRCA2
+W only,Ovarian Cancer,3,TP53
+W only,Ovarian Cancer,4,KRAS
+W only,Ovarian Cancer,5,PIK3CA
+W only,Ovarian Cancer,6,POLE
+W only,Ovarian Cancer,7,PTEN
+W only,Ovarian Cancer,8,CTNNB1
+W only,Ovarian Cancer,9,MLH1
+W only,Ovarian Cancer,10,BRAF
+W only,Endometrial Cancer,1,PTEN
+W only,Endometrial Cancer,2,PIK3CA
+W only,Endometrial Cancer,3,POLE
+W only,Endometrial Cancer,4,TP53
+W only,Endometrial Cancer,5,MLH1
+W only,Endometrial Cancer,6,KRAS
+W only,Endometrial Cancer,7,CTNNB1
+W only,Endometrial Cancer,8,MSH2
+W only,Endometrial Cancer,9,MSH6
+W only,Endometrial Cancer,10,ARID1A
+W only,Cervical Cancer,1,PIK3CA
+W only,Cervical Cancer,2,KRAS
+W only,Cervical Cancer,3,TP53
+W only,Cervical Cancer,4,PTEN
+W only,Cervical Cancer,5,EGFR
+W only,Cervical Cancer,6,ERBB2
+W only,Cervical Cancer,7,MTOR
+W only,Cervical Cancer,8,STK11
+W only,Cervical Cancer,9,FBXW7
+W only,Cervical Cancer,10,RB1
+W only,Thyroid Cancer,1,BRAF
+W only,Thyroid Cancer,2,RET
+W only,Thyroid Cancer,3,TERT
+W only,Thyroid Cancer,4,NRAS
+W only,Thyroid Cancer,5,KRAS
+W only,Thyroid Cancer,6,HRAS
+W only,Thyroid Cancer,7,TP53
+W only,Thyroid Cancer,8,PIK3CA
+W only,Thyroid Cancer,9,EIF1AX
+W only,Thyroid Cancer,10,TSHR
+W only,Brain Cancer,1,IDH1
+W only,Brain Cancer,2,EGFR
+W only,Brain Cancer,3,TP53
+W only,Brain Cancer,4,BRAF
+W only,Brain Cancer,5,TERT
+W only,Brain Cancer,6,IDH2
+W only,Brain Cancer,7,MGMT
+W only,Brain Cancer,8,PTEN
+W only,Brain Cancer,9,ATRX
+W only,Brain Cancer,10,KRAS
+W only,Leukemia,1,FLT3
+W only,Leukemia,2,NPM1
+W only,Leukemia,3,BCR
+W only,Leukemia,4,DNMT3A
+W only,Leukemia,5,CEBPA
+W only,Leukemia,6,TP53
+W only,Leukemia,7,RUNX1
+W only,Leukemia,8,ASXL1
+W only,Leukemia,9,NRAS
+W only,Leukemia,10,ABL1
+W only,Lymphoma,1,MYD88
+W only,Lymphoma,2,TP53
+W only,Lymphoma,3,BCL2
+W only,Lymphoma,4,MYC
+W only,Lymphoma,5,EZH2
+W only,Lymphoma,6,CD79B
+W only,Lymphoma,7,KMT2D
+W only,Lymphoma,8,NODAL
+W only,Lymphoma,9,CREBBP
+W only,Lymphoma,10,ATM
+W only,Myeloma,1,NRAS
+W only,Myeloma,2,TP53
+W only,Myeloma,3,BRAF
+W only,Myeloma,4,KRAS
+W only,Myeloma,5,DIS3
+W only,Myeloma,6,IGH
+W only,Myeloma,7,MYC
+W only,Myeloma,8,FGFR3
+W only,Myeloma,9,SDC1
+W only,Myeloma,10,CCND1
+S only (flat count),Breast Cancer,1,BRCA1
+S only (flat count),Breast Cancer,2,BRCA2
+S only (flat count),Breast Cancer,3,PIK3CA
+S only (flat count),Breast Cancer,4,ERBB2
+S only (flat count),Breast Cancer,5,TP53
+S only (flat count),Breast Cancer,6,EGFR
+S only (flat count),Breast Cancer,7,PALB2
+S only (flat count),Breast Cancer,8,PTEN
+S only (flat count),Breast Cancer,9,ESR1
+S only (flat count),Breast Cancer,10,CHEK2
+S only (flat count),Lung Cancer,1,EGFR
+S only (flat count),Lung Cancer,2,KRAS
+S only (flat count),Lung Cancer,3,TP53
+S only (flat count),Lung Cancer,4,BRAF
+S only (flat count),Lung Cancer,5,ALK
+S only (flat count),Lung Cancer,6,PIK3CA
+S only (flat count),Lung Cancer,7,ERBB2
+S only (flat count),Lung Cancer,8,CD274
+S only (flat count),Lung Cancer,9,MET
+S only (flat count),Lung Cancer,10,ROS1
+S only (flat count),Colorectal Cancer,1,KRAS
+S only (flat count),Colorectal Cancer,2,BRAF
+S only (flat count),Colorectal Cancer,3,EGFR
+S only (flat count),Colorectal Cancer,4,MLH1
+S only (flat count),Colorectal Cancer,5,APC
+S only (flat count),Colorectal Cancer,6,MSH2
+S only (flat count),Colorectal Cancer,7,PIK3CA
+S only (flat count),Colorectal Cancer,8,NRAS
+S only (flat count),Colorectal Cancer,9,TP53
+S only (flat count),Colorectal Cancer,10,MSH6
+S only (flat count),Prostate Cancer,1,BRCA2
+S only (flat count),Prostate Cancer,2,AR
+S only (flat count),Prostate Cancer,3,BRCA1
+S only (flat count),Prostate Cancer,4,TP53
+S only (flat count),Prostate Cancer,5,ATM
+S only (flat count),Prostate Cancer,6,PTEN
+S only (flat count),Prostate Cancer,7,SPOP
+S only (flat count),Prostate Cancer,8,PARP1
+S only (flat count),Prostate Cancer,9,CHEK2
+S only (flat count),Prostate Cancer,10,ERG
+S only (flat count),Melanoma,1,BRAF
+S only (flat count),Melanoma,2,NRAS
+S only (flat count),Melanoma,3,CDKN2A
+S only (flat count),Melanoma,4,KIT
+S only (flat count),Melanoma,5,GNAQ
+S only (flat count),Melanoma,6,TERT
+S only (flat count),Melanoma,7,BAP1
+S only (flat count),Melanoma,8,GNA11
+S only (flat count),Melanoma,9,CDK4
+S only (flat count),Melanoma,10,NF1
+S only (flat count),Bladder Cancer,1,FGFR3
+S only (flat count),Bladder Cancer,2,TP53
+S only (flat count),Bladder Cancer,3,TERT
+S only (flat count),Bladder Cancer,4,PIK3CA
+S only (flat count),Bladder Cancer,5,CD274
+S only (flat count),Bladder Cancer,6,RB1
+S only (flat count),Bladder Cancer,7,ERBB2
+S only (flat count),Bladder Cancer,8,ARID1A
+S only (flat count),Bladder Cancer,9,KRAS
+S only (flat count),Bladder Cancer,10,HRAS
+S only (flat count),Kidney Cancer,1,VHL
+S only (flat count),Kidney Cancer,2,WT1
+S only (flat count),Kidney Cancer,3,FH
+S only (flat count),Kidney Cancer,4,PBRM1
+S only (flat count),Kidney Cancer,5,SETD2
+S only (flat count),Kidney Cancer,6,BAP1
+S only (flat count),Kidney Cancer,7,MTOR
+S only (flat count),Kidney Cancer,8,TP53
+S only (flat count),Kidney Cancer,9,TSC2
+S only (flat count),Kidney Cancer,10,FLCN
+S only (flat count),Pancreatic Cancer,1,KRAS
+S only (flat count),Pancreatic Cancer,2,TP53
+S only (flat count),Pancreatic Cancer,3,BRCA2
+S only (flat count),Pancreatic Cancer,4,CDKN2A
+S only (flat count),Pancreatic Cancer,5,BRCA1
+S only (flat count),Pancreatic Cancer,6,SMAD4
+S only (flat count),Pancreatic Cancer,7,MEN1
+S only (flat count),Pancreatic Cancer,8,GNAS
+S only (flat count),Pancreatic Cancer,9,PIK3CA
+S only (flat count),Pancreatic Cancer,10,EGFR
+S only (flat count),Liver Cancer,1,TP53
+S only (flat count),Liver Cancer,2,CTNNB1
+S only (flat count),Liver Cancer,3,KRAS
+S only (flat count),Liver Cancer,4,BRAF
+S only (flat count),Liver Cancer,5,TERT
+S only (flat count),Liver Cancer,6,EGFR
+S only (flat count),Liver Cancer,7,PIK3CA
+S only (flat count),Liver Cancer,8,NRAS
+S only (flat count),Liver Cancer,9,APC
+S only (flat count),Liver Cancer,10,AFP
+S only (flat count),Stomach Cancer,1,CDH1
+S only (flat count),Stomach Cancer,2,TP53
+S only (flat count),Stomach Cancer,3,PIK3CA
+S only (flat count),Stomach Cancer,4,KRAS
+S only (flat count),Stomach Cancer,5,APC
+S only (flat count),Stomach Cancer,6,CTNNB1
+S only (flat count),Stomach Cancer,7,KIT
+S only (flat count),Stomach Cancer,8,ERBB2
+S only (flat count),Stomach Cancer,9,ARID1A
+S only (flat count),Stomach Cancer,10,EGFR
+S only (flat count),Esophageal Cancer,1,TP53
+S only (flat count),Esophageal Cancer,2,EGFR
+S only (flat count),Esophageal Cancer,3,PIK3CA
+S only (flat count),Esophageal Cancer,4,CDKN2A
+S only (flat count),Esophageal Cancer,5,ERBB2
+S only (flat count),Esophageal Cancer,6,KRAS
+S only (flat count),Esophageal Cancer,7,CD274
+S only (flat count),Esophageal Cancer,8,KIT
+S only (flat count),Esophageal Cancer,9,NOTCH1
+S only (flat count),Esophageal Cancer,10,BRAF
+S only (flat count),Ovarian Cancer,1,BRCA1
+S only (flat count),Ovarian Cancer,2,BRCA2
+S only (flat count),Ovarian Cancer,3,TP53
+S only (flat count),Ovarian Cancer,4,KRAS
+S only (flat count),Ovarian Cancer,5,PIK3CA
+S only (flat count),Ovarian Cancer,6,PTEN
+S only (flat count),Ovarian Cancer,7,BRAF
+S only (flat count),Ovarian Cancer,8,CTNNB1
+S only (flat count),Ovarian Cancer,9,PARP1
+S only (flat count),Ovarian Cancer,10,RAD51C
+S only (flat count),Endometrial Cancer,1,PTEN
+S only (flat count),Endometrial Cancer,2,PIK3CA
+S only (flat count),Endometrial Cancer,3,TP53
+S only (flat count),Endometrial Cancer,4,POLE
+S only (flat count),Endometrial Cancer,5,MLH1
+S only (flat count),Endometrial Cancer,6,KRAS
+S only (flat count),Endometrial Cancer,7,MSH2
+S only (flat count),Endometrial Cancer,8,CTNNB1
+S only (flat count),Endometrial Cancer,9,MSH6
+S only (flat count),Endometrial Cancer,10,ARID1A
+S only (flat count),Cervical Cancer,1,PIK3CA
+S only (flat count),Cervical Cancer,2,TP53
+S only (flat count),Cervical Cancer,3,KRAS
+S only (flat count),Cervical Cancer,4,PTEN
+S only (flat count),Cervical Cancer,5,ERBB2
+S only (flat count),Cervical Cancer,6,EGFR
+S only (flat count),Cervical Cancer,7,STK11
+S only (flat count),Cervical Cancer,8,MTOR
+S only (flat count),Cervical Cancer,9,CD274
+S only (flat count),Cervical Cancer,10,ARID1A
+S only (flat count),Thyroid Cancer,1,BRAF
+S only (flat count),Thyroid Cancer,2,RET
+S only (flat count),Thyroid Cancer,3,TERT
+S only (flat count),Thyroid Cancer,4,NRAS
+S only (flat count),Thyroid Cancer,5,KRAS
+S only (flat count),Thyroid Cancer,6,HRAS
+S only (flat count),Thyroid Cancer,7,PIK3CA
+S only (flat count),Thyroid Cancer,8,TP53
+S only (flat count),Thyroid Cancer,9,PAX8
+S only (flat count),Thyroid Cancer,10,PTEN
+S only (flat count),Brain Cancer,1,IDH1
+S only (flat count),Brain Cancer,2,EGFR
+S only (flat count),Brain Cancer,3,TP53
+S only (flat count),Brain Cancer,4,BRAF
+S only (flat count),Brain Cancer,5,TERT
+S only (flat count),Brain Cancer,6,IDH2
+S only (flat count),Brain Cancer,7,MGMT
+S only (flat count),Brain Cancer,8,PTEN
+S only (flat count),Brain Cancer,9,ATRX
+S only (flat count),Brain Cancer,10,PIK3CA
+S only (flat count),Leukemia,1,FLT3
+S only (flat count),Leukemia,2,NPM1
+S only (flat count),Leukemia,3,BCR
+S only (flat count),Leukemia,4,DNMT3A
+S only (flat count),Leukemia,5,TP53
+S only (flat count),Leukemia,6,RUNX1
+S only (flat count),Leukemia,7,NRAS
+S only (flat count),Leukemia,8,CEBPA
+S only (flat count),Leukemia,9,TET2
+S only (flat count),Leukemia,10,ASXL1
+S only (flat count),Lymphoma,1,MYD88
+S only (flat count),Lymphoma,2,TP53
+S only (flat count),Lymphoma,3,MYC
+S only (flat count),Lymphoma,4,BCL2
+S only (flat count),Lymphoma,5,CD79B
+S only (flat count),Lymphoma,6,KMT2D
+S only (flat count),Lymphoma,7,EZH2
+S only (flat count),Lymphoma,8,BCL6
+S only (flat count),Lymphoma,9,TET2
+S only (flat count),Lymphoma,10,NODAL
+S only (flat count),Myeloma,1,TP53
+S only (flat count),Myeloma,2,NRAS
+S only (flat count),Myeloma,3,BRAF
+S only (flat count),Myeloma,4,KRAS
+S only (flat count),Myeloma,5,MYC
+S only (flat count),Myeloma,6,IGH
+S only (flat count),Myeloma,7,FGFR3
+S only (flat count),Myeloma,8,SDC1
+S only (flat count),Myeloma,9,DIS3
+S only (flat count),Myeloma,10,CCND1
+ln(1+E) only,Breast Cancer,1,BRCA1
+ln(1+E) only,Breast Cancer,2,PALB2
+ln(1+E) only,Breast Cancer,3,MKI67
+ln(1+E) only,Breast Cancer,4,BCAR3
+ln(1+E) only,Breast Cancer,5,CDKN2A
+ln(1+E) only,Breast Cancer,6,BCL2
+ln(1+E) only,Breast Cancer,7,IGLL1
+ln(1+E) only,Breast Cancer,8,FAM3B
+ln(1+E) only,Breast Cancer,9,SERPINA1
+ln(1+E) only,Breast Cancer,10,FGG
+ln(1+E) only,Lung Cancer,1,PDCD1
+ln(1+E) only,Lung Cancer,2,NKX2-1
+ln(1+E) only,Lung Cancer,3,FAM3B
+ln(1+E) only,Lung Cancer,4,IL6
+ln(1+E) only,Lung Cancer,5,BCL2
+ln(1+E) only,Lung Cancer,6,IGLL1
+ln(1+E) only,Lung Cancer,7,U2AF1
+ln(1+E) only,Lung Cancer,8,MKI67
+ln(1+E) only,Lung Cancer,9,PTGER2
+ln(1+E) only,Lung Cancer,10,NDUFS2
+ln(1+E) only,Colorectal Cancer,1,CTNNB1
+ln(1+E) only,Colorectal Cancer,2,FBXW7
+ln(1+E) only,Colorectal Cancer,3,BCAR3
+ln(1+E) only,Colorectal Cancer,4,EPCAM
+ln(1+E) only,Colorectal Cancer,5,BMPR1A
+ln(1+E) only,Colorectal Cancer,6,KMT2D
+ln(1+E) only,Colorectal Cancer,7,PKHD1
+ln(1+E) only,Colorectal Cancer,8,CCND1
+ln(1+E) only,Colorectal Cancer,9,FAM3B
+ln(1+E) only,Colorectal Cancer,10,PTGER2
+ln(1+E) only,Prostate Cancer,1,PTEN
+ln(1+E) only,Prostate Cancer,2,PARP1
+ln(1+E) only,Prostate Cancer,3,CHEK2
+ln(1+E) only,Prostate Cancer,4,MSH2
+ln(1+E) only,Prostate Cancer,5,MLH1
+ln(1+E) only,Prostate Cancer,6,NBN
+ln(1+E) only,Prostate Cancer,7,BRIP1
+ln(1+E) only,Prostate Cancer,8,PDCD1
+ln(1+E) only,Prostate Cancer,9,MKI67
+ln(1+E) only,Prostate Cancer,10,BCL2
+ln(1+E) only,Melanoma,1,KIT
+ln(1+E) only,Melanoma,2,CDKN2A
+ln(1+E) only,Melanoma,3,PDCD1
+ln(1+E) only,Melanoma,4,PTEN
+ln(1+E) only,Melanoma,5,ERBB4
+ln(1+E) only,Melanoma,6,MUC16
+ln(1+E) only,Melanoma,7,CYSLTR2
+ln(1+E) only,Melanoma,8,MLANA
+ln(1+E) only,Melanoma,9,IFNG
+ln(1+E) only,Melanoma,10,IFI6
+ln(1+E) only,Bladder Cancer,1,CD274
+ln(1+E) only,Bladder Cancer,2,EGFR
+ln(1+E) only,Bladder Cancer,3,CDKN2A
+ln(1+E) only,Bladder Cancer,4,PTEN
+ln(1+E) only,Bladder Cancer,5,CDKN1B
+ln(1+E) only,Bladder Cancer,6,SMARCA4
+ln(1+E) only,Bladder Cancer,7,ADGRG6
+ln(1+E) only,Bladder Cancer,8,CASP8
+ln(1+E) only,Bladder Cancer,9,KMT2B
+ln(1+E) only,Bladder Cancer,10,REST
+ln(1+E) only,Kidney Cancer,1,VHL
+ln(1+E) only,Kidney Cancer,2,WT1
+ln(1+E) only,Kidney Cancer,3,PBRM1
+ln(1+E) only,Kidney Cancer,4,TSC2
+ln(1+E) only,Kidney Cancer,5,PTEN
+ln(1+E) only,Kidney Cancer,6,DICER1
+ln(1+E) only,Kidney Cancer,7,BRAF
+ln(1+E) only,Kidney Cancer,8,BRAP
+ln(1+E) only,Kidney Cancer,9,MLH1
+ln(1+E) only,Kidney Cancer,10,MSH2
+ln(1+E) only,Pancreatic Cancer,1,MKI67
+ln(1+E) only,Pancreatic Cancer,2,FBXW7
+ln(1+E) only,Pancreatic Cancer,3,ABCC8
+ln(1+E) only,Pancreatic Cancer,4,FAT4
+ln(1+E) only,Pancreatic Cancer,5,FAM3B
+ln(1+E) only,Pancreatic Cancer,6,IL6
+ln(1+E) only,Pancreatic Cancer,7,ZFHX3
+ln(1+E) only,Pancreatic Cancer,8,FOXM1
+ln(1+E) only,Pancreatic Cancer,9,VEGFA
+ln(1+E) only,Pancreatic Cancer,10,HLA-A
+ln(1+E) only,Liver Cancer,1,CDKN2A
+ln(1+E) only,Liver Cancer,2,CCL14
+ln(1+E) only,Liver Cancer,3,MKI67
+ln(1+E) only,Liver Cancer,4,GABPA
+ln(1+E) only,Liver Cancer,5,TTN
+ln(1+E) only,Liver Cancer,6,PDCD1
+ln(1+E) only,Liver Cancer,7,SLC33A1
+ln(1+E) only,Liver Cancer,8,FASTK
+ln(1+E) only,Liver Cancer,9,CCL15
+ln(1+E) only,Liver Cancer,10,TXNDC5
+ln(1+E) only,Stomach Cancer,1,CTNNB1
+ln(1+E) only,Stomach Cancer,2,EGFR
+ln(1+E) only,Stomach Cancer,3,PTEN
+ln(1+E) only,Stomach Cancer,4,MLH1
+ln(1+E) only,Stomach Cancer,5,MKI67
+ln(1+E) only,Stomach Cancer,6,RAD50
+ln(1+E) only,Stomach Cancer,7,KMT2D
+ln(1+E) only,Stomach Cancer,8,PDCD1
+ln(1+E) only,Stomach Cancer,9,MTUS2
+ln(1+E) only,Stomach Cancer,10,TTN
+ln(1+E) only,Esophageal Cancer,1,EGFR
+ln(1+E) only,Esophageal Cancer,2,CDKN2A
+ln(1+E) only,Esophageal Cancer,3,CD274
+ln(1+E) only,Esophageal Cancer,4,PTEN
+ln(1+E) only,Esophageal Cancer,5,PDCD1
+ln(1+E) only,Esophageal Cancer,6,MDM2
+ln(1+E) only,Esophageal Cancer,7,MLH1
+ln(1+E) only,Esophageal Cancer,8,MKI67
+ln(1+E) only,Esophageal Cancer,9,NRAS
+ln(1+E) only,Esophageal Cancer,10,RHBDF2
+ln(1+E) only,Ovarian Cancer,1,POLE
+ln(1+E) only,Ovarian Cancer,2,ARID1A
+ln(1+E) only,Ovarian Cancer,3,BRIP1
+ln(1+E) only,Ovarian Cancer,4,PGR
+ln(1+E) only,Ovarian Cancer,5,TTN
+ln(1+E) only,Ovarian Cancer,6,MKI67
+ln(1+E) only,Ovarian Cancer,7,ONECUT2
+ln(1+E) only,Ovarian Cancer,8,MT-ATP6
+ln(1+E) only,Ovarian Cancer,9,MT-CYB
+ln(1+E) only,Ovarian Cancer,10,SLC33A1
+ln(1+E) only,Endometrial Cancer,1,PTEN
+ln(1+E) only,Endometrial Cancer,2,POLE
+ln(1+E) only,Endometrial Cancer,3,MLH1
+ln(1+E) only,Endometrial Cancer,4,MSH2
+ln(1+E) only,Endometrial Cancer,5,ARID1A
+ln(1+E) only,Endometrial Cancer,6,FBXW7
+ln(1+E) only,Endometrial Cancer,7,CHEK2
+ln(1+E) only,Endometrial Cancer,8,CD274
+ln(1+E) only,Endometrial Cancer,9,PDCD1
+ln(1+E) only,Endometrial Cancer,10,MKI67
+ln(1+E) only,Cervical Cancer,1,PTEN
+ln(1+E) only,Cervical Cancer,2,STK11
+ln(1+E) only,Cervical Cancer,3,FBXW7
+ln(1+E) only,Cervical Cancer,4,CD274
+ln(1+E) only,Cervical Cancer,5,ARID1A
+ln(1+E) only,Cervical Cancer,6,FOXD3
+ln(1+E) only,Cervical Cancer,7,DICER1
+ln(1+E) only,Cervical Cancer,8,MKI67
+ln(1+E) only,Cervical Cancer,9,GNAS
+ln(1+E) only,Cervical Cancer,10,KMT2C
+ln(1+E) only,Thyroid Cancer,1,RET
+ln(1+E) only,Thyroid Cancer,2,CCDC6
+ln(1+E) only,Thyroid Cancer,3,DICER1
+ln(1+E) only,Thyroid Cancer,4,NCOA4
+ln(1+E) only,Thyroid Cancer,5,MKI67
+ln(1+E) only,Thyroid Cancer,6,GNAS
+ln(1+E) only,Thyroid Cancer,7,MAP2K1
+ln(1+E) only,Thyroid Cancer,8,NKX2-1
+ln(1+E) only,Thyroid Cancer,9,STK11
+ln(1+E) only,Thyroid Cancer,10,CCND1
+ln(1+E) only,Brain Cancer,1,MLH1
+ln(1+E) only,Brain Cancer,2,CDKN2A
+ln(1+E) only,Brain Cancer,3,MSH2
+ln(1+E) only,Brain Cancer,4,MKI67
+ln(1+E) only,Brain Cancer,5,H3C3
+ln(1+E) only,Brain Cancer,6,GNAS
+ln(1+E) only,Brain Cancer,7,IGF1
+ln(1+E) only,Brain Cancer,8,CHIC2
+ln(1+E) only,Brain Cancer,9,CDKN1A
+ln(1+E) only,Brain Cancer,10,ING1
+ln(1+E) only,Leukemia,1,U2AF1
+ln(1+E) only,Leukemia,2,CSF1R
+ln(1+E) only,Leukemia,3,PRAM1
+ln(1+E) only,Leukemia,4,BCAR3
+ln(1+E) only,Leukemia,5,FAM3A
+ln(1+E) only,Leukemia,6,FAT4
+ln(1+E) only,Leukemia,7,AICDA
+ln(1+E) only,Leukemia,8,IGLL1
+ln(1+E) only,Leukemia,9,AURKA
+ln(1+E) only,Leukemia,10,PTPN11
+ln(1+E) only,Lymphoma,1,MYC
+ln(1+E) only,Lymphoma,2,CD79B
+ln(1+E) only,Lymphoma,3,TNFRSF14
+ln(1+E) only,Lymphoma,4,PIK3CA
+ln(1+E) only,Lymphoma,5,KMT2B
+ln(1+E) only,Lymphoma,6,TNFRSF11A
+ln(1+E) only,Lymphoma,7,PDCD1
+ln(1+E) only,Lymphoma,8,NFKB1
+ln(1+E) only,Lymphoma,9,CTNNB1
+ln(1+E) only,Lymphoma,10,MSH2
+ln(1+E) only,Myeloma,1,NRAS
+ln(1+E) only,Myeloma,2,DIS3
+ln(1+E) only,Myeloma,3,SDC1
+ln(1+E) only,Myeloma,4,PIK3CA
+ln(1+E) only,Myeloma,5,BIRC3
+ln(1+E) only,Myeloma,6,ASXL1
+ln(1+E) only,Myeloma,7,CDKN2A
+ln(1+E) only,Myeloma,8,BIRC2
+ln(1+E) only,Myeloma,9,LTB
+ln(1+E) only,Myeloma,10,KMT2A
+decay none (W=S): S*ln(1+E)*ln(1+S),Breast Cancer,1,BRCA1
+decay none (W=S): S*ln(1+E)*ln(1+S),Breast Cancer,2,BRCA2
+decay none (W=S): S*ln(1+E)*ln(1+S),Breast Cancer,3,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Breast Cancer,4,ERBB2
+decay none (W=S): S*ln(1+E)*ln(1+S),Breast Cancer,5,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Breast Cancer,6,PALB2
+decay none (W=S): S*ln(1+E)*ln(1+S),Breast Cancer,7,CHEK2
+decay none (W=S): S*ln(1+E)*ln(1+S),Breast Cancer,8,PTEN
+decay none (W=S): S*ln(1+E)*ln(1+S),Breast Cancer,9,EGFR
+decay none (W=S): S*ln(1+E)*ln(1+S),Breast Cancer,10,ESR1
+decay none (W=S): S*ln(1+E)*ln(1+S),Lung Cancer,1,EGFR
+decay none (W=S): S*ln(1+E)*ln(1+S),Lung Cancer,2,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Lung Cancer,3,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Lung Cancer,4,BRAF
+decay none (W=S): S*ln(1+E)*ln(1+S),Lung Cancer,5,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Lung Cancer,6,CD274
+decay none (W=S): S*ln(1+E)*ln(1+S),Lung Cancer,7,ERBB2
+decay none (W=S): S*ln(1+E)*ln(1+S),Lung Cancer,8,ALK
+decay none (W=S): S*ln(1+E)*ln(1+S),Lung Cancer,9,MET
+decay none (W=S): S*ln(1+E)*ln(1+S),Lung Cancer,10,STK11
+decay none (W=S): S*ln(1+E)*ln(1+S),Colorectal Cancer,1,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Colorectal Cancer,2,BRAF
+decay none (W=S): S*ln(1+E)*ln(1+S),Colorectal Cancer,3,EGFR
+decay none (W=S): S*ln(1+E)*ln(1+S),Colorectal Cancer,4,MLH1
+decay none (W=S): S*ln(1+E)*ln(1+S),Colorectal Cancer,5,MSH2
+decay none (W=S): S*ln(1+E)*ln(1+S),Colorectal Cancer,6,NRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Colorectal Cancer,7,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Colorectal Cancer,8,APC
+decay none (W=S): S*ln(1+E)*ln(1+S),Colorectal Cancer,9,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Colorectal Cancer,10,MSH6
+decay none (W=S): S*ln(1+E)*ln(1+S),Prostate Cancer,1,BRCA2
+decay none (W=S): S*ln(1+E)*ln(1+S),Prostate Cancer,2,BRCA1
+decay none (W=S): S*ln(1+E)*ln(1+S),Prostate Cancer,3,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Prostate Cancer,4,PTEN
+decay none (W=S): S*ln(1+E)*ln(1+S),Prostate Cancer,5,AR
+decay none (W=S): S*ln(1+E)*ln(1+S),Prostate Cancer,6,ATM
+decay none (W=S): S*ln(1+E)*ln(1+S),Prostate Cancer,7,PARP1
+decay none (W=S): S*ln(1+E)*ln(1+S),Prostate Cancer,8,SPOP
+decay none (W=S): S*ln(1+E)*ln(1+S),Prostate Cancer,9,CHEK2
+decay none (W=S): S*ln(1+E)*ln(1+S),Prostate Cancer,10,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Melanoma,1,BRAF
+decay none (W=S): S*ln(1+E)*ln(1+S),Melanoma,2,NRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Melanoma,3,CDKN2A
+decay none (W=S): S*ln(1+E)*ln(1+S),Melanoma,4,KIT
+decay none (W=S): S*ln(1+E)*ln(1+S),Melanoma,5,TERT
+decay none (W=S): S*ln(1+E)*ln(1+S),Melanoma,6,GNAQ
+decay none (W=S): S*ln(1+E)*ln(1+S),Melanoma,7,GNA11
+decay none (W=S): S*ln(1+E)*ln(1+S),Melanoma,8,BAP1
+decay none (W=S): S*ln(1+E)*ln(1+S),Melanoma,9,SF3B1
+decay none (W=S): S*ln(1+E)*ln(1+S),Melanoma,10,PTEN
+decay none (W=S): S*ln(1+E)*ln(1+S),Bladder Cancer,1,FGFR3
+decay none (W=S): S*ln(1+E)*ln(1+S),Bladder Cancer,2,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Bladder Cancer,3,TERT
+decay none (W=S): S*ln(1+E)*ln(1+S),Bladder Cancer,4,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Bladder Cancer,5,CD274
+decay none (W=S): S*ln(1+E)*ln(1+S),Bladder Cancer,6,RB1
+decay none (W=S): S*ln(1+E)*ln(1+S),Bladder Cancer,7,ERBB2
+decay none (W=S): S*ln(1+E)*ln(1+S),Bladder Cancer,8,ARID1A
+decay none (W=S): S*ln(1+E)*ln(1+S),Bladder Cancer,9,EGFR
+decay none (W=S): S*ln(1+E)*ln(1+S),Bladder Cancer,10,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Kidney Cancer,1,VHL
+decay none (W=S): S*ln(1+E)*ln(1+S),Kidney Cancer,2,WT1
+decay none (W=S): S*ln(1+E)*ln(1+S),Kidney Cancer,3,PBRM1
+decay none (W=S): S*ln(1+E)*ln(1+S),Kidney Cancer,4,FH
+decay none (W=S): S*ln(1+E)*ln(1+S),Kidney Cancer,5,SETD2
+decay none (W=S): S*ln(1+E)*ln(1+S),Kidney Cancer,6,BAP1
+decay none (W=S): S*ln(1+E)*ln(1+S),Kidney Cancer,7,TSC2
+decay none (W=S): S*ln(1+E)*ln(1+S),Kidney Cancer,8,FLCN
+decay none (W=S): S*ln(1+E)*ln(1+S),Kidney Cancer,9,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Kidney Cancer,10,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Pancreatic Cancer,1,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Pancreatic Cancer,2,CDKN2A
+decay none (W=S): S*ln(1+E)*ln(1+S),Pancreatic Cancer,3,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Pancreatic Cancer,4,BRCA2
+decay none (W=S): S*ln(1+E)*ln(1+S),Pancreatic Cancer,5,SMAD4
+decay none (W=S): S*ln(1+E)*ln(1+S),Pancreatic Cancer,6,BRCA1
+decay none (W=S): S*ln(1+E)*ln(1+S),Pancreatic Cancer,7,GNAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Pancreatic Cancer,8,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Pancreatic Cancer,9,PALB2
+decay none (W=S): S*ln(1+E)*ln(1+S),Pancreatic Cancer,10,MEN1
+decay none (W=S): S*ln(1+E)*ln(1+S),Liver Cancer,1,CTNNB1
+decay none (W=S): S*ln(1+E)*ln(1+S),Liver Cancer,2,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Liver Cancer,3,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Liver Cancer,4,BRAF
+decay none (W=S): S*ln(1+E)*ln(1+S),Liver Cancer,5,TERT
+decay none (W=S): S*ln(1+E)*ln(1+S),Liver Cancer,6,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Liver Cancer,7,EGFR
+decay none (W=S): S*ln(1+E)*ln(1+S),Liver Cancer,8,NRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Liver Cancer,9,KIT
+decay none (W=S): S*ln(1+E)*ln(1+S),Liver Cancer,10,APC
+decay none (W=S): S*ln(1+E)*ln(1+S),Stomach Cancer,1,CDH1
+decay none (W=S): S*ln(1+E)*ln(1+S),Stomach Cancer,2,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Stomach Cancer,3,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Stomach Cancer,4,CTNNB1
+decay none (W=S): S*ln(1+E)*ln(1+S),Stomach Cancer,5,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Stomach Cancer,6,KIT
+decay none (W=S): S*ln(1+E)*ln(1+S),Stomach Cancer,7,EGFR
+decay none (W=S): S*ln(1+E)*ln(1+S),Stomach Cancer,8,APC
+decay none (W=S): S*ln(1+E)*ln(1+S),Stomach Cancer,9,ERBB2
+decay none (W=S): S*ln(1+E)*ln(1+S),Stomach Cancer,10,ARID1A
+decay none (W=S): S*ln(1+E)*ln(1+S),Esophageal Cancer,1,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Esophageal Cancer,2,EGFR
+decay none (W=S): S*ln(1+E)*ln(1+S),Esophageal Cancer,3,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Esophageal Cancer,4,CDKN2A
+decay none (W=S): S*ln(1+E)*ln(1+S),Esophageal Cancer,5,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Esophageal Cancer,6,ERBB2
+decay none (W=S): S*ln(1+E)*ln(1+S),Esophageal Cancer,7,CD274
+decay none (W=S): S*ln(1+E)*ln(1+S),Esophageal Cancer,8,KIT
+decay none (W=S): S*ln(1+E)*ln(1+S),Esophageal Cancer,9,NOTCH1
+decay none (W=S): S*ln(1+E)*ln(1+S),Esophageal Cancer,10,BRAF
+decay none (W=S): S*ln(1+E)*ln(1+S),Ovarian Cancer,1,BRCA1
+decay none (W=S): S*ln(1+E)*ln(1+S),Ovarian Cancer,2,BRCA2
+decay none (W=S): S*ln(1+E)*ln(1+S),Ovarian Cancer,3,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Ovarian Cancer,4,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Ovarian Cancer,5,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Ovarian Cancer,6,BRAF
+decay none (W=S): S*ln(1+E)*ln(1+S),Ovarian Cancer,7,POLE
+decay none (W=S): S*ln(1+E)*ln(1+S),Ovarian Cancer,8,ARID1A
+decay none (W=S): S*ln(1+E)*ln(1+S),Ovarian Cancer,9,PTEN
+decay none (W=S): S*ln(1+E)*ln(1+S),Ovarian Cancer,10,CTNNB1
+decay none (W=S): S*ln(1+E)*ln(1+S),Endometrial Cancer,1,PTEN
+decay none (W=S): S*ln(1+E)*ln(1+S),Endometrial Cancer,2,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Endometrial Cancer,3,POLE
+decay none (W=S): S*ln(1+E)*ln(1+S),Endometrial Cancer,4,MLH1
+decay none (W=S): S*ln(1+E)*ln(1+S),Endometrial Cancer,5,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Endometrial Cancer,6,MSH2
+decay none (W=S): S*ln(1+E)*ln(1+S),Endometrial Cancer,7,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Endometrial Cancer,8,CTNNB1
+decay none (W=S): S*ln(1+E)*ln(1+S),Endometrial Cancer,9,ARID1A
+decay none (W=S): S*ln(1+E)*ln(1+S),Endometrial Cancer,10,MSH6
+decay none (W=S): S*ln(1+E)*ln(1+S),Cervical Cancer,1,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Cervical Cancer,2,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Cervical Cancer,3,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Cervical Cancer,4,PTEN
+decay none (W=S): S*ln(1+E)*ln(1+S),Cervical Cancer,5,STK11
+decay none (W=S): S*ln(1+E)*ln(1+S),Cervical Cancer,6,ERBB2
+decay none (W=S): S*ln(1+E)*ln(1+S),Cervical Cancer,7,CD274
+decay none (W=S): S*ln(1+E)*ln(1+S),Cervical Cancer,8,EGFR
+decay none (W=S): S*ln(1+E)*ln(1+S),Cervical Cancer,9,ARID1A
+decay none (W=S): S*ln(1+E)*ln(1+S),Cervical Cancer,10,FBXW7
+decay none (W=S): S*ln(1+E)*ln(1+S),Thyroid Cancer,1,BRAF
+decay none (W=S): S*ln(1+E)*ln(1+S),Thyroid Cancer,2,RET
+decay none (W=S): S*ln(1+E)*ln(1+S),Thyroid Cancer,3,TERT
+decay none (W=S): S*ln(1+E)*ln(1+S),Thyroid Cancer,4,NRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Thyroid Cancer,5,HRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Thyroid Cancer,6,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Thyroid Cancer,7,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Thyroid Cancer,8,CCDC6
+decay none (W=S): S*ln(1+E)*ln(1+S),Thyroid Cancer,9,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Thyroid Cancer,10,DICER1
+decay none (W=S): S*ln(1+E)*ln(1+S),Brain Cancer,1,IDH1
+decay none (W=S): S*ln(1+E)*ln(1+S),Brain Cancer,2,EGFR
+decay none (W=S): S*ln(1+E)*ln(1+S),Brain Cancer,3,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Brain Cancer,4,TERT
+decay none (W=S): S*ln(1+E)*ln(1+S),Brain Cancer,5,IDH2
+decay none (W=S): S*ln(1+E)*ln(1+S),Brain Cancer,6,BRAF
+decay none (W=S): S*ln(1+E)*ln(1+S),Brain Cancer,7,PIK3CA
+decay none (W=S): S*ln(1+E)*ln(1+S),Brain Cancer,8,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Brain Cancer,9,ATRX
+decay none (W=S): S*ln(1+E)*ln(1+S),Brain Cancer,10,MGMT
+decay none (W=S): S*ln(1+E)*ln(1+S),Leukemia,1,FLT3
+decay none (W=S): S*ln(1+E)*ln(1+S),Leukemia,2,NPM1
+decay none (W=S): S*ln(1+E)*ln(1+S),Leukemia,3,DNMT3A
+decay none (W=S): S*ln(1+E)*ln(1+S),Leukemia,4,NRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Leukemia,5,CEBPA
+decay none (W=S): S*ln(1+E)*ln(1+S),Leukemia,6,BCR
+decay none (W=S): S*ln(1+E)*ln(1+S),Leukemia,7,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Leukemia,8,RUNX1
+decay none (W=S): S*ln(1+E)*ln(1+S),Leukemia,9,ASXL1
+decay none (W=S): S*ln(1+E)*ln(1+S),Leukemia,10,TET2
+decay none (W=S): S*ln(1+E)*ln(1+S),Lymphoma,1,MYD88
+decay none (W=S): S*ln(1+E)*ln(1+S),Lymphoma,2,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Lymphoma,3,MYC
+decay none (W=S): S*ln(1+E)*ln(1+S),Lymphoma,4,CD79B
+decay none (W=S): S*ln(1+E)*ln(1+S),Lymphoma,5,KMT2D
+decay none (W=S): S*ln(1+E)*ln(1+S),Lymphoma,6,BCL2
+decay none (W=S): S*ln(1+E)*ln(1+S),Lymphoma,7,EZH2
+decay none (W=S): S*ln(1+E)*ln(1+S),Lymphoma,8,TET2
+decay none (W=S): S*ln(1+E)*ln(1+S),Lymphoma,9,CREBBP
+decay none (W=S): S*ln(1+E)*ln(1+S),Lymphoma,10,ATM
+decay none (W=S): S*ln(1+E)*ln(1+S),Myeloma,1,TP53
+decay none (W=S): S*ln(1+E)*ln(1+S),Myeloma,2,NRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Myeloma,3,BRAF
+decay none (W=S): S*ln(1+E)*ln(1+S),Myeloma,4,KRAS
+decay none (W=S): S*ln(1+E)*ln(1+S),Myeloma,5,MYC
+decay none (W=S): S*ln(1+E)*ln(1+S),Myeloma,6,SDC1
+decay none (W=S): S*ln(1+E)*ln(1+S),Myeloma,7,DIS3
+decay none (W=S): S*ln(1+E)*ln(1+S),Myeloma,8,IGH
+decay none (W=S): S*ln(1+E)*ln(1+S),Myeloma,9,FGFR3
+decay none (W=S): S*ln(1+E)*ln(1+S),Myeloma,10,IL6
+decay 1/r,Breast Cancer,1,BRCA1
+decay 1/r,Breast Cancer,2,PIK3CA
+decay 1/r,Breast Cancer,3,BRCA2
+decay 1/r,Breast Cancer,4,ERBB2
+decay 1/r,Breast Cancer,5,TP53
+decay 1/r,Breast Cancer,6,ESR1
+decay 1/r,Breast Cancer,7,PALB2
+decay 1/r,Breast Cancer,8,MKI67
+decay 1/r,Breast Cancer,9,CHEK2
+decay 1/r,Breast Cancer,10,PTEN
+decay 1/r,Lung Cancer,1,EGFR
+decay 1/r,Lung Cancer,2,KRAS
+decay 1/r,Lung Cancer,3,CD274
+decay 1/r,Lung Cancer,4,TP53
+decay 1/r,Lung Cancer,5,BRAF
+decay 1/r,Lung Cancer,6,PIK3CA
+decay 1/r,Lung Cancer,7,STK11
+decay 1/r,Lung Cancer,8,ALK
+decay 1/r,Lung Cancer,9,ERBB2
+decay 1/r,Lung Cancer,10,NKX2-1
+decay 1/r,Colorectal Cancer,1,KRAS
+decay 1/r,Colorectal Cancer,2,BRAF
+decay 1/r,Colorectal Cancer,3,MLH1
+decay 1/r,Colorectal Cancer,4,PIK3CA
+decay 1/r,Colorectal Cancer,5,EGFR
+decay 1/r,Colorectal Cancer,6,POLE
+decay 1/r,Colorectal Cancer,7,NRAS
+decay 1/r,Colorectal Cancer,8,TP53
+decay 1/r,Colorectal Cancer,9,MSH2
+decay 1/r,Colorectal Cancer,10,PMS2
+decay 1/r,Prostate Cancer,1,PTEN
+decay 1/r,Prostate Cancer,2,BRCA2
+decay 1/r,Prostate Cancer,3,TP53
+decay 1/r,Prostate Cancer,4,BRCA1
+decay 1/r,Prostate Cancer,5,SPOP
+decay 1/r,Prostate Cancer,6,RB1
+decay 1/r,Prostate Cancer,7,CHEK2
+decay 1/r,Prostate Cancer,8,ATM
+decay 1/r,Prostate Cancer,9,AR
+decay 1/r,Prostate Cancer,10,PARP1
+decay 1/r,Melanoma,1,NRAS
+decay 1/r,Melanoma,2,BRAF
+decay 1/r,Melanoma,3,KIT
+decay 1/r,Melanoma,4,PDCD1
+decay 1/r,Melanoma,5,TERT
+decay 1/r,Melanoma,6,CDKN2A
+decay 1/r,Melanoma,7,GNAQ
+decay 1/r,Melanoma,8,PIK3CA
+decay 1/r,Melanoma,9,GNA11
+decay 1/r,Melanoma,10,BAP1
+decay 1/r,Bladder Cancer,1,FGFR3
+decay 1/r,Bladder Cancer,2,TP53
+decay 1/r,Bladder Cancer,3,TERT
+decay 1/r,Bladder Cancer,4,PIK3CA
+decay 1/r,Bladder Cancer,5,APC
+decay 1/r,Bladder Cancer,6,CD274
+decay 1/r,Bladder Cancer,7,KRAS
+decay 1/r,Bladder Cancer,8,EGFR
+decay 1/r,Bladder Cancer,9,RB1
+decay 1/r,Bladder Cancer,10,ERBB2
+decay 1/r,Kidney Cancer,1,VHL
+decay 1/r,Kidney Cancer,2,BAP1
+decay 1/r,Kidney Cancer,3,FLCN
+decay 1/r,Kidney Cancer,4,PBRM1
+decay 1/r,Kidney Cancer,5,WT1
+decay 1/r,Kidney Cancer,6,SETD2
+decay 1/r,Kidney Cancer,7,FH
+decay 1/r,Kidney Cancer,8,BRCA1
+decay 1/r,Kidney Cancer,9,KDM5C
+decay 1/r,Kidney Cancer,10,BRAP
+decay 1/r,Pancreatic Cancer,1,KRAS
+decay 1/r,Pancreatic Cancer,2,BRCA2
+decay 1/r,Pancreatic Cancer,3,BRCA1
+decay 1/r,Pancreatic Cancer,4,CDKN2A
+decay 1/r,Pancreatic Cancer,5,TP53
+decay 1/r,Pancreatic Cancer,6,GNAS
+decay 1/r,Pancreatic Cancer,7,SMAD4
+decay 1/r,Pancreatic Cancer,8,BRAF
+decay 1/r,Pancreatic Cancer,9,MEN1
+decay 1/r,Pancreatic Cancer,10,RNF43
+decay 1/r,Liver Cancer,1,KRAS
+decay 1/r,Liver Cancer,2,TP53
+decay 1/r,Liver Cancer,3,BRAF
+decay 1/r,Liver Cancer,4,PIK3CA
+decay 1/r,Liver Cancer,5,CTNNB1
+decay 1/r,Liver Cancer,6,NRAS
+decay 1/r,Liver Cancer,7,EGFR
+decay 1/r,Liver Cancer,8,TERT
+decay 1/r,Liver Cancer,9,TTR
+decay 1/r,Liver Cancer,10,KIT
+decay 1/r,Stomach Cancer,1,CDH1
+decay 1/r,Stomach Cancer,2,TP53
+decay 1/r,Stomach Cancer,3,BRCA2
+decay 1/r,Stomach Cancer,4,PIK3CA
+decay 1/r,Stomach Cancer,5,KIT
+decay 1/r,Stomach Cancer,6,BRCA1
+decay 1/r,Stomach Cancer,7,PDGFRA
+decay 1/r,Stomach Cancer,8,KRAS
+decay 1/r,Stomach Cancer,9,EGFR
+decay 1/r,Stomach Cancer,10,BRAF
+decay 1/r,Esophageal Cancer,1,TP53
+decay 1/r,Esophageal Cancer,2,EGFR
+decay 1/r,Esophageal Cancer,3,PIK3CA
+decay 1/r,Esophageal Cancer,4,NOTCH1
+decay 1/r,Esophageal Cancer,5,KRAS
+decay 1/r,Esophageal Cancer,6,BRAF
+decay 1/r,Esophageal Cancer,7,CDKN2A
+decay 1/r,Esophageal Cancer,8,PROX1
+decay 1/r,Esophageal Cancer,9,BRCA2
+decay 1/r,Esophageal Cancer,10,TET2
+decay 1/r,Ovarian Cancer,1,BRCA1
+decay 1/r,Ovarian Cancer,2,BRCA2
+decay 1/r,Ovarian Cancer,3,POLE
+decay 1/r,Ovarian Cancer,4,MLH1
+decay 1/r,Ovarian Cancer,5,TP53
+decay 1/r,Ovarian Cancer,6,PIK3CA
+decay 1/r,Ovarian Cancer,7,KRAS
+decay 1/r,Ovarian Cancer,8,BRIP1
+decay 1/r,Ovarian Cancer,9,CTNNB1
+decay 1/r,Ovarian Cancer,10,CHEK2
+decay 1/r,Endometrial Cancer,1,POLE
+decay 1/r,Endometrial Cancer,2,PIK3CA
+decay 1/r,Endometrial Cancer,3,PTEN
+decay 1/r,Endometrial Cancer,4,MLH1
+decay 1/r,Endometrial Cancer,5,ARID1A
+decay 1/r,Endometrial Cancer,6,KRAS
+decay 1/r,Endometrial Cancer,7,TP53
+decay 1/r,Endometrial Cancer,8,CTNNB1
+decay 1/r,Endometrial Cancer,9,MSH2
+decay 1/r,Endometrial Cancer,10,MSH6
+decay 1/r,Cervical Cancer,1,PIK3CA
+decay 1/r,Cervical Cancer,2,KRAS
+decay 1/r,Cervical Cancer,3,TP53
+decay 1/r,Cervical Cancer,4,PTEN
+decay 1/r,Cervical Cancer,5,RB1
+decay 1/r,Cervical Cancer,6,EGFR
+decay 1/r,Cervical Cancer,7,ERBB2
+decay 1/r,Cervical Cancer,8,LRP1B
+decay 1/r,Cervical Cancer,9,BRAF
+decay 1/r,Cervical Cancer,10,FBXW7
+decay 1/r,Thyroid Cancer,1,BRAF
+decay 1/r,Thyroid Cancer,2,TERT
+decay 1/r,Thyroid Cancer,3,RET
+decay 1/r,Thyroid Cancer,4,NRAS
+decay 1/r,Thyroid Cancer,5,HRAS
+decay 1/r,Thyroid Cancer,6,KRAS
+decay 1/r,Thyroid Cancer,7,TP53
+decay 1/r,Thyroid Cancer,8,EIF1AX
+decay 1/r,Thyroid Cancer,9,PIK3CA
+decay 1/r,Thyroid Cancer,10,CCDC6
+decay 1/r,Brain Cancer,1,IDH1
+decay 1/r,Brain Cancer,2,EGFR
+decay 1/r,Brain Cancer,3,TP53
+decay 1/r,Brain Cancer,4,BRAF
+decay 1/r,Brain Cancer,5,TERT
+decay 1/r,Brain Cancer,6,IDH2
+decay 1/r,Brain Cancer,7,MLH1
+decay 1/r,Brain Cancer,8,KRAS
+decay 1/r,Brain Cancer,9,POLE
+decay 1/r,Brain Cancer,10,ATRX
+decay 1/r,Leukemia,1,BCR
+decay 1/r,Leukemia,2,FLT3
+decay 1/r,Leukemia,3,NPM1
+decay 1/r,Leukemia,4,ASXL1
+decay 1/r,Leukemia,5,U2AF1
+decay 1/r,Leukemia,6,CEBPA
+decay 1/r,Leukemia,7,DNMT3A
+decay 1/r,Leukemia,8,NRAS
+decay 1/r,Leukemia,9,RUNX1
+decay 1/r,Leukemia,10,ABL1
+decay 1/r,Lymphoma,1,MYD88
+decay 1/r,Lymphoma,2,TP53
+decay 1/r,Lymphoma,3,PIM1
+decay 1/r,Lymphoma,4,EZH2
+decay 1/r,Lymphoma,5,CD79B
+decay 1/r,Lymphoma,6,CREBBP
+decay 1/r,Lymphoma,7,MYC
+decay 1/r,Lymphoma,8,SOCS1
+decay 1/r,Lymphoma,9,BCL2
+decay 1/r,Lymphoma,10,TNFRSF14
+decay 1/r,Myeloma,1,NRAS
+decay 1/r,Myeloma,2,BRAF
+decay 1/r,Myeloma,3,KRAS
+decay 1/r,Myeloma,4,TP53
+decay 1/r,Myeloma,5,DIS3
+decay 1/r,Myeloma,6,FGFR3
+decay 1/r,Myeloma,7,SDC1
+decay 1/r,Myeloma,8,RB1
+decay 1/r,Myeloma,9,TRAF3
+decay 1/r,Myeloma,10,BIRC3
+decay 1/log2(r+1),Breast Cancer,1,BRCA1
+decay 1/log2(r+1),Breast Cancer,2,BRCA2
+decay 1/log2(r+1),Breast Cancer,3,PIK3CA
+decay 1/log2(r+1),Breast Cancer,4,ERBB2
+decay 1/log2(r+1),Breast Cancer,5,TP53
+decay 1/log2(r+1),Breast Cancer,6,PALB2
+decay 1/log2(r+1),Breast Cancer,7,CHEK2
+decay 1/log2(r+1),Breast Cancer,8,ESR1
+decay 1/log2(r+1),Breast Cancer,9,EGFR
+decay 1/log2(r+1),Breast Cancer,10,PTEN
+decay 1/log2(r+1),Lung Cancer,1,EGFR
+decay 1/log2(r+1),Lung Cancer,2,KRAS
+decay 1/log2(r+1),Lung Cancer,3,TP53
+decay 1/log2(r+1),Lung Cancer,4,CD274
+decay 1/log2(r+1),Lung Cancer,5,BRAF
+decay 1/log2(r+1),Lung Cancer,6,PIK3CA
+decay 1/log2(r+1),Lung Cancer,7,ERBB2
+decay 1/log2(r+1),Lung Cancer,8,ALK
+decay 1/log2(r+1),Lung Cancer,9,MET
+decay 1/log2(r+1),Lung Cancer,10,STK11
+decay 1/log2(r+1),Colorectal Cancer,1,KRAS
+decay 1/log2(r+1),Colorectal Cancer,2,BRAF
+decay 1/log2(r+1),Colorectal Cancer,3,EGFR
+decay 1/log2(r+1),Colorectal Cancer,4,MLH1
+decay 1/log2(r+1),Colorectal Cancer,5,PIK3CA
+decay 1/log2(r+1),Colorectal Cancer,6,NRAS
+decay 1/log2(r+1),Colorectal Cancer,7,MSH2
+decay 1/log2(r+1),Colorectal Cancer,8,APC
+decay 1/log2(r+1),Colorectal Cancer,9,TP53
+decay 1/log2(r+1),Colorectal Cancer,10,MSH6
+decay 1/log2(r+1),Prostate Cancer,1,BRCA2
+decay 1/log2(r+1),Prostate Cancer,2,BRCA1
+decay 1/log2(r+1),Prostate Cancer,3,TP53
+decay 1/log2(r+1),Prostate Cancer,4,PTEN
+decay 1/log2(r+1),Prostate Cancer,5,AR
+decay 1/log2(r+1),Prostate Cancer,6,ATM
+decay 1/log2(r+1),Prostate Cancer,7,PARP1
+decay 1/log2(r+1),Prostate Cancer,8,SPOP
+decay 1/log2(r+1),Prostate Cancer,9,CHEK2
+decay 1/log2(r+1),Prostate Cancer,10,PIK3CA
+decay 1/log2(r+1),Melanoma,1,BRAF
+decay 1/log2(r+1),Melanoma,2,NRAS
+decay 1/log2(r+1),Melanoma,3,CDKN2A
+decay 1/log2(r+1),Melanoma,4,KIT
+decay 1/log2(r+1),Melanoma,5,TERT
+decay 1/log2(r+1),Melanoma,6,GNAQ
+decay 1/log2(r+1),Melanoma,7,GNA11
+decay 1/log2(r+1),Melanoma,8,BAP1
+decay 1/log2(r+1),Melanoma,9,SF3B1
+decay 1/log2(r+1),Melanoma,10,PIK3CA
+decay 1/log2(r+1),Bladder Cancer,1,FGFR3
+decay 1/log2(r+1),Bladder Cancer,2,TP53
+decay 1/log2(r+1),Bladder Cancer,3,TERT
+decay 1/log2(r+1),Bladder Cancer,4,PIK3CA
+decay 1/log2(r+1),Bladder Cancer,5,CD274
+decay 1/log2(r+1),Bladder Cancer,6,RB1
+decay 1/log2(r+1),Bladder Cancer,7,ERBB2
+decay 1/log2(r+1),Bladder Cancer,8,KRAS
+decay 1/log2(r+1),Bladder Cancer,9,EGFR
+decay 1/log2(r+1),Bladder Cancer,10,ARID1A
+decay 1/log2(r+1),Kidney Cancer,1,VHL
+decay 1/log2(r+1),Kidney Cancer,2,WT1
+decay 1/log2(r+1),Kidney Cancer,3,PBRM1
+decay 1/log2(r+1),Kidney Cancer,4,FH
+decay 1/log2(r+1),Kidney Cancer,5,BAP1
+decay 1/log2(r+1),Kidney Cancer,6,SETD2
+decay 1/log2(r+1),Kidney Cancer,7,TSC2
+decay 1/log2(r+1),Kidney Cancer,8,FLCN
+decay 1/log2(r+1),Kidney Cancer,9,TP53
+decay 1/log2(r+1),Kidney Cancer,10,CTNNB1
+decay 1/log2(r+1),Pancreatic Cancer,1,KRAS
+decay 1/log2(r+1),Pancreatic Cancer,2,CDKN2A
+decay 1/log2(r+1),Pancreatic Cancer,3,BRCA2
+decay 1/log2(r+1),Pancreatic Cancer,4,TP53
+decay 1/log2(r+1),Pancreatic Cancer,5,SMAD4
+decay 1/log2(r+1),Pancreatic Cancer,6,BRCA1
+decay 1/log2(r+1),Pancreatic Cancer,7,GNAS
+decay 1/log2(r+1),Pancreatic Cancer,8,PIK3CA
+decay 1/log2(r+1),Pancreatic Cancer,9,PALB2
+decay 1/log2(r+1),Pancreatic Cancer,10,MEN1
+decay 1/log2(r+1),Liver Cancer,1,CTNNB1
+decay 1/log2(r+1),Liver Cancer,2,TP53
+decay 1/log2(r+1),Liver Cancer,3,KRAS
+decay 1/log2(r+1),Liver Cancer,4,BRAF
+decay 1/log2(r+1),Liver Cancer,5,TERT
+decay 1/log2(r+1),Liver Cancer,6,PIK3CA
+decay 1/log2(r+1),Liver Cancer,7,NRAS
+decay 1/log2(r+1),Liver Cancer,8,EGFR
+decay 1/log2(r+1),Liver Cancer,9,KIT
+decay 1/log2(r+1),Liver Cancer,10,APC
+decay 1/log2(r+1),Stomach Cancer,1,CDH1
+decay 1/log2(r+1),Stomach Cancer,2,TP53
+decay 1/log2(r+1),Stomach Cancer,3,PIK3CA
+decay 1/log2(r+1),Stomach Cancer,4,KRAS
+decay 1/log2(r+1),Stomach Cancer,5,CTNNB1
+decay 1/log2(r+1),Stomach Cancer,6,KIT
+decay 1/log2(r+1),Stomach Cancer,7,EGFR
+decay 1/log2(r+1),Stomach Cancer,8,APC
+decay 1/log2(r+1),Stomach Cancer,9,ERBB2
+decay 1/log2(r+1),Stomach Cancer,10,BRAF
+decay 1/log2(r+1),Esophageal Cancer,1,TP53
+decay 1/log2(r+1),Esophageal Cancer,2,EGFR
+decay 1/log2(r+1),Esophageal Cancer,3,PIK3CA
+decay 1/log2(r+1),Esophageal Cancer,4,CDKN2A
+decay 1/log2(r+1),Esophageal Cancer,5,KRAS
+decay 1/log2(r+1),Esophageal Cancer,6,ERBB2
+decay 1/log2(r+1),Esophageal Cancer,7,CD274
+decay 1/log2(r+1),Esophageal Cancer,8,KIT
+decay 1/log2(r+1),Esophageal Cancer,9,BRAF
+decay 1/log2(r+1),Esophageal Cancer,10,NOTCH1
+decay 1/log2(r+1),Ovarian Cancer,1,BRCA1
+decay 1/log2(r+1),Ovarian Cancer,2,BRCA2
+decay 1/log2(r+1),Ovarian Cancer,3,TP53
+decay 1/log2(r+1),Ovarian Cancer,4,KRAS
+decay 1/log2(r+1),Ovarian Cancer,5,PIK3CA
+decay 1/log2(r+1),Ovarian Cancer,6,POLE
+decay 1/log2(r+1),Ovarian Cancer,7,BRAF
+decay 1/log2(r+1),Ovarian Cancer,8,ARID1A
+decay 1/log2(r+1),Ovarian Cancer,9,CTNNB1
+decay 1/log2(r+1),Ovarian Cancer,10,MLH1
+decay 1/log2(r+1),Endometrial Cancer,1,PTEN
+decay 1/log2(r+1),Endometrial Cancer,2,PIK3CA
+decay 1/log2(r+1),Endometrial Cancer,3,POLE
+decay 1/log2(r+1),Endometrial Cancer,4,MLH1
+decay 1/log2(r+1),Endometrial Cancer,5,TP53
+decay 1/log2(r+1),Endometrial Cancer,6,KRAS
+decay 1/log2(r+1),Endometrial Cancer,7,MSH2
+decay 1/log2(r+1),Endometrial Cancer,8,CTNNB1
+decay 1/log2(r+1),Endometrial Cancer,9,ARID1A
+decay 1/log2(r+1),Endometrial Cancer,10,MSH6
+decay 1/log2(r+1),Cervical Cancer,1,PIK3CA
+decay 1/log2(r+1),Cervical Cancer,2,TP53
+decay 1/log2(r+1),Cervical Cancer,3,KRAS
+decay 1/log2(r+1),Cervical Cancer,4,PTEN
+decay 1/log2(r+1),Cervical Cancer,5,ERBB2
+decay 1/log2(r+1),Cervical Cancer,6,STK11
+decay 1/log2(r+1),Cervical Cancer,7,CD274
+decay 1/log2(r+1),Cervical Cancer,8,EGFR
+decay 1/log2(r+1),Cervical Cancer,9,FBXW7
+decay 1/log2(r+1),Cervical Cancer,10,ARID1A
+decay 1/log2(r+1),Thyroid Cancer,1,BRAF
+decay 1/log2(r+1),Thyroid Cancer,2,RET
+decay 1/log2(r+1),Thyroid Cancer,3,TERT
+decay 1/log2(r+1),Thyroid Cancer,4,NRAS
+decay 1/log2(r+1),Thyroid Cancer,5,HRAS
+decay 1/log2(r+1),Thyroid Cancer,6,KRAS
+decay 1/log2(r+1),Thyroid Cancer,7,PIK3CA
+decay 1/log2(r+1),Thyroid Cancer,8,CCDC6
+decay 1/log2(r+1),Thyroid Cancer,9,TP53
+decay 1/log2(r+1),Thyroid Cancer,10,DICER1
+decay 1/log2(r+1),Brain Cancer,1,IDH1
+decay 1/log2(r+1),Brain Cancer,2,EGFR
+decay 1/log2(r+1),Brain Cancer,3,TP53
+decay 1/log2(r+1),Brain Cancer,4,TERT
+decay 1/log2(r+1),Brain Cancer,5,IDH2
+decay 1/log2(r+1),Brain Cancer,6,BRAF
+decay 1/log2(r+1),Brain Cancer,7,PIK3CA
+decay 1/log2(r+1),Brain Cancer,8,KRAS
+decay 1/log2(r+1),Brain Cancer,9,ATRX
+decay 1/log2(r+1),Brain Cancer,10,MGMT
+decay 1/log2(r+1),Leukemia,1,FLT3
+decay 1/log2(r+1),Leukemia,2,NPM1
+decay 1/log2(r+1),Leukemia,3,DNMT3A
+decay 1/log2(r+1),Leukemia,4,BCR
+decay 1/log2(r+1),Leukemia,5,NRAS
+decay 1/log2(r+1),Leukemia,6,CEBPA
+decay 1/log2(r+1),Leukemia,7,ASXL1
+decay 1/log2(r+1),Leukemia,8,RUNX1
+decay 1/log2(r+1),Leukemia,9,TP53
+decay 1/log2(r+1),Leukemia,10,TET2
+decay 1/log2(r+1),Lymphoma,1,MYD88
+decay 1/log2(r+1),Lymphoma,2,TP53
+decay 1/log2(r+1),Lymphoma,3,MYC
+decay 1/log2(r+1),Lymphoma,4,CD79B
+decay 1/log2(r+1),Lymphoma,5,KMT2D
+decay 1/log2(r+1),Lymphoma,6,EZH2
+decay 1/log2(r+1),Lymphoma,7,BCL2
+decay 1/log2(r+1),Lymphoma,8,TET2
+decay 1/log2(r+1),Lymphoma,9,CREBBP
+decay 1/log2(r+1),Lymphoma,10,ATM
+decay 1/log2(r+1),Myeloma,1,TP53
+decay 1/log2(r+1),Myeloma,2,NRAS
+decay 1/log2(r+1),Myeloma,3,BRAF
+decay 1/log2(r+1),Myeloma,4,KRAS
+decay 1/log2(r+1),Myeloma,5,DIS3
+decay 1/log2(r+1),Myeloma,6,SDC1
+decay 1/log2(r+1),Myeloma,7,MYC
+decay 1/log2(r+1),Myeloma,8,IGH
+decay 1/log2(r+1),Myeloma,9,FGFR3
+decay 1/log2(r+1),Myeloma,10,CCND1
+decay 1/r^2,Breast Cancer,1,ESR1
+decay 1/r^2,Breast Cancer,2,PIK3CA
+decay 1/r^2,Breast Cancer,3,ERBB2
+decay 1/r^2,Breast Cancer,4,TP53
+decay 1/r^2,Breast Cancer,5,BRCA1
+decay 1/r^2,Breast Cancer,6,CYP19A1
+decay 1/r^2,Breast Cancer,7,BRCA2
+decay 1/r^2,Breast Cancer,8,MKI67
+decay 1/r^2,Breast Cancer,9,AKT1
+decay 1/r^2,Breast Cancer,10,PTEN
+decay 1/r^2,Lung Cancer,1,EGFR
+decay 1/r^2,Lung Cancer,2,CD274
+decay 1/r^2,Lung Cancer,3,TP53
+decay 1/r^2,Lung Cancer,4,KRAS
+decay 1/r^2,Lung Cancer,5,STK11
+decay 1/r^2,Lung Cancer,6,NKX2-1
+decay 1/r^2,Lung Cancer,7,PIK3CA
+decay 1/r^2,Lung Cancer,8,BRAF
+decay 1/r^2,Lung Cancer,9,ALK
+decay 1/r^2,Lung Cancer,10,PDCD1
+decay 1/r^2,Colorectal Cancer,1,MLH1
+decay 1/r^2,Colorectal Cancer,2,POLE
+decay 1/r^2,Colorectal Cancer,3,BRAF
+decay 1/r^2,Colorectal Cancer,4,PIK3CA
+decay 1/r^2,Colorectal Cancer,5,KRAS
+decay 1/r^2,Colorectal Cancer,6,EGFR
+decay 1/r^2,Colorectal Cancer,7,PMS2
+decay 1/r^2,Colorectal Cancer,8,TP53
+decay 1/r^2,Colorectal Cancer,9,NRAS
+decay 1/r^2,Colorectal Cancer,10,APC
+decay 1/r^2,Prostate Cancer,1,PTEN
+decay 1/r^2,Prostate Cancer,2,TP53
+decay 1/r^2,Prostate Cancer,3,RB1
+decay 1/r^2,Prostate Cancer,4,SPOP
+decay 1/r^2,Prostate Cancer,5,BRCA2
+decay 1/r^2,Prostate Cancer,6,BRCA1
+decay 1/r^2,Prostate Cancer,7,CHEK2
+decay 1/r^2,Prostate Cancer,8,CHD1
+decay 1/r^2,Prostate Cancer,9,ERG
+decay 1/r^2,Prostate Cancer,10,AR
+decay 1/r^2,Melanoma,1,NRAS
+decay 1/r^2,Melanoma,2,PDCD1
+decay 1/r^2,Melanoma,3,BRAF
+decay 1/r^2,Melanoma,4,TERT
+decay 1/r^2,Melanoma,5,KIT
+decay 1/r^2,Melanoma,6,PRAME
+decay 1/r^2,Melanoma,7,EGFR
+decay 1/r^2,Melanoma,8,CDKN2A
+decay 1/r^2,Melanoma,9,PIK3CA
+decay 1/r^2,Melanoma,10,TNFRSF11A
+decay 1/r^2,Bladder Cancer,1,FGFR3
+decay 1/r^2,Bladder Cancer,2,TP53
+decay 1/r^2,Bladder Cancer,3,APC
+decay 1/r^2,Bladder Cancer,4,TERT
+decay 1/r^2,Bladder Cancer,5,CD274
+decay 1/r^2,Bladder Cancer,6,PDCD1
+decay 1/r^2,Bladder Cancer,7,PIK3CA
+decay 1/r^2,Bladder Cancer,8,EGFR
+decay 1/r^2,Bladder Cancer,9,ERBB2
+decay 1/r^2,Bladder Cancer,10,RB1
+decay 1/r^2,Kidney Cancer,1,FLCN
+decay 1/r^2,Kidney Cancer,2,VHL
+decay 1/r^2,Kidney Cancer,3,BAP1
+decay 1/r^2,Kidney Cancer,4,BRAP
+decay 1/r^2,Kidney Cancer,5,BRCA1
+decay 1/r^2,Kidney Cancer,6,PBRM1
+decay 1/r^2,Kidney Cancer,7,SETD2
+decay 1/r^2,Kidney Cancer,8,KDM5C
+decay 1/r^2,Kidney Cancer,9,CD274
+decay 1/r^2,Kidney Cancer,10,ELOC
+decay 1/r^2,Pancreatic Cancer,1,KRAS
+decay 1/r^2,Pancreatic Cancer,2,GNAS
+decay 1/r^2,Pancreatic Cancer,3,RNF43
+decay 1/r^2,Pancreatic Cancer,4,BRAF
+decay 1/r^2,Pancreatic Cancer,5,MEN1
+decay 1/r^2,Pancreatic Cancer,6,BRCA2
+decay 1/r^2,Pancreatic Cancer,7,BRCA1
+decay 1/r^2,Pancreatic Cancer,8,ATM
+decay 1/r^2,Pancreatic Cancer,9,CDKN2A
+decay 1/r^2,Pancreatic Cancer,10,TP53
+decay 1/r^2,Liver Cancer,1,KRAS
+decay 1/r^2,Liver Cancer,2,BRAF
+decay 1/r^2,Liver Cancer,3,PIK3CA
+decay 1/r^2,Liver Cancer,4,TP53
+decay 1/r^2,Liver Cancer,5,NRAS
+decay 1/r^2,Liver Cancer,6,TTR
+decay 1/r^2,Liver Cancer,7,EGFR
+decay 1/r^2,Liver Cancer,8,CTNNB1
+decay 1/r^2,Liver Cancer,9,AKT1
+decay 1/r^2,Liver Cancer,10,TERT
+decay 1/r^2,Stomach Cancer,1,BRCA2
+decay 1/r^2,Stomach Cancer,2,BRCA1
+decay 1/r^2,Stomach Cancer,3,RAD50
+decay 1/r^2,Stomach Cancer,4,BLM
+decay 1/r^2,Stomach Cancer,5,NBN
+decay 1/r^2,Stomach Cancer,6,PALB2
+decay 1/r^2,Stomach Cancer,7,BRIP1
+decay 1/r^2,Stomach Cancer,8,KIT
+decay 1/r^2,Stomach Cancer,9,PARP1
+decay 1/r^2,Stomach Cancer,10,PDGFRA
+decay 1/r^2,Esophageal Cancer,1,TP53
+decay 1/r^2,Esophageal Cancer,2,PROX1
+decay 1/r^2,Esophageal Cancer,3,TET2
+decay 1/r^2,Esophageal Cancer,4,ASXL1
+decay 1/r^2,Esophageal Cancer,5,NOTCH1
+decay 1/r^2,Esophageal Cancer,6,EGFR
+decay 1/r^2,Esophageal Cancer,7,FOXD3
+decay 1/r^2,Esophageal Cancer,8,PIK3CA
+decay 1/r^2,Esophageal Cancer,9,PMAIP1
+decay 1/r^2,Esophageal Cancer,10,PDGFRA
+decay 1/r^2,Ovarian Cancer,1,POLE
+decay 1/r^2,Ovarian Cancer,2,MLH1
+decay 1/r^2,Ovarian Cancer,3,BRCA2
+decay 1/r^2,Ovarian Cancer,4,BRCA1
+decay 1/r^2,Ovarian Cancer,5,TP53
+decay 1/r^2,Ovarian Cancer,6,BRIP1
+decay 1/r^2,Ovarian Cancer,7,CHEK2
+decay 1/r^2,Ovarian Cancer,8,RAD51C
+decay 1/r^2,Ovarian Cancer,9,RAD51D
+decay 1/r^2,Ovarian Cancer,10,PIK3CA
+decay 1/r^2,Endometrial Cancer,1,PIK3CA
+decay 1/r^2,Endometrial Cancer,2,ARID1A
+decay 1/r^2,Endometrial Cancer,3,POLE
+decay 1/r^2,Endometrial Cancer,4,MLH1
+decay 1/r^2,Endometrial Cancer,5,KRAS
+decay 1/r^2,Endometrial Cancer,6,TP53
+decay 1/r^2,Endometrial Cancer,7,PTEN
+decay 1/r^2,Endometrial Cancer,8,BRCA2
+decay 1/r^2,Endometrial Cancer,9,BRCA1
+decay 1/r^2,Endometrial Cancer,10,MSH2
+decay 1/r^2,Cervical Cancer,1,PIK3CA
+decay 1/r^2,Cervical Cancer,2,TP53
+decay 1/r^2,Cervical Cancer,3,RB1
+decay 1/r^2,Cervical Cancer,4,KRAS
+decay 1/r^2,Cervical Cancer,5,LRP1B
+decay 1/r^2,Cervical Cancer,6,BRAF
+decay 1/r^2,Cervical Cancer,7,PTEN
+decay 1/r^2,Cervical Cancer,8,EGFR
+decay 1/r^2,Cervical Cancer,9,MTOR
+decay 1/r^2,Cervical Cancer,10,CD274
+decay 1/r^2,Thyroid Cancer,1,NRAS
+decay 1/r^2,Thyroid Cancer,2,HRAS
+decay 1/r^2,Thyroid Cancer,3,KRAS
+decay 1/r^2,Thyroid Cancer,4,TERT
+decay 1/r^2,Thyroid Cancer,5,BRAF
+decay 1/r^2,Thyroid Cancer,6,RET
+decay 1/r^2,Thyroid Cancer,7,TP53
+decay 1/r^2,Thyroid Cancer,8,EIF1AX
+decay 1/r^2,Thyroid Cancer,9,TYR
+decay 1/r^2,Thyroid Cancer,10,ALK
+decay 1/r^2,Brain Cancer,1,EGFR
+decay 1/r^2,Brain Cancer,2,TP53
+decay 1/r^2,Brain Cancer,3,POLE
+decay 1/r^2,Brain Cancer,4,MLH1
+decay 1/r^2,Brain Cancer,5,IDH1
+decay 1/r^2,Brain Cancer,6,PMS2
+decay 1/r^2,Brain Cancer,7,GNAS
+decay 1/r^2,Brain Cancer,8,KRAS
+decay 1/r^2,Brain Cancer,9,IGF1
+decay 1/r^2,Brain Cancer,10,BRAF
+decay 1/r^2,Leukemia,1,BCR
+decay 1/r^2,Leukemia,2,CD48
+decay 1/r^2,Leukemia,3,U2AF1
+decay 1/r^2,Leukemia,4,ASXL1
+decay 1/r^2,Leukemia,5,FLT3
+decay 1/r^2,Leukemia,6,ETV6
+decay 1/r^2,Leukemia,7,NPM1
+decay 1/r^2,Leukemia,8,CEBPA
+decay 1/r^2,Leukemia,9,BRAF
+decay 1/r^2,Leukemia,10,PTPN11
+decay 1/r^2,Lymphoma,1,MYD88
+decay 1/r^2,Lymphoma,2,PIM1
+decay 1/r^2,Lymphoma,3,EAF2
+decay 1/r^2,Lymphoma,4,EZH2
+decay 1/r^2,Lymphoma,5,SOCS1
+decay 1/r^2,Lymphoma,6,TP53
+decay 1/r^2,Lymphoma,7,CREBBP
+decay 1/r^2,Lymphoma,8,TNFRSF14
+decay 1/r^2,Lymphoma,9,BCL2
+decay 1/r^2,Lymphoma,10,KMT2B
+decay 1/r^2,Myeloma,1,NRAS
+decay 1/r^2,Myeloma,2,BRAF
+decay 1/r^2,Myeloma,3,KRAS
+decay 1/r^2,Myeloma,4,TP53
+decay 1/r^2,Myeloma,5,BIRC3
+decay 1/r^2,Myeloma,6,INS
+decay 1/r^2,Myeloma,7,DIS3
+decay 1/r^2,Myeloma,8,BCL6
+decay 1/r^2,Myeloma,9,RB1
+decay 1/r^2,Myeloma,10,FGFR3
+enrichment ln(E) instead of ln(1+E),Breast Cancer,1,BRCA1
+enrichment ln(E) instead of ln(1+E),Breast Cancer,2,BRCA2
+enrichment ln(E) instead of ln(1+E),Breast Cancer,3,PIK3CA
+enrichment ln(E) instead of ln(1+E),Breast Cancer,4,ERBB2
+enrichment ln(E) instead of ln(1+E),Breast Cancer,5,TP53
+enrichment ln(E) instead of ln(1+E),Breast Cancer,6,PALB2
+enrichment ln(E) instead of ln(1+E),Breast Cancer,7,CHEK2
+enrichment ln(E) instead of ln(1+E),Breast Cancer,8,ESR1
+enrichment ln(E) instead of ln(1+E),Breast Cancer,9,PTEN
+enrichment ln(E) instead of ln(1+E),Breast Cancer,10,EGFR
+enrichment ln(E) instead of ln(1+E),Lung Cancer,1,EGFR
+enrichment ln(E) instead of ln(1+E),Lung Cancer,2,KRAS
+enrichment ln(E) instead of ln(1+E),Lung Cancer,3,CD274
+enrichment ln(E) instead of ln(1+E),Lung Cancer,4,TP53
+enrichment ln(E) instead of ln(1+E),Lung Cancer,5,BRAF
+enrichment ln(E) instead of ln(1+E),Lung Cancer,6,PIK3CA
+enrichment ln(E) instead of ln(1+E),Lung Cancer,7,ERBB2
+enrichment ln(E) instead of ln(1+E),Lung Cancer,8,ALK
+enrichment ln(E) instead of ln(1+E),Lung Cancer,9,STK11
+enrichment ln(E) instead of ln(1+E),Lung Cancer,10,MET
+enrichment ln(E) instead of ln(1+E),Colorectal Cancer,1,KRAS
+enrichment ln(E) instead of ln(1+E),Colorectal Cancer,2,BRAF
+enrichment ln(E) instead of ln(1+E),Colorectal Cancer,3,EGFR
+enrichment ln(E) instead of ln(1+E),Colorectal Cancer,4,MLH1
+enrichment ln(E) instead of ln(1+E),Colorectal Cancer,5,PIK3CA
+enrichment ln(E) instead of ln(1+E),Colorectal Cancer,6,NRAS
+enrichment ln(E) instead of ln(1+E),Colorectal Cancer,7,MSH2
+enrichment ln(E) instead of ln(1+E),Colorectal Cancer,8,TP53
+enrichment ln(E) instead of ln(1+E),Colorectal Cancer,9,APC
+enrichment ln(E) instead of ln(1+E),Colorectal Cancer,10,MSH6
+enrichment ln(E) instead of ln(1+E),Prostate Cancer,1,BRCA2
+enrichment ln(E) instead of ln(1+E),Prostate Cancer,2,BRCA1
+enrichment ln(E) instead of ln(1+E),Prostate Cancer,3,PTEN
+enrichment ln(E) instead of ln(1+E),Prostate Cancer,4,TP53
+enrichment ln(E) instead of ln(1+E),Prostate Cancer,5,ATM
+enrichment ln(E) instead of ln(1+E),Prostate Cancer,6,SPOP
+enrichment ln(E) instead of ln(1+E),Prostate Cancer,7,AR
+enrichment ln(E) instead of ln(1+E),Prostate Cancer,8,PARP1
+enrichment ln(E) instead of ln(1+E),Prostate Cancer,9,CHEK2
+enrichment ln(E) instead of ln(1+E),Prostate Cancer,10,PALB2
+enrichment ln(E) instead of ln(1+E),Melanoma,1,BRAF
+enrichment ln(E) instead of ln(1+E),Melanoma,2,NRAS
+enrichment ln(E) instead of ln(1+E),Melanoma,3,KIT
+enrichment ln(E) instead of ln(1+E),Melanoma,4,CDKN2A
+enrichment ln(E) instead of ln(1+E),Melanoma,5,TERT
+enrichment ln(E) instead of ln(1+E),Melanoma,6,GNAQ
+enrichment ln(E) instead of ln(1+E),Melanoma,7,GNA11
+enrichment ln(E) instead of ln(1+E),Melanoma,8,BAP1
+enrichment ln(E) instead of ln(1+E),Melanoma,9,PDCD1
+enrichment ln(E) instead of ln(1+E),Melanoma,10,PIK3CA
+enrichment ln(E) instead of ln(1+E),Bladder Cancer,1,FGFR3
+enrichment ln(E) instead of ln(1+E),Bladder Cancer,2,TP53
+enrichment ln(E) instead of ln(1+E),Bladder Cancer,3,TERT
+enrichment ln(E) instead of ln(1+E),Bladder Cancer,4,PIK3CA
+enrichment ln(E) instead of ln(1+E),Bladder Cancer,5,CD274
+enrichment ln(E) instead of ln(1+E),Bladder Cancer,6,RB1
+enrichment ln(E) instead of ln(1+E),Bladder Cancer,7,KRAS
+enrichment ln(E) instead of ln(1+E),Bladder Cancer,8,ERBB2
+enrichment ln(E) instead of ln(1+E),Bladder Cancer,9,EGFR
+enrichment ln(E) instead of ln(1+E),Bladder Cancer,10,ARID1A
+enrichment ln(E) instead of ln(1+E),Kidney Cancer,1,VHL
+enrichment ln(E) instead of ln(1+E),Kidney Cancer,2,WT1
+enrichment ln(E) instead of ln(1+E),Kidney Cancer,3,PBRM1
+enrichment ln(E) instead of ln(1+E),Kidney Cancer,4,BAP1
+enrichment ln(E) instead of ln(1+E),Kidney Cancer,5,FH
+enrichment ln(E) instead of ln(1+E),Kidney Cancer,6,SETD2
+enrichment ln(E) instead of ln(1+E),Kidney Cancer,7,FLCN
+enrichment ln(E) instead of ln(1+E),Kidney Cancer,8,TSC2
+enrichment ln(E) instead of ln(1+E),Kidney Cancer,9,TP53
+enrichment ln(E) instead of ln(1+E),Kidney Cancer,10,CTNNB1
+enrichment ln(E) instead of ln(1+E),Pancreatic Cancer,1,KRAS
+enrichment ln(E) instead of ln(1+E),Pancreatic Cancer,2,BRCA2
+enrichment ln(E) instead of ln(1+E),Pancreatic Cancer,3,CDKN2A
+enrichment ln(E) instead of ln(1+E),Pancreatic Cancer,4,TP53
+enrichment ln(E) instead of ln(1+E),Pancreatic Cancer,5,BRCA1
+enrichment ln(E) instead of ln(1+E),Pancreatic Cancer,6,SMAD4
+enrichment ln(E) instead of ln(1+E),Pancreatic Cancer,7,GNAS
+enrichment ln(E) instead of ln(1+E),Pancreatic Cancer,8,PALB2
+enrichment ln(E) instead of ln(1+E),Pancreatic Cancer,9,BRAF
+enrichment ln(E) instead of ln(1+E),Pancreatic Cancer,10,PIK3CA
+enrichment ln(E) instead of ln(1+E),Liver Cancer,1,KRAS
+enrichment ln(E) instead of ln(1+E),Liver Cancer,2,CTNNB1
+enrichment ln(E) instead of ln(1+E),Liver Cancer,3,TP53
+enrichment ln(E) instead of ln(1+E),Liver Cancer,4,BRAF
+enrichment ln(E) instead of ln(1+E),Liver Cancer,5,PIK3CA
+enrichment ln(E) instead of ln(1+E),Liver Cancer,6,TERT
+enrichment ln(E) instead of ln(1+E),Liver Cancer,7,NRAS
+enrichment ln(E) instead of ln(1+E),Liver Cancer,8,EGFR
+enrichment ln(E) instead of ln(1+E),Liver Cancer,9,KIT
+enrichment ln(E) instead of ln(1+E),Liver Cancer,10,APC
+enrichment ln(E) instead of ln(1+E),Stomach Cancer,1,CDH1
+enrichment ln(E) instead of ln(1+E),Stomach Cancer,2,TP53
+enrichment ln(E) instead of ln(1+E),Stomach Cancer,3,PIK3CA
+enrichment ln(E) instead of ln(1+E),Stomach Cancer,4,KRAS
+enrichment ln(E) instead of ln(1+E),Stomach Cancer,5,CTNNB1
+enrichment ln(E) instead of ln(1+E),Stomach Cancer,6,EGFR
+enrichment ln(E) instead of ln(1+E),Stomach Cancer,7,KIT
+enrichment ln(E) instead of ln(1+E),Stomach Cancer,8,BRAF
+enrichment ln(E) instead of ln(1+E),Stomach Cancer,9,APC
+enrichment ln(E) instead of ln(1+E),Stomach Cancer,10,BRCA2
+enrichment ln(E) instead of ln(1+E),Esophageal Cancer,1,TP53
+enrichment ln(E) instead of ln(1+E),Esophageal Cancer,2,EGFR
+enrichment ln(E) instead of ln(1+E),Esophageal Cancer,3,PIK3CA
+enrichment ln(E) instead of ln(1+E),Esophageal Cancer,4,CDKN2A
+enrichment ln(E) instead of ln(1+E),Esophageal Cancer,5,KRAS
+enrichment ln(E) instead of ln(1+E),Esophageal Cancer,6,BRAF
+enrichment ln(E) instead of ln(1+E),Esophageal Cancer,7,ERBB2
+enrichment ln(E) instead of ln(1+E),Esophageal Cancer,8,CD274
+enrichment ln(E) instead of ln(1+E),Esophageal Cancer,9,NOTCH1
+enrichment ln(E) instead of ln(1+E),Esophageal Cancer,10,KIT
+enrichment ln(E) instead of ln(1+E),Ovarian Cancer,1,BRCA1
+enrichment ln(E) instead of ln(1+E),Ovarian Cancer,2,BRCA2
+enrichment ln(E) instead of ln(1+E),Ovarian Cancer,3,TP53
+enrichment ln(E) instead of ln(1+E),Ovarian Cancer,4,POLE
+enrichment ln(E) instead of ln(1+E),Ovarian Cancer,5,KRAS
+enrichment ln(E) instead of ln(1+E),Ovarian Cancer,6,PIK3CA
+enrichment ln(E) instead of ln(1+E),Ovarian Cancer,7,ARID1A
+enrichment ln(E) instead of ln(1+E),Ovarian Cancer,8,MLH1
+enrichment ln(E) instead of ln(1+E),Ovarian Cancer,9,CTNNB1
+enrichment ln(E) instead of ln(1+E),Ovarian Cancer,10,BRAF
+enrichment ln(E) instead of ln(1+E),Endometrial Cancer,1,PTEN
+enrichment ln(E) instead of ln(1+E),Endometrial Cancer,2,POLE
+enrichment ln(E) instead of ln(1+E),Endometrial Cancer,3,PIK3CA
+enrichment ln(E) instead of ln(1+E),Endometrial Cancer,4,MLH1
+enrichment ln(E) instead of ln(1+E),Endometrial Cancer,5,TP53
+enrichment ln(E) instead of ln(1+E),Endometrial Cancer,6,KRAS
+enrichment ln(E) instead of ln(1+E),Endometrial Cancer,7,MSH2
+enrichment ln(E) instead of ln(1+E),Endometrial Cancer,8,CTNNB1
+enrichment ln(E) instead of ln(1+E),Endometrial Cancer,9,ARID1A
+enrichment ln(E) instead of ln(1+E),Endometrial Cancer,10,MSH6
+enrichment ln(E) instead of ln(1+E),Cervical Cancer,1,PIK3CA
+enrichment ln(E) instead of ln(1+E),Cervical Cancer,2,KRAS
+enrichment ln(E) instead of ln(1+E),Cervical Cancer,3,TP53
+enrichment ln(E) instead of ln(1+E),Cervical Cancer,4,PTEN
+enrichment ln(E) instead of ln(1+E),Cervical Cancer,5,ERBB2
+enrichment ln(E) instead of ln(1+E),Cervical Cancer,6,STK11
+enrichment ln(E) instead of ln(1+E),Cervical Cancer,7,EGFR
+enrichment ln(E) instead of ln(1+E),Cervical Cancer,8,FBXW7
+enrichment ln(E) instead of ln(1+E),Cervical Cancer,9,CD274
+enrichment ln(E) instead of ln(1+E),Cervical Cancer,10,ARID1A
+enrichment ln(E) instead of ln(1+E),Thyroid Cancer,1,BRAF
+enrichment ln(E) instead of ln(1+E),Thyroid Cancer,2,RET
+enrichment ln(E) instead of ln(1+E),Thyroid Cancer,3,TERT
+enrichment ln(E) instead of ln(1+E),Thyroid Cancer,4,NRAS
+enrichment ln(E) instead of ln(1+E),Thyroid Cancer,5,HRAS
+enrichment ln(E) instead of ln(1+E),Thyroid Cancer,6,KRAS
+enrichment ln(E) instead of ln(1+E),Thyroid Cancer,7,PIK3CA
+enrichment ln(E) instead of ln(1+E),Thyroid Cancer,8,TP53
+enrichment ln(E) instead of ln(1+E),Thyroid Cancer,9,CCDC6
+enrichment ln(E) instead of ln(1+E),Thyroid Cancer,10,EIF1AX
+enrichment ln(E) instead of ln(1+E),Brain Cancer,1,IDH1
+enrichment ln(E) instead of ln(1+E),Brain Cancer,2,TP53
+enrichment ln(E) instead of ln(1+E),Brain Cancer,3,EGFR
+enrichment ln(E) instead of ln(1+E),Brain Cancer,4,TERT
+enrichment ln(E) instead of ln(1+E),Brain Cancer,5,IDH2
+enrichment ln(E) instead of ln(1+E),Brain Cancer,6,BRAF
+enrichment ln(E) instead of ln(1+E),Brain Cancer,7,KRAS
+enrichment ln(E) instead of ln(1+E),Brain Cancer,8,ATRX
+enrichment ln(E) instead of ln(1+E),Brain Cancer,9,PIK3CA
+enrichment ln(E) instead of ln(1+E),Brain Cancer,10,MLH1
+enrichment ln(E) instead of ln(1+E),Leukemia,1,FLT3
+enrichment ln(E) instead of ln(1+E),Leukemia,2,NPM1
+enrichment ln(E) instead of ln(1+E),Leukemia,3,DNMT3A
+enrichment ln(E) instead of ln(1+E),Leukemia,4,BCR
+enrichment ln(E) instead of ln(1+E),Leukemia,5,CEBPA
+enrichment ln(E) instead of ln(1+E),Leukemia,6,NRAS
+enrichment ln(E) instead of ln(1+E),Leukemia,7,ASXL1
+enrichment ln(E) instead of ln(1+E),Leukemia,8,RUNX1
+enrichment ln(E) instead of ln(1+E),Leukemia,9,TP53
+enrichment ln(E) instead of ln(1+E),Leukemia,10,IDH1
+enrichment ln(E) instead of ln(1+E),Lymphoma,1,MYD88
+enrichment ln(E) instead of ln(1+E),Lymphoma,2,TP53
+enrichment ln(E) instead of ln(1+E),Lymphoma,3,MYC
+enrichment ln(E) instead of ln(1+E),Lymphoma,4,CD79B
+enrichment ln(E) instead of ln(1+E),Lymphoma,5,KMT2D
+enrichment ln(E) instead of ln(1+E),Lymphoma,6,EZH2
+enrichment ln(E) instead of ln(1+E),Lymphoma,7,CREBBP
+enrichment ln(E) instead of ln(1+E),Lymphoma,8,BCL2
+enrichment ln(E) instead of ln(1+E),Lymphoma,9,TET2
+enrichment ln(E) instead of ln(1+E),Lymphoma,10,ATM
+enrichment ln(E) instead of ln(1+E),Myeloma,1,NRAS
+enrichment ln(E) instead of ln(1+E),Myeloma,2,TP53
+enrichment ln(E) instead of ln(1+E),Myeloma,3,BRAF
+enrichment ln(E) instead of ln(1+E),Myeloma,4,KRAS
+enrichment ln(E) instead of ln(1+E),Myeloma,5,DIS3
+enrichment ln(E) instead of ln(1+E),Myeloma,6,SDC1
+enrichment ln(E) instead of ln(1+E),Myeloma,7,IGH
+enrichment ln(E) instead of ln(1+E),Myeloma,8,MYC
+enrichment ln(E) instead of ln(1+E),Myeloma,9,FGFR3
+enrichment ln(E) instead of ln(1+E),Myeloma,10,CCND1
+enrichment -log10 Fisher p (W*p),Breast Cancer,1,BRCA1
+enrichment -log10 Fisher p (W*p),Breast Cancer,2,BRCA2
+enrichment -log10 Fisher p (W*p),Breast Cancer,3,PIK3CA
+enrichment -log10 Fisher p (W*p),Breast Cancer,4,ERBB2
+enrichment -log10 Fisher p (W*p),Breast Cancer,5,TP53
+enrichment -log10 Fisher p (W*p),Breast Cancer,6,PALB2
+enrichment -log10 Fisher p (W*p),Breast Cancer,7,CHEK2
+enrichment -log10 Fisher p (W*p),Breast Cancer,8,ESR1
+enrichment -log10 Fisher p (W*p),Breast Cancer,9,PTEN
+enrichment -log10 Fisher p (W*p),Breast Cancer,10,EGFR
+enrichment -log10 Fisher p (W*p),Lung Cancer,1,EGFR
+enrichment -log10 Fisher p (W*p),Lung Cancer,2,KRAS
+enrichment -log10 Fisher p (W*p),Lung Cancer,3,TP53
+enrichment -log10 Fisher p (W*p),Lung Cancer,4,CD274
+enrichment -log10 Fisher p (W*p),Lung Cancer,5,BRAF
+enrichment -log10 Fisher p (W*p),Lung Cancer,6,PIK3CA
+enrichment -log10 Fisher p (W*p),Lung Cancer,7,ERBB2
+enrichment -log10 Fisher p (W*p),Lung Cancer,8,ALK
+enrichment -log10 Fisher p (W*p),Lung Cancer,9,MET
+enrichment -log10 Fisher p (W*p),Lung Cancer,10,STK11
+enrichment -log10 Fisher p (W*p),Colorectal Cancer,1,KRAS
+enrichment -log10 Fisher p (W*p),Colorectal Cancer,2,BRAF
+enrichment -log10 Fisher p (W*p),Colorectal Cancer,3,EGFR
+enrichment -log10 Fisher p (W*p),Colorectal Cancer,4,MLH1
+enrichment -log10 Fisher p (W*p),Colorectal Cancer,5,PIK3CA
+enrichment -log10 Fisher p (W*p),Colorectal Cancer,6,NRAS
+enrichment -log10 Fisher p (W*p),Colorectal Cancer,7,MSH2
+enrichment -log10 Fisher p (W*p),Colorectal Cancer,8,APC
+enrichment -log10 Fisher p (W*p),Colorectal Cancer,9,TP53
+enrichment -log10 Fisher p (W*p),Colorectal Cancer,10,MSH6
+enrichment -log10 Fisher p (W*p),Prostate Cancer,1,BRCA2
+enrichment -log10 Fisher p (W*p),Prostate Cancer,2,BRCA1
+enrichment -log10 Fisher p (W*p),Prostate Cancer,3,PTEN
+enrichment -log10 Fisher p (W*p),Prostate Cancer,4,TP53
+enrichment -log10 Fisher p (W*p),Prostate Cancer,5,ATM
+enrichment -log10 Fisher p (W*p),Prostate Cancer,6,AR
+enrichment -log10 Fisher p (W*p),Prostate Cancer,7,SPOP
+enrichment -log10 Fisher p (W*p),Prostate Cancer,8,PARP1
+enrichment -log10 Fisher p (W*p),Prostate Cancer,9,CHEK2
+enrichment -log10 Fisher p (W*p),Prostate Cancer,10,PIK3CA
+enrichment -log10 Fisher p (W*p),Melanoma,1,BRAF
+enrichment -log10 Fisher p (W*p),Melanoma,2,NRAS
+enrichment -log10 Fisher p (W*p),Melanoma,3,KIT
+enrichment -log10 Fisher p (W*p),Melanoma,4,CDKN2A
+enrichment -log10 Fisher p (W*p),Melanoma,5,TERT
+enrichment -log10 Fisher p (W*p),Melanoma,6,GNAQ
+enrichment -log10 Fisher p (W*p),Melanoma,7,GNA11
+enrichment -log10 Fisher p (W*p),Melanoma,8,BAP1
+enrichment -log10 Fisher p (W*p),Melanoma,9,SF3B1
+enrichment -log10 Fisher p (W*p),Melanoma,10,PIK3CA
+enrichment -log10 Fisher p (W*p),Bladder Cancer,1,FGFR3
+enrichment -log10 Fisher p (W*p),Bladder Cancer,2,TP53
+enrichment -log10 Fisher p (W*p),Bladder Cancer,3,TERT
+enrichment -log10 Fisher p (W*p),Bladder Cancer,4,PIK3CA
+enrichment -log10 Fisher p (W*p),Bladder Cancer,5,CD274
+enrichment -log10 Fisher p (W*p),Bladder Cancer,6,RB1
+enrichment -log10 Fisher p (W*p),Bladder Cancer,7,ERBB2
+enrichment -log10 Fisher p (W*p),Bladder Cancer,8,KRAS
+enrichment -log10 Fisher p (W*p),Bladder Cancer,9,EGFR
+enrichment -log10 Fisher p (W*p),Bladder Cancer,10,ARID1A
+enrichment -log10 Fisher p (W*p),Kidney Cancer,1,VHL
+enrichment -log10 Fisher p (W*p),Kidney Cancer,2,WT1
+enrichment -log10 Fisher p (W*p),Kidney Cancer,3,PBRM1
+enrichment -log10 Fisher p (W*p),Kidney Cancer,4,BAP1
+enrichment -log10 Fisher p (W*p),Kidney Cancer,5,FH
+enrichment -log10 Fisher p (W*p),Kidney Cancer,6,SETD2
+enrichment -log10 Fisher p (W*p),Kidney Cancer,7,TSC2
+enrichment -log10 Fisher p (W*p),Kidney Cancer,8,FLCN
+enrichment -log10 Fisher p (W*p),Kidney Cancer,9,TP53
+enrichment -log10 Fisher p (W*p),Kidney Cancer,10,CTNNB1
+enrichment -log10 Fisher p (W*p),Pancreatic Cancer,1,KRAS
+enrichment -log10 Fisher p (W*p),Pancreatic Cancer,2,CDKN2A
+enrichment -log10 Fisher p (W*p),Pancreatic Cancer,3,BRCA2
+enrichment -log10 Fisher p (W*p),Pancreatic Cancer,4,TP53
+enrichment -log10 Fisher p (W*p),Pancreatic Cancer,5,BRCA1
+enrichment -log10 Fisher p (W*p),Pancreatic Cancer,6,SMAD4
+enrichment -log10 Fisher p (W*p),Pancreatic Cancer,7,GNAS
+enrichment -log10 Fisher p (W*p),Pancreatic Cancer,8,PALB2
+enrichment -log10 Fisher p (W*p),Pancreatic Cancer,9,PIK3CA
+enrichment -log10 Fisher p (W*p),Pancreatic Cancer,10,BRAF
+enrichment -log10 Fisher p (W*p),Liver Cancer,1,CTNNB1
+enrichment -log10 Fisher p (W*p),Liver Cancer,2,TP53
+enrichment -log10 Fisher p (W*p),Liver Cancer,3,KRAS
+enrichment -log10 Fisher p (W*p),Liver Cancer,4,BRAF
+enrichment -log10 Fisher p (W*p),Liver Cancer,5,TERT
+enrichment -log10 Fisher p (W*p),Liver Cancer,6,PIK3CA
+enrichment -log10 Fisher p (W*p),Liver Cancer,7,NRAS
+enrichment -log10 Fisher p (W*p),Liver Cancer,8,EGFR
+enrichment -log10 Fisher p (W*p),Liver Cancer,9,KIT
+enrichment -log10 Fisher p (W*p),Liver Cancer,10,APC
+enrichment -log10 Fisher p (W*p),Stomach Cancer,1,CDH1
+enrichment -log10 Fisher p (W*p),Stomach Cancer,2,TP53
+enrichment -log10 Fisher p (W*p),Stomach Cancer,3,PIK3CA
+enrichment -log10 Fisher p (W*p),Stomach Cancer,4,KRAS
+enrichment -log10 Fisher p (W*p),Stomach Cancer,5,CTNNB1
+enrichment -log10 Fisher p (W*p),Stomach Cancer,6,EGFR
+enrichment -log10 Fisher p (W*p),Stomach Cancer,7,KIT
+enrichment -log10 Fisher p (W*p),Stomach Cancer,8,APC
+enrichment -log10 Fisher p (W*p),Stomach Cancer,9,BRAF
+enrichment -log10 Fisher p (W*p),Stomach Cancer,10,ERBB2
+enrichment -log10 Fisher p (W*p),Esophageal Cancer,1,TP53
+enrichment -log10 Fisher p (W*p),Esophageal Cancer,2,EGFR
+enrichment -log10 Fisher p (W*p),Esophageal Cancer,3,PIK3CA
+enrichment -log10 Fisher p (W*p),Esophageal Cancer,4,CDKN2A
+enrichment -log10 Fisher p (W*p),Esophageal Cancer,5,KRAS
+enrichment -log10 Fisher p (W*p),Esophageal Cancer,6,CD274
+enrichment -log10 Fisher p (W*p),Esophageal Cancer,7,ERBB2
+enrichment -log10 Fisher p (W*p),Esophageal Cancer,8,BRAF
+enrichment -log10 Fisher p (W*p),Esophageal Cancer,9,KIT
+enrichment -log10 Fisher p (W*p),Esophageal Cancer,10,NOTCH1
+enrichment -log10 Fisher p (W*p),Ovarian Cancer,1,BRCA1
+enrichment -log10 Fisher p (W*p),Ovarian Cancer,2,BRCA2
+enrichment -log10 Fisher p (W*p),Ovarian Cancer,3,TP53
+enrichment -log10 Fisher p (W*p),Ovarian Cancer,4,KRAS
+enrichment -log10 Fisher p (W*p),Ovarian Cancer,5,PIK3CA
+enrichment -log10 Fisher p (W*p),Ovarian Cancer,6,POLE
+enrichment -log10 Fisher p (W*p),Ovarian Cancer,7,ARID1A
+enrichment -log10 Fisher p (W*p),Ovarian Cancer,8,BRAF
+enrichment -log10 Fisher p (W*p),Ovarian Cancer,9,CTNNB1
+enrichment -log10 Fisher p (W*p),Ovarian Cancer,10,MLH1
+enrichment -log10 Fisher p (W*p),Endometrial Cancer,1,PTEN
+enrichment -log10 Fisher p (W*p),Endometrial Cancer,2,POLE
+enrichment -log10 Fisher p (W*p),Endometrial Cancer,3,PIK3CA
+enrichment -log10 Fisher p (W*p),Endometrial Cancer,4,MLH1
+enrichment -log10 Fisher p (W*p),Endometrial Cancer,5,TP53
+enrichment -log10 Fisher p (W*p),Endometrial Cancer,6,MSH2
+enrichment -log10 Fisher p (W*p),Endometrial Cancer,7,KRAS
+enrichment -log10 Fisher p (W*p),Endometrial Cancer,8,CTNNB1
+enrichment -log10 Fisher p (W*p),Endometrial Cancer,9,ARID1A
+enrichment -log10 Fisher p (W*p),Endometrial Cancer,10,MSH6
+enrichment -log10 Fisher p (W*p),Cervical Cancer,1,PIK3CA
+enrichment -log10 Fisher p (W*p),Cervical Cancer,2,TP53
+enrichment -log10 Fisher p (W*p),Cervical Cancer,3,KRAS
+enrichment -log10 Fisher p (W*p),Cervical Cancer,4,PTEN
+enrichment -log10 Fisher p (W*p),Cervical Cancer,5,ERBB2
+enrichment -log10 Fisher p (W*p),Cervical Cancer,6,STK11
+enrichment -log10 Fisher p (W*p),Cervical Cancer,7,CD274
+enrichment -log10 Fisher p (W*p),Cervical Cancer,8,EGFR
+enrichment -log10 Fisher p (W*p),Cervical Cancer,9,FBXW7
+enrichment -log10 Fisher p (W*p),Cervical Cancer,10,ARID1A
+enrichment -log10 Fisher p (W*p),Thyroid Cancer,1,BRAF
+enrichment -log10 Fisher p (W*p),Thyroid Cancer,2,RET
+enrichment -log10 Fisher p (W*p),Thyroid Cancer,3,TERT
+enrichment -log10 Fisher p (W*p),Thyroid Cancer,4,NRAS
+enrichment -log10 Fisher p (W*p),Thyroid Cancer,5,HRAS
+enrichment -log10 Fisher p (W*p),Thyroid Cancer,6,KRAS
+enrichment -log10 Fisher p (W*p),Thyroid Cancer,7,PIK3CA
+enrichment -log10 Fisher p (W*p),Thyroid Cancer,8,CCDC6
+enrichment -log10 Fisher p (W*p),Thyroid Cancer,9,TP53
+enrichment -log10 Fisher p (W*p),Thyroid Cancer,10,DICER1
+enrichment -log10 Fisher p (W*p),Brain Cancer,1,IDH1
+enrichment -log10 Fisher p (W*p),Brain Cancer,2,TP53
+enrichment -log10 Fisher p (W*p),Brain Cancer,3,EGFR
+enrichment -log10 Fisher p (W*p),Brain Cancer,4,TERT
+enrichment -log10 Fisher p (W*p),Brain Cancer,5,IDH2
+enrichment -log10 Fisher p (W*p),Brain Cancer,6,BRAF
+enrichment -log10 Fisher p (W*p),Brain Cancer,7,KRAS
+enrichment -log10 Fisher p (W*p),Brain Cancer,8,PIK3CA
+enrichment -log10 Fisher p (W*p),Brain Cancer,9,ATRX
+enrichment -log10 Fisher p (W*p),Brain Cancer,10,MLH1
+enrichment -log10 Fisher p (W*p),Leukemia,1,FLT3
+enrichment -log10 Fisher p (W*p),Leukemia,2,NPM1
+enrichment -log10 Fisher p (W*p),Leukemia,3,DNMT3A
+enrichment -log10 Fisher p (W*p),Leukemia,4,BCR
+enrichment -log10 Fisher p (W*p),Leukemia,5,CEBPA
+enrichment -log10 Fisher p (W*p),Leukemia,6,NRAS
+enrichment -log10 Fisher p (W*p),Leukemia,7,ASXL1
+enrichment -log10 Fisher p (W*p),Leukemia,8,RUNX1
+enrichment -log10 Fisher p (W*p),Leukemia,9,TP53
+enrichment -log10 Fisher p (W*p),Leukemia,10,TET2
+enrichment -log10 Fisher p (W*p),Lymphoma,1,MYD88
+enrichment -log10 Fisher p (W*p),Lymphoma,2,TP53
+enrichment -log10 Fisher p (W*p),Lymphoma,3,MYC
+enrichment -log10 Fisher p (W*p),Lymphoma,4,CD79B
+enrichment -log10 Fisher p (W*p),Lymphoma,5,KMT2D
+enrichment -log10 Fisher p (W*p),Lymphoma,6,EZH2
+enrichment -log10 Fisher p (W*p),Lymphoma,7,BCL2
+enrichment -log10 Fisher p (W*p),Lymphoma,8,CREBBP
+enrichment -log10 Fisher p (W*p),Lymphoma,9,TET2
+enrichment -log10 Fisher p (W*p),Lymphoma,10,ATM
+enrichment -log10 Fisher p (W*p),Myeloma,1,NRAS
+enrichment -log10 Fisher p (W*p),Myeloma,2,TP53
+enrichment -log10 Fisher p (W*p),Myeloma,3,BRAF
+enrichment -log10 Fisher p (W*p),Myeloma,4,KRAS
+enrichment -log10 Fisher p (W*p),Myeloma,5,DIS3
+enrichment -log10 Fisher p (W*p),Myeloma,6,SDC1
+enrichment -log10 Fisher p (W*p),Myeloma,7,MYC
+enrichment -log10 Fisher p (W*p),Myeloma,8,IGH
+enrichment -log10 Fisher p (W*p),Myeloma,9,FGFR3
+enrichment -log10 Fisher p (W*p),Myeloma,10,CCND1
+enrichment -log10 Fisher p alone,Breast Cancer,1,BRCA1
+enrichment -log10 Fisher p alone,Breast Cancer,2,BRCA2
+enrichment -log10 Fisher p alone,Breast Cancer,3,PIK3CA
+enrichment -log10 Fisher p alone,Breast Cancer,4,ERBB2
+enrichment -log10 Fisher p alone,Breast Cancer,5,PALB2
+enrichment -log10 Fisher p alone,Breast Cancer,6,TP53
+enrichment -log10 Fisher p alone,Breast Cancer,7,CHEK2
+enrichment -log10 Fisher p alone,Breast Cancer,8,PTEN
+enrichment -log10 Fisher p alone,Breast Cancer,9,AKT1
+enrichment -log10 Fisher p alone,Breast Cancer,10,ESR1
+enrichment -log10 Fisher p alone,Lung Cancer,1,EGFR
+enrichment -log10 Fisher p alone,Lung Cancer,2,KRAS
+enrichment -log10 Fisher p alone,Lung Cancer,3,CD274
+enrichment -log10 Fisher p alone,Lung Cancer,4,PIK3CA
+enrichment -log10 Fisher p alone,Lung Cancer,5,BRAF
+enrichment -log10 Fisher p alone,Lung Cancer,6,TP53
+enrichment -log10 Fisher p alone,Lung Cancer,7,ERBB2
+enrichment -log10 Fisher p alone,Lung Cancer,8,PDCD1
+enrichment -log10 Fisher p alone,Lung Cancer,9,NKX2-1
+enrichment -log10 Fisher p alone,Lung Cancer,10,ALK
+enrichment -log10 Fisher p alone,Colorectal Cancer,1,KRAS
+enrichment -log10 Fisher p alone,Colorectal Cancer,2,BRAF
+enrichment -log10 Fisher p alone,Colorectal Cancer,3,MLH1
+enrichment -log10 Fisher p alone,Colorectal Cancer,4,NRAS
+enrichment -log10 Fisher p alone,Colorectal Cancer,5,EGFR
+enrichment -log10 Fisher p alone,Colorectal Cancer,6,MSH2
+enrichment -log10 Fisher p alone,Colorectal Cancer,7,PIK3CA
+enrichment -log10 Fisher p alone,Colorectal Cancer,8,CTNNB1
+enrichment -log10 Fisher p alone,Colorectal Cancer,9,TP53
+enrichment -log10 Fisher p alone,Colorectal Cancer,10,APC
+enrichment -log10 Fisher p alone,Prostate Cancer,1,BRCA2
+enrichment -log10 Fisher p alone,Prostate Cancer,2,BRCA1
+enrichment -log10 Fisher p alone,Prostate Cancer,3,PTEN
+enrichment -log10 Fisher p alone,Prostate Cancer,4,PARP1
+enrichment -log10 Fisher p alone,Prostate Cancer,5,TP53
+enrichment -log10 Fisher p alone,Prostate Cancer,6,ATM
+enrichment -log10 Fisher p alone,Prostate Cancer,7,CHEK2
+enrichment -log10 Fisher p alone,Prostate Cancer,8,SPOP
+enrichment -log10 Fisher p alone,Prostate Cancer,9,AR
+enrichment -log10 Fisher p alone,Prostate Cancer,10,MSH2
+enrichment -log10 Fisher p alone,Melanoma,1,BRAF
+enrichment -log10 Fisher p alone,Melanoma,2,CDKN2A
+enrichment -log10 Fisher p alone,Melanoma,3,NRAS
+enrichment -log10 Fisher p alone,Melanoma,4,KIT
+enrichment -log10 Fisher p alone,Melanoma,5,TERT
+enrichment -log10 Fisher p alone,Melanoma,6,PTEN
+enrichment -log10 Fisher p alone,Melanoma,7,GNAQ
+enrichment -log10 Fisher p alone,Melanoma,8,GNA11
+enrichment -log10 Fisher p alone,Melanoma,9,PIK3CA
+enrichment -log10 Fisher p alone,Melanoma,10,BAP1
+enrichment -log10 Fisher p alone,Bladder Cancer,1,FGFR3
+enrichment -log10 Fisher p alone,Bladder Cancer,2,TP53
+enrichment -log10 Fisher p alone,Bladder Cancer,3,TERT
+enrichment -log10 Fisher p alone,Bladder Cancer,4,PIK3CA
+enrichment -log10 Fisher p alone,Bladder Cancer,5,CD274
+enrichment -log10 Fisher p alone,Bladder Cancer,6,EGFR
+enrichment -log10 Fisher p alone,Bladder Cancer,7,RB1
+enrichment -log10 Fisher p alone,Bladder Cancer,8,CDKN2A
+enrichment -log10 Fisher p alone,Bladder Cancer,9,ARID1A
+enrichment -log10 Fisher p alone,Bladder Cancer,10,ERBB2
+enrichment -log10 Fisher p alone,Kidney Cancer,1,VHL
+enrichment -log10 Fisher p alone,Kidney Cancer,2,WT1
+enrichment -log10 Fisher p alone,Kidney Cancer,3,PBRM1
+enrichment -log10 Fisher p alone,Kidney Cancer,4,TSC2
+enrichment -log10 Fisher p alone,Kidney Cancer,5,FH
+enrichment -log10 Fisher p alone,Kidney Cancer,6,SETD2
+enrichment -log10 Fisher p alone,Kidney Cancer,7,BAP1
+enrichment -log10 Fisher p alone,Kidney Cancer,8,FLCN
+enrichment -log10 Fisher p alone,Kidney Cancer,9,PTEN
+enrichment -log10 Fisher p alone,Kidney Cancer,10,PIK3CA
+enrichment -log10 Fisher p alone,Pancreatic Cancer,1,KRAS
+enrichment -log10 Fisher p alone,Pancreatic Cancer,2,CDKN2A
+enrichment -log10 Fisher p alone,Pancreatic Cancer,3,SMAD4
+enrichment -log10 Fisher p alone,Pancreatic Cancer,4,BRCA2
+enrichment -log10 Fisher p alone,Pancreatic Cancer,5,TP53
+enrichment -log10 Fisher p alone,Pancreatic Cancer,6,BRCA1
+enrichment -log10 Fisher p alone,Pancreatic Cancer,7,PALB2
+enrichment -log10 Fisher p alone,Pancreatic Cancer,8,PIK3CA
+enrichment -log10 Fisher p alone,Pancreatic Cancer,9,GNAS
+enrichment -log10 Fisher p alone,Pancreatic Cancer,10,BRAF
+enrichment -log10 Fisher p alone,Liver Cancer,1,CTNNB1
+enrichment -log10 Fisher p alone,Liver Cancer,2,TP53
+enrichment -log10 Fisher p alone,Liver Cancer,3,KRAS
+enrichment -log10 Fisher p alone,Liver Cancer,4,BRAF
+enrichment -log10 Fisher p alone,Liver Cancer,5,TERT
+enrichment -log10 Fisher p alone,Liver Cancer,6,PIK3CA
+enrichment -log10 Fisher p alone,Liver Cancer,7,NRAS
+enrichment -log10 Fisher p alone,Liver Cancer,8,EGFR
+enrichment -log10 Fisher p alone,Liver Cancer,9,CDKN2A
+enrichment -log10 Fisher p alone,Liver Cancer,10,KIT
+enrichment -log10 Fisher p alone,Stomach Cancer,1,CDH1
+enrichment -log10 Fisher p alone,Stomach Cancer,2,TP53
+enrichment -log10 Fisher p alone,Stomach Cancer,3,CTNNB1
+enrichment -log10 Fisher p alone,Stomach Cancer,4,PIK3CA
+enrichment -log10 Fisher p alone,Stomach Cancer,5,EGFR
+enrichment -log10 Fisher p alone,Stomach Cancer,6,KRAS
+enrichment -log10 Fisher p alone,Stomach Cancer,7,KIT
+enrichment -log10 Fisher p alone,Stomach Cancer,8,MLH1
+enrichment -log10 Fisher p alone,Stomach Cancer,9,APC
+enrichment -log10 Fisher p alone,Stomach Cancer,10,BRAF
+enrichment -log10 Fisher p alone,Esophageal Cancer,1,TP53
+enrichment -log10 Fisher p alone,Esophageal Cancer,2,EGFR
+enrichment -log10 Fisher p alone,Esophageal Cancer,3,PIK3CA
+enrichment -log10 Fisher p alone,Esophageal Cancer,4,CDKN2A
+enrichment -log10 Fisher p alone,Esophageal Cancer,5,CD274
+enrichment -log10 Fisher p alone,Esophageal Cancer,6,KRAS
+enrichment -log10 Fisher p alone,Esophageal Cancer,7,KIT
+enrichment -log10 Fisher p alone,Esophageal Cancer,8,ERBB2
+enrichment -log10 Fisher p alone,Esophageal Cancer,9,BRAF
+enrichment -log10 Fisher p alone,Esophageal Cancer,10,NFE2L2
+enrichment -log10 Fisher p alone,Ovarian Cancer,1,BRCA1
+enrichment -log10 Fisher p alone,Ovarian Cancer,2,BRCA2
+enrichment -log10 Fisher p alone,Ovarian Cancer,3,TP53
+enrichment -log10 Fisher p alone,Ovarian Cancer,4,POLE
+enrichment -log10 Fisher p alone,Ovarian Cancer,5,ARID1A
+enrichment -log10 Fisher p alone,Ovarian Cancer,6,KRAS
+enrichment -log10 Fisher p alone,Ovarian Cancer,7,PIK3CA
+enrichment -log10 Fisher p alone,Ovarian Cancer,8,BRIP1
+enrichment -log10 Fisher p alone,Ovarian Cancer,9,BRAF
+enrichment -log10 Fisher p alone,Ovarian Cancer,10,MSH2
+enrichment -log10 Fisher p alone,Endometrial Cancer,1,PTEN
+enrichment -log10 Fisher p alone,Endometrial Cancer,2,POLE
+enrichment -log10 Fisher p alone,Endometrial Cancer,3,MLH1
+enrichment -log10 Fisher p alone,Endometrial Cancer,4,PIK3CA
+enrichment -log10 Fisher p alone,Endometrial Cancer,5,MSH2
+enrichment -log10 Fisher p alone,Endometrial Cancer,6,TP53
+enrichment -log10 Fisher p alone,Endometrial Cancer,7,KRAS
+enrichment -log10 Fisher p alone,Endometrial Cancer,8,ARID1A
+enrichment -log10 Fisher p alone,Endometrial Cancer,9,CTNNB1
+enrichment -log10 Fisher p alone,Endometrial Cancer,10,MSH6
+enrichment -log10 Fisher p alone,Cervical Cancer,1,PIK3CA
+enrichment -log10 Fisher p alone,Cervical Cancer,2,TP53
+enrichment -log10 Fisher p alone,Cervical Cancer,3,KRAS
+enrichment -log10 Fisher p alone,Cervical Cancer,4,PTEN
+enrichment -log10 Fisher p alone,Cervical Cancer,5,STK11
+enrichment -log10 Fisher p alone,Cervical Cancer,6,ERBB2
+enrichment -log10 Fisher p alone,Cervical Cancer,7,CD274
+enrichment -log10 Fisher p alone,Cervical Cancer,8,ARID1A
+enrichment -log10 Fisher p alone,Cervical Cancer,9,FBXW7
+enrichment -log10 Fisher p alone,Cervical Cancer,10,EGFR
+enrichment -log10 Fisher p alone,Thyroid Cancer,1,RET
+enrichment -log10 Fisher p alone,Thyroid Cancer,2,BRAF
+enrichment -log10 Fisher p alone,Thyroid Cancer,3,TERT
+enrichment -log10 Fisher p alone,Thyroid Cancer,4,NRAS
+enrichment -log10 Fisher p alone,Thyroid Cancer,5,HRAS
+enrichment -log10 Fisher p alone,Thyroid Cancer,6,KRAS
+enrichment -log10 Fisher p alone,Thyroid Cancer,7,CCDC6
+enrichment -log10 Fisher p alone,Thyroid Cancer,8,PIK3CA
+enrichment -log10 Fisher p alone,Thyroid Cancer,9,DICER1
+enrichment -log10 Fisher p alone,Thyroid Cancer,10,TP53
+enrichment -log10 Fisher p alone,Brain Cancer,1,IDH1
+enrichment -log10 Fisher p alone,Brain Cancer,2,TP53
+enrichment -log10 Fisher p alone,Brain Cancer,3,TERT
+enrichment -log10 Fisher p alone,Brain Cancer,4,IDH2
+enrichment -log10 Fisher p alone,Brain Cancer,5,EGFR
+enrichment -log10 Fisher p alone,Brain Cancer,6,BRAF
+enrichment -log10 Fisher p alone,Brain Cancer,7,CDKN2A
+enrichment -log10 Fisher p alone,Brain Cancer,8,MLH1
+enrichment -log10 Fisher p alone,Brain Cancer,9,PIK3CA
+enrichment -log10 Fisher p alone,Brain Cancer,10,MSH2
+enrichment -log10 Fisher p alone,Leukemia,1,FLT3
+enrichment -log10 Fisher p alone,Leukemia,2,NPM1
+enrichment -log10 Fisher p alone,Leukemia,3,DNMT3A
+enrichment -log10 Fisher p alone,Leukemia,4,NRAS
+enrichment -log10 Fisher p alone,Leukemia,5,CEBPA
+enrichment -log10 Fisher p alone,Leukemia,6,ASXL1
+enrichment -log10 Fisher p alone,Leukemia,7,KIT
+enrichment -log10 Fisher p alone,Leukemia,8,TET2
+enrichment -log10 Fisher p alone,Leukemia,9,IDH1
+enrichment -log10 Fisher p alone,Leukemia,10,RUNX1
+enrichment -log10 Fisher p alone,Lymphoma,1,MYD88
+enrichment -log10 Fisher p alone,Lymphoma,2,MYC
+enrichment -log10 Fisher p alone,Lymphoma,3,TP53
+enrichment -log10 Fisher p alone,Lymphoma,4,CD79B
+enrichment -log10 Fisher p alone,Lymphoma,5,KMT2D
+enrichment -log10 Fisher p alone,Lymphoma,6,TET2
+enrichment -log10 Fisher p alone,Lymphoma,7,CDKN2A
+enrichment -log10 Fisher p alone,Lymphoma,8,CREBBP
+enrichment -log10 Fisher p alone,Lymphoma,9,EZH2
+enrichment -log10 Fisher p alone,Lymphoma,10,PIK3CA
+enrichment -log10 Fisher p alone,Myeloma,1,NRAS
+enrichment -log10 Fisher p alone,Myeloma,2,TP53
+enrichment -log10 Fisher p alone,Myeloma,3,BRAF
+enrichment -log10 Fisher p alone,Myeloma,4,KRAS
+enrichment -log10 Fisher p alone,Myeloma,5,SDC1
+enrichment -log10 Fisher p alone,Myeloma,6,DIS3
+enrichment -log10 Fisher p alone,Myeloma,7,MYC
+enrichment -log10 Fisher p alone,Myeloma,8,PIK3CA
+enrichment -log10 Fisher p alone,Myeloma,9,IL6
+enrichment -log10 Fisher p alone,Myeloma,10,IGH
+enrichment G statistic alone,Breast Cancer,1,BRCA1
+enrichment G statistic alone,Breast Cancer,2,BRCA2
+enrichment G statistic alone,Breast Cancer,3,PIK3CA
+enrichment G statistic alone,Breast Cancer,4,ERBB2
+enrichment G statistic alone,Breast Cancer,5,TP53
+enrichment G statistic alone,Breast Cancer,6,PALB2
+enrichment G statistic alone,Breast Cancer,7,CHEK2
+enrichment G statistic alone,Breast Cancer,8,PTEN
+enrichment G statistic alone,Breast Cancer,9,ESR1
+enrichment G statistic alone,Breast Cancer,10,EGFR
+enrichment G statistic alone,Lung Cancer,1,EGFR
+enrichment G statistic alone,Lung Cancer,2,KRAS
+enrichment G statistic alone,Lung Cancer,3,TP53
+enrichment G statistic alone,Lung Cancer,4,CD274
+enrichment G statistic alone,Lung Cancer,5,BRAF
+enrichment G statistic alone,Lung Cancer,6,PIK3CA
+enrichment G statistic alone,Lung Cancer,7,ERBB2
+enrichment G statistic alone,Lung Cancer,8,ALK
+enrichment G statistic alone,Lung Cancer,9,MET
+enrichment G statistic alone,Lung Cancer,10,PDCD1
+enrichment G statistic alone,Colorectal Cancer,1,KRAS
+enrichment G statistic alone,Colorectal Cancer,2,BRAF
+enrichment G statistic alone,Colorectal Cancer,3,MLH1
+enrichment G statistic alone,Colorectal Cancer,4,EGFR
+enrichment G statistic alone,Colorectal Cancer,5,NRAS
+enrichment G statistic alone,Colorectal Cancer,6,MSH2
+enrichment G statistic alone,Colorectal Cancer,7,PIK3CA
+enrichment G statistic alone,Colorectal Cancer,8,APC
+enrichment G statistic alone,Colorectal Cancer,9,TP53
+enrichment G statistic alone,Colorectal Cancer,10,MSH6
+enrichment G statistic alone,Prostate Cancer,1,BRCA2
+enrichment G statistic alone,Prostate Cancer,2,BRCA1
+enrichment G statistic alone,Prostate Cancer,3,PTEN
+enrichment G statistic alone,Prostate Cancer,4,TP53
+enrichment G statistic alone,Prostate Cancer,5,PARP1
+enrichment G statistic alone,Prostate Cancer,6,ATM
+enrichment G statistic alone,Prostate Cancer,7,SPOP
+enrichment G statistic alone,Prostate Cancer,8,AR
+enrichment G statistic alone,Prostate Cancer,9,CHEK2
+enrichment G statistic alone,Prostate Cancer,10,PIK3CA
+enrichment G statistic alone,Melanoma,1,BRAF
+enrichment G statistic alone,Melanoma,2,NRAS
+enrichment G statistic alone,Melanoma,3,CDKN2A
+enrichment G statistic alone,Melanoma,4,KIT
+enrichment G statistic alone,Melanoma,5,TERT
+enrichment G statistic alone,Melanoma,6,GNAQ
+enrichment G statistic alone,Melanoma,7,GNA11
+enrichment G statistic alone,Melanoma,8,BAP1
+enrichment G statistic alone,Melanoma,9,PTEN
+enrichment G statistic alone,Melanoma,10,SF3B1
+enrichment G statistic alone,Bladder Cancer,1,FGFR3
+enrichment G statistic alone,Bladder Cancer,2,TP53
+enrichment G statistic alone,Bladder Cancer,3,TERT
+enrichment G statistic alone,Bladder Cancer,4,PIK3CA
+enrichment G statistic alone,Bladder Cancer,5,CD274
+enrichment G statistic alone,Bladder Cancer,6,RB1
+enrichment G statistic alone,Bladder Cancer,7,ERBB2
+enrichment G statistic alone,Bladder Cancer,8,EGFR
+enrichment G statistic alone,Bladder Cancer,9,ARID1A
+enrichment G statistic alone,Bladder Cancer,10,KRAS
+enrichment G statistic alone,Kidney Cancer,1,VHL
+enrichment G statistic alone,Kidney Cancer,2,WT1
+enrichment G statistic alone,Kidney Cancer,3,PBRM1
+enrichment G statistic alone,Kidney Cancer,4,FH
+enrichment G statistic alone,Kidney Cancer,5,SETD2
+enrichment G statistic alone,Kidney Cancer,6,BAP1
+enrichment G statistic alone,Kidney Cancer,7,TSC2
+enrichment G statistic alone,Kidney Cancer,8,FLCN
+enrichment G statistic alone,Kidney Cancer,9,TP53
+enrichment G statistic alone,Kidney Cancer,10,PIK3CA
+enrichment G statistic alone,Pancreatic Cancer,1,KRAS
+enrichment G statistic alone,Pancreatic Cancer,2,CDKN2A
+enrichment G statistic alone,Pancreatic Cancer,3,BRCA2
+enrichment G statistic alone,Pancreatic Cancer,4,TP53
+enrichment G statistic alone,Pancreatic Cancer,5,SMAD4
+enrichment G statistic alone,Pancreatic Cancer,6,BRCA1
+enrichment G statistic alone,Pancreatic Cancer,7,GNAS
+enrichment G statistic alone,Pancreatic Cancer,8,PIK3CA
+enrichment G statistic alone,Pancreatic Cancer,9,PALB2
+enrichment G statistic alone,Pancreatic Cancer,10,BRAF
+enrichment G statistic alone,Liver Cancer,1,CTNNB1
+enrichment G statistic alone,Liver Cancer,2,TP53
+enrichment G statistic alone,Liver Cancer,3,KRAS
+enrichment G statistic alone,Liver Cancer,4,BRAF
+enrichment G statistic alone,Liver Cancer,5,TERT
+enrichment G statistic alone,Liver Cancer,6,PIK3CA
+enrichment G statistic alone,Liver Cancer,7,NRAS
+enrichment G statistic alone,Liver Cancer,8,EGFR
+enrichment G statistic alone,Liver Cancer,9,KIT
+enrichment G statistic alone,Liver Cancer,10,CDKN2A
+enrichment G statistic alone,Stomach Cancer,1,CDH1
+enrichment G statistic alone,Stomach Cancer,2,TP53
+enrichment G statistic alone,Stomach Cancer,3,PIK3CA
+enrichment G statistic alone,Stomach Cancer,4,CTNNB1
+enrichment G statistic alone,Stomach Cancer,5,KRAS
+enrichment G statistic alone,Stomach Cancer,6,EGFR
+enrichment G statistic alone,Stomach Cancer,7,KIT
+enrichment G statistic alone,Stomach Cancer,8,APC
+enrichment G statistic alone,Stomach Cancer,9,ERBB2
+enrichment G statistic alone,Stomach Cancer,10,ARID1A
+enrichment G statistic alone,Esophageal Cancer,1,TP53
+enrichment G statistic alone,Esophageal Cancer,2,EGFR
+enrichment G statistic alone,Esophageal Cancer,3,PIK3CA
+enrichment G statistic alone,Esophageal Cancer,4,CDKN2A
+enrichment G statistic alone,Esophageal Cancer,5,KRAS
+enrichment G statistic alone,Esophageal Cancer,6,CD274
+enrichment G statistic alone,Esophageal Cancer,7,ERBB2
+enrichment G statistic alone,Esophageal Cancer,8,KIT
+enrichment G statistic alone,Esophageal Cancer,9,BRAF
+enrichment G statistic alone,Esophageal Cancer,10,NOTCH1
+enrichment G statistic alone,Ovarian Cancer,1,BRCA1
+enrichment G statistic alone,Ovarian Cancer,2,BRCA2
+enrichment G statistic alone,Ovarian Cancer,3,TP53
+enrichment G statistic alone,Ovarian Cancer,4,KRAS
+enrichment G statistic alone,Ovarian Cancer,5,PIK3CA
+enrichment G statistic alone,Ovarian Cancer,6,BRAF
+enrichment G statistic alone,Ovarian Cancer,7,POLE
+enrichment G statistic alone,Ovarian Cancer,8,ARID1A
+enrichment G statistic alone,Ovarian Cancer,9,MSH2
+enrichment G statistic alone,Ovarian Cancer,10,CTNNB1
+enrichment G statistic alone,Endometrial Cancer,1,PTEN
+enrichment G statistic alone,Endometrial Cancer,2,PIK3CA
+enrichment G statistic alone,Endometrial Cancer,3,POLE
+enrichment G statistic alone,Endometrial Cancer,4,MLH1
+enrichment G statistic alone,Endometrial Cancer,5,TP53
+enrichment G statistic alone,Endometrial Cancer,6,MSH2
+enrichment G statistic alone,Endometrial Cancer,7,KRAS
+enrichment G statistic alone,Endometrial Cancer,8,CTNNB1
+enrichment G statistic alone,Endometrial Cancer,9,ARID1A
+enrichment G statistic alone,Endometrial Cancer,10,MSH6
+enrichment G statistic alone,Cervical Cancer,1,PIK3CA
+enrichment G statistic alone,Cervical Cancer,2,TP53
+enrichment G statistic alone,Cervical Cancer,3,KRAS
+enrichment G statistic alone,Cervical Cancer,4,PTEN
+enrichment G statistic alone,Cervical Cancer,5,STK11
+enrichment G statistic alone,Cervical Cancer,6,ERBB2
+enrichment G statistic alone,Cervical Cancer,7,CD274
+enrichment G statistic alone,Cervical Cancer,8,ARID1A
+enrichment G statistic alone,Cervical Cancer,9,FBXW7
+enrichment G statistic alone,Cervical Cancer,10,EGFR
+enrichment G statistic alone,Thyroid Cancer,1,RET
+enrichment G statistic alone,Thyroid Cancer,2,BRAF
+enrichment G statistic alone,Thyroid Cancer,3,TERT
+enrichment G statistic alone,Thyroid Cancer,4,NRAS
+enrichment G statistic alone,Thyroid Cancer,5,HRAS
+enrichment G statistic alone,Thyroid Cancer,6,KRAS
+enrichment G statistic alone,Thyroid Cancer,7,PIK3CA
+enrichment G statistic alone,Thyroid Cancer,8,CCDC6
+enrichment G statistic alone,Thyroid Cancer,9,TP53
+enrichment G statistic alone,Thyroid Cancer,10,DICER1
+enrichment G statistic alone,Brain Cancer,1,IDH1
+enrichment G statistic alone,Brain Cancer,2,TP53
+enrichment G statistic alone,Brain Cancer,3,EGFR
+enrichment G statistic alone,Brain Cancer,4,TERT
+enrichment G statistic alone,Brain Cancer,5,IDH2
+enrichment G statistic alone,Brain Cancer,6,BRAF
+enrichment G statistic alone,Brain Cancer,7,PIK3CA
+enrichment G statistic alone,Brain Cancer,8,KRAS
+enrichment G statistic alone,Brain Cancer,9,CDKN2A
+enrichment G statistic alone,Brain Cancer,10,ATRX
+enrichment G statistic alone,Leukemia,1,FLT3
+enrichment G statistic alone,Leukemia,2,NPM1
+enrichment G statistic alone,Leukemia,3,DNMT3A
+enrichment G statistic alone,Leukemia,4,NRAS
+enrichment G statistic alone,Leukemia,5,CEBPA
+enrichment G statistic alone,Leukemia,6,BCR
+enrichment G statistic alone,Leukemia,7,ASXL1
+enrichment G statistic alone,Leukemia,8,RUNX1
+enrichment G statistic alone,Leukemia,9,KIT
+enrichment G statistic alone,Leukemia,10,TET2
+enrichment G statistic alone,Lymphoma,1,MYD88
+enrichment G statistic alone,Lymphoma,2,TP53
+enrichment G statistic alone,Lymphoma,3,MYC
+enrichment G statistic alone,Lymphoma,4,CD79B
+enrichment G statistic alone,Lymphoma,5,KMT2D
+enrichment G statistic alone,Lymphoma,6,TET2
+enrichment G statistic alone,Lymphoma,7,EZH2
+enrichment G statistic alone,Lymphoma,8,CREBBP
+enrichment G statistic alone,Lymphoma,9,BCL2
+enrichment G statistic alone,Lymphoma,10,RHOA
+enrichment G statistic alone,Myeloma,1,TP53
+enrichment G statistic alone,Myeloma,2,NRAS
+enrichment G statistic alone,Myeloma,3,BRAF
+enrichment G statistic alone,Myeloma,4,KRAS
+enrichment G statistic alone,Myeloma,5,SDC1
+enrichment G statistic alone,Myeloma,6,DIS3
+enrichment G statistic alone,Myeloma,7,MYC
+enrichment G statistic alone,Myeloma,8,IGH
+enrichment G statistic alone,Myeloma,9,FGFR3
+enrichment G statistic alone,Myeloma,10,IL6
+S*ln(lift) (PMI-style),Breast Cancer,1,BRCA1
+S*ln(lift) (PMI-style),Breast Cancer,2,BRCA2
+S*ln(lift) (PMI-style),Breast Cancer,3,PIK3CA
+S*ln(lift) (PMI-style),Breast Cancer,4,ERBB2
+S*ln(lift) (PMI-style),Breast Cancer,5,TP53
+S*ln(lift) (PMI-style),Breast Cancer,6,PALB2
+S*ln(lift) (PMI-style),Breast Cancer,7,CHEK2
+S*ln(lift) (PMI-style),Breast Cancer,8,PTEN
+S*ln(lift) (PMI-style),Breast Cancer,9,ESR1
+S*ln(lift) (PMI-style),Breast Cancer,10,EGFR
+S*ln(lift) (PMI-style),Lung Cancer,1,EGFR
+S*ln(lift) (PMI-style),Lung Cancer,2,KRAS
+S*ln(lift) (PMI-style),Lung Cancer,3,TP53
+S*ln(lift) (PMI-style),Lung Cancer,4,CD274
+S*ln(lift) (PMI-style),Lung Cancer,5,BRAF
+S*ln(lift) (PMI-style),Lung Cancer,6,PIK3CA
+S*ln(lift) (PMI-style),Lung Cancer,7,ERBB2
+S*ln(lift) (PMI-style),Lung Cancer,8,ALK
+S*ln(lift) (PMI-style),Lung Cancer,9,MET
+S*ln(lift) (PMI-style),Lung Cancer,10,PDCD1
+S*ln(lift) (PMI-style),Colorectal Cancer,1,KRAS
+S*ln(lift) (PMI-style),Colorectal Cancer,2,BRAF
+S*ln(lift) (PMI-style),Colorectal Cancer,3,MLH1
+S*ln(lift) (PMI-style),Colorectal Cancer,4,EGFR
+S*ln(lift) (PMI-style),Colorectal Cancer,5,NRAS
+S*ln(lift) (PMI-style),Colorectal Cancer,6,MSH2
+S*ln(lift) (PMI-style),Colorectal Cancer,7,PIK3CA
+S*ln(lift) (PMI-style),Colorectal Cancer,8,APC
+S*ln(lift) (PMI-style),Colorectal Cancer,9,TP53
+S*ln(lift) (PMI-style),Colorectal Cancer,10,MSH6
+S*ln(lift) (PMI-style),Prostate Cancer,1,BRCA2
+S*ln(lift) (PMI-style),Prostate Cancer,2,BRCA1
+S*ln(lift) (PMI-style),Prostate Cancer,3,PTEN
+S*ln(lift) (PMI-style),Prostate Cancer,4,TP53
+S*ln(lift) (PMI-style),Prostate Cancer,5,PARP1
+S*ln(lift) (PMI-style),Prostate Cancer,6,ATM
+S*ln(lift) (PMI-style),Prostate Cancer,7,SPOP
+S*ln(lift) (PMI-style),Prostate Cancer,8,AR
+S*ln(lift) (PMI-style),Prostate Cancer,9,CHEK2
+S*ln(lift) (PMI-style),Prostate Cancer,10,PIK3CA
+S*ln(lift) (PMI-style),Melanoma,1,BRAF
+S*ln(lift) (PMI-style),Melanoma,2,NRAS
+S*ln(lift) (PMI-style),Melanoma,3,CDKN2A
+S*ln(lift) (PMI-style),Melanoma,4,KIT
+S*ln(lift) (PMI-style),Melanoma,5,TERT
+S*ln(lift) (PMI-style),Melanoma,6,GNAQ
+S*ln(lift) (PMI-style),Melanoma,7,GNA11
+S*ln(lift) (PMI-style),Melanoma,8,BAP1
+S*ln(lift) (PMI-style),Melanoma,9,PTEN
+S*ln(lift) (PMI-style),Melanoma,10,SF3B1
+S*ln(lift) (PMI-style),Bladder Cancer,1,FGFR3
+S*ln(lift) (PMI-style),Bladder Cancer,2,TP53
+S*ln(lift) (PMI-style),Bladder Cancer,3,TERT
+S*ln(lift) (PMI-style),Bladder Cancer,4,PIK3CA
+S*ln(lift) (PMI-style),Bladder Cancer,5,CD274
+S*ln(lift) (PMI-style),Bladder Cancer,6,RB1
+S*ln(lift) (PMI-style),Bladder Cancer,7,ERBB2
+S*ln(lift) (PMI-style),Bladder Cancer,8,EGFR
+S*ln(lift) (PMI-style),Bladder Cancer,9,ARID1A
+S*ln(lift) (PMI-style),Bladder Cancer,10,KRAS
+S*ln(lift) (PMI-style),Kidney Cancer,1,VHL
+S*ln(lift) (PMI-style),Kidney Cancer,2,WT1
+S*ln(lift) (PMI-style),Kidney Cancer,3,PBRM1
+S*ln(lift) (PMI-style),Kidney Cancer,4,FH
+S*ln(lift) (PMI-style),Kidney Cancer,5,SETD2
+S*ln(lift) (PMI-style),Kidney Cancer,6,BAP1
+S*ln(lift) (PMI-style),Kidney Cancer,7,TSC2
+S*ln(lift) (PMI-style),Kidney Cancer,8,FLCN
+S*ln(lift) (PMI-style),Kidney Cancer,9,TP53
+S*ln(lift) (PMI-style),Kidney Cancer,10,PIK3CA
+S*ln(lift) (PMI-style),Pancreatic Cancer,1,KRAS
+S*ln(lift) (PMI-style),Pancreatic Cancer,2,CDKN2A
+S*ln(lift) (PMI-style),Pancreatic Cancer,3,BRCA2
+S*ln(lift) (PMI-style),Pancreatic Cancer,4,TP53
+S*ln(lift) (PMI-style),Pancreatic Cancer,5,SMAD4
+S*ln(lift) (PMI-style),Pancreatic Cancer,6,BRCA1
+S*ln(lift) (PMI-style),Pancreatic Cancer,7,GNAS
+S*ln(lift) (PMI-style),Pancreatic Cancer,8,PIK3CA
+S*ln(lift) (PMI-style),Pancreatic Cancer,9,PALB2
+S*ln(lift) (PMI-style),Pancreatic Cancer,10,BRAF
+S*ln(lift) (PMI-style),Liver Cancer,1,CTNNB1
+S*ln(lift) (PMI-style),Liver Cancer,2,TP53
+S*ln(lift) (PMI-style),Liver Cancer,3,KRAS
+S*ln(lift) (PMI-style),Liver Cancer,4,BRAF
+S*ln(lift) (PMI-style),Liver Cancer,5,TERT
+S*ln(lift) (PMI-style),Liver Cancer,6,PIK3CA
+S*ln(lift) (PMI-style),Liver Cancer,7,NRAS
+S*ln(lift) (PMI-style),Liver Cancer,8,EGFR
+S*ln(lift) (PMI-style),Liver Cancer,9,KIT
+S*ln(lift) (PMI-style),Liver Cancer,10,CDKN2A
+S*ln(lift) (PMI-style),Stomach Cancer,1,CDH1
+S*ln(lift) (PMI-style),Stomach Cancer,2,TP53
+S*ln(lift) (PMI-style),Stomach Cancer,3,PIK3CA
+S*ln(lift) (PMI-style),Stomach Cancer,4,CTNNB1
+S*ln(lift) (PMI-style),Stomach Cancer,5,KRAS
+S*ln(lift) (PMI-style),Stomach Cancer,6,EGFR
+S*ln(lift) (PMI-style),Stomach Cancer,7,KIT
+S*ln(lift) (PMI-style),Stomach Cancer,8,APC
+S*ln(lift) (PMI-style),Stomach Cancer,9,ERBB2
+S*ln(lift) (PMI-style),Stomach Cancer,10,ARID1A
+S*ln(lift) (PMI-style),Esophageal Cancer,1,TP53
+S*ln(lift) (PMI-style),Esophageal Cancer,2,EGFR
+S*ln(lift) (PMI-style),Esophageal Cancer,3,PIK3CA
+S*ln(lift) (PMI-style),Esophageal Cancer,4,CDKN2A
+S*ln(lift) (PMI-style),Esophageal Cancer,5,KRAS
+S*ln(lift) (PMI-style),Esophageal Cancer,6,CD274
+S*ln(lift) (PMI-style),Esophageal Cancer,7,ERBB2
+S*ln(lift) (PMI-style),Esophageal Cancer,8,KIT
+S*ln(lift) (PMI-style),Esophageal Cancer,9,BRAF
+S*ln(lift) (PMI-style),Esophageal Cancer,10,NOTCH1
+S*ln(lift) (PMI-style),Ovarian Cancer,1,BRCA1
+S*ln(lift) (PMI-style),Ovarian Cancer,2,BRCA2
+S*ln(lift) (PMI-style),Ovarian Cancer,3,TP53
+S*ln(lift) (PMI-style),Ovarian Cancer,4,KRAS
+S*ln(lift) (PMI-style),Ovarian Cancer,5,PIK3CA
+S*ln(lift) (PMI-style),Ovarian Cancer,6,BRAF
+S*ln(lift) (PMI-style),Ovarian Cancer,7,POLE
+S*ln(lift) (PMI-style),Ovarian Cancer,8,ARID1A
+S*ln(lift) (PMI-style),Ovarian Cancer,9,MSH2
+S*ln(lift) (PMI-style),Ovarian Cancer,10,CTNNB1
+S*ln(lift) (PMI-style),Endometrial Cancer,1,PTEN
+S*ln(lift) (PMI-style),Endometrial Cancer,2,PIK3CA
+S*ln(lift) (PMI-style),Endometrial Cancer,3,POLE
+S*ln(lift) (PMI-style),Endometrial Cancer,4,MLH1
+S*ln(lift) (PMI-style),Endometrial Cancer,5,TP53
+S*ln(lift) (PMI-style),Endometrial Cancer,6,MSH2
+S*ln(lift) (PMI-style),Endometrial Cancer,7,KRAS
+S*ln(lift) (PMI-style),Endometrial Cancer,8,CTNNB1
+S*ln(lift) (PMI-style),Endometrial Cancer,9,ARID1A
+S*ln(lift) (PMI-style),Endometrial Cancer,10,MSH6
+S*ln(lift) (PMI-style),Cervical Cancer,1,PIK3CA
+S*ln(lift) (PMI-style),Cervical Cancer,2,TP53
+S*ln(lift) (PMI-style),Cervical Cancer,3,KRAS
+S*ln(lift) (PMI-style),Cervical Cancer,4,PTEN
+S*ln(lift) (PMI-style),Cervical Cancer,5,STK11
+S*ln(lift) (PMI-style),Cervical Cancer,6,ERBB2
+S*ln(lift) (PMI-style),Cervical Cancer,7,CD274
+S*ln(lift) (PMI-style),Cervical Cancer,8,ARID1A
+S*ln(lift) (PMI-style),Cervical Cancer,9,FBXW7
+S*ln(lift) (PMI-style),Cervical Cancer,10,EGFR
+S*ln(lift) (PMI-style),Thyroid Cancer,1,RET
+S*ln(lift) (PMI-style),Thyroid Cancer,2,BRAF
+S*ln(lift) (PMI-style),Thyroid Cancer,3,TERT
+S*ln(lift) (PMI-style),Thyroid Cancer,4,NRAS
+S*ln(lift) (PMI-style),Thyroid Cancer,5,HRAS
+S*ln(lift) (PMI-style),Thyroid Cancer,6,KRAS
+S*ln(lift) (PMI-style),Thyroid Cancer,7,PIK3CA
+S*ln(lift) (PMI-style),Thyroid Cancer,8,CCDC6
+S*ln(lift) (PMI-style),Thyroid Cancer,9,TP53
+S*ln(lift) (PMI-style),Thyroid Cancer,10,DICER1
+S*ln(lift) (PMI-style),Brain Cancer,1,IDH1
+S*ln(lift) (PMI-style),Brain Cancer,2,TP53
+S*ln(lift) (PMI-style),Brain Cancer,3,EGFR
+S*ln(lift) (PMI-style),Brain Cancer,4,TERT
+S*ln(lift) (PMI-style),Brain Cancer,5,IDH2
+S*ln(lift) (PMI-style),Brain Cancer,6,BRAF
+S*ln(lift) (PMI-style),Brain Cancer,7,PIK3CA
+S*ln(lift) (PMI-style),Brain Cancer,8,KRAS
+S*ln(lift) (PMI-style),Brain Cancer,9,CDKN2A
+S*ln(lift) (PMI-style),Brain Cancer,10,ATRX
+S*ln(lift) (PMI-style),Leukemia,1,FLT3
+S*ln(lift) (PMI-style),Leukemia,2,NPM1
+S*ln(lift) (PMI-style),Leukemia,3,DNMT3A
+S*ln(lift) (PMI-style),Leukemia,4,NRAS
+S*ln(lift) (PMI-style),Leukemia,5,CEBPA
+S*ln(lift) (PMI-style),Leukemia,6,BCR
+S*ln(lift) (PMI-style),Leukemia,7,ASXL1
+S*ln(lift) (PMI-style),Leukemia,8,RUNX1
+S*ln(lift) (PMI-style),Leukemia,9,KIT
+S*ln(lift) (PMI-style),Leukemia,10,TET2
+S*ln(lift) (PMI-style),Lymphoma,1,MYD88
+S*ln(lift) (PMI-style),Lymphoma,2,TP53
+S*ln(lift) (PMI-style),Lymphoma,3,MYC
+S*ln(lift) (PMI-style),Lymphoma,4,CD79B
+S*ln(lift) (PMI-style),Lymphoma,5,KMT2D
+S*ln(lift) (PMI-style),Lymphoma,6,TET2
+S*ln(lift) (PMI-style),Lymphoma,7,EZH2
+S*ln(lift) (PMI-style),Lymphoma,8,CREBBP
+S*ln(lift) (PMI-style),Lymphoma,9,BCL2
+S*ln(lift) (PMI-style),Lymphoma,10,RHOA
+S*ln(lift) (PMI-style),Myeloma,1,TP53
+S*ln(lift) (PMI-style),Myeloma,2,NRAS
+S*ln(lift) (PMI-style),Myeloma,3,BRAF
+S*ln(lift) (PMI-style),Myeloma,4,KRAS
+S*ln(lift) (PMI-style),Myeloma,5,SDC1
+S*ln(lift) (PMI-style),Myeloma,6,DIS3
+S*ln(lift) (PMI-style),Myeloma,7,MYC
+S*ln(lift) (PMI-style),Myeloma,8,IGH
+S*ln(lift) (PMI-style),Myeloma,9,FGFR3
+S*ln(lift) (PMI-style),Myeloma,10,IL6
+IDF style S*ln(C/B),Breast Cancer,1,BRCA1
+IDF style S*ln(C/B),Breast Cancer,2,BRCA2
+IDF style S*ln(C/B),Breast Cancer,3,PIK3CA
+IDF style S*ln(C/B),Breast Cancer,4,ERBB2
+IDF style S*ln(C/B),Breast Cancer,5,TP53
+IDF style S*ln(C/B),Breast Cancer,6,PALB2
+IDF style S*ln(C/B),Breast Cancer,7,CHEK2
+IDF style S*ln(C/B),Breast Cancer,8,EGFR
+IDF style S*ln(C/B),Breast Cancer,9,PTEN
+IDF style S*ln(C/B),Breast Cancer,10,ESR1
+IDF style S*ln(C/B),Lung Cancer,1,EGFR
+IDF style S*ln(C/B),Lung Cancer,2,KRAS
+IDF style S*ln(C/B),Lung Cancer,3,TP53
+IDF style S*ln(C/B),Lung Cancer,4,BRAF
+IDF style S*ln(C/B),Lung Cancer,5,PIK3CA
+IDF style S*ln(C/B),Lung Cancer,6,CD274
+IDF style S*ln(C/B),Lung Cancer,7,ERBB2
+IDF style S*ln(C/B),Lung Cancer,8,ALK
+IDF style S*ln(C/B),Lung Cancer,9,MET
+IDF style S*ln(C/B),Lung Cancer,10,STK11
+IDF style S*ln(C/B),Colorectal Cancer,1,KRAS
+IDF style S*ln(C/B),Colorectal Cancer,2,BRAF
+IDF style S*ln(C/B),Colorectal Cancer,3,EGFR
+IDF style S*ln(C/B),Colorectal Cancer,4,MLH1
+IDF style S*ln(C/B),Colorectal Cancer,5,MSH2
+IDF style S*ln(C/B),Colorectal Cancer,6,NRAS
+IDF style S*ln(C/B),Colorectal Cancer,7,PIK3CA
+IDF style S*ln(C/B),Colorectal Cancer,8,APC
+IDF style S*ln(C/B),Colorectal Cancer,9,TP53
+IDF style S*ln(C/B),Colorectal Cancer,10,MSH6
+IDF style S*ln(C/B),Prostate Cancer,1,BRCA2
+IDF style S*ln(C/B),Prostate Cancer,2,BRCA1
+IDF style S*ln(C/B),Prostate Cancer,3,TP53
+IDF style S*ln(C/B),Prostate Cancer,4,PTEN
+IDF style S*ln(C/B),Prostate Cancer,5,AR
+IDF style S*ln(C/B),Prostate Cancer,6,ATM
+IDF style S*ln(C/B),Prostate Cancer,7,PARP1
+IDF style S*ln(C/B),Prostate Cancer,8,SPOP
+IDF style S*ln(C/B),Prostate Cancer,9,CHEK2
+IDF style S*ln(C/B),Prostate Cancer,10,PIK3CA
+IDF style S*ln(C/B),Melanoma,1,BRAF
+IDF style S*ln(C/B),Melanoma,2,NRAS
+IDF style S*ln(C/B),Melanoma,3,CDKN2A
+IDF style S*ln(C/B),Melanoma,4,KIT
+IDF style S*ln(C/B),Melanoma,5,TERT
+IDF style S*ln(C/B),Melanoma,6,GNAQ
+IDF style S*ln(C/B),Melanoma,7,GNA11
+IDF style S*ln(C/B),Melanoma,8,BAP1
+IDF style S*ln(C/B),Melanoma,9,CDK4
+IDF style S*ln(C/B),Melanoma,10,SF3B1
+IDF style S*ln(C/B),Bladder Cancer,1,FGFR3
+IDF style S*ln(C/B),Bladder Cancer,2,TP53
+IDF style S*ln(C/B),Bladder Cancer,3,TERT
+IDF style S*ln(C/B),Bladder Cancer,4,PIK3CA
+IDF style S*ln(C/B),Bladder Cancer,5,CD274
+IDF style S*ln(C/B),Bladder Cancer,6,RB1
+IDF style S*ln(C/B),Bladder Cancer,7,ERBB2
+IDF style S*ln(C/B),Bladder Cancer,8,ARID1A
+IDF style S*ln(C/B),Bladder Cancer,9,KRAS
+IDF style S*ln(C/B),Bladder Cancer,10,EGFR
+IDF style S*ln(C/B),Kidney Cancer,1,VHL
+IDF style S*ln(C/B),Kidney Cancer,2,WT1
+IDF style S*ln(C/B),Kidney Cancer,3,PBRM1
+IDF style S*ln(C/B),Kidney Cancer,4,FH
+IDF style S*ln(C/B),Kidney Cancer,5,SETD2
+IDF style S*ln(C/B),Kidney Cancer,6,BAP1
+IDF style S*ln(C/B),Kidney Cancer,7,TSC2
+IDF style S*ln(C/B),Kidney Cancer,8,TP53
+IDF style S*ln(C/B),Kidney Cancer,9,FLCN
+IDF style S*ln(C/B),Kidney Cancer,10,MTOR
+IDF style S*ln(C/B),Pancreatic Cancer,1,KRAS
+IDF style S*ln(C/B),Pancreatic Cancer,2,CDKN2A
+IDF style S*ln(C/B),Pancreatic Cancer,3,TP53
+IDF style S*ln(C/B),Pancreatic Cancer,4,BRCA2
+IDF style S*ln(C/B),Pancreatic Cancer,5,SMAD4
+IDF style S*ln(C/B),Pancreatic Cancer,6,BRCA1
+IDF style S*ln(C/B),Pancreatic Cancer,7,GNAS
+IDF style S*ln(C/B),Pancreatic Cancer,8,PIK3CA
+IDF style S*ln(C/B),Pancreatic Cancer,9,MEN1
+IDF style S*ln(C/B),Pancreatic Cancer,10,PALB2
+IDF style S*ln(C/B),Liver Cancer,1,CTNNB1
+IDF style S*ln(C/B),Liver Cancer,2,TP53
+IDF style S*ln(C/B),Liver Cancer,3,KRAS
+IDF style S*ln(C/B),Liver Cancer,4,BRAF
+IDF style S*ln(C/B),Liver Cancer,5,TERT
+IDF style S*ln(C/B),Liver Cancer,6,EGFR
+IDF style S*ln(C/B),Liver Cancer,7,PIK3CA
+IDF style S*ln(C/B),Liver Cancer,8,NRAS
+IDF style S*ln(C/B),Liver Cancer,9,APC
+IDF style S*ln(C/B),Liver Cancer,10,KIT
+IDF style S*ln(C/B),Stomach Cancer,1,CDH1
+IDF style S*ln(C/B),Stomach Cancer,2,TP53
+IDF style S*ln(C/B),Stomach Cancer,3,PIK3CA
+IDF style S*ln(C/B),Stomach Cancer,4,KRAS
+IDF style S*ln(C/B),Stomach Cancer,5,CTNNB1
+IDF style S*ln(C/B),Stomach Cancer,6,KIT
+IDF style S*ln(C/B),Stomach Cancer,7,APC
+IDF style S*ln(C/B),Stomach Cancer,8,EGFR
+IDF style S*ln(C/B),Stomach Cancer,9,ERBB2
+IDF style S*ln(C/B),Stomach Cancer,10,ARID1A
+IDF style S*ln(C/B),Esophageal Cancer,1,TP53
+IDF style S*ln(C/B),Esophageal Cancer,2,EGFR
+IDF style S*ln(C/B),Esophageal Cancer,3,PIK3CA
+IDF style S*ln(C/B),Esophageal Cancer,4,CDKN2A
+IDF style S*ln(C/B),Esophageal Cancer,5,KRAS
+IDF style S*ln(C/B),Esophageal Cancer,6,ERBB2
+IDF style S*ln(C/B),Esophageal Cancer,7,CD274
+IDF style S*ln(C/B),Esophageal Cancer,8,KIT
+IDF style S*ln(C/B),Esophageal Cancer,9,NOTCH1
+IDF style S*ln(C/B),Esophageal Cancer,10,BRAF
+IDF style S*ln(C/B),Ovarian Cancer,1,BRCA1
+IDF style S*ln(C/B),Ovarian Cancer,2,BRCA2
+IDF style S*ln(C/B),Ovarian Cancer,3,TP53
+IDF style S*ln(C/B),Ovarian Cancer,4,KRAS
+IDF style S*ln(C/B),Ovarian Cancer,5,PIK3CA
+IDF style S*ln(C/B),Ovarian Cancer,6,BRAF
+IDF style S*ln(C/B),Ovarian Cancer,7,PTEN
+IDF style S*ln(C/B),Ovarian Cancer,8,POLE
+IDF style S*ln(C/B),Ovarian Cancer,9,ARID1A
+IDF style S*ln(C/B),Ovarian Cancer,10,CTNNB1
+IDF style S*ln(C/B),Endometrial Cancer,1,PTEN
+IDF style S*ln(C/B),Endometrial Cancer,2,PIK3CA
+IDF style S*ln(C/B),Endometrial Cancer,3,POLE
+IDF style S*ln(C/B),Endometrial Cancer,4,MLH1
+IDF style S*ln(C/B),Endometrial Cancer,5,TP53
+IDF style S*ln(C/B),Endometrial Cancer,6,MSH2
+IDF style S*ln(C/B),Endometrial Cancer,7,KRAS
+IDF style S*ln(C/B),Endometrial Cancer,8,CTNNB1
+IDF style S*ln(C/B),Endometrial Cancer,9,ARID1A
+IDF style S*ln(C/B),Endometrial Cancer,10,MSH6
+IDF style S*ln(C/B),Cervical Cancer,1,PIK3CA
+IDF style S*ln(C/B),Cervical Cancer,2,TP53
+IDF style S*ln(C/B),Cervical Cancer,3,KRAS
+IDF style S*ln(C/B),Cervical Cancer,4,PTEN
+IDF style S*ln(C/B),Cervical Cancer,5,STK11
+IDF style S*ln(C/B),Cervical Cancer,6,ERBB2
+IDF style S*ln(C/B),Cervical Cancer,7,CD274
+IDF style S*ln(C/B),Cervical Cancer,8,EGFR
+IDF style S*ln(C/B),Cervical Cancer,9,MTOR
+IDF style S*ln(C/B),Cervical Cancer,10,ARID1A
+IDF style S*ln(C/B),Thyroid Cancer,1,RET
+IDF style S*ln(C/B),Thyroid Cancer,2,BRAF
+IDF style S*ln(C/B),Thyroid Cancer,3,TERT
+IDF style S*ln(C/B),Thyroid Cancer,4,NRAS
+IDF style S*ln(C/B),Thyroid Cancer,5,HRAS
+IDF style S*ln(C/B),Thyroid Cancer,6,KRAS
+IDF style S*ln(C/B),Thyroid Cancer,7,PIK3CA
+IDF style S*ln(C/B),Thyroid Cancer,8,CCDC6
+IDF style S*ln(C/B),Thyroid Cancer,9,TP53
+IDF style S*ln(C/B),Thyroid Cancer,10,PAX8
+IDF style S*ln(C/B),Brain Cancer,1,IDH1
+IDF style S*ln(C/B),Brain Cancer,2,EGFR
+IDF style S*ln(C/B),Brain Cancer,3,TP53
+IDF style S*ln(C/B),Brain Cancer,4,TERT
+IDF style S*ln(C/B),Brain Cancer,5,IDH2
+IDF style S*ln(C/B),Brain Cancer,6,BRAF
+IDF style S*ln(C/B),Brain Cancer,7,PIK3CA
+IDF style S*ln(C/B),Brain Cancer,8,MGMT
+IDF style S*ln(C/B),Brain Cancer,9,ATRX
+IDF style S*ln(C/B),Brain Cancer,10,KRAS
+IDF style S*ln(C/B),Leukemia,1,FLT3
+IDF style S*ln(C/B),Leukemia,2,NPM1
+IDF style S*ln(C/B),Leukemia,3,DNMT3A
+IDF style S*ln(C/B),Leukemia,4,NRAS
+IDF style S*ln(C/B),Leukemia,5,BCR
+IDF style S*ln(C/B),Leukemia,6,CEBPA
+IDF style S*ln(C/B),Leukemia,7,TP53
+IDF style S*ln(C/B),Leukemia,8,RUNX1
+IDF style S*ln(C/B),Leukemia,9,ASXL1
+IDF style S*ln(C/B),Leukemia,10,TET2
+IDF style S*ln(C/B),Lymphoma,1,MYD88
+IDF style S*ln(C/B),Lymphoma,2,TP53
+IDF style S*ln(C/B),Lymphoma,3,MYC
+IDF style S*ln(C/B),Lymphoma,4,CD79B
+IDF style S*ln(C/B),Lymphoma,5,KMT2D
+IDF style S*ln(C/B),Lymphoma,6,BCL2
+IDF style S*ln(C/B),Lymphoma,7,EZH2
+IDF style S*ln(C/B),Lymphoma,8,TET2
+IDF style S*ln(C/B),Lymphoma,9,CREBBP
+IDF style S*ln(C/B),Lymphoma,10,ATM
+IDF style S*ln(C/B),Myeloma,1,TP53
+IDF style S*ln(C/B),Myeloma,2,NRAS
+IDF style S*ln(C/B),Myeloma,3,BRAF
+IDF style S*ln(C/B),Myeloma,4,KRAS
+IDF style S*ln(C/B),Myeloma,5,MYC
+IDF style S*ln(C/B),Myeloma,6,IGH
+IDF style S*ln(C/B),Myeloma,7,SDC1
+IDF style S*ln(C/B),Myeloma,8,DIS3
+IDF style S*ln(C/B),Myeloma,9,FGFR3
+IDF style S*ln(C/B),Myeloma,10,IL6
+IDF style W*ln(C/B),Breast Cancer,1,BRCA1
+IDF style W*ln(C/B),Breast Cancer,2,BRCA2
+IDF style W*ln(C/B),Breast Cancer,3,PIK3CA
+IDF style W*ln(C/B),Breast Cancer,4,ERBB2
+IDF style W*ln(C/B),Breast Cancer,5,TP53
+IDF style W*ln(C/B),Breast Cancer,6,PALB2
+IDF style W*ln(C/B),Breast Cancer,7,ESR1
+IDF style W*ln(C/B),Breast Cancer,8,CHEK2
+IDF style W*ln(C/B),Breast Cancer,9,EGFR
+IDF style W*ln(C/B),Breast Cancer,10,PTEN
+IDF style W*ln(C/B),Lung Cancer,1,EGFR
+IDF style W*ln(C/B),Lung Cancer,2,KRAS
+IDF style W*ln(C/B),Lung Cancer,3,CD274
+IDF style W*ln(C/B),Lung Cancer,4,TP53
+IDF style W*ln(C/B),Lung Cancer,5,BRAF
+IDF style W*ln(C/B),Lung Cancer,6,PIK3CA
+IDF style W*ln(C/B),Lung Cancer,7,ALK
+IDF style W*ln(C/B),Lung Cancer,8,ERBB2
+IDF style W*ln(C/B),Lung Cancer,9,STK11
+IDF style W*ln(C/B),Lung Cancer,10,MET
+IDF style W*ln(C/B),Colorectal Cancer,1,KRAS
+IDF style W*ln(C/B),Colorectal Cancer,2,BRAF
+IDF style W*ln(C/B),Colorectal Cancer,3,EGFR
+IDF style W*ln(C/B),Colorectal Cancer,4,MLH1
+IDF style W*ln(C/B),Colorectal Cancer,5,PIK3CA
+IDF style W*ln(C/B),Colorectal Cancer,6,NRAS
+IDF style W*ln(C/B),Colorectal Cancer,7,MSH2
+IDF style W*ln(C/B),Colorectal Cancer,8,TP53
+IDF style W*ln(C/B),Colorectal Cancer,9,APC
+IDF style W*ln(C/B),Colorectal Cancer,10,MSH6
+IDF style W*ln(C/B),Prostate Cancer,1,BRCA2
+IDF style W*ln(C/B),Prostate Cancer,2,BRCA1
+IDF style W*ln(C/B),Prostate Cancer,3,TP53
+IDF style W*ln(C/B),Prostate Cancer,4,PTEN
+IDF style W*ln(C/B),Prostate Cancer,5,ATM
+IDF style W*ln(C/B),Prostate Cancer,6,SPOP
+IDF style W*ln(C/B),Prostate Cancer,7,AR
+IDF style W*ln(C/B),Prostate Cancer,8,CHEK2
+IDF style W*ln(C/B),Prostate Cancer,9,PARP1
+IDF style W*ln(C/B),Prostate Cancer,10,RB1
+IDF style W*ln(C/B),Melanoma,1,BRAF
+IDF style W*ln(C/B),Melanoma,2,NRAS
+IDF style W*ln(C/B),Melanoma,3,KIT
+IDF style W*ln(C/B),Melanoma,4,CDKN2A
+IDF style W*ln(C/B),Melanoma,5,TERT
+IDF style W*ln(C/B),Melanoma,6,GNAQ
+IDF style W*ln(C/B),Melanoma,7,PDCD1
+IDF style W*ln(C/B),Melanoma,8,BAP1
+IDF style W*ln(C/B),Melanoma,9,GNA11
+IDF style W*ln(C/B),Melanoma,10,PIK3CA
+IDF style W*ln(C/B),Bladder Cancer,1,FGFR3
+IDF style W*ln(C/B),Bladder Cancer,2,TP53
+IDF style W*ln(C/B),Bladder Cancer,3,TERT
+IDF style W*ln(C/B),Bladder Cancer,4,PIK3CA
+IDF style W*ln(C/B),Bladder Cancer,5,CD274
+IDF style W*ln(C/B),Bladder Cancer,6,KRAS
+IDF style W*ln(C/B),Bladder Cancer,7,RB1
+IDF style W*ln(C/B),Bladder Cancer,8,ERBB2
+IDF style W*ln(C/B),Bladder Cancer,9,EGFR
+IDF style W*ln(C/B),Bladder Cancer,10,HRAS
+IDF style W*ln(C/B),Kidney Cancer,1,VHL
+IDF style W*ln(C/B),Kidney Cancer,2,WT1
+IDF style W*ln(C/B),Kidney Cancer,3,BAP1
+IDF style W*ln(C/B),Kidney Cancer,4,PBRM1
+IDF style W*ln(C/B),Kidney Cancer,5,FH
+IDF style W*ln(C/B),Kidney Cancer,6,FLCN
+IDF style W*ln(C/B),Kidney Cancer,7,SETD2
+IDF style W*ln(C/B),Kidney Cancer,8,TSC2
+IDF style W*ln(C/B),Kidney Cancer,9,TP53
+IDF style W*ln(C/B),Kidney Cancer,10,CTNNB1
+IDF style W*ln(C/B),Pancreatic Cancer,1,KRAS
+IDF style W*ln(C/B),Pancreatic Cancer,2,BRCA2
+IDF style W*ln(C/B),Pancreatic Cancer,3,BRCA1
+IDF style W*ln(C/B),Pancreatic Cancer,4,CDKN2A
+IDF style W*ln(C/B),Pancreatic Cancer,5,TP53
+IDF style W*ln(C/B),Pancreatic Cancer,6,SMAD4
+IDF style W*ln(C/B),Pancreatic Cancer,7,GNAS
+IDF style W*ln(C/B),Pancreatic Cancer,8,PALB2
+IDF style W*ln(C/B),Pancreatic Cancer,9,MEN1
+IDF style W*ln(C/B),Pancreatic Cancer,10,BRAF
+IDF style W*ln(C/B),Liver Cancer,1,KRAS
+IDF style W*ln(C/B),Liver Cancer,2,CTNNB1
+IDF style W*ln(C/B),Liver Cancer,3,TP53
+IDF style W*ln(C/B),Liver Cancer,4,BRAF
+IDF style W*ln(C/B),Liver Cancer,5,PIK3CA
+IDF style W*ln(C/B),Liver Cancer,6,NRAS
+IDF style W*ln(C/B),Liver Cancer,7,TERT
+IDF style W*ln(C/B),Liver Cancer,8,EGFR
+IDF style W*ln(C/B),Liver Cancer,9,KIT
+IDF style W*ln(C/B),Liver Cancer,10,APC
+IDF style W*ln(C/B),Stomach Cancer,1,CDH1
+IDF style W*ln(C/B),Stomach Cancer,2,TP53
+IDF style W*ln(C/B),Stomach Cancer,3,PIK3CA
+IDF style W*ln(C/B),Stomach Cancer,4,KRAS
+IDF style W*ln(C/B),Stomach Cancer,5,CTNNB1
+IDF style W*ln(C/B),Stomach Cancer,6,EGFR
+IDF style W*ln(C/B),Stomach Cancer,7,KIT
+IDF style W*ln(C/B),Stomach Cancer,8,BRAF
+IDF style W*ln(C/B),Stomach Cancer,9,BRCA2
+IDF style W*ln(C/B),Stomach Cancer,10,APC
+IDF style W*ln(C/B),Esophageal Cancer,1,TP53
+IDF style W*ln(C/B),Esophageal Cancer,2,EGFR
+IDF style W*ln(C/B),Esophageal Cancer,3,PIK3CA
+IDF style W*ln(C/B),Esophageal Cancer,4,CDKN2A
+IDF style W*ln(C/B),Esophageal Cancer,5,KRAS
+IDF style W*ln(C/B),Esophageal Cancer,6,BRAF
+IDF style W*ln(C/B),Esophageal Cancer,7,NOTCH1
+IDF style W*ln(C/B),Esophageal Cancer,8,ERBB2
+IDF style W*ln(C/B),Esophageal Cancer,9,CD274
+IDF style W*ln(C/B),Esophageal Cancer,10,KIT
+IDF style W*ln(C/B),Ovarian Cancer,1,BRCA1
+IDF style W*ln(C/B),Ovarian Cancer,2,BRCA2
+IDF style W*ln(C/B),Ovarian Cancer,3,TP53
+IDF style W*ln(C/B),Ovarian Cancer,4,POLE
+IDF style W*ln(C/B),Ovarian Cancer,5,KRAS
+IDF style W*ln(C/B),Ovarian Cancer,6,PIK3CA
+IDF style W*ln(C/B),Ovarian Cancer,7,MLH1
+IDF style W*ln(C/B),Ovarian Cancer,8,CTNNB1
+IDF style W*ln(C/B),Ovarian Cancer,9,ARID1A
+IDF style W*ln(C/B),Ovarian Cancer,10,PTEN
+IDF style W*ln(C/B),Endometrial Cancer,1,PTEN
+IDF style W*ln(C/B),Endometrial Cancer,2,POLE
+IDF style W*ln(C/B),Endometrial Cancer,3,PIK3CA
+IDF style W*ln(C/B),Endometrial Cancer,4,MLH1
+IDF style W*ln(C/B),Endometrial Cancer,5,KRAS
+IDF style W*ln(C/B),Endometrial Cancer,6,TP53
+IDF style W*ln(C/B),Endometrial Cancer,7,MSH2
+IDF style W*ln(C/B),Endometrial Cancer,8,CTNNB1
+IDF style W*ln(C/B),Endometrial Cancer,9,ARID1A
+IDF style W*ln(C/B),Endometrial Cancer,10,MSH6
+IDF style W*ln(C/B),Cervical Cancer,1,PIK3CA
+IDF style W*ln(C/B),Cervical Cancer,2,KRAS
+IDF style W*ln(C/B),Cervical Cancer,3,TP53
+IDF style W*ln(C/B),Cervical Cancer,4,PTEN
+IDF style W*ln(C/B),Cervical Cancer,5,ERBB2
+IDF style W*ln(C/B),Cervical Cancer,6,EGFR
+IDF style W*ln(C/B),Cervical Cancer,7,STK11
+IDF style W*ln(C/B),Cervical Cancer,8,FBXW7
+IDF style W*ln(C/B),Cervical Cancer,9,RB1
+IDF style W*ln(C/B),Cervical Cancer,10,CD274
+IDF style W*ln(C/B),Thyroid Cancer,1,BRAF
+IDF style W*ln(C/B),Thyroid Cancer,2,RET
+IDF style W*ln(C/B),Thyroid Cancer,3,TERT
+IDF style W*ln(C/B),Thyroid Cancer,4,NRAS
+IDF style W*ln(C/B),Thyroid Cancer,5,HRAS
+IDF style W*ln(C/B),Thyroid Cancer,6,KRAS
+IDF style W*ln(C/B),Thyroid Cancer,7,TP53
+IDF style W*ln(C/B),Thyroid Cancer,8,PIK3CA
+IDF style W*ln(C/B),Thyroid Cancer,9,EIF1AX
+IDF style W*ln(C/B),Thyroid Cancer,10,CCDC6
+IDF style W*ln(C/B),Brain Cancer,1,IDH1
+IDF style W*ln(C/B),Brain Cancer,2,TP53
+IDF style W*ln(C/B),Brain Cancer,3,EGFR
+IDF style W*ln(C/B),Brain Cancer,4,TERT
+IDF style W*ln(C/B),Brain Cancer,5,IDH2
+IDF style W*ln(C/B),Brain Cancer,6,BRAF
+IDF style W*ln(C/B),Brain Cancer,7,MGMT
+IDF style W*ln(C/B),Brain Cancer,8,KRAS
+IDF style W*ln(C/B),Brain Cancer,9,ATRX
+IDF style W*ln(C/B),Brain Cancer,10,PTEN
+IDF style W*ln(C/B),Leukemia,1,FLT3
+IDF style W*ln(C/B),Leukemia,2,NPM1
+IDF style W*ln(C/B),Leukemia,3,BCR
+IDF style W*ln(C/B),Leukemia,4,DNMT3A
+IDF style W*ln(C/B),Leukemia,5,CEBPA
+IDF style W*ln(C/B),Leukemia,6,ASXL1
+IDF style W*ln(C/B),Leukemia,7,NRAS
+IDF style W*ln(C/B),Leukemia,8,RUNX1
+IDF style W*ln(C/B),Leukemia,9,TP53
+IDF style W*ln(C/B),Leukemia,10,IDH1
+IDF style W*ln(C/B),Lymphoma,1,MYD88
+IDF style W*ln(C/B),Lymphoma,2,TP53
+IDF style W*ln(C/B),Lymphoma,3,MYC
+IDF style W*ln(C/B),Lymphoma,4,CD79B
+IDF style W*ln(C/B),Lymphoma,5,EZH2
+IDF style W*ln(C/B),Lymphoma,6,KMT2D
+IDF style W*ln(C/B),Lymphoma,7,BCL2
+IDF style W*ln(C/B),Lymphoma,8,CREBBP
+IDF style W*ln(C/B),Lymphoma,9,ATM
+IDF style W*ln(C/B),Lymphoma,10,CARD11
+IDF style W*ln(C/B),Myeloma,1,NRAS
+IDF style W*ln(C/B),Myeloma,2,BRAF
+IDF style W*ln(C/B),Myeloma,3,KRAS
+IDF style W*ln(C/B),Myeloma,4,TP53
+IDF style W*ln(C/B),Myeloma,5,DIS3
+IDF style W*ln(C/B),Myeloma,6,SDC1
+IDF style W*ln(C/B),Myeloma,7,IGH
+IDF style W*ln(C/B),Myeloma,8,FGFR3
+IDF style W*ln(C/B),Myeloma,9,MYC
+IDF style W*ln(C/B),Myeloma,10,CCND1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Breast Cancer,1,MKI67
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Breast Cancer,2,BRCA1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Breast Cancer,3,PALB2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Breast Cancer,4,PIK3CA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Breast Cancer,5,ERBB2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Breast Cancer,6,TP53
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Breast Cancer,7,CHEK2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Breast Cancer,8,BRCA2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Breast Cancer,9,BCAR3
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Breast Cancer,10,ESR1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lung Cancer,1,CD274
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lung Cancer,2,PDCD1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lung Cancer,3,NKX2-1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lung Cancer,4,EGFR
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lung Cancer,5,STK11
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lung Cancer,6,KRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lung Cancer,7,PIK3CA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lung Cancer,8,TP53
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lung Cancer,9,BRAF
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lung Cancer,10,ERBB2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Colorectal Cancer,1,POLE
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Colorectal Cancer,2,PIK3CA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Colorectal Cancer,3,KRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Colorectal Cancer,4,BRAF
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Colorectal Cancer,5,NRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Colorectal Cancer,6,MLH1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Colorectal Cancer,7,KIT
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Colorectal Cancer,8,EGFR
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Colorectal Cancer,9,CTNNB1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Colorectal Cancer,10,MSH2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Prostate Cancer,1,PTEN
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Prostate Cancer,2,CHEK2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Prostate Cancer,3,BRCA2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Prostate Cancer,4,NBN
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Prostate Cancer,5,BRCA1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Prostate Cancer,6,SPOP
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Prostate Cancer,7,TP53
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Prostate Cancer,8,PARP1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Prostate Cancer,9,CHEK1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Prostate Cancer,10,ATM
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Melanoma,1,PDCD1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Melanoma,2,KIT
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Melanoma,3,NRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Melanoma,4,CDKN2A
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Melanoma,5,PIK3CA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Melanoma,6,TERT
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Melanoma,7,IFNG
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Melanoma,8,BRAF
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Melanoma,9,SF3B1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Melanoma,10,PTEN
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Bladder Cancer,1,TERT
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Bladder Cancer,2,FGFR3
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Bladder Cancer,3,TP53
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Bladder Cancer,4,PIK3CA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Bladder Cancer,5,EP300
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Bladder Cancer,6,KRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Bladder Cancer,7,NRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Bladder Cancer,8,EGFR
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Bladder Cancer,9,PDCD1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Bladder Cancer,10,APC
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Kidney Cancer,1,SMAD4
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Kidney Cancer,2,VHL
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Kidney Cancer,3,BRAP
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Kidney Cancer,4,WT1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Kidney Cancer,5,PBRM1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Kidney Cancer,6,FLCN
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Kidney Cancer,7,BAP1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Kidney Cancer,8,BRCA1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Kidney Cancer,9,TSC2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Kidney Cancer,10,IL2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Pancreatic Cancer,1,CDKN2A
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Pancreatic Cancer,2,PALB2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Pancreatic Cancer,3,BRCA2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Pancreatic Cancer,4,BRCA1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Pancreatic Cancer,5,SMAD4
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Pancreatic Cancer,6,CHEK2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Pancreatic Cancer,7,MLH1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Pancreatic Cancer,8,KRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Pancreatic Cancer,9,BRAF
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Pancreatic Cancer,10,GNAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Liver Cancer,1,KRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Liver Cancer,2,NRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Liver Cancer,3,PIK3CA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Liver Cancer,4,TTR
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Liver Cancer,5,BRAF
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Liver Cancer,6,CTNNB1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Liver Cancer,7,CCL14
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Liver Cancer,8,TP53
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Liver Cancer,9,TERT
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Liver Cancer,10,KIT
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Stomach Cancer,1,RAD50
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Stomach Cancer,2,RAD51C
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Stomach Cancer,3,BLM
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Stomach Cancer,4,BRIP1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Stomach Cancer,5,NBN
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Stomach Cancer,6,MUC16
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Stomach Cancer,7,PALB2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Stomach Cancer,8,NDUFS7
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Stomach Cancer,9,EGFR
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Stomach Cancer,10,PIK3CA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Esophageal Cancer,1,PROX1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Esophageal Cancer,2,ASXL1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Esophageal Cancer,3,EGFR
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Esophageal Cancer,4,TP53
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Esophageal Cancer,5,BRAF
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Esophageal Cancer,6,PIK3CA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Esophageal Cancer,7,ERBB4
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Esophageal Cancer,8,TET2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Esophageal Cancer,9,BRCA2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Esophageal Cancer,10,KRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Ovarian Cancer,1,POLE
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Ovarian Cancer,2,MLH1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Ovarian Cancer,3,ARID1A
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Ovarian Cancer,4,BRIP1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Ovarian Cancer,5,MSH2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Ovarian Cancer,6,CTNNB1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Ovarian Cancer,7,CHEK2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Ovarian Cancer,8,BRCA2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Ovarian Cancer,9,TTN
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Ovarian Cancer,10,PIK3CA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Endometrial Cancer,1,POLE
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Endometrial Cancer,2,PTEN
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Endometrial Cancer,3,MLH1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Endometrial Cancer,4,PIK3CA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Endometrial Cancer,5,ARID1A
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Endometrial Cancer,6,MSH2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Endometrial Cancer,7,CDK12
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Endometrial Cancer,8,KRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Endometrial Cancer,9,CTNNB1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Endometrial Cancer,10,CHEK2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Cervical Cancer,1,LRP1B
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Cervical Cancer,2,PIK3CA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Cervical Cancer,3,KRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Cervical Cancer,4,PTEN
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Cervical Cancer,5,BRAF
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Cervical Cancer,6,FBXW7
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Cervical Cancer,7,RB1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Cervical Cancer,8,TP53
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Cervical Cancer,9,ERBB2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Cervical Cancer,10,FGFR3
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Thyroid Cancer,1,RET
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Thyroid Cancer,2,TERT
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Thyroid Cancer,3,NRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Thyroid Cancer,4,HRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Thyroid Cancer,5,EIF1AX
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Thyroid Cancer,6,BRAF
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Thyroid Cancer,7,KRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Thyroid Cancer,8,DICER1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Thyroid Cancer,9,CCDC6
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Thyroid Cancer,10,GNAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Brain Cancer,1,GNAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Brain Cancer,2,IGF1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Brain Cancer,3,MLH1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Brain Cancer,4,IDH1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Brain Cancer,5,IDH2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Brain Cancer,6,TP53
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Brain Cancer,7,TERT
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Brain Cancer,8,POLE
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Brain Cancer,9,PPM1D
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Brain Cancer,10,KRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Leukemia,1,U2AF1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Leukemia,2,PTPN11
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Leukemia,3,ASXL1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Leukemia,4,CEBPA
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Leukemia,5,NPM1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Leukemia,6,DNMT3A
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Leukemia,7,NRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Leukemia,8,FLT3
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Leukemia,9,BCR
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Leukemia,10,SRSF2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lymphoma,1,MYD88
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lymphoma,2,CD79B
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lymphoma,3,TNFRSF14
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lymphoma,4,SOCS1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lymphoma,5,MYC
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lymphoma,6,TNFRSF11A
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lymphoma,7,TP53
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lymphoma,8,PIM1
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lymphoma,9,EZH2
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Lymphoma,10,CREBBP
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Myeloma,1,BRAF
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Myeloma,2,NRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Myeloma,3,KRAS
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Myeloma,4,DIS3
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Myeloma,5,TP53
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Myeloma,6,LTB
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Myeloma,7,CYLD
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Myeloma,8,BIRC3
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Myeloma,9,KMT2A
+de-duplicated (W/S)*ln(1+E)*ln(1+S),Myeloma,10,EGR1

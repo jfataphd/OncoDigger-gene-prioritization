@@ -1,0 +1,4 @@
+variant,top10_slots_changed,top50_slots_changed,three_gene_pairs_in_top50,three_gene_pairs_in_top10,cancers_identical_top50_set
+A,0,208,9,0,10
+B,0,208,9,0,10
+C,0,0,0,0,19

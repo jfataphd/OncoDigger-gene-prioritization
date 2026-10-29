@@ -1,0 +1,7 @@
+cancer,gene,state,rank,supporting_papers
+Lung Cancer,MET,original,9,67
+Lung Cancer,MET,corrected,9,58
+Thyroid Cancer,REST,original,,0
+Thyroid Cancer,REST,corrected,,0
+Kidney Cancer,FH,original,5,90
+Kidney Cancer,FH,corrected,5,88

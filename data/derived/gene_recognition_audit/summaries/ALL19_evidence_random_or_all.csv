@@ -1,0 +1,191 @@
+cancer,gene,M,ML,G,P,W,I,n,target_ctx,pct_mutation_specific(M),pct_mut_or_listed(M+ML),pool_credits
+Breast Cancer,BRCA1,24,1,0,0,0,0,25,0,96.0,100.0,525
+Breast Cancer,BRCA2,22,1,0,0,0,2,25,0,88.0,92.0,425
+Breast Cancer,PIK3CA,21,2,1,0,0,1,25,3,84.0,92.0,201
+Breast Cancer,TP53,17,5,0,0,1,2,25,0,68.0,88.0,149
+Breast Cancer,ERBB2,14,2,1,4,0,4,25,5,56.0,64.0,178
+Breast Cancer,PALB2,39,10,0,1,0,15,65,0,60.0,75.0,65
+Breast Cancer,ESR1,46,0,0,3,0,1,50,1,92.0,92.0,50
+Breast Cancer,PTEN,25,15,3,2,1,9,55,7,45.0,73.0,55
+Breast Cancer,CHEK2,27,6,0,0,0,13,46,0,59.0,72.0,46
+Breast Cancer,AKT1,21,8,0,2,0,6,37,1,57.0,78.0,37
+Lung Cancer,EGFR,21,2,0,1,0,1,25,8,84.0,92.0,774
+Lung Cancer,KRAS,19,4,1,0,0,1,25,1,76.0,92.0,238
+Lung Cancer,TP53,14,8,0,1,0,2,25,2,56.0,88.0,111
+Lung Cancer,BRAF,11,7,1,0,0,6,25,2,44.0,72.0,100
+Lung Cancer,ALK,10,4,8,1,0,2,25,1,40.0,56.0,97
+Lung Cancer,PIK3CA,8,13,2,0,1,1,25,2,32.0,84.0,79
+Lung Cancer,ERBB2,29,23,4,2,0,10,68,5,43.0,76.0,68
+Lung Cancer,CD274,36,1,1,19,0,6,63,3,57.0,59.0,63
+Lung Cancer,MET,29,9,6,1,0,13,58,8,50.0,66.0,58
+Lung Cancer,STK11,14,10,0,1,0,3,28,0,50.0,86.0,28
+Colorectal Cancer,KRAS,31,7,0,0,0,2,40,10,78.0,95.0,436
+Colorectal Cancer,BRAF,34,4,0,1,0,1,40,6,85.0,95.0,287
+Colorectal Cancer,EGFR,10,2,2,1,1,24,40,32,25.0,30.0,191
+Colorectal Cancer,NRAS,25,13,0,0,0,2,40,5,62.0,95.0,127
+Colorectal Cancer,MLH1,22,4,3,4,1,6,40,0,55.0,65.0,150
+Colorectal Cancer,PIK3CA,26,6,1,0,2,5,40,7,65.0,80.0,128
+Colorectal Cancer,MSH2,29,3,0,2,0,6,40,0,72.0,80.0,136
+Colorectal Cancer,APC,26,8,1,1,0,4,40,1,65.0,85.0,145
+Colorectal Cancer,TP53,28,4,2,1,0,5,40,3,70.0,80.0,93
+Colorectal Cancer,MSH6,26,3,0,4,0,7,40,0,65.0,72.0,79
+Prostate Cancer,BRCA2,25,6,0,2,1,6,40,0,62.0,78.0,236
+Prostate Cancer,BRCA1,30,2,0,3,0,5,40,2,75.0,80.0,196
+Prostate Cancer,TP53,25,10,1,0,0,4,40,2,62.0,88.0,118
+Prostate Cancer,ATM,12,12,0,1,1,14,40,0,30.0,60.0,105
+Prostate Cancer,SPOP,31,7,0,0,0,2,40,3,78.0,95.0,83
+Prostate Cancer,AR,24,0,6,2,2,6,40,4,60.0,60.0,212
+Prostate Cancer,CHEK2,18,11,0,2,0,25,56,0,32.0,52.0,56
+Prostate Cancer,PTEN,14,11,2,6,0,7,40,1,35.0,62.0,87
+Prostate Cancer,PARP1,0,0,0,1,39,0,40,2,0.0,0.0,76
+Prostate Cancer,PALB2,5,10,0,0,1,19,35,0,14.0,43.0,35
+Melanoma,BRAF,35,4,0,0,0,1,40,0,88.0,98.0,530
+Melanoma,NRAS,30,6,0,0,0,4,40,1,75.0,90.0,293
+Melanoma,KIT,27,5,2,0,0,6,40,1,68.0,80.0,142
+Melanoma,CDKN2A,33,2,0,0,0,5,40,0,82.0,88.0,165
+Melanoma,TERT,31,2,2,0,0,5,40,1,78.0,82.0,79
+Melanoma,GNAQ,24,13,0,0,0,3,40,0,60.0,92.0,81
+Melanoma,GNA11,22,12,1,2,0,3,40,0,55.0,85.0,69
+Melanoma,BAP1,33,4,0,1,0,2,40,0,82.0,92.0,72
+Melanoma,SF3B1,23,16,0,0,0,8,47,1,49.0,83.0,47
+Melanoma,NF1,21,16,0,3,0,8,48,1,44.0,77.0,48
+Bladder Cancer,FGFR3,33,4,2,0,0,1,40,5,82.0,92.0,281
+Bladder Cancer,TP53,27,7,2,1,0,3,40,1,68.0,85.0,210
+Bladder Cancer,TERT,27,6,4,1,0,2,40,0,68.0,82.0,124
+Bladder Cancer,PIK3CA,19,12,1,0,3,5,40,2,48.0,78.0,100
+Bladder Cancer,RB1,22,20,4,0,2,11,59,0,37.0,71.0,59
+Bladder Cancer,KRAS,17,14,0,0,0,11,42,2,40.0,74.0,42
+Bladder Cancer,ARID1A,15,16,0,1,0,11,43,1,35.0,72.0,43
+Bladder Cancer,HRAS,12,12,2,1,1,11,39,1,31.0,62.0,39
+Bladder Cancer,KDM6A,15,8,3,1,0,12,39,0,38.0,59.0,39
+Bladder Cancer,ERBB2,22,6,8,3,0,15,54,5,41.0,52.0,54
+Kidney Cancer,VHL,27,3,0,2,2,6,40,3,68.0,75.0,249
+Kidney Cancer,WT1,34,2,0,0,0,4,40,0,85.0,90.0,119
+Kidney Cancer,BAP1,26,7,0,0,0,7,40,0,65.0,82.0,76
+Kidney Cancer,PBRM1,22,9,0,2,0,7,40,0,55.0,78.0,85
+Kidney Cancer,FH,30,1,0,5,0,4,40,0,75.0,78.0,88
+Kidney Cancer,FLCN,44,1,0,1,0,4,50,0,88.0,90.0,50
+Kidney Cancer,SETD2,16,10,2,1,1,10,40,0,40.0,65.0,77
+Kidney Cancer,TP53,36,11,2,1,0,9,59,0,61.0,80.0,59
+Kidney Cancer,TSC2,38,9,0,0,1,3,51,0,75.0,92.0,51
+Kidney Cancer,KDM5C,11,7,1,2,0,10,31,0,35.0,58.0,31
+Pancreatic Cancer,KRAS,33,4,0,0,1,2,40,4,82.0,92.0,368
+Pancreatic Cancer,BRCA2,29,3,0,2,1,5,40,0,72.0,80.0,128
+Pancreatic Cancer,TP53,18,11,1,2,0,8,40,1,45.0,72.0,145
+Pancreatic Cancer,BRCA1,33,6,0,0,0,1,40,0,82.0,98.0,106
+Pancreatic Cancer,CDKN2A,16,10,1,1,0,12,40,0,40.0,65.0,107
+Pancreatic Cancer,SMAD4,15,12,2,0,0,11,40,0,38.0,68.0,95
+Pancreatic Cancer,GNAS,43,7,0,0,0,6,56,1,77.0,89.0,56
+Pancreatic Cancer,BRAF,30,9,1,0,1,4,45,2,67.0,87.0,45
+Pancreatic Cancer,MEN1,42,8,0,0,5,5,60,0,70.0,83.0,60
+Pancreatic Cancer,PALB2,17,8,0,0,2,12,39,0,44.0,64.0,39
+Liver Cancer,KRAS,32,5,0,2,0,1,40,8,80.0,92.0,114
+Liver Cancer,TP53,29,4,2,1,0,4,40,1,72.0,82.0,153
+Liver Cancer,CTNNB1,28,5,0,0,1,6,40,1,70.0,82.0,143
+Liver Cancer,BRAF,31,5,1,0,0,3,40,4,78.0,90.0,76
+Liver Cancer,NRAS,20,11,1,1,0,12,45,2,44.0,69.0,45
+Liver Cancer,TERT,33,3,1,0,0,3,40,2,82.0,90.0,70
+Liver Cancer,EGFR,25,0,1,1,1,12,40,30,62.0,62.0,70
+Liver Cancer,PIK3CA,20,11,3,5,2,10,51,3,39.0,61.0,51
+Liver Cancer,APC,18,10,0,0,3,3,34,0,53.0,82.0,34
+Liver Cancer,HFE,16,0,0,0,0,1,17,0,94.0,94.0,17
+Stomach Cancer,CDH1,39,0,0,0,0,1,40,0,98.0,98.0,193
+Stomach Cancer,TP53,23,9,1,0,0,7,40,0,58.0,80.0,153
+Stomach Cancer,KRAS,18,9,2,0,1,10,40,1,45.0,68.0,82
+Stomach Cancer,PIK3CA,19,6,3,1,4,7,40,6,48.0,62.0,91
+Stomach Cancer,CTNNB1,34,10,2,6,4,8,64,1,53.0,69.0,64
+Stomach Cancer,BRAF,25,13,2,0,1,4,45,3,56.0,84.0,45
+Stomach Cancer,APC,24,3,0,0,5,8,40,0,60.0,68.0,72
+Stomach Cancer,BRCA2,20,8,1,1,0,6,36,0,56.0,78.0,36
+Stomach Cancer,PDGFRA,34,4,0,0,0,0,38,0,89.0,100.0,38
+Stomach Cancer,ARID1A,20,17,2,2,1,11,53,0,38.0,70.0,53
+Esophageal Cancer,TP53,29,3,0,0,0,8,40,0,72.0,80.0,220
+Esophageal Cancer,PIK3CA,22,5,1,3,5,4,40,3,55.0,68.0,84
+Esophageal Cancer,EGFR,19,0,5,3,2,11,40,12,48.0,48.0,85
+Esophageal Cancer,KRAS,25,6,4,3,1,13,52,4,48.0,60.0,52
+Esophageal Cancer,CDKN2A,26,8,9,6,2,13,64,0,41.0,53.0,64
+Esophageal Cancer,BRAF,20,8,0,0,0,4,32,2,62.0,88.0,32
+Esophageal Cancer,NOTCH1,20,3,1,0,1,12,37,1,54.0,62.0,37
+Esophageal Cancer,BRCA2,15,2,0,1,0,5,23,1,65.0,74.0,23
+Esophageal Cancer,NFE2L2,15,3,2,0,0,11,31,2,48.0,58.0,31
+Esophageal Cancer,APC,12,3,2,1,2,10,30,0,40.0,50.0,30
+Ovarian Cancer,BRCA1,38,1,0,0,0,1,40,2,95.0,98.0,582
+Ovarian Cancer,BRCA2,34,0,0,0,0,6,40,0,85.0,85.0,463
+Ovarian Cancer,TP53,30,7,0,1,0,2,40,0,75.0,92.0,121
+Ovarian Cancer,KRAS,29,6,0,0,0,5,40,1,72.0,88.0,80
+Ovarian Cancer,POLE,28,2,0,0,0,2,32,0,88.0,94.0,32
+Ovarian Cancer,PIK3CA,17,15,0,0,0,8,40,3,42.0,80.0,74
+Ovarian Cancer,BRAF,41,9,0,0,0,3,53,0,77.0,94.0,53
+Ovarian Cancer,CTNNB1,27,7,0,0,1,4,39,1,69.0,87.0,39
+Ovarian Cancer,PTEN,22,19,0,1,0,14,56,1,39.0,73.0,56
+Ovarian Cancer,RAD51C,17,9,0,0,0,11,37,0,46.0,70.0,37
+Endometrial Cancer,PTEN,21,6,1,4,1,7,40,1,52.0,68.0,249
+Endometrial Cancer,PIK3CA,20,9,1,2,2,6,40,5,50.0,72.0,189
+Endometrial Cancer,POLE,35,2,1,1,0,1,40,0,88.0,92.0,163
+Endometrial Cancer,TP53,34,4,0,1,0,1,40,0,85.0,95.0,176
+Endometrial Cancer,KRAS,25,12,0,0,0,3,40,2,62.0,92.0,136
+Endometrial Cancer,MLH1,16,5,5,5,0,9,40,0,40.0,52.0,161
+Endometrial Cancer,CTNNB1,28,5,0,0,1,6,40,1,70.0,82.0,123
+Endometrial Cancer,MSH2,14,6,0,10,0,10,40,0,35.0,50.0,124
+Endometrial Cancer,MSH6,15,7,1,11,0,6,40,0,38.0,55.0,115
+Endometrial Cancer,ARID1A,14,9,1,11,0,5,40,0,35.0,58.0,91
+Cervical Cancer,PIK3CA,26,7,1,0,4,2,40,5,65.0,82.0,146
+Cervical Cancer,KRAS,30,17,4,0,2,8,61,1,49.0,77.0,61
+Cervical Cancer,TP53,27,6,0,1,0,6,40,1,68.0,82.0,89
+Cervical Cancer,PTEN,24,9,2,3,1,5,44,2,55.0,75.0,44
+Cervical Cancer,ERBB2,14,8,13,2,0,4,41,7,34.0,54.0,41
+Cervical Cancer,STK11,21,11,1,1,0,5,39,1,54.0,82.0,39
+Cervical Cancer,EGFR,21,3,5,2,1,8,40,13,52.0,60.0,40
+Cervical Cancer,FBXW7,7,7,1,0,0,7,22,0,32.0,64.0,22
+Cervical Cancer,MTOR,6,1,5,2,15,5,34,4,18.0,21.0,34
+Cervical Cancer,RB1,5,3,2,0,0,5,15,0,33.0,53.0,15
+Thyroid Cancer,BRAF,36,4,0,0,0,0,40,1,90.0,100.0,565
+Thyroid Cancer,TERT,37,2,0,0,0,1,40,0,92.0,98.0,195
+Thyroid Cancer,RET,33,1,3,0,1,2,40,0,82.0,85.0,333
+Thyroid Cancer,NRAS,21,14,0,1,1,3,40,0,52.0,88.0,139
+Thyroid Cancer,HRAS,11,19,2,0,0,8,40,0,28.0,75.0,85
+Thyroid Cancer,KRAS,13,19,1,0,0,7,40,1,32.0,80.0,87
+Thyroid Cancer,TP53,27,17,2,0,0,7,53,0,51.0,83.0,53
+Thyroid Cancer,EIF1AX,16,6,1,1,0,1,25,0,64.0,88.0,25
+Thyroid Cancer,PIK3CA,18,10,6,3,9,8,54,1,33.0,52.0,54
+Thyroid Cancer,TSHR,28,3,0,3,0,3,37,0,76.0,84.0,37
+Brain Cancer,IDH1,36,3,0,0,0,1,40,1,90.0,98.0,267
+Brain Cancer,TP53,31,6,0,1,0,2,40,1,78.0,92.0,146
+Brain Cancer,EGFR,33,0,4,1,0,2,40,12,82.0,82.0,185
+Brain Cancer,TERT,35,3,1,0,0,1,40,0,88.0,95.0,107
+Brain Cancer,IDH2,30,7,0,1,0,2,40,0,75.0,92.0,89
+Brain Cancer,BRAF,27,7,3,1,0,2,40,0,68.0,85.0,113
+Brain Cancer,KRAS,31,9,0,0,0,3,43,3,72.0,93.0,43
+Brain Cancer,ATRX,24,14,1,7,1,2,49,0,49.0,78.0,49
+Brain Cancer,MGMT,19,5,13,2,0,1,40,0,48.0,60.0,70
+Brain Cancer,PTEN,33,11,4,2,2,3,55,1,60.0,80.0,55
+Leukemia,FLT3,32,5,0,0,0,3,40,2,80.0,92.0,292
+Leukemia,NPM1,25,11,0,0,0,4,40,0,62.0,90.0,187
+Leukemia,DNMT3A,23,14,0,0,0,3,40,0,58.0,92.0,126
+Leukemia,CEBPA,23,10,1,2,0,4,40,0,58.0,82.0,103
+Leukemia,NRAS,18,14,0,0,0,8,40,0,45.0,80.0,104
+Leukemia,ASXL1,16,16,0,2,0,6,40,1,40.0,80.0,86
+Leukemia,TP53,25,12,0,0,0,3,40,0,62.0,92.0,118
+Leukemia,IDH1,23,9,2,0,0,6,40,1,58.0,80.0,84
+Leukemia,BCR,30,1,3,0,0,6,40,7,75.0,78.0,141
+Leukemia,TET2,12,19,2,1,0,6,40,0,30.0,78.0,87
+Lymphoma,MYD88,27,5,0,2,1,5,40,1,68.0,80.0,166
+Lymphoma,TP53,23,7,0,0,2,8,40,0,58.0,75.0,163
+Lymphoma,KMT2D,11,16,6,1,0,6,40,0,28.0,68.0,66
+Lymphoma,EZH2,46,5,3,0,1,6,61,4,75.0,84.0,61
+Lymphoma,CD79B,26,6,1,0,1,6,40,0,65.0,80.0,69
+Lymphoma,CREBBP,24,11,2,2,0,9,48,2,50.0,73.0,48
+Lymphoma,TET2,22,16,4,1,2,10,55,1,40.0,69.0,55
+Lymphoma,ATM,21,19,0,0,0,10,50,0,42.0,80.0,50
+Lymphoma,CARD11,13,12,4,0,3,10,42,1,31.0,60.0,42
+Lymphoma,RHOA,29,7,1,0,0,6,43,1,67.0,84.0,43
+Myeloma,NRAS,21,8,0,1,3,7,40,1,52.0,72.0,84
+Myeloma,TP53,28,5,1,1,2,3,40,1,70.0,82.0,122
+Myeloma,BRAF,34,15,3,3,2,8,65,4,52.0,75.0,65
+Myeloma,KRAS,25,26,1,1,2,9,64,3,39.0,80.0,64
+Myeloma,DIS3,11,9,0,0,0,13,33,0,33.0,61.0,33
+Myeloma,IGH,13,1,30,1,0,10,55,1,24.0,25.0,55
+Myeloma,FGFR3,20,5,3,1,1,8,38,3,53.0,66.0,38
+Myeloma,MYC,16,3,15,8,1,14,57,3,28.0,33.0,57
+Myeloma,IRF4,6,6,5,3,0,5,25,2,24.0,48.0,25
+Myeloma,TRAF3,5,1,1,2,1,3,13,2,38.0,46.0,13

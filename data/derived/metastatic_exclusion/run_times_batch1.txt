@@ -1,0 +1,4 @@
+m01_build_excluded exit=0 seconds=136
+m02_verify_idf exit=0 seconds=84
+m03_rank_excluded exit=0 seconds=1015
+METASTASIS RUN DONE

@@ -1,0 +1,16 @@
+mechanism,abstracts_wrong_or_uncertain,wrong,uncertain,cancers,detail
+PI3K -> PIK3CA (pathway/family alias),119,119,0,11,Bladder Cancer/PIK3CA 10; Breast Cancer/PIK3CA 10; Cervical Cancer/PIK3CA 16; Colorectal Cancer/PIK3CA 7; Endometrial Cancer/PIK3CA 23; Esophageal Cancer/PIK3CA 10; Liver Cancer/PIK3CA 6; Lung Cancer/PIK3CA 7; Ovarian Cancer/PIK3CA 1; Stomach Cancer/PIK3CA 14; Thyroid Cancer/PIK3CA 15
+PARP (family/drug-class term) -> PARP1,56,0,56,1,Prostate Cancer/PARP1 56
+HNPCC syndrome name -> MLH1/MSH2,48,48,0,2,Colorectal Cancer/MLH1 13; Colorectal Cancer/MSH2 11; Endometrial Cancer/MLH1 12; Endometrial Cancer/MSH2 12
+HIF-1 -> SETD2 (hypoxia-inducible factor),13,13,0,1,Kidney Cancer/SETD2 13
+EGFR credited through HER2's name,12,12,0,6,Brain Cancer/EGFR 1; Cervical Cancer/EGFR 2; Colorectal Cancer/EGFR 2; Esophageal Cancer/EGFR 3; Liver Cancer/EGFR 1; Lung Cancer/EGFR 3
+'kit' = assay kit -> KIT,6,6,0,1,Melanoma/KIT 6
+MEN1 used as syndrome label,4,0,4,1,Pancreatic Cancer/MEN1 4
+BCR = B-cell receptor -> BCR,3,3,0,1,Leukemia/BCR 3
+WAGR syndrome name -> WT1,2,2,0,1,Kidney Cancer/WT1 2
+symbol inside another gene's full name (PALB2/BRCA),2,2,0,2,Ovarian Cancer/BRCA2 1; Pancreatic Cancer/BRCA2 1
+'armadillo' -> CTNNB1,1,0,1,1,Stomach Cancer/CTNNB1 1
+APC/C (anaphase-promoting complex) -> APC,1,1,0,1,Esophageal Cancer/APC 1
+'tert' = tert-butyl chemistry -> TERT,1,1,0,1,Bladder Cancer/TERT 1
+MET = methionine -> MET,1,1,0,1,Lung Cancer/MET 1
+MET = metastasis -> MET,1,1,0,1,Lung Cancer/MET 1

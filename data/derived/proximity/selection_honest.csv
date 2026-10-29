@@ -1,0 +1,2 @@
+leave_one_cancer_out_gain_pp,loco_weights_chosen,oob_bootstrap_gain_pp,oob_ci_lo,oob_ci_hi,oob_share_positive_pct,optimism_pp
+0.0,"{'1': 18, '0.25': 1}",-0.2,-2.5,0.0,0,0.8

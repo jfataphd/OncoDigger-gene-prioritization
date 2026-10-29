@@ -1,0 +1,471 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Breast Cancer,BRCA1,34610390,top15(v1),brca1,C,M,,symbol 'BRCA1' present,4,outcomes after breast radiation therapy in a diverse patient cohort with a germline brca1 2 mutation,M
+Breast Cancer,BRCA1,38976158,top15(v1),brca1,C,M,,symbol 'BRCA1' present,9,demographics and clinical decision making in patients with germline moderate penetrance non-brca mutations in breast cancer related genes,M
+Breast Cancer,BRCA1,32554602,top15(v1),brca1,C,M,,symbol 'BRCA1' present,12,clinical characteristics and exploratory genomic analyses of germline brca1 or brca2 mutations in breast cancer,M
+Breast Cancer,BRCA1,32091585,top15(v1),brca1,C,ML,,symbol 'BRCA1' present,14,the contribution of germline predisposition gene mutations to clinical subtypes of invasive breast cancer from a clinical genetic testing co,ML
+Breast Cancer,BRCA1,30257646,top15(v1),brca1,C,M,,symbol 'BRCA1' present,20,addition of triple negativity of breast cancer as an indicator for germline mutations in predisposing genes increases sensitivity of clinica,M
+Breast Cancer,BRCA1,27393621,top15(v1),brca1,C,M,,symbol 'BRCA1' present,26,comprehensive analysis of brca1 and brca2 germline mutations in a large cohort of 5931 chinese women with breast cancer,M
+Breast Cancer,BRCA1,23262210,top15(v1),brca1,C,M,,symbol 'BRCA1' present,28,characteristics of women with ovarian carcinoma who have brca1 and brca2 mutations not identified by clinical testing,M
+Breast Cancer,BRCA1,28715532,top15(v1),brca1,C,M,,symbol 'BRCA1' present,29,germline mutation status pathological complete response and disease-free survival in triple-negative breast cancer secondary analysis of the,M
+Breast Cancer,BRCA1,30720863,top15(v1),brca1,C,M,,symbol 'BRCA1' present,32,prevalence and clinical outcomes of germline mutations in brca1 2 and palb2 genes in 2769 unselected breast cancer patients in china,M
+Breast Cancer,BRCA1,39026672,top15(v1),brca1,C,M,,symbol 'BRCA1' present,35,association of tumor immune infiltration and prognosis with homologous recombination repair genes mutations in early triple-negative breast ,M
+Breast Cancer,BRCA1,33780288,top15(v1),brca1,C,M,,symbol 'BRCA1' present,38,mutations in brca1 2 and other panel genes in patients with metastatic breast cancer -association with patient and disease characteristics a,M
+Breast Cancer,BRCA1,40693865,top15(v1),brca1,C,M,,symbol 'BRCA1' present,39,the use of hormonal contraceptives in a cohort of healthy women with brca mutations under surveillance in an italian family cancer clinic,M
+Breast Cancer,BRCA1,33119476,top15(v1),brca1,C,M,,symbol 'BRCA1' present,43,tbcrc 048 phase ii study of olaparib for metastatic breast cancer and mutations in homologous recombination-related genes,M
+Breast Cancer,BRCA1,21233401,top15(v1),brca1,C,M,,symbol 'BRCA1' present,46,incidence and outcome of brca mutations in unselected patients with triple receptor-negative breast cancer,M
+Breast Cancer,BRCA1,32102521,top15(v1),brca1,C,M,,symbol 'BRCA1' present,47,analysis of heterozygous brca1 5382ins founder mutation in a cohort of egyptian breast cancer female patients using pyrosequencing technique,M
+Breast Cancer,BRCA1,25251729,random25(v1),brca1,C,M,,symbol 'BRCA1' present,76,impact of a paternal origin of germline brca1 2 mutations on the age at breast and ovarian cancer diagnosis in a southern swedish cohort,M
+Breast Cancer,BRCA1,24285858,random25(v1),brca1,C,M,,symbol 'BRCA1' present,77,breast and ovarian cancer risks in a large series of clinically ascertained families with a high proportion of brca1 and brca2 dutch founder,M
+Breast Cancer,BRCA1,25575445,random25(v1),brca1,C,M,,symbol 'BRCA1' present,81,mutation screening of palb2 in clinically ascertained families from the breast cancer family registry,M
+Breast Cancer,BRCA1,24942235,random25(v1),brca1,C,M,,symbol 'BRCA1' present,83,expression status of let-7a and mir-335 among breast tumors in patients with and without germ-line brca mutations,M
+Breast Cancer,BRCA1,27033093,random25(v1),brca1,C,M,,symbol 'BRCA1' present,148,breast cancer risk in chinese women with brca1 or brca2 mutations,M
+Breast Cancer,BRCA1,29807833,random25(v1),brca1,C,M,,symbol 'BRCA1' present,157,identifying circulating tumor dna mutation profiles in metastatic breast cancer patients with multiline resistance,M
+Breast Cancer,BRCA1,41654853,random25(v1),brca1,C,M,,symbol 'BRCA1' present,168,ovarian follicular density in women with brca1 and brca2 mutations new insights into the negative impact on ovarian reserve,M
+Breast Cancer,BRCA1,21691706,random25(v1),brca1,C,M,,symbol 'BRCA1' present,176,clinical implications for brca gene mutation in breast cancer,M
+Breast Cancer,BRCA1,32468491,random25(v1),brca1,C,M,,symbol 'BRCA1' present,206,constitutional mosaicism for a brca2 mutation as a cause of early-onset breast cancer,M
+Breast Cancer,BRCA1,25348513,random25(v1),brca1,C,M,,symbol 'BRCA1' present,303,effects of brca1- and brca2-related mutations on ovarian and breast cancer survival a meta-analysis,M
+Breast Cancer,BRCA1,41676859,random25(v1),brca1,C,M,,symbol 'BRCA1' present,309,prevalence of brca1 and brca2 germline mutations in vietnamese patients with triple-negative breast cancer,M
+Breast Cancer,BRCA1,23289006,random25(v1),brca1,C,M,,symbol 'BRCA1' present,314,mutation screening of the brca1 gene in early onset and familial breast ovarian cancer in moroccan population,M
+Breast Cancer,BRCA1,21365267,random25(v1),brca1,C,M,,symbol 'BRCA1' present,328,palb2 mutations in familial breast and pancreatic cancer,M
+Breast Cancer,BRCA1,16455195,random25(v1),brca1,C,M,,symbol 'BRCA1' present,349,brca1 and brca2 germline mutations in korean breast cancer patients at high risk of carrying mutations,M
+Breast Cancer,BRCA1,21895635,random25(v1),brca1,C,M,,symbol 'BRCA1' present,485,brca1 and brca2 mutations among familial breast cancer patients from costa rica,M
+Breast Cancer,BRCA1,31871109,random25(v1),brca1,C,M,,symbol 'BRCA1' present,559,prevalence of inherited mutations in breast cancer predisposition genes among women in uganda and cameroon,M
+Breast Cancer,BRCA1,17625123,random25(v1),brca1,C,M,,symbol 'BRCA1' present,599,clinical outcomes of breast cancer in carriers of brca1 and brca2 mutations,M
+Breast Cancer,BRCA1,28294317,random25(v1),brca1,C,M,,symbol 'BRCA1' present,614,the spectrum of brca mutations and characteristics of brca-associated breast cancers in china screening of 2 991 patients and 1 043 controls,M
+Breast Cancer,BRCA1,12673274,random25(v1),brca1,C,M,,symbol 'BRCA1' present,641,italian family with two independent mutations 3358t a in brca1 and 8756dela in brca2 genes,M
+Breast Cancer,BRCA1,16168118,random25(v1),brca1,C,M,,symbol 'BRCA1' present,649,high proportion of recurrent germline mutations in the brca1 gene in breast and ovarian cancer patients from the prague area,M
+Breast Cancer,BRCA1,15846789,random25(v1),brca1,C,M,,symbol 'BRCA1' present,680,prevalence of five previously reported and recurrent brca1 genetic rearrangement mutations in 20 000 patients from hereditary breast ovarian,M
+Breast Cancer,BRCA1,19649703,random25(v1),brca1,C,M,,symbol 'BRCA1' present,709,a novel de novo brca2 mutation of paternal origin identified in a spanish woman with early onset bilateral breast cancer,M
+Breast Cancer,BRCA1,11102986,random25(v1),brca1,C,M,,symbol 'BRCA1' present,761,ten novel brca1 and brca2 mutations in breast and or ovarian cancer families from northern germany,M
+Breast Cancer,BRCA1,12362976,random25(v1),brca1,C,M,,symbol 'BRCA1' present,764,germline mutations in the brca1 gene predisposing to breast and ovarian cancers in upper silesia population,M
+Breast Cancer,BRCA1,36006499,random25(v1),brca1,C,ML,,symbol 'BRCA1' present,899,aromatase inhibitors and contralateral breast cancer in brca mutation carriers,ML
+Breast Cancer,BRCA2,34610390,top15(v1),brca2,C,M,,symbol 'BRCA2' present,4,outcomes after breast radiation therapy in a diverse patient cohort with a germline brca1 2 mutation,M
+Breast Cancer,BRCA2,38976158,top15(v1),brca2,C,ML,,symbol 'BRCA2' present,9,demographics and clinical decision making in patients with germline moderate penetrance non-brca mutations in breast cancer related genes,ML
+Breast Cancer,BRCA2,32554602,top15(v1),brca2,C,M,,symbol 'BRCA2' present,12,clinical characteristics and exploratory genomic analyses of germline brca1 or brca2 mutations in breast cancer,M
+Breast Cancer,BRCA2,32091585,top15(v1),brca2,C,ML,,symbol 'BRCA2' present,14,the contribution of germline predisposition gene mutations to clinical subtypes of invasive breast cancer from a clinical genetic testing co,ML
+Breast Cancer,BRCA2,29566657,top15(v1),brca2,C,M,,symbol 'BRCA2' present,16,germline breast cancer susceptibility gene mutations and breast cancer outcomes,M
+Breast Cancer,BRCA2,30257646,top15(v1),brca2,C,M,,symbol 'BRCA2' present,20,addition of triple negativity of breast cancer as an indicator for germline mutations in predisposing genes increases sensitivity of clinica,M
+Breast Cancer,BRCA2,27393621,top15(v1),brca2,C,M,,symbol 'BRCA2' present,26,comprehensive analysis of brca1 and brca2 germline mutations in a large cohort of 5931 chinese women with breast cancer,M
+Breast Cancer,BRCA2,23262210,top15(v1),brca2,C,M,,symbol 'BRCA2' present,28,characteristics of women with ovarian carcinoma who have brca1 and brca2 mutations not identified by clinical testing,M
+Breast Cancer,BRCA2,28715532,top15(v1),brca2,C,M,,symbol 'BRCA2' present,29,germline mutation status pathological complete response and disease-free survival in triple-negative breast cancer secondary analysis of the,M
+Breast Cancer,BRCA2,30720863,top15(v1),brca2,C,M,,symbol 'BRCA2' present,32,prevalence and clinical outcomes of germline mutations in brca1 2 and palb2 genes in 2769 unselected breast cancer patients in china,M
+Breast Cancer,BRCA2,33780288,top15(v1),brca2,C,ML,,symbol 'BRCA2' present,38,mutations in brca1 2 and other panel genes in patients with metastatic breast cancer -association with patient and disease characteristics a,ML
+Breast Cancer,BRCA2,40693865,top15(v1),brca2,C,M,,symbol 'BRCA2' present,39,the use of hormonal contraceptives in a cohort of healthy women with brca mutations under surveillance in an italian family cancer clinic,M
+Breast Cancer,BRCA2,21233401,top15(v1),brca2,C,M,,symbol 'BRCA2' present,46,incidence and outcome of brca mutations in unselected patients with triple receptor-negative breast cancer,M
+Breast Cancer,BRCA2,32102521,top15(v1),brca2,C,M,,symbol 'BRCA2' present,47,analysis of heterozygous brca1 5382ins founder mutation in a cohort of egyptian breast cancer female patients using pyrosequencing technique,M
+Breast Cancer,BRCA2,37160413,top15(v1),brca2,C,M,,symbol 'BRCA2' present,48,mutations and expressions of breast cancer 1 2 in lung cancer,M
+Breast Cancer,BRCA2,18214034,random25(v1),brca2,C,M,,symbol 'BRCA2' present,73,a brca2 mutation 4088insa in a finnish breast and ovarian cancer family associated with favourable clinical course,M
+Breast Cancer,BRCA2,15131400,random25(v1),brca2,C,M,,symbol 'BRCA2' present,200,the 1100delat brca1 and the 8765delag brca2 mutations occurrence in high-risk non-ashkenazi jews and haplotype comparison of jewish and non-,M
+Breast Cancer,BRCA2,32468491,random25(v1),brca2,C,M,,symbol 'BRCA2' present,206,constitutional mosaicism for a brca2 mutation as a cause of early-onset breast cancer,M
+Breast Cancer,BRCA2,23233716,random25(v1),brca2,C,M,,symbol 'BRCA2' present,214,prevalence and type of brca mutations in hispanics undergoing genetic cancer risk assessment in the southwestern united states a report from,M
+Breast Cancer,BRCA2,22739995,random25(v1),brca2,C,M,,symbol 'BRCA2' present,288,recurrent brca1 and brca2 mutations in breast cancer patients of african ancestry,M
+Breast Cancer,BRCA2,29791287,random25(v1),brca2,C,M,,symbol 'BRCA2' present,291,brca1 2 mutations and bevacizumab in the neoadjuvant treatment of breast cancer response and prognosis results in patients with triple-negat,M
+Breast Cancer,BRCA2,21365267,random25(v1),brca2,C,M,,symbol 'BRCA2' present,328,palb2 mutations in familial breast and pancreatic cancer,M
+Breast Cancer,BRCA2,25186627,random25(v1),brca2,C,I,,symbol 'BRCA2' present,340,frequency of mutations in individuals with breast cancer referred for brca1 and brca2 testing using next-generation sequencing with a 25-gen,I
+Breast Cancer,BRCA2,22970155,random25(v1),brca2,C,M,,symbol 'BRCA2' present,348,identification of brca1 2 founder mutations in southern chinese breast cancer patients using gene sequencing and high resolution dna melting,M
+Breast Cancer,BRCA2,33229504,random25(v1),brca2,C,M,,symbol 'BRCA2' present,417,molecular characteristics of brca1 2 and palb2 mutations in pancreatic ductal adenocarcinoma,M
+Breast Cancer,BRCA2,18821011,random25(v1),brca2,C,M,,symbol 'BRCA2' present,478,founder mutations account for the majority of brca1-attributable hereditary breast ovarian cancer cases in a population from tuscany central,M
+Breast Cancer,BRCA2,21895635,random25(v1),brca2,C,M,,symbol 'BRCA2' present,485,brca1 and brca2 mutations among familial breast cancer patients from costa rica,M
+Breast Cancer,BRCA2,18298804,random25(v1),brca2,C,M,,symbol 'BRCA2' present,500,rapid detection of carriers with brca1 and brca2 mutations using high resolution melting analysis,M
+Breast Cancer,BRCA2,41823437,random25(v1),brca2,C,I,,symbol 'BRCA2' present,525,prediction of specific survival and clinicopathological impact of somatic palb2 mutations and pathogenic likely pathogenic variants pv lpv i,I
+Breast Cancer,BRCA2,11149425,random25(v1),brca2,C,M,,symbol 'BRCA2' present,568,frequency of brca1 and brca2 germline mutations in japanese breast cancer families,M
+Breast Cancer,BRCA2,30309218,random25(v1),brca2,C,ML,,symbol 'BRCA2' present,576,prevalence of palb2 germline mutations in early-onset and familial breast ovarian cancer patients from pakistan,ML
+Breast Cancer,BRCA2,17625123,random25(v1),brca2,C,M,,symbol 'BRCA2' present,599,clinical outcomes of breast cancer in carriers of brca1 and brca2 mutations,M
+Breast Cancer,BRCA2,26467043,random25(v1),brca2,C,M,,symbol 'BRCA2' present,708,does the age of breast cancer diagnosis in first-degree relatives impact on the risk of breast cancer in brca1 and brca2 mutation carriers,M
+Breast Cancer,BRCA2,36604360,random25(v1),brca2,C,M,,symbol 'BRCA2' present,748,oncologic safety of nipple-sparing mastectomy for breast cancer in brca gene mutation carriers outcomes at 70 months median follow-up,M
+Breast Cancer,BRCA2,12601471,random25(v1),brca2,C,M,,symbol 'BRCA2' present,827,average age-specific cumulative risk of breast cancer according to type and site of germline mutations in brca1 and brca2 estimated from mul,M
+Breast Cancer,BRCA2,17080309,random25(v1),brca2,C,M,,symbol 'BRCA2' present,883,high proportion of brca1 2 founder mutations in hispanic breast ovarian cancer families from colombia,M
+Breast Cancer,BRCA2,17636422,random25(v1),brca2,C,M,,symbol 'BRCA2' present,885,brca1 2 mutation analysis in male breast cancer families from north west england,M
+Breast Cancer,BRCA2,28376189,random25(v1),brca2,C,M,,symbol 'BRCA2' present,896,breast cancer survival of brca1 brca2 mutation carriers in a hospital-based cohort of young women,M
+Breast Cancer,BRCA2,19899408,random25(v1),brca2,C,M,,symbol 'BRCA2' present,939,mutational analysis of brca1 and brca2 genes in mexican breast cancer patients,M
+Breast Cancer,BRCA2,15654225,random25(v1),brca2,C,M,,symbol 'BRCA2' present,942,adjusting the estimated proportion of breast cancer cases associated with brca1 and brca2 mutations public health implications,M
+Breast Cancer,PIK3CA,19593635,alias(v1),pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,72,distinct gene mutation profiles among luminal-type and basal-type breast cancer cell lines,W
+Breast Cancer,PIK3CA,34171264,alias(v1),pi3k,X,I,target,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,101,co-occurring gain-of-function mutations in her2 and her3 modulate her2 her3 activation oncogenesis and her2 inhibitor sensitivity,I
+Breast Cancer,PIK3CA,37672800,alias(v1),pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,207,rare her2 l796p missense mutation promotes the growth and oncogenic signaling in breast cancer cells,W
+Breast Cancer,PIK3CA,39506289,alias(v1),pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,218,a pilot study on brca1 2 and pi3k mutations across subtypes of triple negative breast cancer in north indian population,M
+Breast Cancer,PIK3CA,38751013,alias(v1),pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,247,her3 v104 mutations regulate cell signaling growth and drug sensitivity in cancer,M
+Breast Cancer,PIK3CA,34729943,alias(v1),pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,324,discovery of a novel potentially transforming somatic mutation in csf2rb gene in breast cancer,W
+Breast Cancer,PIK3CA,22744290,alias(v1),pi3k,C,M,,"'PI3KCA' = PIK3CA (gene named, mutation study); credited via 'PI3K'",483,pi3kca mutations and or pten loss in her2-positive breast carcinomas treated with trastuzumab are not related to resistance to anti-her2 the,M
+Breast Cancer,PIK3CA,33485488,alias(v1),pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,642,investigating mutations at the hotspot position of the erbb2 and screening for the novel lead compound to treat breast cancer - a computatio,M
+Breast Cancer,PIK3CA,28301567,alias(v1),pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,666,integrated analysis of promoter mutation methylation and expression of akt1 gene in chinese breast cancer patients,W
+Breast Cancer,PIK3CA,25401474,alias(v1),pi3k,X,G,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,745,lyn-activating mutations mediate antiestrogen resistance in estrogen receptor-positive breast cancer,G
+Breast Cancer,PIK3CA,23948973,alias(v1),pi3k,X,W,target,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,960,human breast cancer cells harboring a gatekeeper t798m mutation in her2 overexpress egfr ligands and are sensitive to dual inhibition of egf,W
+Breast Cancer,PIK3CA,27129168,top15(v1),pik3ca,C,M,target,symbol 'PIK3CA' present,2,tp53 mutations and protein immunopositivity may predict for poor outcome but also for trastuzumab benefit in patients with early breast canc,M
+Breast Cancer,PIK3CA,31277699,top15(v1),pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,3,phase ii trial of akt inhibitor mk-2206 in patients with advanced breast cancer who have tumors with pik3ca or akt mutations and or pten los,M
+Breast Cancer,PIK3CA,19844788,top15(v1),pik3ca,C,M,,symbol 'PIK3CA' present,5,phosphatidyl-inositol-3-kinase alpha catalytic subunit mutation and response to neoadjuvant endocrine therapy for estrogen receptor positive,M
+Breast Cancer,PIK3CA,24722917,top15(v1),pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,10,characterization of breast cancers with pi3k mutations in an academic practice setting using snapshot profiling,M
+Breast Cancer,PIK3CA,32554602,top15(v1),pik3ca,C,M,,symbol 'PIK3CA' present,12,clinical characteristics and exploratory genomic analyses of germline brca1 or brca2 mutations in breast cancer,M
+Breast Cancer,PIK3CA,38837894,top15(v1),pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,15,an analysis of pik3ca hotspot mutations and response to neoadjuvant therapy in patients with breast cancer from four prospective clinical tr,M
+Breast Cancer,PIK3CA,19671852,top15(v1),pik3ca,C,M,,symbol 'PIK3CA' present,18,pik3ca mutation associates with improved outcome in breast cancer,M
+Breast Cancer,PIK3CA,37341201,top15(v1),pik3ca,C,M,,symbol 'PIK3CA' present,19,association between pik3ca activating mutations and outcomes in early-stage invasive lobular breast carcinoma treated with adjuvant systemic,M
+Breast Cancer,PIK3CA,32404150,top15(v1),pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,21,frequency and spectrum of pik3ca somatic mutations in breast cancer,M
+Breast Cancer,PIK3CA,36934165,top15(v1),pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,37,pik3ca and pik3r1 tumor mutational landscape in a pan-cancer patient cohort and its association with pathway activation and treatment effica,M
+Breast Cancer,PIK3CA,23592373,top15(v1),pik3ca,C,M,,symbol 'PIK3CA' present,41,hotspot mutations in pik3ca associate with first-line treatment outcome for aromatase inhibitors but not for tamoxifen,M
+Breast Cancer,PIK3CA,25422220,top15(v1),phosphatidylinositol 4 5 bisphosphate 3 kinase catalytic subunit alpha|pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,50,detection of pik3ca gene mutations with hrm analysis and association with igfbp-5 expression levels in breast cancer,M
+Breast Cancer,PIK3CA,40016671,top15(v1),pik3ca,C,M,,symbol 'PIK3CA' present,51,pik3ca gene mutation status associated with poor prognosis of breast cancer a retrospective cohort study,M
+Breast Cancer,PIK3CA,33047659,top15(v1),pik3ca,C,M,,symbol 'PIK3CA' present,55,clinical-pathologic analysis of breast cancer with pik3ca mutations in chinese women,M
+Breast Cancer,PIK3CA,32638235,top15(v1),pik3ca,C,ML,,symbol 'PIK3CA' present,61,genetic mutation profile of chinese her2-positive breast cancers and genetic predictors of responses to neoadjuvant anti-her2 therapy,ML
+Breast Cancer,PIK3CA,29482551,random25(v1),pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,111,clinical significance of plasma cell-free dna mutations in pik3ca akt1 and esr1 gene according to treatment lines in er-positive breast canc,M
+Breast Cancer,PIK3CA,38884134,random25(v1),pik3ca,C,M,,symbol 'PIK3CA' present,139,analysis of pik3ca mutations in the primary and recurrent tumors of hormone receptor positive human epidermal growth factor receptor 2 negat,M
+Breast Cancer,PIK3CA,25542038,random25(v1),pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,152,an integrative analysis of pik3ca mutation pten and inpp4b expression in terms of trastuzumab efficacy in her2-positive breast cancer,M
+Breast Cancer,PIK3CA,30181556,random25(v1),pik3ca,C,M,,symbol 'PIK3CA' present,163,the prognostic effects of somatic mutations in er-positive breast cancer,M
+Breast Cancer,PIK3CA,35778737,random25(v1),pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,205,mutational landscape of pan-cancer patients with pik3ca alterations in chinese population,M
+Breast Cancer,PIK3CA,18375489,random25(v1),pik3ca,C,M,,symbol 'PIK3CA' present,271,multiplexed assays for detection of mutations in pik3ca,M
+Breast Cancer,PIK3CA,41261306,random25(v1),pik3ca,C,M,,symbol 'PIK3CA' present,325,translating genomic insights into therapy an ngs-based mutation profiling study in breast cancer,M
+Breast Cancer,PIK3CA,32929011,random25(v1),pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,327,pik3ca c-terminal frameshift mutations are novel oncogenic events that sensitize tumors to pi3k- inhibition,M
+Breast Cancer,PIK3CA,25757876,random25(v1),pik3ca,C,M,,symbol 'PIK3CA' present,377,rapid detection of genetic mutations in individual breast cancer patients by next-generation dna sequencing,M
+Breast Cancer,PIK3CA,35731312,random25(v1),pik3ca,C,M,,symbol 'PIK3CA' present,391,brca1 brca2 tp53 pik3ca pten and akt1 genes mutations in burkina faso breast cancer patients prevalence spectrum and novel variant,M
+Breast Cancer,PIK3CA,39012846,random25(v1),phosphatidylinositol 4 5 bisphosphate 3 kinase catalytic subunit alpha|pik3ca,C,M,,symbol 'PIK3CA' present,406,a multiplex assay for fast pik3ca hotspot mutation characterization in a single specimen by 3-color digital pcr analysis,M
+Breast Cancer,PIK3CA,22245973,random25(v1),pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,425,phase ii trial of temsirolimus in patients with metastatic breast cancer,M
+Breast Cancer,PIK3CA,33051521,random25(v1),pik3ca,C,M,,symbol 'PIK3CA' present,477,pik3ca mutation enrichment and quantitation from blood and tissue,M
+Breast Cancer,PIK3CA,34888385,random25(v1),pik3ca,C,I,,symbol 'PIK3CA' present,496,bioinformatic analysis of immune significance of ryr2 mutation in breast cancer,I
+Breast Cancer,PIK3CA,26627007,random25(v1),pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,513,identification of variant-specific functions of pik3ca by rapid phenotyping of rare mutations,M
+Breast Cancer,PIK3CA,21617917,random25(v1),pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,515,pik3ca mutations rarely demonstrate genotypic intratumoral heterogeneity and are selected for in breast cancer progression,M
+Breast Cancer,PIK3CA,35842959,random25(v1),pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,640,comparative molecular dynamics analyses on pik3ca hotspot mutations with pi3k specific inhibitors and atp,M
+Breast Cancer,PIK3CA,35621626,random25(v1),pik3ca,C,M,,symbol 'PIK3CA' present,781,pik3ca mutation as potential poor prognostic marker in asian female breast cancer patients who received adjuvant chemotherapy,M
+Breast Cancer,PIK3CA,26353837,random25(v1),pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,795,prognostic role of pik3ca mutations of cell-free dna in early-stage triple negative breast cancer,M
+Breast Cancer,PIK3CA,16397024,random25(v1),pik3ca,C,ML,,symbol 'PIK3CA' present,826,somatic mutations of erbb2 kinase domain in gastric colorectal and breast carcinomas,ML
+Breast Cancer,PIK3CA,19276248,random25(v1),pik3ca,C,M,,symbol 'PIK3CA' present,894,androgen receptor levels and association with pik3ca mutations and prognosis in breast cancer,M
+Breast Cancer,PIK3CA,25969993,random25(v1),pik3ca,C,M,,symbol 'PIK3CA' present,928,using the mcf10a mcf10ca1a breast cancer progression cell line model to investigate the effect of active mutant forms of egfr in breast canc,M
+Breast Cancer,PIK3CA,27765917,random25(v1),pik3ca,C,G,,symbol 'PIK3CA' present,944,somatic alterations of targetable oncogenes are frequently observed in brca1 2 mutation negative male breast cancers,G
+Breast Cancer,PIK3CA,27811364,random25(v1),pik3ca,C,ML,,symbol 'PIK3CA' present,962,erbb2 mutation is associated with a worse prognosis in patients with cdh1 altered invasive lobular cancer of the breast,ML
+Breast Cancer,PIK3CA,22550168,random25(v1),pik3ca,C,M,,symbol 'PIK3CA' present,985,beaming up personalized medicine mutation detection in blood,M
+Breast Cancer,TP53,27129168,top15(v1),tp53,C,M,target,symbol 'TP53' present,2,tp53 mutations and protein immunopositivity may predict for poor outcome but also for trastuzumab benefit in patients with early breast canc,M
+Breast Cancer,TP53,38976158,top15(v1),tp53,C,ML,,symbol 'TP53' present,9,demographics and clinical decision making in patients with germline moderate penetrance non-brca mutations in breast cancer related genes,ML
+Breast Cancer,TP53,32554602,top15(v1),tp53,C,M,,symbol 'TP53' present,12,clinical characteristics and exploratory genomic analyses of germline brca1 or brca2 mutations in breast cancer,M
+Breast Cancer,TP53,31119730,top15(v1),tp53,C,M,,symbol 'TP53' present,13,prevalence and clinical impact of tp53 germline mutations in chinese women with breast cancer,M
+Breast Cancer,TP53,32091585,top15(v1),tp53,C,ML,,symbol 'TP53' present,14,the contribution of germline predisposition gene mutations to clinical subtypes of invasive breast cancer from a clinical genetic testing co,ML
+Breast Cancer,TP53,32436611,top15(v1),tp53,C,M,target,symbol 'TP53' present,17,clinical spectrum and prognostic value of tp53 mutations in circulating tumor dna from breast cancer patients in china,M
+Breast Cancer,TP53,30257646,top15(v1),tp53,C,M,,symbol 'TP53' present,20,addition of triple negativity of breast cancer as an indicator for germline mutations in predisposing genes increases sensitivity of clinica,M
+Breast Cancer,TP53,18465328,top15(v1),tp53,C,M,,symbol 'TP53' present,23,a comparison between p53 accumulation determined by immunohistochemistry and tp53 mutations as prognostic variables in tumours from breast c,M
+Breast Cancer,TP53,41402909,top15(v1),tp53,C,M,,symbol 'TP53' present,24,map3k1 map2k4 mutations drive breast cancer progression by compensating for tp53 loss through inactivation of the jnk2-p53-fosl1 axis,M
+Breast Cancer,TP53,32412177,top15(v1),tp53,C,M,,symbol 'TP53' present,27,impact of tp53 mutations in breast cancer clinicopathological features and prognosisimpact of tp53 mutations in breast ca,M
+Breast Cancer,TP53,26910472,top15(v1),tp53,C,M,,symbol 'TP53' present,36,association between mutation and expression of tp53 as a potential prognostic marker of triple-negative breast cancer,M
+Breast Cancer,TP53,38900212,top15(v1),tp53,C,M,,symbol 'TP53' present,44,p53 protein expression patterns associated with tp53 mutations in breast carcinoma,M
+Breast Cancer,TP53,34403063,top15(v1),tp53,C,I,,symbol 'TP53' present,52,high chromosome instability identified by low-pass whole-genome sequencing assay is associated with tp53 copy loss and worse prognosis in br,I
+Breast Cancer,TP53,23359294,top15(v1),tp53,C,M,,symbol 'TP53' present,57,only missense mutations affecting the dna binding domain of p53 influence outcomes in patients with breast carcinoma,M
+Breast Cancer,TP53,35286522,top15(v1),tp53,C,M,,symbol 'TP53' present,58,differences in somatic tp53 mutation type in breast tumors by race and receptor status,M
+Breast Cancer,TP53,27806348,random25(v1),tp53,C,M,,symbol 'TP53' present,99,clinical outcomes based on multigene profiling in metastatic breast cancer patients,M
+Breast Cancer,TP53,38159086,random25(v1),tp53,C,M,,symbol 'TP53' present,156,a novel germline mutation of brca1 and integrated analysis with somatic mutation in a chinese multi-cancer family,M
+Breast Cancer,TP53,29807833,random25(v1),tp53,C,M,,symbol 'TP53' present,157,identifying circulating tumor dna mutation profiles in metastatic breast cancer patients with multiline resistance,M
+Breast Cancer,TP53,33219484,random25(v1),tp53,C,ML,,symbol 'TP53' present,256,mutation profile differences in younger and older patients with advanced breast cancer using circulating tumor dna ctdna,ML
+Breast Cancer,TP53,42055234,random25(v1),tp53,C,M,,symbol 'TP53' present,266,comparison of the somatic mutations in breast carcinomas in sporadic and brca1 carrier patients through targeted next generation sequencing,M
+Breast Cancer,TP53,32817165,random25(v1),tp53,C,M,,symbol 'TP53' present,290,a pedigree-based prediction model identifies carriers of deleterious de novo mutations in families with li-fraumeni syndrome,M
+Breast Cancer,TP53,35180531,random25(v1),tp53,C,M,,symbol 'TP53' present,318,comparison of mutational profiles between triple-negative and hormone receptor-positive human epidermal growth factor receptor 2-negative br,M
+Breast Cancer,TP53,21512767,random25(v1),tp53,C,W,,symbol 'TP53' present,385,mutational characterization of individual breast tumors tp53 and pi3k pathway genes are frequently and distinctively mutated in different su,W
+Breast Cancer,TP53,30607672,random25(v1),tp53,C,M,,symbol 'TP53' present,415,tp53 germline mutation testing in early-onset breast cancer findings from a nationwide cohort,M
+Breast Cancer,TP53,31481248,random25(v1),tp53,C,M,,symbol 'TP53' present,487,using next-generation sequencing ngs platform to diagnose pathogenic germline brca1 2 mutations from archival tumor specimens,M
+Breast Cancer,TP53,21562711,random25(v1),tp53,C,ML,,symbol 'TP53' present,499,two new chek2 germ-line variants detected in breast cancer sarcoma families negative for brca1 brca2 and tp53 gene mutations,ML
+Breast Cancer,TP53,38379328,random25(v1),tp53,C,M,,symbol 'TP53' present,516,somatic mutations in a multigene panel and impact on prognosis based on tp53 status in chinese her2-positive patients undergoing neoadjuvant,M
+Breast Cancer,TP53,31871109,random25(v1),tp53,C,ML,,symbol 'TP53' present,559,prevalence of inherited mutations in breast cancer predisposition genes among women in uganda and cameroon,ML
+Breast Cancer,TP53,23580068,random25(v1),tp53,C,M,,symbol 'TP53' present,565,prevalence of germline tp53 mutations in her2 breast cancer patients,M
+Breast Cancer,TP53,26238069,random25(v1),tp53,C,M,,symbol 'TP53' present,583,tp53 mutations are associated with higher rates of pathologic complete response to anthracycline cyclophosphamide-based neoadjuvant chemothe,M
+Breast Cancer,TP53,32068069,random25(v1),tp53,C,ML,,symbol 'TP53' present,591,germline mutation in 1338 brca-negative chinese hereditary breast and or ovarian cancer patients clinical testing with a multigene test pane,ML
+Breast Cancer,TP53,35450798,random25(v1),tp53,C,M,,symbol 'TP53' present,610,ultrasonic features and molecular subtype predict somatic mutations in tp53 and pik3ca genes in breast cancer,M
+Breast Cancer,TP53,27714481,random25(v1),tp53,C,M,,symbol 'TP53' present,626,tp53 and cdkn1a mutation analysis in families with li-fraumeni and li-fraumeni like syndromes,M
+Breast Cancer,TP53,35579744,random25(v1),tp53,C,ML,,symbol 'TP53' present,663,identifying circulating tumor dna mutations associated with neoadjuvant chemotherapy efficacy in local advanced breast cancer,ML
+Breast Cancer,TP53,23806170,random25(v1),tp53,C,M,,symbol 'TP53' present,673,constitutional chek2 mutations are infrequent in early-onset and familial breast ovarian cancer patients from pakistan,M
+Breast Cancer,TP53,14722922,random25(v1),tp53,C,M,,symbol 'TP53' present,805,novel tp53 gene mutations in tumors of russian patients with breast cancer detected using a new solid phase chemical cleavage of mismatch me,M
+Breast Cancer,TP53,30443844,random25(v1),tp53,C,I,,symbol 'TP53' present,818,the gene mutation spectrum of breast cancer analyzed by semiconductor sequencing platform,I
+Breast Cancer,TP53,22187033,random25(v1),tp53,C,M,,symbol 'TP53' present,830,high frequency of complex tp53 mutations in cns metastases from breast cancer,M
+Breast Cancer,TP53,35205366,random25(v1),tp53,C,I,,symbol 'TP53' present,895,pancreatic cancer with mutation in brca1 2 mlh1 and apc genes phenotype correlation and detection of a novel germline brca2 mutation,I
+Breast Cancer,TP53,39191994,random25(v1),tp53,C,M,,symbol 'TP53' present,995,aberrant p53 immunostaining patterns in breast carcinoma of no special type strongly correlate with presence and type of tp53 mutations,M
+Breast Cancer,ERBB2,22614657,alias(v1),her 2,C,G,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,186,prevalence of brca mutations in an unselected population of triple-negative breast cancer,G
+Breast Cancer,ERBB2,23175448,alias(v1),her 2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,201,brca1 germ-line mutations and tumor characteristics in eastern chinese women with familial breast cancer,P
+Breast Cancer,ERBB2,18405391,alias(v1),her 2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,372,expression of estrogen receptor beta in the breast carcinoma of brca1 mutation carriers,P
+Breast Cancer,ERBB2,37283256,alias(v1),her 2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,829,prevalence of brca1 and brca2 mutations among high-risk bahraini patients with breast cancer,P
+Breast Cancer,ERBB2,18512148,alias(v1),her 2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,838,brca1 germline mutations and tumor characteristics in chinese women with familial or early-onset breast cancer,P
+Breast Cancer,ERBB2,22192147,alias(v1),her 2,C,I,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,999,lack of egfr-activating mutations in european patients with triple-negative breast cancer could emphasise geographic and ethnic variations i,I
+Breast Cancer,ERBB2,27129168,top15(v1),her2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,2,tp53 mutations and protein immunopositivity may predict for poor outcome but also for trastuzumab benefit in patients with early breast canc,P
+Breast Cancer,ERBB2,35241469,top15(v1),her2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,11,randomised open-label multicentric phase iii trial to evaluate the safety and efficacy of palbociclib in combination with endocrine therapy ,P
+Breast Cancer,ERBB2,32091585,top15(v1),her2,C,ML,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,14,the contribution of germline predisposition gene mutations to clinical subtypes of invasive breast cancer from a clinical genetic testing co,ML
+Breast Cancer,ERBB2,38837894,top15(v1),her2,C,G,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,15,an analysis of pik3ca hotspot mutations and response to neoadjuvant therapy in patients with breast cancer from four prospective clinical tr,G
+Breast Cancer,ERBB2,32436611,top15(v1),her2,C,I,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,17,clinical spectrum and prognostic value of tp53 mutations in circulating tumor dna from breast cancer patients in china,I
+Breast Cancer,ERBB2,19671852,top15(v1),her2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,18,pik3ca mutation associates with improved outcome in breast cancer,P
+Breast Cancer,ERBB2,32404150,top15(v1),her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,21,frequency and spectrum of pik3ca somatic mutations in breast cancer,M
+Breast Cancer,ERBB2,32412177,top15(v1),her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,27,impact of tp53 mutations in breast cancer clinicopathological features and prognosisimpact of tp53 mutations in breast ca,M
+Breast Cancer,ERBB2,34670536,top15(v1),her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,31,hotspot mutation profiles of akt1 in asian women with breast and endometrial cancers,M
+Breast Cancer,ERBB2,41055979,top15(v1),her2,C,I,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,33,distinct and convergent effects of sf3b1 mutations in human breast cancer,I
+Breast Cancer,ERBB2,26910472,top15(v1),her2,C,I,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,36,association between mutation and expression of tp53 as a potential prognostic marker of triple-negative breast cancer,I
+Breast Cancer,ERBB2,36934165,top15(v1),her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,37,pik3ca and pik3r1 tumor mutational landscape in a pan-cancer patient cohort and its association with pathway activation and treatment effica,M
+Breast Cancer,ERBB2,28164408,top15(v1),her2,C,M,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,40,her2 somatic mutations are associated with poor survival in her2-negative breast cancers,M
+Breast Cancer,ERBB2,23592373,top15(v1),her2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,41,hotspot mutations in pik3ca associate with first-line treatment outcome for aromatase inhibitors but not for tamoxifen,P
+Breast Cancer,ERBB2,30301790,top15(v1),erbb2|her2,C,M,target,symbol 'ERBB2' present,42,neratinib is effective in breast tumors bearing both amplification and mutation of erbb2 her2,M
+Breast Cancer,ERBB2,24803582,random25(v1),her2,C,I,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,70,tp53 mutation spectrum in breast cancer is subtype specific and has distinct prognostic relevance,I
+Breast Cancer,ERBB2,27806348,random25(v1),her2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,99,clinical outcomes based on multigene profiling in metastatic breast cancer patients,P
+Breast Cancer,ERBB2,34171264,random25(v1),erbb2|her2,C,M,target,symbol 'ERBB2' present,101,co-occurring gain-of-function mutations in her2 and her3 modulate her2 her3 activation oncogenesis and her2 inhibitor sensitivity,M
+Breast Cancer,ERBB2,40685698,random25(v1),her 2|her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,184,pathologic complete response after neoadjuvant chemotherapy for her-2 negative breast cancer with hrr mutation,M
+Breast Cancer,ERBB2,42353852,random25(v1),her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,189,domain-level distribution of pathogenic brca1 2 somatic mutations shows no evidence of large subtype-specific enrichment in breast cancer a ,M
+Breast Cancer,ERBB2,27611952,random25(v1),her2,C,M,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,257,role of tp53 mutations in triple negative and her2-positive breast cancer treated with neoadjuvant anthracycline taxane-based chemotherapy,M
+Breast Cancer,ERBB2,24970867,random25(v1),erbb2,C,I,,symbol 'ERBB2' present,260,integrated rna and dna sequencing improves mutation detection in low purity tumors,I
+Breast Cancer,ERBB2,26452060,random25(v1),her2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,268,significance of pik3ca mutations in patients with early breast cancer treated with adjuvant chemotherapy a hellenic cooperative oncology gro,P
+Breast Cancer,ERBB2,33559918,random25(v1),her2,C,M,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,300,effects of ado-trastuzumab emtansine and fam-trastuzumab deruxtecan on metastatic breast cancer harboring her2 amplification and the l755s m,M
+Breast Cancer,ERBB2,38403109,random25(v1),her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,321,clinical sequencing defines the somatic and germline mutation landscapes of chinese her2-low breast cancer,M
+Breast Cancer,ERBB2,41261306,random25(v1),erbb2,C,I,,symbol 'ERBB2' present,325,translating genomic insights into therapy an ngs-based mutation profiling study in breast cancer,I
+Breast Cancer,ERBB2,17221157,random25(v1),erbb2,C,M,,symbol 'ERBB2' present,396,type of tp53 mutation and erbb2 amplification affects survival in node-negative breast cancer,M
+Breast Cancer,ERBB2,24471188,random25(v1),her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,405,analysis of pik3ca mutations in breast cancer subtypes,M
+Breast Cancer,ERBB2,25027743,random25(v1),her2,C,ML,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,458,pik3ca mutations are a predictor of docetaxel plus epirubicin neoadjuvant chemotherapy clinical efficacy in breast cancer,ML
+Breast Cancer,ERBB2,38379328,random25(v1),erbb2|her2,C,M,,symbol 'ERBB2' present,516,somatic mutations in a multigene panel and impact on prognosis based on tp53 status in chinese her2-positive patients undergoing neoadjuvant,M
+Breast Cancer,ERBB2,29110152,random25(v1),her2,C,I,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,518,low pten levels and pik3ca mutations predict resistance to neoadjuvant lapatinib and trastuzumab without chemotherapy in patients with her2 ,I
+Breast Cancer,ERBB2,18829572,random25(v1),erbb2,C,ML,,symbol 'ERBB2' present,548,pik3ca cooperates with other phosphatidylinositol 3'-kinase pathway mutations to effect oncogenic transformation,ML
+Breast Cancer,ERBB2,35970028,random25(v1),her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,619,prognostic significance of germline brca mutations in patients with her2-positive breast cancer,M
+Breast Cancer,ERBB2,28243898,random25(v1),erbb2,C,M,,symbol 'ERBB2' present,716,identification of frequent somatic mutations in inflammatory breast cancer,M
+Breast Cancer,ERBB2,32919527,random25(v1),her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,822,circulating tumour dna analysis to direct therapy in advanced breast cancer plasmamatch a multicentre multicohort phase 2a platform trial,M
+Breast Cancer,ERBB2,21490305,random25(v1),her2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,886,pi3k pathway mutations and pten levels in primary and metastatic breast cancer,P
+Breast Cancer,ERBB2,36367572,random25(v1),her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,902,proficiency testing of pik3ca mutations in hr her2-breast cancer on liquid biopsy and tissue,M
+Breast Cancer,ERBB2,23092874,random25(v1),her2,C,M,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,937,frequent mutational activation of the pi3k-akt pathway in trastuzumab-resistant breast cancer,M
+Breast Cancer,ERBB2,27765917,random25(v1),her2,C,G,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,944,somatic alterations of targetable oncogenes are frequently observed in brca1 2 mutation negative male breast cancers,G
+Breast Cancer,ERBB2,39191994,random25(v1),her2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,995,aberrant p53 immunostaining patterns in breast carcinoma of no special type strongly correlate with presence and type of tp53 mutations,P
+Breast Cancer,PALB2,38976158,all,palb2,C,ML,,symbol 'PALB2' present,9,demographics and clinical decision making in patients with germline moderate penetrance non-brca mutations in breast cancer related genes,ML
+Breast Cancer,PALB2,32091585,all,palb2,C,ML,,symbol 'PALB2' present,14,the contribution of germline predisposition gene mutations to clinical subtypes of invasive breast cancer from a clinical genetic testing co,ML
+Breast Cancer,PALB2,30257646,all,palb2,C,ML,,symbol 'PALB2' present,20,addition of triple negativity of breast cancer as an indicator for germline mutations in predisposing genes increases sensitivity of clinica,ML
+Breast Cancer,PALB2,30720863,all,palb2,C,M,,symbol 'PALB2' present,32,prevalence and clinical outcomes of germline mutations in brca1 2 and palb2 genes in 2769 unselected breast cancer patients in china,M
+Breast Cancer,PALB2,33119476,all,palb2,C,M,,symbol 'PALB2' present,43,tbcrc 048 phase ii study of olaparib for metastatic breast cancer and mutations in homologous recombination-related genes,M
+Breast Cancer,PALB2,25959805,all,palb2,C,M,,symbol 'PALB2' present,45,clinical outcomes in women with breast cancer and a palb2 mutation a prospective cohort analysis,M
+Breast Cancer,PALB2,25575445,all,palb2,C,M,,symbol 'PALB2' present,81,mutation screening of palb2 in clinically ascertained families from the breast cancer family registry,M
+Breast Cancer,PALB2,31768816,all,palb2,C,M,,symbol 'PALB2' present,85,spectrum and clinical relevance of palb2 germline mutations in 7657 chinese brca1 2-negative breast cancer patients,M
+Breast Cancer,PALB2,32996020,all,palb2,C,M,,symbol 'PALB2' present,96,clinicopathological features and outcomes in individuals with breast cancer and atm chek2 or palb2 mutations,M
+Breast Cancer,PALB2,24415441,all,palb2,C,M,,symbol 'PALB2' present,130,comprehensive sequencing of palb2 in patients with breast cancer suggests palb2 mutations explain a subset of hereditary breast cancer,M
+Breast Cancer,PALB2,23941127,all,palb2,C,M,,symbol 'PALB2' present,132,evaluation of the need for routine clinical testing of palb2 c 1592delt mutation in brca negative northern finnish breast cancer families,M
+Breast Cancer,PALB2,32058061,all,palb2,C,M,,symbol 'PALB2' present,137,brca and palb2 mutations in a cohort of male breast cancer with one bilateral case,M
+Breast Cancer,PALB2,32029870,all,palb2,C,M,,symbol 'PALB2' present,143,germline mutations of multiple breast cancer-related genes are differentially associated with triple-negative breast cancers and prognostic ,M
+Breast Cancer,PALB2,28825143,all,palb2|partner and localizer of brca2,C,M,,symbol 'PALB2' present,173,germline mutations of palb2 gene in a sequential series of chinese patients with breast cancer,M
+Breast Cancer,PALB2,26440929,all,palb2,C,ML,,symbol 'PALB2' present,202,identification of germline genetic mutations in patients with pancreatic cancer,ML
+Breast Cancer,PALB2,25452441,all,palb2,C,I,,symbol 'PALB2' present,272,inherited mutations in 17 breast cancer susceptibility genes among a large triple-negative breast cancer cohort unselected for family histor,I
+Breast Cancer,PALB2,36966080,all,palb2|partner and localizer of brca2,C,M,,symbol 'PALB2' present,273,diagnosis management and surveillance for patients with palb2 chek2 and atm gene mutations,M
+Breast Cancer,PALB2,25925845,all,palb2,C,I,,symbol 'PALB2' present,274,germline tp53 mutational spectrum in french canadians with breast cancer,I
+Breast Cancer,PALB2,23448497,all,palb2,C,M,,symbol 'PALB2' present,286,prevalence of palb2 mutations in australasian multiple-case breast cancer families,M
+Breast Cancer,PALB2,31409080,all,palb2,C,ML,,symbol 'PALB2' present,306,germline chek2 gene mutations in hereditary breast cancer predisposition - mutation types and their biological and clinical relevance,ML
+Breast Cancer,PALB2,26182300,all,palb2,C,I,,symbol 'PALB2' present,308,hereditary diffuse gastric cancer syndrome cdh1 mutations and beyond,I
+Breast Cancer,PALB2,25666743,all,palb2,C,M,,symbol 'PALB2' present,313,analysis of palb2 in a cohort of italian breast cancer patients identification of a novel palb2 truncating mutation,M
+Breast Cancer,PALB2,23787919,all,palb2,C,M,,symbol 'PALB2' present,319,tumour morphology predicts palb2 germline mutation status,M
+Breast Cancer,PALB2,21365267,all,palb2|partner and localizer of brca2,C,M,,symbol 'PALB2' present,328,palb2 mutations in familial breast and pancreatic cancer,M
+Breast Cancer,PALB2,25330149,all,palb2,C,ML,,symbol 'PALB2' present,332,mutations predisposing to breast cancer in 12 candidate genes in breast cancer patients from poland,ML
+Breast Cancer,PALB2,25186627,all,palb2,C,I,,symbol 'PALB2' present,340,frequency of mutations in individuals with breast cancer referred for brca1 and brca2 testing using next-generation sequencing with a 25-gen,I
+Breast Cancer,PALB2,34467476,all,palb2,C,M,,symbol 'PALB2' present,344,prevalence of mutations in brca and homologous recombination repair genes and real-world standard of care of asian patients with her2-negati,M
+Breast Cancer,PALB2,32339256,all,palb2,C,M,,symbol 'PALB2' present,388,spectrum of palb2 germline mutations and characteristics of palb2-related breast cancer screening of 16 501 unselected patients with breast ,M
+Breast Cancer,PALB2,26573693,all,palb2|partner and localizer of brca2,C,M,,symbol 'PALB2' present,395,development of a novel ptt assay for mutation detection in palb2 large exons and palb2 screening in medullary breast cancer,M
+Breast Cancer,PALB2,24884479,all,palb2,C,I,,symbol 'PALB2' present,403,hereditary breast and ovarian cancer assessment of point mutations and copy number variations in brazilian patients,I
+Breast Cancer,PALB2,28837162,all,fancn|palb2,C,I,,symbol 'PALB2' present,411,individuals with fancm biallelic mutations do not develop fanconi anemia but show risk for breast cancer chemotherapy toxicity and may displ,I
+Breast Cancer,PALB2,33229504,all,palb2,C,M,,symbol 'PALB2' present,417,molecular characteristics of brca1 2 and palb2 mutations in pancreatic ductal adenocarcinoma,M
+Breast Cancer,PALB2,25099575,all,palb2,C,M,,symbol 'PALB2' present,452,breast-cancer risk in families with mutations in palb2,M
+Breast Cancer,PALB2,38062336,all,palb2,C,I,,symbol 'PALB2' present,461,breast cancers in monoallelic mutyh germline mutation carriers have clinicopathological features overlapping with those in brca1 germline mu,I
+Breast Cancer,PALB2,27798748,all,palb2,C,I,,symbol 'PALB2' present,472,revisiting breast cancer patients who previously tested negative for brca mutations using a 12-gene panel,I
+Breast Cancer,PALB2,31481248,all,palb2,C,M,,symbol 'PALB2' present,487,using next-generation sequencing ngs platform to diagnose pathogenic germline brca1 2 mutations from archival tumor specimens,M
+Breast Cancer,PALB2,36292577,all,palb2,C,I,,symbol 'PALB2' present,503,increased risk of hereditary prostate cancer in italian families with hereditary breast and ovarian cancer syndrome harboring mutations in b,I
+Breast Cancer,PALB2,41823437,all,palb2,C,M,,symbol 'PALB2' present,525,prediction of specific survival and clinicopathological impact of somatic palb2 mutations and pathogenic likely pathogenic variants pv lpv i,M
+Breast Cancer,PALB2,23824750,all,palb2,C,M,,symbol 'PALB2' present,530,low prevalence of germline palb2 mutations in australian triple-negative breast cancer,M
+Breast Cancer,PALB2,38608781,all,palb2,C,P,,symbol 'PALB2' present,536,immunohistochemical findings and clinicopathological features of breast cancers with pathogenic germline mutations in non-brca genes,P
+Breast Cancer,PALB2,31871109,all,palb2,C,I,,symbol 'PALB2' present,559,prevalence of inherited mutations in breast cancer predisposition genes among women in uganda and cameroon,I
+Breast Cancer,PALB2,21618343,all,palb2|partner and localizer of brca2,C,M,,symbol 'PALB2' present,560,germline mutations in the palb2 gene are population specific and occur with low frequencies in familial breast cancer,M
+Breast Cancer,PALB2,30309218,all,palb2|partner and localizer of brca2,C,M,,symbol 'PALB2' present,576,prevalence of palb2 germline mutations in early-onset and familial breast ovarian cancer patients from pakistan,M
+Breast Cancer,PALB2,32068069,all,palb2,C,M,,symbol 'PALB2' present,591,germline mutation in 1338 brca-negative chinese hereditary breast and or ovarian cancer patients clinical testing with a multigene test pane,M
+Breast Cancer,PALB2,24153426,all,palb2,C,M,,symbol 'PALB2' present,593,heterozygous mutations in palb2 cause dna replication and damage response defects,M
+Breast Cancer,PALB2,36672847,all,palb2,C,I,,symbol 'PALB2' present,595,frequency of pathogenic germline mutations in early and late onset familial breast cancer patients using multi-gene panel sequencing an egyp,I
+Breast Cancer,PALB2,30612783,all,palb2,C,I,,symbol 'PALB2' present,602,women with breast and uterine cancer are more likely to harbor germline mutations than women with breast or uterine cancer alone a case for ,I
+Breast Cancer,PALB2,23110154,all,palb2,C,ML,,symbol 'PALB2' present,638,mutation analysis of brca1 brca2 palb2 and brd7 in a hospital-based series of german patients with triple-negative breast cancer,ML
+Breast Cancer,PALB2,26577449,all,palb2,C,M,,symbol 'PALB2' present,664,brca1 brca2 and palb2 mutations and chek2 c 1100delc in different south african ethnic groups diagnosed with premenopausal and or triple neg,M
+Breast Cancer,PALB2,22166947,all,palb2,C,M,,symbol 'PALB2' present,701,routine testing for palb2 mutations in familial pancreatic cancer families and breast cancer families with pancreatic cancer is not indicate,M
+Breast Cancer,PALB2,19763884,all,palb2,C,M,,symbol 'PALB2' present,711,a palb2 germline mutation associated with hereditary breast cancer in italy,M
+Breast Cancer,PALB2,37373225,all,palb2,C,ML,,symbol 'PALB2' present,792,p53 dysregulation in breast cancer insights on mutations in the tp53 network and p53 isoform expression,ML
+Breast Cancer,PALB2,28279176,all,palb2,C,M,,symbol 'PALB2' present,820,palb2 mutations in brca1 2-mutation negative breast and ovarian cancer patients from poland,M
+Breast Cancer,PALB2,35610400,all,palb2,C,M,,symbol 'PALB2' present,823,palb2 germline mutations in a multi-gene panel testing cohort of 1905 breast-ovarian cancer patients in argentina,M
+Breast Cancer,PALB2,19863560,all,palb2,C,ML,,symbol 'PALB2' present,845,the contribution of founder mutations to early-onset breast cancer in french-canadian women,ML
+Breast Cancer,PALB2,26976419,all,palb2,C,I,,symbol 'PALB2' present,862,frequency of germline mutations in 25 cancer susceptibility genes in a sequential series of patients with breast cancer,I
+Breast Cancer,PALB2,28709830,all,palb2,C,M,,symbol 'PALB2' present,874,pathologic findings in breast fallopian tube and ovary specimens in non-brca hereditary breast and or ovarian cancer syndromes a study of 18,M
+Breast Cancer,PALB2,35205366,all,palb2,C,I,,symbol 'PALB2' present,895,pancreatic cancer with mutation in brca1 2 mlh1 and apc genes phenotype correlation and detection of a novel germline brca2 mutation,I
+Breast Cancer,PALB2,20927582,all,palb2,C,M,,symbol 'PALB2' present,930,mutations in brca2 and palb2 in male breast cancer cases from the united states,M
+Breast Cancer,PALB2,38000681,all,palb2,C,ML,,symbol 'PALB2' present,938,spectrum of histopathologic findings in risk-reducing bilateral prophylactic mastectomy in patients with and without brca mutations,ML
+Breast Cancer,PALB2,20852946,all,palb2,C,M,,symbol 'PALB2' present,947,palb2 a novel inactivating mutation in a italian breast cancer family,M
+Breast Cancer,PALB2,32091409,all,palb2,C,I,,symbol 'PALB2' present,948,comparison of brca versus non-brca germline mutations and associated somatic mutation profiles in patients with unselected breast cancer,I
+Breast Cancer,PALB2,21285249,all,palb2,C,M,,symbol 'PALB2' present,957,contribution of inherited mutations in the brca2-interacting protein palb2 to familial breast cancer,M
+Breast Cancer,PALB2,30521987,all,palb2,C,M,,symbol 'PALB2' present,967,a palb2 truncating mutation implication in cancer prevention and therapy of hereditary breast and ovarian cancer,M
+Breast Cancer,PALB2,29422015,all,palb2,C,M,,symbol 'PALB2' present,972,is rnasel p glu265 a modifier of early-onset breast cancer risk for carriers of high-risk mutations,M
+Breast Cancer,ESR1,27532364,all,esr1,C,M,,symbol 'ESR1' present,1,prevalence of esr1 mutations in cell-free dna and outcomes in metastatic breast cancer a secondary analysis of the bolero-2 clinical trial,M
+Breast Cancer,ESR1,37924026,all,esr1,C,M,,symbol 'ESR1' present,6,clinical relevance of circulating esr1 mutations during endocrine therapy for advanced hormone-dependent endometrial carcinoma,M
+Breast Cancer,ESR1,32546646,all,esr1,C,M,,symbol 'ESR1' present,7,esr1 mutations and overall survival on fulvestrant versus exemestane in advanced hormone receptor-positive breast cancer a combined analysis,M
+Breast Cancer,ESR1,35241469,all,esr1,C,M,,symbol 'ESR1' present,11,randomised open-label multicentric phase iii trial to evaluate the safety and efficacy of palbociclib in combination with endocrine therapy ,M
+Breast Cancer,ESR1,32554602,all,esr1,C,P,,symbol 'ESR1' present,12,clinical characteristics and exploratory genomic analyses of germline brca1 or brca2 mutations in breast cancer,P
+Breast Cancer,ESR1,40714513,all,esr1,C,M,,symbol 'ESR1' present,78,circulating tumor dna mutational landscape and dynamics after progression on a cdk4 6 inhibitor in the pace phase ii trial for metastatic hr,M
+Breast Cancer,ESR1,29482551,all,esr1,C,M,,symbol 'ESR1' present,111,clinical significance of plasma cell-free dna mutations in pik3ca akt1 and esr1 gene according to treatment lines in er-positive breast canc,M
+Breast Cancer,ESR1,33626444,all,esr1|estrogen receptor 1,C,M,,symbol 'ESR1' present,113,sensitive quantitation of esr1 mutations in cell-free dna from breast cancer patients using base-specific invasive reaction assisted qpcr,M
+Breast Cancer,ESR1,37105452,all,esr1,C,M,,symbol 'ESR1' present,118,development of sensitive and robust multiplex digital pcr assays for the detection of esr1 mutations in the plasma of metastatic breast canc,M
+Breast Cancer,ESR1,39754401,all,esr1|estrogen receptor 1,C,M,,symbol 'ESR1' present,126,detection rate for esr1 mutations is higher in circulating-tumor-cell-derived genomic dna than in paired plasma cell-free dna samples as rev,M
+Breast Cancer,ESR1,32042112,all,esr1|estrogen receptor 1,C,M,,symbol 'ESR1' present,135,a single droplet digital pcr for esr1 activating mutations detection in plasma,M
+Breast Cancer,ESR1,32014063,all,esr1,C,M,,symbol 'ESR1' present,146,esr1 mutations are frequent in newly diagnosed metastatic and loco-regional recurrence of endocrine-treated breast cancer and carry worse pr,M
+Breast Cancer,ESR1,26681738,all,esr1,C,M,,symbol 'ESR1' present,170,esr1 mutations prevalent in some breast cancers,M
+Breast Cancer,ESR1,30375428,all,esr1,C,M,,symbol 'ESR1' present,174,a novel somatic mutation of sin3a detected in breast cancer by whole-exome sequencing enhances cell proliferation through er expression,M
+Breast Cancer,ESR1,41364261,all,esr1,C,M,target,symbol 'ESR1' present,183,assessing endocrine resistance monitoring circulating esr1 mutations in irosustat-treated er positive breast cancer,M
+Breast Cancer,ESR1,27174596,all,esr1,C,M,,symbol 'ESR1' present,192,heterogeneity and clinical significance of esr1 mutations in er-positive metastatic breast cancer patients receiving fulvestrant,M
+Breast Cancer,ESR1,27102299,all,esr1,C,M,,symbol 'ESR1' present,193,clinical significance of monitoring esr1 mutations in circulating cell-free dna in estrogen receptor positive breast cancer patients,M
+Breast Cancer,ESR1,26434753,all,esr1,C,M,,symbol 'ESR1' present,195,droplet digital polymerase chain reaction assay for screening of esr1 mutations in 325 breast cancer specimens,M
+Breast Cancer,ESR1,29166868,all,esr1,C,M,,symbol 'ESR1' present,208,prevalence of esr1 e380q mutation in tumor tissue and plasma from japanese breast cancer patients,M
+Breast Cancer,ESR1,38353504,all,esr1|estrogen receptor 1,C,M,,symbol 'ESR1' present,228,the clinical impact of plasma estrogen receptor-1 mutation in patients with metastatic breast cancer a meta-analysis,M
+Breast Cancer,ESR1,14584071,all,er alpha,C,P,,credited via alias er alpha,251,k-ras mutation in tamoxifen-related endometrial polyps,P
+Breast Cancer,ESR1,27801670,all,esr1,C,M,,symbol 'ESR1' present,253,kinetics prognostic and predictive values of esr1 circulating mutations in metastatic breast cancer patients progressing on aromatase inhibi,M
+Breast Cancer,ESR1,32859700,all,esr1,C,M,,symbol 'ESR1' present,299,longitudinal molecular imaging of progesterone receptor reveals early differential response to endocrine therapy in breast cancer with an ac,M
+Breast Cancer,ESR1,31548345,all,esr1,C,M,,symbol 'ESR1' present,322,early enrichment of esr1 mutations and the impact on gene expression in presurgical primary breast cancer treated with aromatase inhibitors,M
+Breast Cancer,ESR1,35121623,all,esr1,C,M,,symbol 'ESR1' present,336,clinical significance of pik3ca and esr1 mutations in circulating tumor dna analysis from the monarch 2 study of abemaciclib plus fulvestran,M
+Breast Cancer,ESR1,36198774,all,esr1,C,M,,symbol 'ESR1' present,352,genome engineering for estrogen receptor mutations reveals differential responses to anti-estrogens and new prognostic gene signatures for b,M
+Breast Cancer,ESR1,37226020,all,esr1,C,M,,symbol 'ESR1' present,361,plasma esr1 mutations and outcome to first-line paclitaxel and bevacizumab in patients with advanced er-positive her2-negative breast cancer,M
+Breast Cancer,ESR1,32020432,all,esr1,C,M,,symbol 'ESR1' present,368,clinical significance of gene mutation in ctdna analysis for hormone receptor-positive metastatic breast cancer,M
+Breast Cancer,ESR1,32466779,all,esr1,C,M,,symbol 'ESR1' present,381,risk of early progression according to circulating esr1 mutation ca-15 3 and cfdna increases under first-line anti-aromatase treatment in me,M
+Breast Cancer,ESR1,30094493,all,esr1,C,M,,symbol 'ESR1' present,420,activating human epidermal growth factor receptor 2 her2 gene mutation in bone metastases from breast cancer,M
+Breast Cancer,ESR1,33692409,all,esr1,C,M,,symbol 'ESR1' present,429,mutation analysis using cell-free dna for endocrine therapy in patients with hr metastatic breast cancer,M
+Breast Cancer,ESR1,41072730,all,esr1|estrogen receptor 1,C,M,,symbol 'ESR1' present,438,comparative performance of a targeted next-generation sequencing assay against multiplexed digital pcr assays in detecting erbb2 esr1 and pi,M
+Breast Cancer,ESR1,26500237,all,esr1,C,M,,symbol 'ESR1' present,444,sensitive detection of mono- and polyclonal esr1 mutations in primary tumors metastatic lesions and cell-free dna of breast cancer patients,M
+Breast Cancer,ESR1,25979954,all,esr1|estrogen receptor 1,C,M,,symbol 'ESR1' present,471,noninvasive detection of activating estrogen receptor 1 esr1 mutations in estrogen receptor-positive metastatic breast cancer,M
+Breast Cancer,ESR1,17202311,all,er alpha,C,M,,credited via alias er alpha,511,clinicopathologic analysis of breast cancers with pik3ca mutations in japanese women,M
+Breast Cancer,ESR1,39920833,all,esr1|estrogen receptor 1,C,M,,symbol 'ESR1' present,547,exploring the role of esr1 mutations in metastatic hormone receptor-positive breast cancer t cell immune surveillance disruption,M
+Breast Cancer,ESR1,32445652,all,esr1,C,M,,symbol 'ESR1' present,567,genetic alterations and their association with clinicopathologic characteristics in advanced breast carcinomas focusing on clinically action,M
+Breast Cancer,ESR1,38321573,all,esr1,C,I,,symbol 'ESR1' present,571,rare subclonal sequencing of breast cancers indicates putative metastatic driver mutations are predominately acquired after dissemination,I
+Breast Cancer,ESR1,29769099,all,esr1,C,M,,symbol 'ESR1' present,596,circulating esr1 mutations at the end of aromatase inhibitor adjuvant treatment and after relapse in breast cancer patients,M
+Breast Cancer,ESR1,28799536,all,esr1,C,M,,symbol 'ESR1' present,607,estrogen receptor esr1 mutation in bone metastases from breast cancer,M
+Breast Cancer,ESR1,27551012,all,esr1,C,M,,symbol 'ESR1' present,617,metastatic breast cancer with esr1 mutation clinical management considerations from the molecular and precision medicine map tumor board at ,M
+Breast Cancer,ESR1,33937624,all,esr1,C,M,,symbol 'ESR1' present,772,preexisting somatic mutations of estrogen receptor alpha esr1 in early-stage primary breast cancer,M
+Breast Cancer,ESR1,32919527,all,esr1,C,M,,symbol 'ESR1' present,822,circulating tumour dna analysis to direct therapy in advanced breast cancer plasmamatch a multicentre multicohort phase 2a platform trial,M
+Breast Cancer,ESR1,15361840,all,esr1,C,P,,symbol 'ESR1' present,879,mutation of gata3 in human breast tumors,P
+Breast Cancer,ESR1,42307899,all,esr1,C,M,,symbol 'ESR1' present,935,standardized analytical verification of ctdna esr1 mutation testing in metastatic hr her2- breast cancer a european multicentre study using ,M
+Breast Cancer,ESR1,29063679,all,esr1,C,M,,symbol 'ESR1' present,940,estrogen receptor mutations and splice variants determined in liquid biopsies from metastatic breast cancer patients,M
+Breast Cancer,ESR1,27765917,all,esr1,C,M,,symbol 'ESR1' present,944,somatic alterations of targetable oncogenes are frequently observed in brca1 2 mutation negative male breast cancers,M
+Breast Cancer,ESR1,27178332,all,esr1,C,M,,symbol 'ESR1' present,968,esr1 mutations affect anti-proliferative responses to tamoxifen through enhanced cross-talk with igf signaling,M
+Breast Cancer,ESR1,41797713,all,esr1,C,M,,symbol 'ESR1' present,991,activating mutations in esr1 contribute to an immunosuppressive breast tumor microenvironment by dampening cytokine secretion,M
+Breast Cancer,ESR1,38252441,all,esr1,C,M,,symbol 'ESR1' present,998,concurrent tissue and circulating tumor dna molecular profiling to detect guideline-based targeted mutations in a multicancer cohort,M
+Breast Cancer,PTEN,31277699,all,pten,C,M,,symbol 'PTEN' present,3,phase ii trial of akt inhibitor mk-2206 in patients with advanced breast cancer who have tumors with pik3ca or akt mutations and or pten los,M
+Breast Cancer,PTEN,38976158,all,pten,C,ML,,symbol 'PTEN' present,9,demographics and clinical decision making in patients with germline moderate penetrance non-brca mutations in breast cancer related genes,ML
+Breast Cancer,PTEN,32234455,all,pten,C,M,,symbol 'PTEN' present,63,the frequency of pten germline mutations in chinese breast cancer patients the pten gene may not be closely associated with breast cancer in,M
+Breast Cancer,PTEN,22172323,all,phosphatase and tensin homolog|pten,C,M,target,symbol 'PTEN' present,109,pik3ca mutations pten and pher2 expression and impact on outcome in her2-positive early-stage breast cancer patients treated with adjuvant c,M
+Breast Cancer,PTEN,25056500,all,phosphatase and tensin homolog|pten,C,M,,symbol 'PTEN' present,123,association of phosphatase and tensin homolog low and phosphatidylinositol 3-kinase catalytic subunit alpha gene mutations on outcome in hum,M
+Breast Cancer,PTEN,34344439,all,pten,C,G,,symbol 'PTEN' present,150,sensitivity to targeted therapy differs between her2-amplified breast cancer cells harboring kinase and helical domain mutations in pik3ca,G
+Breast Cancer,PTEN,25542038,all,phosphatase and tensin homolog|pten,C,M,target,symbol 'PTEN' present,152,an integrative analysis of pik3ca mutation pten and inpp4b expression in terms of trastuzumab efficacy in her2-positive breast cancer,M
+Breast Cancer,PTEN,40437613,all,pten,C,M,,symbol 'PTEN' present,221,mutational analysis and protein expression of pi3k akt pathway in four mucinous cystadenocarcinoma of the breast,M
+Breast Cancer,PTEN,20300775,all,phosphatase and tensin homolog|pten,C,M,,symbol 'PTEN' present,238,pten mutation spectrum in breast cancers and breast hyperplasia,M
+Breast Cancer,PTEN,39031010,all,pten,C,I,,symbol 'PTEN' present,242,select gene mutations associated with survival outcomes in er-positive erbb2-negative early-stage invasive breast cancer a single-institutio,I
+Breast Cancer,PTEN,26452060,all,pten,C,M,,symbol 'PTEN' present,268,significance of pik3ca mutations in patients with early breast cancer treated with adjuvant chemotherapy a hellenic cooperative oncology gro,M
+Breast Cancer,PTEN,15805248,all,pten,C,M,target,symbol 'PTEN' present,278,pik3ca mutations correlate with hormone receptors node metastasis and erbb2 and are mutually exclusive with pten loss in human breast carcin,M
+Breast Cancer,PTEN,35180531,all,pten,C,I,,symbol 'PTEN' present,318,comparison of mutational profiles between triple-negative and hormone receptor-positive human epidermal growth factor receptor 2-negative br,I
+Breast Cancer,PTEN,41261306,all,pten,C,G,,symbol 'PTEN' present,325,translating genomic insights into therapy an ngs-based mutation profiling study in breast cancer,G
+Breast Cancer,PTEN,25757876,all,pten,C,ML,,symbol 'PTEN' present,377,rapid detection of genetic mutations in individual breast cancer patients by next-generation dna sequencing,ML
+Breast Cancer,PTEN,21512767,all,pten,C,ML,,symbol 'PTEN' present,385,mutational characterization of individual breast tumors tp53 and pi3k pathway genes are frequently and distinctively mutated in different su,ML
+Breast Cancer,PTEN,35731312,all,pten,C,ML,,symbol 'PTEN' present,391,brca1 brca2 tp53 pik3ca pten and akt1 genes mutations in burkina faso breast cancer patients prevalence spectrum and novel variant,ML
+Breast Cancer,PTEN,20940279,all,pten,C,ML,,symbol 'PTEN' present,401,pik3ca mutations may be discordant between primary and corresponding metastatic disease in breast cancer,ML
+Breast Cancer,PTEN,24884479,all,pten,C,ML,,symbol 'PTEN' present,403,hereditary breast and ovarian cancer assessment of point mutations and copy number variations in brazilian patients,ML
+Breast Cancer,PTEN,22245973,all,pten,C,M,,symbol 'PTEN' present,425,phase ii trial of temsirolimus in patients with metastatic breast cancer,M
+Breast Cancer,PTEN,25104442,all,pten,C,M,,symbol 'PTEN' present,436,changes in pik3ca mutation status are not associated with recurrence metastatic disease or progression in endocrine-treated breast cancer,M
+Breast Cancer,PTEN,25027743,all,pten,C,M,,symbol 'PTEN' present,458,pik3ca mutations are a predictor of docetaxel plus epirubicin neoadjuvant chemotherapy clinical efficacy in breast cancer,M
+Breast Cancer,PTEN,22744290,all,phosphatase and tensin homolog|pten,C,M,target,symbol 'PTEN' present,483,pi3kca mutations and or pten loss in her2-positive breast carcinomas treated with trastuzumab are not related to resistance to anti-her2 the,M
+Breast Cancer,PTEN,31481248,all,pten,C,I,,symbol 'PTEN' present,487,using next-generation sequencing ngs platform to diagnose pathogenic germline brca1 2 mutations from archival tumor specimens,I
+Breast Cancer,PTEN,25185240,all,pten,C,ML,,symbol 'PTEN' present,493,plasma circulating tumor dna as an alternative to metastatic biopsies for mutational analysis in breast cancer,ML
+Breast Cancer,PTEN,34888385,all,pten,C,I,,symbol 'PTEN' present,496,bioinformatic analysis of immune significance of ryr2 mutation in breast cancer,I
+Breast Cancer,PTEN,29110152,all,pten,C,M,target,symbol 'PTEN' present,518,low pten levels and pik3ca mutations predict resistance to neoadjuvant lapatinib and trastuzumab without chemotherapy in patients with her2 ,M
+Breast Cancer,PTEN,38608781,all,pten,C,M,,symbol 'PTEN' present,536,immunohistochemical findings and clinicopathological features of breast cancers with pathogenic germline mutations in non-brca genes,M
+Breast Cancer,PTEN,27157322,all,pten,C,I,,symbol 'PTEN' present,538,detection of germline mutation in hereditary breast and or ovarian cancers by next-generation sequencing on a four-gene panel,I
+Breast Cancer,PTEN,18829572,all,pten,C,G,,symbol 'PTEN' present,548,pik3ca cooperates with other phosphatidylinositol 3'-kinase pathway mutations to effect oncogenic transformation,G
+Breast Cancer,PTEN,29636477,all,pten,C,I,,symbol 'PTEN' present,564,characterization of pik3ca and pik3r1 somatic mutations in chinese breast cancer patients,I
+Breast Cancer,PTEN,32445652,all,pten,C,ML,,symbol 'PTEN' present,567,genetic alterations and their association with clinicopathologic characteristics in advanced breast carcinomas focusing on clinically action,ML
+Breast Cancer,PTEN,35914729,all,pten,C,M,,symbol 'PTEN' present,588,loss of pten expression pik3ca mutations and breast cancer survival in the nurses' health studies,M
+Breast Cancer,PTEN,32068069,all,pten,C,ML,,symbol 'PTEN' present,591,germline mutation in 1338 brca-negative chinese hereditary breast and or ovarian cancer patients clinical testing with a multigene test pane,ML
+Breast Cancer,PTEN,30612783,all,pten,C,ML,,symbol 'PTEN' present,602,women with breast and uterine cancer are more likely to harbor germline mutations than women with breast or uterine cancer alone a case for ,ML
+Breast Cancer,PTEN,32088208,all,pten,C,ML,,symbol 'PTEN' present,618,juvenile papillomatosis of the breast swiss cheese disease has frequent associations with pik3ca and or akt1 mutations,ML
+Breast Cancer,PTEN,42135153,all,pten,C,ML,,symbol 'PTEN' present,660,impact of typical somatic gene mutation characteristics on homologous recombination deficiency in breast cancer,ML
+Breast Cancer,PTEN,28301567,all,pten,C,W,,symbol 'PTEN' present,666,integrated analysis of promoter mutation methylation and expression of akt1 gene in chinese breast cancer patients,W
+Breast Cancer,PTEN,27628192,all,pten,C,P,,symbol 'PTEN' present,707,clinical implications of routine genomic mutation sequencing in pik3ca akt1 and kras nras braf in metastatic breast cancer,P
+Breast Cancer,PTEN,31364747,all,pten,C,M,,symbol 'PTEN' present,717,comprehensive multigene mutation spectra of breast cancer patients from northeast china obtained using the ion torrent sequencing platform,M
+Breast Cancer,PTEN,27125668,all,pten,C,ML,,symbol 'PTEN' present,733,germline recql mutations in high risk chinese breast cancer patients,ML
+Breast Cancer,PTEN,24498881,all,pten,C,M,,symbol 'PTEN' present,807,a novel deleterious pten mutation in a patient with early-onset bilateral breast cancer,M
+Breast Cancer,PTEN,30443844,all,pten,C,I,,symbol 'PTEN' present,818,the gene mutation spectrum of breast cancer analyzed by semiconductor sequencing platform,I
+Breast Cancer,PTEN,32919527,all,pten,C,M,,symbol 'PTEN' present,822,circulating tumour dna analysis to direct therapy in advanced breast cancer plasmamatch a multicentre multicohort phase 2a platform trial,M
+Breast Cancer,PTEN,26976419,all,pten,C,I,,symbol 'PTEN' present,862,frequency of germline mutations in 25 cancer susceptibility genes in a sequential series of patients with breast cancer,I
+Breast Cancer,PTEN,33183179,all,pten,C,M,target,symbol 'PTEN' present,873,molecular dynamic study on pten frameshift mutations in breast cancer provide c2 domain as a potential biomarker,M
+Breast Cancer,PTEN,28750640,all,phosphatase and tensin homolog|pten,C,M,,symbol 'PTEN' present,876,impact of somatic pi3k pathway and erbb family mutations on pathological complete response pcr in her2-positive breast cancer patients who r,M
+Breast Cancer,PTEN,21490305,all,pten,C,M,,symbol 'PTEN' present,886,pi3k pathway mutations and pten levels in primary and metastatic breast cancer,M
+Breast Cancer,PTEN,19818761,all,pten,C,P,,symbol 'PTEN' present,922,pik3ca mutations mostly begin to develop in ductal carcinoma of the breast,P
+Breast Cancer,PTEN,23092874,all,pten,C,M,target,symbol 'PTEN' present,937,frequent mutational activation of the pi3k-akt pathway in trastuzumab-resistant breast cancer,M
+Breast Cancer,PTEN,38000681,all,pten,C,M,,symbol 'PTEN' present,938,spectrum of histopathologic findings in risk-reducing bilateral prophylactic mastectomy in patients with and without brca mutations,M
+Breast Cancer,PTEN,32091409,all,pten,C,ML,,symbol 'PTEN' present,948,comparison of brca versus non-brca germline mutations and associated somatic mutation profiles in patients with unselected breast cancer,ML
+Breast Cancer,PTEN,27811364,all,pten,C,ML,,symbol 'PTEN' present,962,erbb2 mutation is associated with a worse prognosis in patients with cdh1 altered invasive lobular cancer of the breast,ML
+Breast Cancer,PTEN,41843848,all,pten,C,I,,symbol 'PTEN' present,983,specific features of epithelial-mesenchymal transition induced by driver mutations in the pi3k akt signaling pathway in breast epithelial ce,I
+Breast Cancer,PTEN,11238682,all,pten,C,M,,symbol 'PTEN' present,994,male breast cancer in cowden syndrome patients with germline pten mutations,M
+Breast Cancer,CHEK2,38976158,all,chek2,C,ML,,symbol 'CHEK2' present,9,demographics and clinical decision making in patients with germline moderate penetrance non-brca mutations in breast cancer related genes,ML
+Breast Cancer,CHEK2,32091585,all,chek2,C,M,,symbol 'CHEK2' present,14,the contribution of germline predisposition gene mutations to clinical subtypes of invasive breast cancer from a clinical genetic testing co,M
+Breast Cancer,CHEK2,30257646,all,chek2,C,ML,,symbol 'CHEK2' present,20,addition of triple negativity of breast cancer as an indicator for germline mutations in predisposing genes increases sensitivity of clinica,ML
+Breast Cancer,CHEK2,33119476,all,chek2,C,M,,symbol 'CHEK2' present,43,tbcrc 048 phase ii study of olaparib for metastatic breast cancer and mutations in homologous recombination-related genes,M
+Breast Cancer,CHEK2,32996020,all,chek2,C,M,,symbol 'CHEK2' present,96,clinicopathological features and outcomes in individuals with breast cancer and atm chek2 or palb2 mutations,M
+Breast Cancer,CHEK2,29560538,all,chek2,C,M,,symbol 'CHEK2' present,188,mutational analysis of candidate genes in israeli male breast cancer cases,M
+Breast Cancer,CHEK2,36966080,all,checkpoint kinase 2|chek2,C,M,,symbol 'CHEK2' present,273,diagnosis management and surveillance for patients with palb2 chek2 and atm gene mutations,M
+Breast Cancer,CHEK2,22420423,all,chek2|chk2,C,M,,symbol 'CHEK2' present,284,low expression levels of atm may substitute for chek2 tp53 mutations predicting resistance towards anthracycline and mitomycin chemotherapy ,M
+Breast Cancer,CHEK2,28727877,all,chek2,C,I,,symbol 'CHEK2' present,295,genetic predisposition to breast cancer due to mutations other than brca1 and brca2 founder alleles among ashkenazi jewish women,I
+Breast Cancer,CHEK2,31409080,all,chek2|chk2,C,M,,symbol 'CHEK2' present,306,germline chek2 gene mutations in hereditary breast cancer predisposition - mutation types and their biological and clinical relevance,M
+Breast Cancer,CHEK2,25330149,all,chek2,C,M,,symbol 'CHEK2' present,332,mutations predisposing to breast cancer in 12 candidate genes in breast cancer patients from poland,M
+Breast Cancer,CHEK2,25186627,all,chek2,C,I,,symbol 'CHEK2' present,340,frequency of mutations in individuals with breast cancer referred for brca1 and brca2 testing using next-generation sequencing with a 25-gen,I
+Breast Cancer,CHEK2,34467476,all,chek2,C,M,,symbol 'CHEK2' present,344,prevalence of mutations in brca and homologous recombination repair genes and real-world standard of care of asian patients with her2-negati,M
+Breast Cancer,CHEK2,31962330,all,chek2,C,I,,symbol 'CHEK2' present,358,brca mutation association with recurrence score and discordance in a large oncotype database,I
+Breast Cancer,CHEK2,30535581,all,chek2,C,M,,symbol 'CHEK2' present,387,mutation screening of tp53 chek2 and brca genes in patients at high risk for hereditary breast and ovarian cancer hboc in brazil,M
+Breast Cancer,CHEK2,24884479,all,chek2,C,M,,symbol 'CHEK2' present,403,hereditary breast and ovarian cancer assessment of point mutations and copy number variations in brazilian patients,M
+Breast Cancer,CHEK2,18930998,all,chek2,C,M,,symbol 'CHEK2' present,442,effect of chek2 missense variant i157t on the risk of breast cancer in carriers of other chek2 or brca1 mutations,M
+Breast Cancer,CHEK2,38062336,all,chek2,C,I,,symbol 'CHEK2' present,461,breast cancers in monoallelic mutyh germline mutation carriers have clinicopathological features overlapping with those in brca1 germline mu,I
+Breast Cancer,CHEK2,29356917,all,checkpoint kinase 2|chek2,C,M,,symbol 'CHEK2' present,466,identification and analysis of chek2 germline mutations in chinese brca1 2-negative breast cancer patients,M
+Breast Cancer,CHEK2,30980208,all,chek2,C,M,,symbol 'CHEK2' present,467,multigene panel testing in unselected israeli breast cancer cases mutational spectrum and use of brca1 2 mutation prediction algorithms,M
+Breast Cancer,CHEK2,27798748,all,chek2,C,I,,symbol 'CHEK2' present,472,revisiting breast cancer patients who previously tested negative for brca mutations using a 12-gene panel,I
+Breast Cancer,CHEK2,21562711,all,chek2,C,M,,symbol 'CHEK2' present,499,two new chek2 germ-line variants detected in breast cancer sarcoma families negative for brca1 brca2 and tp53 gene mutations,M
+Breast Cancer,CHEK2,17250914,all,chek2,C,M,,symbol 'CHEK2' present,505,breast cancer in patients carrying a germ-line chek2 mutation outcome after breast conserving surgery and adjuvant radiotherapy,M
+Breast Cancer,CHEK2,39080120,all,chek2,C,I,,symbol 'CHEK2' present,512,alterations in the expression of homologous recombination repair hrr genes in breast cancer tissues considering germline brca1 2 mutation st,I
+Breast Cancer,CHEK2,38608781,all,chek2|chk2,C,M,,symbol 'CHEK2' present,536,immunohistochemical findings and clinicopathological features of breast cancers with pathogenic germline mutations in non-brca genes,M
+Breast Cancer,CHEK2,36054727,all,chek2,C,M,,symbol 'CHEK2' present,553,risk-reducing mastectomy decisions among women with mutations in high- and moderate- penetrance breast cancer susceptibility genes,M
+Breast Cancer,CHEK2,24415413,all,chek2,C,M,,symbol 'CHEK2' present,554,development of breast tumors in chek2 nbn nbs1 and blm mutation carriers does not commonly involve somatic inactivation of the wild-type all,M
+Breast Cancer,CHEK2,30309218,all,chek2,C,ML,,symbol 'CHEK2' present,576,prevalence of palb2 germline mutations in early-onset and familial breast ovarian cancer patients from pakistan,ML
+Breast Cancer,CHEK2,33372680,all,chek2,C,M,,symbol 'CHEK2' present,578,performance of breast cancer polygenic risk scores in 760 female chek2 germline mutation carriers,M
+Breast Cancer,CHEK2,24153426,all,chk2,C,I,,credited via alias chk2,593,heterozygous mutations in palb2 cause dna replication and damage response defects,I
+Breast Cancer,CHEK2,36672847,all,chek2,C,I,,symbol 'CHEK2' present,595,frequency of pathogenic germline mutations in early and late onset familial breast cancer patients using multi-gene panel sequencing an egyp,I
+Breast Cancer,CHEK2,30612783,all,chek2,C,I,,symbol 'CHEK2' present,602,women with breast and uterine cancer are more likely to harbor germline mutations than women with breast or uterine cancer alone a case for ,I
+Breast Cancer,CHEK2,26577449,all,chek2,C,M,,symbol 'CHEK2' present,664,brca1 brca2 and palb2 mutations and chek2 c 1100delc in different south african ethnic groups diagnosed with premenopausal and or triple neg,M
+Breast Cancer,CHEK2,23806170,all,chek2,C,M,,symbol 'CHEK2' present,673,constitutional chek2 mutations are infrequent in early-onset and familial breast ovarian cancer patients from pakistan,M
+Breast Cancer,CHEK2,18085035,all,chek2|chk2,C,M,,symbol 'CHEK2' present,757,germline chek2 mutations in jewish ashkenazi women at high risk for breast cancer,M
+Breast Cancer,CHEK2,37373225,all,chek2,C,I,,symbol 'CHEK2' present,792,p53 dysregulation in breast cancer insights on mutations in the tp53 network and p53 isoform expression,I
+Breast Cancer,CHEK2,19863560,all,chek2,C,M,,symbol 'CHEK2' present,845,the contribution of founder mutations to early-onset breast cancer in french-canadian women,M
+Breast Cancer,CHEK2,26976419,all,chek2,C,I,,symbol 'CHEK2' present,862,frequency of germline mutations in 25 cancer susceptibility genes in a sequential series of patients with breast cancer,I
+Breast Cancer,CHEK2,28709830,all,chek2,C,ML,,symbol 'CHEK2' present,874,pathologic findings in breast fallopian tube and ovary specimens in non-brca hereditary breast and or ovarian cancer syndromes a study of 18,ML
+Breast Cancer,CHEK2,17636422,all,chek2,C,I,,symbol 'CHEK2' present,885,brca1 2 mutation analysis in male breast cancer families from north west england,I
+Breast Cancer,CHEK2,35205366,all,chek2,C,ML,,symbol 'CHEK2' present,895,pancreatic cancer with mutation in brca1 2 mlh1 and apc genes phenotype correlation and detection of a novel germline brca2 mutation,ML
+Breast Cancer,CHEK2,26687385,all,chek2,C,M,,symbol 'CHEK2' present,911,screening for germline mutations in breast ovarian cancer susceptibility genes in high-risk families in israel,M
+Breast Cancer,CHEK2,38000681,all,chek2,C,ML,,symbol 'CHEK2' present,938,spectrum of histopathologic findings in risk-reducing bilateral prophylactic mastectomy in patients with and without brca mutations,ML
+Breast Cancer,CHEK2,32091409,all,chek2,C,I,,symbol 'CHEK2' present,948,comparison of brca versus non-brca germline mutations and associated somatic mutation profiles in patients with unselected breast cancer,I
+Breast Cancer,CHEK2,15803363,all,chek2,C,M,,symbol 'CHEK2' present,952,the chek2 c 1100delc germline mutation rarely contributes to breast cancer development in the czech republic,M
+Breast Cancer,CHEK2,18175216,all,chek2,C,M,,symbol 'CHEK2' present,977,the chek2 1100delc mutation is not present in korean patients with breast cancer cases tested for brca1 and brca2 mutation,M
+Breast Cancer,AKT1,31277699,all,akt1,C,M,,symbol 'AKT1' present,3,phase ii trial of akt inhibitor mk-2206 in patients with advanced breast cancer who have tumors with pik3ca or akt mutations and or pten los,M
+Breast Cancer,AKT1,34670536,all,akt1,C,M,,symbol 'AKT1' present,31,hotspot mutation profiles of akt1 in asian women with breast and endometrial cancers,M
+Breast Cancer,AKT1,31139940,all,akt1,C,M,,symbol 'AKT1' present,91,multiplex pcr analysis of apocrine lesions shows frequent pi3k-akt pathway mutations in both benign and malignant apocrine breast tumors,M
+Breast Cancer,AKT1,27806348,all,akt1,C,P,,symbol 'AKT1' present,99,clinical outcomes based on multigene profiling in metastatic breast cancer patients,P
+Breast Cancer,AKT1,29482551,all,akt1,C,M,,symbol 'AKT1' present,111,clinical significance of plasma cell-free dna mutations in pik3ca akt1 and esr1 gene according to treatment lines in er-positive breast canc,M
+Breast Cancer,AKT1,22538770,all,akt1,C,I,,symbol 'AKT1' present,133,mutation profiling identifies numerous rare drug targets and distinct mutation patterns in different clinical subtypes of breast cancers,I
+Breast Cancer,AKT1,23971979,all,akt1,C,ML,,symbol 'AKT1' present,166,pik3ca mutations are frequently observed in brcax but not brca2-associated male breast cancer,ML
+Breast Cancer,AKT1,29589138,all,akt1,C,I,,symbol 'AKT1' present,191,mutational analysis of triple-negative breast cancers within the international breast cancer study group ibcsg trial 22-00,I
+Breast Cancer,AKT1,40437613,all,akt1,C,P,,symbol 'AKT1' present,221,mutational analysis and protein expression of pi3k akt pathway in four mucinous cystadenocarcinoma of the breast,P
+Breast Cancer,AKT1,35180531,all,akt1,C,I,,symbol 'AKT1' present,318,comparison of mutational profiles between triple-negative and hormone receptor-positive human epidermal growth factor receptor 2-negative br,I
+Breast Cancer,AKT1,27441415,all,akt1,C,M,,symbol 'AKT1' present,345,frequent pik3ca activating mutations in nipple adenomas,M
+Breast Cancer,AKT1,31094929,all,akt1,C,M,,symbol 'AKT1' present,382,adenomyoepitheliomas of the breast frequently harbor recurrent hotspot mutations in pik3-akt pathway-related genes and a subset show genetic,M
+Breast Cancer,AKT1,21512767,all,akt1,C,ML,,symbol 'AKT1' present,385,mutational characterization of individual breast tumors tp53 and pi3k pathway genes are frequently and distinctively mutated in different su,ML
+Breast Cancer,AKT1,35731312,all,akt1,C,ML,,symbol 'AKT1' present,391,brca1 brca2 tp53 pik3ca pten and akt1 genes mutations in burkina faso breast cancer patients prevalence spectrum and novel variant,ML
+Breast Cancer,AKT1,26474971,all,akt1,C,I,,symbol 'AKT1' present,427,a genome-wide approach to link genotype to clinical outcome by utilizing next generation sequencing and gene chip data of 6 697 breast cance,I
+Breast Cancer,AKT1,23888070,all,akt1,C,M,target,symbol 'AKT1' present,443,pik3ca and akt1 mutations have distinct effects on sensitivity to targeted pathway inhibitors in an isogenic luminal breast cancer model sys,M
+Breast Cancer,AKT1,19418217,all,akt1,C,M,,symbol 'AKT1' present,481,phosphatidylinositol-3-kinase and akt1 mutations occur early in breast carcinoma,M
+Breast Cancer,AKT1,25185240,all,akt1,C,ML,,symbol 'AKT1' present,493,plasma circulating tumor dna as an alternative to metastatic biopsies for mutational analysis in breast cancer,ML
+Breast Cancer,AKT1,37011004,all,akt1,C,M,,symbol 'AKT1' present,504,the targeted next-generation sequence revealed smad4 akt1 and tp53 mutations from circulating cell-free dna of breast cancer and its effect ,M
+Breast Cancer,AKT1,21617917,all,akt1,C,M,,symbol 'AKT1' present,515,pik3ca mutations rarely demonstrate genotypic intratumoral heterogeneity and are selected for in breast cancer progression,M
+Breast Cancer,AKT1,23317280,all,akt1,C,ML,,symbol 'AKT1' present,561,mutational analysis of key egfr pathway genes in chinese breast cancer patients,ML
+Breast Cancer,AKT1,23237847,all,akt1,C,M,,symbol 'AKT1' present,566,functional analysis of non-hotspot akt1 mutants found in human breast cancers identifies novel driver mutations implications for personalize,M
+Breast Cancer,AKT1,38321573,all,akt1,C,I,,symbol 'AKT1' present,571,rare subclonal sequencing of breast cancers indicates putative metastatic driver mutations are predominately acquired after dissemination,I
+Breast Cancer,AKT1,29540052,all,akt1,C,M,,symbol 'AKT1' present,601,prevalence and prognostic role of pik3ca akt1 mutations in chinese breast cancer patients,M
+Breast Cancer,AKT1,32088208,all,akt1,C,M,,symbol 'AKT1' present,618,juvenile papillomatosis of the breast swiss cheese disease has frequent associations with pik3ca and or akt1 mutations,M
+Breast Cancer,AKT1,22460814,all,akt1,C,M,,symbol 'AKT1' present,632,phosphatidylinositol-3-kinase pathway mutations are common in breast columnar cell lesions,M
+Breast Cancer,AKT1,28301567,all,akt1,C,M,,symbol 'AKT1' present,666,integrated analysis of promoter mutation methylation and expression of akt1 gene in chinese breast cancer patients,M
+Breast Cancer,AKT1,27628192,all,akt1,C,ML,,symbol 'AKT1' present,707,clinical implications of routine genomic mutation sequencing in pik3ca akt1 and kras nras braf in metastatic breast cancer,ML
+Breast Cancer,AKT1,20101210,all,akt1,C,M,,symbol 'AKT1' present,732,knock in of the akt1 e17k mutation in human breast epithelial cells does not recapitulate oncogenic pik3ca mutations,M
+Breast Cancer,AKT1,27438523,all,akt1,C,I,,symbol 'AKT1' present,794,tubular lactating and ductal adenomas are devoid of med12 exon2 mutations and ductal adenomas show recurrent mutations in gnas and the pi3k-,I
+Breast Cancer,AKT1,19898424,all,akt1,C,M,,symbol 'AKT1' present,797,high prevalence of pik3ca akt pathway mutations in papillary neoplasms of the breast,M
+Breast Cancer,AKT1,24498881,all,akt1,C,M,,symbol 'AKT1' present,807,a novel deleterious pten mutation in a patient with early-onset bilateral breast cancer,M
+Breast Cancer,AKT1,30443844,all,akt1,C,ML,,symbol 'AKT1' present,818,the gene mutation spectrum of breast cancer analyzed by semiconductor sequencing platform,ML
+Breast Cancer,AKT1,32919527,all,akt1,C,M,,symbol 'AKT1' present,822,circulating tumour dna analysis to direct therapy in advanced breast cancer plasmamatch a multicentre multicohort phase 2a platform trial,M
+Breast Cancer,AKT1,32091409,all,akt1,C,ML,,symbol 'AKT1' present,948,comparison of brca versus non-brca germline mutations and associated somatic mutation profiles in patients with unselected breast cancer,ML
+Breast Cancer,AKT1,33954864,all,akt1,C,M,,symbol 'AKT1' present,979,spectrum of pik3ca akt mutations across molecular subtypes of triple-negative breast cancer,M
+Breast Cancer,AKT1,23352210,all,akt1,C,M,,symbol 'AKT1' present,997,pik3ca-akt pathway mutations in micropapillary breast carcinoma,M

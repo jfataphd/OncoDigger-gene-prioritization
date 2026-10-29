@@ -1,0 +1,441 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Myeloma,NRAS,24335104,random,nras,C,M,,symbol 'NRAS' present,1,mutation of nras but not kras significantly reduces myeloma sensitivity to single-agent bortezomib therapy,M
+Myeloma,NRAS,30201956,random,nras,C,ML,,symbol 'NRAS' present,5,frequent functional activation of ras signalling not explained by ras raf mutations in relapsed refractory multiple myeloma,ML
+Myeloma,NRAS,37212518,random,nras,C,M,,symbol 'NRAS' present,7,plasma cell myeloma with ras braf mutations is frequently associated with a complex karyotype advanced stage disease and poorer prognosis,M
+Myeloma,NRAS,35770320,random,nras,C,I,,symbol 'NRAS' present,11,comparison of clinical characteristics and genetic aberrations of plasma cell disorders in thailand population,I
+Myeloma,NRAS,16142319,random+targeted,n ras,C,M,,credited via alias n ras,17,ras mutations are uncommon in multiple myeloma and other monoclonal gammopathies,M
+Myeloma,NRAS,17036375,targeted,n ras,C,M,,credited via alias n ras,22,relevance of ras gene mutations in the context of the molecular heterogeneity of multiple myeloma,M
+Myeloma,NRAS,27899805,random,nras,C,ML,,symbol 'NRAS' present,23,circulating tumour dna analysis demonstrates spatial mutational heterogeneity that coincides with disease relapse in myeloma,ML
+Myeloma,NRAS,16321859,random+targeted,n ras,C,M,,credited via alias n ras,28,n-ras and k-ras gene mutations in brazilian patients with multiple myeloma,M
+Myeloma,NRAS,29563506,random,nras,C,I,,symbol 'NRAS' present,29,a multiple myeloma-specific capture sequencing platform discovers novel translocations and frequent risk-associated point mutations in igll5,I
+Myeloma,NRAS,28380360,random,nras,C,M,,symbol 'NRAS' present,32,the mutational landscape of circulating tumor cells in multiple myeloma,M
+Myeloma,NRAS,27458004,random,nras,C,W,,symbol 'NRAS' present,41,targeted sequencing of refractory myeloma reveals a high incidence of mutations in crbn and ras pathway genes,W
+Myeloma,NRAS,15339850,targeted,n ras,C,M,,credited via alias n ras,46,possible roles for activating ras mutations in the mgus to mm transition and in the intramedullary to extramedullary transition in some plas,M
+Myeloma,NRAS,33036022,random,nras,C,M,,symbol 'NRAS' present,48,targeting the gck pathway a novel and selective therapeutic strategy against ras-mutated multiple myeloma,M
+Myeloma,NRAS,25743686,random,nras,C,I,,symbol 'NRAS' present,57,longitudinal analysis of 25 sequential sample-pairs using a custom multiple myeloma mutation sequencing panel m 3 p,I
+Myeloma,NRAS,28385781,random,nras,C,M,,symbol 'NRAS' present,64,monitoring multiple myeloma by quantification of recurrent mutations in serum,M
+Myeloma,NRAS,33067622,random,nras,C,I,,symbol 'NRAS' present,74,high frequency of clonal hematopoiesis in erdheim-chester disease,I
+Myeloma,NRAS,41949149,random,nras,C,ML,,symbol 'NRAS' present,82,stat3 stat5 mutations predict shorter overall survival in patients with plasma cell myeloma,ML
+Myeloma,NRAS,40943426,random,nras,C,M,,symbol 'NRAS' present,83,liquid biopsy as a means of assessing prognosis and identifying novel risk factors in multiple myeloma,M
+Myeloma,NRAS,32687451,random,nras,C,M,,symbol 'NRAS' present,92,genome-wide somatic alterations in multiple myeloma reveal a superior outcome group,M
+Myeloma,NRAS,29895955,random,nras,C,I,,symbol 'NRAS' present,104,multiple myeloma clonal evolution in homogeneously treated patients,I
+Myeloma,NRAS,12842991,targeted,n ras,C,M,,credited via alias n ras,115,effect of farnesyl transferase inhibitor r115777 on the growth of fresh and cloned myeloma cells in vitro,M
+Myeloma,NRAS,41824395,random,nras,C,M,,symbol 'NRAS' present,121,idh2 clonal hematopoiesis and ikaros loss cooperate in a b-all subtype after lenalidomide therapy for multiple myeloma,M
+Myeloma,NRAS,11524732,random,nras,C,M,,symbol 'NRAS' present,133,high incidence of n and k-ras activating mutations in multiple myeloma and primary plasma cell leukemia at diagnosis,M
+Myeloma,NRAS,21149634,targeted,n ras,C,M,,credited via alias n ras,142,mutated ras and constitutively activated akt delineate distinct oncogenic pathways which independently contribute to multiple myeloma cell s,M
+Myeloma,NRAS,11520807,targeted,n ras,C,M,,credited via alias n ras,168,detection of n-ras codon 61 mutations in subpopulations of tumor cells in multiple myeloma at presentation,M
+Myeloma,NRAS,12592346,targeted,n ras,C,P,,credited via alias n ras,174,the farnesyl transferase inhibitor fti-277 inhibits growth and induces apoptosis in drug-resistant myeloma tumor cells,P
+Myeloma,NRAS,27223072,random,nras,C,ML,,symbol 'NRAS' present,190,comprehensive genomic profiling of igm multiple myeloma identifies irf4 as a prognostic marker,ML
+Myeloma,NRAS,21237204,targeted,n ras,C,I,,credited via alias n ras,199,myeloid neoplasm-related gene abnormalities differentially affect dendritic cell differentiation from murine hematopoietic stem progenitor c,I
+Myeloma,NRAS,28550183,random,nras,C,ML,,symbol 'NRAS' present,203,the spectrum of somatic mutations in monoclonal gammopathy of undetermined significance indicates a less complex genomic landscape than that,ML
+Myeloma,NRAS,11157491,random+targeted,n ras,C,M,,credited via alias n ras,210,activated fibroblast growth factor receptor 3 is an oncogene that contributes to tumor progression in multiple myeloma,M
+Myeloma,NRAS,36450626,random,nras,C,M,,symbol 'NRAS' present,221,cobimetinib alone and plus venetoclax with without atezolizumab in patients with relapsed refractory multiple myeloma,M
+Myeloma,NRAS,16497971,random+targeted,n ras,C,M,,credited via alias n ras,241,oncogenic ras mutations in myeloma cells selectively induce cox-2 expression which participates in enhanced adhesion to fibronectin and chem,M
+Myeloma,NRAS,31698452,random,nras,C,M,,symbol 'NRAS' present,244,integrated phosphoproteomics and transcriptional classifiers reveal hidden ras signaling dynamics in multiple myeloma,M
+Myeloma,NRAS,18216867,random+targeted,n ras,C,M,,credited via alias n ras,275,genetic aberrations and survival in plasma cell leukemia,M
+Myeloma,NRAS,37105495,random,nras,C,W,,symbol 'NRAS' present,285,identification of potential therapeutic targets for plasmablastic lymphoma through gene expression analysis insights into ras and wnt signal,W
+Myeloma,NRAS,38433500,random,nras,C,I,,symbol 'NRAS' present,298,sensitivity specificity and accuracy of molecular profiling on circulating cell-free dna in refractory or relapsed multiple myeloma patients,I
+Myeloma,NRAS,36990279,random,nras,C,I,,symbol 'NRAS' present,324,clinicopathologic features of therapy-related myeloid neoplasms in patients with myeloma in the era of novel therapies,I
+Myeloma,NRAS,30846494,random+targeted,n ras,C,M,,credited via alias n ras,335,histone deacetylase inhibition in combination with mek or bcl-2 inhibition in multiple myeloma,M
+Myeloma,NRAS,24766194,targeted,n ras,C,M,,credited via alias n ras,358,aspirin inhibits proliferation and induces apoptosis of multiple myeloma cells through regulation of bcl-2 and bax and suppression of vegf,M
+Myeloma,NRAS,40411938,random,nras,C,W,,symbol 'NRAS' present,378,cytogenetic and molecular aberrations at diagnosis and in prognosis of multiple myeloma,W
+Myeloma,NRAS,25142146,random,nras,C,M,,symbol 'NRAS' present,489,antitumor activity of the erk inhibitor sch772984 corrected against braf mutant nras mutant and wild-type melanoma,M
+Myeloma,NRAS,12813136,random+targeted,n ras,C,M,,credited via alias n ras,593,cytoreductive effects of farnesyl transferase inhibitors on multiple myeloma tumor cells,M
+Myeloma,NRAS,16156861,random+targeted,n ras,C,P,,credited via alias n ras,615,combining prenylation inhibitors causes synergistic cytotoxicity apoptosis and disruption of ras-to-map kinase signalling in multiple myelom,P
+Myeloma,NRAS,25894462,random,nras,C,ML,target,symbol 'NRAS' present,618,multiple myeloma acquires resistance to egfr inhibitor via induction of pentose phosphate pathway,ML
+Myeloma,NRAS,40459694,random,nras,C,ML,,symbol 'NRAS' present,641,genetic epigenetic and molecular determinants of multiple myeloma and precursor plasma cell disorders a pathophysiological overview,ML
+Myeloma,NRAS,11672773,random+targeted,n ras,C,M,,credited via alias n ras,690,establishment and characterization of a new human myeloma cell line kydelta-1 producing the delta kappa type immunoglobulin,M
+Myeloma,NRAS,12515720,targeted,n ras,C,M,,credited via alias n ras,705,downstream effectors of oncogenic ras in multiple myeloma cells,M
+Myeloma,NRAS,42172562,random,nras,C,ML,,symbol 'NRAS' present,766,smoldering multiple myeloma from clinical to immunogenomic risk stratification and therapeutic implications of early intervention,ML
+Myeloma,NRAS,12965277,targeted,n ras,C,M,,credited via alias n ras,800,new insights into the pathophysiology of multiple myeloma,M
+Myeloma,NRAS,12358886,random+targeted,n ras,C,M,,credited via alias n ras,811,chromosomal and genetic abnormalities in myeloma,M
+Myeloma,TP53,39715752,random,tp53,C,M,,symbol 'TP53' present,25,integration of clinical outcomes and molecular features in extramedullary disease in multiple myeloma,M
+Myeloma,TP53,25302557,random,tp53,C,M,,symbol 'TP53' present,35,targeted sequencing using a 47 gene multiple myeloma mutation panel m 3 p in -17p high risk disease,M
+Myeloma,TP53,27458004,random,tp53,C,W,,symbol 'TP53' present,41,targeted sequencing of refractory myeloma reveals a high incidence of mutations in crbn and ras pathway genes,W
+Myeloma,TP53,30718460,random,tp53,C,M,,symbol 'TP53' present,51,molecular underpinnings of clinical disparity patterns in african american vs caucasian american multiple myeloma patients,M
+Myeloma,TP53,37452600,random,tp53,C,M,,symbol 'TP53' present,58,effect of mapk activation via mutations in nras kras and braf on clinical outcome in newly diagnosed multiple myeloma,M
+Myeloma,TP53,35082295,random,tp53,C,M,,symbol 'TP53' present,79,clonal and subclonal tp53 molecular impairment is associated with prognosis and progression in multiple myeloma,M
+Myeloma,TP53,38413253,random,tp53,C,M,,symbol 'TP53' present,111,the frequency and clinical outcome of mono-hit and multi-hit tp53 aberrations in newly diagnosed multiple myeloma,M
+Myeloma,TP53,41315915,random,tp53,C,M,,symbol 'TP53' present,116,multi-hit tp53 confers the poorest survival in multiple myeloma in the era of novel therapies,M
+Myeloma,TP53,40017228,random,tp53,C,M,,symbol 'TP53' present,129,clinical implications of circulating tumor dna in multiple myeloma and its precursor diseases,M
+Myeloma,TP53,31551170,random,tp53,C,ML,,symbol 'TP53' present,140,ezh2 overexpression in multiple myeloma prognostic value correlation with clinical characteristics and possible mechanisms,ML
+Myeloma,TP53,21961181,random,tp53,C,M,,symbol 'TP53' present,143,the clinical impact and molecular biology of del 17p in multiple myeloma treated with conventional or thalidomide-based therapy,M
+Myeloma,TP53,32161023,random,tp53,C,M,,symbol 'TP53' present,161,a rare episode of extensive bone marrow necrosis in a chemotherapy-naive patient with multiple myeloma exhibiting tp53 and tet2 mutations,M
+Myeloma,TP53,35045690,random,tp53,C,M,,symbol 'TP53' present,169,comprehensive genomic analysis of refractory multiple myeloma reveals a complex mutational landscape associated with drug resistance and nov,M
+Myeloma,TP53,36251745,random,tp53,C,M,,symbol 'TP53' present,196,distinct clonal identities of b-alls arising after lenolidomide therapy for multiple myeloma,M
+Myeloma,TP53,27863261,random,tp53,C,ML,,symbol 'TP53' present,200,a next-generation sequencing strategy for evaluating the most common genetic abnormalities in multiple myeloma,ML
+Myeloma,TP53,28550183,random,tp53,C,M,,symbol 'TP53' present,203,the spectrum of somatic mutations in monoclonal gammopathy of undetermined significance indicates a less complex genomic landscape than that,M
+Myeloma,TP53,30635632,random,tp53,C,G,,symbol 'TP53' present,209,genetic and transcriptional landscape of plasma cells in poems syndrome,G
+Myeloma,TP53,40371906,random,tp53,C,M,,symbol 'TP53' present,213,unique molecular assay uma a next-generation sequencing targeted panel for efficient and comprehensive genomic profiling and risk stratifica,M
+Myeloma,TP53,31991614,random,tp53,C,I,target,symbol 'TP53' present,250,prognosis biology and targeting of tp53 dysregulation in multiple myeloma,I
+Myeloma,TP53,38433500,random,tp53,C,ML,,symbol 'TP53' present,298,sensitivity specificity and accuracy of molecular profiling on circulating cell-free dna in refractory or relapsed multiple myeloma patients,ML
+Myeloma,TP53,41149470,random,tp53,C,M,,symbol 'TP53' present,328,from chronic lymphocytic leukemia to plasmablastic myeloma beyond the usual richter transformation,M
+Myeloma,TP53,33547114,random,tp53,C,M,,symbol 'TP53' present,340,spontaneous tumour lysis syndrome in multiple myeloma with loss of 17p13 1 t 4 14 and monosomy 13,M
+Myeloma,TP53,22874878,random,tp53,C,M,,symbol 'TP53' present,351,minor clone provides a reservoir for relapse in multiple myeloma,M
+Myeloma,TP53,35188691,random,tp53,C,M,,symbol 'TP53' present,359,expression of p53 protein isoforms predicts survival in patients with multiple myeloma,M
+Myeloma,TP53,33338886,random,tp53,C,P,,symbol 'TP53' present,377,genetic variants as biomarkers for progression and resistance in multiple myeloma,P
+Myeloma,TP53,40411938,random,tp53,C,I,,symbol 'TP53' present,378,cytogenetic and molecular aberrations at diagnosis and in prognosis of multiple myeloma,I
+Myeloma,TP53,32616499,random,tp53,C,M,,symbol 'TP53' present,401,early relapse risk in patients with newly diagnosed multiple myeloma characterized by next-generation sequencing,M
+Myeloma,TP53,30692124,random,tp53,C,M,,symbol 'TP53' present,441,high subclonal fraction of 17p deletion is associated with poor prognosis in multiple myeloma,M
+Myeloma,TP53,28078910,random,tp53,C,I,,symbol 'TP53' present,468,gain of chromosome 1q portends worse prognosis in multiple myeloma despite novel agent-based induction regimens and autologous transplantati,I
+Myeloma,TP53,40569697,random,tp53,C,M,,symbol 'TP53' present,491,efficacy and safety of bcma nanobody car t-cell therapy in relapsed or refractory plasma cell myeloma,M
+Myeloma,TP53,30266252,random,tp53,C,ML,,symbol 'TP53' present,579,igm plasma cell myeloma in the era of novel therapy a clinicopathological study of 17 cases,ML
+Myeloma,TP53,25976968,random,tp53,C,W,,symbol 'TP53' present,591,advances in the pathogenesis and diagnosis of multiple myeloma,W
+Myeloma,TP53,40801897,random,tp53,C,M,,symbol 'TP53' present,636,clonal hematopoiesis and inflammation predict hematologic toxicity and secondary myeloid malignancies after b-cell maturation antigen-direct,M
+Myeloma,TP53,40459694,random,tp53,C,ML,,symbol 'TP53' present,641,genetic epigenetic and molecular determinants of multiple myeloma and precursor plasma cell disorders a pathophysiological overview,ML
+Myeloma,TP53,34057806,random,tp53,C,M,,symbol 'TP53' present,715,malignant plasmacytes in bone marrow detected by flow cytometry as a predictor for the risk stratification system of multiple myeloma,M
+Myeloma,TP53,40497952,random,tp53,C,M,,symbol 'TP53' present,745,high-risk genetic multiple myeloma from molecular classification to innovative treatment with monoclonal antibodies and t-cell redirecting t,M
+Myeloma,TP53,41207923,random,tp53,C,M,,symbol 'TP53' present,752,optimizing the use of melflufen melphalan flufenamide in relapsed or refractory multiple myeloma recommendations for clinical practice,M
+Myeloma,TP53,40373458,random,tp53,C,M,,symbol 'TP53' present,780,acute lymphoblastic leukemia following lenalidomide therapy in multiple myeloma patients two case reports and review of the literature,M
+Myeloma,TP53,29073933,random,tp53,C,M,,symbol 'TP53' present,790,role of tumor suppressor p53 and micro-rna interplay in multiple myeloma pathogenesis,M
+Myeloma,TP53,24327604,random,tp53,C,M,,symbol 'TP53' present,795,drug resistance in multiple myeloma latest findings and new concepts on molecular mechanisms,M
+Myeloma,BRAF,24335104,all,braf,C,M,,symbol 'BRAF' present,1,mutation of nras but not kras significantly reduces myeloma sensitivity to single-agent bortezomib therapy,M
+Myeloma,BRAF,26282654,all,braf,C,ML,,symbol 'BRAF' present,3,mutational spectrum copy number changes and outcome results of a sequencing study of patients with newly diagnosed myeloma,ML
+Myeloma,BRAF,29807803,all,braf,C,M,,symbol 'BRAF' present,4,prevalence and clinicopathologic significance of braf v600e mutation in chinese multiple myeloma patients,M
+Myeloma,BRAF,30201956,all,braf,C,ML,,symbol 'BRAF' present,5,frequent functional activation of ras signalling not explained by ras raf mutations in relapsed refractory multiple myeloma,ML
+Myeloma,BRAF,37212518,all,braf,C,M,,symbol 'BRAF' present,7,plasma cell myeloma with ras braf mutations is frequently associated with a complex karyotype advanced stage disease and poorer prognosis,M
+Myeloma,BRAF,32043788,all,braf,C,M,,symbol 'BRAF' present,10,cic mutation as a molecular mechanism of acquired resistance to combined braf-mek inhibition in extramedullary multiple myeloma with central,M
+Myeloma,BRAF,35770320,all,braf,C,ML,,symbol 'BRAF' present,11,comparison of clinical characteristics and genetic aberrations of plasma cell disorders in thailand population,ML
+Myeloma,BRAF,23612012,all,braf,C,M,target,symbol 'BRAF' present,12,targeting the braf v600e mutation in multiple myeloma,M
+Myeloma,BRAF,14616967,all,braf,C,M,,symbol 'BRAF' present,16,alterations of ras signalling in chinese multiple myeloma patients absent braf and rare ras mutations but frequent inactivation of rassf1a b,M
+Myeloma,BRAF,22573403,all,braf,C,ML,,symbol 'BRAF' present,20,intraclonal heterogeneity and distinct molecular mechanisms characterize the development of t 4 14 and t 11 14 myeloma,ML
+Myeloma,BRAF,27899805,all,braf,C,ML,,symbol 'BRAF' present,23,circulating tumour dna analysis demonstrates spatial mutational heterogeneity that coincides with disease relapse in myeloma,ML
+Myeloma,BRAF,39715752,all,braf,C,M,,symbol 'BRAF' present,25,integration of clinical outcomes and molecular features in extramedullary disease in multiple myeloma,M
+Myeloma,BRAF,29563506,all,braf,C,ML,,symbol 'BRAF' present,29,a multiple myeloma-specific capture sequencing platform discovers novel translocations and frequent risk-associated point mutations in igll5,ML
+Myeloma,BRAF,39273371,all,braf,C,P,,symbol 'BRAF' present,30,loss of heterozygosity and mutations in the ras-erk pathway genes in tumor cells of various loci in multiple myeloma,P
+Myeloma,BRAF,28380360,all,braf,C,I,,symbol 'BRAF' present,32,the mutational landscape of circulating tumor cells in multiple myeloma,I
+Myeloma,BRAF,36608320,all,braf,C,M,,symbol 'BRAF' present,39,a phase 2 clinical trial of combined braf mek inhibition for brafv600e-mutated multiple myeloma,M
+Myeloma,BRAF,27458004,all,braf,C,W,,symbol 'BRAF' present,41,targeted sequencing of refractory myeloma reveals a high incidence of mutations in crbn and ras pathway genes,W
+Myeloma,BRAF,27641727,all,braf,C,M,,symbol 'BRAF' present,45,vemurafenib in combination with cobimetinib in relapsed and refractory extramedullary multiple myeloma harboring the braf v600e mutation,M
+Myeloma,BRAF,28427158,all,braf,C,ML,,symbol 'BRAF' present,47,the varied distribution and impact of ras codon and other key dna alterations across the translocation cyclin d subgroups in multiple myelom,ML
+Myeloma,BRAF,33036022,all,braf,C,M,,symbol 'BRAF' present,48,targeting the gck pathway a novel and selective therapeutic strategy against ras-mutated multiple myeloma,M
+Myeloma,BRAF,30718460,all,braf,C,ML,,symbol 'BRAF' present,51,molecular underpinnings of clinical disparity patterns in african american vs caucasian american multiple myeloma patients,ML
+Myeloma,BRAF,27634910,all,braf,C,M,,symbol 'BRAF' present,54,recurrent mutations of mapk pathway genes in multiple myeloma but not in amyloid light-chain amyloidosis,M
+Myeloma,BRAF,37452600,all,braf,C,M,,symbol 'BRAF' present,58,effect of mapk activation via mutations in nras kras and braf on clinical outcome in newly diagnosed multiple myeloma,M
+Myeloma,BRAF,28385781,all,braf,C,M,,symbol 'BRAF' present,64,monitoring multiple myeloma by quantification of recurrent mutations in serum,M
+Myeloma,BRAF,21430775,all,braf,C,M,,symbol 'BRAF' present,67,initial genome sequencing and analysis of multiple myeloma,M
+Myeloma,BRAF,29884741,all,braf,C,ML,,symbol 'BRAF' present,70,identification of novel mutational drivers reveals oncogene dependencies in multiple myeloma,ML
+Myeloma,BRAF,31988198,all,braf,C,M,,symbol 'BRAF' present,77,braf and dis3 mutations associate with adverse outcome in a long-term follow-up of patients with multiple myeloma,M
+Myeloma,BRAF,40943426,all,braf,C,M,,symbol 'BRAF' present,83,liquid biopsy as a means of assessing prognosis and identifying novel risk factors in multiple myeloma,M
+Myeloma,BRAF,23928771,all,braf,C,M,target,symbol 'BRAF' present,95,targeting braf in multiple myeloma,M
+Myeloma,BRAF,40968260,all,braf,C,M,,symbol 'BRAF' present,98,prevalence detection and clinical implications of braf v600e and nras q61r mutations in multiple myeloma bm-ffpe tissues using digital dropl,M
+Myeloma,BRAF,25794135,all,braf,C,M,,symbol 'BRAF' present,100,braf v600e mutation in early-stage multiple myeloma good response to broad acting drugs and no relation to prognosis,M
+Myeloma,BRAF,29895955,all,braf,C,I,,symbol 'BRAF' present,104,multiple myeloma clonal evolution in homogeneously treated patients,I
+Myeloma,BRAF,26090869,all,braf,C,M,,symbol 'BRAF' present,105,molecular spectrum of braf nras and kras gene mutations in plasma cell dyscrasias implication for mek-erk pathway activation,M
+Myeloma,BRAF,38427753,all,braf,C,ML,,symbol 'BRAF' present,135,ctdna improves prognostic prediction for patients with relapsed refractory mm receiving ixazomib lenalidomide and dexamethasone,ML
+Myeloma,BRAF,31551170,all,braf,C,ML,,symbol 'BRAF' present,140,ezh2 overexpression in multiple myeloma prognostic value correlation with clinical characteristics and possible mechanisms,ML
+Myeloma,BRAF,35045690,all,braf,C,I,,symbol 'BRAF' present,169,comprehensive genomic analysis of refractory multiple myeloma reveals a complex mutational landscape associated with drug resistance and nov,I
+Myeloma,BRAF,41166281,all,braf,C,G,,symbol 'BRAF' present,191,precision medicine in hemato-oncology - treatment of refractory multiple myeloma with massive extramedullary involvement using braf mek inhi,G
+Myeloma,BRAF,28297630,all,braf,C,I,,symbol 'BRAF' present,197,genomics of multiple myeloma,I
+Myeloma,BRAF,27863261,all,braf,C,I,,symbol 'BRAF' present,200,a next-generation sequencing strategy for evaluating the most common genetic abnormalities in multiple myeloma,I
+Myeloma,BRAF,32747568,all,braf,C,M,,symbol 'BRAF' present,208,activating kras nras and braf mutants enhance proteasome capacity and reduce endoplasmic reticulum stress in multiple myeloma,M
+Myeloma,BRAF,30635632,all,braf,C,G,,symbol 'BRAF' present,209,genetic and transcriptional landscape of plasma cells in poems syndrome,G
+Myeloma,BRAF,24434212,all,braf,C,W,,symbol 'BRAF' present,214,widespread genetic heterogeneity in multiple myeloma implications for targeted therapy,W
+Myeloma,BRAF,36450626,all,braf,C,M,,symbol 'BRAF' present,221,cobimetinib alone and plus venetoclax with without atezolizumab in patients with relapsed refractory multiple myeloma,M
+Myeloma,BRAF,30096382,all,braf,C,M,,symbol 'BRAF' present,234,high-throughput copy number profiling by digital multiplex ligation-dependent probe amplification in multiple myeloma,M
+Myeloma,BRAF,28492226,all,braf,C,P,,symbol 'BRAF' present,254,circulating tumour dna sequence analysis as an alternative to multiple myeloma bone marrow aspirates,P
+Myeloma,BRAF,41411484,all,braf,C,I,,symbol 'BRAF' present,261,plasma cell leukemia genomic features and their potential relevance for exploring clinical actionability,I
+Myeloma,BRAF,23044976,all,braf,C,M,,symbol 'BRAF' present,279,genome-wide analysis of primary plasma cell leukemia identifies recurrent imbalances associated with changes in transcriptional profiles,M
+Myeloma,BRAF,34518309,all,braf,C,M,,symbol 'BRAF' present,286,single-cell profiling reveals metabolic reprogramming as a resistance mechanism in braf -mutated multiple myeloma,M
+Myeloma,BRAF,35396243,all,braf,C,M,,symbol 'BRAF' present,299,partial response to dabrafenib and trametinib in relapsed braf v600e-mutated multiple myeloma and possible mechanisms of resistance,M
+Myeloma,BRAF,40367415,all,braf,C,I,,symbol 'BRAF' present,305,extramedullary myeloma is genomically complex and characterized by near-universal mapk pathway alterations,I
+Myeloma,BRAF,30231368,all,braf,C,M,,symbol 'BRAF' present,321,risk stratification and targets in multiple myeloma from genomics to the bedside,M
+Myeloma,BRAF,23456262,all,braf,C,ML,,symbol 'BRAF' present,363,molecular pathogenesis of multiple myeloma basic and clinical updates,ML
+Myeloma,BRAF,40411938,all,braf,C,M,,symbol 'BRAF' present,378,cytogenetic and molecular aberrations at diagnosis and in prognosis of multiple myeloma,M
+Myeloma,BRAF,40484006,all,braf,C,M,,symbol 'BRAF' present,396,transdifferentiation of multiple myeloma into histiocytic sarcoma case report of a highly unusual phenomenon,M
+Myeloma,BRAF,37198323,all,braf,C,M,,symbol 'BRAF' present,454,utx inactivation in germinal center b cells promotes the development of multiple myeloma with extramedullary disease,M
+Myeloma,BRAF,27249751,all,braf,C,M,target,symbol 'BRAF' present,470,new targets and new agents in high-risk multiple myeloma,M
+Myeloma,BRAF,29654269,all,braf,C,I,,symbol 'BRAF' present,480,kinase domain activation through gene rearrangement in multiple myeloma,I
+Myeloma,BRAF,25142146,all,braf,C,M,,symbol 'BRAF' present,489,antitumor activity of the erk inhibitor sch772984 corrected against braf mutant nras mutant and wild-type melanoma,M
+Myeloma,BRAF,31036508,all,braf,C,M,,symbol 'BRAF' present,515,future of personalized therapy targeting aberrant signaling pathways in multiple myeloma,M
+Myeloma,BRAF,25976968,all,braf,C,ML,,symbol 'BRAF' present,591,advances in the pathogenesis and diagnosis of multiple myeloma,ML
+Myeloma,BRAF,23534949,all,braf,C,P,,symbol 'BRAF' present,612,targeting of nf-kappab signaling pathway other signaling pathways and epigenetics in therapy of multiple myeloma,P
+Myeloma,BRAF,25894462,all,braf,C,ML,target,symbol 'BRAF' present,618,multiple myeloma acquires resistance to egfr inhibitor via induction of pentose phosphate pathway,ML
+Myeloma,BRAF,32705137,all,braf,C,M,,symbol 'BRAF' present,633,plasma cell myeloma presenting with amyloid-laden crystal-negative histiocytosis,M
+Myeloma,BRAF,27696256,all,braf,C,ML,,symbol 'BRAF' present,701,genomic aberrations in multiple myeloma,ML
+Myeloma,BRAF,28594589,all,braf,C,G,,symbol 'BRAF' present,809,mek inhibitors in oncology a patent review 2015-present,G
+Myeloma,KRAS,24335104,all,kras,C,M,,symbol 'KRAS' present,1,mutation of nras but not kras significantly reduces myeloma sensitivity to single-agent bortezomib therapy,M
+Myeloma,KRAS,26282654,all,kras,C,ML,,symbol 'KRAS' present,3,mutational spectrum copy number changes and outcome results of a sequencing study of patients with newly diagnosed myeloma,ML
+Myeloma,KRAS,29807803,all,kras,C,ML,,symbol 'KRAS' present,4,prevalence and clinicopathologic significance of braf v600e mutation in chinese multiple myeloma patients,ML
+Myeloma,KRAS,30201956,all,kras,C,ML,,symbol 'KRAS' present,5,frequent functional activation of ras signalling not explained by ras raf mutations in relapsed refractory multiple myeloma,ML
+Myeloma,KRAS,37212518,all,kras,C,M,,symbol 'KRAS' present,7,plasma cell myeloma with ras braf mutations is frequently associated with a complex karyotype advanced stage disease and poorer prognosis,M
+Myeloma,KRAS,22573403,all,kras,C,ML,,symbol 'KRAS' present,20,intraclonal heterogeneity and distinct molecular mechanisms characterize the development of t 4 14 and t 11 14 myeloma,ML
+Myeloma,KRAS,27899805,all,kras,C,ML,,symbol 'KRAS' present,23,circulating tumour dna analysis demonstrates spatial mutational heterogeneity that coincides with disease relapse in myeloma,ML
+Myeloma,KRAS,29563506,all,kras,C,I,,symbol 'KRAS' present,29,a multiple myeloma-specific capture sequencing platform discovers novel translocations and frequent risk-associated point mutations in igll5,I
+Myeloma,KRAS,39273371,all,kras,C,M,,symbol 'KRAS' present,30,loss of heterozygosity and mutations in the ras-erk pathway genes in tumor cells of various loci in multiple myeloma,M
+Myeloma,KRAS,28380360,all,kras,C,M,,symbol 'KRAS' present,32,the mutational landscape of circulating tumor cells in multiple myeloma,M
+Myeloma,KRAS,27458004,all,kras,C,ML,,symbol 'KRAS' present,41,targeted sequencing of refractory myeloma reveals a high incidence of mutations in crbn and ras pathway genes,ML
+Myeloma,KRAS,28427158,all,kras,C,ML,,symbol 'KRAS' present,47,the varied distribution and impact of ras codon and other key dna alterations across the translocation cyclin d subgroups in multiple myelom,ML
+Myeloma,KRAS,33036022,all,kras,C,ML,,symbol 'KRAS' present,48,targeting the gck pathway a novel and selective therapeutic strategy against ras-mutated multiple myeloma,ML
+Myeloma,KRAS,30718460,all,kras,C,M,,symbol 'KRAS' present,51,molecular underpinnings of clinical disparity patterns in african american vs caucasian american multiple myeloma patients,M
+Myeloma,KRAS,30545397,all,kras,C,I,,symbol 'KRAS' present,52,whole-exon sequencing of human myeloma cell lines shows mutations related to myeloma patients at relapse with major hits in the dna regulati,I
+Myeloma,KRAS,27634910,all,kras,C,M,,symbol 'KRAS' present,54,recurrent mutations of mapk pathway genes in multiple myeloma but not in amyloid light-chain amyloidosis,M
+Myeloma,KRAS,25743686,all,kras,C,M,,symbol 'KRAS' present,57,longitudinal analysis of 25 sequential sample-pairs using a custom multiple myeloma mutation sequencing panel m 3 p,M
+Myeloma,KRAS,37452600,all,kras,C,M,,symbol 'KRAS' present,58,effect of mapk activation via mutations in nras kras and braf on clinical outcome in newly diagnosed multiple myeloma,M
+Myeloma,KRAS,30809292,all,kras,C,I,,symbol 'KRAS' present,63,comprehensive characterization of the mutational landscape in multiple myeloma cell lines reveals potential drivers and pathways associated ,I
+Myeloma,KRAS,28385781,all,kras,C,M,,symbol 'KRAS' present,64,monitoring multiple myeloma by quantification of recurrent mutations in serum,M
+Myeloma,KRAS,31988198,all,kras,C,ML,,symbol 'KRAS' present,77,braf and dis3 mutations associate with adverse outcome in a long-term follow-up of patients with multiple myeloma,ML
+Myeloma,KRAS,41949149,all,kras,C,ML,,symbol 'KRAS' present,82,stat3 stat5 mutations predict shorter overall survival in patients with plasma cell myeloma,ML
+Myeloma,KRAS,40943426,all,kras,C,M,,symbol 'KRAS' present,83,liquid biopsy as a means of assessing prognosis and identifying novel risk factors in multiple myeloma,M
+Myeloma,KRAS,32386081,all,kras,C,M,,symbol 'KRAS' present,94,genomic analysis of multiple myeloma using targeted capture sequencing in the japanese cohort,M
+Myeloma,KRAS,29895955,all,kras,C,ML,,symbol 'KRAS' present,104,multiple myeloma clonal evolution in homogeneously treated patients,ML
+Myeloma,KRAS,26090869,all,kras,C,M,,symbol 'KRAS' present,105,molecular spectrum of braf nras and kras gene mutations in plasma cell dyscrasias implication for mek-erk pathway activation,M
+Myeloma,KRAS,29760015,all,kras,C,ML,,symbol 'KRAS' present,114,novel genomic findings in multiple myeloma identified through routine diagnostic sequencing,ML
+Myeloma,KRAS,38427753,all,kras,C,M,,symbol 'KRAS' present,135,ctdna improves prognostic prediction for patients with relapsed refractory mm receiving ixazomib lenalidomide and dexamethasone,M
+Myeloma,KRAS,31551170,all,kras,C,ML,,symbol 'KRAS' present,140,ezh2 overexpression in multiple myeloma prognostic value correlation with clinical characteristics and possible mechanisms,ML
+Myeloma,KRAS,31857430,all,kras,C,I,,symbol 'KRAS' present,155,mutation-derived neoantigen-specific t-cell responses in multiple myeloma,I
+Myeloma,KRAS,22939401,all,kras,C,ML,,symbol 'KRAS' present,162,resequencing analysis of the candidate tyrosine kinase and ras pathway gene families in multiple myeloma,ML
+Myeloma,KRAS,34998786,all,kras,C,ML,,symbol 'KRAS' present,188,the application of nextgen sequencing in the diagnosis of myeloid neoplasms in myeloma patients with cytopenia,ML
+Myeloma,KRAS,27223072,all,kras,C,ML,,symbol 'KRAS' present,190,comprehensive genomic profiling of igm multiple myeloma identifies irf4 as a prognostic marker,ML
+Myeloma,KRAS,40707833,all,kras,C,ML,,symbol 'KRAS' present,192,plasmablastic plasmacytoma followed by a plasmacytic plasma cell myeloma insights into discordant extramedullary transformation-a case repor,ML
+Myeloma,KRAS,28297630,all,kras,C,M,,symbol 'KRAS' present,197,genomics of multiple myeloma,M
+Myeloma,KRAS,27863261,all,kras,C,ML,,symbol 'KRAS' present,200,a next-generation sequencing strategy for evaluating the most common genetic abnormalities in multiple myeloma,ML
+Myeloma,KRAS,28550183,all,kras,C,ML,,symbol 'KRAS' present,203,the spectrum of somatic mutations in monoclonal gammopathy of undetermined significance indicates a less complex genomic landscape than that,ML
+Myeloma,KRAS,32747568,all,kras,C,M,,symbol 'KRAS' present,208,activating kras nras and braf mutants enhance proteasome capacity and reduce endoplasmic reticulum stress in multiple myeloma,M
+Myeloma,KRAS,30635632,all,kras,C,I,,symbol 'KRAS' present,209,genetic and transcriptional landscape of plasma cells in poems syndrome,I
+Myeloma,KRAS,24434212,all,kras,C,W,,symbol 'KRAS' present,214,widespread genetic heterogeneity in multiple myeloma implications for targeted therapy,W
+Myeloma,KRAS,34077955,all,kras,C,M,target,symbol 'KRAS' present,219,specific targeting of the kras mutational landscape in myeloma as a tool to unveil the elicited antitumor activity,M
+Myeloma,KRAS,36450626,all,kras,C,M,,symbol 'KRAS' present,221,cobimetinib alone and plus venetoclax with without atezolizumab in patients with relapsed refractory multiple myeloma,M
+Myeloma,KRAS,31698452,all,kras,C,M,,symbol 'KRAS' present,244,integrated phosphoproteomics and transcriptional classifiers reveal hidden ras signaling dynamics in multiple myeloma,M
+Myeloma,KRAS,28492226,all,kras,C,P,,symbol 'KRAS' present,254,circulating tumour dna sequence analysis as an alternative to multiple myeloma bone marrow aspirates,P
+Myeloma,KRAS,29372735,all,kras,C,M,,symbol 'KRAS' present,258,isolation of circulating plasma cells from blood of patients diagnosed with clonal plasma cell disorders using cell selection microfluidics,M
+Myeloma,KRAS,41411484,all,kras,C,ML,,symbol 'KRAS' present,261,plasma cell leukemia genomic features and their potential relevance for exploring clinical actionability,ML
+Myeloma,KRAS,38433500,all,kras,C,I,,symbol 'KRAS' present,298,sensitivity specificity and accuracy of molecular profiling on circulating cell-free dna in refractory or relapsed multiple myeloma patients,I
+Myeloma,KRAS,40367415,all,kras,C,I,,symbol 'KRAS' present,305,extramedullary myeloma is genomically complex and characterized by near-universal mapk pathway alterations,I
+Myeloma,KRAS,30231368,all,kras,C,M,,symbol 'KRAS' present,321,risk stratification and targets in multiple myeloma from genomics to the bedside,M
+Myeloma,KRAS,32228485,all,kras,C,I,,symbol 'KRAS' present,322,combined targeting of mek and the glucocorticoid receptor for the treatment of ras-mutant multiple myeloma,I
+Myeloma,KRAS,23456262,all,kras,C,ML,,symbol 'KRAS' present,363,molecular pathogenesis of multiple myeloma basic and clinical updates,ML
+Myeloma,KRAS,33338886,all,kras,C,M,,symbol 'KRAS' present,377,genetic variants as biomarkers for progression and resistance in multiple myeloma,M
+Myeloma,KRAS,40411938,all,kras,C,W,,symbol 'KRAS' present,378,cytogenetic and molecular aberrations at diagnosis and in prognosis of multiple myeloma,W
+Myeloma,KRAS,38493239,all,kras,C,M,,symbol 'KRAS' present,402,beyond the marrow insights from comprehensive next-generation sequencing of extramedullary multiple myeloma tumors,M
+Myeloma,KRAS,37837907,all,kras,C,M,,symbol 'KRAS' present,420,monitoring mutant kras in plasma cell-free dna can predict disease progression in a patient with multiple myeloma a case report,M
+Myeloma,KRAS,28078910,all,kras,C,I,,symbol 'KRAS' present,468,gain of chromosome 1q portends worse prognosis in multiple myeloma despite novel agent-based induction regimens and autologous transplantati,I
+Myeloma,KRAS,27249751,all,kras,C,M,target,symbol 'KRAS' present,470,new targets and new agents in high-risk multiple myeloma,M
+Myeloma,KRAS,33107092,all,kras,C,M,,symbol 'KRAS' present,479,monitoring treatment response and disease progression in myeloma with circulating cell-free dna,M
+Myeloma,KRAS,25976968,all,kras,C,ML,,symbol 'KRAS' present,591,advances in the pathogenesis and diagnosis of multiple myeloma,ML
+Myeloma,KRAS,25894462,all,kras,C,ML,target,symbol 'KRAS' present,618,multiple myeloma acquires resistance to egfr inhibitor via induction of pentose phosphate pathway,ML
+Myeloma,KRAS,40459694,all,kras,C,ML,,symbol 'KRAS' present,641,genetic epigenetic and molecular determinants of multiple myeloma and precursor plasma cell disorders a pathophysiological overview,ML
+Myeloma,KRAS,27696256,all,kras,C,ML,,symbol 'KRAS' present,701,genomic aberrations in multiple myeloma,ML
+Myeloma,KRAS,42172562,all,kras,C,ML,,symbol 'KRAS' present,766,smoldering multiple myeloma from clinical to immunogenomic risk stratification and therapeutic implications of early intervention,ML
+Myeloma,KRAS,28594589,all,kras,C,G,,symbol 'KRAS' present,809,mek inhibitors in oncology a patent review 2015-present,G
+Myeloma,DIS3,26282654,all,dis3,C,ML,,symbol 'DIS3' present,3,mutational spectrum copy number changes and outcome results of a sequencing study of patients with newly diagnosed myeloma,ML
+Myeloma,DIS3,35770320,all,dis3,C,I,,symbol 'DIS3' present,11,comparison of clinical characteristics and genetic aberrations of plasma cell disorders in thailand population,I
+Myeloma,DIS3,26305418,all,dis3,C,M,,symbol 'DIS3' present,18,a compendium of dis3 mutations and associated transcriptional signatures in plasma cell dyscrasias,M
+Myeloma,DIS3,22573403,all,dis3,C,I,,symbol 'DIS3' present,20,intraclonal heterogeneity and distinct molecular mechanisms characterize the development of t 4 14 and t 11 14 myeloma,I
+Myeloma,DIS3,32864713,all,dis3,C,ML,,symbol 'DIS3' present,24,the clonal evolution during long-term clinical course of multiple myeloma,ML
+Myeloma,DIS3,41832173,all,dis3,C,M,,symbol 'DIS3' present,26,dis3 mutations enhance aid-driven translocations during b-cell activation promoting transformation to multiple myeloma,M
+Myeloma,DIS3,29563506,all,dis3,C,I,,symbol 'DIS3' present,29,a multiple myeloma-specific capture sequencing platform discovers novel translocations and frequent risk-associated point mutations in igll5,I
+Myeloma,DIS3,24150935,all,dis3,C,M,,symbol 'DIS3' present,36,multiple myeloma-associated hdis3 mutations cause perturbations in cellular rna metabolism and suggest hdis3 pin domain as a potential drug ,M
+Myeloma,DIS3,33951891,all,dis3,C,M,,symbol 'DIS3' present,42,dis3 mutations in multiple myeloma impact the transcriptional signature and clinical outcome,M
+Myeloma,DIS3,30545397,all,dis3,C,I,,symbol 'DIS3' present,52,whole-exon sequencing of human myeloma cell lines shows mutations related to myeloma patients at relapse with major hits in the dna regulati,I
+Myeloma,DIS3,25743686,all,dis3,C,I,,symbol 'DIS3' present,57,longitudinal analysis of 25 sequential sample-pairs using a custom multiple myeloma mutation sequencing panel m 3 p,I
+Myeloma,DIS3,37452600,all,dis3,C,I,,symbol 'DIS3' present,58,effect of mapk activation via mutations in nras kras and braf on clinical outcome in newly diagnosed multiple myeloma,I
+Myeloma,DIS3,40152254,all,dis3,C,ML,,symbol 'DIS3' present,60,clonal hematopoietic mutations in plasma cell disorders clinical subgroups and shared pathogenesis,ML
+Myeloma,DIS3,29884741,all,dis3,C,ML,,symbol 'DIS3' present,70,identification of novel mutational drivers reveals oncogene dependencies in multiple myeloma,ML
+Myeloma,DIS3,31988198,all,dis3,C,M,,symbol 'DIS3' present,77,braf and dis3 mutations associate with adverse outcome in a long-term follow-up of patients with multiple myeloma,M
+Myeloma,DIS3,25521164,all,dis3,C,M,,symbol 'DIS3' present,78,the molecular spectrum and clinical impact of dis3 mutations in multiple myeloma,M
+Myeloma,DIS3,29895955,all,dis3,C,I,,symbol 'DIS3' present,104,multiple myeloma clonal evolution in homogeneously treated patients,I
+Myeloma,DIS3,29760015,all,dis3,C,I,,symbol 'DIS3' present,114,novel genomic findings in multiple myeloma identified through routine diagnostic sequencing,I
+Myeloma,DIS3,38427753,all,dis3,C,ML,,symbol 'DIS3' present,135,ctdna improves prognostic prediction for patients with relapsed refractory mm receiving ixazomib lenalidomide and dexamethasone,ML
+Myeloma,DIS3,36861343,all,dis3|rrp44,C,I,,symbol 'DIS3' present,156,in vivo characterization of the critical interaction between the rna exosome and the essential rna helicase mtr4 in saccharomyces cerevisiae,I
+Myeloma,DIS3,27223072,all,dis3,C,ML,,symbol 'DIS3' present,190,comprehensive genomic profiling of igm multiple myeloma identifies irf4 as a prognostic marker,ML
+Myeloma,DIS3,28550183,all,dis3,C,ML,,symbol 'DIS3' present,203,the spectrum of somatic mutations in monoclonal gammopathy of undetermined significance indicates a less complex genomic landscape than that,ML
+Myeloma,DIS3,24434212,all,dis3,C,I,,symbol 'DIS3' present,214,widespread genetic heterogeneity in multiple myeloma implications for targeted therapy,I
+Myeloma,DIS3,41411484,all,dis3,C,ML,,symbol 'DIS3' present,261,plasma cell leukemia genomic features and their potential relevance for exploring clinical actionability,ML
+Myeloma,DIS3,38433500,all,dis3,C,I,,symbol 'DIS3' present,298,sensitivity specificity and accuracy of molecular profiling on circulating cell-free dna in refractory or relapsed multiple myeloma patients,I
+Myeloma,DIS3,36835493,all,dis3,C,M,,symbol 'DIS3' present,366,dis3 the enigmatic gene in multiple myeloma,M
+Myeloma,DIS3,37439377,all,dis3,C,M,,symbol 'DIS3' present,372,dis3 depletion in multiple myeloma causes extensive perturbation in cell cycle progression and centrosome amplification,M
+Myeloma,DIS3,33338886,all,dis3,C,I,,symbol 'DIS3' present,377,genetic variants as biomarkers for progression and resistance in multiple myeloma,I
+Myeloma,DIS3,30257227,all,dis3,C,M,,symbol 'DIS3' present,405,global methylation patterns in primary plasma cell leukemia,M
+Myeloma,DIS3,36215697,all,dis3,C,M,,symbol 'DIS3' present,571,loss of ribonuclease dis3 hampers genome integrity in myeloma by disrupting dna rna hybrid metabolism,M
+Myeloma,DIS3,32954360,all,dis3,C,M,,symbol 'DIS3' present,583,monosomic loss of mir15a mir16-1 is a driver of multiple myeloma proliferation and disease progression,M
+Myeloma,DIS3,25976968,all,dis3,C,I,,symbol 'DIS3' present,591,advances in the pathogenesis and diagnosis of multiple myeloma,I
+Myeloma,DIS3,40459694,all,dis3,C,ML,,symbol 'DIS3' present,641,genetic epigenetic and molecular determinants of multiple myeloma and precursor plasma cell disorders a pathophysiological overview,ML
+Myeloma,IGH,26305418,all,igh,C,I,,symbol 'IGH' present,18,a compendium of dis3 mutations and associated transcriptional signatures in plasma cell dyscrasias,I
+Myeloma,IGH,17036375,all,igh,C,G,,symbol 'IGH' present,22,relevance of ras gene mutations in the context of the molecular heterogeneity of multiple myeloma,G
+Myeloma,IGH,41832173,all,igh,C,M,,symbol 'IGH' present,26,dis3 mutations enhance aid-driven translocations during b-cell activation promoting transformation to multiple myeloma,M
+Myeloma,IGH,29563506,all,igh,C,G,,symbol 'IGH' present,29,a multiple myeloma-specific capture sequencing platform discovers novel translocations and frequent risk-associated point mutations in igll5,G
+Myeloma,IGH,15339850,all,igh,C,M,,symbol 'IGH' present,46,possible roles for activating ras mutations in the mgus to mm transition and in the intramedullary to extramedullary transition in some plas,M
+Myeloma,IGH,30718460,all,igh,C,M,,symbol 'IGH' present,51,molecular underpinnings of clinical disparity patterns in african american vs caucasian american multiple myeloma patients,M
+Myeloma,IGH,20511669,all,igh,C,G,,symbol 'IGH' present,76,identification of translocation products but not k-ras mutations in memory b cells from patients with multiple myeloma,G
+Myeloma,IGH,25521164,all,igh,C,M,,symbol 'IGH' present,78,the molecular spectrum and clinical impact of dis3 mutations in multiple myeloma,M
+Myeloma,IGH,34562616,all,igh,C,I,,symbol 'IGH' present,86,dmg26 a targeted sequencing panel for mutation profiling to address gaps in the prognostication of multiple myeloma,I
+Myeloma,IGH,32386081,all,igh,C,M,,symbol 'IGH' present,94,genomic analysis of multiple myeloma using targeted capture sequencing in the japanese cohort,M
+Myeloma,IGH,18577707,all,igh,C,I,target,symbol 'IGH' present,110,analysis of clonotypic switch junctions reveals multiple myeloma originates from a single class switch event with ongoing mutation in the is,I
+Myeloma,IGH,12139740,all,igh,C,G,,symbol 'IGH' present,138,a molecular study of the t 4 14 in multiple myeloma,G
+Myeloma,IGH,36244464,all,igh,C,P,,symbol 'IGH' present,152,lymphoplasmacytic lymphoma with igg or iga paraprotein a study of 29 cases including cases that can mimic plasma cell neoplasms,P
+Myeloma,IGH,27588520,all,igh,C,G,,symbol 'IGH' present,187,a dna target-enrichment approach to detect mutations copy number changes and immunoglobulin translocations in multiple myeloma,G
+Myeloma,IGH,36251745,all,igh,C,I,,symbol 'IGH' present,196,distinct clonal identities of b-alls arising after lenolidomide therapy for multiple myeloma,I
+Myeloma,IGH,27863261,all,igh,C,M,,symbol 'IGH' present,200,a next-generation sequencing strategy for evaluating the most common genetic abnormalities in multiple myeloma,M
+Myeloma,IGH,28550183,all,igh,C,M,,symbol 'IGH' present,203,the spectrum of somatic mutations in monoclonal gammopathy of undetermined significance indicates a less complex genomic landscape than that,M
+Myeloma,IGH,25904160,all,igh,C,G,,symbol 'IGH' present,204,apobec family mutational signatures are associated with poor prognosis translocations in multiple myeloma,G
+Myeloma,IGH,33057009,all,igh,C,I,,symbol 'IGH' present,206,an enhanced genetic model of relapsed igh-translocated multiple myeloma evolutionary dynamics,I
+Myeloma,IGH,40371906,all,igh,C,M,,symbol 'IGH' present,213,unique molecular assay uma a next-generation sequencing targeted panel for efficient and comprehensive genomic profiling and risk stratifica,M
+Myeloma,IGH,41481388,all,igh,C,I,,symbol 'IGH' present,242,genomic mechanisms of resistance to venetoclax in multiple myeloma with t 11 14 ccnd1 igh,I
+Myeloma,IGH,41411484,all,igh,C,I,,symbol 'IGH' present,261,plasma cell leukemia genomic features and their potential relevance for exploring clinical actionability,I
+Myeloma,IGH,16849642,all,igh,C,G,,symbol 'IGH' present,266,mip-1alpha ccl3 is a downstream target of fgfr3 and ras-mapk signaling in multiple myeloma,G
+Myeloma,IGH,16825510,all,igh,C,I,,symbol 'IGH' present,271,application of self-quenched jh consensus primers for real-time quantitative pcr of igh gene to minimal residual disease evaluation in multi,I
+Myeloma,IGH,18216867,all,igh,C,G,,symbol 'IGH' present,275,genetic aberrations and survival in plasma cell leukemia,G
+Myeloma,IGH,23044976,all,igh,C,G,,symbol 'IGH' present,279,genome-wide analysis of primary plasma cell leukemia identifies recurrent imbalances associated with changes in transcriptional profiles,G
+Myeloma,IGH,39295116,all,igh,C,G,,symbol 'IGH' present,327,whole-genome sequencing reveals cellular origin of concomitant chronic lymphocytic leukemia and multiple myeloma a case report,G
+Myeloma,IGH,16769580,all,igh,C,G,,symbol 'IGH' present,332,immunoglobulin genes in multiple myeloma expressed and non-expressed repertoires heavy and light chain pairings and somatic mutation pattern,G
+Myeloma,IGH,33547114,all,igh,C,M,,symbol 'IGH' present,340,spontaneous tumour lysis syndrome in multiple myeloma with loss of 17p13 1 t 4 14 and monosomy 13,M
+Myeloma,IGH,40411938,all,igh,C,G,,symbol 'IGH' present,378,cytogenetic and molecular aberrations at diagnosis and in prognosis of multiple myeloma,G
+Myeloma,IGH,40484006,all,igh,C,G,,symbol 'IGH' present,396,transdifferentiation of multiple myeloma into histiocytic sarcoma case report of a highly unusual phenomenon,G
+Myeloma,IGH,32026210,all,igh,C,G,,symbol 'IGH' present,403,molecular basis of clonal evolution in multiple myeloma,G
+Myeloma,IGH,15968101,all,igh,C,G,,symbol 'IGH' present,439,incomplete djh rearrangements,G
+Myeloma,IGH,35082402,all,igh,C,G,,symbol 'IGH' present,457,combination therapy targeting erk1 2 and cdk4 6i in relapsed refractory multiple myeloma,G
+Myeloma,IGH,14989251,all,igh,C,G,,symbol 'IGH' present,460,genetics and cytogenetics of multiple myeloma a workshop report,G
+Myeloma,IGH,40489728,all,igh,C,M,,symbol 'IGH' present,471,international myeloma society international myeloma working group consensus recommendations on the definition of high-risk multiple myeloma,M
+Myeloma,IGH,29463311,all,igh,C,G,,symbol 'IGH' present,484,myeloid transformation of plasma cell myeloma molecular evidence of clonal evolution revealed by next generation sequencing,G
+Myeloma,IGH,32139018,all,igh,C,G,,symbol 'IGH' present,532,genomic profiling of multiple myeloma new insights and modern technologies,G
+Myeloma,IGH,30266252,all,igh,C,ML,,symbol 'IGH' present,579,igm plasma cell myeloma in the era of novel therapy a clinicopathological study of 17 cases,ML
+Myeloma,IGH,29453220,all,igh,C,G,,symbol 'IGH' present,619,identification of novel fusion transcripts in multiple myeloma,G
+Myeloma,IGH,23435460,all,igh,C,I,,symbol 'IGH' present,624,characterization of igh locus breakpoints in multiple myeloma indicates a subset of translocations appear to occur in pregerminal center b c,I
+Myeloma,IGH,27454822,all,igh,C,G,,symbol 'IGH' present,638,genomic studies of multiple myeloma reveal an association between x chromosome alterations and genomic profile complexity,G
+Myeloma,IGH,10910926,all,igh,C,M,,symbol 'IGH' present,655,molecular features responsible for the absence of immunoglobulin heavy chain protein synthesis in an igh - subgroup of multiple myeloma,M
+Myeloma,IGH,16155016,all,igh,C,G,,symbol 'IGH' present,664,molecular pathogenesis and a consequent classification of multiple myeloma,G
+Myeloma,IGH,15996928,all,igh,C,G,,symbol 'IGH' present,680,molecular characteristics and gene segment usage in igh gene rearrangements in multiple myeloma,G
+Myeloma,IGH,34823323,all,igh,C,M,,symbol 'IGH' present,681,assessment of bone marrow biopsy and cytogenetic findings in patients with multiple myeloma,M
+Myeloma,IGH,11672773,all,igh,C,G,,symbol 'IGH' present,690,establishment and characterization of a new human myeloma cell line kydelta-1 producing the delta kappa type immunoglobulin,G
+Myeloma,IGH,27696256,all,igh,C,G,,symbol 'IGH' present,701,genomic aberrations in multiple myeloma,G
+Myeloma,IGH,11532618,all,igh,C,G,,symbol 'IGH' present,721,molecular therapy for multiple myeloma,G
+Myeloma,IGH,12764368,all,igh,C,G,,symbol 'IGH' present,727,incomplete djh rearrangements as a novel tumor target for minimal residual disease quantitation in multiple myeloma using real-time pcr,G
+Myeloma,IGH,29531008,all,igh,C,G,,symbol 'IGH' present,754,late relapse of multiple myeloma with testicular plasmacytoma after autologous hematopoietic stem cell transplantation a case report and rev,G
+Myeloma,IGH,19798094,all,igh,C,G,,symbol 'IGH' present,772,international myeloma working group molecular classification of multiple myeloma spotlight review,G
+Myeloma,IGH,38212176,all,igh,C,G,,symbol 'IGH' present,777,chromosomal defects in multiple myeloma,G
+Myeloma,IGH,12358886,all,igh,C,I,,symbol 'IGH' present,811,chromosomal and genetic abnormalities in myeloma,I
+Myeloma,IGH,11106109,all,igh,C,M,,symbol 'IGH' present,815,molecular aspects of multiple myeloma,M
+Myeloma,FGFR3,26282654,all,fgfr3,C,ML,,symbol 'FGFR3' present,3,mutational spectrum copy number changes and outcome results of a sequencing study of patients with newly diagnosed myeloma,ML
+Myeloma,FGFR3,12368157,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,33,novel mutation and rna splice variant of fibroblast growth factor receptor 3 in multiple myeloma patients at diagnosis,M
+Myeloma,FGFR3,11529856,all,fgfr3,C,M,,symbol 'FGFR3' present,34,analysis of fgfr3 gene mutations in multiple myeloma patients with t 4 14,M
+Myeloma,FGFR3,28427158,all,fgfr3,C,P,,symbol 'FGFR3' present,47,the varied distribution and impact of ras codon and other key dna alterations across the translocation cyclin d subgroups in multiple myelom,P
+Myeloma,FGFR3,11429702,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,56,deregulated fgfr3 mutants in multiple myeloma cell lines with t 4 14 comparative analysis of y373c k650e and the novel g384d mutations,M
+Myeloma,FGFR3,37452600,all,fgfr3,C,ML,,symbol 'FGFR3' present,58,effect of mapk activation via mutations in nras kras and braf on clinical outcome in newly diagnosed multiple myeloma,ML
+Myeloma,FGFR3,29884741,all,fgfr3,C,ML,,symbol 'FGFR3' present,70,identification of novel mutational drivers reveals oncogene dependencies in multiple myeloma,ML
+Myeloma,FGFR3,20511669,all,fgfr3,C,I,,symbol 'FGFR3' present,76,identification of translocation products but not k-ras mutations in memory b cells from patients with multiple myeloma,I
+Myeloma,FGFR3,33938208,all,fgfr3,C,M,,symbol 'FGFR3' present,90,clinical significance of tp53 abnormalities in newly diagnosed multiple myeloma,M
+Myeloma,FGFR3,29760015,all,fgfr3,C,ML,,symbol 'FGFR3' present,114,novel genomic findings in multiple myeloma identified through routine diagnostic sequencing,ML
+Myeloma,FGFR3,12139740,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,138,a molecular study of the t 4 14 in multiple myeloma,M
+Myeloma,FGFR3,21273588,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,150,constitutively active fgfr3 with lys650glu mutation enhances bortezomib sensitivity in plasma cell malignancy,M
+Myeloma,FGFR3,22869148,all,fgfr3,C,M,,symbol 'FGFR3' present,153,tumour cell responses to new fibroblast growth factor receptor tyrosine kinase inhibitors and identification of a gatekeeper mutation in fgf,M
+Myeloma,FGFR3,11157491,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,210,activated fibroblast growth factor receptor 3 is an oncogene that contributes to tumor progression in multiple myeloma,M
+Myeloma,FGFR3,36639200,all,fgfr3,C,M,target,symbol 'FGFR3' present,211,single-cell profiling of multiple myeloma reveals molecular response to fgfr3 inhibitor despite clinical progression,M
+Myeloma,FGFR3,19331127,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,215,bortezomib therapeutic effect is associated with expression of fgfr3 in multiple myeloma cells,M
+Myeloma,FGFR3,12042702,all,fgfr3,C,M,,symbol 'FGFR3' present,223,the enigma of ectopic expression of fgfr3 in multiple myeloma a critical initiating event or just a target for mutational activation during ,M
+Myeloma,FGFR3,16849642,all,fgfr3|fibroblast growth factor receptor 3,C,G,,symbol 'FGFR3' present,266,mip-1alpha ccl3 is a downstream target of fgfr3 and ras-mapk signaling in multiple myeloma,G
+Myeloma,FGFR3,18216867,all,fgfr3,C,I,,symbol 'FGFR3' present,275,genetic aberrations and survival in plasma cell leukemia,I
+Myeloma,FGFR3,14871245,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,297,preclinical studies of fibroblast growth factor receptor 3 as a therapeutic target in multiple myeloma,M
+Myeloma,FGFR3,33547114,all,fgfr3,C,M,,symbol 'FGFR3' present,340,spontaneous tumour lysis syndrome in multiple myeloma with loss of 17p13 1 t 4 14 and monosomy 13,M
+Myeloma,FGFR3,19422094,all,fgfr3,C,M,,symbol 'FGFR3' present,362,fgfr3-targeted mab therapy for bladder cancer and multiple myeloma,M
+Myeloma,FGFR3,38199896,all,fgfr3,C,I,,symbol 'FGFR3' present,469,molecular pathogenesis of multiple myeloma clinical implications,I
+Myeloma,FGFR3,19381019,all,fgfr3,C,G,target,symbol 'FGFR3' present,488,antibody-based targeting of fgfr3 in bladder carcinoma and t 4 14 -positive multiple myeloma in mice,G
+Myeloma,FGFR3,31036508,all,fgfr3,C,I,,symbol 'FGFR3' present,515,future of personalized therapy targeting aberrant signaling pathways in multiple myeloma,I
+Myeloma,FGFR3,18794123,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,524,nordihydroguaiaretic acid inhibits an activated fibroblast growth factor receptor 3 mutant and blocks downstream signaling in multiple myelo,M
+Myeloma,FGFR3,10648414,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,531,ectopic expression of fibroblast growth factor receptor 3 promotes myeloma cell proliferation and prevents apoptosis,M
+Myeloma,FGFR3,25976968,all,fgfr3,C,ML,,symbol 'FGFR3' present,591,advances in the pathogenesis and diagnosis of multiple myeloma,ML
+Myeloma,FGFR3,24466111,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,595,fibroblast growth factor receptor 3 interacts with and activates tgf-activated kinase 1 tyrosine phosphorylation and nfb signaling in multip,M
+Myeloma,FGFR3,15784730,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,626,constitutively activated fgfr3 mutants signal through plcgamma-dependent and -independent pathways for hematopoietic transformation,M
+Myeloma,FGFR3,25269480,all,fgfr3,C,M,,symbol 'FGFR3' present,639,phosphoinositide protein kinase pdpk1 is a crucial cell signaling mediator in multiple myeloma,M
+Myeloma,FGFR3,14715624,all,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,657,inhibition of fibroblast growth factor receptor 3 induces differentiation and apoptosis in t 4 14 myeloma,M
+Myeloma,FGFR3,16155016,all,fgfr3,C,I,,symbol 'FGFR3' present,664,molecular pathogenesis and a consequent classification of multiple myeloma,I
+Myeloma,FGFR3,16091734,all,fgfr3|fibroblast growth factor receptor 3,C,G,,symbol 'FGFR3' present,696,fgfr3 as a therapeutic target of the small molecule inhibitor pkc412 in hematopoietic malignancies,G
+Myeloma,FGFR3,11532618,all,fgfr3,C,W,target,symbol 'FGFR3' present,721,molecular therapy for multiple myeloma,W
+Myeloma,FGFR3,12965277,all,fgfr3,C,I,,symbol 'FGFR3' present,800,new insights into the pathophysiology of multiple myeloma,I
+Myeloma,FGFR3,11722983,all,fgfr3,C,I,,symbol 'FGFR3' present,806,multiple myeloma,I
+Myeloma,FGFR3,11106109,all,fgfr3,C,I,,symbol 'FGFR3' present,815,molecular aspects of multiple myeloma,I
+Myeloma,MYC,29563506,all,myc,C,G,,symbol 'MYC' present,29,a multiple myeloma-specific capture sequencing platform discovers novel translocations and frequent risk-associated point mutations in igll5,G
+Myeloma,MYC,33036022,all,c myc|myc,C,I,,symbol 'MYC' present,48,targeting the gck pathway a novel and selective therapeutic strategy against ras-mutated multiple myeloma,I
+Myeloma,MYC,29884741,all,myc,C,ML,,symbol 'MYC' present,70,identification of novel mutational drivers reveals oncogene dependencies in multiple myeloma,ML
+Myeloma,MYC,29559475,all,myc,C,G,,symbol 'MYC' present,75,germline lysine-specific demethylase 1 lsd1 kdm1a mutations confer susceptibility to multiple myeloma,G
+Myeloma,MYC,10980620,all,c myc|myc,C,M,,symbol 'MYC' present,91,a mutation in the c-myc-ires leads to enhanced internal ribosome entry in multiple myeloma a novel mechanism of oncogene de-regulation,M
+Myeloma,MYC,29654271,all,myc,C,M,,symbol 'MYC' present,106,whole-genome sequencing of multiple myeloma reveals oncogenic pathways are targeted somatically through multiple mechanisms,M
+Myeloma,MYC,22772059,all,myc,C,G,,symbol 'MYC' present,173,the feed-forward loop between yb-1 and myc is essential for multiple myeloma cell survival,G
+Myeloma,MYC,39380995,all,myc,C,P,target,symbol 'MYC' present,175,dnp73 enhances tumor progression and immune evasion in multiple myeloma by targeting the myc and mycn pathways,P
+Myeloma,MYC,40707833,all,myc,C,ML,,symbol 'MYC' present,192,plasmablastic plasmacytoma followed by a plasmacytic plasma cell myeloma insights into discordant extramedullary transformation-a case repor,ML
+Myeloma,MYC,27863261,all,myc,C,I,,symbol 'MYC' present,200,a next-generation sequencing strategy for evaluating the most common genetic abnormalities in multiple myeloma,I
+Myeloma,MYC,28619709,all,myc,C,I,,symbol 'MYC' present,202,loss of fam46c promotes cell survival in myeloma,I
+Myeloma,MYC,28550183,all,myc,C,M,,symbol 'MYC' present,203,the spectrum of somatic mutations in monoclonal gammopathy of undetermined significance indicates a less complex genomic landscape than that,M
+Myeloma,MYC,25904160,all,myc,C,M,,symbol 'MYC' present,204,apobec family mutational signatures are associated with poor prognosis translocations in multiple myeloma,M
+Myeloma,MYC,36223594,all,myc,C,G,,symbol 'MYC' present,228,whole-genome analysis identifies novel drivers and high-risk double-hit events in relapsed refractory myeloma,G
+Myeloma,MYC,38714690,all,myc,C,G,,symbol 'MYC' present,256,the genomic landscape of vk myc myeloma highlights shared pathways of transformation between mice and humans,G
+Myeloma,MYC,41411484,all,myc,C,I,,symbol 'MYC' present,261,plasma cell leukemia genomic features and their potential relevance for exploring clinical actionability,I
+Myeloma,MYC,20190818,all,c myc|myc,C,M,,symbol 'MYC' present,267,upregulated c-myc expression in multiple myeloma by internal ribosome entry results from increased interactions with and expression of ptb-1,M
+Myeloma,MYC,27903915,all,myc,C,G,,symbol 'MYC' present,269,max is an epigenetic sensor of 5-carboxylcytosine and is altered in multiple myeloma,G
+Myeloma,MYC,18216867,all,myc,C,G,,symbol 'MYC' present,275,genetic aberrations and survival in plasma cell leukemia,G
+Myeloma,MYC,37105495,all,c myc|myc,C,I,,symbol 'MYC' present,285,identification of potential therapeutic targets for plasmablastic lymphoma through gene expression analysis insights into ras and wnt signal,I
+Myeloma,MYC,38652812,all,myc,C,M,,symbol 'MYC' present,288,genomic profiling to contextualize the results of intervention for smoldering multiple myeloma,M
+Myeloma,MYC,21468039,all,myc,C,M,,symbol 'MYC' present,295,clinical and biological implications of myc activation a common difference between mgus and newly diagnosed multiple myeloma,M
+Myeloma,MYC,29045832,all,c myc|myc,C,P,,symbol 'MYC' present,301,utx kdm6a loss enhances the malignant phenotype of multiple myeloma and sensitizes cells to ezh2 inhibition,P
+Myeloma,MYC,40367415,all,myc,C,I,,symbol 'MYC' present,305,extramedullary myeloma is genomically complex and characterized by near-universal mapk pathway alterations,I
+Myeloma,MYC,10772337,all,c myc|myc,C,G,,symbol 'MYC' present,314,study on the growth inhibition of human multiple myeloma cells by an il-6ralpha mutant,G
+Myeloma,MYC,32118627,all,myc,C,M,,symbol 'MYC' present,336,genetic basis of extramedullary plasmablastic transformation of multiple myeloma,M
+Myeloma,MYC,10980628,all,c myc|myc,C,M,,symbol 'MYC' present,350,bcl-1 rearrangements and p53 mutations in atypical chronic lymphocytic leukemia with t 11 14 q13 q32,M
+Myeloma,MYC,23456262,all,myc,C,ML,,symbol 'MYC' present,363,molecular pathogenesis of multiple myeloma basic and clinical updates,ML
+Myeloma,MYC,32640012,all,myc,C,P,,symbol 'MYC' present,370,expression of nrasq61r and myc transgene in germinal center b cells induces a highly malignant multiple myeloma in mice,P
+Myeloma,MYC,40411938,all,myc,C,G,,symbol 'MYC' present,378,cytogenetic and molecular aberrations at diagnosis and in prognosis of multiple myeloma,G
+Myeloma,MYC,12208757,all,c myc|myc,C,P,,symbol 'MYC' present,399,enhanced sensitivity of multiple myeloma cells containing pten mutations to cci-779,P
+Myeloma,MYC,37198323,all,myc,C,P,,symbol 'MYC' present,454,utx inactivation in germinal center b cells promotes the development of multiple myeloma with extramedullary disease,P
+Myeloma,MYC,35082402,all,c myc|myc,C,W,,symbol 'MYC' present,457,combination therapy targeting erk1 2 and cdk4 6i in relapsed refractory multiple myeloma,W
+Myeloma,MYC,38199896,all,myc,C,M,,symbol 'MYC' present,469,molecular pathogenesis of multiple myeloma clinical implications,M
+Myeloma,MYC,30741931,all,myc,C,I,target,symbol 'MYC' present,483,identification of lenalidomide resistance pathways in myeloma and targeted resensitization using cereblon replacement inhibition of stat3 or,I
+Myeloma,MYC,35643867,all,myc,C,P,,symbol 'MYC' present,490,clonal evolution after treatment pressure in multiple myeloma heterogenous genomic aberrations and transcriptomic convergence,P
+Myeloma,MYC,31036508,all,myc,C,P,,symbol 'MYC' present,515,future of personalized therapy targeting aberrant signaling pathways in multiple myeloma,P
+Myeloma,MYC,18952893,all,c myc|myc,C,I,,symbol 'MYC' present,547,modification of the cysteine residues in ikappabalpha kinase and nf-kappab p65 by xanthohumol leads to suppression of nf-kappab-regulated ge,I
+Myeloma,MYC,30171029,all,myc,C,M,,symbol 'MYC' present,554,dot1l inhibition blocks multiple myeloma cell proliferation by suppressing irf4-myc signaling,M
+Myeloma,MYC,32954360,all,myc,C,I,,symbol 'MYC' present,583,monosomic loss of mir15a mir16-1 is a driver of multiple myeloma proliferation and disease progression,I
+Myeloma,MYC,19201832,all,c myc|myc,C,G,,symbol 'MYC' present,585,cdk2 phosphorylation of smad2 disrupts tgf-beta transcriptional regulation in resistant primary bone marrow myeloma cells,G
+Myeloma,MYC,25976968,all,myc,C,G,,symbol 'MYC' present,591,advances in the pathogenesis and diagnosis of multiple myeloma,G
+Myeloma,MYC,34864816,all,myc,C,G,,symbol 'MYC' present,597,low ncor2 levels in multiple myeloma patients drive multidrug resistance via myc upregulation,G
+Myeloma,MYC,25269480,all,c myc|myc,C,I,,symbol 'MYC' present,639,phosphoinositide protein kinase pdpk1 is a crucial cell signaling mediator in multiple myeloma,I
+Myeloma,MYC,10918396,all,myc,C,I,,symbol 'MYC' present,647,chromosomes 1 and 5 harbor plasmacytoma progressor genes in mice,I
+Myeloma,MYC,26740054,all,c myc|myc,C,P,target,symbol 'MYC' present,659,signaling mechanisms of bortezomib in traf3-deficient mouse b lymphoma and human multiple myeloma cells,P
+Myeloma,MYC,16155016,all,myc,C,M,,symbol 'MYC' present,664,molecular pathogenesis and a consequent classification of multiple myeloma,M
+Myeloma,MYC,39162964,all,myc,C,M,,symbol 'MYC' present,675,multiple myeloma clinical characteristics current therapies and emerging innovative treatments targeting ribosome biogenesis dynamics,M
+Myeloma,MYC,19555670,all,myc,C,I,,symbol 'MYC' present,679,concomitant downregulation of proliferation survival pathways dependent on fgf-r3 jak2 and bcma in human multiple myeloma cells by multi-kin,I
+Myeloma,MYC,27696256,all,myc,C,G,,symbol 'MYC' present,701,genomic aberrations in multiple myeloma,G
+Myeloma,MYC,24857077,all,myc,C,M,,symbol 'MYC' present,749,where we were where we are where we are going progress in multiple myeloma,M
+Myeloma,MYC,29531008,all,myc,C,M,,symbol 'MYC' present,754,late relapse of multiple myeloma with testicular plasmacytoma after autologous hematopoietic stem cell transplantation a case report and rev,M
+Myeloma,MYC,42172562,all,myc,C,M,,symbol 'MYC' present,766,smoldering multiple myeloma from clinical to immunogenomic risk stratification and therapeutic implications of early intervention,M
+Myeloma,MYC,38212176,all,myc,C,G,,symbol 'MYC' present,777,chromosomal defects in multiple myeloma,G
+Myeloma,MYC,31725418,all,myc,C,G,,symbol 'MYC' present,787,lymphoid neoplasms with plasmablastic differentiation a comprehensive review and diagnostic approaches,G
+Myeloma,MYC,12965277,all,c myc|myc,C,I,,symbol 'MYC' present,800,new insights into the pathophysiology of multiple myeloma,I
+Myeloma,MYC,11106109,all,c myc|myc,C,I,,symbol 'MYC' present,815,molecular aspects of multiple myeloma,I
+Myeloma,IRF4,26282654,all,irf4,C,ML,,symbol 'IRF4' present,3,mutational spectrum copy number changes and outcome results of a sequencing study of patients with newly diagnosed myeloma,ML
+Myeloma,IRF4,35770320,all,irf4,C,I,,symbol 'IRF4' present,11,comparison of clinical characteristics and genetic aberrations of plasma cell disorders in thailand population,I
+Myeloma,IRF4,37452600,all,irf4,C,ML,,symbol 'IRF4' present,58,effect of mapk activation via mutations in nras kras and braf on clinical outcome in newly diagnosed multiple myeloma,ML
+Myeloma,IRF4,29884741,all,irf4,C,ML,,symbol 'IRF4' present,70,identification of novel mutational drivers reveals oncogene dependencies in multiple myeloma,ML
+Myeloma,IRF4,29166413,all,irf4,C,M,,symbol 'IRF4' present,99,comprehensive molecular profiling of 718 multiple myelomas reveals significant differences in mutation frequencies between african and europ,M
+Myeloma,IRF4,29654271,all,irf4,C,ML,,symbol 'IRF4' present,106,whole-genome sequencing of multiple myeloma reveals oncogenic pathways are targeted somatically through multiple mechanisms,ML
+Myeloma,IRF4,31857430,all,irf4,C,I,,symbol 'IRF4' present,155,mutation-derived neoantigen-specific t-cell responses in multiple myeloma,I
+Myeloma,IRF4,39501801,all,irf4,C,M,,symbol 'IRF4' present,184,predictive value of pre-treatment circulating tumor dna genomic landscape in patients with relapsed refractory multiple myeloma undergoing a,M
+Myeloma,IRF4,27223072,all,irf4,C,I,,symbol 'IRF4' present,190,comprehensive genomic profiling of igm multiple myeloma identifies irf4 as a prognostic marker,I
+Myeloma,IRF4,28619709,all,irf4,C,G,,symbol 'IRF4' present,202,loss of fam46c promotes cell survival in myeloma,G
+Myeloma,IRF4,29718735,all,irf4,C,ML,,symbol 'IRF4' present,227,expression of crbn ikzf1 and ikzf3 does not predict lenalidomide sensitivity and mutations in the cereblon pathway are infrequent in multipl,ML
+Myeloma,IRF4,24480973,all,interferon regulatory factor 4|irf4,C,M,,symbol 'IRF4' present,246,single-cell genetic analysis reveals the composition of initiating clones and phylogenetic patterns of branching and parallel evolution in m,M
+Myeloma,IRF4,24914135,all,irf4,C,G,,symbol 'IRF4' present,293,identification of cereblon-binding proteins and relationship with response and survival after imids in multiple myeloma,G
+Myeloma,IRF4,35500227,all,irf4,C,ML,,symbol 'IRF4' present,294,racial and ethnic differences in clonal hematopoiesis tumor markers and outcomes of patients with multiple myeloma,ML
+Myeloma,IRF4,29045832,all,irf4,C,P,,symbol 'IRF4' present,301,utx kdm6a loss enhances the malignant phenotype of multiple myeloma and sensitizes cells to ezh2 inhibition,P
+Myeloma,IRF4,40090008,all,irf4,C,G,,symbol 'IRF4' present,398,loss of bcl7a permits irf4 transcriptional activity and cellular growth in multiple myeloma,G
+Myeloma,IRF4,30741931,all,irf4,C,M,target,symbol 'IRF4' present,483,identification of lenalidomide resistance pathways in myeloma and targeted resensitization using cereblon replacement inhibition of stat3 or,M
+Myeloma,IRF4,40829119,all,irf4,C,I,,symbol 'IRF4' present,548,prospective real-world evaluation of t 11 14 prevalence and disease biology in multiple myeloma medici study analysis,I
+Myeloma,IRF4,30171029,all,irf4,C,M,,symbol 'IRF4' present,554,dot1l inhibition blocks multiple myeloma cell proliferation by suppressing irf4-myc signaling,M
+Myeloma,IRF4,34117720,all,irf4,C,M,,symbol 'IRF4' present,635,the immunity-malignancy equilibrium in multiple myeloma lessons from oncogenic events in plasma cells,M
+Myeloma,IRF4,25269480,all,irf4,C,I,,symbol 'IRF4' present,639,phosphoinositide protein kinase pdpk1 is a crucial cell signaling mediator in multiple myeloma,I
+Myeloma,IRF4,10706878,all,irf4,C,P,,symbol 'IRF4' present,666,a monoclonal antibody mum1p detects expression of the mum1 irf4 protein in a subset of germinal center b cells plasma cells and activated t ,P
+Myeloma,IRF4,30098518,all,interferon regulatory factor 4|irf4,C,G,target,symbol 'IRF4' present,720,irf4 in multiple myeloma-biology disease and therapeutic target,G
+Myeloma,IRF4,41391979,all,interferon regulatory factor 4|irf4,C,G,,symbol 'IRF4' present,747,irf4 mum1 in b-cell malignancies molecular mechanisms biological functions and clinical implications,G
+Myeloma,IRF4,31725418,all,interferon regulatory factor 4|irf4,C,P,,symbol 'IRF4' present,787,lymphoid neoplasms with plasmablastic differentiation a comprehensive review and diagnostic approaches,P
+Myeloma,TRAF3,26282654,all,traf3,C,I,,symbol 'TRAF3' present,3,mutational spectrum copy number changes and outcome results of a sequencing study of patients with newly diagnosed myeloma,I
+Myeloma,TRAF3,35770320,all,traf3,C,I,,symbol 'TRAF3' present,11,comparison of clinical characteristics and genetic aberrations of plasma cell disorders in thailand population,I
+Myeloma,TRAF3,30545397,all,traf3,C,W,,symbol 'TRAF3' present,52,whole-exon sequencing of human myeloma cell lines shows mutations related to myeloma patients at relapse with major hits in the dna regulati,W
+Myeloma,TRAF3,17692805,all,traf3,C,I,,symbol 'TRAF3' present,53,promiscuous mutations activate the noncanonical nf-kappab pathway in multiple myeloma,I
+Myeloma,TRAF3,37452600,all,traf3,C,ML,,symbol 'TRAF3' present,58,effect of mapk activation via mutations in nras kras and braf on clinical outcome in newly diagnosed multiple myeloma,ML
+Myeloma,TRAF3,32350909,all,traf3,C,G,,symbol 'TRAF3' present,66,clinical benefit of ixazomib plus lenalidomide-dexamethasone in myeloma patients with non-canonical nf-b pathway activation,G
+Myeloma,TRAF3,20053756,all,traf3,C,P,,symbol 'TRAF3' present,68,classical and or alternative nf-kappab pathway activation in multiple myeloma,P
+Myeloma,TRAF3,31826940,all,traf3,C,M,,symbol 'TRAF3' present,390,elevated choline kinase -mediated choline metabolism supports the prolonged survival of traf3-deficient b lymphocytes,M
+Myeloma,TRAF3,17692804,all,traf3,C,M,,symbol 'TRAF3' present,407,frequent engagement of the classical and alternative nf-kappab pathways by diverse genetic abnormalities in multiple myeloma,M
+Myeloma,TRAF3,29463311,all,traf3,C,P,,symbol 'TRAF3' present,484,myeloid transformation of plasma cell myeloma molecular evidence of clonal evolution revealed by next generation sequencing,P
+Myeloma,TRAF3,26036313,all,traf3,C,M,target,symbol 'TRAF3' present,569,increased resistance to proteasome inhibitors in multiple myeloma mediated by ciap2--implications for a combinatorial treatment,M
+Myeloma,TRAF3,26740054,all,traf3,C,M,target,symbol 'TRAF3' present,659,signaling mechanisms of bortezomib in traf3-deficient mouse b lymphoma and human multiple myeloma cells,M
+Myeloma,TRAF3,21300983,all,traf3,C,M,,symbol 'TRAF3' present,694,deletion of ciap1 and ciap2 in murine b lymphocytes constitutively activates cell survival pathways and inactivates the germinal center resp,M

@@ -1,0 +1,9 @@
+# binary files must never be line-ending converted
+*.pdf binary
+*.png binary
+*.pptx binary
+*.zip binary
+*.db binary
+
+# shell scripts must keep LF line endings on Windows checkouts (bash cannot run CRLF scripts)
+*.sh text eol=lf

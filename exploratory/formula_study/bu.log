@@ -1,0 +1,31 @@
+ambiguous-symbol suppression: 9 of 13 symbols had a bare-symbol entry removed from single-token lookup
+  MB: single['mb'] 1 -> 0 entities
+  IVD: single['ivd'] 1 -> 0 entities
+  CP: single['cp'] 1 -> 0 entities
+  EFS: single['efs'] 1 -> 0 entities
+  SON: single['son'] 1 -> 0 entities
+  CAMP: single['camp'] 1 -> 0 entities
+  ELN: single['eln'] 1 -> 0 entities
+  SCT: single['sct'] 1 -> 0 entities
+  UBC: single['ubc'] 1 -> 0 entities
+longest-match correction: 8203 container names masked
+Breast Cancer 145 0
+Lung Cancer 135 1
+Colorectal Cancer 159 0
+Prostate Cancer 201 0
+Melanoma 174 1
+Bladder Cancer 245 1
+Kidney Cancer 221 0
+Pancreatic Cancer 200 1
+Liver Cancer 217 0
+Stomach Cancer 265 0
+Esophageal Cancer 265 1
+Ovarian Cancer 132 0
+Endometrial Cancer 196 0
+Cervical Cancer 248 3
+Thyroid Cancer 149 1
+Brain Cancer 194 0
+Leukemia 204 0
+Lymphoma 318 4
+Myeloma 224 0
+done

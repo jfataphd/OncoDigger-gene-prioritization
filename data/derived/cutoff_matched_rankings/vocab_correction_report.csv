@@ -1,0 +1,7 @@
+cutoff,cancer,gene,fp_on_full_build,fp_in_truncated_corpus,postings_before,postings_after,top10_changed,rank_before,rank_after
+2022,Lung Cancer,MET,2372,1646,2866,1220,0,9,9
+2022,Thyroid Cancer,REST,136,124,124,0,0,,
+2022,Kidney Cancer,FH,31,29,211,182,1,5,4
+2023,Lung Cancer,MET,2372,1836,3172,1336,1,9,8
+2023,Thyroid Cancer,REST,136,130,130,0,0,,
+2023,Kidney Cancer,FH,31,29,230,201,0,5,5

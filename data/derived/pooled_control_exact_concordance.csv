@@ -1,0 +1,191 @@
+cancer,gene
+Bladder Cancer,EGFR
+Bladder Cancer,KRAS
+Bladder Cancer,TP53
+Bladder Cancer,BRAF
+Bladder Cancer,PIK3CA
+Bladder Cancer,NRAS
+Bladder Cancer,BRCA1
+Bladder Cancer,POLE
+Bladder Cancer,BRCA2
+Bladder Cancer,FLT3
+Brain Cancer,EGFR
+Brain Cancer,KRAS
+Brain Cancer,TP53
+Brain Cancer,BRAF
+Brain Cancer,PIK3CA
+Brain Cancer,NRAS
+Brain Cancer,BRCA1
+Brain Cancer,POLE
+Brain Cancer,BRCA2
+Brain Cancer,FLT3
+Breast Cancer,EGFR
+Breast Cancer,KRAS
+Breast Cancer,TP53
+Breast Cancer,BRAF
+Breast Cancer,PIK3CA
+Breast Cancer,NRAS
+Breast Cancer,BRCA1
+Breast Cancer,POLE
+Breast Cancer,BRCA2
+Breast Cancer,FLT3
+Cervical Cancer,EGFR
+Cervical Cancer,KRAS
+Cervical Cancer,TP53
+Cervical Cancer,BRAF
+Cervical Cancer,PIK3CA
+Cervical Cancer,NRAS
+Cervical Cancer,BRCA1
+Cervical Cancer,POLE
+Cervical Cancer,BRCA2
+Cervical Cancer,FLT3
+Colorectal Cancer,EGFR
+Colorectal Cancer,KRAS
+Colorectal Cancer,TP53
+Colorectal Cancer,BRAF
+Colorectal Cancer,PIK3CA
+Colorectal Cancer,NRAS
+Colorectal Cancer,BRCA1
+Colorectal Cancer,POLE
+Colorectal Cancer,BRCA2
+Colorectal Cancer,FLT3
+Endometrial Cancer,EGFR
+Endometrial Cancer,KRAS
+Endometrial Cancer,TP53
+Endometrial Cancer,BRAF
+Endometrial Cancer,PIK3CA
+Endometrial Cancer,NRAS
+Endometrial Cancer,BRCA1
+Endometrial Cancer,POLE
+Endometrial Cancer,BRCA2
+Endometrial Cancer,FLT3
+Esophageal Cancer,EGFR
+Esophageal Cancer,KRAS
+Esophageal Cancer,TP53
+Esophageal Cancer,BRAF
+Esophageal Cancer,PIK3CA
+Esophageal Cancer,NRAS
+Esophageal Cancer,BRCA1
+Esophageal Cancer,POLE
+Esophageal Cancer,BRCA2
+Esophageal Cancer,FLT3
+Kidney Cancer,EGFR
+Kidney Cancer,KRAS
+Kidney Cancer,TP53
+Kidney Cancer,BRAF
+Kidney Cancer,PIK3CA
+Kidney Cancer,NRAS
+Kidney Cancer,BRCA1
+Kidney Cancer,POLE
+Kidney Cancer,BRCA2
+Kidney Cancer,FLT3
+Leukemia,EGFR
+Leukemia,KRAS
+Leukemia,TP53
+Leukemia,BRAF
+Leukemia,PIK3CA
+Leukemia,NRAS
+Leukemia,BRCA1
+Leukemia,POLE
+Leukemia,BRCA2
+Leukemia,FLT3
+Liver Cancer,EGFR
+Liver Cancer,KRAS
+Liver Cancer,TP53
+Liver Cancer,BRAF
+Liver Cancer,PIK3CA
+Liver Cancer,NRAS
+Liver Cancer,BRCA1
+Liver Cancer,POLE
+Liver Cancer,BRCA2
+Liver Cancer,FLT3
+Lung Cancer,EGFR
+Lung Cancer,KRAS
+Lung Cancer,TP53
+Lung Cancer,BRAF
+Lung Cancer,PIK3CA
+Lung Cancer,NRAS
+Lung Cancer,BRCA1
+Lung Cancer,POLE
+Lung Cancer,BRCA2
+Lung Cancer,FLT3
+Lymphoma,EGFR
+Lymphoma,KRAS
+Lymphoma,TP53
+Lymphoma,BRAF
+Lymphoma,PIK3CA
+Lymphoma,NRAS
+Lymphoma,BRCA1
+Lymphoma,POLE
+Lymphoma,BRCA2
+Lymphoma,FLT3
+Melanoma,EGFR
+Melanoma,KRAS
+Melanoma,TP53
+Melanoma,BRAF
+Melanoma,PIK3CA
+Melanoma,NRAS
+Melanoma,BRCA1
+Melanoma,POLE
+Melanoma,BRCA2
+Melanoma,FLT3
+Myeloma,EGFR
+Myeloma,KRAS
+Myeloma,TP53
+Myeloma,BRAF
+Myeloma,PIK3CA
+Myeloma,NRAS
+Myeloma,BRCA1
+Myeloma,POLE
+Myeloma,BRCA2
+Myeloma,FLT3
+Ovarian Cancer,EGFR
+Ovarian Cancer,KRAS
+Ovarian Cancer,TP53
+Ovarian Cancer,BRAF
+Ovarian Cancer,PIK3CA
+Ovarian Cancer,NRAS
+Ovarian Cancer,BRCA1
+Ovarian Cancer,POLE
+Ovarian Cancer,BRCA2
+Ovarian Cancer,FLT3
+Pancreatic Cancer,EGFR
+Pancreatic Cancer,KRAS
+Pancreatic Cancer,TP53
+Pancreatic Cancer,BRAF
+Pancreatic Cancer,PIK3CA
+Pancreatic Cancer,NRAS
+Pancreatic Cancer,BRCA1
+Pancreatic Cancer,POLE
+Pancreatic Cancer,BRCA2
+Pancreatic Cancer,FLT3
+Prostate Cancer,EGFR
+Prostate Cancer,KRAS
+Prostate Cancer,TP53
+Prostate Cancer,BRAF
+Prostate Cancer,PIK3CA
+Prostate Cancer,NRAS
+Prostate Cancer,BRCA1
+Prostate Cancer,POLE
+Prostate Cancer,BRCA2
+Prostate Cancer,FLT3
+Stomach Cancer,EGFR
+Stomach Cancer,KRAS
+Stomach Cancer,TP53
+Stomach Cancer,BRAF
+Stomach Cancer,PIK3CA
+Stomach Cancer,NRAS
+Stomach Cancer,BRCA1
+Stomach Cancer,POLE
+Stomach Cancer,BRCA2
+Stomach Cancer,FLT3
+Thyroid Cancer,EGFR
+Thyroid Cancer,KRAS
+Thyroid Cancer,TP53
+Thyroid Cancer,BRAF
+Thyroid Cancer,PIK3CA
+Thyroid Cancer,NRAS
+Thyroid Cancer,BRCA1
+Thyroid Cancer,POLE
+Thyroid Cancer,BRCA2
+Thyroid Cancer,FLT3

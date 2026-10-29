@@ -1,0 +1,460 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Lymphoma,MYD88,29734251,random,myd88,C,M,,symbol 'MYD88' present,8,myd88 card11 and cd79b oncogenic mutations are rare events in the indian cohort of de novo nodal diffuse large b-cell lymphoma,M
+Lymphoma,MYD88,39054569,random,myd88,C,W,,symbol 'MYD88' present,31,plasma circulating tumour dna is a better source for diagnosis and mutational analysis of ivlbcl than tissue dna,W
+Lymphoma,MYD88,25428260,random,myd88,C,ML,,symbol 'MYD88' present,34,klf2 mutation is the most frequent somatic change in splenic marginal zone lymphoma and identifies a subset with distinct genotype,ML
+Lymphoma,MYD88,40263702,random,myd88,C,M,,symbol 'MYD88' present,36,impact of myd88 and or cd79b mutations on central nervous system relapse in patients with diffuse large b-cell lymphoma,M
+Lymphoma,MYD88,31609782,random,myd88,C,M,,symbol 'MYD88' present,96,morphologic patterns and the correlation with myd88 l265p cd79b mutations in primary adrenal diffuse large b-cell lymphoma,M
+Lymphoma,MYD88,24444466,random,myd88,C,M,,symbol 'MYD88' present,97,cd79b and myd88 mutations in diffuse large b-cell lymphoma,M
+Lymphoma,MYD88,35236331,random,myd88,C,I,,symbol 'MYD88' present,100,prognostic mutational subtyping in de novo diffuse large b-cell lymphoma,I
+Lymphoma,MYD88,39880607,random,myd88,C,M,,symbol 'MYD88' present,108,hans's algorithm and myd88 l265p mutation may affect prognosis of primary central nervous system b-cell lymphoma,M
+Lymphoma,MYD88,36576110,random,myd88,C,ML,,symbol 'MYD88' present,115,the evaluation of gene mutation profiles by next-generation sequencing in diffuse large b-cell lymphoma,ML
+Lymphoma,MYD88,28856744,random,myd88,C,M,,symbol 'MYD88' present,181,frequency of myd88 and cd79b mutations and mgmt methylation in primary central nervous system diffuse large b-cell lymphoma,M
+Lymphoma,MYD88,39691999,random,myd88,C,I,,symbol 'MYD88' present,212,tp53 mutation is the only robust mutational biomarker for outcome found in a consecutive clinical cohort of real-word patients with primary ,I
+Lymphoma,MYD88,31980558,random,myd88,C,M,,symbol 'MYD88' present,218,diagnostic value of bone marrow core biopsy patterns in lymphoplasmacytic lymphoma waldenstrom macroglobulinaemia and description of its mut,M
+Lymphoma,MYD88,36725383,random,myd88,C,M,,symbol 'MYD88' present,261,whole-exome sequencing revealed the mutational profiles of primary central nervous system lymphoma,M
+Lymphoma,MYD88,40750416,random,myd88,C,P,,symbol 'MYD88' present,295,molecular characterization and therapeutic implications of myd88 and cdkn2a in primary cns lymphoma,P
+Lymphoma,MYD88,29043881,random,myd88,C,M,,symbol 'MYD88' present,307,characterization of the mutational profile of 11 diffuse large b-cell lymphoma cell lines,M
+Lymphoma,MYD88,25779943,random,myd88,C,I,,symbol 'MYD88' present,309,genetics and prognostication in splenic marginal zone lymphoma revelations from deep sequencing,I
+Lymphoma,MYD88,35937947,random,myd88,C,P,,symbol 'MYD88' present,326,genomic mutation landscape of primary breast lymphoma next-generation sequencing analysis,P
+Lymphoma,MYD88,32056332,random,myd88,C,M,,symbol 'MYD88' present,336,gene expression profiling of primary vitreoretinal lymphoma,M
+Lymphoma,MYD88,39483112,random,myd88,C,M,,symbol 'MYD88' present,393,high prevalence of myd88 and cd79b mutations in primary sinonasal diffuse large b-cell lymphoma identification of an mcd-like subtype,M
+Lymphoma,MYD88,31603365,random,myd88,C,M,,symbol 'MYD88' present,396,clinical relevance of the high prevalence of myd88 l265p mutated vitreoretinal lymphoma identified by droplet digital polymerase chain react,M
+Lymphoma,MYD88,33581493,random,myd88,C,ML,,symbol 'MYD88' present,481,diversity of genetic alterations of primary central nervous system lymphoma in hispanic versus non-hispanic patients,ML
+Lymphoma,MYD88,34325497,random,myd88,C,I,,symbol 'MYD88' present,495,plasma circulating tumor dna in patients with primary central nervous system lymphoma,I
+Lymphoma,MYD88,32325488,random,myd88,C,M,,symbol 'MYD88' present,511,lubac accelerates b-cell lymphomagenesis by conferring resistance to genotoxic stress on b cells,M
+Lymphoma,MYD88,32971631,random,myd88,C,M,,symbol 'MYD88' present,526,myd88 l265p mutation in intraocular lymphoma a potential diagnostic marker,M
+Lymphoma,MYD88,30203262,random,myd88,C,M,target,symbol 'MYD88' present,593,oncogenic myd88 mutations in lymphoma novel insights and therapeutic possibilities,M
+Lymphoma,MYD88,30204732,random,myd88,C,M,,symbol 'MYD88' present,601,myd88 l265p mutation detection in the aqueous humor of patients with vitreoretinal lymphoma,M
+Lymphoma,MYD88,36182550,random,myd88,C,M,,symbol 'MYD88' present,636,the prognostic significance of cd79b mutation in diffuse large b-cell lymphoma a meta-analysis and systematic literature review,M
+Lymphoma,MYD88,37501501,random,myd88,C,M,,symbol 'MYD88' present,723,utility of cerebrospinal fluid liquid biopsy in distinguishing cns lymphoma from cerebrospinal infectious demyelinating diseases,M
+Lymphoma,MYD88,34279092,random,myd88,C,M,,symbol 'MYD88' present,803,discovery of highly potent and selective irak1 degraders to probe scaffolding functions of irak1 in abc dlbcl,M
+Lymphoma,MYD88,23355535,random,myd88,C,M,,symbol 'MYD88' present,826,prevalence and clinical significance of the myd88 l265p somatic mutation in waldenstrom's macroglobulinemia and related lymphoid neoplasms,M
+Lymphoma,MYD88,30301877,random,myd88,C,M,,symbol 'MYD88' present,827,loss of tnfaip3 enhances myd88 l265p -driven signaling in non-hodgkin lymphoma,M
+Lymphoma,MYD88,23720088,random,myd88,C,M,,symbol 'MYD88' present,851,molecular and genomic aberrations in chlamydophila psittaci negative ocular adnexal marginal zone lymphomas,M
+Lymphoma,MYD88,35401516,random,myd88,C,ML,,symbol 'MYD88' present,928,oncogenic mutations and tumor microenvironment alterations of older patients with diffuse large b-cell lymphoma,ML
+Lymphoma,MYD88,27440511,random,myd88,C,I,,symbol 'MYD88' present,935,multiplex droplet digital pcr quantification of recurrent somatic mutations in diffuse large b-cell and follicular lymphoma,I
+Lymphoma,MYD88,26752547,random,myd88,C,M,,symbol 'MYD88' present,946,frequent myd88 l265p and cd79b mutations in primary breast diffuse large b-cell lymphoma,M
+Lymphoma,MYD88,33221324,random,myd88,C,M,,symbol 'MYD88' present,950,single b-cell genomic analyses differentiate vitreoretinal lymphoma from chronic inflammation,M
+Lymphoma,MYD88,38775302,random,myd88,C,ML,,symbol 'MYD88' present,952,zanubrutinib is effective in non-germinal-center b-cell-like diffuse large b-cell lymphoma with mutated cd79b high tcl1a expression or over-,ML
+Lymphoma,MYD88,36971477,random,myd88,C,M,,symbol 'MYD88' present,960,large b-cell lymphomas of immune-privileged sites relapse via parallel clonal evolution from a common progenitor b cell,M
+Lymphoma,MYD88,38060829,random,myd88,C,M,,symbol 'MYD88' present,976,an inducible cd79b mutation confers ibrutinib sensitivity in mouse models of myd88-driven diffuse large b-cell lymphoma,M
+Lymphoma,MYD88,25030036,random,myd88,C,M,,symbol 'MYD88' present,995,prevalence of targetable oncogenic mutations and genomic alterations in epstein-barr virus-associated diffuse large b-cell lymphoma of the e,M
+Lymphoma,TP53,41609884,random,tp53,C,M,,symbol 'TP53' present,44,tp53 mutation predict poor prognosis in diffuse large b-cell lymphoma a single-center study,M
+Lymphoma,TP53,42126463,random,tp53,C,M,,symbol 'TP53' present,86,optimized interpretation of p53 immunohistochemistry for prediction of tp53 mutations and patient survival in dlbcl,M
+Lymphoma,TP53,17881637,random,tp53,C,M,,symbol 'TP53' present,88,mutations in the dna-binding codons of tp53 which are associated with decreased expression of trailreceptor-2 predict for poor survival in d,M
+Lymphoma,TP53,41556969,random,tp53,C,I,,symbol 'TP53' present,103,mutational profiling of hiv diffuse large b-cell lymphoma reveals distinct mutational features with evidence of genomic instability,I
+Lymphoma,TP53,34350060,random,tp53,C,M,,symbol 'TP53' present,127,genomic complexity is associated with epigenetic regulator mutations and poor prognosis in diffuse large b-cell lymphoma,M
+Lymphoma,TP53,39890445,random,tp53,C,M,,symbol 'TP53' present,149,mutational profile dynamics in follicular lymphoma and large cell transformation,M
+Lymphoma,TP53,38460798,random,tp53,C,M,,symbol 'TP53' present,182,tp53 mutation is frequent in mantle cell lymphoma with ezh2 expression and have dismal outcome when both are present,M
+Lymphoma,TP53,12149228,random,tp53,C,W,,symbol 'TP53' present,234,atm mutations are associated with inactivation of the arf-tp53 tumor suppressor pathway in diffuse large b-cell lymphoma,W
+Lymphoma,TP53,30005850,random,tp53,C,I,,symbol 'TP53' present,245,challenges in next generation sequencing analysis of somatic mutations in transplant patients,I
+Lymphoma,TP53,37658234,random,tp53,C,M,,symbol 'TP53' present,259,prognostic impact of myd88 and tp53 mutations in diffuse large b cell lymphoma,M
+Lymphoma,TP53,18559976,random,tp53,C,M,,symbol 'TP53' present,288,structural profiles of tp53 gene mutations predict clinical outcome in diffuse large b-cell lymphoma an international collaborative study,M
+Lymphoma,TP53,37006273,random,tp53,C,M,,symbol 'TP53' present,306,case report sandwich therapy of car-t combined with asct sequential car-t cell therapy with asct after remission with car-t therapy caused l,M
+Lymphoma,TP53,29043881,random,tp53,C,ML,,symbol 'TP53' present,307,characterization of the mutational profile of 11 diffuse large b-cell lymphoma cell lines,ML
+Lymphoma,TP53,37706649,random,tp53,C,M,,symbol 'TP53' present,320,differences in mutational signature of diffuse large b-cell lymphomas according to the primary organ,M
+Lymphoma,TP53,31132650,random,tp53,C,M,,symbol 'TP53' present,340,tp53 mutations are common in mantle cell lymphoma including the indolent leukemic non-nodal variant,M
+Lymphoma,TP53,26551667,random,tp53,C,ML,,symbol 'TP53' present,342,the mutational landscape of cutaneous t cell lymphoma and sezary syndrome,ML
+Lymphoma,TP53,38693538,random,tp53,C,M,,symbol 'TP53' present,352,genomic landscape and distinct molecular subtypes of primary testicular lymphoma,M
+Lymphoma,TP53,35240014,random,tp53,C,I,,symbol 'TP53' present,370,circulating tumor dna-based genotyping and monitoring for predicting disease relapses of patients with peripheral t-cell lymphomas,I
+Lymphoma,TP53,26647218,random,tp53,C,I,,symbol 'TP53' present,383,genetic landscapes of relapsed and refractory diffuse large b-cell lymphomas,I
+Lymphoma,TP53,38071955,random,tp53,C,ML,,symbol 'TP53' present,446,recurrent mutations in refractory relapsed diffuse large b-cell lymphoma by targeted gene sequencing,ML
+Lymphoma,TP53,30171453,random,tp53,C,I,,symbol 'TP53' present,478,characterization of genomic alterations in primary central nervous system lymphomas,I
+Lymphoma,TP53,10956404,random,tp53,C,M,,symbol 'TP53' present,489,oncogenic aberrations in the p53 pathway are associated with a high s phase fraction and poor patient survival in b-cell non-hodgkin's lymph,M
+Lymphoma,TP53,32748433,random,tp53,C,M,,symbol 'TP53' present,498,p53 is associated with high-risk and pinpoints tp53 missense mutations in mantle cell lymphoma,M
+Lymphoma,TP53,38165416,random,tp53,C,ML,,symbol 'TP53' present,505,genetic and prognostic analysis of blastoid and pleomorphic mantle cell lymphoma a multicenter analysis in china,ML
+Lymphoma,TP53,30054295,random,tp53,C,I,,symbol 'TP53' present,509,oncogenic activation of the stat3 pathway drives pd-l1 expression in natural killer t-cell lymphoma,I
+Lymphoma,TP53,42183905,random,tp53,C,M,,symbol 'TP53' present,517,association of gestational choriocarcinoma in a mother and li-fraumeni syndrome in her child the result of a single event,M
+Lymphoma,TP53,34664256,random,tp53,C,M,,symbol 'TP53' present,519,tracking the evolution of untreated high-intermediate high-risk diffuse large b-cell lymphoma by circulating tumour dna,M
+Lymphoma,TP53,39777628,random,tp53,C,M,,symbol 'TP53' present,638,distinct subtypes of post-transplant lymphoproliferative disorders chip-like mutations in early lesions and substantial mutational differenc,M
+Lymphoma,TP53,32589730,random,tp53,C,M,,symbol 'TP53' present,639,genetic and evolutionary patterns of treatment resistance in relapsed b-cell lymphoma,M
+Lymphoma,TP53,38566223,random,tp53,C,ML,,symbol 'TP53' present,642,full-spectral genome analysis of natural killer t cell lymphoma highlights impacts of genome instability in driving its progression,ML
+Lymphoma,TP53,26617922,random,tp53,C,M,,symbol 'TP53' present,763,discordant intracellular and plasma d-2-hydroxyglutarate levels in a patient with idh2 mutated angioimmunoblastic t-cell lymphoma,M
+Lymphoma,TP53,34788985,random,tp53,C,W,,symbol 'TP53' present,802,mutational landscape of high-grade b-cell lymphoma with myc- bcl2 and or bcl6 rearrangements characterized by whole-exome sequencing,W
+Lymphoma,TP53,37858047,random,tp53,C,M,,symbol 'TP53' present,824,accurate interpretation of p53 immunohistochemical patterns is a surrogate biomarker for tp53 alterations in large b-cell lymphoma,M
+Lymphoma,TP53,40869343,random,tp53,C,ML,,symbol 'TP53' present,886,clonal hematopoiesis and outcomes after high-dose chemotherapy and autologous stem cell transplantation in patients with aml myeloma and lym,ML
+Lymphoma,TP53,38055913,random,tp53,C,I,,symbol 'TP53' present,934,genetic characterization of primary mediastinal b-cell lymphoma pathogenesis and patient outcomes,I
+Lymphoma,TP53,34381423,random,tp53,C,M,,symbol 'TP53' present,938,case report identification of potential prognosis-related tp53 mutation and bcl6-lpp fusion in primary pituitary lymphoma by next generation,M
+Lymphoma,TP53,19608668,random,tp53,C,M,,symbol 'TP53' present,971,mutational analysis of tp53 pten pik3ca and ctnnb1 beta-catenin genes in human herpesvirus 8-associated primary effusion lymphoma,M
+Lymphoma,TP53,31320741,random,tp53,C,ML,,symbol 'TP53' present,978,systematic review of somatic mutations in splenic marginal zone lymphoma,ML
+Lymphoma,TP53,34791836,random,tp53,C,I,,symbol 'TP53' present,993,identification of a genetic signature enriching for response to ibrutinib in relapsed refractory follicular lymphoma in the dawn phase 2 tri,I
+Lymphoma,TP53,41193463,random,tp53,C,M,,symbol 'TP53' present,997,functional genomics and tumor microenvironment analysis reveal prognostic biological subtypes in mantle cell lymphoma,M
+Lymphoma,KMT2D,39041683,random,kmt2d,C,M,,symbol 'KMT2D' present,42,tp53 and kmt2d mutations associated with worse prognosis in peripheral t-cell lymphomas,M
+Lymphoma,KMT2D,39113693,random,kmt2d,C,M,,symbol 'KMT2D' present,73,kmt2d mutations promoted tumor progression in diffuse large b-cell lymphoma through altering tumor-induced regulatory t cell trafficking via,M
+Lymphoma,KMT2D,34967008,random,kmt2d|lysine methyltransferase 2d,C,P,,symbol 'KMT2D' present,98,the molecular ontogeny of follicular lymphoma gene mutations succeeding the bcl2 translocation define common precursor cells,P
+Lymphoma,KMT2D,41556969,random,kmt2d,C,M,,symbol 'KMT2D' present,103,mutational profiling of hiv diffuse large b-cell lymphoma reveals distinct mutational features with evidence of genomic instability,M
+Lymphoma,KMT2D,39890445,random,kmt2d,C,I,,symbol 'KMT2D' present,149,mutational profile dynamics in follicular lymphoma and large cell transformation,I
+Lymphoma,KMT2D,30126979,random,kmt2d,C,M,,symbol 'KMT2D' present,152,duodenal-type and nodal follicular lymphomas differ by their immune microenvironment rather than their mutation profiles,M
+Lymphoma,KMT2D,27325104,random,kmt2d,C,G,,symbol 'KMT2D' present,168,pediatric-type nodal follicular lymphoma a biologically distinct lymphoma with frequent mapk pathway mutations,G
+Lymphoma,KMT2D,33431788,random,kmt2d,C,G,,symbol 'KMT2D' present,214,crebbp ep300 mutations promoted tumor progression in diffuse large b-cell lymphoma through altering tumor-associated macrophage polarization,G
+Lymphoma,KMT2D,31980558,random,kmt2d,C,ML,,symbol 'KMT2D' present,218,diagnostic value of bone marrow core biopsy patterns in lymphoplasmacytic lymphoma waldenstrom macroglobulinaemia and description of its mut,ML
+Lymphoma,KMT2D,36325357,random,kmt2d,C,M,,symbol 'KMT2D' present,225,case report a rare case of coexisting waldenstrom macroglobulinemia and b-cell acute lymphoblastic leukemia with kmt2d and mecom mutations,M
+Lymphoma,KMT2D,31537689,random,kmt2d,C,M,,symbol 'KMT2D' present,243,kmt2d mutations and tp53 disruptions are poor prognostic biomarkers in mantle cell lymphoma receiving high-dose therapy a fil study,M
+Lymphoma,KMT2D,32239765,random,kmt2d,C,I,,symbol 'KMT2D' present,248,efficacy of venetoclax in high risk relapsed mantle cell lymphoma mcl - outcomes and mutation profile from venetoclax resistant mcl patients,I
+Lymphoma,KMT2D,31776129,random,kmt2d,C,ML,,symbol 'KMT2D' present,279,dramatic increase in gene mutational burden after transformation of follicular lymphoma into tdt b-lymphoblastic leukemia lymphoma,ML
+Lymphoma,KMT2D,35937947,random,kmt2d,C,M,,symbol 'KMT2D' present,326,genomic mutation landscape of primary breast lymphoma next-generation sequencing analysis,M
+Lymphoma,KMT2D,32399964,random,kmt2d,C,ML,,symbol 'KMT2D' present,339,molecular profiling of chinese r-chop treated dlbcl patients identifying a high-risk subgroup,ML
+Lymphoma,KMT2D,26551667,random,kmt2d,C,G,,symbol 'KMT2D' present,342,the mutational landscape of cutaneous t cell lymphoma and sezary syndrome,G
+Lymphoma,KMT2D,35240014,random,kmt2d,C,I,,symbol 'KMT2D' present,370,circulating tumor dna-based genotyping and monitoring for predicting disease relapses of patients with peripheral t-cell lymphomas,I
+Lymphoma,KMT2D,39548807,random,kmt2d,C,G,,symbol 'KMT2D' present,398,high-grade b-cell lymphoma not otherwise specified with diffuse large b-cell lymphoma gene expression signatures genomic analysis and potent,G
+Lymphoma,KMT2D,38609996,random,kmt2d,C,ML,,symbol 'KMT2D' present,429,mutation landscape in chinese nodal diffuse large b-cell lymphoma by targeted next generation sequencing and their relationship with clinico,ML
+Lymphoma,KMT2D,28152507,random,kmt2d,C,ML,,symbol 'KMT2D' present,464,the mutational landscape of ocular marginal zone lymphoma identifies frequent alterations in tnfaip3 followed by mutations in tbl1xr1 and cr,ML
+Lymphoma,KMT2D,40510016,random,kmt2d,C,ML,,symbol 'KMT2D' present,479,integrative genomic and transcriptomic analysis reveals targetable vulnerabilities in angioimmunoblastic t-cell lymphoma,ML
+Lymphoma,KMT2D,33581493,random,kmt2d,C,ML,,symbol 'KMT2D' present,481,diversity of genetic alterations of primary central nervous system lymphoma in hispanic versus non-hispanic patients,ML
+Lymphoma,KMT2D,34325497,random,kmt2d,C,I,,symbol 'KMT2D' present,495,plasma circulating tumor dna in patients with primary central nervous system lymphoma,I
+Lymphoma,KMT2D,38165416,random,kmt2d,C,ML,,symbol 'KMT2D' present,505,genetic and prognostic analysis of blastoid and pleomorphic mantle cell lymphoma a multicenter analysis in china,ML
+Lymphoma,KMT2D,33579790,random,kmt2d,C,ML,,symbol 'KMT2D' present,564,oncogenetic landscape of lymphomagenesis in coeliac disease,ML
+Lymphoma,KMT2D,25123191,random,kmt2d,C,G,,symbol 'KMT2D' present,579,deep sequencing reveals clonal evolution patterns and mutation events associated with relapse in b-cell lymphomas,G
+Lymphoma,KMT2D,27389057,random,kmt2d,C,ML,,symbol 'KMT2D' present,585,combined copy number and mutation analysis identifies oncogenic pathways associated with transformation of follicular lymphoma,ML
+Lymphoma,KMT2D,31028364,random,kmt2d,C,ML,,symbol 'KMT2D' present,599,whole exome sequencing reveals mutations in fat1 tumor suppressor gene clinically impacting on peripheral t-cell lymphoma not otherwise spec,ML
+Lymphoma,KMT2D,36917966,random,kmt2d,C,M,,symbol 'KMT2D' present,627,waldenstrom macroglobulinemia and non-igm-type lymphoplasmacytic lymphoma are genetically similar,M
+Lymphoma,KMT2D,32589730,random,kmt2d,C,M,,symbol 'KMT2D' present,639,genetic and evolutionary patterns of treatment resistance in relapsed b-cell lymphoma,M
+Lymphoma,KMT2D,27750045,random,kmt2d,C,ML,,symbol 'KMT2D' present,641,b-lymphoblastic lymphomas evolving from follicular lymphomas co-express surrogate light chains and mutated gamma heavy chains,ML
+Lymphoma,KMT2D,32012328,random,kmt2d,C,M,,symbol 'KMT2D' present,703,high throughput sequencing reveals high specificity of tnfaip3 mutations in ocular adnexal marginal zone b-cell lymphomas,M
+Lymphoma,KMT2D,36420560,random,kmt2d,C,I,,symbol 'KMT2D' present,716,diffuse large b-cell lymphoma and red cell autoimmunity clinical role and pathogenesis,I
+Lymphoma,KMT2D,30569626,random,kmt2d,C,M,,symbol 'KMT2D' present,719,burkitt lymphoma in a patient with kabuki syndrome carrying a novel kmt2d mutation,M
+Lymphoma,KMT2D,40774060,random,kmt2d,C,I,,symbol 'KMT2D' present,727,genetic characteristics of primary bone marrow large b-cell lymphoma,I
+Lymphoma,KMT2D,35882439,random,kmt2d,C,ML,,symbol 'KMT2D' present,816,genetic and immunohistochemical profiling of nk t-cell lymphomas reveals prognostically relevant bcor-myc association,ML
+Lymphoma,KMT2D,27566587,random,kmt2d,C,G,,symbol 'KMT2D' present,872,recurrent mutations in nf-b pathway components kmt2d and notch1 2 in ocular adnexal malt-type marginal zone lymphomas,G
+Lymphoma,KMT2D,32770099,random,kmt2d,C,ML,,symbol 'KMT2D' present,887,genetic heterogeneity and prognostic impact of recurrent ank2 and tp53 mutations in mantle cell lymphoma a multi-centre cohort study,ML
+Lymphoma,KMT2D,24362818,random,kmt2d,C,ML,,symbol 'KMT2D' present,904,integrated genomic analysis identifies recurrent mutations and evolution patterns driving the initiation and progression of follicular lymph,ML
+Lymphoma,KMT2D,34080947,random,kmt2d,C,ML,,symbol 'KMT2D' present,975,targeted genomic investigations in a population-based cohort of mantle cell lymphoma reveal novel clinically relevant targets,ML
+Lymphoma,EZH2,24634383,all,ezh2,C,M,,symbol 'EZH2' present,4,ezh2 mutations in follicular lymphoma from different ethnic groups and associated gene expression alterations,M
+Lymphoma,EZH2,24052547,all,ezh2,C,M,,symbol 'EZH2' present,5,ezh2 mutations are frequent and represent an early event in follicular lymphoma,M
+Lymphoma,EZH2,40199606,all,ezh2,C,M,,symbol 'EZH2' present,28,jak3 a573v and jak3 m511i mutations in peripheral t-cell lymphoma mediating resistance to anti-pd-1 therapy through the stat3 pd-l1 pathway,M
+Lymphoma,EZH2,39188028,all,ezh2,C,G,,symbol 'EZH2' present,32,crebbp histone acetyltransferase domain mutations predict response to mtor inhibition in relapsed refractory follicular lymphoma,G
+Lymphoma,EZH2,37259686,all,ezh2,C,M,,symbol 'EZH2' present,38,parallel testing of liquid biopsy ctdna and tissue biopsy samples reveals a higher frequency of ezh2 mutations in follicular lymphoma,M
+Lymphoma,EZH2,38096164,all,ezh2,C,M,target,symbol 'EZH2' present,63,performance of the cobas ezh2 mutation test on clinical samples from non-hodgkin lymphoma patients,M
+Lymphoma,EZH2,26256760,all,ezh2,C,ML,,symbol 'EZH2' present,74,integration of gene mutations in risk prognostication for patients receiving first-line immunochemotherapy for follicular lymphoma a retrosp,ML
+Lymphoma,EZH2,25651430,all,ezh2,C,M,,symbol 'EZH2' present,78,strong expression of ezh2 and accumulation of trimethylated h3k27 in diffuse large b-cell lymphoma independent of cell of origin and ezh2 co,M
+Lymphoma,EZH2,22850114,all,ezh2,C,M,,symbol 'EZH2' present,81,a687v ezh2 is a gain-of-function mutation found in lymphoma patients,M
+Lymphoma,EZH2,36858198,all,ezh2,C,M,,symbol 'EZH2' present,91,ezh2 w113c is a gain-of-function mutation in b-cell lymphoma enabling both prc2 methyltransferase activation and tazemetostat resistance,M
+Lymphoma,EZH2,35236331,all,ezh2,C,ML,target,symbol 'EZH2' present,100,prognostic mutational subtyping in de novo diffuse large b-cell lymphoma,ML
+Lymphoma,EZH2,32668764,all,ezh2,C,M,,symbol 'EZH2' present,113,quantitative analysis and monitoring of ezh2 mutations using liquid biopsy in follicular lymphoma,M
+Lymphoma,EZH2,36576110,all,ezh2,C,I,,symbol 'EZH2' present,115,the evaluation of gene mutation profiles by next-generation sequencing in diffuse large b-cell lymphoma,I
+Lymphoma,EZH2,24327543,all,ezh2,C,M,,symbol 'EZH2' present,134,targetable activating mutations are very frequent in gcb and abc diffuse large b-cell lymphoma,M
+Lymphoma,EZH2,39890445,all,ezh2,C,I,,symbol 'EZH2' present,149,mutational profile dynamics in follicular lymphoma and large cell transformation,I
+Lymphoma,EZH2,30126979,all,ezh2,C,I,,symbol 'EZH2' present,152,duodenal-type and nodal follicular lymphomas differ by their immune microenvironment rather than their mutation profiles,I
+Lymphoma,EZH2,38460798,all,ezh2,C,M,,symbol 'EZH2' present,182,tp53 mutation is frequent in mantle cell lymphoma with ezh2 expression and have dismal outcome when both are present,M
+Lymphoma,EZH2,33431788,all,ezh2,C,G,,symbol 'EZH2' present,214,crebbp ep300 mutations promoted tumor progression in diffuse large b-cell lymphoma through altering tumor-associated macrophage polarization,G
+Lymphoma,EZH2,42633616,all,ezh2,C,M,,symbol 'EZH2' present,228,comparative analysis of the clinicopathological features of follicular lymphoma with and without ezh2 y646 mutation,M
+Lymphoma,EZH2,22194861,all,ezh2,C,M,target,symbol 'EZH2' present,235,ezh2 codon 641 mutations are common in bcl2-rearranged germinal center b cell lymphomas,M
+Lymphoma,EZH2,24802772,all,ezh2,C,M,,symbol 'EZH2' present,237,a transgenic mouse model demonstrating the oncogenic role of mutations in the polycomb-group gene ezh2 in lymphomagenesis,M
+Lymphoma,EZH2,26883583,all,ezh2,C,M,,symbol 'EZH2' present,272,digital pcr for quantification of recurrent and potentially actionable somatic mutations in circulating free dna from patients with diffuse ,M
+Lymphoma,EZH2,25807917,all,ezh2,C,M,,symbol 'EZH2' present,273,multiplex sequencing for ezh2 cd79b and myd88 mutations using archival cytospin preparations from b-cell non-hodgkin lymphoma aspirates prev,M
+Lymphoma,EZH2,23361872,all,ezh2,C,M,,symbol 'EZH2' present,276,ezh2 and cd79b mutational status over time in b-cell non-hodgkin lymphomas detected by high-throughput sequencing using minimal samples,M
+Lymphoma,EZH2,21190999,all,ezh2,C,M,,symbol 'EZH2' present,287,somatic mutations at ezh2 y641 act dominantly through a mechanism of selectively altered prc2 catalytic activity to increase h3k27 trimethyl,M
+Lymphoma,EZH2,36104682,all,ezh2,C,M,,symbol 'EZH2' present,303,ezh2 mutations at diagnosis in follicular lymphoma a promising biomarker to guide frontline treatment,M
+Lymphoma,EZH2,39179948,all,ezh2,C,M,,symbol 'EZH2' present,328,tazemetostat for relapsed refractory b-cell non-hodgkin lymphoma with ezh2 mutation in japan 3-year follow-up for a phase ii study,M
+Lymphoma,EZH2,27135738,all,ezh2,C,M,,symbol 'EZH2' present,333,an oncogenic ezh2 mutation induces tumors through global redistribution of histone 3 lysine 27 trimethylation,M
+Lymphoma,EZH2,39273276,all,ezh2,C,ML,,symbol 'EZH2' present,345,characterizing the mutational landscape of diffuse large b-cell lymphoma in a prospective cohort of mexican patients,ML
+Lymphoma,EZH2,34044429,all,ezh2,C,M,,symbol 'EZH2' present,371,a cohort study of the prognostic impact of exon-16 ezh2 mutations in a mexican-mestizo population of patients with diffuse large b-cell lymp,M
+Lymphoma,EZH2,25893294,all,ezh2,C,M,,symbol 'EZH2' present,373,development of secondary mutations in wild-type and mutant ezh2 alleles cooperates to confer resistance to ezh2 inhibitors,M
+Lymphoma,EZH2,28430172,all,ezh2,C,M,,symbol 'EZH2' present,384,ezh2 alterations in follicular lymphoma biological and clinical correlations,M
+Lymphoma,EZH2,31419226,all,ezh2,C,M,,symbol 'EZH2' present,385,dznep-mediated apoptosis in b-cell lymphoma is independent of the lymphoma type ezh2 mutation status and myc bcl2 or bcl6 translocations,M
+Lymphoma,EZH2,38071955,all,ezh2,C,M,,symbol 'EZH2' present,446,recurrent mutations in refractory relapsed diffuse large b-cell lymphoma by targeted gene sequencing,M
+Lymphoma,EZH2,29122756,all,ezh2,C,M,,symbol 'EZH2' present,455,foxp1 expression is a prognostic biomarker in follicular lymphoma treated with rituximab and chemotherapy,M
+Lymphoma,EZH2,40504770,all,ezh2,C,M,,symbol 'EZH2' present,466,mutant ezh2 alters the epigenetic network and increases epigenetic heterogeneity in b cell lymphoma,M
+Lymphoma,EZH2,25762637,all,ezh2,C,M,,symbol 'EZH2' present,535,immunohistochemical and genomic profiles of diffuse large b-cell lymphomas implications for targeted ezh2 inhibitor therapy,M
+Lymphoma,EZH2,27389057,all,ezh2,C,I,,symbol 'EZH2' present,585,combined copy number and mutation analysis identifies oncogenic pathways associated with transformation of follicular lymphoma,I
+Lymphoma,EZH2,41662591,all,ezh2,C,G,,symbol 'EZH2' present,587,multiomic study of cutaneous t-cell lymphoma reveals single-cell clonal evolution in progression and therapy resistance,G
+Lymphoma,EZH2,33233721,all,ezh2,C,M,,symbol 'EZH2' present,613,identification of recurrent mutations in the microrna-binding sites of b-cell lymphoma-associated genes in follicular lymphoma,M
+Lymphoma,EZH2,32396861,all,ezh2,C,M,,symbol 'EZH2' present,679,mutant ezh2 induces a pre-malignant lymphoma niche by reprogramming the immune response,M
+Lymphoma,EZH2,41364305,all,ezh2,C,M,,symbol 'EZH2' present,695,clinicopathological characteristics genetic aberrations and optimized treatment strategies in double-hit and triple-hit lymphoma a multi-cen,M
+Lymphoma,EZH2,22343534,all,ezh2,C,I,,symbol 'EZH2' present,701,discovery and prioritization of somatic mutations in diffuse large b-cell lymphoma dlbcl by whole-exome sequencing,I
+Lymphoma,EZH2,22323599,all,ezh2,C,M,,symbol 'EZH2' present,720,mutation of a677 in histone methyltransferase ezh2 in human b-cell lymphoma promotes hypertrimethylation of histone h3 on lysine 27 h3k27,M
+Lymphoma,EZH2,28438623,all,ezh2,C,M,,symbol 'EZH2' present,738,ezh2 overexpression in primary gastrointestinal diffuse large b-cell lymphoma and its association with the clinicopathological features,M
+Lymphoma,EZH2,38658543,all,ezh2,C,M,,symbol 'EZH2' present,739,ezh2 mutations in follicular lymphoma distort h3k27me3 profiles and alter transcriptional responses to prc2 inhibition,M
+Lymphoma,EZH2,29858685,all,ezh2,C,M,,symbol 'EZH2' present,775,concomitant 1p36 deletion and tnfrsf14 mutations in primary cutaneous follicle center lymphoma frequently expressing high levels of ezh2 pro,M
+Lymphoma,EZH2,24435047,all,ezh2,C,M,,symbol 'EZH2' present,780,mutations in linker histone genes hist1h1 b c d and e oct2 pou2f2 irf8 and arid1a underlying the pathogenesis of follicular lymphoma,M
+Lymphoma,EZH2,20081860,all,ezh2,C,M,,symbol 'EZH2' present,794,somatic mutations altering ezh2 tyr641 in follicular and diffuse large b-cell lymphomas of germinal-center origin,M
+Lymphoma,EZH2,24349473,all,ezh2,C,ML,,symbol 'EZH2' present,800,whole exome sequencing identifies novel recurrently mutated genes in patients with splenic marginal zone lymphoma,ML
+Lymphoma,EZH2,39984775,all,ezh2,C,M,,symbol 'EZH2' present,809,exploratory biomarker analysis from a phase iii study of the pi3k inhibitor copanlisib in combination with rituximab in patients with indole,M
+Lymphoma,EZH2,33937922,all,ezh2,C,M,,symbol 'EZH2' present,829,epigenetics of indolent lymphoma and how it drives novel therapeutic approaches-focus on ezh2-targeted drugs,M
+Lymphoma,EZH2,29200404,all,ezh2,C,I,,symbol 'EZH2' present,849,stat5bn642h is a driver mutation for t cell neoplasia,I
+Lymphoma,EZH2,33492746,all,ezh2,C,M,target,symbol 'EZH2' present,884,phase 1 study of tazemetostat in japanese patients with relapsed or refractory b-cell lymphoma,M
+Lymphoma,EZH2,24362818,all,ezh2,C,ML,,symbol 'EZH2' present,904,integrated genomic analysis identifies recurrent mutations and evolution patterns driving the initiation and progression of follicular lymph,ML
+Lymphoma,EZH2,33035457,all,ezh2,C,M,,symbol 'EZH2' present,908,tazemetostat for patients with relapsed or refractory follicular lymphoma an open-label single-arm multicentre phase 2 trial,M
+Lymphoma,EZH2,27440511,all,enhancer of zeste 2 polycomb repressive complex 2 subunit|ezh2,C,M,,symbol 'EZH2' present,935,multiplex droplet digital pcr quantification of recurrent somatic mutations in diffuse large b-cell and follicular lymphoma,M
+Lymphoma,EZH2,33709777,all,ezh2,C,M,,symbol 'EZH2' present,937,ezh2 inhibition by tazemetostat mechanisms of action safety and efficacy in relapsed refractory follicular lymphoma,M
+Lymphoma,EZH2,25275047,all,ezh2,C,M,,symbol 'EZH2' present,951,activating mutations affecting the nf-kappa b pathway and ezh2-mediated epigenetic regulation are rare events in primary mediastinal large b,M
+Lymphoma,EZH2,25030036,all,ezh2,C,W,,symbol 'EZH2' present,995,prevalence of targetable oncogenic mutations and genomic alterations in epstein-barr virus-associated diffuse large b-cell lymphoma of the e,W
+Lymphoma,EZH2,28659443,all,ezh2,C,M,,symbol 'EZH2' present,999,genetic and epigenetic inactivation of sestrin1 controls mtorc1 and response to ezh2 inhibition in follicular lymphoma,M
+Lymphoma,CD79B,29734251,random,cd79b,C,M,,symbol 'CD79B' present,8,myd88 card11 and cd79b oncogenic mutations are rare events in the indian cohort of de novo nodal diffuse large b-cell lymphoma,M
+Lymphoma,CD79B,31609782,random,cd79b,C,M,,symbol 'CD79B' present,96,morphologic patterns and the correlation with myd88 l265p cd79b mutations in primary adrenal diffuse large b-cell lymphoma,M
+Lymphoma,CD79B,24444466,random,cd79b,C,M,,symbol 'CD79B' present,97,cd79b and myd88 mutations in diffuse large b-cell lymphoma,M
+Lymphoma,CD79B,35236331,random,cd79b,C,I,,symbol 'CD79B' present,100,prognostic mutational subtyping in de novo diffuse large b-cell lymphoma,I
+Lymphoma,CD79B,39880607,random,cd79b,C,M,,symbol 'CD79B' present,108,hans's algorithm and myd88 l265p mutation may affect prognosis of primary central nervous system b-cell lymphoma,M
+Lymphoma,CD79B,24327543,random,cd79b,C,G,,symbol 'CD79B' present,134,targetable activating mutations are very frequent in gcb and abc diffuse large b-cell lymphoma,G
+Lymphoma,CD79B,25347427,random,cd79b,C,M,,symbol 'CD79B' present,178,primary diffuse large b-cell lymphomas of central nervous system exhibit remarkably high prevalence of oncogenic myd88 and cd79b mutations,M
+Lymphoma,CD79B,28856744,random,cd79b,C,M,,symbol 'CD79B' present,181,frequency of myd88 and cd79b mutations and mgmt methylation in primary central nervous system diffuse large b-cell lymphoma,M
+Lymphoma,CD79B,30390359,random,cd79b,C,M,,symbol 'CD79B' present,201,cd79b mutations in primary vitreoretinal lymphoma diagnostic and prognostic potential,M
+Lymphoma,CD79B,32745612,random,cd79b,C,M,,symbol 'CD79B' present,233,analysis of driver mutational hot spots in blood-derived cell-free dna of patients with primary central nervous system lymphoma obtained bef,M
+Lymphoma,CD79B,26111727,random,cd79b,C,M,,symbol 'CD79B' present,238,recurrent mutations of cd79b and myd88 are the hallmark of primary central nervous system lymphomas,M
+Lymphoma,CD79B,38909978,random,cd79b,C,I,,symbol 'CD79B' present,240,diagnostic potential of vitreoretinal lymphoma by detection of gene mutations with ngs in 25 chinese patients,I
+Lymphoma,CD79B,25807917,random,cd79b,C,M,,symbol 'CD79B' present,273,multiplex sequencing for ezh2 cd79b and myd88 mutations using archival cytospin preparations from b-cell non-hodgkin lymphoma aspirates prev,M
+Lymphoma,CD79B,23361872,random,cd79b,C,M,,symbol 'CD79B' present,276,ezh2 and cd79b mutational status over time in b-cell non-hodgkin lymphomas detected by high-throughput sequencing using minimal samples,M
+Lymphoma,CD79B,37706649,random,cd79b,C,ML,,symbol 'CD79B' present,320,differences in mutational signature of diffuse large b-cell lymphomas according to the primary organ,ML
+Lymphoma,CD79B,35937947,random,cd79b,C,I,,symbol 'CD79B' present,326,genomic mutation landscape of primary breast lymphoma next-generation sequencing analysis,I
+Lymphoma,CD79B,27048211,random,cd79b,C,M,,symbol 'CD79B' present,331,b-cell-specific conditional expression of myd88p l252p leads to the development of diffuse large b-cell lymphoma in mice,M
+Lymphoma,CD79B,38693538,random,cd79b,C,I,,symbol 'CD79B' present,352,genomic landscape and distinct molecular subtypes of primary testicular lymphoma,I
+Lymphoma,CD79B,26647218,random,cd79b,C,M,,symbol 'CD79B' present,383,genetic landscapes of relapsed and refractory diffuse large b-cell lymphomas,M
+Lymphoma,CD79B,31150604,random,cd79b,C,I,,symbol 'CD79B' present,422,mutations of the b-cell receptor pathway confer chemoresistance in primary cutaneous diffuse large b-cell lymphoma leg type,I
+Lymphoma,CD79B,38609996,random,cd79b,C,I,,symbol 'CD79B' present,429,mutation landscape in chinese nodal diffuse large b-cell lymphoma by targeted next generation sequencing and their relationship with clinico,I
+Lymphoma,CD79B,28803429,random,cd79b,C,M,,symbol 'CD79B' present,457,patients with primary breast and primary female genital tract diffuse large b cell lymphoma have a high frequency of myd88 and cd79b mutatio,M
+Lymphoma,CD79B,38566053,random,cd79b,C,M,,symbol 'CD79B' present,460,detection of circulating tumor dna in plasma of patients with primary cns lymphoma by digital droplet pcr,M
+Lymphoma,CD79B,33581493,random,cd79b,C,ML,,symbol 'CD79B' present,481,diversity of genetic alterations of primary central nervous system lymphoma in hispanic versus non-hispanic patients,ML
+Lymphoma,CD79B,28153771,random,cd79b,C,W,,symbol 'CD79B' present,499,b-cell function gene mutations in diffuse large b-cell lymphoma a retrospective cohort study,W
+Lymphoma,CD79B,27923841,random,cd79b,C,M,,symbol 'CD79B' present,501,biological and clinical relevance of associated genomic alterations in myd88 l265p and non-l265p-mutated diffuse large b-cell lymphoma analy,M
+Lymphoma,CD79B,38411628,random,cd79b,C,M,,symbol 'CD79B' present,576,nomogram for predicting survival of patients with diffuse large b-cell lymphoma,M
+Lymphoma,CD79B,40344323,random,cd79b,C,M,,symbol 'CD79B' present,620,extranodal diffuse large b-cell lymphoma clinical and molecular insights with survival outcomes from the multicenter expect study,M
+Lymphoma,CD79B,36182550,random,cd79b,C,M,,symbol 'CD79B' present,636,the prognostic significance of cd79b mutation in diffuse large b-cell lymphoma a meta-analysis and systematic literature review,M
+Lymphoma,CD79B,40616640,random,cd79b,C,M,,symbol 'CD79B' present,658,favorable impact of zanubrutinib combined with r-chop regimen in myd88-mutated new-diagnosed diffuse large b-cell lymphoma a retrospective s,M
+Lymphoma,CD79B,27297871,random,cd79b,C,ML,,symbol 'CD79B' present,691,recurrent mutations in genes involved in nuclear factor-b signalling in nodal marginal zone lymphoma-diagnostic and therapeutic implications,ML
+Lymphoma,CD79B,24970810,random,cd79b,C,ML,,symbol 'CD79B' present,734,mutational analysis of primary central nervous system lymphoma,ML
+Lymphoma,CD79B,34706861,random,cd79b,C,M,,symbol 'CD79B' present,843,prevalence and prognostic value of myd88 and cd79b mutations in ocular adnexal large b-cell lymphoma a reclassification of ocular adnexal la,M
+Lymphoma,CD79B,40485393,random,cd79b,C,M,,symbol 'CD79B' present,844,clinicopathological genomic and transcriptomic feature analysis of primary adrenal large b-cell lymphoma insights into immune-privileged sit,M
+Lymphoma,CD79B,41410279,random,cd79b,C,M,,symbol 'CD79B' present,863,myd88 and cd79b mutation analysis in primary pharyngeal diffuse large b-cell lymphomas expanding the mcd-like subtype from the sinonasal reg,M
+Lymphoma,CD79B,28319526,random,cd79b,C,ML,,symbol 'CD79B' present,903,anaplastic variant of diffuse large b-cell lymphoma displays intricate genetic alterations and distinct biological features,ML
+Lymphoma,CD79B,35401516,random,cd79b,C,ML,,symbol 'CD79B' present,928,oncogenic mutations and tumor microenvironment alterations of older patients with diffuse large b-cell lymphoma,ML
+Lymphoma,CD79B,26752547,random,cd79b,C,M,,symbol 'CD79B' present,946,frequent myd88 l265p and cd79b mutations in primary breast diffuse large b-cell lymphoma,M
+Lymphoma,CD79B,38775302,random,cd79b,C,M,,symbol 'CD79B' present,952,zanubrutinib is effective in non-germinal-center b-cell-like diffuse large b-cell lymphoma with mutated cd79b high tcl1a expression or over-,M
+Lymphoma,CD79B,25030036,random,cd79b,C,M,,symbol 'CD79B' present,995,prevalence of targetable oncogenic mutations and genomic alterations in epstein-barr virus-associated diffuse large b-cell lymphoma of the e,M
+Lymphoma,CREBBP,24052547,all,crebbp,C,ML,,symbol 'CREBBP' present,5,ezh2 mutations are frequent and represent an early event in follicular lymphoma,ML
+Lymphoma,CREBBP,37493986,all,crebbp,C,M,,symbol 'CREBBP' present,19,mutations associated with progression in follicular lymphoma predict inferior outcomes at diagnosis alliance a151303,M
+Lymphoma,CREBBP,28302137,all,crebbp,C,M,,symbol 'CREBBP' present,21,mutations of crebbp and socs1 are independent prognostic factors in diffuse large b cell lymphoma mutational analysis of the sakk 38 07 pros,M
+Lymphoma,CREBBP,39188028,all,crebbp,C,M,,symbol 'CREBBP' present,32,crebbp histone acetyltransferase domain mutations predict response to mtor inhibition in relapsed refractory follicular lymphoma,M
+Lymphoma,CREBBP,26256760,all,crebbp,C,I,,symbol 'CREBBP' present,74,integration of gene mutations in risk prognostication for patients receiving first-line immunochemotherapy for follicular lymphoma a retrosp,I
+Lymphoma,CREBBP,34967008,all,crebbp,C,P,,symbol 'CREBBP' present,98,the molecular ontogeny of follicular lymphoma gene mutations succeeding the bcl2 translocation define common precursor cells,P
+Lymphoma,CREBBP,39890445,all,crebbp,C,M,,symbol 'CREBBP' present,149,mutational profile dynamics in follicular lymphoma and large cell transformation,M
+Lymphoma,CREBBP,30126979,all,crebbp,C,ML,,symbol 'CREBBP' present,152,duodenal-type and nodal follicular lymphomas differ by their immune microenvironment rather than their mutation profiles,ML
+Lymphoma,CREBBP,28064239,all,crebbp,C,M,,symbol 'CREBBP' present,166,recurrent somatic mutations affecting b-cell receptor signaling pathway genes in follicular lymphoma,M
+Lymphoma,CREBBP,27325104,all,crebbp,C,G,,symbol 'CREBBP' present,168,pediatric-type nodal follicular lymphoma a biologically distinct lymphoma with frequent mapk pathway mutations,G
+Lymphoma,CREBBP,40725159,all,crebbp,C,M,,symbol 'CREBBP' present,171,missense mutations in the kat domain of crebbp gene in patients with follicular lymphoma implications for differential diagnosis and prognos,M
+Lymphoma,CREBBP,32555149,all,crebbp,C,M,,symbol 'CREBBP' present,190,crebbp and stat6 co-mutation and 16p13 and 1p36 loss define the t 14 18 -negative diffuse variant of follicular lymphoma,M
+Lymphoma,CREBBP,25713363,all,crebbp,C,M,,symbol 'CREBBP' present,202,mutations in early follicular lymphoma progenitors are associated with suppressed antigen presentation,M
+Lymphoma,CREBBP,33431788,all,crebbp,C,M,,symbol 'CREBBP' present,214,crebbp ep300 mutations promoted tumor progression in diffuse large b-cell lymphoma through altering tumor-associated macrophage polarization,M
+Lymphoma,CREBBP,38228081,all,crebbp,C,M,,symbol 'CREBBP' present,251,feasibility of circulating tumor dna analysis in patients with follicular lymphoma,M
+Lymphoma,CREBBP,21796119,all,crebbp,C,I,,symbol 'CREBBP' present,282,frequent mutation of histone-modifying genes in non-hodgkin lymphoma,I
+Lymphoma,CREBBP,26551667,all,crebbp,C,G,,symbol 'CREBBP' present,342,the mutational landscape of cutaneous t cell lymphoma and sezary syndrome,G
+Lymphoma,CREBBP,39273276,all,crebbp,C,I,,symbol 'CREBBP' present,345,characterizing the mutational landscape of diffuse large b-cell lymphoma in a prospective cohort of mexican patients,I
+Lymphoma,CREBBP,35240014,all,crebbp,C,I,,symbol 'CREBBP' present,370,circulating tumor dna-based genotyping and monitoring for predicting disease relapses of patients with peripheral t-cell lymphomas,I
+Lymphoma,CREBBP,40243506,all,crebbp,C,I,,symbol 'CREBBP' present,459,high tumor mutation burden tmb and a novel somatic mutation in the trex1 gene in a patient with aggressive and refractory high-grade b-cell ,I
+Lymphoma,CREBBP,28152507,all,crebbp,C,M,,symbol 'CREBBP' present,464,the mutational landscape of ocular marginal zone lymphoma identifies frequent alterations in tnfaip3 followed by mutations in tbl1xr1 and cr,M
+Lymphoma,CREBBP,38165416,all,crebbp,C,ML,,symbol 'CREBBP' present,505,genetic and prognostic analysis of blastoid and pleomorphic mantle cell lymphoma a multicenter analysis in china,ML
+Lymphoma,CREBBP,34664256,all,crebbp,C,P,,symbol 'CREBBP' present,519,tracking the evolution of untreated high-intermediate high-risk diffuse large b-cell lymphoma by circulating tumour dna,P
+Lymphoma,CREBBP,31915197,all,crebbp,C,M,target,symbol 'CREBBP' present,546,selective inhibition of hdac3 targets synthetic vulnerabilities and activates immune surveillance in lymphoma,M
+Lymphoma,CREBBP,36441737,all,crebbp,C,M,,symbol 'CREBBP' present,558,mutation analysis performed on tumor biopsies from patients with newly-diagnosed germinal center aggressive b cell lymphomas,M
+Lymphoma,CREBBP,31475375,all,crebbp,C,ML,,symbol 'CREBBP' present,569,m7flipi and targeted sequencing in high-risk follicular lymphoma,ML
+Lymphoma,CREBBP,27389057,all,crebbp,C,ML,,symbol 'CREBBP' present,585,combined copy number and mutation analysis identifies oncogenic pathways associated with transformation of follicular lymphoma,ML
+Lymphoma,CREBBP,35363872,all,crebbp,C,M,,symbol 'CREBBP' present,591,molecular subclusters of follicular lymphoma a report from the united kingdom's haematological malignancy research network,M
+Lymphoma,CREBBP,32576962,all,crebbp,C,M,target,symbol 'CREBBP' present,605,carm1 inhibition reduces histone acetyltransferase activity causing synthetic lethality in crebbp ep300-mutated lymphomas,M
+Lymphoma,CREBBP,40344323,all,crebbp,C,ML,,symbol 'CREBBP' present,620,extranodal diffuse large b-cell lymphoma clinical and molecular insights with survival outcomes from the multicenter expect study,ML
+Lymphoma,CREBBP,30274972,all,crebbp,C,M,,symbol 'CREBBP' present,622,tet2 deficiency causes germinal center hyperplasia impairs plasma cell differentiation and promotes b-cell lymphomagenesis,M
+Lymphoma,CREBBP,39112453,all,crebbp,C,ML,,symbol 'CREBBP' present,634,identification of genetic subtypes in follicular lymphoma,ML
+Lymphoma,CREBBP,22343534,all,crebbp,C,ML,,symbol 'CREBBP' present,701,discovery and prioritization of somatic mutations in diffuse large b-cell lymphoma dlbcl by whole-exome sequencing,ML
+Lymphoma,CREBBP,32012328,all,crebbp,C,I,,symbol 'CREBBP' present,703,high throughput sequencing reveals high specificity of tnfaip3 mutations in ocular adnexal marginal zone b-cell lymphomas,I
+Lymphoma,CREBBP,39910284,all,crebbp,C,ML,,symbol 'CREBBP' present,706,stat6 mutations compensate for crebbp mutations and hyperactivate il4 stat6 rragd mtor signaling in follicular lymphoma,ML
+Lymphoma,CREBBP,36420560,all,crebbp,C,M,,symbol 'CREBBP' present,716,diffuse large b-cell lymphoma and red cell autoimmunity clinical role and pathogenesis,M
+Lymphoma,CREBBP,41746257,all,crebbp,C,M,,symbol 'CREBBP' present,755,differential role of crebbp missense and truncating mutations in germinal center development and lymphomagenesis,M
+Lymphoma,CREBBP,36939219,all,crebbp,C,M,,symbol 'CREBBP' present,795,tracing founder mutations in circulating and tissue-resident follicular lymphoma precursors,M
+Lymphoma,CREBBP,24349473,all,crebbp,C,I,,symbol 'CREBBP' present,800,whole exome sequencing identifies novel recurrently mutated genes in patients with splenic marginal zone lymphoma,I
+Lymphoma,CREBBP,29193015,all,crebbp,C,M,,symbol 'CREBBP' present,857,the exomic landscape of t 14 18 -negative diffuse follicular lymphoma with 1p36 deletion,M
+Lymphoma,CREBBP,38462571,all,crebbp,C,I,,symbol 'CREBBP' present,874,mutational immune microenvironment and clinicopathological profiles of diffuse large b-cell lymphoma and follicular lymphoma with bcl6 rearr,I
+Lymphoma,CREBBP,39112220,all,crebbp,C,M,,symbol 'CREBBP' present,882,single gene mutations and prognosis in limited-stage follicular lymphoma treated with radiation therapy,M
+Lymphoma,CREBBP,24362818,all,crebbp,C,ML,,symbol 'CREBBP' present,904,integrated genomic analysis identifies recurrent mutations and evolution patterns driving the initiation and progression of follicular lymph,ML
+Lymphoma,CREBBP,23297126,all,crebbp,C,ML,,symbol 'CREBBP' present,910,hierarchy in somatic mutations arising during genomic evolution and progression of follicular lymphoma,ML
+Lymphoma,CREBBP,26631611,all,crebbp,C,M,,symbol 'CREBBP' present,918,toward personalized lymphoma immunotherapy identification of common driver mutations recognized by patient cd8 t cells,M
+Lymphoma,CREBBP,35401516,all,crebbp,C,I,,symbol 'CREBBP' present,928,oncogenic mutations and tumor microenvironment alterations of older patients with diffuse large b-cell lymphoma,I
+Lymphoma,CREBBP,28288979,all,crebbp,C,M,,symbol 'CREBBP' present,958,crebbp loss cooperates with bcl2 overexpression to promote lymphoma in mice,M
+Lymphoma,CREBBP,32929178,all,crebbp,C,M,,symbol 'CREBBP' present,967,the mutational landscape of histiocytic sarcoma associated with lymphoid malignancy,M
+Lymphoma,TET2,39041683,all,tet2,C,ML,,symbol 'TET2' present,42,tp53 and kmt2d mutations associated with worse prognosis in peripheral t-cell lymphomas,ML
+Lymphoma,TET2,29674500,all,tet2,C,ML,,symbol 'TET2' present,84,novel gpr34 and ccr6 mutation and distinct genetic profiles in malt lymphomas of different sites,ML
+Lymphoma,TET2,32945366,all,tet methylcytosine dioxygenase 2|tet2,C,W,,symbol 'TET2' present,117,a comprehensive analysis of rhoa mutation positive and negative angioimmunoblastic t-cell lymphomas by targeted deep sequencing expression p,W
+Lymphoma,TET2,39054516,all,tet2,C,W,,symbol 'TET2' present,142,revealing the clinical impact of mtor and arid2 gene mutations on malt lymphoma of the alimentary canal using targeted sequencing,W
+Lymphoma,TET2,28331128,all,tet2,C,M,,symbol 'TET2' present,147,tet2 mutation in diffuse large b-cell lymphoma,M
+Lymphoma,TET2,36812290,all,tet2,C,M,,symbol 'TET2' present,148,tet2 and lilrb1 mutations are frequent in epstein-barr virus-positive diffuse large b-cell lymphoma especially in elderly patients,M
+Lymphoma,TET2,24413737,all,tet2,C,M,,symbol 'TET2' present,175,somatic rhoa mutation in angioimmunoblastic t cell lymphoma,M
+Lymphoma,TET2,34272731,all,tet2,C,I,,symbol 'TET2' present,189,ebv-positive hiv-associated diffuse large b cell lymphomas are characterized by jak stat stat3 pathway mutations and unique clinicopathologi,I
+Lymphoma,TET2,30952970,all,tet2,C,M,,symbol 'TET2' present,207,the pathological features of angioimmunoblastic t-cell lymphomas with idh2 r172 mutations,M
+Lymphoma,TET2,33431788,all,tet2,C,G,,symbol 'TET2' present,214,crebbp ep300 mutations promoted tumor progression in diffuse large b-cell lymphoma through altering tumor-associated macrophage polarization,G
+Lymphoma,TET2,31394087,all,tet2,C,ML,target,symbol 'TET2' present,244,rhoa g17v mutation in angioimmunoblastic t-cell lymphoma a potential biomarker for cytological assessment,ML
+Lymphoma,TET2,36736318,all,tet2,C,M,,symbol 'TET2' present,263,idh2 and tet2 mutations synergize to modulate t follicular helper cell functional interaction with the aitl microenvironment,M
+Lymphoma,TET2,37475138,all,tet2,C,ML,,symbol 'TET2' present,311,circulating tumor dna reflects histologic and clinical characteristics of various lymphoma subtypes,ML
+Lymphoma,TET2,22215888,all,tet2,C,I,,symbol 'TET2' present,314,idh2 mutations are frequent in angioimmunoblastic t-cell lymphoma,I
+Lymphoma,TET2,26551667,all,tet2,C,G,,symbol 'TET2' present,342,the mutational landscape of cutaneous t cell lymphoma and sezary syndrome,G
+Lymphoma,TET2,41225024,all,tet2,C,ML,,symbol 'TET2' present,343,insights into nodal t-follicular helper cell lymphomas and peripheral t-cell lymphomas not otherwise specified in slovenian patients mutatio,ML
+Lymphoma,TET2,39548807,all,tet2,C,G,,symbol 'TET2' present,398,high-grade b-cell lymphoma not otherwise specified with diffuse large b-cell lymphoma gene expression signatures genomic analysis and potent,G
+Lymphoma,TET2,42410207,all,tet2,C,M,,symbol 'TET2' present,411,decreased txnrd1 is associated with resistance to tagraxofusp in blastic plasmacytoid dendritic cell neoplasms as seen in phase ii,M
+Lymphoma,TET2,24413734,all,tet2,C,ML,,symbol 'TET2' present,413,recurrent mutations in epigenetic regulators rhoa and fyn kinase in peripheral t cell lymphomas,ML
+Lymphoma,TET2,40551559,all,tet2,C,I,,symbol 'TET2' present,439,germline defects of familial haemophagocytic lymphohistiocytosis-related genes may represent a predisposing factor for mature t- and natural,I
+Lymphoma,TET2,36567979,all,tet2,C,ML,,symbol 'TET2' present,463,case report chronic lymphocytic leukemia small lymphocytic lymphoma and monomorphic epitheliotropic intestinal t-cell lymphoma a composite l,ML
+Lymphoma,TET2,34581268,all,tet2,C,M,,symbol 'TET2' present,472,mutation analysis links angioimmunoblastic t-cell lymphoma to clonal hematopoiesis and smoking,M
+Lymphoma,TET2,40510016,all,tet2,C,G,,symbol 'TET2' present,479,integrative genomic and transcriptomic analysis reveals targetable vulnerabilities in angioimmunoblastic t-cell lymphoma,G
+Lymphoma,TET2,29629950,all,tet2,C,M,,symbol 'TET2' present,537,a survey of somatic mutations in 41 genes in a cohort of t-cell lymphomas identifies frequent mutations in genes involved in epigenetic modi,M
+Lymphoma,TET2,41873173,all,tet2,C,ML,,symbol 'TET2' present,547,molecular genetic demonstration of the evolution of transformed mycosis fungoides a clinicopathological and molecular case study,ML
+Lymphoma,TET2,40458922,all,tet2,C,M,,symbol 'TET2' present,552,genetic profiling reveals the distinctions among mtx-associated dlbcl ebv-positive mucocutaneous ulcer and ebv dlbcl,M
+Lymphoma,TET2,26268241,all,tet2,C,ML,,symbol 'TET2' present,556,idh2r172 mutations define a unique subgroup of patients with angioimmunoblastic t-cell lymphoma,ML
+Lymphoma,TET2,33579790,all,tet2,C,ML,,symbol 'TET2' present,564,oncogenetic landscape of lymphomagenesis in coeliac disease,ML
+Lymphoma,TET2,31028364,all,tet2,C,I,,symbol 'TET2' present,599,whole exome sequencing reveals mutations in fat1 tumor suppressor gene clinically impacting on peripheral t-cell lymphoma not otherwise spec,I
+Lymphoma,TET2,42234239,all,tet2,C,M,,symbol 'TET2' present,611,shared clonal origin of angioimmunoblastic t-cell lymphoma and burkitt lymphoma arising through divergent evolution from a common precursor,M
+Lymphoma,TET2,26379152,all,tet2,C,I,,symbol 'TET2' present,612,primary cns t-cell lymphomas a clinical morphologic immunophenotypic and molecular analysis,I
+Lymphoma,TET2,22760778,all,tet2,C,M,,symbol 'TET2' present,618,recurrent tet2 mutations in peripheral t-cell lymphomas correlate with tfh-like features and adverse clinical parameters,M
+Lymphoma,TET2,40344323,all,tet methylcytosine dioxygenase 2|tet2,C,P,,symbol 'TET2' present,620,extranodal diffuse large b-cell lymphoma clinical and molecular insights with survival outcomes from the multicenter expect study,P
+Lymphoma,TET2,30274972,all,tet2,C,M,,symbol 'TET2' present,622,tet2 deficiency causes germinal center hyperplasia impairs plasma cell differentiation and promotes b-cell lymphomagenesis,M
+Lymphoma,TET2,24345752,all,tet2,C,M,,symbol 'TET2' present,633,a targeted mutational landscape of angioimmunoblastic t-cell lymphoma,M
+Lymphoma,TET2,32469082,all,tet2,C,I,,symbol 'TET2' present,673,genome-defined african ancestry is associated with distinct mutations and worse survival in patients with diffuse large b-cell lymphoma,I
+Lymphoma,TET2,35064935,all,tet2,C,M,,symbol 'TET2' present,682,parallel evolution of two distinct lymphoid proliferations in clonal haematopoiesis,M
+Lymphoma,TET2,38429084,all,tet2,C,M,,symbol 'TET2' present,683,ebv nodal t nk-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome,M
+Lymphoma,TET2,34021249,all,tet2,C,ML,,symbol 'TET2' present,688,thyroid malt lymphoma self-harm to gain potential t-cell help,ML
+Lymphoma,TET2,31870198,all,tet2,C,ML,,symbol 'TET2' present,704,angioimmunoblastic t-cell lymphoma in taiwan reveals worse progression-free survival for rhoa g17v mutated subtype,ML
+Lymphoma,TET2,23831920,all,tet2,C,M,,symbol 'TET2' present,712,genome-wide profiling identifies a dna methylation signature that associates with tet2 mutations in diffuse large b-cell lymphoma,M
+Lymphoma,TET2,24072100,all,tet2,C,I,,symbol 'TET2' present,713,exome sequencing reveals novel and recurrent mutations with clinical impact in blastic plasmacytoid dendritic cell neoplasm,I
+Lymphoma,TET2,37127775,all,tet2,C,I,,symbol 'TET2' present,724,dnmt3a r882h accelerates angioimmunoblastic t-cell lymphoma in mice,I
+Lymphoma,TET2,39589371,all,tet2,C,M,,symbol 'TET2' present,756,aggressive lymphoma after cd19 car t-cell therapy,M
+Lymphoma,TET2,26617922,all,tet2,C,M,,symbol 'TET2' present,763,discordant intracellular and plasma d-2-hydroxyglutarate levels in a patient with idh2 mutated angioimmunoblastic t-cell lymphoma,M
+Lymphoma,TET2,28731140,all,tet2,C,M,,symbol 'TET2' present,765,integrated analysis of genomewide gene expression and dna methylation microarray of diffuse large bcell lymphoma with tet mutations,M
+Lymphoma,TET2,28157189,all,tet2,C,M,,symbol 'TET2' present,810,identification of cell-type-specific mutations in nodal t-cell lymphomas,M
+Lymphoma,TET2,40724970,all,tet2,C,M,,symbol 'TET2' present,846,circulating tumour dna is a biomarker of response in angioimmunoblastic t-cell lymphoma,M
+Lymphoma,TET2,40869343,all,tet2,C,ML,,symbol 'TET2' present,886,clonal hematopoiesis and outcomes after high-dose chemotherapy and autologous stem cell transplantation in patients with aml myeloma and lym,ML
+Lymphoma,TET2,34494161,all,tet2,C,ML,,symbol 'TET2' present,899,mutational landscape of marginal zone b-cell lymphomas of various origin organotypic alterations and diagnostic potential for assignment of ,ML
+Lymphoma,TET2,32598477,all,tet2,C,I,,symbol 'TET2' present,924,genetic mutations and features of mantle cell lymphoma a systematic review and meta-analysis,I
+Lymphoma,TET2,26719098,all,tet2,C,M,,symbol 'TET2' present,925,recurrent activating mutations of cd28 in peripheral t-cell lymphomas,M
+Lymphoma,TET2,35401516,all,tet2,C,ML,,symbol 'TET2' present,928,oncogenic mutations and tumor microenvironment alterations of older patients with diffuse large b-cell lymphoma,ML
+Lymphoma,TET2,40433378,all,tet2,C,ML,,symbol 'TET2' present,984,functional screening of somatic mutant events in extranodal natural killer t-cell lymphoma with adrenal involvement,ML
+Lymphoma,TET2,32271188,all,tet2,C,I,,symbol 'TET2' present,1000,primary cutaneous cd4 small medium t-cell lymphoproliferative disorders a clinical pathologic and molecular study of 60 cases presenting wit,I
+Lymphoma,ATM,36300887,all,atm,C,ML,,symbol 'ATM' present,17,mutational profiling of circulating tumor dna and clinical characteristics in lymphoma based on next generation sequencing,ML
+Lymphoma,ATM,28302137,all,atm,C,ML,,symbol 'ATM' present,21,mutations of crebbp and socs1 are independent prognostic factors in diffuse large b cell lymphoma mutational analysis of the sakk 38 07 pros,ML
+Lymphoma,ATM,36215154,all,atm,C,ML,,symbol 'ATM' present,22,targeted sequencing reveals the relationship between mutations and patients' clinical indicators blood cell counts and early progression in ,ML
+Lymphoma,ATM,40851047,all,atm,C,ML,,symbol 'ATM' present,24,correlation between tp53 mutational status and digital quantification of p53 immunohistochemistry in mantle cell lymphoma,ML
+Lymphoma,ATM,19404735,all,atm,C,M,,symbol 'ATM' present,59,atm germline mutations in women with familial breast cancer and a relative with haematological malignancy,M
+Lymphoma,ATM,41023839,all,atm,C,M,,symbol 'ATM' present,105,fundamental prognostic difference of atm gene mutation and deletion in newly diagnosed mantle cell lymphoma,M
+Lymphoma,ATM,22210878,all,atm,C,I,,symbol 'ATM' present,114,whole transcriptome sequencing reveals recurrent notch1 mutations in mantle cell lymphoma,I
+Lymphoma,ATM,11756177,all,atm,C,M,,symbol 'ATM' present,135,atm gene inactivation in mantle cell lymphoma mainly occurs by truncating mutations and missense mutations involving the phosphatidylinosito,M
+Lymphoma,ATM,12697903,all,atm,C,M,,symbol 'ATM' present,139,oligonucleotide microarrays demonstrate the highest frequency of atm mutations in the mantle cell subtype of lymphoma,M
+Lymphoma,ATM,39054516,all,atm,C,I,,symbol 'ATM' present,142,revealing the clinical impact of mtor and arid2 gene mutations on malt lymphoma of the alimentary canal using targeted sequencing,I
+Lymphoma,ATM,38460798,all,atm,C,I,,symbol 'ATM' present,182,tp53 mutation is frequent in mantle cell lymphoma with ezh2 expression and have dismal outcome when both are present,I
+Lymphoma,ATM,30175400,all,atm,C,ML,,symbol 'ATM' present,185,long-term outcomes and mutation profiling of patients with mantle cell lymphoma mcl who discontinued ibrutinib,ML
+Lymphoma,ATM,12353271,all,atm,C,M,,symbol 'ATM' present,221,mutations and molecular variants of the nbs1 gene in non-hodgkin lymphoma,M
+Lymphoma,ATM,12149228,all,atm|atm serine threonine kinase,C,M,,symbol 'ATM' present,234,atm mutations are associated with inactivation of the arf-tp53 tumor suppressor pathway in diffuse large b-cell lymphoma,M
+Lymphoma,ATM,32239765,all,atm,C,I,,symbol 'ATM' present,248,efficacy of venetoclax in high risk relapsed mantle cell lymphoma mcl - outcomes and mutation profile from venetoclax resistant mcl patients,I
+Lymphoma,ATM,41850632,all,atm,C,ML,,symbol 'ATM' present,324,absence of cd38 expression in mantle cell lymphoma correlates with distinct pathological and genetic features,ML
+Lymphoma,ATM,16461462,all,atm,C,M,,symbol 'ATM' present,332,mutation and genomic deletion status of ataxia telangiectasia mutated atm and p53 confer specific gene expression profiles in mantle cell ly,M
+Lymphoma,ATM,31132650,all,atm,C,ML,,symbol 'ATM' present,340,tp53 mutations are common in mantle cell lymphoma including the indolent leukemic non-nodal variant,ML
+Lymphoma,ATM,32173361,all,atm,C,I,,symbol 'ATM' present,346,molecular characterization of sorted malignant b cells from patients clinically identified with mantle cell lymphoma,I
+Lymphoma,ATM,15767564,all,atm,C,I,,symbol 'ATM' present,377,a target selection of somatic hypermutations is regulated similarly between t and b cells upon activation-induced cytidine deaminase express,I
+Lymphoma,ATM,10866292,all,atm,C,M,,symbol 'ATM' present,378,increased risk of breast cancer following irradiation for hodgkin's disease is not a result of atm germline mutations,M
+Lymphoma,ATM,24413734,all,atm,C,ML,,symbol 'ATM' present,413,recurrent mutations in epigenetic regulators rhoa and fyn kinase in peripheral t cell lymphomas,ML
+Lymphoma,ATM,15696190,all,atm,C,M,,symbol 'ATM' present,421,alterations of dna damage-response genes atm and atr in pyothorax-associated lymphoma,M
+Lymphoma,ATM,26310626,all,atm,C,M,,symbol 'ATM' present,427,a novel mouse model for ataxia-telangiectasia with a n-terminal mutation displays a behavioral defect and a low incidence of lymphoma but no,M
+Lymphoma,ATM,35708139,all,atm,C,ML,,symbol 'ATM' present,470,monomorphic epitheliotropic intestinal t-cell lymphoma comprises morphologic and genomic heterogeneity impacting outcome,ML
+Lymphoma,ATM,21874232,all,atm,C,M,,symbol 'ATM' present,471,prognostic impact of p53 aberrations for r-chop-treated patients with diffuse large b-cell lymphoma,M
+Lymphoma,ATM,38165416,all,atm,C,ML,,symbol 'ATM' present,505,genetic and prognostic analysis of blastoid and pleomorphic mantle cell lymphoma a multicenter analysis in china,ML
+Lymphoma,ATM,41873173,all,atm,C,ML,,symbol 'ATM' present,547,molecular genetic demonstration of the evolution of transformed mycosis fungoides a clinicopathological and molecular case study,ML
+Lymphoma,ATM,36797243,all,atm,C,M,,symbol 'ATM' present,557,exploiting prmt5 as a target for combination therapy in mantle cell lymphoma characterized by frequent atm and tp53 mutations,M
+Lymphoma,ATM,31028364,all,atm,C,I,,symbol 'ATM' present,599,whole exome sequencing reveals mutations in fat1 tumor suppressor gene clinically impacting on peripheral t-cell lymphoma not otherwise spec,I
+Lymphoma,ATM,11196167,all,atm,C,M,,symbol 'ATM' present,604,alterations of the double-strand break repair gene mre11 in cancer,M
+Lymphoma,ATM,39284897,all,atm,C,ML,,symbol 'ATM' present,614,comprehensive genetic analysis by targeted sequencing identifies risk factors and predicts patient outcome in mantle cell lymphoma results f,ML
+Lymphoma,ATM,28419429,all,atm,C,M,,symbol 'ATM' present,646,mutational landscape of b-cell post-transplant lymphoproliferative disorders,M
+Lymphoma,ATM,34882582,all,atm,C,ML,,symbol 'ATM' present,659,genomic and transcriptomic profiling reveals distinct molecular subsets associated with outcomes in mantle cell lymphoma,ML
+Lymphoma,ATM,32469082,all,atm,C,I,,symbol 'ATM' present,673,genome-defined african ancestry is associated with distinct mutations and worse survival in patients with diffuse large b-cell lymphoma,I
+Lymphoma,ATM,27224912,all,atm,C,ML,,symbol 'ATM' present,686,genetic heterogeneity in primary and relapsed mantle cell lymphomas impact of recurrent card11 mutations,ML
+Lymphoma,ATM,32012328,all,atm,C,I,,symbol 'ATM' present,703,high throughput sequencing reveals high specificity of tnfaip3 mutations in ocular adnexal marginal zone b-cell lymphomas,I
+Lymphoma,ATM,12473594,all,atm,C,M,,symbol 'ATM' present,705,rare variants of atm and risk for hodgkin's disease and radiation-associated breast cancers,M
+Lymphoma,ATM,14735203,all,atm,C,M,,symbol 'ATM' present,722,molecular variants of the atm gene in hodgkin's disease in children,M
+Lymphoma,ATM,11699418,all,atm,C,M,,symbol 'ATM' present,746,analysis of the chk2 gene in lymphoid malignancies,M
+Lymphoma,ATM,32277542,all,atm,C,ML,,symbol 'ATM' present,783,aggressive morphologic variants of mantle cell lymphoma characterized with high genomic instability showing frequent chromothripsis cdkn2a b,ML
+Lymphoma,ATM,26536348,all,atm,C,M,,symbol 'ATM' present,812,concurrent mutations in atm and genes associated with common chain signaling in peripheral t cell lymphoma,M
+Lymphoma,ATM,10706620,all,atm,C,M,,symbol 'ATM' present,841,mantle cell lymphoma is characterized by inactivation of the atm gene,M
+Lymphoma,ATM,38462571,all,atm,C,ML,,symbol 'ATM' present,874,mutational immune microenvironment and clinicopathological profiles of diffuse large b-cell lymphoma and follicular lymphoma with bcl6 rearr,ML
+Lymphoma,ATM,34424493,all,atm,C,M,,symbol 'ATM' present,880,refractory t-cell histiocyte-rich large b-cell lymphoma in a patient with ataxia-telangiectasia caused by novel compound heterozygous varian,M
+Lymphoma,ATM,32770099,all,atm,C,ML,,symbol 'ATM' present,887,genetic heterogeneity and prognostic impact of recurrent ank2 and tp53 mutations in mantle cell lymphoma a multi-centre cohort study,ML
+Lymphoma,ATM,32598477,all,atm,C,ML,,symbol 'ATM' present,924,genetic mutations and features of mantle cell lymphoma a systematic review and meta-analysis,ML
+Lymphoma,ATM,34521752,all,atm,C,I,,symbol 'ATM' present,957,dna damage-induced phosphorylation of ctip at a conserved atm atr site t855 promotes lymphomagenesis in mice,I
+Lymphoma,ATM,34080947,all,atm,C,ML,,symbol 'ATM' present,975,targeted genomic investigations in a population-based cohort of mantle cell lymphoma reveal novel clinically relevant targets,ML
+Lymphoma,ATM,41193463,all,atm,C,M,,symbol 'ATM' present,997,functional genomics and tumor microenvironment analysis reveal prognostic biological subtypes in mantle cell lymphoma,M
+Lymphoma,CARD11,29734251,all,card11,C,M,,symbol 'CARD11' present,8,myd88 card11 and cd79b oncogenic mutations are rare events in the indian cohort of de novo nodal diffuse large b-cell lymphoma,M
+Lymphoma,CARD11,25428260,all,card11,C,ML,,symbol 'CARD11' present,34,klf2 mutation is the most frequent somatic change in splenic marginal zone lymphoma and identifies a subset with distinct genotype,ML
+Lymphoma,CARD11,36960072,all,card11,C,M,,symbol 'CARD11' present,35,card11 gain-of-function mutation drives cell-autonomous accumulation of pd-1 icos high activated t cells t-follicular t-regulatory and t-fol,M
+Lymphoma,CARD11,27915469,all,card11|caspase recruitment domain family member 11,C,M,,symbol 'CARD11' present,58,myd88 cd79b and card11 gene mutations in cd5-positive diffuse large b-cell lymphoma,M
+Lymphoma,CARD11,26256760,all,card11,C,I,,symbol 'CARD11' present,74,integration of gene mutations in risk prognostication for patients receiving first-line immunochemotherapy for follicular lymphoma a retrosp,I
+Lymphoma,CARD11,30360939,all,card11,C,M,,symbol 'CARD11' present,83,immunohistochemical distinction of abc and gcb in extranodal dlbcl is not reflected in mutation patterns,M
+Lymphoma,CARD11,21266526,all,card11,C,M,target,symbol 'CARD11' present,129,a20 abin-1 2 and card11 mutations and their prognostic value in gastrointestinal diffuse large b-cell lymphoma,M
+Lymphoma,CARD11,24327543,all,card11,C,G,,symbol 'CARD11' present,134,targetable activating mutations are very frequent in gcb and abc diffuse large b-cell lymphoma,G
+Lymphoma,CARD11,32059783,all,card11,C,ML,,symbol 'CARD11' present,157,lymphoma driver mutations in the pathogenic evolution of an iconic human autoantibody,ML
+Lymphoma,CARD11,35658124,all,card11,C,G,,symbol 'CARD11' present,204,bcl10 mutations define distinct dependencies guiding precision therapy for dlbcl,G
+Lymphoma,CARD11,20544211,all,card11,C,M,,symbol 'CARD11' present,217,mutations of card11 but not tnfaip3 may activate the nf-kappab pathway in primary cns lymphoma,M
+Lymphoma,CARD11,26245647,all,card11,C,I,,symbol 'CARD11' present,241,mef2b mutations in non-hodgkin lymphoma dysregulate cell migration by decreasing mef2b target gene activation,I
+Lymphoma,CARD11,30508305,all,card11,C,ML,,symbol 'CARD11' present,281,targeted multigene deep sequencing of bruton tyrosine kinase inhibitor-resistant chronic lymphocytic leukemia with disease progression and r,ML
+Lymphoma,CARD11,26608593,all,card11,C,ML,,symbol 'CARD11' present,304,whole exome sequencing of relapsed refractory patients expands the repertoire of somatic mutations in diffuse large b-cell lymphoma,ML
+Lymphoma,CARD11,31132650,all,card11,C,I,,symbol 'CARD11' present,340,tp53 mutations are common in mantle cell lymphoma including the indolent leukemic non-nodal variant,I
+Lymphoma,CARD11,26551667,all,card11,C,ML,,symbol 'CARD11' present,342,the mutational landscape of cutaneous t cell lymphoma and sezary syndrome,ML
+Lymphoma,CARD11,35240014,all,card11,C,I,,symbol 'CARD11' present,370,circulating tumor dna-based genotyping and monitoring for predicting disease relapses of patients with peripheral t-cell lymphomas,I
+Lymphoma,CARD11,39548807,all,card11,C,G,,symbol 'CARD11' present,398,high-grade b-cell lymphoma not otherwise specified with diffuse large b-cell lymphoma gene expression signatures genomic analysis and potent,G
+Lymphoma,CARD11,31150604,all,card11,C,W,,symbol 'CARD11' present,422,mutations of the b-cell receptor pathway confer chemoresistance in primary cutaneous diffuse large b-cell lymphoma leg type,W
+Lymphoma,CARD11,33581493,all,card11,C,I,,symbol 'CARD11' present,481,diversity of genetic alterations of primary central nervous system lymphoma in hispanic versus non-hispanic patients,I
+Lymphoma,CARD11,28153771,all,card11,C,W,,symbol 'CARD11' present,499,b-cell function gene mutations in diffuse large b-cell lymphoma a retrospective cohort study,W
+Lymphoma,CARD11,34664256,all,card11|caspase recruitment domain family member 11,C,W,,symbol 'CARD11' present,519,tracking the evolution of untreated high-intermediate high-risk diffuse large b-cell lymphoma by circulating tumour dna,W
+Lymphoma,CARD11,40189492,all,card11,C,ML,,symbol 'CARD11' present,536,integrating genomic features for prognosis in chinese patients with b-cell lymphoma following chimeric antigen receptor t-cell therapy,ML
+Lymphoma,CARD11,41873173,all,card11,C,ML,,symbol 'CARD11' present,547,molecular genetic demonstration of the evolution of transformed mycosis fungoides a clinicopathological and molecular case study,ML
+Lymphoma,CARD11,23292937,all,card11,C,I,,symbol 'CARD11' present,616,genetic heterogeneity of diffuse large b-cell lymphoma,I
+Lymphoma,CARD11,28682481,all,card11,C,ML,,symbol 'CARD11' present,635,significant association between tnfaip3 inactivation and biased immunoglobulin heavy chain variable region 4-34 usage in mucosa-associated l,ML
+Lymphoma,CARD11,27224912,all,card11,C,M,,symbol 'CARD11' present,686,genetic heterogeneity in primary and relapsed mantle cell lymphomas impact of recurrent card11 mutations,M
+Lymphoma,CARD11,27297871,all,card11,C,ML,,symbol 'CARD11' present,691,recurrent mutations in genes involved in nuclear factor-b signalling in nodal marginal zone lymphoma-diagnostic and therapeutic implications,ML
+Lymphoma,CARD11,22343534,all,card11,C,I,,symbol 'CARD11' present,701,discovery and prioritization of somatic mutations in diffuse large b-cell lymphoma dlbcl by whole-exome sequencing,I
+Lymphoma,CARD11,36420560,all,card11,C,ML,,symbol 'CARD11' present,716,diffuse large b-cell lymphoma and red cell autoimmunity clinical role and pathogenesis,ML
+Lymphoma,CARD11,23149938,all,card11,C,M,,symbol 'CARD11' present,804,a quantitative signaling screen identifies card11 mutations in the card and latch domains that induce bcl10 ubiquitination and human lymphom,M
+Lymphoma,CARD11,27369867,all,card11,C,M,,symbol 'CARD11' present,847,activating mutations in genes related to tcr signaling in angioimmunoblastic and other follicular helper t-cell-derived lymphomas,M
+Lymphoma,CARD11,23720088,all,card11,C,M,,symbol 'CARD11' present,851,molecular and genomic aberrations in chlamydophila psittaci negative ocular adnexal marginal zone lymphomas,M
+Lymphoma,CARD11,32770099,all,card11,C,I,,symbol 'CARD11' present,887,genetic heterogeneity and prognostic impact of recurrent ank2 and tp53 mutations in mantle cell lymphoma a multi-centre cohort study,I
+Lymphoma,CARD11,28319526,all,card11,C,ML,,symbol 'CARD11' present,903,anaplastic variant of diffuse large b-cell lymphoma displays intricate genetic alterations and distinct biological features,ML
+Lymphoma,CARD11,32598477,all,card11,C,I,,symbol 'CARD11' present,924,genetic mutations and features of mantle cell lymphoma a systematic review and meta-analysis,I
+Lymphoma,CARD11,26752547,all,card11,C,ML,,symbol 'CARD11' present,946,frequent myd88 l265p and cd79b mutations in primary breast diffuse large b-cell lymphoma,ML
+Lymphoma,CARD11,25275047,all,card11,C,M,,symbol 'CARD11' present,951,activating mutations affecting the nf-kappa b pathway and ezh2-mediated epigenetic regulation are rare events in primary mediastinal large b,M
+Lymphoma,CARD11,38326614,all,card11,C,G,,symbol 'CARD11' present,953,naturally occurring t cell mutations enhance engineered t cell therapies,G
+Lymphoma,CARD11,32473470,all,card11,C,M,,symbol 'CARD11' present,989,gain-of-function mutations in card11 promote enhanced aggregation and idiosyncratic signalosome assembly,M
+Lymphoma,CARD11,34791836,all,card11,C,I,,symbol 'CARD11' present,993,identification of a genetic signature enriching for response to ibrutinib in relapsed refractory follicular lymphoma in the dawn phase 2 tri,I
+Lymphoma,CARD11,25030036,all,card11,C,M,,symbol 'CARD11' present,995,prevalence of targetable oncogenic mutations and genomic alterations in epstein-barr virus-associated diffuse large b-cell lymphoma of the e,M
+Lymphoma,RHOA,29493850,all,rhoa,C,M,,symbol 'RHOA' present,27,droplet digital polymerase chain reaction assay and peptide nucleic acid-locked nucleic acid clamp method for rhoa mutation detection in ang,M
+Lymphoma,RHOA,36093687,all,rhoa,C,M,,symbol 'RHOA' present,30,tet-2 mutations predict poor outcomes and are associated with unfavorable clinical-biological features in ptcl not otherwise specified and a,M
+Lymphoma,RHOA,39041683,all,rhoa,C,ML,,symbol 'RHOA' present,42,tp53 and kmt2d mutations associated with worse prognosis in peripheral t-cell lymphomas,ML
+Lymphoma,RHOA,32945366,all,ras homolog family member a|rhoa,C,M,,symbol 'RHOA' present,117,a comprehensive analysis of rhoa mutation positive and negative angioimmunoblastic t-cell lymphomas by targeted deep sequencing expression p,M
+Lymphoma,RHOA,28945625,all,rhoa,C,M,,symbol 'RHOA' present,158,expression of tfh markers and detection of rhoa p g17v and idh2 p r172k s mutations in cutaneous localizations of angioimmunoblastic t-cell ,M
+Lymphoma,RHOA,24413737,all,rhoa,C,M,,symbol 'RHOA' present,175,somatic rhoa mutation in angioimmunoblastic t cell lymphoma,M
+Lymphoma,RHOA,32648273,all,rhoa,C,M,,symbol 'RHOA' present,197,rhoa mutation in follicular t-cell lymphoma clinicopathological analysis of 16 cases,M
+Lymphoma,RHOA,30952970,all,rhoa,C,M,,symbol 'RHOA' present,207,the pathological features of angioimmunoblastic t-cell lymphomas with idh2 r172 mutations,M
+Lymphoma,RHOA,31394087,all,rhoa,C,M,target,symbol 'RHOA' present,244,rhoa g17v mutation in angioimmunoblastic t-cell lymphoma a potential biomarker for cytological assessment,M
+Lymphoma,RHOA,26468873,all,rhoa,C,I,,symbol 'RHOA' present,310,distinct viral and mutational spectrum of endemic burkitt lymphoma,I
+Lymphoma,RHOA,32484856,all,rhoa,C,M,,symbol 'RHOA' present,312,multiple mutations at exon 2 of rhoa detected in plasma from patients with peripheral t-cell lymphoma,M
+Lymphoma,RHOA,41225024,all,rhoa,C,ML,,symbol 'RHOA' present,343,insights into nodal t-follicular helper cell lymphomas and peripheral t-cell lymphomas not otherwise specified in slovenian patients mutatio,ML
+Lymphoma,RHOA,24689848,all,rhoa,C,M,,symbol 'RHOA' present,353,disease-specific mutations in mature lymphoid neoplasms recent advances,M
+Lymphoma,RHOA,35240014,all,rhoa,C,I,,symbol 'RHOA' present,370,circulating tumor dna-based genotyping and monitoring for predicting disease relapses of patients with peripheral t-cell lymphomas,I
+Lymphoma,RHOA,24413734,all,rhoa,C,M,,symbol 'RHOA' present,413,recurrent mutations in epigenetic regulators rhoa and fyn kinase in peripheral t cell lymphomas,M
+Lymphoma,RHOA,40551559,all,rhoa,C,I,,symbol 'RHOA' present,439,germline defects of familial haemophagocytic lymphohistiocytosis-related genes may represent a predisposing factor for mature t- and natural,I
+Lymphoma,RHOA,36806188,all,rhoa,C,M,,symbol 'RHOA' present,461,follicular helper t-cell-derived nodal lymphomas study of histomorphologic immunophenotypic clinical and rhoa g17v mutational profile,M
+Lymphoma,RHOA,40510016,all,rhoa,C,ML,,symbol 'RHOA' present,479,integrative genomic and transcriptomic analysis reveals targetable vulnerabilities in angioimmunoblastic t-cell lymphoma,ML
+Lymphoma,RHOA,25044415,all,ras homolog family member a|rhoa,C,M,,symbol 'RHOA' present,485,recurrent rhoa mutations in pediatric burkitt lymphoma treated according to the nhl-bfm protocols,M
+Lymphoma,RHOA,29629950,all,rhoa,C,M,,symbol 'RHOA' present,537,a survey of somatic mutations in 41 genes in a cohort of t-cell lymphomas identifies frequent mutations in genes involved in epigenetic modi,M
+Lymphoma,RHOA,33567811,all,rhoa,C,M,,symbol 'RHOA' present,550,early detection of t-cell lymphoma with t follicular helper phenotype by rhoa mutation analysis,M
+Lymphoma,RHOA,26268241,all,rhoa,C,ML,,symbol 'RHOA' present,556,idh2r172 mutations define a unique subgroup of patients with angioimmunoblastic t-cell lymphoma,ML
+Lymphoma,RHOA,25310466,all,rhoa,C,M,,symbol 'RHOA' present,583,detection of the g17v rhoa mutation in angioimmunoblastic t-cell lymphoma and related lymphomas using quantitative allele-specific pcr,M
+Lymphoma,RHOA,42234239,all,rhoa,C,M,,symbol 'RHOA' present,611,shared clonal origin of angioimmunoblastic t-cell lymphoma and burkitt lymphoma arising through divergent evolution from a common precursor,M
+Lymphoma,RHOA,24584070,all,rhoa,C,M,,symbol 'RHOA' present,623,a recurrent inactivating mutation in rhoa gtpase in angioimmunoblastic t cell lymphoma,M
+Lymphoma,RHOA,27158755,all,rhoa,C,M,,symbol 'RHOA' present,624,clinicopathologic analysis of angioimmunoblastic t-cell lymphoma with or without rhoa g17v mutation using formalin-fixed paraffin-embedded s,M
+Lymphoma,RHOA,40347078,all,rhoa,C,M,,symbol 'RHOA' present,625,real-world data on the p gly17val rhoa mutation in diagnosing t follicular helper cell lymphomas,M
+Lymphoma,RHOA,35732446,all,rhoa,C,M,,symbol 'RHOA' present,669,cardiac tamponade as a recurrence of angioimmunoblastic t-cell lymphoma with the detection of a p gly17val rhoa mutation in the pericardial ,M
+Lymphoma,RHOA,35064935,all,rhoa,C,ML,,symbol 'RHOA' present,682,parallel evolution of two distinct lymphoid proliferations in clonal haematopoiesis,ML
+Lymphoma,RHOA,38429084,all,rhoa,C,ML,,symbol 'RHOA' present,683,ebv nodal t nk-cell lymphoma associated with clonal hematopoiesis and structural variations of the viral genome,ML
+Lymphoma,RHOA,31870198,all,rhoa,C,M,,symbol 'RHOA' present,704,angioimmunoblastic t-cell lymphoma in taiwan reveals worse progression-free survival for rhoa g17v mutated subtype,M
+Lymphoma,RHOA,26574844,all,rhoa,C,M,,symbol 'RHOA' present,717,angioimmunoblastic t-cell lymphomas with the rhoa p gly17val mutation have classic clinical and pathologic features,M
+Lymphoma,RHOA,37127775,all,rhoa,C,I,,symbol 'RHOA' present,724,dnmt3a r882h accelerates angioimmunoblastic t-cell lymphoma in mice,I
+Lymphoma,RHOA,26617922,all,rhoa,C,M,,symbol 'RHOA' present,763,discordant intracellular and plasma d-2-hydroxyglutarate levels in a patient with idh2 mutated angioimmunoblastic t-cell lymphoma,M
+Lymphoma,RHOA,32923110,all,rhoa,C,M,,symbol 'RHOA' present,766,angioimmunoblastic t-cell lymphoma-like lymphadenopathy in mice transgenic for human rhoa with p gly17val mutation,M
+Lymphoma,RHOA,28157189,all,ras homolog family member a|rhoa,C,M,,symbol 'RHOA' present,810,identification of cell-type-specific mutations in nodal t-cell lymphomas,M
+Lymphoma,RHOA,37646306,all,rhoa,C,I,,symbol 'RHOA' present,837,angioimmunoblastic t-cell lymphoma novel recurrent mutations and prognostic biomarkers by cell-free dna profiling,I
+Lymphoma,RHOA,40724970,all,rhoa,C,M,,symbol 'RHOA' present,846,circulating tumour dna is a biomarker of response in angioimmunoblastic t-cell lymphoma,M
+Lymphoma,RHOA,27369867,all,rhoa,C,M,,symbol 'RHOA' present,847,activating mutations in genes related to tcr signaling in angioimmunoblastic and other follicular helper t-cell-derived lymphomas,M
+Lymphoma,RHOA,36536430,all,rhoa,C,M,,symbol 'RHOA' present,855,tumor mutation burden involving epigenetic regulatory genes and the rhoa gtpase predicts overall survival in nodal mature t-cell lymphomas,M
+Lymphoma,RHOA,38462571,all,rhoa,C,ML,,symbol 'RHOA' present,874,mutational immune microenvironment and clinicopathological profiles of diffuse large b-cell lymphoma and follicular lymphoma with bcl6 rearr,ML
+Lymphoma,RHOA,26719098,all,rhoa,C,G,,symbol 'RHOA' present,925,recurrent activating mutations of cd28 in peripheral t-cell lymphomas,G
+Lymphoma,RHOA,32271188,all,rhoa,C,I,,symbol 'RHOA' present,1000,primary cutaneous cd4 small medium t-cell lymphoproliferative disorders a clinical pathologic and molecular study of 60 cases presenting wit,I

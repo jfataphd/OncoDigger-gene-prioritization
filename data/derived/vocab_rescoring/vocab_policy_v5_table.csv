@@ -1,0 +1,123 @@
+kind,term,gene,decision,collections_read,genuine_over_read,non_gene_meaning,main_top50_positions
+symbol,SHE,SHE,suppress,breast/thyroid,0/8,the pronoun,Thyroid 49
+symbol,RHO,RHO,suppress,stomach,0/30,"Rho GTPases, Spearman's rho",Stomach 46
+symbol,CCS,CCS,suppress,colorectal,3/30,"Cronkhite-Canada syndrome, colon cancers, screening and scoring systems",Colorectal 50
+symbol,NODAL,NODAL,suppress,"thyroid, lymphoma",0/60,the adjective nodal,Thyroid 21; Lymphoma 24
+alias,rank,TNFRSF11A,suppress,breast,0/14,"log-rank, rank-sum, Spearman rank",Lung 18; Colorectal 18; Breast 22; Prostate 40; Melanoma 48
+alias,nude,NDE1,suppress,lung,0/30,nude mice,-
+alias,lobe,AKT1S1,suppress,"lung, liver",0/30,anatomical lobe,-
+alias,blast,CD48,suppress,leukemia,0/6,"blast cells, blast crisis",Leukemia 23
+alias,race,AMACR,suppress,breast,0/6,race/ethnicity,Endometrial 39; Breast 41; Kidney 45; Prostate 48
+alias,flap,ALOX5AP,suppress,breast,0/6,surgical flap (reconstruction),-
+alias,icis,MTUS1,suppress,lung,0/6,immune checkpoint inhibitors (ICIs),Lung 16; Bladder 50
+alias,icis,MTUS2,suppress,lung,0/6,immune checkpoint inhibitors (ICIs),-
+alias,killer,TNFRSF10B,suppress,lymphoma,0/6,natural killer cells,-
+alias,huh7,MIR7-3HG,suppress,liver,0/6,the Huh7 hepatoma cell line,-
+alias,pilot,EGR3,suppress,breast,0/6,pilot study,Breast 45
+alias,ca125,NBR1,suppress,ovarian,0/6,the CA125 tumour marker (MUC16 keeps the alias),Ovarian 36
+alias,fact,SUPT16H,suppress,breast,0/6,"'the fact that', FACT (Functional Assessment of Cancer Therapy)",-
+alias,minor,NR4A3,suppress,breast,0/6,"minor complications, minor allele",Lung 23; Lymphoma 47
+alias,task,KCNK3,suppress,breast,0/6,"task (cognitive, classification)",-
+alias,ctcl,TSPYL2,suppress,lymphoma,0/6,cutaneous T-cell lymphoma (CTCL),-
+alias,maps,C3ORF62,suppress,brain,0/6,imaging parameter maps,-
+alias,larc,CCL20,suppress,colorectal,0/6,locally advanced rectal cancer (LARC),-
+alias,ct26,DDX53,suppress,colorectal,0/6,the CT26 colon carcinoma mouse cell line,-
+alias,fast,FASTK,suppress,breast,0/6,"the adjective fast, FAST",Colorectal 28
+alias,fast,FOXD3-AS1,suppress,breast,0/6,"the adjective fast, FAST",Colorectal 29; Melanoma 40; Lung 41
+alias,particle,PARTICL,suppress,breast,0/6,particle size (nanoparticles),-
+alias,nets,SPINK5,suppress,pancreas,0/6,neuroendocrine tumors (NETs),-
+alias,cava,CA5A,suppress,kidney,0/6,inferior vena cava,-
+alias,anova,NOVA2,suppress,breast,0/6,the ANOVA test,-
+alias,nact,SLC13A5,suppress,breast,0/6,neoadjuvant chemotherapy (NACT),-
+alias,scar,RPS4X,suppress,breast,0/6,surgical scar,-
+alias,tramp,TNFRSF25,suppress,prostate,0/6,the TRAMP transgenic mouse model,-
+alias,tramp,TRAM1,suppress,prostate,0/6,the TRAMP transgenic mouse model,-
+alias,tramp,ZBED1,suppress,prostate,0/6,the TRAMP transgenic mouse model,-
+alias,tram,TRAM1,suppress,breast,0/6,TRAM flap reconstruction,-
+alias,asparaginase,ASPG,suppress,leukemia,0/6,the drug L-asparaginase,-
+alias,sera,PHGDH,suppress,liver,0/6,plural of serum,-
+alias,wave,WASF1,suppress,breast,1/6 (1/100 pattern),"shear wave, E-wave, wave length",-
+alias,warts,LATS1,suppress,cervical,0/6,HPV genital warts (LATS1 keeps its symbol and full name),-
+alias,call,CHL1,suppress,breast,0/6,"the verb call, call rate",-
+alias,ralp,SHC4,suppress,prostate,0/6,robot-assisted laparoscopic prostatectomy (RALP),-
+alias,rarc,RARG,suppress,bladder,0/6,robot-assisted radical cystectomy (RARC),-
+alias,fell,STAB2,suppress,breast,0/6,the verb fell,-
+alias,spin,GTF2I,suppress,brain,0/6,"MRI spin echo, arterial spin labeling",-
+alias,cats,PIMREG,suppress,lymphoma,0/6,the animal (feline lymphoma),-
+alias,nail,CD244,suppress,melanoma,0/6,nail (subungual melanoma),-
+alias,clip,POMC,suppress,breast,0/6,"surgical clip, clip art",Brain 47
+alias,clip,CD74,suppress,breast,0/6,"surgical clip, clip art",-
+alias,delta,YY1,suppress,leukemia,0/6,"T-cell receptor delta, PKC delta, Delta notation",Pancreatic 40; Cervical 41
+alias,crest,SS18L1,suppress,melanoma,0/6,neural crest,-
+alias,genesis,FOXD3,suppress,breast,0/6,"tumor genesis, genesis of cancer",Cervical 30; Thyroid 43; Esophageal 47
+alias,wish,NCKIPSD,suppress,breast,0/6,the verb wish,-
+alias,hits,FAM107B,suppress,breast,0/6,"screen hits, second hits",Colorectal 47
+alias,cd25,ISG20,suppress,leukemia,0/6,CD25 marker (IL2RA keeps the alias),-
+alias,nrf2,GABPA,suppress,lung,0/6,NRF2 = NFE2L2 (NFE2L2 keeps the alias),Esophageal 39
+symbol,ESD,ESD,suppress,"stomach, colorectal",0/6 (0/180 pattern),endoscopic submucosal dissection,-
+symbol,GEM,GEM,suppress,pancreas,0/6 (1/180),gemcitabine (GEM),-
+symbol,CAD,CAD,suppress,breast,0/6 (2/180),"computer-aided diagnosis, coronary artery disease",-
+symbol,ARC,ARC,suppress,"prostate, lung, brain",0/6 (0/180),volumetric modulated arc therapy,-
+symbol,NHS,NHS,suppress,breast,0/6 (1/180),"National Health Service, Nurses' Health Study",-
+symbol,COIL,COIL,suppress,prostate,0/6 (1/180),endorectal and phased-array MRI coils,-
+symbol,PTS,PTS,suppress,breast,0/6 (0/180),"patients (pts), phyllodes tumors",-
+symbol,POR,POR,suppress,colorectal,0/6 (0/60),"Spanish 'por', postoperative recurrence, odds ratio",-
+symbol,MOS,MOS,suppress,lung,0/6 (2/180),"months, median overall survival (mOS)",-
+symbol,ADM,ADM,suppress,breast,0/6 (5/180),acellular dermal matrix,-
+symbol,IDE,IDE,suppress,liver,0/6 (1/60),nucleos(t)ide analogs (tokenization),-
+symbol,IDS,IDS,suppress,ovarian,0/6 (1/114),interval debulking surgery,-
+symbol,MAX,MAX,suppress,"lung, brain",1/27,"SUVmax, Vmax, Cmax, Dmax",-
+symbol,REST,REST,suppress,"breast, brain",1/28,"'the rest of', rest (at rest)",-
+alias,her2,ERBB2,retain,breast,6/6,-,-
+alias,aromatase,CYP19A1,retain,breast,6/6,aromatase inhibitors (the enzyme),-
+alias,psma,FOLH1,retain,prostate,6/6,-,-
+alias,albumin,ALB,retain,liver,6/6,protein name; serum albumin,-
+alias,parp,PARP1,retain,breast,6/6,family name (PARP1/2),-
+alias,tyrosinase,TYR,retain,melanoma,6/6,-,-
+alias,insulin,INS,retain,pancreas,6/6,protein name,-
+alias,pi3k,PIK3CA,retain,liver,6/6,family name,-
+alias,ca125,MUC16,retain,ovarian,6/6,-,-
+alias,vimentin,VIM,retain,lung,6/6,-,-
+alias,cd10,MME,retain,lymphoma,6/6,-,-
+alias,somatostatin,SST,retain,pancreas,6/6,-,-
+alias,erk1,MAPK3,retain,breast,6/6,-,-
+alias,cd56,NCAM1,retain,lymphoma,6/6,-,-
+alias,acth,POMC,retain,brain,6/6,hormone product of the gene,Brain 47
+alias,cd138,SDC1,retain,myeloma,6/6,-,-
+alias,survivin,BIRC5,retain,breast,6/6,-,-
+alias,cd133,PROM1,retain,colorectal,6/6,-,-
+alias,snail,SNAI1,retain,breast,6/6,the transcription factor,-
+alias,gp100,PMEL,retain,melanoma,6/6,-,-
+alias,cd25,IL2RA,retain,leukemia,6/6,-,-
+alias,leptin,LEP,retain,breast,6/6,-,-
+alias,nrf2,NFE2L2,retain,lung,6/6,-,-
+alias,hdac,HDAC9,retain,leukemia,6/6,family name (not specific to HDAC9; disclosed),-
+alias,hsp90,HSP90AA1,retain,breast,4/4,family name,-
+alias,trail,TNFSF10,retain,colorectal,6/6,-,-
+alias,nestin,NES,retain,brain,6/6,-,-
+alias,gastrin,GAST,retain,stomach,6/6,-,-
+alias,synaptophysin,SYP,retain,brain,6/6,-,-
+alias,cd23,FCER2,retain,lymphoma,6/6,-,-
+alias,ck20,KRT20,retain,colorectal,6/6,-,-
+alias,ck19,KRT19,retain,liver,6/6,-,-
+alias,rankl,TNFSF11,retain,breast,6/6,-,-
+alias,vegfr,KDR,retain,kidney,6/6,family name (VEGFR1-3; disclosed),-
+alias,adiponectin,ADIPOQ,retain,breast,6/6,-,-
+alias,glucagon,GCG,retain,pancreas,6/6,-,-
+alias,hmb45,PMEL,retain,melanoma,6/6,antibody to gp100,-
+alias,cd43,SPN,retain,lymphoma,6/6,-,-
+alias,ptc1,CCDC6,retain,thyroid,6/6,RET/PTC1 fusion partner,-
+symbol,AFP,AFP,retain,liver,6/6,abbreviation of alpha-fetoprotein,Liver 38
+symbol,MGMT,MGMT,retain,brain,6/6,-,Brain 9; Esophageal 49
+symbol,RET,RET,retain,"thyroid, lung",6/6,-,Thyroid 3; Lung 20; Cervical 45; Colorectal 49
+symbol,ATM,ATM,retain,breast,6/6,-,16 lists
+symbol,TYR,TYR,retain,melanoma,6/6,-,Thyroid 33
+symbol,SRC,SRC,retain,"breast, leukemia",5/6,-,-
+alias,chop,DDIT3,retain-collection-dependent,breast/lung/pancreas/liver; lymphoma,"8/14, 11/14, 11/14, 13/14; 0/6",CHOP regimen in lymphoma and case reports; ER-stress gene elsewhere,Lymphoma 50
+symbol,KIT,KIT,retain-collection-dependent,colorectal; leukemia,1/14; 8/14,"assay kit, FIT/screening kit",14 lists (Melanoma 3 ... Bladder 42)
+symbol,MET,MET,retain-collection-dependent,breast; lung,1/14; 6/14,"'met the criteria', metabolic equivalent (MET)",13 lists (Lung 9 ... Endometrial 45)
+symbol,APC,APC,retain-collection-dependent,lung; breast; colorectal,4/13; 7/14; 5/6,"annual percent change, age-period-cohort, anaphase-promoting complex",11 lists (Stomach 7 ... Ovarian 41)
+symbol,POLE,POLE,retain-collection-dependent,kidney; endometrial,0/14; 56/60 (pattern),upper/lower pole of the kidney,Endometrial 3; Ovarian 5; Colorectal 12; Brain 18; Stomach 49; Pancreatic 50
+symbol,MIA,MIA,retain-collection-dependent,pancreas; lung; melanoma,0/14; 1/14; 59/60 (pattern),MIA PaCa-2 cell line; minimally invasive adenocarcinoma,-
+symbol,BAD,BAD,retain-collection-dependent,breast; leukemia,3/14; 6/14,'bad prognosis',-
+symbol,FAS,FAS,retain-collection-dependent,breast; colorectal; leukemia,mostly genuine (33-46/60 pattern),"fibroadenomas (FAs), fatty acid synthase",Lymphoma 36

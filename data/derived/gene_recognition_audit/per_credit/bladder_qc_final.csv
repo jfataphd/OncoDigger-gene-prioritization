@@ -1,0 +1,444 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Bladder Cancer,FGFR3,34051747,random,fgfr3,C,ML,,symbol 'FGFR3' present,8,significance of kdm6a mutation in bladder cancer immune escape,ML
+Bladder Cancer,FGFR3,35384983,random,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,44,fibroblast growth factor receptor 3 gene fgfr3 mutations in high-grade muscle-invasive urothelial bladder cancer in a brazilian population e,M
+Bladder Cancer,FGFR3,16278395,random,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,47,a simple and fast method for the simultaneous detection of nine fibroblast growth factor receptor 3 mutations in bladder cancer and voided u,M
+Bladder Cancer,FGFR3,20542753,random,fgfr3,C,M,,symbol 'FGFR3' present,51,fgfr3 mutational status and protein expression in patients with bladder cancer in a jordanian population,M
+Bladder Cancer,FGFR3,22099989,random,fgfr3,C,M,,symbol 'FGFR3' present,53,the fgfr3 mutation is related to favorable pt1 bladder cancer,M
+Bladder Cancer,FGFR3,30975452,random,fgfr3,C,M,,symbol 'FGFR3' present,63,apobec-mediated mutagenesis as a likely cause of fgfr3 s249c mutation over-representation in bladder cancer,M
+Bladder Cancer,FGFR3,27029078,random,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,131,the genetic difference between western and chinese urothelial cell carcinomas infrequent fgfr3 mutation in han chinese patients,M
+Bladder Cancer,FGFR3,19156776,random,fgfr3,C,M,,symbol 'FGFR3' present,148,the development of multiple bladder tumour recurrences in relation to the fgfr3 mutation status of the primary tumour,M
+Bladder Cancer,FGFR3,12237885,random,fgfr3,C,M,,symbol 'FGFR3' present,164,frequent fgfr3 mutations in urothelial papilloma,M
+Bladder Cancer,FGFR3,17240035,random,fgfr3,C,M,,symbol 'FGFR3' present,171,fgfr3 mutations and a normal ck20 staining pattern define low-grade noninvasive urothelial bladder tumours,M
+Bladder Cancer,FGFR3,16384584,random,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,185,fgfr3 dimer stabilization due to a single amino acid pathogenic mutation,M
+Bladder Cancer,FGFR3,21547910,random,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,193,somatic mutation of fibroblast growth factor receptor-3 fgfr3 defines a distinct morphological subtype of high-grade urothelial carcinoma,M
+Bladder Cancer,FGFR3,11395371,random,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,207,frequent fgfr3 mutations in papillary non-invasive bladder pta tumors,M
+Bladder Cancer,FGFR3,36273937,random,fgfr3|fibroblast growth factor receptor 3,C,M,target,symbol 'FGFR3' present,225,fgfr3 mutational activation can induce luminal-like papillary bladder tumor formation and favors a male sex bias,M
+Bladder Cancer,FGFR3,16885334,random,fgfr3,C,M,,symbol 'FGFR3' present,245,pik3ca mutations are an early genetic alteration associated with fgfr3 mutations in superficial papillary bladder tumors,M
+Bladder Cancer,FGFR3,37947995,random,fgfr3,C,M,,symbol 'FGFR3' present,251,frequency of next-generation sequencing prevalence of targetable mutations and response to targeted therapies amongst patients with metastat,M
+Bladder Cancer,FGFR3,29673906,random,fgfr3,C,M,,symbol 'FGFR3' present,328,interest of next-generation sequencing in bcg-treated high-risk bladder cancer,M
+Bladder Cancer,FGFR3,17255960,random,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,366,fibroblast growth factor receptor 3 mutations in epidermal nevi and associated low grade bladder tumors,M
+Bladder Cancer,FGFR3,38515743,random,fgfr3,C,M,,symbol 'FGFR3' present,367,dysregulated fgfr3 signaling alters the immune landscape in bladder cancer and presents therapeutic possibilities in an agent-based model,M
+Bladder Cancer,FGFR3,40138016,random,fgfr3,C,M,,symbol 'FGFR3' present,375,fgfr3 gene mutations screening in non-muscle invasive bladder cancer nmibc in the tunisian population,M
+Bladder Cancer,FGFR3,19909015,random,fgfr3,C,M,,symbol 'FGFR3' present,382,combined analysis of smoking tp53 and fgfr3 mutations in tunisian patients with invasive and superficial high-grade bladder tumors,M
+Bladder Cancer,FGFR3,33388091,random,fgfr3,C,I,,symbol 'FGFR3' present,405,defining muscle-invasive bladder cancer immunotypes by introducing tumor mutation burden cd8 t cells and molecular subtypes,I
+Bladder Cancer,FGFR3,25809917,random,fgfr3|fibroblast growth factor receptor 3,C,M,,symbol 'FGFR3' present,422,mutations in tert promoter and fgfr3 and telomere length in bladder cancer,M
+Bladder Cancer,FGFR3,16338952,random,fgfr3,C,M,,symbol 'FGFR3' present,460,oncogenic properties of the mutated forms of fibroblast growth factor receptor 3b,M
+Bladder Cancer,FGFR3,26041878,random,fgfr3,C,M,target,symbol 'FGFR3' present,473,patient-derived bladder cancer xenografts in the preclinical development of novel targeted therapies,M
+Bladder Cancer,FGFR3,20348956,random,fgfr3,C,M,,symbol 'FGFR3' present,477,a sequence variant at 4p16 3 confers susceptibility to urinary bladder cancer,M
+Bladder Cancer,FGFR3,23468956,random,fgfr3,C,M,target,symbol 'FGFR3' present,504,fibroblast growth factor receptors-1 and -3 play distinct roles in the regulation of bladder cancer growth and metastasis implications for t,M
+Bladder Cancer,FGFR3,40109859,random,fgfr3,C,ML,,symbol 'FGFR3' present,569,exploring the utility of a ngs multigene panel to predict bcg response in patients with non-muscle invasive bladder cancer,ML
+Bladder Cancer,FGFR3,39596194,random,fgfr3,C,G,,symbol 'FGFR3' present,573,use of 3' rapid amplification of cdna ends 3' race -based targeted rna sequencing for profiling of druggable genetic alterations in urotheli,G
+Bladder Cancer,FGFR3,26924873,random,fgfr3,C,M,,symbol 'FGFR3' present,577,molecular biomarkers in bladder cancer novel potential indicators of prognosis and treatment outcomes,M
+Bladder Cancer,FGFR3,26522772,random,fgfr3,C,M,,symbol 'FGFR3' present,617,h-ras mutation is a key molecular feature of pediatric urothelial bladder cancer a detailed report of three cases,M
+Bladder Cancer,FGFR3,22724020,random,fgfr3,C,M,,symbol 'FGFR3' present,648,deregulation of rab and rab effector genes in bladder cancer,M
+Bladder Cancer,FGFR3,38923777,random+targeted,fibroblast growth factor receptor 3,C,G,,credited via alias fibroblast growth factor receptor 3,650,real-world performance of uromonitor in urothelial bladder cancer detection a multicentric trial,G
+Bladder Cancer,FGFR3,24898159,random,fgfr3,C,M,,symbol 'FGFR3' present,714,fibroblast growth factor receptor fgfr gene amplifications are rare events in bladder cancer,M
+Bladder Cancer,FGFR3,35466737,random,fgfr3,C,M,,symbol 'FGFR3' present,722,the search for the optimal cut-off value of p53-immunohistochemistry to predict prognosis of invasive bladder cancer a multi-center multi-la,M
+Bladder Cancer,FGFR3,35608106,random,fgfr3,C,M,target,symbol 'FGFR3' present,787,targeting fgfr3 alterations with adjuvant infigratinib in invasive urothelial carcinoma the phase iii proof 302 trial,M
+Bladder Cancer,FGFR3,34895867,random,fgfr3,C,ML,,symbol 'FGFR3' present,806,somatic features of response and relapse in non-muscle-invasive bladder cancer treated with bacillus calmette-guerin immunotherapy,ML
+Bladder Cancer,FGFR3,42262988,targeted,fibroblast growth factor receptor 3,C,M,,credited via alias fibroblast growth factor receptor 3,879,the evolving landscape and clinical utility of circulating tumor dna across the spectrum of urothelial carcinoma a systematic review and fra,M
+Bladder Cancer,FGFR3,37377403,random,fgfr3,C,M,,symbol 'FGFR3' present,915,resistance to selective fgfr inhibitors in fgfr-driven urothelial cancer,M
+Bladder Cancer,FGFR3,11005449,targeted,fibroblast growth factor receptor 3,C,M,,credited via alias fibroblast growth factor receptor 3,930,can biological markers predict recurrence and progression of superficial bladder cancer,M
+Bladder Cancer,FGFR3,31619281,random,fgfr3,C,ML,,symbol 'FGFR3' present,986,long non-coding rnas identify a subset of luminal muscle-invasive bladder cancer patients with favorable prognosis,ML
+Bladder Cancer,FGFR3,40835210,random,fgfr3|fibroblast growth factor receptor 3,C,M,target,symbol 'FGFR3' present,998,inhibition of elovl6 activity impairs mitochondrial respiratory function and inhibits tumor progression in fgfr3-mutated bladder cancer cell,M
+Bladder Cancer,TP53,16903935,random,tp53,C,M,,symbol 'TP53' present,81,clinical value of vesical leukoplakia and evaluation of the neoplastic risk by mutation analyses of the tumor suppressor gene tp53,M
+Bladder Cancer,TP53,41878440,random,tp53,C,M,,symbol 'TP53' present,95,effect of co-occurring mutations in tp53 gene and tert promoter on the survival of bladder cancer patients,M
+Bladder Cancer,TP53,35467000,random,tp53,C,ML,,symbol 'TP53' present,97,distinct gene mutations are associated with clinicopathologic features in urachal carcinoma,ML
+Bladder Cancer,TP53,26254388,random,tp53,C,M,,symbol 'TP53' present,100,tp53 and fgfr3 gene mutation assessment in urine pilot study for bladder cancer diagnosis,M
+Bladder Cancer,TP53,32239176,random,tp53,C,M,,symbol 'TP53' present,123,mining tcga database for tumor mutation burden and their clinical significance in bladder cancer,M
+Bladder Cancer,TP53,15816639,random,tp53,C,M,,symbol 'TP53' present,191,four tumour markers for urinary bladder cancer--tissue polypeptide antigen tpa her-2 neu erb b2 urokinase-type plasminogen activator recepto,M
+Bladder Cancer,TP53,25092538,random,tp53,C,M,,symbol 'TP53' present,205,genomic predictors of survival in patients with high-grade urothelial carcinoma of the bladder,M
+Bladder Cancer,TP53,18425359,random,tp53,C,M,,symbol 'TP53' present,253,tp53 gene mutations as an independent marker for urinary bladder cancer progression,M
+Bladder Cancer,TP53,18997737,random,tp53,C,M,,symbol 'TP53' present,266,tp53 mutational analysis supports monoclonal origin of biphasic sarcomatoid urothelial carcinoma carcinosarcoma of the urinary bladder,M
+Bladder Cancer,TP53,35322193,random,tp53,C,M,,symbol 'TP53' present,279,p53 null phenotype is a positive result in urothelial carcinoma in situ,M
+Bladder Cancer,TP53,33780049,random,tp53,C,M,,symbol 'TP53' present,281,the potential diagnosis role of tp53 mutation in advanced bladder cancer a meta-analysis,M
+Bladder Cancer,TP53,34421886,random,tp53,C,M,,symbol 'TP53' present,301,predictive value of the tp53 pik3ca atm mutation classifier for patients with bladder cancer responding to immune checkpoint inhibitor thera,M
+Bladder Cancer,TP53,29673906,random,tp53,C,I,,symbol 'TP53' present,328,interest of next-generation sequencing in bcg-treated high-risk bladder cancer,I
+Bladder Cancer,TP53,41373802,random,tp53,C,ML,,symbol 'TP53' present,333,genomic characteristics of bladder cancer an aacr project genie study,ML
+Bladder Cancer,TP53,17982131,random,tp53,C,M,,symbol 'TP53' present,340,genomic and proteomic profiles reveal the association of gelsolin to tp53 status and bladder cancer progression,M
+Bladder Cancer,TP53,32839927,random,tp53,C,G,,symbol 'TP53' present,345,biomarkers and intermediate-high risk non-muscle invasive bladder cancer a multivariate analysis of three different cellular pathways with p,G
+Bladder Cancer,TP53,11017932,random,tp53,C,M,,symbol 'TP53' present,454,evaluation of the performance of a p53 sequencing microarray chip using 140 previously sequenced bladder tumor samples,M
+Bladder Cancer,TP53,26238783,random,tp53,C,M,,symbol 'TP53' present,461,a modeling approach to explain mutually exclusive and co-occurring genetic alterations in bladder tumorigenesis,M
+Bladder Cancer,TP53,32061548,random,tp53,C,M,,symbol 'TP53' present,463,urothelial cancers with small cell variant histology have confirmed high tumor mutational burden frequent tp53 and rb mutations and a unique,M
+Bladder Cancer,TP53,22685613,random,tp53,C,ML,,symbol 'TP53' present,465,integrated genomic and gene expression profiling identifies two major genomic circuits in urothelial carcinoma,ML
+Bladder Cancer,TP53,15538112,random,tp53,C,M,,symbol 'TP53' present,476,genetic and immunophenotype analyses of tp53 in bladder cancer tp53 alterations are associated with tumor progression,M
+Bladder Cancer,TP53,18945538,random,tp53,C,M,,symbol 'TP53' present,553,expression of the endothelin axis in noninvasive and superficially invasive bladder cancer relation to clinicopathologic and molecular progn,M
+Bladder Cancer,TP53,32529781,random,tp53,C,ML,,symbol 'TP53' present,562,slow n-acetylation as a possible contributor to bladder carcinogenesis,ML
+Bladder Cancer,TP53,35853574,random,tp53,C,ML,,symbol 'TP53' present,643,the lund molecular taxonomy applied to non-muscle-invasive urothelial carcinoma,ML
+Bladder Cancer,TP53,35918248,random,tp53,C,ML,,symbol 'TP53' present,683,genomic landscape of locally advanced or metastatic urothelial carcinoma with squamous differentiation compared to pure urothelial carcinoma,ML
+Bladder Cancer,TP53,35503998,random,tp53,C,M,,symbol 'TP53' present,716,transcriptional expressions of hsa-mir-183 predicted target genes as independent indicators for prognosis in bladder urothelial carcinoma,M
+Bladder Cancer,TP53,26901314,random,tp53,C,M,,symbol 'TP53' present,730,multiplex pcr and next generation sequencing for the non-invasive detection of bladder cancer,M
+Bladder Cancer,TP53,31077629,random,tp53,C,G,,symbol 'TP53' present,745,targeted deep sequencing of urothelial bladder cancers and associated urinary dna a 23-gene panel with utility for non-invasive diagnosis an,G
+Bladder Cancer,TP53,33608980,random,tp53,C,M,,symbol 'TP53' present,750,stat1 is a key gene in a gene regulatory network related to immune phenotypes in bladder cancer an integrative analysis of multi-omics data,M
+Bladder Cancer,TP53,40396416,random,tp53,C,M,target,symbol 'TP53' present,751,tertiary lymphoid structures as independent predictors of favorable prognosis in muscle-invasive bladder cancer,M
+Bladder Cancer,TP53,41567195,random,tp53,C,M,,symbol 'TP53' present,767,revealing intra-group immunotherapy response heterogeneity in metastatic urothelial carcinoma through interpretable feature extraction and s,M
+Bladder Cancer,TP53,31067463,random,tp53,C,M,,symbol 'TP53' present,793,dysregulation of emt drives the progression to clinically aggressive sarcomatoid bladder cancer,M
+Bladder Cancer,TP53,35897708,random,tp53,C,M,,symbol 'TP53' present,798,multiparametric classification of non-muscle invasive papillary urothelial neoplasms combining morphological phenotypical and molecular feat,M
+Bladder Cancer,TP53,12970747,random,tp53,C,M,,symbol 'TP53' present,804,paired-box genes are frequently expressed in cancer and often required for cancer cell survival,M
+Bladder Cancer,TP53,19454613,random,tp53,C,P,,symbol 'TP53' present,828,detection of urothelial bladder cancer cells in voided urine can be improved by a combination of cytology and standardized microsatellite an,P
+Bladder Cancer,TP53,38570422,random,tp53,C,I,,symbol 'TP53' present,840,frequency and nature of genomic alterations in erbb2-altered urothelial bladder cancer,I
+Bladder Cancer,TP53,30064409,random,tp53,C,I,,symbol 'TP53' present,885,fibroblast growth factor receptor 3 fgfr3 aberrations in muscle-invasive urothelial carcinoma,I
+Bladder Cancer,TP53,42420157,random,tp53,C,M,,symbol 'TP53' present,892,molecular profiling of urothelial bladder cancer bridging tumor biology and clinical decision-making,M
+Bladder Cancer,TP53,30352907,random,tp53,C,ML,,symbol 'TP53' present,910,clonal relatedness and mutational differences between upper tract and bladder urothelial carcinoma,ML
+Bladder Cancer,TP53,42161402,random,tp53,C,M,,symbol 'TP53' present,943,aberrant p53 fuels macrophage immunoregulatory polarization and refractory clinical outcome in urothelial carcinoma,M
+Bladder Cancer,TERT,32533903,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,29,tert c228t mutation in non-malignant bladder urothelium is associated with intravesical recurrence for patients with non-muscle invasive bla,M
+Bladder Cancer,TERT,29047227,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,42,telomerase reverse transcriptase tert promoter mutations are rare in urachal cancer,M
+Bladder Cancer,TERT,31669704,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,46,telomerase reverse transcriptase promoter mutations in cancers derived from multiple organ sites among middle eastern population,M
+Bladder Cancer,TERT,40156424,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,79,exploring the prevalence of telomerase reverse transcriptase promoter mutations in bladder cancer patients and their correlation with tumor ,M
+Bladder Cancer,TERT,35751929,random,tert,C,M,,symbol 'TERT' present,94,a hypothesis-generating analysis on the role of tert promoter mutation in advanced urothelial carcinoma treated with immunotherapy,M
+Bladder Cancer,TERT,28597078,random,tert,C,M,,symbol 'TERT' present,165,spectrum of genetic mutations in de novo punlmp of the urinary bladder,M
+Bladder Cancer,TERT,38297963,random,tert,C,M,,symbol 'TERT' present,166,landscape and saturation analysis of mutations associated with race in cancer genomes by clinical sequencing,M
+Bladder Cancer,TERT,32081602,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,169,urinary tert promoter mutations are detectable up to 10 years prior to clinical diagnosis of bladder cancer evidence from the golestan cohor,M
+Bladder Cancer,TERT,26239299,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,192,telomerase reverse transcriptase promoter mutations in glandular lesions of the urinary bladder,M
+Bladder Cancer,TERT,19955487,random,tert,X,I,,'tert' = tert-butyl in a chemical compound name; TERT gene not mentioned,212,1-tert-butyl-3- 6- 3 5-dimethoxy-phenyl -2- 4-diethylamino-butylamino -pyrido 2 3-d pyrimidin-7-yl -urea pd173074 a selective tyrosine kinas,I
+Bladder Cancer,TERT,24121487,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,230,tert promoter mutations occur early in urothelial neoplasia and are biomarkers of early disease and disease recurrence in urine,M
+Bladder Cancer,TERT,37945655,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,268,screening for a practical method to monitor the status of patients with metastatic bladder cancer at the circulating cell-gene level,M
+Bladder Cancer,TERT,40209138,random,tert,C,ML,,symbol 'TERT' present,272,comparative genomic characterization of small cell carcinoma of the bladder compared with urothelial carcinoma and small cell lung carcinoma,ML
+Bladder Cancer,TERT,33938397,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,296,the role of telomerase reverse transcriptase tert promoter mutations in prognosis in bladder cancer,M
+Bladder Cancer,TERT,31348552,random,tert,C,M,,symbol 'TERT' present,312,distinct genetic alterations and luminal molecular subtype in nested variant of urothelial carcinoma,M
+Bladder Cancer,TERT,27611947,random,tert,C,M,,symbol 'TERT' present,316,detection of multiple mutations in urinary exfoliated cells from male bladder cancer patients at diagnosis and during follow-up,M
+Bladder Cancer,TERT,33562516,random,tert,C,M,,symbol 'TERT' present,347,tert promoter mutation analysis of whole-organ mapping bladder cancers,M
+Bladder Cancer,TERT,27465249,random,tert,C,P,,symbol 'TERT' present,360,pik3ca dependence and sensitivity to therapeutic targeting in urothelial carcinoma,P
+Bladder Cancer,TERT,28639280,random,tert,C,M,,symbol 'TERT' present,379,mutational profiles of brenner tumors show distinctive features uncoupling urothelial carcinomas and ovarian carcinoma with transitional cel,M
+Bladder Cancer,TERT,36430798,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,429,tert promoter mutations as simple and non-invasive urinary biomarkers for the detection of urothelial bladder cancer in a high-risk region,M
+Bladder Cancer,TERT,28802642,random,tert,C,M,,symbol 'TERT' present,462,prognostic value of tert alterations mutational and copy number alterations burden in urothelial carcinoma,M
+Bladder Cancer,TERT,32061548,random,tert,C,G,,symbol 'TERT' present,463,urothelial cancers with small cell variant histology have confirmed high tumor mutational burden frequent tp53 and rb mutations and a unique,G
+Bladder Cancer,TERT,34117034,random,tert,C,M,,symbol 'TERT' present,484,identification of a novel inflamed tumor microenvironment signature as a predictive biomarker of bacillus calmette-guerin immunotherapy in n,M
+Bladder Cancer,TERT,32839402,random,tert,C,M,,symbol 'TERT' present,559,activating telomerase tert promoter mutations and their application for the detection of bladder cancer,M
+Bladder Cancer,TERT,36713366,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,579,tert promoter mutations and methylation for telomerase activation in urothelial carcinomas new mechanistic insights and clinical significanc,M
+Bladder Cancer,TERT,36495580,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,613,emerging targets in upper tract urothelial carcinomas the tert gene,M
+Bladder Cancer,TERT,40403852,random,tert,C,ML,,symbol 'TERT' present,616,molecular profile of micropapillary urothelial carcinoma of the urinary bladder an analysis of 99 cases by next-generation sequencing,ML
+Bladder Cancer,TERT,36754853,random,tert,C,ML,,symbol 'TERT' present,622,comparison of clinicopathological characteristics gene expression profiles mutational analysis and clinical outcomes of pure and mixed small,ML
+Bladder Cancer,TERT,38923777,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,650,real-world performance of uromonitor in urothelial bladder cancer detection a multicentric trial,M
+Bladder Cancer,TERT,26901314,random,tert,C,M,,symbol 'TERT' present,730,multiplex pcr and next generation sequencing for the non-invasive detection of bladder cancer,M
+Bladder Cancer,TERT,28339163,random,telomerase reverse transcriptase|tert,C,G,,symbol 'TERT' present,744,next-generation sequencing of urine specimens a novel platform for genomic analysis in patients with non-muscle-invasive urothelial carcinom,G
+Bladder Cancer,TERT,31077629,random,tert,C,M,,symbol 'TERT' present,745,targeted deep sequencing of urothelial bladder cancers and associated urinary dna a 23-gene panel with utility for non-invasive diagnosis an,M
+Bladder Cancer,TERT,37635444,random,tert,C,ML,,symbol 'TERT' present,773,primary mucosal melanomas of the urogenital tract a clinical pathological and genetic nationwide survey of danish patients 1990-2019,ML
+Bladder Cancer,TERT,37821306,random,tert,C,G,,symbol 'TERT' present,797,hpv-positive clinically advanced squamous cell carcinoma of the urinary bladder abscc a comprehensive genomic profiling cgp study,G
+Bladder Cancer,TERT,34895867,random,tert,C,M,,symbol 'TERT' present,806,somatic features of response and relapse in non-muscle-invasive bladder cancer treated with bacillus calmette-guerin immunotherapy,M
+Bladder Cancer,TERT,41065174,random,tert,C,M,,symbol 'TERT' present,822,molecular and immune characteristics of neuroendocrine bladder carcinoma - implications for diagnosis prognosis and therapy a review,M
+Bladder Cancer,TERT,38570422,random,tert,C,I,,symbol 'TERT' present,840,frequency and nature of genomic alterations in erbb2-altered urothelial bladder cancer,I
+Bladder Cancer,TERT,40349989,random,tert,C,ML,,symbol 'TERT' present,842,plasmacytoid urothelial carcinoma of the urinary bladder a single institution experience with focus on next-generation sequencing ngs and pd,ML
+Bladder Cancer,TERT,41804641,random,tert,C,ML,,symbol 'TERT' present,985,inverted urothelial papilloma diagnostic challenges molecular insights and clinical implications,ML
+Bladder Cancer,TERT,38083992,random,tert,C,G,,symbol 'TERT' present,987,postoperative recurrence detection using individualized circulating tumor dna in upper tract urothelial carcinoma,G
+Bladder Cancer,PIK3CA,34051747,random,pik3ca,C,I,,symbol 'PIK3CA' present,8,significance of kdm6a mutation in bladder cancer immune escape,I
+Bladder Cancer,PIK3CA,36053728,random,pik3ca,C,ML,,symbol 'PIK3CA' present,11,analysis of the relationship between bladder cancer gene mutation and clinical prognosis by high-throughput sequencing,ML
+Bladder Cancer,PIK3CA,32012118,random,pik3ca,C,I,,symbol 'PIK3CA' present,64,ep300 mutation is associated with tumor mutation burden and promotes antitumor immunity in bladder cancer patients,I
+Bladder Cancer,PIK3CA,27520487,random,pi3k|pik3ca,C,W,,symbol 'PIK3CA' present,85,targeted exome sequencing of the cancer genome in patients with very high-risk bladder cancer,W
+Bladder Cancer,PIK3CA,21533174,random,pik3ca,C,M,,symbol 'PIK3CA' present,102,a systematic study of gene mutations in urothelial carcinoma inactivating mutations in tsc2 and pik3r1,M
+Bladder Cancer,PIK3CA,28069289,random,pik3ca,C,M,,symbol 'PIK3CA' present,112,liquid biopsy analysis of fgfr3 and pik3ca hotspot mutations for disease surveillance in bladder cancer,M
+Bladder Cancer,PIK3CA,27823983,random,pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,114,genomic profiling is predictive of response to cisplatin treatment but not to pi3k inhibition in bladder cancer patient-derived xenografts,M
+Bladder Cancer,PIK3CA,24367658,targeted,pi3k,X,I,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,124,identification of mutations in distinct regions of p85 alpha in urothelial cancer,I
+Bladder Cancer,PIK3CA,35317488,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,135,akt1 and pik3ca activating mutations in moroccan bladder cancer patients biopsies and matched urine,M
+Bladder Cancer,PIK3CA,40930924,random,pik3ca,C,I,,symbol 'PIK3CA' present,153,targeted hotspot profiling reveals a functionally relevant mutation in bladder cancer,I
+Bladder Cancer,PIK3CA,28597078,random,pik3ca,C,I,,symbol 'PIK3CA' present,165,spectrum of genetic mutations in de novo punlmp of the urinary bladder,I
+Bladder Cancer,PIK3CA,20878954,random,pik3ca,C,M,,symbol 'PIK3CA' present,187,the plasmacytoid carcinoma of the bladder--rare variant of aggressive urothelial carcinoma,M
+Bladder Cancer,PIK3CA,41537408,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,275,molecular characterization of clear cell adenocarcinoma of the urinary bladder,M
+Bladder Cancer,PIK3CA,19789314,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,284,spectrum of phosphatidylinositol 3-kinase pathway gene alterations in bladder cancer,M
+Bladder Cancer,PIK3CA,33004515,random,pik3ca,C,ML,,symbol 'PIK3CA' present,292,macroscopic somatic clonal expansion in morphologically normal human urothelium,ML
+Bladder Cancer,PIK3CA,31028363,random,pik3ca,C,M,,symbol 'PIK3CA' present,307,incidence and distribution of uroseek gene panel in a multi-institutional cohort of bladder urothelial carcinoma,M
+Bladder Cancer,PIK3CA,27611947,random,pik3ca,C,M,,symbol 'PIK3CA' present,316,detection of multiple mutations in urinary exfoliated cells from male bladder cancer patients at diagnosis and during follow-up,M
+Bladder Cancer,PIK3CA,33745098,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,339,significant benefit of everolimus in a patient with urothelial bladder cancer harboring a rare m1043i mutation of pik3ca,M
+Bladder Cancer,PIK3CA,31393349,random,pik3ca,C,ML,,symbol 'PIK3CA' present,383,gene mutation detection of urinary sediment cells for nmibc early diagnose and prediction of nmibc relapse after surgery,ML
+Bladder Cancer,PIK3CA,24519156,targeted,pi3k,X,I,target,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,449,fibroblast growth factor receptor 3 activation plays a causative role in urothelial cancer pathogenesis in cooperation with pten loss in mic,I
+Bladder Cancer,PIK3CA,28760909,random+targeted,pi3k,X,ML,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,453,circulating tumor dna reveals clinically actionable somatic genome of metastatic bladder cancer,ML
+Bladder Cancer,PIK3CA,26238783,random,pik3ca,C,M,,symbol 'PIK3CA' present,461,a modeling approach to explain mutually exclusive and co-occurring genetic alterations in bladder tumorigenesis,M
+Bladder Cancer,PIK3CA,38905731,targeted,pi3k,X,P,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,470,dual mtor1 2 inhibitor sapanisertib fth-003 tak-228 in combination with weekly paclitaxel in patients with previously treated metastatic uro,P
+Bladder Cancer,PIK3CA,36812689,random,pik3ca,C,ML,,symbol 'PIK3CA' present,509,targeted next-generation sequencing of flat urothelial lesions reveals putative pathobiological pathways potential biomarkers and rational t,ML
+Bladder Cancer,PIK3CA,22669776,random,pik3ca,C,ML,,symbol 'PIK3CA' present,521,discovery of tp53 splice variants in two novel papillary urothelial cancer cell lines,ML
+Bladder Cancer,PIK3CA,40701571,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,552,genomic evaluation of canine prostatic carcinomas as a model for the human disease or 'uc or not uc - that is the question',W
+Bladder Cancer,PIK3CA,33539671,random,pik3ca,C,ML,,symbol 'PIK3CA' present,574,diagnostic value of a comprehensive urothelial carcinoma-specific next-generation sequencing panel in urine cytology and bladder tumor speci,ML
+Bladder Cancer,PIK3CA,28753770,random,pik3ca,C,M,,symbol 'PIK3CA' present,589,molecular characterization of bladder cancer in smokers versus nonsmokers,M
+Bladder Cancer,PIK3CA,25178641,targeted,phosphatidylinositol 4 5 bisphosphate 3 kinase catalytic subunit alpha,C,I,,credited via alias phosphatidylinositol 4 5 bisphosphate 3 kinase catalytic subunit alpha,596,molecular profiling of infiltrating urothelial carcinoma of bladder and nonbladder origin,I
+Bladder Cancer,PIK3CA,26522772,random+targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,617,h-ras mutation is a key molecular feature of pediatric urothelial bladder cancer a detailed report of three cases,M
+Bladder Cancer,PIK3CA,32770562,random,pik3ca,C,M,,symbol 'PIK3CA' present,618,signet-ring cell histiocytoid carcinoma in the axilla a case report with genetic analysis using next-generation sequencing,M
+Bladder Cancer,PIK3CA,38959291,random,pik3ca,C,M,,symbol 'PIK3CA' present,627,pd-l1 and nectin-4 expression and genomic characterization of bladder cancer with divergent differentiation,M
+Bladder Cancer,PIK3CA,34050578,random,pik3ca,C,M,,symbol 'PIK3CA' present,637,comparison of genomic characterization in upper tract urothelial carcinoma and urothelial carcinoma of the bladder,M
+Bladder Cancer,PIK3CA,37481462,random,pik3ca,C,ML,,symbol 'PIK3CA' present,644,racial and sex differences in tumor genomics in urothelial carcinoma,ML
+Bladder Cancer,PIK3CA,20406976,random,pik3ca,C,ML,,symbol 'PIK3CA' present,657,combined gene expression and genomic profiling define two intrinsic molecular subtypes of urothelial carcinoma and gene signatures for molec,ML
+Bladder Cancer,PIK3CA,31077629,random,pik3ca,C,G,,symbol 'PIK3CA' present,745,targeted deep sequencing of urothelial bladder cancers and associated urinary dna a 23-gene panel with utility for non-invasive diagnosis an,G
+Bladder Cancer,PIK3CA,31067463,random,pik3ca,C,M,,symbol 'PIK3CA' present,793,dysregulation of emt drives the progression to clinically aggressive sarcomatoid bladder cancer,M
+Bladder Cancer,PIK3CA,35897708,random,pik3ca,C,ML,,symbol 'PIK3CA' present,798,multiparametric classification of non-muscle invasive papillary urothelial neoplasms combining morphological phenotypical and molecular feat,ML
+Bladder Cancer,PIK3CA,33227989,random,pik3ca,C,M,,symbol 'PIK3CA' present,799,swi snf alterations in squamous bladder cancers,M
+Bladder Cancer,PIK3CA,34895867,random,pik3ca,C,ML,,symbol 'PIK3CA' present,806,somatic features of response and relapse in non-muscle-invasive bladder cancer treated with bacillus calmette-guerin immunotherapy,ML
+Bladder Cancer,PIK3CA,24442130,targeted,pi3k,X,G,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,812,patient-derived xenografts reveal limits to pi3k mtor- and mek-mediated inhibition of bladder cancer,G
+Bladder Cancer,PIK3CA,25498841,random+targeted,pi3k,X,I,target,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,859,emerging therapeutic targets in bladder cancer,I
+Bladder Cancer,PIK3CA,29136502,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,876,molecular landscape of non-muscle invasive bladder cancer,W
+Bladder Cancer,PIK3CA,28548125,random,pi3k|pik3ca,C,ML,,symbol 'PIK3CA' present,903,next-generation sequencing-based molecular characterization of primary urinary bladder adenocarcinoma,ML
+Bladder Cancer,PIK3CA,27863432,random+targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,957,e-cadherin downregulation sensitizes pten-mutant tumors to pi3k silencing,M
+Bladder Cancer,RB1,34051747,all,rb1,C,I,,symbol 'RB1' present,8,significance of kdm6a mutation in bladder cancer immune escape,I
+Bladder Cancer,RB1,39239764,all,rb1,C,M,,symbol 'RB1' present,13,rb1 mutations induce smoking-related bladder cancer by modulating the cytochrome p450 pathway,M
+Bladder Cancer,RB1,35073341,all,rb1,C,ML,,symbol 'RB1' present,32,mutually exclusive mutation profiles define functionally related genes in muscle invasive bladder cancer,ML
+Bladder Cancer,RB1,27520487,all,rb1,C,ML,,symbol 'RB1' present,85,targeted exome sequencing of the cancer genome in patients with very high-risk bladder cancer,ML
+Bladder Cancer,RB1,38920737,all,rb1,C,G,,symbol 'RB1' present,107,durable objective response to lurbinectedin in small cell bladder cancer with tp53 mutation a molecular-directed strategy,G
+Bladder Cancer,RB1,39003201,all,rb1,C,ML,,symbol 'RB1' present,154,correlative analysis of atm rb1 ercc2 and fancc mutations and pathologic complete response after neoadjuvant chemotherapy in patients with m,ML
+Bladder Cancer,RB1,39680823,all,rb1,C,ML,,symbol 'RB1' present,162,phase ii trial of risk-enabled therapy after neoadjuvant chemotherapy for muscle-invasive bladder cancer retain 1,ML
+Bladder Cancer,RB1,34980126,all,rb1,C,W,,symbol 'RB1' present,235,a genomic mutation spectrum of collecting duct carcinoma in the chinese population,W
+Bladder Cancer,RB1,32165095,all,rb1,C,M,,symbol 'RB1' present,252,defects in dna repair genes confer improved long-term survival after cisplatin-based neoadjuvant chemotherapy for muscle-invasive bladder ca,M
+Bladder Cancer,RB1,27352265,all,rb1,C,I,,symbol 'RB1' present,257,bladder cancer and genetic mutations,I
+Bladder Cancer,RB1,31158355,all,rb1,C,M,,symbol 'RB1' present,270,synchronous urothelial bladder and renal malignancies case report and review of urologic cancers in patients with familial rb mutations,M
+Bladder Cancer,RB1,40209138,all,rb1,C,ML,,symbol 'RB1' present,272,comparative genomic characterization of small cell carcinoma of the bladder compared with urothelial carcinoma and small cell lung carcinoma,ML
+Bladder Cancer,RB1,41537408,all,rb1,C,ML,,symbol 'RB1' present,275,molecular characterization of clear cell adenocarcinoma of the urinary bladder,ML
+Bladder Cancer,RB1,36509613,all,rb1,C,I,,symbol 'RB1' present,303,genomic and clinical prognostic factors in patients with advanced urothelial carcinoma receiving immune checkpoint inhibitors,I
+Bladder Cancer,RB1,36206128,all,rb1,C,M,,symbol 'RB1' present,313,identification and validation of rb1 as an immune-related prognostic signature based on tumor mutation burdens in bladder cancer,M
+Bladder Cancer,RB1,30279572,all,rb1,C,ML,,symbol 'RB1' present,320,urinary exosomal and cell-free dna detects somatic mutation and copy number alteration in urothelial carcinoma of bladder,ML
+Bladder Cancer,RB1,41373802,all,rb1,C,I,,symbol 'RB1' present,333,genomic characteristics of bladder cancer an aacr project genie study,I
+Bladder Cancer,RB1,23897969,all,rb1,C,M,,symbol 'RB1' present,344,prevalence and co-occurrence of actionable genomic alterations in high-grade bladder cancer,M
+Bladder Cancer,RB1,33388091,all,rb1,C,I,,symbol 'RB1' present,405,defining muscle-invasive bladder cancer immunotypes by introducing tumor mutation burden cd8 t cells and molecular subtypes,I
+Bladder Cancer,RB1,36083778,all,rb1,C,M,,symbol 'RB1' present,447,artificial intelligence-driven consensus gene signatures for improving bladder cancer clinical outcomes identified by multi-center integrati,M
+Bladder Cancer,RB1,28760909,all,rb1,C,M,,symbol 'RB1' present,453,circulating tumor dna reveals clinically actionable somatic genome of metastatic bladder cancer,M
+Bladder Cancer,RB1,28802642,all,rb1,C,I,,symbol 'RB1' present,462,prognostic value of tert alterations mutational and copy number alterations burden in urothelial carcinoma,I
+Bladder Cancer,RB1,32061548,all,rb1,C,G,,symbol 'RB1' present,463,urothelial cancers with small cell variant histology have confirmed high tumor mutational burden frequent tp53 and rb mutations and a unique,G
+Bladder Cancer,RB1,22685613,all,rb1,C,ML,,symbol 'RB1' present,465,integrated genomic and gene expression profiling identifies two major genomic circuits in urothelial carcinoma,ML
+Bladder Cancer,RB1,26278805,all,rb1,C,G,,symbol 'RB1' present,475,genomic characterization of upper tract urothelial carcinoma,G
+Bladder Cancer,RB1,40276038,all,rb1,C,M,,symbol 'RB1' present,503,slayer a computational framework for identifying synthetic lethal interactions through integrated analysis of cancer dependencies,M
+Bladder Cancer,RB1,35662501,all,rb1,C,M,,symbol 'RB1' present,517,identification of potential biomarkers and novel therapeutic targets through genomic analysis of small cell bladder carcinoma and associated,M
+Bladder Cancer,RB1,35965206,all,rb1,C,ML,,symbol 'RB1' present,520,assessment of predictive genomic biomarkers for response to cisplatin-based neoadjuvant chemotherapy in bladder cancer,ML
+Bladder Cancer,RB1,34663543,all,rb1,C,I,,symbol 'RB1' present,525,differences in genomic profile of high-grade urothelial carcinoma according to tumor location,I
+Bladder Cancer,RB1,38219954,all,rb1,C,ML,,symbol 'RB1' present,555,characterizing the genomic landscape of the micropapillary subtype of urothelial carcinoma of the bladder harboring activating extracellular,ML
+Bladder Cancer,RB1,32529781,all,rb1,C,M,,symbol 'RB1' present,562,slow n-acetylation as a possible contributor to bladder carcinogenesis,M
+Bladder Cancer,RB1,33119552,all,rb1,C,ML,,symbol 'RB1' present,563,centrosome protein 78 is overexpressed in muscle-invasive bladder cancer and is associated with tumor molecular subtypes and mutation signat,ML
+Bladder Cancer,RB1,33539671,all,rb1,C,I,,symbol 'RB1' present,574,diagnostic value of a comprehensive urothelial carcinoma-specific next-generation sequencing panel in urine cytology and bladder tumor speci,I
+Bladder Cancer,RB1,26924873,all,rb1,C,M,,symbol 'RB1' present,577,molecular biomarkers in bladder cancer novel potential indicators of prognosis and treatment outcomes,M
+Bladder Cancer,RB1,33879103,all,rb1,C,M,,symbol 'RB1' present,581,rb1 and tp53 co-mutations correlate strongly with genomic biomarkers of response to immunity checkpoint inhibitors in urothelial bladder can,M
+Bladder Cancer,RB1,40403852,all,rb1,C,G,,symbol 'RB1' present,616,molecular profile of micropapillary urothelial carcinoma of the urinary bladder an analysis of 99 cases by next-generation sequencing,G
+Bladder Cancer,RB1,36754853,all,rb1,C,M,,symbol 'RB1' present,622,comparison of clinicopathological characteristics gene expression profiles mutational analysis and clinical outcomes of pure and mixed small,M
+Bladder Cancer,RB1,38959291,all,rb1,C,M,,symbol 'RB1' present,627,pd-l1 and nectin-4 expression and genomic characterization of bladder cancer with divergent differentiation,M
+Bladder Cancer,RB1,42367015,all,rb1,C,ML,,symbol 'RB1' present,653,proliferative ecotype determines lethal prognosis and therapeutic benefit in urothelial carcinoma,ML
+Bladder Cancer,RB1,34953602,all,rb1,C,ML,,symbol 'RB1' present,677,genomic features of muscle-invasive bladder cancer arising after prostate radiotherapy,ML
+Bladder Cancer,RB1,32197986,all,rb1,C,M,,symbol 'RB1' present,691,retinoblastoma in infancy with subsequent bladder leiomyosarcoma in adulthood genomic considerations,M
+Bladder Cancer,RB1,27612592,all,rb1,C,M,,symbol 'RB1' present,695,meta-analysis of the luminal and basal subtypes of bladder cancer and the identification of signature immunohistochemical markers for clinic,M
+Bladder Cancer,RB1,41789425,all,rb1,C,M,,symbol 'RB1' present,699,swi snf-associated molecular subtypes reshape tumor microenvironmental features and inform precision therapeutic strategies in bladder cance,M
+Bladder Cancer,RB1,33408272,all,rb1,C,ML,,symbol 'RB1' present,702,identification of a novel immune microenvironment signature predicting survival and therapeutic options for bladder cancer,ML
+Bladder Cancer,RB1,36653279,all,rb1,C,M,,symbol 'RB1' present,715,actionable genomic landscapes from a real-world cohort of urothelial carcinoma patients,M
+Bladder Cancer,RB1,29133939,all,rb1,C,I,,symbol 'RB1' present,721,precision medicine for urothelial bladder cancer update on tumour genomics and immunotherapy,I
+Bladder Cancer,RB1,34281486,all,rb1,C,ML,,symbol 'RB1' present,766,a hypoxia related long non-coding rna signature could accurately predict survival outcomes in patients with bladder cancer,ML
+Bladder Cancer,RB1,29180607,all,rb1,C,ML,,symbol 'RB1' present,774,small-cell carcinomas of the bladder and lung are characterized by a convergent but distinct pathogenesis,ML
+Bladder Cancer,RB1,31067463,all,rb1,C,M,,symbol 'RB1' present,793,dysregulation of emt drives the progression to clinically aggressive sarcomatoid bladder cancer,M
+Bladder Cancer,RB1,37821306,all,rb1,C,ML,,symbol 'RB1' present,797,hpv-positive clinically advanced squamous cell carcinoma of the urinary bladder abscc a comprehensive genomic profiling cgp study,ML
+Bladder Cancer,RB1,42252959,all,rb1,C,ML,,symbol 'RB1' present,800,comprehensive genomic characterization between urothelial carcinoma subtypes divergent differentiation s dd and pure urothelial carcinoma us,ML
+Bladder Cancer,RB1,41065174,all,rb1,C,M,,symbol 'RB1' present,822,molecular and immune characteristics of neuroendocrine bladder carcinoma - implications for diagnosis prognosis and therapy a review,M
+Bladder Cancer,RB1,40349989,all,rb1,C,ML,,symbol 'RB1' present,842,plasmacytoid urothelial carcinoma of the urinary bladder a single institution experience with focus on next-generation sequencing ngs and pd,ML
+Bladder Cancer,RB1,42387317,all,rb1,C,M,,symbol 'RB1' present,847,an ai-driven multi-omics framework identifies casp8 as a clinically actionable pyroptosis biomarker in bladder cancer,M
+Bladder Cancer,RB1,39536791,all,rb1,C,I,,symbol 'RB1' present,865,fgfr inhibitors in urothelial cancer from scientific rationale to clinical development,I
+Bladder Cancer,RB1,42420157,all,rb1,C,M,,symbol 'RB1' present,892,molecular profiling of urothelial bladder cancer bridging tumor biology and clinical decision-making,M
+Bladder Cancer,RB1,28548125,all,rb1,C,W,,symbol 'RB1' present,903,next-generation sequencing-based molecular characterization of primary urinary bladder adenocarcinoma,W
+Bladder Cancer,RB1,30352907,all,rb1,C,I,,symbol 'RB1' present,910,clonal relatedness and mutational differences between upper tract and bladder urothelial carcinoma,I
+Bladder Cancer,RB1,31619281,all,rb1,C,ML,,symbol 'RB1' present,986,long non-coding rnas identify a subset of luminal muscle-invasive bladder cancer patients with favorable prognosis,ML
+Bladder Cancer,KRAS,36053728,all,kras,C,ML,,symbol 'KRAS' present,11,analysis of the relationship between bladder cancer gene mutation and clinical prognosis by high-throughput sequencing,ML
+Bladder Cancer,KRAS,22804747,all,kras,C,M,,symbol 'KRAS' present,18,kras mutation is present in a small subset of primary urinary bladder adenocarcinomas,M
+Bladder Cancer,KRAS,31496327,all,kras,C,I,,symbol 'KRAS' present,19,mutational profile using next-generation sequencing may aid in the diagnosis and treatment of urachal adenocarcinoma,I
+Bladder Cancer,KRAS,27283768,all,kras,C,ML,target,symbol 'KRAS' present,24,mutations of kras nras braf egfr and pik3ca genes in urachal carcinoma occurence and prognostic significance,ML
+Bladder Cancer,KRAS,21072204,all,kras,C,ML,,symbol 'KRAS' present,28,fgfr3 hras kras nras and pik3ca mutations in bladder cancer and their potential as biomarkers for surveillance and therapy,ML
+Bladder Cancer,KRAS,26045124,all,kras,C,M,,symbol 'KRAS' present,36,bladder and gastric metastases from lung adenocarcinoma harboring codon 13 kras mutation a case report with unusual clinical outcome,M
+Bladder Cancer,KRAS,19101897,all,kras,C,I,,symbol 'KRAS' present,76,mutations of ras gene family in specimens of bladder cancer,I
+Bladder Cancer,KRAS,35467000,all,kras,C,M,,symbol 'KRAS' present,97,distinct gene mutations are associated with clinicopathologic features in urachal carcinoma,M
+Bladder Cancer,KRAS,21533174,all,kras,C,I,,symbol 'KRAS' present,102,a systematic study of gene mutations in urothelial carcinoma inactivating mutations in tsc2 and pik3r1,I
+Bladder Cancer,KRAS,20824703,all,kras,C,ML,,symbol 'KRAS' present,108,integrated genetic and epigenetic analysis of bladder cancer reveals an additive diagnostic value of fgfr3 mutations and hypermethylation ev,ML
+Bladder Cancer,KRAS,27078850,all,kras,C,M,,symbol 'KRAS' present,210,whole exome sequencing of urachal adenocarcinoma reveals recurrent nf1 mutations,M
+Bladder Cancer,KRAS,36734953,all,kras,C,M,,symbol 'KRAS' present,218,receptor tyrosine kinase pathway and infiltrating urothelial carcinoma,M
+Bladder Cancer,KRAS,22417847,all,kras,C,ML,,symbol 'KRAS' present,226,mutations in fgfr3 and pik3ca singly or combined with ras and akt1 are associated with akt but not with mapk pathway activation in urothelia,ML
+Bladder Cancer,KRAS,41537408,all,kras,C,M,,symbol 'KRAS' present,275,molecular characterization of clear cell adenocarcinoma of the urinary bladder,M
+Bladder Cancer,KRAS,31028363,all,kras,C,I,,symbol 'KRAS' present,307,incidence and distribution of uroseek gene panel in a multi-institutional cohort of bladder urothelial carcinoma,I
+Bladder Cancer,KRAS,32839927,all,kras,C,M,,symbol 'KRAS' present,345,biomarkers and intermediate-high risk non-muscle invasive bladder cancer a multivariate analysis of three different cellular pathways with p,M
+Bladder Cancer,KRAS,30838648,all,kras,C,ML,,symbol 'KRAS' present,350,genomic landscape of inverted urothelial papilloma and urothelial papilloma of the bladder,ML
+Bladder Cancer,KRAS,24355196,all,kras,C,M,,symbol 'KRAS' present,356,high-stage urachal adenocarcinoma can be associated with microsatellite instability and kras mutations,M
+Bladder Cancer,KRAS,30784602,all,kras,C,M,,symbol 'KRAS' present,376,whole-organ genomic characterization of mucosal field effects initiating bladder carcinogenesis,M
+Bladder Cancer,KRAS,25097040,all,kras,C,I,,symbol 'KRAS' present,411,hras mutations are frequent in inverted urothelial neoplasms,I
+Bladder Cancer,KRAS,23640097,all,kras,C,M,,symbol 'KRAS' present,412,the prevalence and prognostic significance of kras mutation in bladder cancer chronic myeloid leukemia and colorectal cancer,M
+Bladder Cancer,KRAS,22820081,all,kras,C,M,,symbol 'KRAS' present,421,the mutational spectrum of hras kras nras and fgfr3 genes in bladder cancer,M
+Bladder Cancer,KRAS,38145408,all,kras,C,M,,symbol 'KRAS' present,437,ras family gene mutations clinicopathological features and spread patterns of inverted urothelial papilloma of the bladder,M
+Bladder Cancer,KRAS,36812689,all,kras,C,M,,symbol 'KRAS' present,509,targeted next-generation sequencing of flat urothelial lesions reveals putative pathobiological pathways potential biomarkers and rational t,M
+Bladder Cancer,KRAS,36670542,all,kras,C,ML,,symbol 'KRAS' present,541,clinical sequencing identifies potential actionable alterations in a high rate of urachal and primary bladder adenocarcinomas,ML
+Bladder Cancer,KRAS,40109859,all,kras,C,ML,,symbol 'KRAS' present,569,exploring the utility of a ngs multigene panel to predict bcg response in patients with non-muscle invasive bladder cancer,ML
+Bladder Cancer,KRAS,39596194,all,kras,C,I,,symbol 'KRAS' present,573,use of 3' rapid amplification of cdna ends 3' race -based targeted rna sequencing for profiling of druggable genetic alterations in urotheli,I
+Bladder Cancer,KRAS,36108931,all,kras,C,I,,symbol 'KRAS' present,578,molecular characterization of adenocarcinomas arising in the urinary bladder following augmentation cystoplasty a multi-institutional study,I
+Bladder Cancer,KRAS,42615885,all,kras,C,M,,symbol 'KRAS' present,603,incidence of kras g12c mutations in genitourinary malignancies emerging target in precision medicine,M
+Bladder Cancer,KRAS,38923777,all,kras,C,M,,symbol 'KRAS' present,650,real-world performance of uromonitor in urothelial bladder cancer detection a multicentric trial,M
+Bladder Cancer,KRAS,20406976,all,kras,C,ML,,symbol 'KRAS' present,657,combined gene expression and genomic profiling define two intrinsic molecular subtypes of urothelial carcinoma and gene signatures for molec,ML
+Bladder Cancer,KRAS,41031577,all,kras,C,M,,symbol 'KRAS' present,682,external validation of the uromonitor-version 2 urine test as a biomarker for optimisation of non-muscle-invasive bladder cancer management,M
+Bladder Cancer,KRAS,41102036,all,kras,C,ML,,symbol 'KRAS' present,701,prevalence of therapeutic or disease-relevant oncogenic alterations an analysis of the aacr project genie biopharma cooperative bladder canc,ML
+Bladder Cancer,KRAS,26327355,all,kras,C,I,,symbol 'KRAS' present,713,evaluation of an epigenetic profile for the detection of bladder cancer in patients with hematuria,I
+Bladder Cancer,KRAS,31077629,all,kras,C,I,,symbol 'KRAS' present,745,targeted deep sequencing of urothelial bladder cancers and associated urinary dna a 23-gene panel with utility for non-invasive diagnosis an,I
+Bladder Cancer,KRAS,37635444,all,kras,C,ML,,symbol 'KRAS' present,773,primary mucosal melanomas of the urogenital tract a clinical pathological and genetic nationwide survey of danish patients 1990-2019,ML
+Bladder Cancer,KRAS,31957550,all,kras,C,I,,symbol 'KRAS' present,813,malignancy after augmentation enterocystoplasty a nationwide study of natural history prognosis and oncogene panel analysis,I
+Bladder Cancer,KRAS,30302546,all,kras,C,I,,symbol 'KRAS' present,820,urachal carcinoma from gross specimen to morphologic immunohistochemical and molecular analysis,I
+Bladder Cancer,KRAS,30213523,all,kras,C,M,,symbol 'KRAS' present,893,molecular subtypes of urothelial bladder cancer results from a meta-cohort analysis of 2411 tumors,M
+Bladder Cancer,KRAS,28548125,all,kras,C,ML,,symbol 'KRAS' present,903,next-generation sequencing-based molecular characterization of primary urinary bladder adenocarcinoma,ML
+Bladder Cancer,KRAS,27178450,all,kras,C,ML,target,symbol 'KRAS' present,937,urachal carcinoma shares genomic alterations with colorectal carcinoma and may respond to epidermal growth factor inhibition,ML
+Bladder Cancer,KRAS,41804641,all,kras,C,ML,,symbol 'KRAS' present,985,inverted urothelial papilloma diagnostic challenges molecular insights and clinical implications,ML
+Bladder Cancer,ARID1A,34051747,all,arid1a,C,I,,symbol 'ARID1A' present,8,significance of kdm6a mutation in bladder cancer immune escape,I
+Bladder Cancer,ARID1A,32012118,all,arid1a,C,P,,symbol 'ARID1A' present,64,ep300 mutation is associated with tumor mutation burden and promotes antitumor immunity in bladder cancer patients,P
+Bladder Cancer,ARID1A,32868381,all,arid1a,C,ML,,symbol 'ARID1A' present,86,genomic predictors of good outcome recurrence or progression in high-grade t1 non-muscle-invasive bladder cancer,ML
+Bladder Cancer,ARID1A,39817975,all,arid1a,C,I,,symbol 'ARID1A' present,255,comprehensive genetic profile of chinese muscle-invasive bladder cancer cohort,I
+Bladder Cancer,ARID1A,32554706,all,arid1a,C,M,,symbol 'ARID1A' present,269,arid1a mutation plus cxcl13 expression act as combinatorial biomarkers to predict responses to immune checkpoint therapy in mucc,M
+Bladder Cancer,ARID1A,40209138,all,arid1a,C,ML,,symbol 'ARID1A' present,272,comparative genomic characterization of small cell carcinoma of the bladder compared with urothelial carcinoma and small cell lung carcinoma,ML
+Bladder Cancer,ARID1A,36509613,all,arid1a,C,I,,symbol 'ARID1A' present,303,genomic and clinical prognostic factors in patients with advanced urothelial carcinoma receiving immune checkpoint inhibitors,I
+Bladder Cancer,ARID1A,41373802,all,arid1a,C,ML,,symbol 'ARID1A' present,333,genomic characteristics of bladder cancer an aacr project genie study,ML
+Bladder Cancer,ARID1A,33731020,all,arid1a,C,M,,symbol 'ARID1A' present,364,dualmarker a flexible toolset for exploratory analysis of combinatorial dual biomarkers for clinical efficacy,M
+Bladder Cancer,ARID1A,41062697,all,arid1a,C,M,,symbol 'ARID1A' present,365,sex and smoking bias in the selection of somatic mutations in human bladder,M
+Bladder Cancer,ARID1A,36927002,all,arid1a,C,M,,symbol 'ARID1A' present,371,novel genetic subtypes of urothelial carcinoma with differential outcomes on immune checkpoint blockade,M
+Bladder Cancer,ARID1A,31386310,all,arid1a,C,M,,symbol 'ARID1A' present,373,immunocytochemistry for arid1a as a potential biomarker in urine cytology of bladder cancer,M
+Bladder Cancer,ARID1A,31393349,all,arid1a,C,ML,,symbol 'ARID1A' present,383,gene mutation detection of urinary sediment cells for nmibc early diagnose and prediction of nmibc relapse after surgery,ML
+Bladder Cancer,ARID1A,39513266,all,arid1a,C,ML,,symbol 'ARID1A' present,387,genetic alterations in chromatin regulatory genes in upper tract urothelial carcinoma and urothelial bladder cancer,ML
+Bladder Cancer,ARID1A,35750014,all,arid1a,C,M,,symbol 'ARID1A' present,431,therapeutic significance of arid1a mutation in bladder cancer,M
+Bladder Cancer,ARID1A,28760909,all,arid1a,C,M,,symbol 'ARID1A' present,453,circulating tumor dna reveals clinically actionable somatic genome of metastatic bladder cancer,M
+Bladder Cancer,ARID1A,38833522,all,arid1a,C,M,target,symbol 'ARID1A' present,456,comprehensive target engagement by the ezh2 inhibitor tulmimetostat allows for targeting of arid1a mutant cancers,M
+Bladder Cancer,ARID1A,28802642,all,arid1a,C,I,,symbol 'ARID1A' present,462,prognostic value of tert alterations mutational and copy number alterations burden in urothelial carcinoma,I
+Bladder Cancer,ARID1A,26278805,all,arid1a,C,I,,symbol 'ARID1A' present,475,genomic characterization of upper tract urothelial carcinoma,I
+Bladder Cancer,ARID1A,36812689,all,arid1a,C,ML,,symbol 'ARID1A' present,509,targeted next-generation sequencing of flat urothelial lesions reveals putative pathobiological pathways potential biomarkers and rational t,ML
+Bladder Cancer,ARID1A,35662501,all,arid1a,C,M,,symbol 'ARID1A' present,517,identification of potential biomarkers and novel therapeutic targets through genomic analysis of small cell bladder carcinoma and associated,M
+Bladder Cancer,ARID1A,30301863,all,arid1a,C,M,,symbol 'ARID1A' present,524,histone deacetylase inhibition has targeted clinical benefit in arid1a -mutated advanced urothelial carcinoma,M
+Bladder Cancer,ARID1A,34663543,all,arid1a,C,ML,,symbol 'ARID1A' present,525,differences in genomic profile of high-grade urothelial carcinoma according to tumor location,ML
+Bladder Cancer,ARID1A,38219954,all,arid1a,C,I,,symbol 'ARID1A' present,555,characterizing the genomic landscape of the micropapillary subtype of urothelial carcinoma of the bladder harboring activating extracellular,I
+Bladder Cancer,ARID1A,42608487,all,arid1a,C,I,,symbol 'ARID1A' present,564,clinical and genomic characterization of brain metastasis in bladder cancer,I
+Bladder Cancer,ARID1A,33539671,all,arid1a,C,I,,symbol 'ARID1A' present,574,diagnostic value of a comprehensive urothelial carcinoma-specific next-generation sequencing panel in urine cytology and bladder tumor speci,I
+Bladder Cancer,ARID1A,40403852,all,arid1a,C,ML,,symbol 'ARID1A' present,616,molecular profile of micropapillary urothelial carcinoma of the urinary bladder an analysis of 99 cases by next-generation sequencing,ML
+Bladder Cancer,ARID1A,36754853,all,arid1a,C,ML,,symbol 'ARID1A' present,622,comparison of clinicopathological characteristics gene expression profiles mutational analysis and clinical outcomes of pure and mixed small,ML
+Bladder Cancer,ARID1A,32449441,all,arid1a,C,ML,,symbol 'ARID1A' present,635,identification of potential therapeutic targets in urothelial bladder carcinoma of chinese population by targeted next-generation sequencing,ML
+Bladder Cancer,ARID1A,37481462,all,arid1a,C,ML,,symbol 'ARID1A' present,644,racial and sex differences in tumor genomics in urothelial carcinoma,ML
+Bladder Cancer,ARID1A,32957974,all,arid1a,C,I,,symbol 'ARID1A' present,676,whole-exome sequencing reveals potential mechanisms of drug resistance to fgfr3-tacc3 targeted therapy and subsequent drug selection towards,I
+Bladder Cancer,ARID1A,35918248,all,arid1a,C,ML,,symbol 'ARID1A' present,683,genomic landscape of locally advanced or metastatic urothelial carcinoma with squamous differentiation compared to pure urothelial carcinoma,ML
+Bladder Cancer,ARID1A,27137986,all,arid1a,C,M,,symbol 'ARID1A' present,689,arid1a alteration in aggressive urothelial carcinoma and variants of urothelial carcinoma,M
+Bladder Cancer,ARID1A,36041976,all,arid1a,C,ML,,symbol 'ARID1A' present,706,investigation of prognostic biomarkers in patients with urothelial carcinoma treated with platinum-based regimens,ML
+Bladder Cancer,ARID1A,30317582,all,arid1a,C,I,,symbol 'ARID1A' present,743,chromatin-regulatory genes served as potential therapeutic targets for patients with urothelial bladder carcinoma,I
+Bladder Cancer,ARID1A,28339163,all,arid1a|at rich interaction domain 1a,C,I,,symbol 'ARID1A' present,744,next-generation sequencing of urine specimens a novel platform for genomic analysis in patients with non-muscle-invasive urothelial carcinom,I
+Bladder Cancer,ARID1A,28583311,all,arid1a,C,M,,symbol 'ARID1A' present,752,next-generation sequencing of nonmuscle invasive bladder cancer reveals potential biomarkers and rational therapeutic targets,M
+Bladder Cancer,ARID1A,30138427,all,arid1a,C,M,,symbol 'ARID1A' present,786,arid1a-deficiency in urothelial bladder cancer no predictive biomarker for ezh2-inhibitor treatment response,M
+Bladder Cancer,ARID1A,33227989,all,arid1a,C,M,,symbol 'ARID1A' present,799,swi snf alterations in squamous bladder cancers,M
+Bladder Cancer,ARID1A,42252959,all,arid1a,C,ML,,symbol 'ARID1A' present,800,comprehensive genomic characterization between urothelial carcinoma subtypes divergent differentiation s dd and pure urothelial carcinoma us,ML
+Bladder Cancer,ARID1A,34895867,all,arid1a,C,M,,symbol 'ARID1A' present,806,somatic features of response and relapse in non-muscle-invasive bladder cancer treated with bacillus calmette-guerin immunotherapy,M
+Bladder Cancer,ARID1A,42420157,all,arid1a,C,ML,,symbol 'ARID1A' present,892,molecular profiling of urothelial bladder cancer bridging tumor biology and clinical decision-making,ML
+Bladder Cancer,ARID1A,32847746,all,arid1a,C,ML,,symbol 'ARID1A' present,971,neoadjuvant chemotherapy or immunotherapy for clinical t2n0 muscle-invasive bladder cancer time to change the paradigm,ML
+Bladder Cancer,HRAS,21072204,all,hras,C,ML,,symbol 'HRAS' present,28,fgfr3 hras kras nras and pik3ca mutations in bladder cancer and their potential as biomarkers for surveillance and therapy,ML
+Bladder Cancer,HRAS,29193225,all,hras,C,G,,symbol 'HRAS' present,50,biological significance of tert promoter mutation in papillary urothelial neoplasm of low malignant potential,G
+Bladder Cancer,HRAS,24169525,all,hras,C,M,,symbol 'HRAS' present,58,hras mutations in bladder cancer at an early age and the possible association with the costello syndrome,M
+Bladder Cancer,HRAS,42138113,all,hras,C,M,,symbol 'HRAS' present,71,urothelial carcinoma in children and young adults is characterized by higher frequency of hras mutations and lower prevalence of tert promot,M
+Bladder Cancer,HRAS,19101897,all,hras,C,I,,symbol 'HRAS' present,76,mutations of ras gene family in specimens of bladder cancer,I
+Bladder Cancer,HRAS,15897885,all,hras,C,M,,symbol 'HRAS' present,82,fgfr3 and ras gene mutations are mutually exclusive genetic events in urothelial cell carcinoma,M
+Bladder Cancer,HRAS,21533174,all,hras,C,I,,symbol 'HRAS' present,102,a systematic study of gene mutations in urothelial carcinoma inactivating mutations in tsc2 and pik3r1,I
+Bladder Cancer,HRAS,20824703,all,hras,C,ML,,symbol 'HRAS' present,108,integrated genetic and epigenetic analysis of bladder cancer reveals an additive diagnostic value of fgfr3 mutations and hypermethylation ev,ML
+Bladder Cancer,HRAS,28597078,all,hras,C,I,,symbol 'HRAS' present,165,spectrum of genetic mutations in de novo punlmp of the urinary bladder,I
+Bladder Cancer,HRAS,22417847,all,hras,C,I,,symbol 'HRAS' present,226,mutations in fgfr3 and pik3ca singly or combined with ras and akt1 are associated with akt but not with mapk pathway activation in urothelia,I
+Bladder Cancer,HRAS,27746284,all,hras,C,ML,,symbol 'HRAS' present,250,validation of a dna methylation-mutation urine assay to select patients with hematuria for cystoscopy,ML
+Bladder Cancer,HRAS,27352265,all,hras,C,I,,symbol 'HRAS' present,257,bladder cancer and genetic mutations,I
+Bladder Cancer,HRAS,27596295,all,hras,C,ML,,symbol 'HRAS' present,267,genetic diversity of urinary bladder cancer and the risk of recurrence based on mutation analysis,ML
+Bladder Cancer,HRAS,29901113,all,hras|hras proto oncogene gtpase,C,M,target,symbol 'HRAS' present,289,hras as a potential therapeutic target of salirasib ras inhibitor in bladder cancer,M
+Bladder Cancer,HRAS,31028363,all,hras,C,I,,symbol 'HRAS' present,307,incidence and distribution of uroseek gene panel in a multi-institutional cohort of bladder urothelial carcinoma,I
+Bladder Cancer,HRAS,17606711,all,hras,C,G,,symbol 'HRAS' present,330,expression of ral gtpases their effectors and activators in human bladder cancer,G
+Bladder Cancer,HRAS,30838648,all,hras,C,M,,symbol 'HRAS' present,350,genomic landscape of inverted urothelial papilloma and urothelial papilloma of the bladder,M
+Bladder Cancer,HRAS,25097040,all,hras,C,M,,symbol 'HRAS' present,411,hras mutations are frequent in inverted urothelial neoplasms,M
+Bladder Cancer,HRAS,22820081,all,hras,C,M,,symbol 'HRAS' present,421,the mutational spectrum of hras kras nras and fgfr3 genes in bladder cancer,M
+Bladder Cancer,HRAS,38145408,all,hras,C,M,,symbol 'HRAS' present,437,ras family gene mutations clinicopathological features and spread patterns of inverted urothelial papilloma of the bladder,M
+Bladder Cancer,HRAS,26278805,all,hras,C,M,,symbol 'HRAS' present,475,genomic characterization of upper tract urothelial carcinoma,M
+Bladder Cancer,HRAS,40247187,all,hras,C,ML,,symbol 'HRAS' present,491,genomic subtypes of non-muscle-invasive bladder cancer guiding immunotherapy decision-making for patients exposed to aristolochic acid,ML
+Bladder Cancer,HRAS,31119740,all,hras,C,W,,symbol 'HRAS' present,501,distinct mutational landscape of inverted urothelial papilloma,W
+Bladder Cancer,HRAS,34375486,all,hras|hras proto oncogene gtpase,C,P,,symbol 'HRAS' present,529,genomic profile - a possible diagnostic and prognostic marker in upper tract urothelial carcinoma,P
+Bladder Cancer,HRAS,35038173,all,hras,C,M,,symbol 'HRAS' present,623,prevalence of bladder cancer in costello syndrome new insights to drive clinical decision-making,M
+Bladder Cancer,HRAS,37481462,all,hras,C,ML,,symbol 'HRAS' present,644,racial and sex differences in tumor genomics in urothelial carcinoma,ML
+Bladder Cancer,HRAS,20406976,all,hras,C,I,,symbol 'HRAS' present,657,combined gene expression and genomic profiling define two intrinsic molecular subtypes of urothelial carcinoma and gene signatures for molec,I
+Bladder Cancer,HRAS,36495164,all,hras,C,ML,,symbol 'HRAS' present,680,integrated analysis of racial disparities in genomic architecture identifies a trans-ancestry prognostic subtype in bladder cancer,ML
+Bladder Cancer,HRAS,26327355,all,hras,C,M,,symbol 'HRAS' present,713,evaluation of an epigenetic profile for the detection of bladder cancer in patients with hematuria,M
+Bladder Cancer,HRAS,26901314,all,hras,C,I,,symbol 'HRAS' present,730,multiplex pcr and next generation sequencing for the non-invasive detection of bladder cancer,I
+Bladder Cancer,HRAS,31077629,all,hras,C,I,,symbol 'HRAS' present,745,targeted deep sequencing of urothelial bladder cancers and associated urinary dna a 23-gene panel with utility for non-invasive diagnosis an,I
+Bladder Cancer,HRAS,26274747,all,hras,C,M,,symbol 'HRAS' present,746,the role of wnt signalling in urothelial cell carcinoma,M
+Bladder Cancer,HRAS,12970747,all,hras,C,ML,,symbol 'HRAS' present,804,paired-box genes are frequently expressed in cancer and often required for cancer cell survival,ML
+Bladder Cancer,HRAS,28548125,all,hras,C,ML,,symbol 'HRAS' present,903,next-generation sequencing-based molecular characterization of primary urinary bladder adenocarcinoma,ML
+Bladder Cancer,HRAS,30352907,all,hras,C,I,,symbol 'HRAS' present,910,clonal relatedness and mutational differences between upper tract and bladder urothelial carcinoma,I
+Bladder Cancer,HRAS,34779406,all,hras,C,ML,,symbol 'HRAS' present,956,raf1 amplification an exemplar of mapk pathway activation in urothelial carcinoma,ML
+Bladder Cancer,HRAS,41804641,all,hras,C,ML,,symbol 'HRAS' present,985,inverted urothelial papilloma diagnostic challenges molecular insights and clinical implications,ML
+Bladder Cancer,HRAS,38083992,all,hras,C,I,,symbol 'HRAS' present,987,postoperative recurrence detection using individualized circulating tumor dna in upper tract urothelial carcinoma,I
+Bladder Cancer,HRAS,33024200,all,hras,C,ML,,symbol 'HRAS' present,989,assessment of prognostic implication of a panel of oncogenes in bladder cancer and identification of a 3-gene signature associated with recu,ML
+Bladder Cancer,KDM6A,34051747,all,kdm6a,C,M,,symbol 'KDM6A' present,8,significance of kdm6a mutation in bladder cancer immune escape,M
+Bladder Cancer,KDM6A,35073341,all,kdm6a,C,M,,symbol 'KDM6A' present,32,mutually exclusive mutation profiles define functionally related genes in muscle invasive bladder cancer,M
+Bladder Cancer,KDM6A,32012118,all,kdm6a,C,ML,,symbol 'KDM6A' present,64,ep300 mutation is associated with tumor mutation burden and promotes antitumor immunity in bladder cancer patients,ML
+Bladder Cancer,KDM6A,29136510,all,kdm6a,C,M,,symbol 'KDM6A' present,74,genomic subtypes of non-invasive bladder cancer with distinct metabolic profile and female gender bias in kdm6a mutation frequency,M
+Bladder Cancer,KDM6A,40626673,all,kdm6a|lysine demethylase 6a,C,M,,symbol 'KDM6A' present,201,kdm6a expression loss is frequent in low grade non-invasive urothelial carcinomas of the urinary bladder,M
+Bladder Cancer,KDM6A,40209138,all,kdm6a,C,ML,,symbol 'KDM6A' present,272,comparative genomic characterization of small cell carcinoma of the bladder compared with urothelial carcinoma and small cell lung carcinoma,ML
+Bladder Cancer,KDM6A,33004515,all,kdm6a,C,I,,symbol 'KDM6A' present,292,macroscopic somatic clonal expansion in morphologically normal human urothelium,I
+Bladder Cancer,KDM6A,36509613,all,kdm6a,C,I,,symbol 'KDM6A' present,303,genomic and clinical prognostic factors in patients with advanced urothelial carcinoma receiving immune checkpoint inhibitors,I
+Bladder Cancer,KDM6A,41373802,all,kdm6a,C,ML,,symbol 'KDM6A' present,333,genomic characteristics of bladder cancer an aacr project genie study,ML
+Bladder Cancer,KDM6A,41501085,all,kdm6a,C,M,,symbol 'KDM6A' present,335,loss of kdm6a-mediated genomic instability and metabolic reprogramming regulates response to therapeutic perturbations in bladder cancer,M
+Bladder Cancer,KDM6A,33849962,all,kdm6a,C,M,,symbol 'KDM6A' present,385,targeted deep sequencing of bladder tumors reveals novel associations between cancer gene mutations and mutational signatures with major ris,M
+Bladder Cancer,KDM6A,25316812,all,kdm6a,C,I,,symbol 'KDM6A' present,420,whole-exome sequencing of muscle-invasive bladder cancer identifies recurrent mutations of unc5c and prognostic importance of dna repair gen,I
+Bladder Cancer,KDM6A,32989154,all,kdm6a,C,P,,symbol 'KDM6A' present,436,loss of utx kdm6a and the activation of fgfr3 converge to regulate differentiation gene-expression programs in bladder cancer,P
+Bladder Cancer,KDM6A,24835989,all,kdm6a,C,M,,symbol 'KDM6A' present,451,mutational context and diverse clonal development in early and late bladder cancer,M
+Bladder Cancer,KDM6A,34663543,all,kdm6a,C,ML,,symbol 'KDM6A' present,525,differences in genomic profile of high-grade urothelial carcinoma according to tumor location,ML
+Bladder Cancer,KDM6A,33397444,all,kdm6a,C,M,,symbol 'KDM6A' present,570,comprehensive integrative profiling of upper tract urothelial carcinomas,M
+Bladder Cancer,KDM6A,33539671,all,kdm6a,C,I,,symbol 'KDM6A' present,574,diagnostic value of a comprehensive urothelial carcinoma-specific next-generation sequencing panel in urine cytology and bladder tumor speci,I
+Bladder Cancer,KDM6A,42615885,all,kdm6a,C,ML,,symbol 'KDM6A' present,603,incidence of kras g12c mutations in genitourinary malignancies emerging target in precision medicine,ML
+Bladder Cancer,KDM6A,32449441,all,kdm6a,C,ML,,symbol 'KDM6A' present,635,identification of potential therapeutic targets in urothelial bladder carcinoma of chinese population by targeted next-generation sequencing,ML
+Bladder Cancer,KDM6A,32957974,all,kdm6a,C,I,,symbol 'KDM6A' present,676,whole-exome sequencing reveals potential mechanisms of drug resistance to fgfr3-tacc3 targeted therapy and subsequent drug selection towards,I
+Bladder Cancer,KDM6A,34953602,all,kdm6a,C,G,,symbol 'KDM6A' present,677,genomic features of muscle-invasive bladder cancer arising after prostate radiotherapy,G
+Bladder Cancer,KDM6A,41789425,all,kdm6a,C,M,,symbol 'KDM6A' present,699,swi snf-associated molecular subtypes reshape tumor microenvironmental features and inform precision therapeutic strategies in bladder cance,M
+Bladder Cancer,KDM6A,26901314,all,kdm6a,C,I,,symbol 'KDM6A' present,730,multiplex pcr and next generation sequencing for the non-invasive detection of bladder cancer,I
+Bladder Cancer,KDM6A,30317582,all,kdm6a,C,I,,symbol 'KDM6A' present,743,chromatin-regulatory genes served as potential therapeutic targets for patients with urothelial bladder carcinoma,I
+Bladder Cancer,KDM6A,28339163,all,kdm6a|lysine demethylase 6a,C,I,,symbol 'KDM6A' present,744,next-generation sequencing of urine specimens a novel platform for genomic analysis in patients with non-muscle-invasive urothelial carcinom,I
+Bladder Cancer,KDM6A,31077629,all,kdm6a,C,I,,symbol 'KDM6A' present,745,targeted deep sequencing of urothelial bladder cancers and associated urinary dna a 23-gene panel with utility for non-invasive diagnosis an,I
+Bladder Cancer,KDM6A,40693457,all,kdm6a,C,G,,symbol 'KDM6A' present,769,integrative analysis reveals the prognostic effects of epigenetic regulators in bladder cancer,G
+Bladder Cancer,KDM6A,29143738,all,kdm6a,C,I,,symbol 'KDM6A' present,778,bladder-cancer-associated mutations in rxra activate peroxisome proliferator-activated receptors to drive urothelial proliferation,I
+Bladder Cancer,KDM6A,42252959,all,kdm6a,C,ML,,symbol 'KDM6A' present,800,comprehensive genomic characterization between urothelial carcinoma subtypes divergent differentiation s dd and pure urothelial carcinoma us,ML
+Bladder Cancer,KDM6A,30692641,all,kdm6a,C,M,,symbol 'KDM6A' present,867,inhibition of ezh2 induces nk cell-mediated differentiation and death in muscle-invasive bladder cancer,M
+Bladder Cancer,KDM6A,29136502,all,kdm6a,C,M,,symbol 'KDM6A' present,876,molecular landscape of non-muscle invasive bladder cancer,M
+Bladder Cancer,KDM6A,36980177,all,kdm6a,C,M,,symbol 'KDM6A' present,888,differential occupancy and regulatory interactions of kdm6a in bladder cell lines,M
+Bladder Cancer,KDM6A,41795757,all,kdm6a,C,I,,symbol 'KDM6A' present,890,comparative genomic landscape of primary and metastatic bladder urothelial carcinoma in a large-scale cohort,I
+Bladder Cancer,KDM6A,28228601,all,kdm6a,C,M,,symbol 'KDM6A' present,908,loss of tumor suppressor kdm6a amplifies prc2-regulated transcriptional repression in bladder cancer and can be targeted through inhibition ,M
+Bladder Cancer,KDM6A,30352907,all,kdm6a,C,ML,,symbol 'KDM6A' present,910,clonal relatedness and mutational differences between upper tract and bladder urothelial carcinoma,ML
+Bladder Cancer,KDM6A,25225064,all,kdm6a,C,M,,symbol 'KDM6A' present,941,concurrent alterations in tert kdm6a and the brca pathway in bladder cancer,M
+Bladder Cancer,KDM6A,32047002,all,kdm6a,C,M,,symbol 'KDM6A' present,947,kdm6a deficiency activates inflammatory pathways promotes m2 macrophage polarization and causes bladder cancer in cooperation with p53 dysfu,M
+Bladder Cancer,KDM6A,29928692,all,kdm6a|lysine demethylase 6a,C,G,,symbol 'KDM6A' present,969,x chromosome protects against bladder cancer in females via a kdm6a -dependent epigenetic mechanism,G
+Bladder Cancer,KDM6A,36052737,all,kdm6a,C,I,,symbol 'KDM6A' present,997,analysis of genetic profiling pathomics signature and prognostic features of primary lymphoepithelioma-like carcinoma of the renal pelvis,I
+Bladder Cancer,ERBB2,34051747,all,erbb2,C,I,,symbol 'ERBB2' present,8,significance of kdm6a mutation in bladder cancer immune escape,I
+Bladder Cancer,ERBB2,36053728,all,erbb2,C,ML,,symbol 'ERBB2' present,11,analysis of the relationship between bladder cancer gene mutation and clinical prognosis by high-throughput sequencing,ML
+Bladder Cancer,ERBB2,32012118,all,erbb2,C,ML,,symbol 'ERBB2' present,64,ep300 mutation is associated with tumor mutation burden and promotes antitumor immunity in bladder cancer patients,ML
+Bladder Cancer,ERBB2,38920737,all,erbb2,C,M,,symbol 'ERBB2' present,107,durable objective response to lurbinectedin in small cell bladder cancer with tp53 mutation a molecular-directed strategy,M
+Bladder Cancer,ERBB2,38052324,all,erbb2,C,M,,symbol 'ERBB2' present,133,near complete response to platinum-based systemic chemotherapy in high-risk upper tract urothelial carcinoma with an erbb2 gene mutation a c,M
+Bladder Cancer,ERBB2,15816639,all,her 2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,191,four tumour markers for urinary bladder cancer--tissue polypeptide antigen tpa her-2 neu erb b2 urokinase-type plasminogen activator recepto,M
+Bladder Cancer,ERBB2,36734953,all,her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,218,receptor tyrosine kinase pathway and infiltrating urothelial carcinoma,M
+Bladder Cancer,ERBB2,24192927,all,erbb2|her2,C,M,,symbol 'ERBB2' present,227,a high frequency of activating extracellular domain erbb2 her2 mutation in micropapillary urothelial carcinoma,M
+Bladder Cancer,ERBB2,29941343,all,erbb2,C,P,,symbol 'ERBB2' present,233,somatic fgfr3 mutations distinguish a subgroup of muscle-invasive bladder cancers with response to neoadjuvant chemotherapy,P
+Bladder Cancer,ERBB2,25720673,all,erbb2|her2,C,M,target,symbol 'ERBB2' present,241,her2 as a target in invasive urothelial carcinoma,M
+Bladder Cancer,ERBB2,37947995,all,erbb2,C,M,,symbol 'ERBB2' present,251,frequency of next-generation sequencing prevalence of targetable mutations and response to targeted therapies amongst patients with metastat,M
+Bladder Cancer,ERBB2,37945655,all,erb_b2_receptor_tyrosine_kinase_2|erbb2,C,M,,symbol 'ERBB2' present,268,screening for a practical method to monitor the status of patients with metastatic bladder cancer at the circulating cell-gene level,M
+Bladder Cancer,ERBB2,40209138,all,erbb2,C,I,,symbol 'ERBB2' present,272,comparative genomic characterization of small cell carcinoma of the bladder compared with urothelial carcinoma and small cell lung carcinoma,I
+Bladder Cancer,ERBB2,41537408,all,erbb2,C,ML,,symbol 'ERBB2' present,275,molecular characterization of clear cell adenocarcinoma of the urinary bladder,ML
+Bladder Cancer,ERBB2,36509613,all,erbb2,C,I,,symbol 'ERBB2' present,303,genomic and clinical prognostic factors in patients with advanced urothelial carcinoma receiving immune checkpoint inhibitors,I
+Bladder Cancer,ERBB2,31028363,all,erbb2,C,I,,symbol 'ERBB2' present,307,incidence and distribution of uroseek gene panel in a multi-institutional cohort of bladder urothelial carcinoma,I
+Bladder Cancer,ERBB2,30279572,all,erbb2,C,ML,,symbol 'ERBB2' present,320,urinary exosomal and cell-free dna detects somatic mutation and copy number alteration in urothelial carcinoma of bladder,ML
+Bladder Cancer,ERBB2,25636205,all,erb_b2_receptor_tyrosine_kinase_2|erbb2,C,M,,symbol 'ERBB2' present,331,erbb2 mutations characterize a subgroup of muscle-invasive bladder cancers with excellent response to neoadjuvant chemotherapy,M
+Bladder Cancer,ERBB2,24971884,all,erbb2,C,M,target,symbol 'ERBB2' present,406,impact of erbb2 mutations on in vitro sensitivity of bladder cancer to lapatinib,M
+Bladder Cancer,ERBB2,25809292,all,her2,C,M,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,410,morphological and molecular characteristics of her2 amplified urothelial bladder cancer,M
+Bladder Cancer,ERBB2,28760909,all,erbb2,C,G,,symbol 'ERBB2' present,453,circulating tumor dna reveals clinically actionable somatic genome of metastatic bladder cancer,G
+Bladder Cancer,ERBB2,28802642,all,erbb2,C,I,,symbol 'ERBB2' present,462,prognostic value of tert alterations mutational and copy number alterations burden in urothelial carcinoma,I
+Bladder Cancer,ERBB2,35171661,all,her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,486,identification of recurrent insertions and deletions in exon 18 and 19 of human epidermal growth factor receptor 2 as potential drivers in n,M
+Bladder Cancer,ERBB2,38679207,all,her2,C,G,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,488,plasmacytoid urothelial carcinoma of the urinary bladder-a clinicopathological and molecular analysis of 52 cases,G
+Bladder Cancer,ERBB2,36812689,all,erbb2,C,M,,symbol 'ERBB2' present,509,targeted next-generation sequencing of flat urothelial lesions reveals putative pathobiological pathways potential biomarkers and rational t,M
+Bladder Cancer,ERBB2,35965206,all,erbb2,C,ML,,symbol 'ERBB2' present,520,assessment of predictive genomic biomarkers for response to cisplatin-based neoadjuvant chemotherapy in bladder cancer,ML
+Bladder Cancer,ERBB2,38219954,all,erbb2,C,M,,symbol 'ERBB2' present,555,characterizing the genomic landscape of the micropapillary subtype of urothelial carcinoma of the bladder harboring activating extracellular,M
+Bladder Cancer,ERBB2,39596194,all,erbb2|her2,C,M,,symbol 'ERBB2' present,573,use of 3' rapid amplification of cdna ends 3' race -based targeted rna sequencing for profiling of druggable genetic alterations in urotheli,M
+Bladder Cancer,ERBB2,33539671,all,erbb2,C,I,,symbol 'ERBB2' present,574,diagnostic value of a comprehensive urothelial carcinoma-specific next-generation sequencing panel in urine cytology and bladder tumor speci,I
+Bladder Cancer,ERBB2,36108931,all,erbb2,C,I,,symbol 'ERBB2' present,578,molecular characterization of adenocarcinomas arising in the urinary bladder following augmentation cystoplasty a multi-institutional study,I
+Bladder Cancer,ERBB2,28753770,all,erbb2|her2,C,G,,symbol 'ERBB2' present,589,molecular characterization of bladder cancer in smokers versus nonsmokers,G
+Bladder Cancer,ERBB2,25178641,all,her2,C,G,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,596,molecular profiling of infiltrating urothelial carcinoma of bladder and nonbladder origin,G
+Bladder Cancer,ERBB2,40403852,all,erbb2|her2,C,M,,symbol 'ERBB2' present,616,molecular profile of micropapillary urothelial carcinoma of the urinary bladder an analysis of 99 cases by next-generation sequencing,M
+Bladder Cancer,ERBB2,26522772,all,her2,C,P,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,617,h-ras mutation is a key molecular feature of pediatric urothelial bladder cancer a detailed report of three cases,P
+Bladder Cancer,ERBB2,27321955,all,erbb2,C,I,,symbol 'ERBB2' present,668,comprehensive transcriptional analysis of early-stage urothelial carcinoma,I
+Bladder Cancer,ERBB2,27612592,all,her2,C,G,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,695,meta-analysis of the luminal and basal subtypes of bladder cancer and the identification of signature immunohistochemical markers for clinic,G
+Bladder Cancer,ERBB2,41102036,all,erbb2,C,I,,symbol 'ERBB2' present,701,prevalence of therapeutic or disease-relevant oncogenic alterations an analysis of the aacr project genie biopharma cooperative bladder canc,I
+Bladder Cancer,ERBB2,40288936,all,erbb2,C,M,,symbol 'ERBB2' present,725,clinical outcomes genomic heterogeneity and therapeutic considerations across histologic subtypes of urothelial carcinoma,M
+Bladder Cancer,ERBB2,29885409,all,her2,C,M,,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,728,micropapillary urothelial carcinoma evaluation of her2 status and immunohistochemical characterization of the molecular subtype,M
+Bladder Cancer,ERBB2,28339163,all,erb_b2_receptor_tyrosine_kinase_2|erbb2,C,P,,symbol 'ERBB2' present,744,next-generation sequencing of urine specimens a novel platform for genomic analysis in patients with non-muscle-invasive urothelial carcinom,P
+Bladder Cancer,ERBB2,31077629,all,erbb2,C,I,,symbol 'ERBB2' present,745,targeted deep sequencing of urothelial bladder cancers and associated urinary dna a 23-gene panel with utility for non-invasive diagnosis an,I
+Bladder Cancer,ERBB2,28583311,all,erbb2,C,M,,symbol 'ERBB2' present,752,next-generation sequencing of nonmuscle invasive bladder cancer reveals potential biomarkers and rational therapeutic targets,M
+Bladder Cancer,ERBB2,38102226,all,erbb2,C,G,,symbol 'ERBB2' present,785,phase ii trial of afatinib in patients with advanced urothelial carcinoma with genetic alterations in erbb1-3 lux-bladder 1,G
+Bladder Cancer,ERBB2,30302546,all,erbb2,C,I,,symbol 'ERBB2' present,820,urachal carcinoma from gross specimen to morphologic immunohistochemical and molecular analysis,I
+Bladder Cancer,ERBB2,38570422,all,erbb2|her2,C,M,,symbol 'ERBB2' present,840,frequency and nature of genomic alterations in erbb2-altered urothelial bladder cancer,M
+Bladder Cancer,ERBB2,40349989,all,erbb2,C,M,,symbol 'ERBB2' present,842,plasmacytoid urothelial carcinoma of the urinary bladder a single institution experience with focus on next-generation sequencing ngs and pd,M
+Bladder Cancer,ERBB2,25498841,all,her2,C,I,target,HER2/HER-2 = ERBB2 product (alias); see evidence class for subtype/status usage,859,emerging therapeutic targets in bladder cancer,I
+Bladder Cancer,ERBB2,30213523,all,erbb2|her2,C,G,,symbol 'ERBB2' present,893,molecular subtypes of urothelial bladder cancer results from a meta-cohort analysis of 2411 tumors,G
+Bladder Cancer,ERBB2,41701948,all,erbb2,C,ML,,symbol 'ERBB2' present,900,efficacy safety and biomarker analysis of toripalimab monoclonal antibody combined with gemcitabine and cisplatin chemotherapy as neoadjuvan,ML
+Bladder Cancer,ERBB2,30352907,all,erbb2,C,I,,symbol 'ERBB2' present,910,clonal relatedness and mutational differences between upper tract and bladder urothelial carcinoma,I
+Bladder Cancer,ERBB2,35655252,all,erbb2,C,G,,symbol 'ERBB2' present,921,combined exome and transcriptome sequencing of non-muscle-invasive bladder cancer associations between genomic changes expression subtypes a,G
+Bladder Cancer,ERBB2,28789929,all,erbb2,C,I,,symbol 'ERBB2' present,922,commentary on comprehensive transcriptional analysis of early-stage urothelial carcinoma hedegaard j lamy p nordentoft i algaba f hyer s ulh,I
+Bladder Cancer,ERBB2,35180563,all,erbb2|her2,C,M,target,symbol 'ERBB2' present,932,the evolving panorama of her2-targeted treatments in metastatic urothelial cancer a systematic review and future perspectives,M
+Bladder Cancer,ERBB2,22553347,all,erbb2,C,I,,symbol 'ERBB2' present,977,a molecular taxonomy for urothelial carcinoma,I

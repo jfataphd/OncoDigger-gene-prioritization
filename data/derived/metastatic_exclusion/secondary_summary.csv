@@ -1,0 +1,20 @@
+collection,mesh_term,pubmed_secondary_records,in_frozen_collection,frozen_collection_size,share_of_frozen_collection_pct
+liver,liver neoplasms,20510,20366,127252,16.0
+brain,brain neoplasms,11003,10866,103180,10.53
+lung,lung neoplasms,17590,17500,178908,9.78
+kidney,kidney neoplasms,3990,3971,46739,8.5
+melanoma,melanoma,5578,5559,66447,8.37
+breast,breast neoplasms,3258,3248,250061,1.3
+colorectal,colorectal neoplasms,1334,1331,168174,0.79
+prostate,prostatic neoplasms,516,515,110937,0.46
+bladder,urinary bladder neoplasms,285,284,35620,0.8
+pancreas,pancreatic neoplasms,1541,1536,65223,2.35
+stomach,stomach neoplasms,583,580,64372,0.9
+esophageal,esophageal neoplasms,345,344,37925,0.91
+ovarian,ovarian neoplasms,1111,1108,61538,1.8
+endometrial,endometrial neoplasms,439,439,22079,1.99
+cervical,uterine cervical neoplasms,145,145,50875,0.29
+thyroid,thyroid neoplasms,855,850,38640,2.2
+leukemia,leukemia,0,0,106922,0.0
+lymphoma,lymphoma,2,2,79022,0.0
+myeloma,multiple myeloma,70,70,26591,0.26

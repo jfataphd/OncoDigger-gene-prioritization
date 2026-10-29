@@ -1,0 +1,106 @@
+{
+ "hook_version": "bgfix-hook-1",
+ "calls": 19,
+ "entities": 3955,
+ "engine_b_lower": 3202,
+ "engine_b_equal": 753,
+ "engine_b_higher": 0,
+ "floor_would_bind": 227,
+ "tables": {
+  "e8fc1f01b82a0e03553d": {
+   "db": "breast_cancer_inclusive_all",
+   "papers": 250061,
+   "entities": 12174
+  },
+  "c3507294577ea7f6296e": {
+   "db": "lung_cancer_inclusive_all",
+   "papers": 178908,
+   "entities": 11740
+  },
+  "1b2de0ada29b84d32d98": {
+   "db": "colorectal_cancer_inclusive_all",
+   "papers": 168174,
+   "entities": 11494
+  },
+  "c64d378bd4d25de9049a": {
+   "db": "prostate_cancer_inclusive_all",
+   "papers": 110937,
+   "entities": 8337
+  },
+  "9594341f1e6c453516af": {
+   "db": "melanoma_cancer_inclusive_all",
+   "papers": 66447,
+   "entities": 6881
+  },
+  "e22995390626138d166f": {
+   "db": "bladder_cancer_inclusive_all",
+   "papers": 35620,
+   "entities": 5608
+  },
+  "f810e303e069489f2073": {
+   "db": "kidney_cancer_inclusive_all",
+   "papers": 46739,
+   "entities": 6567
+  },
+  "b13e68ab079cc2bf8105": {
+   "db": "pancreas_cancer_inclusive_all",
+   "papers": 65223,
+   "entities": 7526
+  },
+  "c5e778bf5a045e0cce95": {
+   "db": "liver_cancer_inclusive_all",
+   "papers": 127252,
+   "entities": 10829
+  },
+  "47e04f172ebea95900f3": {
+   "db": "stomach_cancer_inclusive_all",
+   "papers": 64372,
+   "entities": 8441
+  },
+  "2c066a37a29b7256060c": {
+   "db": "esophageal_cancer_inclusive_all",
+   "papers": 37925,
+   "entities": 5743
+  },
+  "744507323aa1bbad48eb": {
+   "db": "ovarian_cancer_inclusive_all",
+   "papers": 61538,
+   "entities": 7843
+  },
+  "970362be79692925e8ce": {
+   "db": "endometrial_cancer_inclusive_all",
+   "papers": 22079,
+   "entities": 4224
+  },
+  "1a68d4783d9057408962": {
+   "db": "cervical_cancer_inclusive_all",
+   "papers": 50875,
+   "entities": 5562
+  },
+  "565e830bd98bc1d43e8b": {
+   "db": "thyroid_cancer_inclusive_all",
+   "papers": 38640,
+   "entities": 4894
+  },
+  "197f3f69f88993d3a0d4": {
+   "db": "brain_cancer_inclusive_all",
+   "papers": 103180,
+   "entities": 8479
+  },
+  "dba3f021c0fd0afb9100": {
+   "db": "leukemia_cancer_inclusive_all",
+   "papers": 106922,
+   "entities": 8253
+  },
+  "08584be2396b26ca78be": {
+   "db": "lymphoma_cancer_inclusive_all",
+   "papers": 79022,
+   "entities": 5664
+  },
+  "0541153e32a6f9182a90": {
+   "db": "myeloma_cancer_inclusive_all",
+   "papers": 26591,
+   "entities": 3793
+  }
+ }
+}

@@ -1,0 +1,18 @@
+codes_removed,exact,lost_pairs
+UTUC,150,
+MDS,150,
+CHOL,149,BRAF (Liver Cancer)
+UTUC+MDS+CHOL,149,BRAF (Liver Cancer)
+UM,150,
+WT,150,
+PANET,149,MEN1 (Pancreatic Cancer)
+UCS,150,
+CEAD,150,
+CML,150,
+PAST,149,KRAS (Brain Cancer)
+MBL,150,
+EPM,150,
+ATRT,150,
+LIHB,150,
+SCLC,150,
+UTUC+MDS+CHOL+UM+WT+PANET+UCS+CEAD+CML+PAST+MBL+EPM+ATRT+LIHB+SCLC,147,KRAS (Brain Cancer); BRAF (Liver Cancer); MEN1 (Pancreatic Cancer)

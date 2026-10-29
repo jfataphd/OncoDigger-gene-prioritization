@@ -1,0 +1,3893 @@
+cancer,gene,B_union,basis
+Breast Cancer,BRCA1,7833,single-word aliases
+Breast Cancer,BRCA2,4527,single-word aliases
+Breast Cancer,PIK3CA,4499,single-word aliases
+Breast Cancer,ERBB2,20613,single-word aliases
+Breast Cancer,TP53,2050,single-word aliases
+Breast Cancer,PALB2,665,single-word aliases
+Breast Cancer,CHEK2,790,single-word aliases
+Breast Cancer,ESR1,1315,single-word aliases
+Breast Cancer,EGFR,3551,single-word aliases
+Breast Cancer,PTEN,1506,single-word aliases
+Breast Cancer,AKT1,520,single-word aliases
+Breast Cancer,ATM,1013,single-word aliases
+Breast Cancer,PGR,1234,single-word aliases
+Breast Cancer,MKI67,102,single-word aliases
+Breast Cancer,RAD51C,236,single-word aliases
+Breast Cancer,RAD51D,157,single-word aliases
+Breast Cancer,CYP19A1,4866,single-word aliases
+Breast Cancer,CDH1,620,single-word aliases
+Breast Cancer,TNFRSF11A,1419,single-word aliases
+Breast Cancer,BRAF,138,single-word aliases
+Breast Cancer,BARD1,247,single-word aliases
+Breast Cancer,MSH2,206,single-word aliases
+Breast Cancer,KIT,731,single-word aliases
+Breast Cancer,BCAR3,23,single-word aliases
+Breast Cancer,PARP1,1973,single-word aliases
+Breast Cancer,GATA3,524,single-word aliases
+Breast Cancer,CDKN2A,373,single-word aliases
+Breast Cancer,MLH1,210,single-word aliases
+Breast Cancer,KRAS,276,single-word aliases
+Breast Cancer,MET,3958,single-word aliases
+Breast Cancer,CD274,175,single-word aliases
+Breast Cancer,MED12,70,single-word aliases
+Breast Cancer,STK11,165,single-word aliases
+Breast Cancer,RB1,254,single-word aliases
+Breast Cancer,ERBB3,642,single-word aliases
+Breast Cancer,MTOR,2178,single-word aliases
+Breast Cancer,PIK3R1,83,single-word aliases
+Breast Cancer,NBN,102,single-word aliases
+Breast Cancer,MSH6,133,single-word aliases
+Breast Cancer,APC,477,single-word aliases
+Breast Cancer,MAP3K1,133,single-word aliases
+Breast Cancer,RAD51,447,single-word aliases
+Breast Cancer,BRIP1,224,single-word aliases
+Breast Cancer,MAP2K4,49,single-word aliases
+Breast Cancer,EGR3,2143,single-word aliases
+Breast Cancer,AMACR,3489,single-word aliases
+Breast Cancer,SART3,130,single-word aliases
+Breast Cancer,NF1,166,single-word aliases
+Breast Cancer,PDGFRA,36,single-word aliases
+Breast Cancer,INS,1163,single-word aliases
+Breast Cancer,PI3,105,single-word aliases
+Breast Cancer,MUTYH,86,single-word aliases
+Breast Cancer,CDK4,1957,single-word aliases
+Breast Cancer,FGFR3,41,single-word aliases
+Breast Cancer,AR,1211,single-word aliases
+Breast Cancer,IDH2,48,single-word aliases
+Breast Cancer,FH,133,single-word aliases
+Breast Cancer,BCL2,692,single-word aliases
+Breast Cancer,MDM2,423,single-word aliases
+Breast Cancer,APOBEC3B,49,single-word aliases
+Breast Cancer,TERT,121,single-word aliases
+Breast Cancer,IGLL1,1,single-word aliases
+Breast Cancer,FAM3B,3,single-word aliases
+Breast Cancer,MUC16,147,single-word aliases
+Breast Cancer,CCND1,487,single-word aliases
+Breast Cancer,GNAS,28,single-word aliases
+Breast Cancer,SERPINA1,18,single-word aliases
+Breast Cancer,FGG,2,single-word aliases
+Breast Cancer,ADAMTS1,11,single-word aliases
+Breast Cancer,FANCM,41,single-word aliases
+Breast Cancer,PTS,467,single-word aliases
+Breast Cancer,CPP,41,single-word aliases
+Breast Cancer,NODAL,5210,single-word aliases
+Breast Cancer,FANCA,32,single-word aliases
+Breast Cancer,REST,803,single-word aliases
+Breast Cancer,FASTK,1233,single-word aliases
+Breast Cancer,FOXD3-AS1,1232,single-word aliases
+Breast Cancer,SUPT16H,1940,single-word aliases
+Breast Cancer,NOTCH2,55,single-word aliases
+Breast Cancer,PMS2,100,single-word aliases
+Breast Cancer,ONECUT2,6,single-word aliases
+Breast Cancer,FGFR1,250,single-word aliases
+Breast Cancer,HRAS,87,single-word aliases
+Breast Cancer,MYC,801,single-word aliases
+Breast Cancer,HMCN1,3,single-word aliases
+Breast Cancer,RET,114,single-word aliases
+Breast Cancer,CCK,14,single-word aliases
+Breast Cancer,MAP2K1,197,single-word aliases
+Breast Cancer,FLT3,35,single-word aliases
+Breast Cancer,KMT2C,54,single-word aliases
+Breast Cancer,EGF,970,single-word aliases
+Breast Cancer,CARD11,3,single-word aliases
+Breast Cancer,CBFB,25,single-word aliases
+Breast Cancer,BAP1,30,single-word aliases
+Breast Cancer,HP,147,single-word aliases
+Breast Cancer,IDH1,24,single-word aliases
+Breast Cancer,BOC,21,single-word aliases
+Breast Cancer,IFITM1,14,single-word aliases
+Breast Cancer,TET2,30,single-word aliases
+Breast Cancer,NOTCH1,275,single-word aliases
+Breast Cancer,INSC,4,single-word aliases
+Breast Cancer,AKT3,70,single-word aliases
+Breast Cancer,FAT1,20,single-word aliases
+Breast Cancer,PTPN11,68,single-word aliases
+Breast Cancer,MTUS2,256,single-word aliases
+Breast Cancer,KIN,44,single-word aliases
+Breast Cancer,BLM,70,single-word aliases
+Breast Cancer,C5,80,single-word aliases
+Breast Cancer,KDR,393,single-word aliases
+Breast Cancer,RAD50,111,single-word aliases
+Breast Cancer,NOTCH3,68,single-word aliases
+Breast Cancer,PIP,106,single-word aliases
+Breast Cancer,TNFRSF19,48,single-word aliases
+Breast Cancer,TTN,21,single-word aliases
+Breast Cancer,FBXW7,77,single-word aliases
+Breast Cancer,CTNNB1,93,single-word aliases
+Breast Cancer,AMH,111,single-word aliases
+Breast Cancer,AREG,121,single-word aliases
+Breast Cancer,NF2,34,single-word aliases
+Breast Cancer,RECQL,26,single-word aliases
+Breast Cancer,FANCI,23,single-word aliases
+Breast Cancer,TG,246,single-word aliases
+Breast Cancer,SHE,2014,single-word aliases
+Breast Cancer,EP300,245,single-word aliases
+Breast Cancer,JAK2,272,single-word aliases
+Breast Cancer,NR4A3,1740,single-word aliases
+Breast Cancer,C3,237,single-word aliases
+Breast Cancer,NLRP2,83,single-word aliases
+Breast Cancer,FAS,543,single-word aliases
+Breast Cancer,NRAS,48,single-word aliases
+Breast Cancer,AKT2,112,single-word aliases
+Breast Cancer,H2AX,377,single-word aliases
+Breast Cancer,FGFR4,77,single-word aliases
+Breast Cancer,CDKN1A,591,single-word aliases
+Breast Cancer,SMAD4,123,single-word aliases
+Breast Cancer,TOX3,71,single-word aliases
+Breast Cancer,FAP,124,single-word aliases
+Breast Cancer,FGFR2,275,single-word aliases
+Breast Cancer,CD4,1295,single-word aliases
+Breast Cancer,TF,419,single-word aliases
+Breast Cancer,TH,274,single-word aliases
+Breast Cancer,PHGDH,630,single-word aliases
+Breast Cancer,MAPK3,1038,single-word aliases
+Breast Cancer,BAX,2038,single-word aliases
+Breast Cancer,SRC,981,single-word aliases
+Lung Cancer,EGFR,15488,single-word aliases
+Lung Cancer,KRAS,4179,single-word aliases
+Lung Cancer,CD274,334,single-word aliases
+Lung Cancer,TP53,1975,single-word aliases
+Lung Cancer,BRAF,1458,single-word aliases
+Lung Cancer,PIK3CA,2730,single-word aliases
+Lung Cancer,ERBB2,1739,single-word aliases
+Lung Cancer,ALK,4242,single-word aliases
+Lung Cancer,MET,1741,single-word aliases
+Lung Cancer,STK11,725,single-word aliases
+Lung Cancer,PDCD1,56,single-word aliases
+Lung Cancer,NRAS,263,single-word aliases
+Lung Cancer,KEAP1,418,single-word aliases
+Lung Cancer,ROS1,1283,single-word aliases
+Lung Cancer,TNFRSF11A,951,single-word aliases
+Lung Cancer,KIT,890,single-word aliases
+Lung Cancer,EML4,247,single-word aliases
+Lung Cancer,BRCA1,320,single-word aliases
+Lung Cancer,MTUS1,2473,single-word aliases
+Lung Cancer,PTEN,839,single-word aliases
+Lung Cancer,RET,847,single-word aliases
+Lung Cancer,SMARCA4,247,single-word aliases
+Lung Cancer,BRCA2,138,single-word aliases
+Lung Cancer,NR4A3,1152,single-word aliases
+Lung Cancer,NFE2L2,545,single-word aliases
+Lung Cancer,F3,119,single-word aliases
+Lung Cancer,EPHA5,21,single-word aliases
+Lung Cancer,MAP2K1,246,single-word aliases
+Lung Cancer,NF1,125,single-word aliases
+Lung Cancer,EGF,643,single-word aliases
+Lung Cancer,ATM,349,single-word aliases
+Lung Cancer,CTNNB1,158,single-word aliases
+Lung Cancer,BAP1,307,single-word aliases
+Lung Cancer,RB1,425,single-word aliases
+Lung Cancer,KMT2C,24,single-word aliases
+Lung Cancer,ERBB4,114,single-word aliases
+Lung Cancer,TYMS,73,single-word aliases
+Lung Cancer,AKT1,330,single-word aliases
+Lung Cancer,FAM3B,1,single-word aliases
+Lung Cancer,CDKN2A,677,single-word aliases
+Lung Cancer,FOXD3-AS1,800,single-word aliases
+Lung Cancer,BCL2L11,22,single-word aliases
+Lung Cancer,TET2,27,single-word aliases
+Lung Cancer,CSMD3,14,single-word aliases
+Lung Cancer,ZFHX3,10,single-word aliases
+Lung Cancer,AURKA,134,single-word aliases
+Lung Cancer,PARP1,857,single-word aliases
+Lung Cancer,IDH1,43,single-word aliases
+Lung Cancer,IL6,191,single-word aliases
+Lung Cancer,PTPRT,10,single-word aliases
+Lung Cancer,INS,382,single-word aliases
+Lung Cancer,ERCC1,445,single-word aliases
+Lung Cancer,BCL2,417,single-word aliases
+Lung Cancer,RBM10,55,single-word aliases
+Lung Cancer,CUL3,27,single-word aliases
+Lung Cancer,DDR2,69,single-word aliases
+Lung Cancer,PDGFRA,71,single-word aliases
+Lung Cancer,KMT2B,23,single-word aliases
+Lung Cancer,NTRK1,117,single-word aliases
+Lung Cancer,IGLL1,1,single-word aliases
+Lung Cancer,AXL,222,single-word aliases
+Lung Cancer,IDH2,20,single-word aliases
+Lung Cancer,RASA1,37,single-word aliases
+Lung Cancer,DNMT3A,78,single-word aliases
+Lung Cancer,FAT1,26,single-word aliases
+Lung Cancer,MOS,374,single-word aliases
+Lung Cancer,U2AF1,12,single-word aliases
+Lung Cancer,BLM,27,single-word aliases
+Lung Cancer,MKI67,35,single-word aliases
+Lung Cancer,AMACR,1335,single-word aliases
+Lung Cancer,PTGER2,3,single-word aliases
+Lung Cancer,GABPA,507,single-word aliases
+Lung Cancer,TUBB3,49,single-word aliases
+Lung Cancer,RRM1,170,single-word aliases
+Lung Cancer,RAD50,21,single-word aliases
+Lung Cancer,TERT,183,single-word aliases
+Lung Cancer,CHEK2,119,single-word aliases
+Lung Cancer,C9,16,single-word aliases
+Lung Cancer,NDUFS2,1,single-word aliases
+Lung Cancer,ATR,148,single-word aliases
+Lung Cancer,HRAS,88,single-word aliases
+Lung Cancer,KMT2D,50,single-word aliases
+Lung Cancer,MAF,47,single-word aliases
+Lung Cancer,NOTCH1,221,single-word aliases
+Lung Cancer,NFE2,3,single-word aliases
+Lung Cancer,TTN,32,single-word aliases
+Lung Cancer,AKT2,83,single-word aliases
+Lung Cancer,NTRK3,45,single-word aliases
+Lung Cancer,MUC16,196,single-word aliases
+Lung Cancer,LAMP3,31,single-word aliases
+Lung Cancer,LSAMP,22,single-word aliases
+Lung Cancer,ARID1B,19,single-word aliases
+Lung Cancer,AKT1S1,3449,single-word aliases
+Lung Cancer,BRIP1,17,single-word aliases
+Lung Cancer,APC,399,single-word aliases
+Lung Cancer,TTF1,209,single-word aliases
+Lung Cancer,MTOR,1515,single-word aliases
+Lung Cancer,CD4,1883,single-word aliases
+Lung Cancer,PTPRD,28,single-word aliases
+Lung Cancer,NHLH1,35,single-word aliases
+Lung Cancer,SETD2,46,single-word aliases
+Lung Cancer,JAK2,233,single-word aliases
+Lung Cancer,KDR,446,single-word aliases
+Lung Cancer,TAT,85,single-word aliases
+Lung Cancer,FGFR3,83,single-word aliases
+Lung Cancer,CASP3,57,single-word aliases
+Lung Cancer,POLE,58,single-word aliases
+Lung Cancer,CDK4,400,single-word aliases
+Lung Cancer,REST,517,single-word aliases
+Lung Cancer,COL11A1,35,single-word aliases
+Lung Cancer,EGR3,926,single-word aliases
+Lung Cancer,LRP1B,56,single-word aliases
+Lung Cancer,MCL1,82,single-word aliases
+Lung Cancer,CDKN2B,60,single-word aliases
+Lung Cancer,ERBB3,309,single-word aliases
+Lung Cancer,MIA,288,single-word aliases
+Lung Cancer,GINS2,82,single-word aliases
+Lung Cancer,MAPK3,787,single-word aliases
+Lung Cancer,ARID1A,85,single-word aliases
+Lung Cancer,VEGFA,187,single-word aliases
+Lung Cancer,MYC,560,single-word aliases
+Lung Cancer,SMAD4,163,single-word aliases
+Lung Cancer,GAPDH,120,single-word aliases
+Lung Cancer,STAT3,1275,single-word aliases
+Lung Cancer,CDK6,148,single-word aliases
+Lung Cancer,FGFR1,264,single-word aliases
+Lung Cancer,SUPT16H,1018,single-word aliases
+Lung Cancer,MDM2,368,single-word aliases
+Lung Cancer,CD68,264,single-word aliases
+Lung Cancer,BAX,1450,single-word aliases
+Lung Cancer,SOX2,428,single-word aliases
+Lung Cancer,TNF,1070,single-word aliases
+Lung Cancer,MAX,983,single-word aliases
+Lung Cancer,SHE,1662,single-word aliases
+Lung Cancer,NKX2-1,969,phrase text scan
+Colorectal Cancer,KRAS,4969,single-word aliases
+Colorectal Cancer,BRAF,3597,single-word aliases
+Colorectal Cancer,EGFR,2886,single-word aliases
+Colorectal Cancer,MLH1,3021,single-word aliases
+Colorectal Cancer,PIK3CA,2533,single-word aliases
+Colorectal Cancer,NRAS,786,single-word aliases
+Colorectal Cancer,MSH2,2499,single-word aliases
+Colorectal Cancer,APC,4098,single-word aliases
+Colorectal Cancer,TP53,1345,single-word aliases
+Colorectal Cancer,MSH6,1305,single-word aliases
+Colorectal Cancer,KIT,1009,single-word aliases
+Colorectal Cancer,PMS2,1044,single-word aliases
+Colorectal Cancer,POLE,244,single-word aliases
+Colorectal Cancer,CTNNB1,355,single-word aliases
+Colorectal Cancer,MUTYH,338,single-word aliases
+Colorectal Cancer,FAP,1635,single-word aliases
+Colorectal Cancer,TNFRSF11A,827,single-word aliases
+Colorectal Cancer,SMAD4,572,single-word aliases
+Colorectal Cancer,PTEN,769,single-word aliases
+Colorectal Cancer,BRCA2,229,single-word aliases
+Colorectal Cancer,FBXW7,172,single-word aliases
+Colorectal Cancer,POLD1,196,single-word aliases
+Colorectal Cancer,MET,2659,single-word aliases
+Colorectal Cancer,ERBB2,715,single-word aliases
+Colorectal Cancer,BRCA1,337,single-word aliases
+Colorectal Cancer,RNF43,121,single-word aliases
+Colorectal Cancer,PDCD1,44,single-word aliases
+Colorectal Cancer,BCAR3,2,single-word aliases
+Colorectal Cancer,HRAS,85,single-word aliases
+Colorectal Cancer,CD274,113,single-word aliases
+Colorectal Cancer,FASTK,628,single-word aliases
+Colorectal Cancer,FOXD3-AS1,627,single-word aliases
+Colorectal Cancer,ATM,287,single-word aliases
+Colorectal Cancer,MAP2K1,191,single-word aliases
+Colorectal Cancer,CCL20,1389,single-word aliases
+Colorectal Cancer,CDKN2A,406,single-word aliases
+Colorectal Cancer,EPCAM,412,single-word aliases
+Colorectal Cancer,PDGFRA,61,single-word aliases
+Colorectal Cancer,GNAS,55,single-word aliases
+Colorectal Cancer,BMPR1A,81,single-word aliases
+Colorectal Cancer,AKT1,224,single-word aliases
+Colorectal Cancer,NF1,77,single-word aliases
+Colorectal Cancer,CHEK2,189,single-word aliases
+Colorectal Cancer,KMT2D,26,single-word aliases
+Colorectal Cancer,EGF,399,single-word aliases
+Colorectal Cancer,MTOR,1100,single-word aliases
+Colorectal Cancer,PMS1,56,single-word aliases
+Colorectal Cancer,PKHD1,7,single-word aliases
+Colorectal Cancer,PALB2,30,single-word aliases
+Colorectal Cancer,TGFBR2,99,single-word aliases
+Colorectal Cancer,PTCH1,30,single-word aliases
+Colorectal Cancer,ACVRL1,9,single-word aliases
+Colorectal Cancer,ARID1A,93,single-word aliases
+Colorectal Cancer,PTPN11,57,single-word aliases
+Colorectal Cancer,FAM107B,138,single-word aliases
+Colorectal Cancer,MLH3,50,single-word aliases
+Colorectal Cancer,RET,91,single-word aliases
+Colorectal Cancer,INS,803,single-word aliases
+Colorectal Cancer,ALK,103,single-word aliases
+Colorectal Cancer,SLPI,14,single-word aliases
+Colorectal Cancer,CCS,146,single-word aliases
+Colorectal Cancer,CCND1,218,single-word aliases
+Colorectal Cancer,RAD51D,14,single-word aliases
+Colorectal Cancer,FAM3B,1,single-word aliases
+Colorectal Cancer,TTR,116,single-word aliases
+Colorectal Cancer,MAX,365,single-word aliases
+Colorectal Cancer,ENG,93,single-word aliases
+Colorectal Cancer,KMT2A,23,single-word aliases
+Colorectal Cancer,FAT4,20,single-word aliases
+Colorectal Cancer,PDZK1,57,single-word aliases
+Colorectal Cancer,MGMT,301,single-word aliases
+Colorectal Cancer,DLD,15,single-word aliases
+Colorectal Cancer,IDH1,38,single-word aliases
+Colorectal Cancer,PTGER2,8,single-word aliases
+Colorectal Cancer,ENDOV,2,single-word aliases
+Colorectal Cancer,TGFB1,111,single-word aliases
+Colorectal Cancer,PMS2CL,12,single-word aliases
+Colorectal Cancer,ABL1,14,single-word aliases
+Colorectal Cancer,NR4A3,1457,single-word aliases
+Colorectal Cancer,MUC16,136,single-word aliases
+Colorectal Cancer,FGFR1,54,single-word aliases
+Colorectal Cancer,JUN,111,single-word aliases
+Colorectal Cancer,JAK1,59,single-word aliases
+Colorectal Cancer,RAD54L,5,single-word aliases
+Colorectal Cancer,KMT2C,22,single-word aliases
+Colorectal Cancer,FLT3,38,single-word aliases
+Colorectal Cancer,MUC4,40,single-word aliases
+Colorectal Cancer,B2M,48,single-word aliases
+Colorectal Cancer,CTLA4,89,single-word aliases
+Colorectal Cancer,NDUFS3,1,single-word aliases
+Colorectal Cancer,NDUFS7,1,single-word aliases
+Colorectal Cancer,APOBEC3B,4,single-word aliases
+Colorectal Cancer,LRP1B,18,single-word aliases
+Colorectal Cancer,CASP3,67,single-word aliases
+Colorectal Cancer,NTRK2,27,single-word aliases
+Colorectal Cancer,MAF,54,single-word aliases
+Colorectal Cancer,TTN,24,single-word aliases
+Colorectal Cancer,BRIP1,28,single-word aliases
+Colorectal Cancer,CUX1,17,single-word aliases
+Colorectal Cancer,CRTAP,15,single-word aliases
+Colorectal Cancer,EGR3,1215,single-word aliases
+Colorectal Cancer,NTRK3,23,single-word aliases
+Colorectal Cancer,RUNX3,142,single-word aliases
+Colorectal Cancer,AMACR,1722,single-word aliases
+Colorectal Cancer,CHL1,312,single-word aliases
+Colorectal Cancer,RYR2,9,single-word aliases
+Colorectal Cancer,SPEN,194,single-word aliases
+Colorectal Cancer,SETD2,15,single-word aliases
+Colorectal Cancer,F3,25,single-word aliases
+Colorectal Cancer,FAT3,5,single-word aliases
+Colorectal Cancer,MTUS1,418,single-word aliases
+Colorectal Cancer,SYNE1,28,single-word aliases
+Colorectal Cancer,SOX9,93,single-word aliases
+Colorectal Cancer,FGFR3,41,single-word aliases
+Colorectal Cancer,MSH3,187,single-word aliases
+Colorectal Cancer,RPS6,11,single-word aliases
+Colorectal Cancer,CD4,1526,single-word aliases
+Colorectal Cancer,RHO,262,single-word aliases
+Colorectal Cancer,MUC5B,15,single-word aliases
+Colorectal Cancer,RB1,80,single-word aliases
+Colorectal Cancer,CRABP1,47,single-word aliases
+Colorectal Cancer,CTCF,29,single-word aliases
+Colorectal Cancer,BLM,37,single-word aliases
+Colorectal Cancer,SRC,447,single-word aliases
+Colorectal Cancer,CDH1,176,single-word aliases
+Colorectal Cancer,REEP5,82,single-word aliases
+Colorectal Cancer,IDH2,16,single-word aliases
+Colorectal Cancer,TERT,65,single-word aliases
+Colorectal Cancer,BAX,1661,single-word aliases
+Colorectal Cancer,SMAD2,187,single-word aliases
+Colorectal Cancer,CACNA1G,67,single-word aliases
+Colorectal Cancer,ERBB4,47,single-word aliases
+Colorectal Cancer,NEUROG1,70,single-word aliases
+Colorectal Cancer,DCC,156,single-word aliases
+Colorectal Cancer,CASP8,47,single-word aliases
+Colorectal Cancer,CAST,36,single-word aliases
+Colorectal Cancer,SOCS1,87,single-word aliases
+Colorectal Cancer,EAF2,352,single-word aliases
+Colorectal Cancer,EREG,81,single-word aliases
+Colorectal Cancer,FOXD3,188,single-word aliases
+Colorectal Cancer,AREG,102,single-word aliases
+Colorectal Cancer,PTGS2,271,single-word aliases
+Colorectal Cancer,KDR,348,single-word aliases
+Colorectal Cancer,IGF2,152,single-word aliases
+Colorectal Cancer,GLI1,92,single-word aliases
+Colorectal Cancer,CGA,73,single-word aliases
+Colorectal Cancer,SMAD3,125,single-word aliases
+Colorectal Cancer,TCF7L2,100,single-word aliases
+Colorectal Cancer,REST,575,single-word aliases
+Colorectal Cancer,AXIN2,160,single-word aliases
+Colorectal Cancer,TG,168,single-word aliases
+Colorectal Cancer,BCL2,403,single-word aliases
+Colorectal Cancer,TRG,484,single-word aliases
+Colorectal Cancer,JAK2,181,single-word aliases
+Colorectal Cancer,FAS,436,single-word aliases
+Colorectal Cancer,CD44,803,single-word aliases
+Colorectal Cancer,NODAL,2016,single-word aliases
+Colorectal Cancer,NDE1,2401,single-word aliases
+Colorectal Cancer,SHE,799,single-word aliases
+Prostate Cancer,BRCA2,643,single-word aliases
+Prostate Cancer,BRCA1,591,single-word aliases
+Prostate Cancer,PTEN,1612,single-word aliases
+Prostate Cancer,TP53,509,single-word aliases
+Prostate Cancer,ATM,399,single-word aliases
+Prostate Cancer,AR,5933,single-word aliases
+Prostate Cancer,SPOP,212,single-word aliases
+Prostate Cancer,PARP1,905,single-word aliases
+Prostate Cancer,CHEK2,185,single-word aliases
+Prostate Cancer,PALB2,96,single-word aliases
+Prostate Cancer,RB1,266,single-word aliases
+Prostate Cancer,PIK3CA,1186,single-word aliases
+Prostate Cancer,CDK12,136,single-word aliases
+Prostate Cancer,MSH2,96,single-word aliases
+Prostate Cancer,ERG,1008,single-word aliases
+Prostate Cancer,MLH1,73,single-word aliases
+Prostate Cancer,HOXB13,224,single-word aliases
+Prostate Cancer,FOXA1,256,single-word aliases
+Prostate Cancer,NBN,33,single-word aliases
+Prostate Cancer,MSH6,68,single-word aliases
+Prostate Cancer,TMPRSS2,581,single-word aliases
+Prostate Cancer,BRAF,61,single-word aliases
+Prostate Cancer,APC,351,single-word aliases
+Prostate Cancer,RAD51C,25,single-word aliases
+Prostate Cancer,CTNNB1,59,single-word aliases
+Prostate Cancer,BRIP1,31,single-word aliases
+Prostate Cancer,CHD1,61,single-word aliases
+Prostate Cancer,MYC,443,single-word aliases
+Prostate Cancer,AMACR,2373,single-word aliases
+Prostate Cancer,KRAS,62,single-word aliases
+Prostate Cancer,EGFR,630,single-word aliases
+Prostate Cancer,PMS2,46,single-word aliases
+Prostate Cancer,TNFRSF11A,825,single-word aliases
+Prostate Cancer,CHEK1,65,single-word aliases
+Prostate Cancer,MED12,17,single-word aliases
+Prostate Cancer,PDCD1,9,single-word aliases
+Prostate Cancer,MKI67,25,single-word aliases
+Prostate Cancer,BCL2,212,single-word aliases
+Prostate Cancer,IDH1,28,single-word aliases
+Prostate Cancer,MSR1,59,single-word aliases
+Prostate Cancer,ATR,85,single-word aliases
+Prostate Cancer,RAD51,71,single-word aliases
+Prostate Cancer,FANCA,29,single-word aliases
+Prostate Cancer,KMT2C,16,single-word aliases
+Prostate Cancer,TERT,38,single-word aliases
+Prostate Cancer,ELAC2,62,single-word aliases
+Prostate Cancer,KMT2D,20,single-word aliases
+Prostate Cancer,FANCL,6,single-word aliases
+Prostate Cancer,RNASEL,85,single-word aliases
+Prostate Cancer,MUTYH,13,single-word aliases
+Prostate Cancer,RAD51D,12,single-word aliases
+Prostate Cancer,KLF6,33,single-word aliases
+Prostate Cancer,MT-ATP6,3,single-word aliases
+Prostate Cancer,CUL3,9,single-word aliases
+Prostate Cancer,NKX3-1,0,single-word aliases
+Prostate Cancer,FAM3B,2,single-word aliases
+Prostate Cancer,RNF43,8,single-word aliases
+Prostate Cancer,FGFR3,21,single-word aliases
+Prostate Cancer,MET,1934,single-word aliases
+Prostate Cancer,KDM6A,17,single-word aliases
+Prostate Cancer,AKT1,140,single-word aliases
+Prostate Cancer,BRD2,12,single-word aliases
+Prostate Cancer,FANCI,5,single-word aliases
+Prostate Cancer,STK11,26,single-word aliases
+Prostate Cancer,FANCD2,9,single-word aliases
+Prostate Cancer,RAD51B,14,single-word aliases
+Prostate Cancer,MYBBP1A,38,single-word aliases
+Prostate Cancer,SPINK1,81,single-word aliases
+Prostate Cancer,KIT,301,single-word aliases
+Prostate Cancer,PIK3R1,19,single-word aliases
+Prostate Cancer,ERBB2,289,single-word aliases
+Prostate Cancer,SPEN,148,single-word aliases
+Prostate Cancer,PMS1,6,single-word aliases
+Prostate Cancer,DNMT3A,40,single-word aliases
+Prostate Cancer,ARSI,188,single-word aliases
+Prostate Cancer,CDKN2A,122,single-word aliases
+Prostate Cancer,KMT2A,18,single-word aliases
+Prostate Cancer,GATM,4,single-word aliases
+Prostate Cancer,TET2,23,single-word aliases
+Prostate Cancer,BARD1,13,single-word aliases
+Prostate Cancer,JUND,18,single-word aliases
+Prostate Cancer,ZFHX3,19,single-word aliases
+Prostate Cancer,BLM,18,single-word aliases
+Prostate Cancer,GEN1,3,single-word aliases
+Prostate Cancer,MAP2K4,31,single-word aliases
+Prostate Cancer,RAD54L,7,single-word aliases
+Prostate Cancer,NR4A3,816,single-word aliases
+Prostate Cancer,RAD50,18,single-word aliases
+Prostate Cancer,VHL,20,single-word aliases
+Prostate Cancer,FH,60,single-word aliases
+Prostate Cancer,CCK,13,single-word aliases
+Prostate Cancer,EAF2,238,single-word aliases
+Prostate Cancer,TIPARP,7,single-word aliases
+Prostate Cancer,FOSB,5,single-word aliases
+Prostate Cancer,FOS,32,single-word aliases
+Prostate Cancer,CBX4,35,single-word aliases
+Prostate Cancer,MSH3,30,single-word aliases
+Prostate Cancer,RAD54B,2,single-word aliases
+Prostate Cancer,CDKN1B,258,single-word aliases
+Prostate Cancer,CDKN1A,333,single-word aliases
+Prostate Cancer,BUB1,15,single-word aliases
+Prostate Cancer,SLC33A1,1,single-word aliases
+Prostate Cancer,JUN,56,single-word aliases
+Prostate Cancer,REST,296,single-word aliases
+Prostate Cancer,TNFSF10,301,single-word aliases
+Prostate Cancer,INS,541,single-word aliases
+Prostate Cancer,JAK1,39,single-word aliases
+Prostate Cancer,MTOR,699,single-word aliases
+Prostate Cancer,BAX,788,single-word aliases
+Prostate Cancer,CD274,24,single-word aliases
+Prostate Cancer,MMS22L,3,single-word aliases
+Prostate Cancer,NODAL,1221,single-word aliases
+Prostate Cancer,CDC27,1,single-word aliases
+Prostate Cancer,SETD2,4,single-word aliases
+Prostate Cancer,HIF1A,107,single-word aliases
+Prostate Cancer,MDM2,169,single-word aliases
+Prostate Cancer,ETS2,19,single-word aliases
+Prostate Cancer,FOXP3,102,single-word aliases
+Prostate Cancer,FOLH1,3668,single-word aliases
+Prostate Cancer,AHR,242,single-word aliases
+Prostate Cancer,CASP3,32,single-word aliases
+Prostate Cancer,MYH7,4,single-word aliases
+Prostate Cancer,ASXL1,3,single-word aliases
+Prostate Cancer,HFE,6,single-word aliases
+Prostate Cancer,FBXW7,16,single-word aliases
+Prostate Cancer,TTN,27,single-word aliases
+Prostate Cancer,XCL1,5,single-word aliases
+Prostate Cancer,GINS2,35,single-word aliases
+Prostate Cancer,KIN,6,single-word aliases
+Prostate Cancer,FGA,11,single-word aliases
+Prostate Cancer,STING1,25,single-word aliases
+Prostate Cancer,LIG1,6,single-word aliases
+Prostate Cancer,NF1,11,single-word aliases
+Prostate Cancer,MAD1L1,6,single-word aliases
+Prostate Cancer,ADARB1,3,single-word aliases
+Prostate Cancer,IGF1,82,single-word aliases
+Prostate Cancer,KMT2B,8,single-word aliases
+Prostate Cancer,CHL1,147,single-word aliases
+Prostate Cancer,PSMA7,128,single-word aliases
+Prostate Cancer,GLI3,12,single-word aliases
+Prostate Cancer,EXO1,13,single-word aliases
+Prostate Cancer,MRE11,15,single-word aliases
+Prostate Cancer,HDAC2,24,single-word aliases
+Prostate Cancer,MEN1,13,single-word aliases
+Prostate Cancer,CCND1,79,single-word aliases
+Prostate Cancer,ARHGAP1,8,single-word aliases
+Prostate Cancer,MITF,9,single-word aliases
+Prostate Cancer,MAPK1,43,single-word aliases
+Prostate Cancer,NEIL3,9,single-word aliases
+Prostate Cancer,JAK2,68,single-word aliases
+Prostate Cancer,DLC1,7,single-word aliases
+Prostate Cancer,EPHB2,15,single-word aliases
+Prostate Cancer,KLK3,222,single-word aliases
+Prostate Cancer,CTNND2,5,single-word aliases
+Prostate Cancer,WRN,7,single-word aliases
+Prostate Cancer,CTCF,36,single-word aliases
+Prostate Cancer,BRD3,8,single-word aliases
+Prostate Cancer,ERF,5,single-word aliases
+Prostate Cancer,SKP2,90,single-word aliases
+Prostate Cancer,TRAM1,644,single-word aliases
+Prostate Cancer,TNFRSF25,649,single-word aliases
+Prostate Cancer,NCOA3,29,single-word aliases
+Prostate Cancer,STAT3,522,single-word aliases
+Prostate Cancer,ULK1,20,single-word aliases
+Prostate Cancer,XPC,20,single-word aliases
+Prostate Cancer,MBP,12,single-word aliases
+Prostate Cancer,POLE,22,single-word aliases
+Prostate Cancer,TRIM24,16,single-word aliases
+Prostate Cancer,CDH1,82,single-word aliases
+Prostate Cancer,SRC,320,single-word aliases
+Prostate Cancer,BUB1B,20,single-word aliases
+Prostate Cancer,BCR,1790,single-word aliases
+Prostate Cancer,SRD5A2,130,single-word aliases
+Prostate Cancer,SP1,142,single-word aliases
+Prostate Cancer,CD4,397,single-word aliases
+Prostate Cancer,EGR3,824,single-word aliases
+Prostate Cancer,NCOA2,42,single-word aliases
+Prostate Cancer,STAT5A,35,single-word aliases
+Prostate Cancer,PLK1,80,single-word aliases
+Prostate Cancer,KLF5,34,single-word aliases
+Prostate Cancer,CAT,156,single-word aliases
+Prostate Cancer,GSS,47,single-word aliases
+Prostate Cancer,PI3,44,single-word aliases
+Prostate Cancer,GATA3,47,single-word aliases
+Prostate Cancer,CDK1,135,single-word aliases
+Prostate Cancer,FOXD3,106,single-word aliases
+Prostate Cancer,TWIST1,80,single-word aliases
+Prostate Cancer,EGF,330,single-word aliases
+Prostate Cancer,TYR,67,single-word aliases
+Prostate Cancer,SYP,122,single-word aliases
+Prostate Cancer,WASF1,175,single-word aliases
+Prostate Cancer,BID,136,single-word aliases
+Prostate Cancer,NANOG,102,single-word aliases
+Prostate Cancer,ETV1,115,single-word aliases
+Prostate Cancer,SOX2,138,single-word aliases
+Prostate Cancer,EP300,183,single-word aliases
+Prostate Cancer,H2AX,182,single-word aliases
+Prostate Cancer,RHO,226,single-word aliases
+Prostate Cancer,CDK4,202,single-word aliases
+Prostate Cancer,EZH2,304,single-word aliases
+Prostate Cancer,PHGDH,355,single-word aliases
+Melanoma,BRAF,4954,single-word aliases
+Melanoma,NRAS,1193,single-word aliases
+Melanoma,KIT,604,single-word aliases
+Melanoma,CDKN2A,894,single-word aliases
+Melanoma,TERT,252,single-word aliases
+Melanoma,GNAQ,339,single-word aliases
+Melanoma,GNA11,258,single-word aliases
+Melanoma,BAP1,380,single-word aliases
+Melanoma,PDCD1,46,single-word aliases
+Melanoma,PIK3CA,797,single-word aliases
+Melanoma,SF3B1,112,single-word aliases
+Melanoma,NF1,235,single-word aliases
+Melanoma,CDK4,410,single-word aliases
+Melanoma,PTEN,460,single-word aliases
+Melanoma,TP53,240,single-word aliases
+Melanoma,KRAS,156,single-word aliases
+Melanoma,EIF1AX,60,single-word aliases
+Melanoma,BRCA1,78,single-word aliases
+Melanoma,MAP2K1,220,single-word aliases
+Melanoma,CTNNB1,68,single-word aliases
+Melanoma,CD274,110,single-word aliases
+Melanoma,HRAS,97,single-word aliases
+Melanoma,CTLA4,181,single-word aliases
+Melanoma,EGFR,286,single-word aliases
+Melanoma,ERBB4,38,single-word aliases
+Melanoma,RAC1,141,single-word aliases
+Melanoma,KDR,172,single-word aliases
+Melanoma,PDGFRA,23,single-word aliases
+Melanoma,ARID2,19,single-word aliases
+Melanoma,BRCA2,69,single-word aliases
+Melanoma,ARID1A,14,single-word aliases
+Melanoma,POT1,55,single-word aliases
+Melanoma,MC1R,411,single-word aliases
+Melanoma,IDH1,20,single-word aliases
+Melanoma,MUC16,12,single-word aliases
+Melanoma,TNFRSF11A,201,single-word aliases
+Melanoma,CYSLTR2,31,single-word aliases
+Melanoma,PRAME,242,single-word aliases
+Melanoma,LRP1B,9,single-word aliases
+Melanoma,CPD,24,single-word aliases
+Melanoma,MLANA,109,single-word aliases
+Melanoma,IFNG,40,single-word aliases
+Melanoma,ATRX,18,single-word aliases
+Melanoma,PMEL,875,single-word aliases
+Melanoma,FOXD3-AS1,337,single-word aliases
+Melanoma,PLCB4,21,single-word aliases
+Melanoma,IFI6,1,single-word aliases
+Melanoma,PPP6C,12,single-word aliases
+Melanoma,MTOR,431,single-word aliases
+Melanoma,MKI67,3,single-word aliases
+Melanoma,PREX2,12,single-word aliases
+Melanoma,MET,690,single-word aliases
+Melanoma,PTPRD,8,single-word aliases
+Melanoma,TTN,13,single-word aliases
+Melanoma,ACD,19,single-word aliases
+Melanoma,APC,199,single-word aliases
+Melanoma,KALRN,3,single-word aliases
+Melanoma,ATM,117,single-word aliases
+Melanoma,CCND1,118,single-word aliases
+Melanoma,IDH2,11,single-word aliases
+Melanoma,KNSTRN,3,single-word aliases
+Melanoma,FBXW7,26,single-word aliases
+Melanoma,ALK,76,single-word aliases
+Melanoma,BCL2L12,2,single-word aliases
+Melanoma,GRIN2A,10,single-word aliases
+Melanoma,APOBEC3B,6,single-word aliases
+Melanoma,RPS27,8,single-word aliases
+Melanoma,SDHD,3,single-word aliases
+Melanoma,MITF,1040,single-word aliases
+Melanoma,MYC,123,single-word aliases
+Melanoma,SPAG5,21,single-word aliases
+Melanoma,NODAL,1351,single-word aliases
+Melanoma,CHEK2,38,single-word aliases
+Melanoma,MTUS1,748,single-word aliases
+Melanoma,JAK3,12,single-word aliases
+Melanoma,PTPRT,4,single-word aliases
+Melanoma,STK11,33,single-word aliases
+Melanoma,KMT2C,7,single-word aliases
+Melanoma,TERF2IP,37,single-word aliases
+Melanoma,ERBB2,136,single-word aliases
+Melanoma,FGFR2,14,single-word aliases
+Melanoma,TSC1,13,single-word aliases
+Melanoma,MOS,64,single-word aliases
+Melanoma,RAF1,85,single-word aliases
+Melanoma,FOXD3,130,single-word aliases
+Melanoma,CAST,20,single-word aliases
+Melanoma,TECTA,2,single-word aliases
+Melanoma,CDKN2B,53,single-word aliases
+Melanoma,MAP2K2,28,single-word aliases
+Melanoma,RAD51B,2,single-word aliases
+Melanoma,RB1,46,single-word aliases
+Melanoma,MAPK3,387,single-word aliases
+Melanoma,MDM2,147,single-word aliases
+Melanoma,GNAS,11,single-word aliases
+Melanoma,SRSF2,8,single-word aliases
+Melanoma,MLH1,43,single-word aliases
+Melanoma,SPRY2,5,single-word aliases
+Melanoma,PIK3R4,6,single-word aliases
+Melanoma,NOTCH1,64,single-word aliases
+Melanoma,RASSF1,11,single-word aliases
+Melanoma,IGF2R,11,single-word aliases
+Melanoma,POLE,67,single-word aliases
+Melanoma,FAT4,8,single-word aliases
+Melanoma,PALB2,13,single-word aliases
+Melanoma,NR4A3,408,single-word aliases
+Melanoma,OCM,21,single-word aliases
+Melanoma,DCC,14,single-word aliases
+Melanoma,CDKN1A,146,single-word aliases
+Melanoma,KIN,4,single-word aliases
+Melanoma,SOX10,300,single-word aliases
+Melanoma,DICER1,18,single-word aliases
+Melanoma,BCAR3,2,single-word aliases
+Melanoma,PBRM1,6,single-word aliases
+Melanoma,EIF2AK3,80,single-word aliases
+Melanoma,CDKN1C,7,single-word aliases
+Melanoma,POLH,5,single-word aliases
+Melanoma,PIK3R1,10,single-word aliases
+Melanoma,RNF2,6,single-word aliases
+Melanoma,APOB,3,single-word aliases
+Melanoma,EPHB6,4,single-word aliases
+Melanoma,DUSP6,18,single-word aliases
+Melanoma,AKT3,32,single-word aliases
+Melanoma,CDK6,53,single-word aliases
+Melanoma,PTPN11,25,single-word aliases
+Melanoma,ATF3,21,single-word aliases
+Melanoma,EZH2,94,single-word aliases
+Melanoma,TERF1,9,single-word aliases
+Melanoma,NFKB1,39,single-word aliases
+Melanoma,RRAS,1,single-word aliases
+Melanoma,F3,17,single-word aliases
+Melanoma,TPP1,3,single-word aliases
+Melanoma,ING1,13,single-word aliases
+Melanoma,BCL2,151,single-word aliases
+Melanoma,MBD4,14,single-word aliases
+Melanoma,CTCF,8,single-word aliases
+Melanoma,BCL2L11,14,single-word aliases
+Melanoma,TINF2,4,single-word aliases
+Melanoma,XPC,28,single-word aliases
+Melanoma,PAM,88,single-word aliases
+Melanoma,HSP90AA1,113,single-word aliases
+Melanoma,RREB1,45,single-word aliases
+Melanoma,EP300,40,single-word aliases
+Melanoma,FAT1,6,single-word aliases
+Melanoma,JUN,39,single-word aliases
+Melanoma,IL2,98,single-word aliases
+Melanoma,EPHA3,10,single-word aliases
+Melanoma,NEUROD1,13,single-word aliases
+Melanoma,FGFR3,13,single-word aliases
+Melanoma,CGA,12,single-word aliases
+Melanoma,EGF,102,single-word aliases
+Melanoma,JAK1,37,single-word aliases
+Melanoma,AURKA,27,single-word aliases
+Melanoma,ROS1,32,single-word aliases
+Melanoma,ATF1,21,single-word aliases
+Melanoma,RHO,161,single-word aliases
+Melanoma,JAK2,54,single-word aliases
+Melanoma,B2M,32,single-word aliases
+Melanoma,EGR3,374,single-word aliases
+Melanoma,PRKAR1A,16,single-word aliases
+Melanoma,FGFR1,21,single-word aliases
+Melanoma,SP1,54,single-word aliases
+Melanoma,MYB,37,single-word aliases
+Melanoma,PARP1,349,single-word aliases
+Melanoma,FAS,208,single-word aliases
+Melanoma,RET,101,single-word aliases
+Melanoma,CLOCK,69,single-word aliases
+Melanoma,SLN,955,single-word aliases
+Melanoma,MGMT,80,single-word aliases
+Melanoma,TYR,1831,single-word aliases
+Melanoma,REST,142,single-word aliases
+Melanoma,SRC,197,single-word aliases
+Melanoma,CD4,1796,single-word aliases
+Melanoma,CD244,291,single-word aliases
+Melanoma,HLA-A,293,phrase text scan
+Bladder Cancer,FGFR3,588,single-word aliases
+Bladder Cancer,TP53,428,single-word aliases
+Bladder Cancer,TERT,170,single-word aliases
+Bladder Cancer,PIK3CA,452,single-word aliases
+Bladder Cancer,CD274,62,single-word aliases
+Bladder Cancer,RB1,154,single-word aliases
+Bladder Cancer,KRAS,77,single-word aliases
+Bladder Cancer,ERBB2,360,single-word aliases
+Bladder Cancer,EGFR,407,single-word aliases
+Bladder Cancer,ARID1A,73,single-word aliases
+Bladder Cancer,HRAS,80,single-word aliases
+Bladder Cancer,KDM6A,66,single-word aliases
+Bladder Cancer,BRAF,49,single-word aliases
+Bladder Cancer,CDKN2A,148,single-word aliases
+Bladder Cancer,KMT2D,40,single-word aliases
+Bladder Cancer,ERCC2,59,single-word aliases
+Bladder Cancer,PDCD1,14,single-word aliases
+Bladder Cancer,NRAS,25,single-word aliases
+Bladder Cancer,PTEN,189,single-word aliases
+Bladder Cancer,TSC1,45,single-word aliases
+Bladder Cancer,APC,68,single-word aliases
+Bladder Cancer,MSH2,63,single-word aliases
+Bladder Cancer,FGFR1,46,single-word aliases
+Bladder Cancer,KIT,162,single-word aliases
+Bladder Cancer,MKI67,16,single-word aliases
+Bladder Cancer,EP300,29,single-word aliases
+Bladder Cancer,ATM,62,single-word aliases
+Bladder Cancer,MLH1,58,single-word aliases
+Bladder Cancer,MDM2,91,single-word aliases
+Bladder Cancer,MTOR,303,single-word aliases
+Bladder Cancer,FGFR2,51,single-word aliases
+Bladder Cancer,CDKN1A,105,single-word aliases
+Bladder Cancer,MTUS1,276,single-word aliases
+Bladder Cancer,CTNNB1,21,single-word aliases
+Bladder Cancer,BRCA2,35,single-word aliases
+Bladder Cancer,STAG2,32,single-word aliases
+Bladder Cancer,KRT20,258,single-word aliases
+Bladder Cancer,CREBBP,15,single-word aliases
+Bladder Cancer,ERBB3,38,single-word aliases
+Bladder Cancer,MSH6,34,single-word aliases
+Bladder Cancer,TACC3,13,single-word aliases
+Bladder Cancer,BRCA1,46,single-word aliases
+Bladder Cancer,SDHB,14,single-word aliases
+Bladder Cancer,CHEK2,28,single-word aliases
+Bladder Cancer,AKT1,37,single-word aliases
+Bladder Cancer,CCND1,63,single-word aliases
+Bladder Cancer,KMT2C,12,single-word aliases
+Bladder Cancer,CTLA4,41,single-word aliases
+Bladder Cancer,TSC2,10,single-word aliases
+Bladder Cancer,TTN,8,single-word aliases
+Bladder Cancer,IFNG,9,single-word aliases
+Bladder Cancer,FANCC,13,single-word aliases
+Bladder Cancer,PMS2,24,single-word aliases
+Bladder Cancer,MYC,81,single-word aliases
+Bladder Cancer,CDKN1B,60,single-word aliases
+Bladder Cancer,MUC16,22,single-word aliases
+Bladder Cancer,CDKN2B,21,single-word aliases
+Bladder Cancer,SMARCA4,11,single-word aliases
+Bladder Cancer,VHL,23,single-word aliases
+Bladder Cancer,APOB,3,single-word aliases
+Bladder Cancer,ADGRG6,3,single-word aliases
+Bladder Cancer,RET,12,single-word aliases
+Bladder Cancer,GATA3,205,single-word aliases
+Bladder Cancer,MAPK3,82,single-word aliases
+Bladder Cancer,MET,540,single-word aliases
+Bladder Cancer,CASP8,7,single-word aliases
+Bladder Cancer,RXRA,13,single-word aliases
+Bladder Cancer,POLE,7,single-word aliases
+Bladder Cancer,SMAD4,13,single-word aliases
+Bladder Cancer,SDHA,7,single-word aliases
+Bladder Cancer,VIM,244,single-word aliases
+Bladder Cancer,KMT2B,8,single-word aliases
+Bladder Cancer,REST,81,single-word aliases
+Bladder Cancer,CCNE1,24,single-word aliases
+Bladder Cancer,CD4,259,single-word aliases
+Bladder Cancer,PRKDC,11,single-word aliases
+Bladder Cancer,E2F3,35,single-word aliases
+Bladder Cancer,PPARG,52,single-word aliases
+Bladder Cancer,HAVCR2,19,single-word aliases
+Bladder Cancer,GNAS,5,single-word aliases
+Bladder Cancer,MUC4,7,single-word aliases
+Bladder Cancer,ALK,43,single-word aliases
+Bladder Cancer,NMI,39,single-word aliases
+Bladder Cancer,MSH3,15,single-word aliases
+Bladder Cancer,FAT1,8,single-word aliases
+Bladder Cancer,FRS2,7,single-word aliases
+Bladder Cancer,STK11,10,single-word aliases
+Bladder Cancer,NCAM1,70,single-word aliases
+Bladder Cancer,PIK3R1,9,single-word aliases
+Bladder Cancer,NF1,21,single-word aliases
+Bladder Cancer,PALB2,3,single-word aliases
+Bladder Cancer,RHOB,7,single-word aliases
+Bladder Cancer,BCL2,70,single-word aliases
+Bladder Cancer,XIRP2,2,single-word aliases
+Bladder Cancer,SDHD,4,single-word aliases
+Bladder Cancer,EGF,66,single-word aliases
+Bladder Cancer,PDGFRA,25,single-word aliases
+Bladder Cancer,YY1,42,single-word aliases
+Bladder Cancer,PTGER2,1,single-word aliases
+Bladder Cancer,FAS,84,single-word aliases
+Bladder Cancer,GADD45A,9,single-word aliases
+Bladder Cancer,CDH1,34,single-word aliases
+Bladder Cancer,FAT4,4,single-word aliases
+Bladder Cancer,XRCC1,53,single-word aliases
+Bladder Cancer,BAP1,5,single-word aliases
+Bladder Cancer,RAF1,10,single-word aliases
+Bladder Cancer,MAP2K1,17,single-word aliases
+Bladder Cancer,LAG3,16,single-word aliases
+Bladder Cancer,EZH2,78,single-word aliases
+Bladder Cancer,FGFR4,6,single-word aliases
+Bladder Cancer,CXCL13,10,single-word aliases
+Bladder Cancer,TIGIT,19,single-word aliases
+Bladder Cancer,NFE2L2,53,single-word aliases
+Bladder Cancer,ARNT,5,single-word aliases
+Bladder Cancer,SYNE2,3,single-word aliases
+Bladder Cancer,IRF1,4,single-word aliases
+Bladder Cancer,ONECUT2,9,single-word aliases
+Bladder Cancer,SEPTIN9,2,single-word aliases
+Bladder Cancer,ELF3,8,single-word aliases
+Bladder Cancer,SMARCB1,10,single-word aliases
+Bladder Cancer,MT-CYB,2,single-word aliases
+Bladder Cancer,FGF3,3,single-word aliases
+Bladder Cancer,NCOR1,9,single-word aliases
+Bladder Cancer,SDHC,2,single-word aliases
+Bladder Cancer,AHR,55,single-word aliases
+Bladder Cancer,HDAC9,54,single-word aliases
+Bladder Cancer,PI3,10,single-word aliases
+Bladder Cancer,MUTYH,7,single-word aliases
+Bladder Cancer,HS3ST2,3,single-word aliases
+Bladder Cancer,BCL6,5,single-word aliases
+Bladder Cancer,CD276,13,single-word aliases
+Bladder Cancer,FOXA1,41,single-word aliases
+Bladder Cancer,LEPROTL1,2,single-word aliases
+Bladder Cancer,B2M,7,single-word aliases
+Bladder Cancer,TNFRSF10B,134,single-word aliases
+Bladder Cancer,SERTAD1,2,single-word aliases
+Bladder Cancer,RHOBTB2,2,single-word aliases
+Bladder Cancer,CHEK1,19,single-word aliases
+Bladder Cancer,RBM10,2,single-word aliases
+Bladder Cancer,FH,9,single-word aliases
+Bladder Cancer,NSD1,4,single-word aliases
+Bladder Cancer,GAA,2,single-word aliases
+Bladder Cancer,RYR2,2,single-word aliases
+Bladder Cancer,NTRK3,3,single-word aliases
+Bladder Cancer,ARID1B,4,single-word aliases
+Bladder Cancer,CD44,186,single-word aliases
+Bladder Cancer,AR,131,single-word aliases
+Bladder Cancer,RHEB,3,single-word aliases
+Bladder Cancer,BUB1,9,single-word aliases
+Bladder Cancer,CDK12,4,single-word aliases
+Bladder Cancer,KRT5,33,single-word aliases
+Bladder Cancer,ITGB3,5,single-word aliases
+Bladder Cancer,MTAP,16,single-word aliases
+Bladder Cancer,SETD2,5,single-word aliases
+Bladder Cancer,MXI1,3,single-word aliases
+Bladder Cancer,AHNAK,19,single-word aliases
+Bladder Cancer,GCG,5,single-word aliases
+Bladder Cancer,MAF,6,single-word aliases
+Bladder Cancer,EML4,1,single-word aliases
+Bladder Cancer,PLEKHS1,4,single-word aliases
+Bladder Cancer,AMACR,334,single-word aliases
+Bladder Cancer,APOBEC3B,11,single-word aliases
+Bladder Cancer,IL6,32,single-word aliases
+Bladder Cancer,ANK3,2,single-word aliases
+Bladder Cancer,SLIT2,9,single-word aliases
+Bladder Cancer,C3ORF70,2,single-word aliases
+Bladder Cancer,NR4A3,281,single-word aliases
+Bladder Cancer,XPC,43,single-word aliases
+Bladder Cancer,NQO1,49,single-word aliases
+Bladder Cancer,SMS,7,single-word aliases
+Bladder Cancer,SOX4,15,single-word aliases
+Bladder Cancer,DICER1,16,single-word aliases
+Bladder Cancer,MAPK1,18,single-word aliases
+Bladder Cancer,F3,3,single-word aliases
+Bladder Cancer,UPK2,33,single-word aliases
+Bladder Cancer,SF3B1,4,single-word aliases
+Bladder Cancer,OTX1,8,single-word aliases
+Bladder Cancer,PMS1,4,single-word aliases
+Bladder Cancer,NECTIN4,31,single-word aliases
+Bladder Cancer,ATP7B,4,single-word aliases
+Bladder Cancer,LRP1,7,single-word aliases
+Bladder Cancer,FASLG,33,single-word aliases
+Bladder Cancer,EPCAM,34,single-word aliases
+Bladder Cancer,BCL2L1,7,single-word aliases
+Bladder Cancer,XRCC3,27,single-word aliases
+Bladder Cancer,KDR,53,single-word aliases
+Bladder Cancer,PARP1,117,single-word aliases
+Bladder Cancer,TGFBR2,5,single-word aliases
+Bladder Cancer,THORLNC,10,single-word aliases
+Bladder Cancer,XPA,6,single-word aliases
+Bladder Cancer,TWIST1,49,single-word aliases
+Bladder Cancer,BAX,242,single-word aliases
+Bladder Cancer,PBRM1,7,single-word aliases
+Bladder Cancer,SRC,76,single-word aliases
+Bladder Cancer,OGG1,29,single-word aliases
+Bladder Cancer,FOXP3,80,single-word aliases
+Bladder Cancer,ESR1,18,single-word aliases
+Bladder Cancer,POU4F2,9,single-word aliases
+Bladder Cancer,MRE11,20,single-word aliases
+Bladder Cancer,IGFBP3,7,single-word aliases
+Bladder Cancer,IDO1,25,single-word aliases
+Bladder Cancer,ACTA2,13,single-word aliases
+Bladder Cancer,ERCC1,26,single-word aliases
+Bladder Cancer,ICAM1,13,single-word aliases
+Bladder Cancer,PAH,19,single-word aliases
+Bladder Cancer,FBXW7,14,single-word aliases
+Bladder Cancer,NAT2,118,single-word aliases
+Bladder Cancer,SDC1,47,single-word aliases
+Bladder Cancer,FN1,25,single-word aliases
+Bladder Cancer,GSTM1,125,single-word aliases
+Bladder Cancer,CYP1A1,25,single-word aliases
+Bladder Cancer,CD24,25,single-word aliases
+Bladder Cancer,MUC2,14,single-word aliases
+Bladder Cancer,SIRT1,19,single-word aliases
+Bladder Cancer,AXL,16,single-word aliases
+Bladder Cancer,RUNX3,24,single-word aliases
+Bladder Cancer,HIF1A,27,single-word aliases
+Bladder Cancer,HDAC1,17,single-word aliases
+Bladder Cancer,ZNF746,103,single-word aliases
+Bladder Cancer,SHE,196,single-word aliases
+Bladder Cancer,CAT,46,single-word aliases
+Bladder Cancer,C3,20,single-word aliases
+Bladder Cancer,STAT1,25,single-word aliases
+Bladder Cancer,INS,67,single-word aliases
+Bladder Cancer,GSTP1,66,single-word aliases
+Bladder Cancer,TNF,165,single-word aliases
+Bladder Cancer,TF,36,single-word aliases
+Bladder Cancer,TP63,26,single-word aliases
+Bladder Cancer,FOXD3,48,single-word aliases
+Bladder Cancer,DES,66,single-word aliases
+Bladder Cancer,CDK2,42,single-word aliases
+Bladder Cancer,CDK6,39,single-word aliases
+Bladder Cancer,PSCA,35,single-word aliases
+Bladder Cancer,CDX2,36,single-word aliases
+Bladder Cancer,STAT3,177,single-word aliases
+Bladder Cancer,GSTT1,90,single-word aliases
+Bladder Cancer,CD34,50,single-word aliases
+Bladder Cancer,RHO,51,single-word aliases
+Bladder Cancer,NODAL,522,single-word aliases
+Bladder Cancer,ZEB1,53,single-word aliases
+Bladder Cancer,CDK4,87,single-word aliases
+Bladder Cancer,ALB,173,single-word aliases
+Bladder Cancer,NDE1,419,single-word aliases
+Bladder Cancer,BIRC5,229,single-word aliases
+Bladder Cancer,HLA-A,14,phrase text scan
+Kidney Cancer,VHL,1528,single-word aliases
+Kidney Cancer,WT1,553,single-word aliases
+Kidney Cancer,PBRM1,259,single-word aliases
+Kidney Cancer,BAP1,241,single-word aliases
+Kidney Cancer,FH,274,single-word aliases
+Kidney Cancer,SETD2,198,single-word aliases
+Kidney Cancer,FLCN,178,single-word aliases
+Kidney Cancer,TSC2,279,single-word aliases
+Kidney Cancer,TP53,234,single-word aliases
+Kidney Cancer,CTNNB1,69,single-word aliases
+Kidney Cancer,KDM5C,58,single-word aliases
+Kidney Cancer,PIK3CA,413,single-word aliases
+Kidney Cancer,TSC1,213,single-word aliases
+Kidney Cancer,PTEN,233,single-word aliases
+Kidney Cancer,SDHB,110,single-word aliases
+Kidney Cancer,MTOR,1127,single-word aliases
+Kidney Cancer,DICER1,60,single-word aliases
+Kidney Cancer,BRAF,62,single-word aliases
+Kidney Cancer,BRCA1,45,single-word aliases
+Kidney Cancer,MET,800,single-word aliases
+Kidney Cancer,CD274,56,single-word aliases
+Kidney Cancer,KRAS,70,single-word aliases
+Kidney Cancer,ELOC,25,single-word aliases
+Kidney Cancer,BRAP,1,single-word aliases
+Kidney Cancer,HIF1A,171,single-word aliases
+Kidney Cancer,AMACR,597,single-word aliases
+Kidney Cancer,KIT,293,single-word aliases
+Kidney Cancer,DROSHA,20,single-word aliases
+Kidney Cancer,TERT,49,single-word aliases
+Kidney Cancer,FGFR3,42,single-word aliases
+Kidney Cancer,VIM,642,single-word aliases
+Kidney Cancer,MLH1,34,single-word aliases
+Kidney Cancer,MSH2,43,single-word aliases
+Kidney Cancer,PAX6,95,single-word aliases
+Kidney Cancer,PRCC,607,single-word aliases
+Kidney Cancer,DGCR8,14,single-word aliases
+Kidney Cancer,ATM,38,single-word aliases
+Kidney Cancer,SMARCB1,125,single-word aliases
+Kidney Cancer,CDKN2A,109,single-word aliases
+Kidney Cancer,CHEK2,35,single-word aliases
+Kidney Cancer,CA9,363,single-word aliases
+Kidney Cancer,RB1,36,single-word aliases
+Kidney Cancer,BRCA2,40,single-word aliases
+Kidney Cancer,SDHA,32,single-word aliases
+Kidney Cancer,GPNMB,47,single-word aliases
+Kidney Cancer,NF2,55,single-word aliases
+Kidney Cancer,IGF2,72,single-word aliases
+Kidney Cancer,SDHC,21,single-word aliases
+Kidney Cancer,SDHD,27,single-word aliases
+Kidney Cancer,TFE3,451,single-word aliases
+Kidney Cancer,PAX8,245,single-word aliases
+Kidney Cancer,ARID1A,35,single-word aliases
+Kidney Cancer,GATA3,85,single-word aliases
+Kidney Cancer,TFEB,157,single-word aliases
+Kidney Cancer,SMAD4,24,single-word aliases
+Kidney Cancer,PDCD1,34,single-word aliases
+Kidney Cancer,MSH6,25,single-word aliases
+Kidney Cancer,PMS2,31,single-word aliases
+Kidney Cancer,SIX2,20,single-word aliases
+Kidney Cancer,SMARCA4,34,single-word aliases
+Kidney Cancer,NRAS,13,single-word aliases
+Kidney Cancer,IL2,33,single-word aliases
+Kidney Cancer,NFE2L2,57,single-word aliases
+Kidney Cancer,TNFRSF11A,330,single-word aliases
+Kidney Cancer,MKI67,7,single-word aliases
+Kidney Cancer,KDR,392,single-word aliases
+Kidney Cancer,SIX1,16,single-word aliases
+Kidney Cancer,KRT20,87,single-word aliases
+Kidney Cancer,MME,388,single-word aliases
+Kidney Cancer,APC,86,single-word aliases
+Kidney Cancer,MTUS1,419,single-word aliases
+Kidney Cancer,RHEB,15,single-word aliases
+Kidney Cancer,MYC,95,single-word aliases
+Kidney Cancer,HNF1B,20,single-word aliases
+Kidney Cancer,PMEL,136,single-word aliases
+Kidney Cancer,DIS3L2,20,single-word aliases
+Kidney Cancer,CTSK,2,single-word aliases
+Kidney Cancer,JAK3,17,single-word aliases
+Kidney Cancer,MLANA,2,single-word aliases
+Kidney Cancer,EGFR,980,single-word aliases
+Kidney Cancer,ASXL1,13,single-word aliases
+Kidney Cancer,HRAS,14,single-word aliases
+Kidney Cancer,NF1,22,single-word aliases
+Kidney Cancer,SHE,524,single-word aliases
+Kidney Cancer,GABPA,54,single-word aliases
+Kidney Cancer,TRIM28,20,single-word aliases
+Kidney Cancer,KDM6A,20,single-word aliases
+Kidney Cancer,MYCN,38,single-word aliases
+Kidney Cancer,HGF,77,single-word aliases
+Kidney Cancer,KRT7,18,single-word aliases
+Kidney Cancer,CUL3,6,single-word aliases
+Kidney Cancer,SYNE1,7,single-word aliases
+Kidney Cancer,ALK,86,single-word aliases
+Kidney Cancer,PDGFRA,19,single-word aliases
+Kidney Cancer,EPO,80,single-word aliases
+Kidney Cancer,PTPN11,7,single-word aliases
+Kidney Cancer,EPAS1,49,single-word aliases
+Kidney Cancer,FBXW7,25,single-word aliases
+Kidney Cancer,STK11,11,single-word aliases
+Kidney Cancer,EIF1AX,2,single-word aliases
+Kidney Cancer,CUL2,5,single-word aliases
+Kidney Cancer,ERBB2,87,single-word aliases
+Kidney Cancer,NPM1,5,single-word aliases
+Kidney Cancer,KMT2D,7,single-word aliases
+Kidney Cancer,GTF2I,39,single-word aliases
+Kidney Cancer,IDH2,8,single-word aliases
+Kidney Cancer,EIF4EBP1,7,single-word aliases
+Kidney Cancer,FAM3B,1,single-word aliases
+Kidney Cancer,H19,41,single-word aliases
+Kidney Cancer,GZMB,22,single-word aliases
+Kidney Cancer,TARBP2,3,single-word aliases
+Kidney Cancer,KEAP1,14,single-word aliases
+Kidney Cancer,FGFR2,15,single-word aliases
+Kidney Cancer,BCL2,78,single-word aliases
+Kidney Cancer,NPHS2,7,single-word aliases
+Kidney Cancer,RET,36,single-word aliases
+Kidney Cancer,FGFR4,6,single-word aliases
+Kidney Cancer,TMEM127,7,single-word aliases
+Kidney Cancer,PPP2R1A,3,single-word aliases
+Kidney Cancer,L1CAM,19,single-word aliases
+Kidney Cancer,CCND2,12,single-word aliases
+Kidney Cancer,CDC73,15,single-word aliases
+Kidney Cancer,REST,198,single-word aliases
+Kidney Cancer,MEOX2,4,single-word aliases
+Kidney Cancer,KMT2C,12,single-word aliases
+Kidney Cancer,AKT1S1,109,single-word aliases
+Kidney Cancer,KCNQ1OT1,11,single-word aliases
+Kidney Cancer,MAP2K1,21,single-word aliases
+Kidney Cancer,MUTYH,11,single-word aliases
+Kidney Cancer,ATRX,10,single-word aliases
+Kidney Cancer,FAM3A,1,single-word aliases
+Kidney Cancer,BUB1,12,single-word aliases
+Kidney Cancer,GPT,9,single-word aliases
+Kidney Cancer,WT1-AS,0,single-word aliases
+Kidney Cancer,SFRP4,4,single-word aliases
+Kidney Cancer,WIF1,4,single-word aliases
+Kidney Cancer,YY1,51,single-word aliases
+Kidney Cancer,DAXX,4,single-word aliases
+Kidney Cancer,MEST,38,single-word aliases
+Kidney Cancer,SMARCA2,10,single-word aliases
+Kidney Cancer,PKD2,6,single-word aliases
+Kidney Cancer,DEPTOR,4,single-word aliases
+Kidney Cancer,VEGFA,97,single-word aliases
+Kidney Cancer,BCR,13,single-word aliases
+Kidney Cancer,FLT1,51,single-word aliases
+Kidney Cancer,HNF1A,13,single-word aliases
+Kidney Cancer,EGR3,194,single-word aliases
+Kidney Cancer,CTR9,5,single-word aliases
+Kidney Cancer,PRKDC,3,single-word aliases
+Kidney Cancer,EGLN3,31,single-word aliases
+Kidney Cancer,CCND1,70,single-word aliases
+Kidney Cancer,MDM2,80,single-word aliases
+Kidney Cancer,TAT,7,single-word aliases
+Kidney Cancer,ATR,12,single-word aliases
+Kidney Cancer,PAEP,2,single-word aliases
+Kidney Cancer,CD2AP,4,single-word aliases
+Kidney Cancer,MITF,82,single-word aliases
+Kidney Cancer,RICTOR,13,single-word aliases
+Kidney Cancer,FATE1,55,single-word aliases
+Kidney Cancer,GPC3,18,single-word aliases
+Kidney Cancer,TRIP13,7,single-word aliases
+Kidney Cancer,BMF,5,single-word aliases
+Kidney Cancer,NCAM1,132,single-word aliases
+Kidney Cancer,CCK,2,single-word aliases
+Kidney Cancer,CDKN2B,14,single-word aliases
+Kidney Cancer,TJP1,1,single-word aliases
+Kidney Cancer,TACC3,2,single-word aliases
+Kidney Cancer,DDR2,2,single-word aliases
+Kidney Cancer,CD163,45,single-word aliases
+Kidney Cancer,FOXD1,5,single-word aliases
+Kidney Cancer,NPHS1,3,single-word aliases
+Kidney Cancer,APOBEC3B,4,single-word aliases
+Kidney Cancer,PAX2,72,single-word aliases
+Kidney Cancer,PIK3CG,3,single-word aliases
+Kidney Cancer,POLE,454,single-word aliases
+Kidney Cancer,TET2,8,single-word aliases
+Kidney Cancer,IL20RB,10,single-word aliases
+Kidney Cancer,FANCD2,7,single-word aliases
+Kidney Cancer,TTN,7,single-word aliases
+Kidney Cancer,EGF,56,single-word aliases
+Kidney Cancer,EPCAM,41,single-word aliases
+Kidney Cancer,PGLS,8,single-word aliases
+Kidney Cancer,MUC16,16,single-word aliases
+Kidney Cancer,NTRK3,16,single-word aliases
+Kidney Cancer,LCN2,22,single-word aliases
+Kidney Cancer,CHL1,43,single-word aliases
+Kidney Cancer,FOXI1,12,single-word aliases
+Kidney Cancer,NQO1,10,single-word aliases
+Kidney Cancer,CD68,87,single-word aliases
+Kidney Cancer,PTCH1,10,single-word aliases
+Kidney Cancer,BUB1B,14,single-word aliases
+Kidney Cancer,LINC00460,11,single-word aliases
+Kidney Cancer,FABP7,11,single-word aliases
+Kidney Cancer,PRKAA2,74,single-word aliases
+Kidney Cancer,CDKN1A,67,single-word aliases
+Kidney Cancer,GSTP1,23,single-word aliases
+Kidney Cancer,SLC49A4,58,single-word aliases
+Kidney Cancer,CGA,20,single-word aliases
+Kidney Cancer,GPX4,36,single-word aliases
+Kidney Cancer,BIRC5,133,single-word aliases
+Kidney Cancer,FOXP3,104,single-word aliases
+Kidney Cancer,MAPK3,85,single-word aliases
+Kidney Cancer,AR,97,single-word aliases
+Kidney Cancer,TNF,166,single-word aliases
+Kidney Cancer,WASF1,39,single-word aliases
+Kidney Cancer,AXL,70,single-word aliases
+Kidney Cancer,DES,151,single-word aliases
+Kidney Cancer,SRMS,277,single-word aliases
+Kidney Cancer,CDH1,29,single-word aliases
+Kidney Cancer,BCOR,36,single-word aliases
+Kidney Cancer,TIGIT,35,single-word aliases
+Kidney Cancer,LAG3,39,single-word aliases
+Kidney Cancer,COIL,36,single-word aliases
+Kidney Cancer,NDE1,432,single-word aliases
+Kidney Cancer,EZH2,59,single-word aliases
+Kidney Cancer,CTLA4,61,single-word aliases
+Kidney Cancer,INS,103,single-word aliases
+Kidney Cancer,CD99,77,single-word aliases
+Kidney Cancer,BAX,171,single-word aliases
+Kidney Cancer,STAT3,213,single-word aliases
+Kidney Cancer,CD34,228,single-word aliases
+Pancreatic Cancer,KRAS,2530,single-word aliases
+Pancreatic Cancer,BRCA2,422,single-word aliases
+Pancreatic Cancer,CDKN2A,595,single-word aliases
+Pancreatic Cancer,TP53,717,single-word aliases
+Pancreatic Cancer,BRCA1,399,single-word aliases
+Pancreatic Cancer,SMAD4,687,single-word aliases
+Pancreatic Cancer,GNAS,174,single-word aliases
+Pancreatic Cancer,PALB2,165,single-word aliases
+Pancreatic Cancer,BRAF,156,single-word aliases
+Pancreatic Cancer,MEN1,514,single-word aliases
+Pancreatic Cancer,PIK3CA,806,single-word aliases
+Pancreatic Cancer,ATM,239,single-word aliases
+Pancreatic Cancer,CTNNB1,77,single-word aliases
+Pancreatic Cancer,CHEK2,74,single-word aliases
+Pancreatic Cancer,MLH1,99,single-word aliases
+Pancreatic Cancer,EGFR,788,single-word aliases
+Pancreatic Cancer,MSH2,89,single-word aliases
+Pancreatic Cancer,RNF43,69,single-word aliases
+Pancreatic Cancer,PRSS1,59,single-word aliases
+Pancreatic Cancer,PARP1,434,single-word aliases
+Pancreatic Cancer,DAXX,141,single-word aliases
+Pancreatic Cancer,INS,1712,single-word aliases
+Pancreatic Cancer,CFTR,51,single-word aliases
+Pancreatic Cancer,APC,308,single-word aliases
+Pancreatic Cancer,ATRX,136,single-word aliases
+Pancreatic Cancer,SPINK1,61,single-word aliases
+Pancreatic Cancer,TSC2,37,single-word aliases
+Pancreatic Cancer,ARID1A,70,single-word aliases
+Pancreatic Cancer,MKI67,10,single-word aliases
+Pancreatic Cancer,ERBB2,254,single-word aliases
+Pancreatic Cancer,NRAS,34,single-word aliases
+Pancreatic Cancer,PTEN,231,single-word aliases
+Pancreatic Cancer,KIT,199,single-word aliases
+Pancreatic Cancer,CD274,50,single-word aliases
+Pancreatic Cancer,RB1,63,single-word aliases
+Pancreatic Cancer,MSH6,62,single-word aliases
+Pancreatic Cancer,MET,904,single-word aliases
+Pancreatic Cancer,STK11,79,single-word aliases
+Pancreatic Cancer,YY1,113,single-word aliases
+Pancreatic Cancer,RAD51D,10,single-word aliases
+Pancreatic Cancer,SPN,255,single-word aliases
+Pancreatic Cancer,CCND1,52,single-word aliases
+Pancreatic Cancer,VHL,168,single-word aliases
+Pancreatic Cancer,PDCD1,14,single-word aliases
+Pancreatic Cancer,MYC,244,single-word aliases
+Pancreatic Cancer,MTOR,651,single-word aliases
+Pancreatic Cancer,SCT,83,single-word aliases
+Pancreatic Cancer,AR,69,single-word aliases
+Pancreatic Cancer,HP,88,single-word aliases
+Pancreatic Cancer,SMARCB1,20,single-word aliases
+Pancreatic Cancer,PMS2,52,single-word aliases
+Pancreatic Cancer,FBXW7,33,single-word aliases
+Pancreatic Cancer,AKT1,61,single-word aliases
+Pancreatic Cancer,MUC2,153,single-word aliases
+Pancreatic Cancer,AGT,10,single-word aliases
+Pancreatic Cancer,ERBB3,67,single-word aliases
+Pancreatic Cancer,BARD1,10,single-word aliases
+Pancreatic Cancer,KDM6A,23,single-word aliases
+Pancreatic Cancer,NBN,14,single-word aliases
+Pancreatic Cancer,POLE,22,single-word aliases
+Pancreatic Cancer,KMT2D,22,single-word aliases
+Pancreatic Cancer,CDK4,136,single-word aliases
+Pancreatic Cancer,ABCC8,24,single-word aliases
+Pancreatic Cancer,MUTYH,20,single-word aliases
+Pancreatic Cancer,SPEN,77,single-word aliases
+Pancreatic Cancer,HRAS,30,single-word aliases
+Pancreatic Cancer,EGR3,314,single-word aliases
+Pancreatic Cancer,PALLD,9,single-word aliases
+Pancreatic Cancer,KDR,113,single-word aliases
+Pancreatic Cancer,ACVR1B,9,single-word aliases
+Pancreatic Cancer,ALK,35,single-word aliases
+Pancreatic Cancer,SHE,600,single-word aliases
+Pancreatic Cancer,EP300,50,single-word aliases
+Pancreatic Cancer,MAF,20,single-word aliases
+Pancreatic Cancer,TTN,8,single-word aliases
+Pancreatic Cancer,PROX1,11,single-word aliases
+Pancreatic Cancer,RET,55,single-word aliases
+Pancreatic Cancer,KLF4,49,single-word aliases
+Pancreatic Cancer,RAD51,53,single-word aliases
+Pancreatic Cancer,GCGR,13,single-word aliases
+Pancreatic Cancer,FAT4,1,single-word aliases
+Pancreatic Cancer,ACCS,39,single-word aliases
+Pancreatic Cancer,BRIP1,14,single-word aliases
+Pancreatic Cancer,MUC5AC,179,single-word aliases
+Pancreatic Cancer,PDX1,127,single-word aliases
+Pancreatic Cancer,TSC1,26,single-word aliases
+Pancreatic Cancer,RAD51C,16,single-word aliases
+Pancreatic Cancer,SF3B1,10,single-word aliases
+Pancreatic Cancer,FAM3B,4,single-word aliases
+Pancreatic Cancer,KMT2C,10,single-word aliases
+Pancreatic Cancer,JUND,13,single-word aliases
+Pancreatic Cancer,ATR,55,single-word aliases
+Pancreatic Cancer,NLRP2,7,single-word aliases
+Pancreatic Cancer,IL6,86,single-word aliases
+Pancreatic Cancer,CD4,533,single-word aliases
+Pancreatic Cancer,CDKN1A,137,single-word aliases
+Pancreatic Cancer,MAP2K1,91,single-word aliases
+Pancreatic Cancer,TGFBR2,39,single-word aliases
+Pancreatic Cancer,CTRC,9,single-word aliases
+Pancreatic Cancer,NR4A3,437,single-word aliases
+Pancreatic Cancer,FAT1,5,single-word aliases
+Pancreatic Cancer,ZFHX3,2,single-word aliases
+Pancreatic Cancer,RAD50,13,single-word aliases
+Pancreatic Cancer,MUC6,82,single-word aliases
+Pancreatic Cancer,BAP1,24,single-word aliases
+Pancreatic Cancer,ERBB4,18,single-word aliases
+Pancreatic Cancer,FOXM1,63,single-word aliases
+Pancreatic Cancer,FGA,10,single-word aliases
+Pancreatic Cancer,SDHB,10,single-word aliases
+Pancreatic Cancer,MAX,188,single-word aliases
+Pancreatic Cancer,FANCA,9,single-word aliases
+Pancreatic Cancer,VEGFA,45,single-word aliases
+Pancreatic Cancer,CPA1,16,single-word aliases
+Pancreatic Cancer,RNR2,2,single-word aliases
+Pancreatic Cancer,OBSCN,3,single-word aliases
+Pancreatic Cancer,EXO1,6,single-word aliases
+Pancreatic Cancer,MIR21,3,single-word aliases
+Pancreatic Cancer,JUN,32,single-word aliases
+Pancreatic Cancer,RAF1,27,single-word aliases
+Pancreatic Cancer,GCG,310,single-word aliases
+Pancreatic Cancer,PDE6D,2,single-word aliases
+Pancreatic Cancer,CDH1,51,single-word aliases
+Pancreatic Cancer,FANCC,12,single-word aliases
+Pancreatic Cancer,SDHA,3,single-word aliases
+Pancreatic Cancer,MUC16,149,single-word aliases
+Pancreatic Cancer,CDX2,98,single-word aliases
+Pancreatic Cancer,PDGFRA,11,single-word aliases
+Pancreatic Cancer,CHL1,45,single-word aliases
+Pancreatic Cancer,CASP3,17,single-word aliases
+Pancreatic Cancer,ETV1,5,single-word aliases
+Pancreatic Cancer,BUB1B,13,single-word aliases
+Pancreatic Cancer,TERT,34,single-word aliases
+Pancreatic Cancer,FANCF,4,single-word aliases
+Pancreatic Cancer,FANCM,4,single-word aliases
+Pancreatic Cancer,GLUD1,5,single-word aliases
+Pancreatic Cancer,SPHKAP,17,single-word aliases
+Pancreatic Cancer,PRKAR1A,5,single-word aliases
+Pancreatic Cancer,CCNE1,10,single-word aliases
+Pancreatic Cancer,PIK3CG,3,single-word aliases
+Pancreatic Cancer,ROS1,8,single-word aliases
+Pancreatic Cancer,RHO,128,single-word aliases
+Pancreatic Cancer,MIA,933,single-word aliases
+Pancreatic Cancer,RBM10,4,single-word aliases
+Pancreatic Cancer,MUC1,334,single-word aliases
+Pancreatic Cancer,MAFA,19,single-word aliases
+Pancreatic Cancer,FGFR3,18,single-word aliases
+Pancreatic Cancer,NTRK3,11,single-word aliases
+Pancreatic Cancer,KCNJ11,8,single-word aliases
+Pancreatic Cancer,CCND2,6,single-word aliases
+Pancreatic Cancer,MTUS1,78,single-word aliases
+Pancreatic Cancer,DDT,11,single-word aliases
+Pancreatic Cancer,FOXE1,7,single-word aliases
+Pancreatic Cancer,MDM2,77,single-word aliases
+Pancreatic Cancer,MAPK3,286,single-word aliases
+Pancreatic Cancer,EPAS1,12,single-word aliases
+Pancreatic Cancer,REST,223,single-word aliases
+Pancreatic Cancer,CDKN1B,89,single-word aliases
+Pancreatic Cancer,DPYD,12,single-word aliases
+Pancreatic Cancer,GADD45A,28,single-word aliases
+Pancreatic Cancer,PRL,39,single-word aliases
+Pancreatic Cancer,PBRM1,19,single-word aliases
+Pancreatic Cancer,TCF4,20,single-word aliases
+Pancreatic Cancer,SOS1,17,single-word aliases
+Pancreatic Cancer,SMAD2,103,single-word aliases
+Pancreatic Cancer,NCAM1,113,single-word aliases
+Pancreatic Cancer,CDC42,43,single-word aliases
+Pancreatic Cancer,TG,54,single-word aliases
+Pancreatic Cancer,FGFR1,36,single-word aliases
+Pancreatic Cancer,KLF5,32,single-word aliases
+Pancreatic Cancer,NF1,27,single-word aliases
+Pancreatic Cancer,BAX,399,single-word aliases
+Pancreatic Cancer,SYP,244,single-word aliases
+Pancreatic Cancer,DCC,28,single-word aliases
+Pancreatic Cancer,NODAL,680,single-word aliases
+Pancreatic Cancer,CTLA4,35,single-word aliases
+Pancreatic Cancer,HIF1A,127,single-word aliases
+Pancreatic Cancer,PSMB6,74,single-word aliases
+Pancreatic Cancer,SMAD3,61,single-word aliases
+Pancreatic Cancer,VIM,495,single-word aliases
+Pancreatic Cancer,CEACAM6,41,single-word aliases
+Pancreatic Cancer,AIP,266,single-word aliases
+Pancreatic Cancer,ABO,74,single-word aliases
+Pancreatic Cancer,FAP,110,single-word aliases
+Pancreatic Cancer,CAT,123,single-word aliases
+Pancreatic Cancer,TNF,336,single-word aliases
+Pancreatic Cancer,FASTK,316,single-word aliases
+Pancreatic Cancer,FOXD3-AS1,315,single-word aliases
+Pancreatic Cancer,PTF1A,78,single-word aliases
+Pancreatic Cancer,BCL2,107,single-word aliases
+Pancreatic Cancer,ADM,187,single-word aliases
+Pancreatic Cancer,ZEB1,157,single-word aliases
+Pancreatic Cancer,SST,1236,single-word aliases
+Pancreatic Cancer,ALB,501,single-word aliases
+Pancreatic Cancer,PHGDH,245,single-word aliases
+Pancreatic Cancer,SRC,220,single-word aliases
+Pancreatic Cancer,EGF,213,single-word aliases
+Pancreatic Cancer,AMACR,413,single-word aliases
+Pancreatic Cancer,STAT3,470,single-word aliases
+Pancreatic Cancer,GEM,890,single-word aliases
+Pancreatic Cancer,HLA-A,30,phrase text scan
+Liver Cancer,KRAS,621,single-word aliases
+Liver Cancer,CTNNB1,453,single-word aliases
+Liver Cancer,TP53,797,single-word aliases
+Liver Cancer,BRAF,301,single-word aliases
+Liver Cancer,PIK3CA,1745,single-word aliases
+Liver Cancer,TERT,281,single-word aliases
+Liver Cancer,NRAS,138,single-word aliases
+Liver Cancer,EGFR,926,single-word aliases
+Liver Cancer,KIT,527,single-word aliases
+Liver Cancer,APC,392,single-word aliases
+Liver Cancer,CDKN2A,269,single-word aliases
+Liver Cancer,ERBB2,290,single-word aliases
+Liver Cancer,HNF1A,131,single-word aliases
+Liver Cancer,HFE,70,single-word aliases
+Liver Cancer,AXIN1,88,single-word aliases
+Liver Cancer,CCL14,9,single-word aliases
+Liver Cancer,ARID1A,108,single-word aliases
+Liver Cancer,NFE2L2,470,single-word aliases
+Liver Cancer,PTEN,587,single-word aliases
+Liver Cancer,BAP1,59,single-word aliases
+Liver Cancer,MKI67,28,single-word aliases
+Liver Cancer,TTR,167,single-word aliases
+Liver Cancer,FBXW7,57,single-word aliases
+Liver Cancer,PDGFRA,41,single-word aliases
+Liver Cancer,GNAQ,23,single-word aliases
+Liver Cancer,BRCA2,53,single-word aliases
+Liver Cancer,CD274,108,single-word aliases
+Liver Cancer,AKT1,145,single-word aliases
+Liver Cancer,HRAS,51,single-word aliases
+Liver Cancer,GABPA,460,single-word aliases
+Liver Cancer,ALK,52,single-word aliases
+Liver Cancer,HNF4A,183,single-word aliases
+Liver Cancer,GNA11,17,single-word aliases
+Liver Cancer,MYC,446,single-word aliases
+Liver Cancer,MET,1559,single-word aliases
+Liver Cancer,JAK1,88,single-word aliases
+Liver Cancer,IDH1,54,single-word aliases
+Liver Cancer,SMAD4,192,single-word aliases
+Liver Cancer,AFP,5460,single-word aliases
+Liver Cancer,TTN,20,single-word aliases
+Liver Cancer,INS,1080,single-word aliases
+Liver Cancer,TSC2,52,single-word aliases
+Liver Cancer,KMT2D,23,single-word aliases
+Liver Cancer,RB1,86,single-word aliases
+Liver Cancer,KEAP1,121,single-word aliases
+Liver Cancer,STK11,65,single-word aliases
+Liver Cancer,MEN1,35,single-word aliases
+Liver Cancer,PDCD1,52,single-word aliases
+Liver Cancer,SLC33A1,1,single-word aliases
+Liver Cancer,HNF1B,72,single-word aliases
+Liver Cancer,MSH2,44,single-word aliases
+Liver Cancer,GNAS,23,single-word aliases
+Liver Cancer,FASTK,678,single-word aliases
+Liver Cancer,MUC16,57,single-word aliases
+Liver Cancer,IL6ST,58,single-word aliases
+Liver Cancer,BRCA1,80,single-word aliases
+Liver Cancer,MLH1,38,single-word aliases
+Liver Cancer,ARID2,35,single-word aliases
+Liver Cancer,CCL15,14,single-word aliases
+Liver Cancer,TXNDC5,7,single-word aliases
+Liver Cancer,ALB,2331,single-word aliases
+Liver Cancer,AMACR,591,single-word aliases
+Liver Cancer,ATM,108,single-word aliases
+Liver Cancer,CASP3,69,single-word aliases
+Liver Cancer,AGT,37,single-word aliases
+Liver Cancer,BCL2,287,single-word aliases
+Liver Cancer,CCND1,146,single-word aliases
+Liver Cancer,ATRX,15,single-word aliases
+Liver Cancer,IL6,145,single-word aliases
+Liver Cancer,PHGDH,644,single-word aliases
+Liver Cancer,FAP,97,single-word aliases
+Liver Cancer,LRP1B,15,single-word aliases
+Liver Cancer,DAXX,7,single-word aliases
+Liver Cancer,EAF2,281,single-word aliases
+Liver Cancer,TSC1,44,single-word aliases
+Liver Cancer,IDH2,23,single-word aliases
+Liver Cancer,EGF,254,single-word aliases
+Liver Cancer,RPS6KA3,19,single-word aliases
+Liver Cancer,TCF4,70,single-word aliases
+Liver Cancer,APOB,95,single-word aliases
+Liver Cancer,FAM3B,1,single-word aliases
+Liver Cancer,MAP2K1,108,single-word aliases
+Liver Cancer,MTOR,1318,single-word aliases
+Liver Cancer,POLE,39,single-word aliases
+Liver Cancer,CD34,514,single-word aliases
+Liver Cancer,PBRM1,16,single-word aliases
+Liver Cancer,EGR3,460,single-word aliases
+Liver Cancer,SMARCB1,31,single-word aliases
+Liver Cancer,APOBEC3B,18,single-word aliases
+Liver Cancer,CDKN2B,47,single-word aliases
+Liver Cancer,SLX4,2,single-word aliases
+Liver Cancer,AR,320,single-word aliases
+Liver Cancer,JAK3,13,single-word aliases
+Liver Cancer,PCLO,7,single-word aliases
+Liver Cancer,SKP2,65,single-word aliases
+Liver Cancer,RET,55,single-word aliases
+Liver Cancer,TSHR,4,single-word aliases
+Liver Cancer,AXIN2,42,single-word aliases
+Liver Cancer,NR4A3,1281,single-word aliases
+Liver Cancer,ABCB11,21,single-word aliases
+Liver Cancer,VHL,52,single-word aliases
+Liver Cancer,SMO,44,single-word aliases
+Liver Cancer,IFI6,3,single-word aliases
+Liver Cancer,GPC1,142,single-word aliases
+Liver Cancer,KMT2B,28,single-word aliases
+Liver Cancer,SF3B1,13,single-word aliases
+Liver Cancer,EPAS1,7,single-word aliases
+Liver Cancer,FGFR2,64,single-word aliases
+Liver Cancer,JUN,113,single-word aliases
+Liver Cancer,NFE2,6,single-word aliases
+Liver Cancer,MSH6,24,single-word aliases
+Liver Cancer,NF1,27,single-word aliases
+Liver Cancer,CDK4,312,single-word aliases
+Liver Cancer,AKT2,60,single-word aliases
+Liver Cancer,APOBEC3A,7,single-word aliases
+Liver Cancer,CREBBP,13,single-word aliases
+Liver Cancer,NF2,22,single-word aliases
+Liver Cancer,F3,169,single-word aliases
+Liver Cancer,TGFBR2,35,single-word aliases
+Liver Cancer,CDH1,100,single-word aliases
+Liver Cancer,GNA14,11,single-word aliases
+Liver Cancer,ARID1B,10,single-word aliases
+Liver Cancer,SLC25A13,12,single-word aliases
+Liver Cancer,CASP8AP2,53,single-word aliases
+Liver Cancer,PTS,89,single-word aliases
+Liver Cancer,FH,22,single-word aliases
+Liver Cancer,E2F1,177,single-word aliases
+Liver Cancer,FRK,6,single-word aliases
+Liver Cancer,RGCC,5,single-word aliases
+Liver Cancer,KLF6,35,single-word aliases
+Liver Cancer,HJV,13,single-word aliases
+Liver Cancer,STAT3,1191,single-word aliases
+Liver Cancer,SMARCA4,44,single-word aliases
+Liver Cancer,CSF1R,19,single-word aliases
+Liver Cancer,STAR,21,single-word aliases
+Liver Cancer,LDLR,60,single-word aliases
+Liver Cancer,ATP8B1,11,single-word aliases
+Liver Cancer,HMCN1,3,single-word aliases
+Liver Cancer,MDM2,235,single-word aliases
+Liver Cancer,SRC,301,single-word aliases
+Liver Cancer,NODAL,333,single-word aliases
+Liver Cancer,EPHA5,5,single-word aliases
+Liver Cancer,EIF1AX,3,single-word aliases
+Liver Cancer,CHEK2,52,single-word aliases
+Liver Cancer,CES1,11,single-word aliases
+Liver Cancer,KDR,318,single-word aliases
+Liver Cancer,GPC3,518,single-word aliases
+Liver Cancer,JAK2,183,single-word aliases
+Liver Cancer,DPYD,15,single-word aliases
+Liver Cancer,SDHB,16,single-word aliases
+Liver Cancer,CD4,1165,single-word aliases
+Liver Cancer,CUL3,11,single-word aliases
+Liver Cancer,SPOP,12,single-word aliases
+Liver Cancer,EPPK1,3,single-word aliases
+Liver Cancer,LRPPRC,57,single-word aliases
+Liver Cancer,PAX8,14,single-word aliases
+Liver Cancer,MGA,3,single-word aliases
+Liver Cancer,FANCA,5,single-word aliases
+Liver Cancer,ABCG2,111,single-word aliases
+Liver Cancer,IDE,337,single-word aliases
+Liver Cancer,GLUL,24,single-word aliases
+Liver Cancer,FGFR4,131,single-word aliases
+Liver Cancer,TNF,1147,single-word aliases
+Liver Cancer,TG,270,single-word aliases
+Liver Cancer,KMT2C,19,single-word aliases
+Liver Cancer,ROS1,13,single-word aliases
+Liver Cancer,HMBS,10,single-word aliases
+Liver Cancer,FAH,47,single-word aliases
+Liver Cancer,SMARCA2,13,single-word aliases
+Liver Cancer,HAMP,27,single-word aliases
+Liver Cancer,IRF2,12,single-word aliases
+Liver Cancer,F2,131,single-word aliases
+Liver Cancer,MTHFR,49,single-word aliases
+Liver Cancer,ASL,25,single-word aliases
+Liver Cancer,AIP,20,single-word aliases
+Liver Cancer,TCF7L2,18,single-word aliases
+Liver Cancer,SHE,870,single-word aliases
+Liver Cancer,SOD2,77,single-word aliases
+Liver Cancer,CAT,446,single-word aliases
+Liver Cancer,CD68,241,single-word aliases
+Liver Cancer,STAT4,36,single-word aliases
+Liver Cancer,KRT19,277,single-word aliases
+Liver Cancer,MAPK3,571,single-word aliases
+Liver Cancer,TRG,45,single-word aliases
+Liver Cancer,EIF2S3,53,single-word aliases
+Liver Cancer,NQO1,128,single-word aliases
+Liver Cancer,FOXD3-AS1,677,single-word aliases
+Liver Cancer,FOXP3,280,single-word aliases
+Liver Cancer,CYP1A2,131,single-word aliases
+Liver Cancer,CXCL9,65,single-word aliases
+Liver Cancer,YY1,386,single-word aliases
+Liver Cancer,PSMB6,315,single-word aliases
+Liver Cancer,NOTCH1,191,single-word aliases
+Liver Cancer,CDKN1A,340,single-word aliases
+Liver Cancer,MIR7-3HG,2167,single-word aliases
+Liver Cancer,ESR1,87,single-word aliases
+Liver Cancer,IGF2,111,single-word aliases
+Liver Cancer,TF,293,single-word aliases
+Liver Cancer,FGF19,121,single-word aliases
+Liver Cancer,FOXD3,150,single-word aliases
+Liver Cancer,BAX,1501,single-word aliases
+Liver Cancer,NCAM1,228,single-word aliases
+Liver Cancer,CCL2,146,single-word aliases
+Liver Cancer,SMAD3,159,single-word aliases
+Liver Cancer,BAD,217,single-word aliases
+Liver Cancer,SPP1,170,single-word aliases
+Liver Cancer,PARP1,490,single-word aliases
+Liver Cancer,PARTICL,673,single-word aliases
+Liver Cancer,SP1,231,single-word aliases
+Liver Cancer,VIM,843,single-word aliases
+Liver Cancer,TNFRSF10B,917,single-word aliases
+Liver Cancer,HGF,408,single-word aliases
+Liver Cancer,SNAI1,477,single-word aliases
+Liver Cancer,AKT1S1,1996,single-word aliases
+Liver Cancer,PCNA,498,single-word aliases
+Liver Cancer,MTUS1,688,single-word aliases
+Liver Cancer,MTUS2,688,single-word aliases
+Stomach Cancer,CDH1,616,single-word aliases
+Stomach Cancer,TP53,508,single-word aliases
+Stomach Cancer,PIK3CA,1132,single-word aliases
+Stomach Cancer,KRAS,275,single-word aliases
+Stomach Cancer,CTNNB1,87,single-word aliases
+Stomach Cancer,EGFR,648,single-word aliases
+Stomach Cancer,KIT,508,single-word aliases
+Stomach Cancer,BRAF,95,single-word aliases
+Stomach Cancer,APC,364,single-word aliases
+Stomach Cancer,BRCA2,80,single-word aliases
+Stomach Cancer,PDGFRA,91,single-word aliases
+Stomach Cancer,ERBB2,1644,single-word aliases
+Stomach Cancer,ARID1A,178,single-word aliases
+Stomach Cancer,PTEN,347,single-word aliases
+Stomach Cancer,MLH1,187,single-word aliases
+Stomach Cancer,CD274,82,single-word aliases
+Stomach Cancer,BRCA1,103,single-word aliases
+Stomach Cancer,ATM,123,single-word aliases
+Stomach Cancer,MSH2,126,single-word aliases
+Stomach Cancer,RHOA,144,single-word aliases
+Stomach Cancer,STK11,44,single-word aliases
+Stomach Cancer,LRP1B,30,single-word aliases
+Stomach Cancer,MKI67,8,single-word aliases
+Stomach Cancer,MUC16,118,single-word aliases
+Stomach Cancer,MET,934,single-word aliases
+Stomach Cancer,RAD50,9,single-word aliases
+Stomach Cancer,BLM,9,single-word aliases
+Stomach Cancer,BCL2,183,single-word aliases
+Stomach Cancer,GNAS,27,single-word aliases
+Stomach Cancer,NBN,10,single-word aliases
+Stomach Cancer,KMT2D,20,single-word aliases
+Stomach Cancer,ERBB3,92,single-word aliases
+Stomach Cancer,SMAD4,126,single-word aliases
+Stomach Cancer,PALB2,19,single-word aliases
+Stomach Cancer,MUC6,218,single-word aliases
+Stomach Cancer,PDCD1,23,single-word aliases
+Stomach Cancer,CTNNA1,42,single-word aliases
+Stomach Cancer,KMT2C,18,single-word aliases
+Stomach Cancer,BRIP1,11,single-word aliases
+Stomach Cancer,CHEK2,41,single-word aliases
+Stomach Cancer,MTUS2,279,single-word aliases
+Stomach Cancer,RNF43,24,single-word aliases
+Stomach Cancer,PARP1,292,single-word aliases
+Stomach Cancer,TTN,14,single-word aliases
+Stomach Cancer,SDHB,27,single-word aliases
+Stomach Cancer,FGFR2,183,single-word aliases
+Stomach Cancer,FAP,113,single-word aliases
+Stomach Cancer,CDKN2A,179,single-word aliases
+Stomach Cancer,RAD51C,9,single-word aliases
+Stomach Cancer,SMARCB1,20,single-word aliases
+Stomach Cancer,TNFRSF11A,289,single-word aliases
+Stomach Cancer,RB1,39,single-word aliases
+Stomach Cancer,RHO,113,single-word aliases
+Stomach Cancer,NDUFS7,1,single-word aliases
+Stomach Cancer,MAP2K1,59,single-word aliases
+Stomach Cancer,FAT4,21,single-word aliases
+Stomach Cancer,POLE,26,single-word aliases
+Stomach Cancer,CCS,18,single-word aliases
+Stomach Cancer,ARID2,7,single-word aliases
+Stomach Cancer,FAS,149,single-word aliases
+Stomach Cancer,MEN1,53,single-word aliases
+Stomach Cancer,KMT2B,10,single-word aliases
+Stomach Cancer,ATR,33,single-word aliases
+Stomach Cancer,NLRP2,10,single-word aliases
+Stomach Cancer,MYC,184,single-word aliases
+Stomach Cancer,EP300,42,single-word aliases
+Stomach Cancer,FBXW7,44,single-word aliases
+Stomach Cancer,CCNE1,53,single-word aliases
+Stomach Cancer,ERBB4,36,single-word aliases
+Stomach Cancer,CD34,282,single-word aliases
+Stomach Cancer,MUTYH,13,single-word aliases
+Stomach Cancer,BCOR,7,single-word aliases
+Stomach Cancer,MTOR,580,single-word aliases
+Stomach Cancer,BAX,837,single-word aliases
+Stomach Cancer,MSH6,75,single-word aliases
+Stomach Cancer,BUB1,10,single-word aliases
+Stomach Cancer,RAD51,37,single-word aliases
+Stomach Cancer,SMARCA4,36,single-word aliases
+Stomach Cancer,NRAS,12,single-word aliases
+Stomach Cancer,FAM3B,4,single-word aliases
+Stomach Cancer,ATRX,15,single-word aliases
+Stomach Cancer,RASA1,10,single-word aliases
+Stomach Cancer,VHL,25,single-word aliases
+Stomach Cancer,BMPR1A,13,single-word aliases
+Stomach Cancer,NF1,31,single-word aliases
+Stomach Cancer,TET2,17,single-word aliases
+Stomach Cancer,FGFR3,11,single-word aliases
+Stomach Cancer,AXIN2,20,single-word aliases
+Stomach Cancer,EGF,150,single-word aliases
+Stomach Cancer,KDM6A,10,single-word aliases
+Stomach Cancer,MDM2,123,single-word aliases
+Stomach Cancer,CASP8,23,single-word aliases
+Stomach Cancer,POLB,4,single-word aliases
+Stomach Cancer,KMT2A,13,single-word aliases
+Stomach Cancer,CNBD1,2,single-word aliases
+Stomach Cancer,AXIN1,8,single-word aliases
+Stomach Cancer,MAPK3,280,single-word aliases
+Stomach Cancer,CHEK1,38,single-word aliases
+Stomach Cancer,FLT3,10,single-word aliases
+Stomach Cancer,SRC,310,single-word aliases
+Stomach Cancer,FLG,8,single-word aliases
+Stomach Cancer,DAXX,15,single-word aliases
+Stomach Cancer,PMS2,63,single-word aliases
+Stomach Cancer,BBC3,39,single-word aliases
+Stomach Cancer,HMCN1,3,single-word aliases
+Stomach Cancer,SPEN,57,single-word aliases
+Stomach Cancer,AHNAK2,5,single-word aliases
+Stomach Cancer,SDHA,8,single-word aliases
+Stomach Cancer,NF2,7,single-word aliases
+Stomach Cancer,SYNE1,5,single-word aliases
+Stomach Cancer,IL10,42,single-word aliases
+Stomach Cancer,TSC2,8,single-word aliases
+Stomach Cancer,HP,563,single-word aliases
+Stomach Cancer,XIRP2,2,single-word aliases
+Stomach Cancer,CUX1,4,single-word aliases
+Stomach Cancer,ALK,33,single-word aliases
+Stomach Cancer,CCND1,78,single-word aliases
+Stomach Cancer,E2F4,11,single-word aliases
+Stomach Cancer,CDX2,245,single-word aliases
+Stomach Cancer,MBD4,5,single-word aliases
+Stomach Cancer,MUC2,249,single-word aliases
+Stomach Cancer,AICDA,13,single-word aliases
+Stomach Cancer,MED1,4,single-word aliases
+Stomach Cancer,AKT3,13,single-word aliases
+Stomach Cancer,MACF1,2,single-word aliases
+Stomach Cancer,BCL10,29,single-word aliases
+Stomach Cancer,CDK12,12,single-word aliases
+Stomach Cancer,CD4,531,single-word aliases
+Stomach Cancer,MTUS1,279,single-word aliases
+Stomach Cancer,FLCN,2,single-word aliases
+Stomach Cancer,MSR1,11,single-word aliases
+Stomach Cancer,PRSS1,4,single-word aliases
+Stomach Cancer,AKT2,18,single-word aliases
+Stomach Cancer,CTNND1,19,single-word aliases
+Stomach Cancer,MAP3K4,3,single-word aliases
+Stomach Cancer,ANO1,38,single-word aliases
+Stomach Cancer,CLDN18,215,single-word aliases
+Stomach Cancer,IGF1R,50,single-word aliases
+Stomach Cancer,CTLA4,55,single-word aliases
+Stomach Cancer,CHD8,3,single-word aliases
+Stomach Cancer,CDKN1B,108,single-word aliases
+Stomach Cancer,CASP10,2,single-word aliases
+Stomach Cancer,FOXD3,132,single-word aliases
+Stomach Cancer,PDCD1LG2,12,single-word aliases
+Stomach Cancer,TBP,7,single-word aliases
+Stomach Cancer,INHBE,11,single-word aliases
+Stomach Cancer,BMP1,6,single-word aliases
+Stomach Cancer,MAP3K6,7,single-word aliases
+Stomach Cancer,WNK2,3,single-word aliases
+Stomach Cancer,PPP2R1A,2,single-word aliases
+Stomach Cancer,HGD,77,single-word aliases
+Stomach Cancer,PDGFRB,19,single-word aliases
+Stomach Cancer,MUC5AC,239,single-word aliases
+Stomach Cancer,FHIT,56,single-word aliases
+Stomach Cancer,SMO,28,single-word aliases
+Stomach Cancer,ST7,4,single-word aliases
+Stomach Cancer,MAP3K1,7,single-word aliases
+Stomach Cancer,AKT1,81,single-word aliases
+Stomach Cancer,TGFBR1,20,single-word aliases
+Stomach Cancer,MAP2K4,12,single-word aliases
+Stomach Cancer,CHD3,2,single-word aliases
+Stomach Cancer,CASP3,37,single-word aliases
+Stomach Cancer,NRXN1,2,single-word aliases
+Stomach Cancer,C6,12,single-word aliases
+Stomach Cancer,NCOR2,3,single-word aliases
+Stomach Cancer,PI3,14,single-word aliases
+Stomach Cancer,NCAM1,118,single-word aliases
+Stomach Cancer,TNFAIP3,9,single-word aliases
+Stomach Cancer,FANCA,5,single-word aliases
+Stomach Cancer,IL6ST,45,single-word aliases
+Stomach Cancer,JAK2,117,single-word aliases
+Stomach Cancer,NOTCH1,92,single-word aliases
+Stomach Cancer,CBL,11,single-word aliases
+Stomach Cancer,MYH11,4,single-word aliases
+Stomach Cancer,CCNA1,5,single-word aliases
+Stomach Cancer,DNMT3A,41,single-word aliases
+Stomach Cancer,FGFR1,27,single-word aliases
+Stomach Cancer,FSIP2,3,single-word aliases
+Stomach Cancer,TSC1,10,single-word aliases
+Stomach Cancer,SHE,401,single-word aliases
+Stomach Cancer,YY1,97,single-word aliases
+Stomach Cancer,JAK3,11,single-word aliases
+Stomach Cancer,CDKN1A,163,single-word aliases
+Stomach Cancer,EPHB2,15,single-word aliases
+Stomach Cancer,CDA,5,single-word aliases
+Stomach Cancer,FBXO24,3,single-word aliases
+Stomach Cancer,TFF1,108,single-word aliases
+Stomach Cancer,CAT,106,single-word aliases
+Stomach Cancer,GCA,254,single-word aliases
+Stomach Cancer,VIM,482,single-word aliases
+Stomach Cancer,IGF1,20,single-word aliases
+Stomach Cancer,PTPRT,4,single-word aliases
+Stomach Cancer,HDAC9,84,single-word aliases
+Stomach Cancer,MYD88,17,single-word aliases
+Stomach Cancer,IDH1,10,single-word aliases
+Stomach Cancer,F3,10,single-word aliases
+Stomach Cancer,TERT,25,single-word aliases
+Stomach Cancer,PREX2,7,single-word aliases
+Stomach Cancer,TGFB1,37,single-word aliases
+Stomach Cancer,THBS1,40,single-word aliases
+Stomach Cancer,MME,151,single-word aliases
+Stomach Cancer,MRE11,10,single-word aliases
+Stomach Cancer,RICTOR,11,single-word aliases
+Stomach Cancer,C5,14,single-word aliases
+Stomach Cancer,SDHD,8,single-word aliases
+Stomach Cancer,COL10A1,17,single-word aliases
+Stomach Cancer,TG,301,single-word aliases
+Stomach Cancer,KLF6,13,single-word aliases
+Stomach Cancer,CAST,26,single-word aliases
+Stomach Cancer,WRN,6,single-word aliases
+Stomach Cancer,DOT1L,6,single-word aliases
+Stomach Cancer,BNIP3,14,single-word aliases
+Stomach Cancer,EPCAM,90,single-word aliases
+Stomach Cancer,CAD,31,single-word aliases
+Stomach Cancer,DES,94,single-word aliases
+Stomach Cancer,ATG5,40,single-word aliases
+Stomach Cancer,TET1,17,single-word aliases
+Stomach Cancer,MAPK1,59,single-word aliases
+Stomach Cancer,DPYD,14,single-word aliases
+Stomach Cancer,HRAS,13,single-word aliases
+Stomach Cancer,NR4A3,387,single-word aliases
+Stomach Cancer,CGA,102,single-word aliases
+Stomach Cancer,SDHC,12,single-word aliases
+Stomach Cancer,TYR,24,single-word aliases
+Stomach Cancer,BCL2L1,13,single-word aliases
+Stomach Cancer,ATP4A,22,single-word aliases
+Stomach Cancer,FAM107B,24,single-word aliases
+Stomach Cancer,GSC,36,single-word aliases
+Stomach Cancer,MALT1,31,single-word aliases
+Stomach Cancer,FOXO3,17,single-word aliases
+Stomach Cancer,GAST,412,single-word aliases
+Stomach Cancer,OGA,22,single-word aliases
+Stomach Cancer,TNFRSF10B,269,single-word aliases
+Stomach Cancer,CCK,42,single-word aliases
+Stomach Cancer,DCC,27,single-word aliases
+Stomach Cancer,KRT19,37,single-word aliases
+Stomach Cancer,FGFR4,28,single-word aliases
+Stomach Cancer,MGMT,74,single-word aliases
+Stomach Cancer,CYP2E1,31,single-word aliases
+Stomach Cancer,CD28,30,single-word aliases
+Stomach Cancer,LOX,31,single-word aliases
+Stomach Cancer,BAD,119,single-word aliases
+Stomach Cancer,LRPPRC,47,single-word aliases
+Stomach Cancer,CDK6,70,single-word aliases
+Stomach Cancer,INS,181,single-word aliases
+Stomach Cancer,IL6,58,single-word aliases
+Stomach Cancer,JUN,57,single-word aliases
+Stomach Cancer,PECAM1,80,single-word aliases
+Stomach Cancer,PTS,61,single-word aliases
+Stomach Cancer,VEGFA,73,single-word aliases
+Stomach Cancer,H2AX,59,single-word aliases
+Stomach Cancer,TFF2,70,single-word aliases
+Stomach Cancer,GSTM1,84,single-word aliases
+Stomach Cancer,HGF,150,single-word aliases
+Stomach Cancer,TLR4,123,single-word aliases
+Stomach Cancer,MUC1,153,single-word aliases
+Stomach Cancer,EZH2,124,single-word aliases
+Stomach Cancer,AMACR,332,single-word aliases
+Stomach Cancer,TNF,450,single-word aliases
+Stomach Cancer,RUNX3,152,single-word aliases
+Stomach Cancer,AFP,220,single-word aliases
+Stomach Cancer,EGR3,218,single-word aliases
+Stomach Cancer,NODAL,1117,single-word aliases
+Stomach Cancer,STAT3,529,single-word aliases
+Stomach Cancer,ESD,1429,single-word aliases
+Esophageal Cancer,TP53,322,single-word aliases
+Esophageal Cancer,EGFR,482,single-word aliases
+Esophageal Cancer,PIK3CA,409,single-word aliases
+Esophageal Cancer,CDKN2A,191,single-word aliases
+Esophageal Cancer,KRAS,77,single-word aliases
+Esophageal Cancer,BRAF,34,single-word aliases
+Esophageal Cancer,ERBB2,529,single-word aliases
+Esophageal Cancer,CD274,21,single-word aliases
+Esophageal Cancer,NOTCH1,73,single-word aliases
+Esophageal Cancer,KIT,172,single-word aliases
+Esophageal Cancer,NFE2L2,105,single-word aliases
+Esophageal Cancer,BRCA2,32,single-word aliases
+Esophageal Cancer,PTEN,116,single-word aliases
+Esophageal Cancer,CCND1,93,single-word aliases
+Esophageal Cancer,APC,158,single-word aliases
+Esophageal Cancer,CTNNB1,30,single-word aliases
+Esophageal Cancer,PDCD1,7,single-word aliases
+Esophageal Cancer,PDGFRA,20,single-word aliases
+Esophageal Cancer,MDM2,93,single-word aliases
+Esophageal Cancer,ARID1A,25,single-word aliases
+Esophageal Cancer,SMAD4,54,single-word aliases
+Esophageal Cancer,BRCA1,35,single-word aliases
+Esophageal Cancer,FBXW7,22,single-word aliases
+Esophageal Cancer,MLH1,30,single-word aliases
+Esophageal Cancer,MYC,89,single-word aliases
+Esophageal Cancer,KMT2D,19,single-word aliases
+Esophageal Cancer,EP300,31,single-word aliases
+Esophageal Cancer,MKI67,4,single-word aliases
+Esophageal Cancer,NRAS,8,single-word aliases
+Esophageal Cancer,RHBDF2,12,single-word aliases
+Esophageal Cancer,MSH2,21,single-word aliases
+Esophageal Cancer,SMARCA4,24,single-word aliases
+Esophageal Cancer,TET2,11,single-word aliases
+Esophageal Cancer,EGF,61,single-word aliases
+Esophageal Cancer,MET,609,single-word aliases
+Esophageal Cancer,FAT1,20,single-word aliases
+Esophageal Cancer,ZNF750,17,single-word aliases
+Esophageal Cancer,ERBB4,11,single-word aliases
+Esophageal Cancer,KEAP1,16,single-word aliases
+Esophageal Cancer,ATM,41,single-word aliases
+Esophageal Cancer,RB1,24,single-word aliases
+Esophageal Cancer,GABPA,77,single-word aliases
+Esophageal Cancer,PROX1,4,single-word aliases
+Esophageal Cancer,BCL2,56,single-word aliases
+Esophageal Cancer,NF1,9,single-word aliases
+Esophageal Cancer,ASXL1,3,single-word aliases
+Esophageal Cancer,CDH1,55,single-word aliases
+Esophageal Cancer,CDK4,77,single-word aliases
+Esophageal Cancer,KDR,38,single-word aliases
+Esophageal Cancer,MGMT,43,single-word aliases
+Esophageal Cancer,FOXD3,46,single-word aliases
+Esophageal Cancer,CDA,1,single-word aliases
+Esophageal Cancer,PTCH1,15,single-word aliases
+Esophageal Cancer,CD34,91,single-word aliases
+Esophageal Cancer,BAP1,5,single-word aliases
+Esophageal Cancer,PARP1,91,single-word aliases
+Esophageal Cancer,CDKN2B,19,single-word aliases
+Esophageal Cancer,SF3B1,4,single-word aliases
+Esophageal Cancer,SFRP1,11,single-word aliases
+Esophageal Cancer,CHEK2,28,single-word aliases
+Esophageal Cancer,CHEK1,28,single-word aliases
+Esophageal Cancer,STAT3,191,single-word aliases
+Esophageal Cancer,AXIN1,6,single-word aliases
+Esophageal Cancer,FHIT,48,single-word aliases
+Esophageal Cancer,FGFR1,19,single-word aliases
+Esophageal Cancer,HIF1A,31,single-word aliases
+Esophageal Cancer,ADAM17,9,single-word aliases
+Esophageal Cancer,APOBEC3B,3,single-word aliases
+Esophageal Cancer,PMAIP1,18,single-word aliases
+Esophageal Cancer,NOTCH3,15,single-word aliases
+Esophageal Cancer,SETD2,1,single-word aliases
+Esophageal Cancer,AXIN2,12,single-word aliases
+Esophageal Cancer,MUC16,12,single-word aliases
+Esophageal Cancer,SOX2,108,single-word aliases
+Esophageal Cancer,CREBBP,5,single-word aliases
+Esophageal Cancer,KLK7,60,single-word aliases
+Esophageal Cancer,KMT2C,9,single-word aliases
+Esophageal Cancer,VIM,196,single-word aliases
+Esophageal Cancer,BAX,225,single-word aliases
+Esophageal Cancer,KDM6A,5,single-word aliases
+Esophageal Cancer,MTOR,209,single-word aliases
+Esophageal Cancer,FGF19,9,single-word aliases
+Esophageal Cancer,UNG,1,single-word aliases
+Esophageal Cancer,AJUBA,7,single-word aliases
+Esophageal Cancer,MSH6,14,single-word aliases
+Esophageal Cancer,INS,61,single-word aliases
+Esophageal Cancer,SFRP2,10,single-word aliases
+Esophageal Cancer,CCK,9,single-word aliases
+Esophageal Cancer,TGFBR2,15,single-word aliases
+Esophageal Cancer,HRAS,9,single-word aliases
+Esophageal Cancer,ALDH2,107,single-word aliases
+Esophageal Cancer,HGD,489,single-word aliases
+Esophageal Cancer,XPO1,8,single-word aliases
+Esophageal Cancer,SFRP5,2,single-word aliases
+Esophageal Cancer,KMT2B,6,single-word aliases
+Esophageal Cancer,CD4,208,single-word aliases
+Esophageal Cancer,CCNE1,14,single-word aliases
+Esophageal Cancer,NOTCH2,12,single-word aliases
+Esophageal Cancer,MTUS1,199,single-word aliases
+Esophageal Cancer,FGFR2,36,single-word aliases
+Esophageal Cancer,ERBB3,26,single-word aliases
+Esophageal Cancer,CSMD3,3,single-word aliases
+Esophageal Cancer,VEGFA,44,single-word aliases
+Esophageal Cancer,FGF3,9,single-word aliases
+Esophageal Cancer,CDKN1A,66,single-word aliases
+Esophageal Cancer,PBRM1,2,single-word aliases
+Esophageal Cancer,FAT2,4,single-word aliases
+Esophageal Cancer,SMARCB1,7,single-word aliases
+Esophageal Cancer,DES,41,single-word aliases
+Esophageal Cancer,JUN,21,single-word aliases
+Esophageal Cancer,LRP1B,5,single-word aliases
+Esophageal Cancer,STK11,11,single-word aliases
+Esophageal Cancer,PCNA,68,single-word aliases
+Esophageal Cancer,RAD51,32,single-word aliases
+Esophageal Cancer,MSH3,16,single-word aliases
+Esophageal Cancer,CYP2A6,17,single-word aliases
+Esophageal Cancer,TSC2,9,single-word aliases
+Esophageal Cancer,GATA6,17,single-word aliases
+Esophageal Cancer,IFNG,6,single-word aliases
+Esophageal Cancer,FOS,10,single-word aliases
+Esophageal Cancer,FOSB,1,single-word aliases
+Esophageal Cancer,JUND,3,single-word aliases
+Esophageal Cancer,H2AX,71,single-word aliases
+Esophageal Cancer,RET,7,single-word aliases
+Esophageal Cancer,NFKB1,8,single-word aliases
+Esophageal Cancer,HGF,31,single-word aliases
+Esophageal Cancer,HMGA2,24,single-word aliases
+Esophageal Cancer,HSP90AA1,39,single-word aliases
+Esophageal Cancer,FANCA,2,single-word aliases
+Esophageal Cancer,ADA,2,single-word aliases
+Esophageal Cancer,SFRP4,8,single-word aliases
+Esophageal Cancer,RNF128,5,single-word aliases
+Esophageal Cancer,CUL3,5,single-word aliases
+Esophageal Cancer,SMAD2,33,single-word aliases
+Esophageal Cancer,TNFSF10,42,single-word aliases
+Esophageal Cancer,GADD45A,14,single-word aliases
+Esophageal Cancer,FANCD2,6,single-word aliases
+Esophageal Cancer,SMAD7,8,single-word aliases
+Esophageal Cancer,WIF1,4,single-word aliases
+Esophageal Cancer,KRT20,31,single-word aliases
+Esophageal Cancer,AKT1,36,single-word aliases
+Esophageal Cancer,FAT3,2,single-word aliases
+Esophageal Cancer,DNAH5,2,single-word aliases
+Esophageal Cancer,ZFHX4,2,single-word aliases
+Esophageal Cancer,IL6,35,single-word aliases
+Esophageal Cancer,POLB,2,single-word aliases
+Esophageal Cancer,MCL1,8,single-word aliases
+Esophageal Cancer,GPI,3,single-word aliases
+Esophageal Cancer,SMARCA2,7,single-word aliases
+Esophageal Cancer,GRIN2B,2,single-word aliases
+Esophageal Cancer,KLF4,28,single-word aliases
+Esophageal Cancer,BRAP,1,single-word aliases
+Esophageal Cancer,TLR4,35,single-word aliases
+Esophageal Cancer,OBSCN,2,single-word aliases
+Esophageal Cancer,MAML3,2,single-word aliases
+Esophageal Cancer,PTPRD,4,single-word aliases
+Esophageal Cancer,ATRX,3,single-word aliases
+Esophageal Cancer,BMPR1A,2,single-word aliases
+Esophageal Cancer,RHBDF1,2,single-word aliases
+Esophageal Cancer,RUNX1,16,single-word aliases
+Esophageal Cancer,IDH2,4,single-word aliases
+Esophageal Cancer,PMS2,11,single-word aliases
+Esophageal Cancer,SHANK2,6,single-word aliases
+Esophageal Cancer,CBX4,2,single-word aliases
+Esophageal Cancer,FAT4,4,single-word aliases
+Esophageal Cancer,TERT,15,single-word aliases
+Esophageal Cancer,FBXO4,3,single-word aliases
+Esophageal Cancer,XCL1,3,single-word aliases
+Esophageal Cancer,CHFR,8,single-word aliases
+Esophageal Cancer,CD24,18,single-word aliases
+Esophageal Cancer,CILP,2,single-word aliases
+Esophageal Cancer,IGFBP1,2,single-word aliases
+Esophageal Cancer,CDK6,30,single-word aliases
+Esophageal Cancer,CAT,40,single-word aliases
+Esophageal Cancer,SCN7A,2,single-word aliases
+Esophageal Cancer,KRT7,1,single-word aliases
+Esophageal Cancer,PTGS2,44,single-word aliases
+Esophageal Cancer,FAM3B,2,single-word aliases
+Esophageal Cancer,MAP2K1,18,single-word aliases
+Esophageal Cancer,CR2,6,single-word aliases
+Esophageal Cancer,ATR,23,single-word aliases
+Esophageal Cancer,S100A8,18,single-word aliases
+Esophageal Cancer,S100A9,22,single-word aliases
+Esophageal Cancer,CTLA4,15,single-word aliases
+Esophageal Cancer,IFITM1,4,single-word aliases
+Esophageal Cancer,GATA4,7,single-word aliases
+Esophageal Cancer,CDH11,5,single-word aliases
+Esophageal Cancer,ACVR1,2,single-word aliases
+Esophageal Cancer,AREG,5,single-word aliases
+Esophageal Cancer,REEP5,6,single-word aliases
+Esophageal Cancer,FGF4,12,single-word aliases
+Esophageal Cancer,MAF,3,single-word aliases
+Esophageal Cancer,CD68,63,single-word aliases
+Esophageal Cancer,COL5A2,3,single-word aliases
+Esophageal Cancer,CBX8,5,single-word aliases
+Esophageal Cancer,FAS,53,single-word aliases
+Esophageal Cancer,FADD,9,single-word aliases
+Esophageal Cancer,SMAD3,21,single-word aliases
+Esophageal Cancer,SRR,9,single-word aliases
+Esophageal Cancer,ANO1,15,single-word aliases
+Esophageal Cancer,ALK,11,single-word aliases
+Esophageal Cancer,MUC2,50,single-word aliases
+Esophageal Cancer,SRC,67,single-word aliases
+Esophageal Cancer,BIRC5,96,single-word aliases
+Esophageal Cancer,TNF,143,single-word aliases
+Esophageal Cancer,PVT1,10,single-word aliases
+Esophageal Cancer,TTN,7,single-word aliases
+Esophageal Cancer,AMACR,267,single-word aliases
+Esophageal Cancer,OTC,3,single-word aliases
+Esophageal Cancer,SMAD1,5,single-word aliases
+Esophageal Cancer,ZEB2,19,single-word aliases
+Esophageal Cancer,HNF4A,6,single-word aliases
+Esophageal Cancer,CBX3,4,single-word aliases
+Esophageal Cancer,NCAM1,38,single-word aliases
+Esophageal Cancer,RAF1,6,single-word aliases
+Esophageal Cancer,FZD2,4,single-word aliases
+Esophageal Cancer,SLC7A11,17,single-word aliases
+Esophageal Cancer,KRT19,26,single-word aliases
+Esophageal Cancer,JAK2,39,single-word aliases
+Esophageal Cancer,ATF4,17,single-word aliases
+Esophageal Cancer,CDX2,68,single-word aliases
+Esophageal Cancer,FGF2,11,single-word aliases
+Esophageal Cancer,CYP2E1,36,single-word aliases
+Esophageal Cancer,CASP8,13,single-word aliases
+Esophageal Cancer,TIMP1,8,single-word aliases
+Esophageal Cancer,MTHFR,53,single-word aliases
+Esophageal Cancer,MUC4,13,single-word aliases
+Esophageal Cancer,ABCB1,13,single-word aliases
+Esophageal Cancer,FAP,39,single-word aliases
+Esophageal Cancer,DCC,13,single-word aliases
+Esophageal Cancer,MUC6,26,single-word aliases
+Esophageal Cancer,METTL14,10,single-word aliases
+Esophageal Cancer,APCS,10,single-word aliases
+Esophageal Cancer,KLF5,20,single-word aliases
+Esophageal Cancer,SHE,150,single-word aliases
+Esophageal Cancer,WWOX,10,single-word aliases
+Esophageal Cancer,ERCC1,56,single-word aliases
+Esophageal Cancer,STAT1,31,single-word aliases
+Esophageal Cancer,EGR3,219,single-word aliases
+Esophageal Cancer,MMP2,59,single-word aliases
+Esophageal Cancer,CXCR2,18,single-word aliases
+Esophageal Cancer,ID1,14,single-word aliases
+Esophageal Cancer,NOS2,38,single-word aliases
+Esophageal Cancer,TOP2A,14,single-word aliases
+Esophageal Cancer,ADH1B,45,single-word aliases
+Esophageal Cancer,WNT3A,13,single-word aliases
+Esophageal Cancer,ZEB1,44,single-word aliases
+Esophageal Cancer,NODAL,1015,single-word aliases
+Esophageal Cancer,TF,58,single-word aliases
+Esophageal Cancer,MIF,25,single-word aliases
+Esophageal Cancer,CXCL8,25,single-word aliases
+Esophageal Cancer,YAP1,31,single-word aliases
+Esophageal Cancer,CD44,96,single-word aliases
+Esophageal Cancer,MAPK3,109,single-word aliases
+Esophageal Cancer,TP63,26,single-word aliases
+Esophageal Cancer,CDK1,28,single-word aliases
+Esophageal Cancer,EZH2,43,single-word aliases
+Esophageal Cancer,AURKA,29,single-word aliases
+Esophageal Cancer,AHR,52,single-word aliases
+Esophageal Cancer,CD163,42,single-word aliases
+Esophageal Cancer,GCA,87,single-word aliases
+Esophageal Cancer,REST,108,single-word aliases
+Esophageal Cancer,TNFRSF10B,90,single-word aliases
+Esophageal Cancer,ALB,419,single-word aliases
+Esophageal Cancer,NKX2-1,13,phrase text scan
+Ovarian Cancer,BRCA1,4125,single-word aliases
+Ovarian Cancer,BRCA2,2507,single-word aliases
+Ovarian Cancer,TP53,971,single-word aliases
+Ovarian Cancer,POLE,157,single-word aliases
+Ovarian Cancer,KRAS,485,single-word aliases
+Ovarian Cancer,PIK3CA,1207,single-word aliases
+Ovarian Cancer,ARID1A,353,single-word aliases
+Ovarian Cancer,MLH1,314,single-word aliases
+Ovarian Cancer,CTNNB1,193,single-word aliases
+Ovarian Cancer,BRAF,261,single-word aliases
+Ovarian Cancer,MSH2,260,single-word aliases
+Ovarian Cancer,PTEN,713,single-word aliases
+Ovarian Cancer,BRIP1,142,single-word aliases
+Ovarian Cancer,RAD51C,207,single-word aliases
+Ovarian Cancer,CHEK2,231,single-word aliases
+Ovarian Cancer,PALB2,236,single-word aliases
+Ovarian Cancer,RAD51D,134,single-word aliases
+Ovarian Cancer,ATM,295,single-word aliases
+Ovarian Cancer,MSH6,211,single-word aliases
+Ovarian Cancer,DICER1,145,single-word aliases
+Ovarian Cancer,PMS2,180,single-word aliases
+Ovarian Cancer,BARD1,94,single-word aliases
+Ovarian Cancer,PPP2R1A,36,single-word aliases
+Ovarian Cancer,PARP1,1634,single-word aliases
+Ovarian Cancer,PGR,50,single-word aliases
+Ovarian Cancer,RAD51,224,single-word aliases
+Ovarian Cancer,FOXL2,191,single-word aliases
+Ovarian Cancer,TERT,64,single-word aliases
+Ovarian Cancer,ERBB2,669,single-word aliases
+Ovarian Cancer,KIT,356,single-word aliases
+Ovarian Cancer,NRAS,84,single-word aliases
+Ovarian Cancer,NBN,55,single-word aliases
+Ovarian Cancer,MUC16,2099,single-word aliases
+Ovarian Cancer,SMARCA4,129,single-word aliases
+Ovarian Cancer,RAD50,44,single-word aliases
+Ovarian Cancer,TTN,7,single-word aliases
+Ovarian Cancer,PIK3R1,39,single-word aliases
+Ovarian Cancer,MYC,166,single-word aliases
+Ovarian Cancer,NBR1,2047,single-word aliases
+Ovarian Cancer,MET,932,single-word aliases
+Ovarian Cancer,FGFR2,51,single-word aliases
+Ovarian Cancer,ATR,129,single-word aliases
+Ovarian Cancer,CCND1,66,single-word aliases
+Ovarian Cancer,APC,163,single-word aliases
+Ovarian Cancer,CDK12,33,single-word aliases
+Ovarian Cancer,HGS,46,single-word aliases
+Ovarian Cancer,INS,172,single-word aliases
+Ovarian Cancer,MKI67,6,single-word aliases
+Ovarian Cancer,CHEK1,125,single-word aliases
+Ovarian Cancer,STK11,74,single-word aliases
+Ovarian Cancer,PPM1D,17,single-word aliases
+Ovarian Cancer,CDH1,100,single-word aliases
+Ovarian Cancer,EGFR,558,single-word aliases
+Ovarian Cancer,CDKN2A,156,single-word aliases
+Ovarian Cancer,MUTYH,33,single-word aliases
+Ovarian Cancer,ONECUT2,1,single-word aliases
+Ovarian Cancer,MT-ATP6,1,single-word aliases
+Ovarian Cancer,MT-CYB,2,single-word aliases
+Ovarian Cancer,DNMT3A,40,single-word aliases
+Ovarian Cancer,SLC33A1,1,single-word aliases
+Ovarian Cancer,JAK3,7,single-word aliases
+Ovarian Cancer,BOC,18,single-word aliases
+Ovarian Cancer,RAD51B,23,single-word aliases
+Ovarian Cancer,FBXW7,42,single-word aliases
+Ovarian Cancer,AMACR,515,single-word aliases
+Ovarian Cancer,FH,44,single-word aliases
+Ovarian Cancer,EGR3,357,single-word aliases
+Ovarian Cancer,DES,119,single-word aliases
+Ovarian Cancer,REST,154,single-word aliases
+Ovarian Cancer,TRRAP,7,single-word aliases
+Ovarian Cancer,SHE,1403,single-word aliases
+Ovarian Cancer,NDUFS3,1,single-word aliases
+Ovarian Cancer,CD274,44,single-word aliases
+Ovarian Cancer,MTOR,583,single-word aliases
+Ovarian Cancer,RNF43,8,single-word aliases
+Ovarian Cancer,CSMD3,6,single-word aliases
+Ovarian Cancer,XRCC2,25,single-word aliases
+Ovarian Cancer,CCNE1,134,single-word aliases
+Ovarian Cancer,NF1,78,single-word aliases
+Ovarian Cancer,BLM,21,single-word aliases
+Ovarian Cancer,ESR1,83,single-word aliases
+Ovarian Cancer,INPP4B,8,single-word aliases
+Ovarian Cancer,IL7R,14,single-word aliases
+Ovarian Cancer,JAK2,72,single-word aliases
+Ovarian Cancer,ADGRV1,3,single-word aliases
+Ovarian Cancer,NR5A1,10,single-word aliases
+Ovarian Cancer,NR4A3,385,single-word aliases
+Ovarian Cancer,RB1,93,single-word aliases
+Ovarian Cancer,RET,27,single-word aliases
+Ovarian Cancer,MDM2,133,single-word aliases
+Ovarian Cancer,PMS1,14,single-word aliases
+Ovarian Cancer,BCL2,177,single-word aliases
+Ovarian Cancer,FMR1,5,single-word aliases
+Ovarian Cancer,CTCF,19,single-word aliases
+Ovarian Cancer,IDH2,9,single-word aliases
+Ovarian Cancer,MAPK3,271,single-word aliases
+Ovarian Cancer,PDGFRA,18,single-word aliases
+Ovarian Cancer,SMAD4,71,single-word aliases
+Ovarian Cancer,AKT1,116,single-word aliases
+Ovarian Cancer,ARID1B,19,single-word aliases
+Ovarian Cancer,CDKN1A,153,single-word aliases
+Ovarian Cancer,KMT2D,13,single-word aliases
+Ovarian Cancer,XRCC3,24,single-word aliases
+Ovarian Cancer,CBL,10,single-word aliases
+Ovarian Cancer,CGA,17,single-word aliases
+Ovarian Cancer,HRAS,24,single-word aliases
+Ovarian Cancer,ATRX,8,single-word aliases
+Ovarian Cancer,TWIST1,71,single-word aliases
+Ovarian Cancer,BACH1,13,single-word aliases
+Ovarian Cancer,AHR,97,single-word aliases
+Ovarian Cancer,FANCM,15,single-word aliases
+Ovarian Cancer,PGD,24,single-word aliases
+Ovarian Cancer,WT1,242,single-word aliases
+Ovarian Cancer,MRE11,26,single-word aliases
+Ovarian Cancer,FAP,58,single-word aliases
+Ovarian Cancer,SALL4,48,single-word aliases
+Ovarian Cancer,MME,136,single-word aliases
+Ovarian Cancer,SRY,28,single-word aliases
+Ovarian Cancer,CHL1,67,single-word aliases
+Ovarian Cancer,ALK,44,single-word aliases
+Ovarian Cancer,EIF2AK3,40,single-word aliases
+Ovarian Cancer,CD4,428,single-word aliases
+Ovarian Cancer,EZH2,124,single-word aliases
+Ovarian Cancer,FOXD3,68,single-word aliases
+Ovarian Cancer,AR,149,single-word aliases
+Ovarian Cancer,FSHR,62,single-word aliases
+Ovarian Cancer,SMAD3,68,single-word aliases
+Ovarian Cancer,SRC,158,single-word aliases
+Ovarian Cancer,NCAM1,144,single-word aliases
+Ovarian Cancer,VIM,495,single-word aliases
+Ovarian Cancer,IDS,325,single-word aliases
+Ovarian Cancer,TNF,331,single-word aliases
+Endometrial Cancer,PTEN,768,single-word aliases
+Endometrial Cancer,POLE,439,single-word aliases
+Endometrial Cancer,PIK3CA,558,single-word aliases
+Endometrial Cancer,MLH1,570,single-word aliases
+Endometrial Cancer,TP53,399,single-word aliases
+Endometrial Cancer,KRAS,212,single-word aliases
+Endometrial Cancer,MSH2,413,single-word aliases
+Endometrial Cancer,CTNNB1,200,single-word aliases
+Endometrial Cancer,ARID1A,218,single-word aliases
+Endometrial Cancer,MSH6,365,single-word aliases
+Endometrial Cancer,BRCA1,149,single-word aliases
+Endometrial Cancer,PMS2,292,single-word aliases
+Endometrial Cancer,BRCA2,91,single-word aliases
+Endometrial Cancer,ERBB2,239,single-word aliases
+Endometrial Cancer,BRAF,59,single-word aliases
+Endometrial Cancer,PPP2R1A,42,single-word aliases
+Endometrial Cancer,FBXW7,46,single-word aliases
+Endometrial Cancer,FGFR2,63,single-word aliases
+Endometrial Cancer,PIK3R1,55,single-word aliases
+Endometrial Cancer,ATM,35,single-word aliases
+Endometrial Cancer,CCND1,35,single-word aliases
+Endometrial Cancer,CHEK2,19,single-word aliases
+Endometrial Cancer,AKT1,44,single-word aliases
+Endometrial Cancer,CD274,13,single-word aliases
+Endometrial Cancer,PGR,73,single-word aliases
+Endometrial Cancer,ESR1,74,single-word aliases
+Endometrial Cancer,MTOR,267,single-word aliases
+Endometrial Cancer,BRIP1,10,single-word aliases
+Endometrial Cancer,NRAS,19,single-word aliases
+Endometrial Cancer,CDKN2A,94,single-word aliases
+Endometrial Cancer,PDCD1,4,single-word aliases
+Endometrial Cancer,RAD51D,8,single-word aliases
+Endometrial Cancer,EGFR,118,single-word aliases
+Endometrial Cancer,ATR,16,single-word aliases
+Endometrial Cancer,APC,78,single-word aliases
+Endometrial Cancer,PALB2,12,single-word aliases
+Endometrial Cancer,POLD1,29,single-word aliases
+Endometrial Cancer,RAD51C,9,single-word aliases
+Endometrial Cancer,BARD1,9,single-word aliases
+Endometrial Cancer,SPOP,20,single-word aliases
+Endometrial Cancer,MKI67,5,single-word aliases
+Endometrial Cancer,SMARCB1,34,single-word aliases
+Endometrial Cancer,CCNE1,39,single-word aliases
+Endometrial Cancer,KIT,93,single-word aliases
+Endometrial Cancer,CHEK1,14,single-word aliases
+Endometrial Cancer,MYC,49,single-word aliases
+Endometrial Cancer,EPCAM,32,single-word aliases
+Endometrial Cancer,SMARCA4,51,single-word aliases
+Endometrial Cancer,AMACR,325,single-word aliases
+Endometrial Cancer,JAK1,13,single-word aliases
+Endometrial Cancer,RPL22,5,single-word aliases
+Endometrial Cancer,MUC16,278,single-word aliases
+Endometrial Cancer,AXIN2,5,single-word aliases
+Endometrial Cancer,MET,481,single-word aliases
+Endometrial Cancer,PARP1,124,single-word aliases
+Endometrial Cancer,DICER1,17,single-word aliases
+Endometrial Cancer,CDK12,2,single-word aliases
+Endometrial Cancer,BAX,135,single-word aliases
+Endometrial Cancer,NF1,13,single-word aliases
+Endometrial Cancer,FGFR3,12,single-word aliases
+Endometrial Cancer,FOXA2,10,single-word aliases
+Endometrial Cancer,TERT,15,single-word aliases
+Endometrial Cancer,CHD4,8,single-word aliases
+Endometrial Cancer,AURKA,23,single-word aliases
+Endometrial Cancer,BCAR3,2,single-word aliases
+Endometrial Cancer,TSC2,9,single-word aliases
+Endometrial Cancer,LEF1,11,single-word aliases
+Endometrial Cancer,MAF,2,single-word aliases
+Endometrial Cancer,ERBB3,9,single-word aliases
+Endometrial Cancer,TSC1,5,single-word aliases
+Endometrial Cancer,RB1,25,single-word aliases
+Endometrial Cancer,CUL3,2,single-word aliases
+Endometrial Cancer,CTCF,10,single-word aliases
+Endometrial Cancer,ARID5B,3,single-word aliases
+Endometrial Cancer,SUZ12,29,single-word aliases
+Endometrial Cancer,STK11,32,single-word aliases
+Endometrial Cancer,KMT2B,5,single-word aliases
+Endometrial Cancer,GATA3,33,single-word aliases
+Endometrial Cancer,CDH1,39,single-word aliases
+Endometrial Cancer,MUTYH,11,single-word aliases
+Endometrial Cancer,PLEK,3,single-word aliases
+Endometrial Cancer,BCL2,38,single-word aliases
+Endometrial Cancer,NFE2L2,21,single-word aliases
+Endometrial Cancer,JAZF1,55,single-word aliases
+Endometrial Cancer,CD4,74,single-word aliases
+Endometrial Cancer,FAT4,2,single-word aliases
+Endometrial Cancer,RASSF1,8,single-word aliases
+Endometrial Cancer,CSMD3,2,single-word aliases
+Endometrial Cancer,IFNG,7,single-word aliases
+Endometrial Cancer,TCF7L2,2,single-word aliases
+Endometrial Cancer,INPP4B,4,single-word aliases
+Endometrial Cancer,BRD2,2,single-word aliases
+Endometrial Cancer,SHE,455,single-word aliases
+Endometrial Cancer,FOLR1,7,single-word aliases
+Endometrial Cancer,ARHGAP35,3,single-word aliases
+Endometrial Cancer,WT1,76,single-word aliases
+Endometrial Cancer,PAX2,52,single-word aliases
+Endometrial Cancer,HNF1A,16,single-word aliases
+Endometrial Cancer,RAD50,11,single-word aliases
+Endometrial Cancer,FGFR4,1,single-word aliases
+Endometrial Cancer,FAT1,4,single-word aliases
+Endometrial Cancer,CDKN1A,50,single-word aliases
+Endometrial Cancer,YY1,26,single-word aliases
+Endometrial Cancer,RAD51,31,single-word aliases
+Endometrial Cancer,PHF1,30,single-word aliases
+Endometrial Cancer,KEAP1,7,single-word aliases
+Endometrial Cancer,KMT2D,7,single-word aliases
+Endometrial Cancer,MAX,37,single-word aliases
+Endometrial Cancer,SRC,23,single-word aliases
+Endometrial Cancer,MME,177,single-word aliases
+Endometrial Cancer,BCOR,50,single-word aliases
+Endometrial Cancer,IRF1,3,single-word aliases
+Endometrial Cancer,SST,21,single-word aliases
+Endometrial Cancer,PROS1,1,single-word aliases
+Endometrial Cancer,RAD51B,4,single-word aliases
+Endometrial Cancer,CTLA4,10,single-word aliases
+Endometrial Cancer,MGMT,8,single-word aliases
+Endometrial Cancer,DDR2,2,single-word aliases
+Endometrial Cancer,NR4A3,122,single-word aliases
+Endometrial Cancer,EPHB2,2,single-word aliases
+Endometrial Cancer,ZFHX3,3,single-word aliases
+Endometrial Cancer,SYNE1,4,single-word aliases
+Endometrial Cancer,CASP5,1,single-word aliases
+Endometrial Cancer,SETD2,1,single-word aliases
+Endometrial Cancer,JUN,23,single-word aliases
+Endometrial Cancer,LRP1B,2,single-word aliases
+Endometrial Cancer,SMARCA2,8,single-word aliases
+Endometrial Cancer,HMGA2,15,single-word aliases
+Endometrial Cancer,TP63,3,single-word aliases
+Endometrial Cancer,MASP2,2,single-word aliases
+Endometrial Cancer,COL11A1,2,single-word aliases
+Endometrial Cancer,FANCD2,9,single-word aliases
+Endometrial Cancer,PAX8,65,single-word aliases
+Endometrial Cancer,L1CAM,91,single-word aliases
+Endometrial Cancer,TAF1,2,single-word aliases
+Endometrial Cancer,GABPA,23,single-word aliases
+Endometrial Cancer,NOTCH1,21,single-word aliases
+Endometrial Cancer,TACSTD2,10,single-word aliases
+Endometrial Cancer,ADAM17,4,single-word aliases
+Endometrial Cancer,MAP3K4,2,single-word aliases
+Endometrial Cancer,TSPYL2,2,single-word aliases
+Endometrial Cancer,ABCC9,2,single-word aliases
+Endometrial Cancer,NCOA3,10,single-word aliases
+Endometrial Cancer,PHLPP2,3,single-word aliases
+Endometrial Cancer,RHO,26,single-word aliases
+Endometrial Cancer,CASC2,3,single-word aliases
+Endometrial Cancer,VEGFA,23,single-word aliases
+Endometrial Cancer,BRD3,2,single-word aliases
+Endometrial Cancer,RAD54L,3,single-word aliases
+Endometrial Cancer,HGF,22,single-word aliases
+Endometrial Cancer,CD8A,3,single-word aliases
+Endometrial Cancer,AXIN1,3,single-word aliases
+Endometrial Cancer,TTF1,17,single-word aliases
+Endometrial Cancer,MED12,7,single-word aliases
+Endometrial Cancer,XRCC2,7,single-word aliases
+Endometrial Cancer,SKP1,4,single-word aliases
+Endometrial Cancer,TNFRSF18,5,single-word aliases
+Endometrial Cancer,PIK3R2,5,single-word aliases
+Endometrial Cancer,CGA,7,single-word aliases
+Endometrial Cancer,PRKAR1A,3,single-word aliases
+Endometrial Cancer,FOXL2,6,single-word aliases
+Endometrial Cancer,ITGB3,5,single-word aliases
+Endometrial Cancer,FGFR1,6,single-word aliases
+Endometrial Cancer,ARID1B,18,single-word aliases
+Endometrial Cancer,EZH2,34,single-word aliases
+Endometrial Cancer,REST,53,single-word aliases
+Endometrial Cancer,RNF43,5,single-word aliases
+Endometrial Cancer,CIP2A,7,single-word aliases
+Endometrial Cancer,HRAS,6,single-word aliases
+Endometrial Cancer,EP300,19,single-word aliases
+Endometrial Cancer,NLRC5,6,single-word aliases
+Endometrial Cancer,ADIPOQ,66,single-word aliases
+Endometrial Cancer,CDH13,16,single-word aliases
+Endometrial Cancer,CLOCK,7,single-word aliases
+Endometrial Cancer,CD47,10,single-word aliases
+Endometrial Cancer,CYP19A1,189,single-word aliases
+Endometrial Cancer,DES,91,single-word aliases
+Endometrial Cancer,AXL,11,single-word aliases
+Endometrial Cancer,CHL1,24,single-word aliases
+Endometrial Cancer,STAT1,8,single-word aliases
+Endometrial Cancer,CDK4,52,single-word aliases
+Endometrial Cancer,YWHAE,34,single-word aliases
+Endometrial Cancer,STS,16,single-word aliases
+Endometrial Cancer,MDM2,54,single-word aliases
+Endometrial Cancer,PDGFRA,10,single-word aliases
+Endometrial Cancer,AR,67,single-word aliases
+Endometrial Cancer,SI,30,single-word aliases
+Endometrial Cancer,MVD,40,single-word aliases
+Endometrial Cancer,E2F1,24,single-word aliases
+Endometrial Cancer,INS,220,single-word aliases
+Endometrial Cancer,NCAM1,45,single-word aliases
+Endometrial Cancer,TNF,62,single-word aliases
+Endometrial Cancer,FOXP3,39,single-word aliases
+Endometrial Cancer,CDX2,38,single-word aliases
+Endometrial Cancer,MAPK3,75,single-word aliases
+Endometrial Cancer,VIM,198,single-word aliases
+Cervical Cancer,PIK3CA,520,single-word aliases
+Cervical Cancer,KRAS,83,single-word aliases
+Cervical Cancer,TP53,174,single-word aliases
+Cervical Cancer,PTEN,145,single-word aliases
+Cervical Cancer,ERBB2,139,single-word aliases
+Cervical Cancer,STK11,52,single-word aliases
+Cervical Cancer,EGFR,287,single-word aliases
+Cervical Cancer,FBXW7,28,single-word aliases
+Cervical Cancer,CD274,27,single-word aliases
+Cervical Cancer,MTOR,256,single-word aliases
+Cervical Cancer,ARID1A,32,single-word aliases
+Cervical Cancer,RB1,34,single-word aliases
+Cervical Cancer,BRAF,14,single-word aliases
+Cervical Cancer,KMT2D,15,single-word aliases
+Cervical Cancer,CDKN2A,449,single-word aliases
+Cervical Cancer,BRCA1,48,single-word aliases
+Cervical Cancer,FGFR3,14,single-word aliases
+Cervical Cancer,BRCA2,23,single-word aliases
+Cervical Cancer,TERT,41,single-word aliases
+Cervical Cancer,MYC,80,single-word aliases
+Cervical Cancer,EP300,29,single-word aliases
+Cervical Cancer,FOXD3,66,single-word aliases
+Cervical Cancer,DICER1,23,single-word aliases
+Cervical Cancer,LRP1B,5,single-word aliases
+Cervical Cancer,MKI67,8,single-word aliases
+Cervical Cancer,GNAS,9,single-word aliases
+Cervical Cancer,KMT2C,7,single-word aliases
+Cervical Cancer,NRAS,7,single-word aliases
+Cervical Cancer,PDCD1,13,single-word aliases
+Cervical Cancer,MSH2,29,single-word aliases
+Cervical Cancer,NOTCH1,56,single-word aliases
+Cervical Cancer,CTNNB1,20,single-word aliases
+Cervical Cancer,KIT,454,single-word aliases
+Cervical Cancer,FAT1,9,single-word aliases
+Cervical Cancer,CDKN1A,90,single-word aliases
+Cervical Cancer,SMAD4,20,single-word aliases
+Cervical Cancer,HRAS,15,single-word aliases
+Cervical Cancer,YY1,67,single-word aliases
+Cervical Cancer,MDM2,72,single-word aliases
+Cervical Cancer,MLH1,26,single-word aliases
+Cervical Cancer,ERBB3,20,single-word aliases
+Cervical Cancer,IFNG,11,single-word aliases
+Cervical Cancer,ATM,51,single-word aliases
+Cervical Cancer,FGFR4,8,single-word aliases
+Cervical Cancer,KMT2B,6,single-word aliases
+Cervical Cancer,TNFRSF11A,238,single-word aliases
+Cervical Cancer,NFE2L2,40,single-word aliases
+Cervical Cancer,ALK,10,single-word aliases
+Cervical Cancer,TNF,245,single-word aliases
+Cervical Cancer,FGFR2,25,single-word aliases
+Cervical Cancer,MSH6,18,single-word aliases
+Cervical Cancer,RET,6,single-word aliases
+Cervical Cancer,FHIT,59,single-word aliases
+Cervical Cancer,CCND1,40,single-word aliases
+Cervical Cancer,KEAP1,7,single-word aliases
+Cervical Cancer,GATA3,26,single-word aliases
+Cervical Cancer,PMS2,15,single-word aliases
+Cervical Cancer,PALB2,5,single-word aliases
+Cervical Cancer,ARID1B,5,single-word aliases
+Cervical Cancer,INS,37,single-word aliases
+Cervical Cancer,NTRK1,7,single-word aliases
+Cervical Cancer,NEUROD1,7,single-word aliases
+Cervical Cancer,SYP,59,single-word aliases
+Cervical Cancer,PARP1,214,single-word aliases
+Cervical Cancer,ATRX,7,single-word aliases
+Cervical Cancer,TSC2,7,single-word aliases
+Cervical Cancer,FGFR1,7,single-word aliases
+Cervical Cancer,NR4A3,388,single-word aliases
+Cervical Cancer,CTLA4,33,single-word aliases
+Cervical Cancer,MUC6,34,single-word aliases
+Cervical Cancer,TFRC,23,single-word aliases
+Cervical Cancer,EGF,76,single-word aliases
+Cervical Cancer,TNFRSF10B,136,single-word aliases
+Cervical Cancer,TTN,5,single-word aliases
+Cervical Cancer,APC,152,single-word aliases
+Cervical Cancer,PDCD1LG2,4,single-word aliases
+Cervical Cancer,BAP1,4,single-word aliases
+Cervical Cancer,PAX8,36,single-word aliases
+Cervical Cancer,NF1,5,single-word aliases
+Cervical Cancer,SETD2,1,single-word aliases
+Cervical Cancer,EML4,1,single-word aliases
+Cervical Cancer,APOBEC3A,5,single-word aliases
+Cervical Cancer,CD4,630,single-word aliases
+Cervical Cancer,SMARCB1,5,single-word aliases
+Cervical Cancer,ELF3,5,single-word aliases
+Cervical Cancer,PPP2R1B,4,single-word aliases
+Cervical Cancer,IL10,20,single-word aliases
+Cervical Cancer,MTUS1,65,single-word aliases
+Cervical Cancer,SPINK5,19,single-word aliases
+Cervical Cancer,PBRM1,3,single-word aliases
+Cervical Cancer,AXIN1,6,single-word aliases
+Cervical Cancer,PI3,6,single-word aliases
+Cervical Cancer,PGR,7,single-word aliases
+Cervical Cancer,BCL10,7,single-word aliases
+Cervical Cancer,GCA,12,single-word aliases
+Cervical Cancer,BCL6,4,single-word aliases
+Cervical Cancer,CHEK1,30,single-word aliases
+Cervical Cancer,MYOD1,14,single-word aliases
+Cervical Cancer,NCAM1,69,single-word aliases
+Cervical Cancer,NOTCH2,10,single-word aliases
+Cervical Cancer,TEAD1,4,single-word aliases
+Cervical Cancer,TEF,1,single-word aliases
+Cervical Cancer,MET,797,single-word aliases
+Cervical Cancer,CASP8,12,single-word aliases
+Cervical Cancer,NTRK3,4,single-word aliases
+Cervical Cancer,SOX2,75,single-word aliases
+Cervical Cancer,NFKB1,22,single-word aliases
+Cervical Cancer,NES,11,single-word aliases
+Cervical Cancer,BAX,471,single-word aliases
+Cervical Cancer,HOXA10,4,single-word aliases
+Cervical Cancer,MECOM,2,single-word aliases
+Cervical Cancer,BARD1,6,single-word aliases
+Cervical Cancer,POLE,7,single-word aliases
+Cervical Cancer,YAP1,26,single-word aliases
+Cervical Cancer,KDR,36,single-word aliases
+Cervical Cancer,ABCB1,8,single-word aliases
+Cervical Cancer,CXCL9,13,single-word aliases
+Cervical Cancer,SHE,537,single-word aliases
+Cervical Cancer,PDGFRA,6,single-word aliases
+Cervical Cancer,POLD1,30,single-word aliases
+Cervical Cancer,ATR,24,single-word aliases
+Cervical Cancer,CCS,254,single-word aliases
+Cervical Cancer,SALL4,7,single-word aliases
+Cervical Cancer,MICA,30,single-word aliases
+Cervical Cancer,PAX2,11,single-word aliases
+Cervical Cancer,BCL2,92,single-word aliases
+Cervical Cancer,JAK3,8,single-word aliases
+Cervical Cancer,TSC1,3,single-word aliases
+Cervical Cancer,SMARCA4,10,single-word aliases
+Cervical Cancer,SOX9,13,single-word aliases
+Cervical Cancer,SUB1,2,single-word aliases
+Cervical Cancer,NOTCH3,6,single-word aliases
+Cervical Cancer,TBL1XR1,5,single-word aliases
+Cervical Cancer,ZFHX3,1,single-word aliases
+Cervical Cancer,PIK3R1,5,single-word aliases
+Cervical Cancer,EGLN1,6,single-word aliases
+Cervical Cancer,PLN,64,single-word aliases
+Cervical Cancer,PHOX2A,2,single-word aliases
+Cervical Cancer,CARD11,3,single-word aliases
+Cervical Cancer,SOX10,5,single-word aliases
+Cervical Cancer,CD34,83,single-word aliases
+Cervical Cancer,AKT1,36,single-word aliases
+Cervical Cancer,MAPK3,102,single-word aliases
+Cervical Cancer,UBE2I,5,single-word aliases
+Cervical Cancer,AR,31,single-word aliases
+Cervical Cancer,KLF14,2,single-word aliases
+Cervical Cancer,JUN,23,single-word aliases
+Cervical Cancer,CXCL3,5,single-word aliases
+Cervical Cancer,MAPK1,21,single-word aliases
+Cervical Cancer,TGFB1,15,single-word aliases
+Cervical Cancer,CAT,78,single-word aliases
+Cervical Cancer,ERICH6,1,single-word aliases
+Cervical Cancer,HNF1A,5,single-word aliases
+Cervical Cancer,CD48,12,single-word aliases
+Cervical Cancer,FAS,105,single-word aliases
+Cervical Cancer,LPCAT1,3,single-word aliases
+Cervical Cancer,IRF1,8,single-word aliases
+Cervical Cancer,VEGFA,34,single-word aliases
+Cervical Cancer,RUSC1-AS1,0,single-word aliases
+Cervical Cancer,ABCG2,12,single-word aliases
+Cervical Cancer,PCNA,105,single-word aliases
+Cervical Cancer,CLDN18,7,single-word aliases
+Cervical Cancer,SMAD7,6,single-word aliases
+Cervical Cancer,HLA-DPB2,0,single-word aliases
+Cervical Cancer,BIRC3,10,single-word aliases
+Cervical Cancer,TP53BP1,14,single-word aliases
+Cervical Cancer,EPCAM,16,single-word aliases
+Cervical Cancer,NTRK2,7,single-word aliases
+Cervical Cancer,SNAI1,106,single-word aliases
+Cervical Cancer,SQLE,5,single-word aliases
+Cervical Cancer,E2F4,9,single-word aliases
+Cervical Cancer,CIC,10,single-word aliases
+Cervical Cancer,CASP3,8,single-word aliases
+Cervical Cancer,ZC3H13,6,single-word aliases
+Cervical Cancer,IL6,25,single-word aliases
+Cervical Cancer,GP5,228,single-word aliases
+Cervical Cancer,HAVCR2,6,single-word aliases
+Cervical Cancer,NANOG,44,single-word aliases
+Cervical Cancer,MIR100HG,5,single-word aliases
+Cervical Cancer,KDM6A,5,single-word aliases
+Cervical Cancer,XRCC5,15,single-word aliases
+Cervical Cancer,APOBEC3B,8,single-word aliases
+Cervical Cancer,RIPOR2,5,single-word aliases
+Cervical Cancer,TAP1,15,single-word aliases
+Cervical Cancer,TPM3,3,single-word aliases
+Cervical Cancer,XPO1,6,single-word aliases
+Cervical Cancer,DROSHA,7,single-word aliases
+Cervical Cancer,PRKN,9,single-word aliases
+Cervical Cancer,TAP2,16,single-word aliases
+Cervical Cancer,MUC5AC,22,single-word aliases
+Cervical Cancer,CDH1,40,single-word aliases
+Cervical Cancer,TERC,28,single-word aliases
+Cervical Cancer,IGF1,9,single-word aliases
+Cervical Cancer,XRCC1,38,single-word aliases
+Cervical Cancer,NODAL,779,single-word aliases
+Cervical Cancer,RBL2,17,single-word aliases
+Cervical Cancer,MYB,9,single-word aliases
+Cervical Cancer,XRCC4,10,single-word aliases
+Cervical Cancer,CDK2,55,single-word aliases
+Cervical Cancer,CDK4,55,single-word aliases
+Cervical Cancer,HDAC9,45,single-word aliases
+Cervical Cancer,IL17A,5,single-word aliases
+Cervical Cancer,PTPN14,6,single-word aliases
+Cervical Cancer,RUNX1,6,single-word aliases
+Cervical Cancer,CXCL13,12,single-word aliases
+Cervical Cancer,UBE3A,5,single-word aliases
+Cervical Cancer,CD44,91,single-word aliases
+Cervical Cancer,CDKN1B,44,single-word aliases
+Cervical Cancer,AGA,8,single-word aliases
+Cervical Cancer,FADD,13,single-word aliases
+Cervical Cancer,CXCL1,18,single-word aliases
+Cervical Cancer,CLOCK,10,single-word aliases
+Cervical Cancer,CCR2,9,single-word aliases
+Cervical Cancer,WT1,15,single-word aliases
+Cervical Cancer,CXCL8,33,single-word aliases
+Cervical Cancer,TG,29,single-word aliases
+Cervical Cancer,CCR5,11,single-word aliases
+Cervical Cancer,SPP1,33,single-word aliases
+Cervical Cancer,GPX4,28,single-word aliases
+Cervical Cancer,LATS1,573,single-word aliases
+Cervical Cancer,CA9,47,single-word aliases
+Cervical Cancer,FOS,14,single-word aliases
+Cervical Cancer,PHGDH,116,single-word aliases
+Cervical Cancer,CCNA1,14,single-word aliases
+Cervical Cancer,IL1B,18,single-word aliases
+Cervical Cancer,KRT20,27,single-word aliases
+Cervical Cancer,PREP,41,single-word aliases
+Cervical Cancer,CD24,24,single-word aliases
+Cervical Cancer,MCC,37,single-word aliases
+Cervical Cancer,TLR4,43,single-word aliases
+Cervical Cancer,DES,81,single-word aliases
+Cervical Cancer,MUC16,64,single-word aliases
+Cervical Cancer,CD68,48,single-word aliases
+Cervical Cancer,POU5F1,60,single-word aliases
+Cervical Cancer,MTHFR,45,single-word aliases
+Cervical Cancer,FASLG,50,single-word aliases
+Cervical Cancer,TLR9,35,single-word aliases
+Cervical Cancer,SPEN,55,single-word aliases
+Cervical Cancer,E2F1,54,single-word aliases
+Cervical Cancer,H2AX,80,single-word aliases
+Cervical Cancer,REST,160,single-word aliases
+Cervical Cancer,GP6,91,single-word aliases
+Cervical Cancer,FOXD3-AS1,173,single-word aliases
+Cervical Cancer,STAT3,172,single-word aliases
+Cervical Cancer,AMACR,634,single-word aliases
+Cervical Cancer,HLA-B,40,phrase text scan
+Cervical Cancer,HLA-A,63,phrase text scan
+Cervical Cancer,HLA-DRB1,51,phrase text scan
+Thyroid Cancer,BRAF,2598,single-word aliases
+Thyroid Cancer,RET,1957,single-word aliases
+Thyroid Cancer,TERT,482,single-word aliases
+Thyroid Cancer,NRAS,283,single-word aliases
+Thyroid Cancer,HRAS,187,single-word aliases
+Thyroid Cancer,KRAS,228,single-word aliases
+Thyroid Cancer,PIK3CA,515,single-word aliases
+Thyroid Cancer,TP53,249,single-word aliases
+Thyroid Cancer,CCDC6,219,single-word aliases
+Thyroid Cancer,EIF1AX,55,single-word aliases
+Thyroid Cancer,DICER1,107,single-word aliases
+Thyroid Cancer,TSHR,225,single-word aliases
+Thyroid Cancer,PAX8,268,single-word aliases
+Thyroid Cancer,PTEN,303,single-word aliases
+Thyroid Cancer,NCOA4,138,single-word aliases
+Thyroid Cancer,MKI67,2,single-word aliases
+Thyroid Cancer,PPARG,98,single-word aliases
+Thyroid Cancer,GNAS,22,single-word aliases
+Thyroid Cancer,KIT,174,single-word aliases
+Thyroid Cancer,EGFR,174,single-word aliases
+Thyroid Cancer,CTNNB1,43,single-word aliases
+Thyroid Cancer,ALK,103,single-word aliases
+Thyroid Cancer,APC,140,single-word aliases
+Thyroid Cancer,NODAL,1127,single-word aliases
+Thyroid Cancer,NF1,34,single-word aliases
+Thyroid Cancer,TPO,148,single-word aliases
+Thyroid Cancer,MAP2K1,40,single-word aliases
+Thyroid Cancer,EZH1,13,single-word aliases
+Thyroid Cancer,LGALS3,20,single-word aliases
+Thyroid Cancer,MET,643,single-word aliases
+Thyroid Cancer,STK11,15,single-word aliases
+Thyroid Cancer,NTRK1,81,single-word aliases
+Thyroid Cancer,CD274,18,single-word aliases
+Thyroid Cancer,CCND1,31,single-word aliases
+Thyroid Cancer,NTRK3,53,single-word aliases
+Thyroid Cancer,TG,3262,single-word aliases
+Thyroid Cancer,TYR,20,single-word aliases
+Thyroid Cancer,MIR21,2,single-word aliases
+Thyroid Cancer,CHEK2,28,single-word aliases
+Thyroid Cancer,FOXD3,45,single-word aliases
+Thyroid Cancer,MTOR,208,single-word aliases
+Thyroid Cancer,FAP,86,single-word aliases
+Thyroid Cancer,AKT1,52,single-word aliases
+Thyroid Cancer,FAS,124,single-word aliases
+Thyroid Cancer,AR,32,single-word aliases
+Thyroid Cancer,RAF1,9,single-word aliases
+Thyroid Cancer,ETV6,31,single-word aliases
+Thyroid Cancer,PLEKHS1,3,single-word aliases
+Thyroid Cancer,MAPK3,106,single-word aliases
+Thyroid Cancer,KDR,98,single-word aliases
+Thyroid Cancer,SETD2,3,single-word aliases
+Thyroid Cancer,FLT1,16,single-word aliases
+Thyroid Cancer,FLT4,11,single-word aliases
+Thyroid Cancer,TTN,15,single-word aliases
+Thyroid Cancer,DGCR8,8,single-word aliases
+Thyroid Cancer,ATRX,4,single-word aliases
+Thyroid Cancer,CREB3L2,4,single-word aliases
+Thyroid Cancer,SHE,598,single-word aliases
+Thyroid Cancer,NOTCH1,34,single-word aliases
+Thyroid Cancer,KMT2D,7,single-word aliases
+Thyroid Cancer,SQSTM1,8,single-word aliases
+Thyroid Cancer,KMT2A,3,single-word aliases
+Thyroid Cancer,RASAL1,8,single-word aliases
+Thyroid Cancer,VHL,28,single-word aliases
+Thyroid Cancer,NFKB1,8,single-word aliases
+Thyroid Cancer,THADA,17,single-word aliases
+Thyroid Cancer,TNFAIP3,4,single-word aliases
+Thyroid Cancer,BCL6,4,single-word aliases
+Thyroid Cancer,NR4A3,311,single-word aliases
+Thyroid Cancer,RB1,22,single-word aliases
+Thyroid Cancer,SDHD,18,single-word aliases
+Thyroid Cancer,SAG,2,single-word aliases
+Thyroid Cancer,IGF2BP3,6,single-word aliases
+Thyroid Cancer,CBL,5,single-word aliases
+Thyroid Cancer,GCA,3,single-word aliases
+Thyroid Cancer,CRNN,3,single-word aliases
+Thyroid Cancer,FGFR3,7,single-word aliases
+Thyroid Cancer,TET2,7,single-word aliases
+Thyroid Cancer,PGR,6,single-word aliases
+Thyroid Cancer,FLCN,8,single-word aliases
+Thyroid Cancer,FGFR1,19,single-word aliases
+Thyroid Cancer,PDGFRA,15,single-word aliases
+Thyroid Cancer,SDHB,17,single-word aliases
+Thyroid Cancer,BCL2,58,single-word aliases
+Thyroid Cancer,GNAQ,3,single-word aliases
+Thyroid Cancer,KIF5B,3,single-word aliases
+Thyroid Cancer,KRT19,146,single-word aliases
+Thyroid Cancer,AHR,33,single-word aliases
+Thyroid Cancer,IDH2,7,single-word aliases
+Thyroid Cancer,SMARCA4,7,single-word aliases
+Thyroid Cancer,ROS1,14,single-word aliases
+Thyroid Cancer,ETV4,8,single-word aliases
+Thyroid Cancer,PDC,26,single-word aliases
+Thyroid Cancer,DAXX,4,single-word aliases
+Thyroid Cancer,PEBP1,5,single-word aliases
+Thyroid Cancer,EP300,17,single-word aliases
+Thyroid Cancer,IDH1,11,single-word aliases
+Thyroid Cancer,ATF4,10,single-word aliases
+Thyroid Cancer,SNAI2,8,single-word aliases
+Thyroid Cancer,CASP3,8,single-word aliases
+Thyroid Cancer,EML4,10,single-word aliases
+Thyroid Cancer,CHL1,80,single-word aliases
+Thyroid Cancer,ZNF148,3,single-word aliases
+Thyroid Cancer,MAPK1,19,single-word aliases
+Thyroid Cancer,AKT3,16,single-word aliases
+Thyroid Cancer,CDKN2A,64,single-word aliases
+Thyroid Cancer,AIP,6,single-word aliases
+Thyroid Cancer,GABPA,35,single-word aliases
+Thyroid Cancer,CDK4,37,single-word aliases
+Thyroid Cancer,SLC5A5,31,single-word aliases
+Thyroid Cancer,ETV5,6,single-word aliases
+Thyroid Cancer,CAT,47,single-word aliases
+Thyroid Cancer,SOD2,8,single-word aliases
+Thyroid Cancer,ESR1,16,single-word aliases
+Thyroid Cancer,ARID1A,6,single-word aliases
+Thyroid Cancer,AGK,4,single-word aliases
+Thyroid Cancer,SFN,120,single-word aliases
+Thyroid Cancer,TAT,12,single-word aliases
+Thyroid Cancer,SPOP,7,single-word aliases
+Thyroid Cancer,BANCR,9,single-word aliases
+Thyroid Cancer,MUTYH,9,single-word aliases
+Thyroid Cancer,NFE2L2,32,single-word aliases
+Thyroid Cancer,CTSB,10,single-word aliases
+Thyroid Cancer,CDH16,6,single-word aliases
+Thyroid Cancer,FAM107B,10,single-word aliases
+Thyroid Cancer,DUOX2,12,single-word aliases
+Thyroid Cancer,MEN1,44,single-word aliases
+Thyroid Cancer,SMAD4,18,single-word aliases
+Thyroid Cancer,PDGFRB,8,single-word aliases
+Thyroid Cancer,MSH6,16,single-word aliases
+Thyroid Cancer,JAK2,24,single-word aliases
+Thyroid Cancer,FOXD3-AS1,114,single-word aliases
+Thyroid Cancer,MLH1,22,single-word aliases
+Thyroid Cancer,THRB,51,single-word aliases
+Thyroid Cancer,FGFR2,17,single-word aliases
+Thyroid Cancer,CD5,43,single-word aliases
+Thyroid Cancer,CDKN1B,79,single-word aliases
+Thyroid Cancer,CTNS,22,single-word aliases
+Thyroid Cancer,GSC,46,single-word aliases
+Thyroid Cancer,PTH,202,single-word aliases
+Thyroid Cancer,VEGFA,33,single-word aliases
+Thyroid Cancer,NCAM1,79,single-word aliases
+Thyroid Cancer,ATM,57,single-word aliases
+Thyroid Cancer,AMACR,277,single-word aliases
+Thyroid Cancer,INS,164,single-word aliases
+Thyroid Cancer,ACR,298,single-word aliases
+Thyroid Cancer,EGR3,130,single-word aliases
+Thyroid Cancer,VIM,202,single-word aliases
+Thyroid Cancer,NKX2-1,257,phrase text scan
+Brain Cancer,IDH1,1695,single-word aliases
+Brain Cancer,TP53,1052,single-word aliases
+Brain Cancer,EGFR,2561,single-word aliases
+Brain Cancer,TERT,501,single-word aliases
+Brain Cancer,IDH2,305,single-word aliases
+Brain Cancer,BRAF,1155,single-word aliases
+Brain Cancer,KRAS,217,single-word aliases
+Brain Cancer,ATRX,460,single-word aliases
+Brain Cancer,PIK3CA,1143,single-word aliases
+Brain Cancer,MGMT,2138,single-word aliases
+Brain Cancer,PTEN,914,single-word aliases
+Brain Cancer,MLH1,236,single-word aliases
+Brain Cancer,CDKN2A,643,single-word aliases
+Brain Cancer,AHR,99,single-word aliases
+Brain Cancer,AIP,178,single-word aliases
+Brain Cancer,MSH2,217,single-word aliases
+Brain Cancer,MKI67,21,single-word aliases
+Brain Cancer,MSH6,237,single-word aliases
+Brain Cancer,PMS2,204,single-word aliases
+Brain Cancer,PDGFRA,261,single-word aliases
+Brain Cancer,CTNNB1,156,single-word aliases
+Brain Cancer,POLE,106,single-word aliases
+Brain Cancer,NRAS,67,single-word aliases
+Brain Cancer,NF1,428,single-word aliases
+Brain Cancer,POMC,853,single-word aliases
+Brain Cancer,H3C3,1,single-word aliases
+Brain Cancer,MEN1,214,single-word aliases
+Brain Cancer,GNAS,82,single-word aliases
+Brain Cancer,KIT,248,single-word aliases
+Brain Cancer,FGFR1,142,single-word aliases
+Brain Cancer,KIAA1549,62,single-word aliases
+Brain Cancer,ALK,340,single-word aliases
+Brain Cancer,IGF1,67,single-word aliases
+Brain Cancer,PDCD1,19,single-word aliases
+Brain Cancer,RB1,165,single-word aliases
+Brain Cancer,SHH,689,single-word aliases
+Brain Cancer,CIC,75,single-word aliases
+Brain Cancer,MET,1691,single-word aliases
+Brain Cancer,ERBB2,748,single-word aliases
+Brain Cancer,PRL,1681,single-word aliases
+Brain Cancer,CD274,62,single-word aliases
+Brain Cancer,KRIT1,19,single-word aliases
+Brain Cancer,PPM1D,23,single-word aliases
+Brain Cancer,HRAS,34,single-word aliases
+Brain Cancer,PTCH1,142,single-word aliases
+Brain Cancer,PTPN11,38,single-word aliases
+Brain Cancer,SETD2,20,single-word aliases
+Brain Cancer,INS,351,single-word aliases
+Brain Cancer,SUFU,66,single-word aliases
+Brain Cancer,PIK3R1,35,single-word aliases
+Brain Cancer,SMO,116,single-word aliases
+Brain Cancer,NF2,132,single-word aliases
+Brain Cancer,VHL,198,single-word aliases
+Brain Cancer,SMARCA4,80,single-word aliases
+Brain Cancer,SMARCB1,206,single-word aliases
+Brain Cancer,CDKN1B,146,single-word aliases
+Brain Cancer,DICER1,69,single-word aliases
+Brain Cancer,POU1F1,13,single-word aliases
+Brain Cancer,USP8,56,single-word aliases
+Brain Cancer,ACVR1,50,single-word aliases
+Brain Cancer,NES,459,single-word aliases
+Brain Cancer,CCM2,17,single-word aliases
+Brain Cancer,APC,163,single-word aliases
+Brain Cancer,MYC,420,single-word aliases
+Brain Cancer,RET,77,single-word aliases
+Brain Cancer,CHEK2,49,single-word aliases
+Brain Cancer,MYCN,200,single-word aliases
+Brain Cancer,FGFR3,48,single-word aliases
+Brain Cancer,HIF1A,131,single-word aliases
+Brain Cancer,PROP1,9,single-word aliases
+Brain Cancer,OLIG2,286,single-word aliases
+Brain Cancer,SDHD,19,single-word aliases
+Brain Cancer,DUSP4,6,single-word aliases
+Brain Cancer,FOXD3,222,single-word aliases
+Brain Cancer,RAF1,28,single-word aliases
+Brain Cancer,EGF,263,single-word aliases
+Brain Cancer,KBTBD4,10,single-word aliases
+Brain Cancer,MUC16,21,single-word aliases
+Brain Cancer,SDHC,12,single-word aliases
+Brain Cancer,CAT,170,single-word aliases
+Brain Cancer,ROS1,68,single-word aliases
+Brain Cancer,STK11,22,single-word aliases
+Brain Cancer,CLC,4,single-word aliases
+Brain Cancer,BRCA1,77,single-word aliases
+Brain Cancer,PARP1,396,single-word aliases
+Brain Cancer,PRDM6,53,single-word aliases
+Brain Cancer,CHIC2,2,single-word aliases
+Brain Cancer,FUBP1,37,single-word aliases
+Brain Cancer,GLI2,60,single-word aliases
+Brain Cancer,MTOR,770,single-word aliases
+Brain Cancer,CDKN1A,112,single-word aliases
+Brain Cancer,BRCA2,52,single-word aliases
+Brain Cancer,GFAP,768,single-word aliases
+Brain Cancer,ATM,138,single-word aliases
+Brain Cancer,MAF,13,single-word aliases
+Brain Cancer,SDHB,26,single-word aliases
+Brain Cancer,KLF4,48,single-word aliases
+Brain Cancer,SF3B1,11,single-word aliases
+Brain Cancer,B2M,17,single-word aliases
+Brain Cancer,MUTYH,16,single-word aliases
+Brain Cancer,SST,786,single-word aliases
+Brain Cancer,FGFR4,28,single-word aliases
+Brain Cancer,PRKAR1A,54,single-word aliases
+Brain Cancer,TSC1,62,single-word aliases
+Brain Cancer,SDHA,14,single-word aliases
+Brain Cancer,TSC2,71,single-word aliases
+Brain Cancer,CDK6,124,single-word aliases
+Brain Cancer,GLI3,50,single-word aliases
+Brain Cancer,FLT3,11,single-word aliases
+Brain Cancer,EZHIP,23,single-word aliases
+Brain Cancer,AKT1,82,single-word aliases
+Brain Cancer,MDM2,204,single-word aliases
+Brain Cancer,PSMB6,106,single-word aliases
+Brain Cancer,YY1,122,single-word aliases
+Brain Cancer,PDCD10,18,single-word aliases
+Brain Cancer,TRAF7,9,single-word aliases
+Brain Cancer,ING1,5,single-word aliases
+Brain Cancer,FASTK,793,single-word aliases
+Brain Cancer,KDR,223,single-word aliases
+Brain Cancer,NLRP2,14,single-word aliases
+Brain Cancer,GNAI2,4,single-word aliases
+Brain Cancer,DDX3X,24,single-word aliases
+Brain Cancer,ETV1,8,single-word aliases
+Brain Cancer,HAVCR2,16,single-word aliases
+Brain Cancer,NOTCH1,122,single-word aliases
+Brain Cancer,ASXL1,4,single-word aliases
+Brain Cancer,CTNNA1,2,single-word aliases
+Brain Cancer,CA9,47,single-word aliases
+Brain Cancer,EZH2,163,single-word aliases
+Brain Cancer,ARID1A,25,single-word aliases
+Brain Cancer,BSG,90,single-word aliases
+Brain Cancer,EGR3,521,single-word aliases
+Brain Cancer,IHH,8,single-word aliases
+Brain Cancer,OLIG1,19,single-word aliases
+Brain Cancer,POLD1,47,single-word aliases
+Brain Cancer,KMT2C,11,single-word aliases
+Brain Cancer,STAG2,6,single-word aliases
+Brain Cancer,EAF2,211,single-word aliases
+Brain Cancer,MOS,164,single-word aliases
+Brain Cancer,KMT2D,15,single-word aliases
+Brain Cancer,SHE,1536,single-word aliases
+Brain Cancer,CCND1,98,single-word aliases
+Brain Cancer,GIP,6,single-word aliases
+Brain Cancer,KMT2B,17,single-word aliases
+Brain Cancer,CD34,349,single-word aliases
+Brain Cancer,SMARCE1,9,single-word aliases
+Brain Cancer,ESR1,28,single-word aliases
+Brain Cancer,PRKCA,22,single-word aliases
+Brain Cancer,GPR101,25,single-word aliases
+Brain Cancer,FOXG1,14,single-word aliases
+Brain Cancer,GHRH,80,single-word aliases
+Brain Cancer,CREBBP,14,single-word aliases
+Brain Cancer,KDM6A,14,single-word aliases
+Brain Cancer,PTCH2,9,single-word aliases
+Brain Cancer,ERBB3,46,single-word aliases
+Brain Cancer,CGA,29,single-word aliases
+Brain Cancer,EML4,10,single-word aliases
+Brain Cancer,CTC1,25,single-word aliases
+Brain Cancer,CTLA4,38,single-word aliases
+Brain Cancer,TH,138,single-word aliases
+Brain Cancer,TYR,41,single-word aliases
+Brain Cancer,KEAP1,15,single-word aliases
+Brain Cancer,CCND2,25,single-word aliases
+Brain Cancer,MAP2K1,67,single-word aliases
+Brain Cancer,CSF1R,41,single-word aliases
+Brain Cancer,GCA,25,single-word aliases
+Brain Cancer,CD40LG,63,single-word aliases
+Brain Cancer,ACP5,58,single-word aliases
+Brain Cancer,SART3,22,single-word aliases
+Brain Cancer,PDZK1,48,single-word aliases
+Brain Cancer,REST,373,single-word aliases
+Brain Cancer,FGFR2,45,single-word aliases
+Brain Cancer,ERBB4,33,single-word aliases
+Brain Cancer,NR4A3,652,single-word aliases
+Brain Cancer,CDK4,276,single-word aliases
+Brain Cancer,BCOR,33,single-word aliases
+Brain Cancer,GAB1,27,single-word aliases
+Brain Cancer,AGT,36,single-word aliases
+Brain Cancer,CDKN2B,58,single-word aliases
+Brain Cancer,MALAT1,32,single-word aliases
+Brain Cancer,NOVA2,235,single-word aliases
+Brain Cancer,OTX2,45,single-word aliases
+Brain Cancer,TRH,68,single-word aliases
+Brain Cancer,STAT3,578,single-word aliases
+Brain Cancer,PTS,85,single-word aliases
+Brain Cancer,H2AX,167,single-word aliases
+Brain Cancer,NODAL,130,single-word aliases
+Brain Cancer,JAK2,75,single-word aliases
+Brain Cancer,RAC1,92,single-word aliases
+Brain Cancer,VIM,571,single-word aliases
+Brain Cancer,TNF,320,single-word aliases
+Brain Cancer,GLI1,136,single-word aliases
+Brain Cancer,SYP,405,single-word aliases
+Brain Cancer,PROM1,597,single-word aliases
+Leukemia,FLT3,3113,single-word aliases
+Leukemia,NPM1,1622,single-word aliases
+Leukemia,DNMT3A,827,single-word aliases
+Leukemia,BCR,2636,single-word aliases
+Leukemia,CEBPA,678,single-word aliases
+Leukemia,NRAS,572,single-word aliases
+Leukemia,ASXL1,575,single-word aliases
+Leukemia,RUNX1,1314,single-word aliases
+Leukemia,TP53,2043,single-word aliases
+Leukemia,IDH1,656,single-word aliases
+Leukemia,TET2,703,single-word aliases
+Leukemia,KIT,1207,single-word aliases
+Leukemia,ABL1,1002,single-word aliases
+Leukemia,IDH2,524,single-word aliases
+Leukemia,U2AF1,149,single-word aliases
+Leukemia,PTPN11,331,single-word aliases
+Leukemia,KRAS,443,single-word aliases
+Leukemia,SRSF2,282,single-word aliases
+Leukemia,SF3B1,336,single-word aliases
+Leukemia,NOTCH1,874,single-word aliases
+Leukemia,WT1,809,single-word aliases
+Leukemia,JAK2,812,single-word aliases
+Leukemia,CD48,4096,single-word aliases
+Leukemia,MPL,126,single-word aliases
+Leukemia,EZH2,329,single-word aliases
+Leukemia,BRAF,262,single-word aliases
+Leukemia,RUNX1T1,161,single-word aliases
+Leukemia,CSF3R,105,single-word aliases
+Leukemia,CBL,213,single-word aliases
+Leukemia,FBXW7,133,single-word aliases
+Leukemia,BCOR,106,single-word aliases
+Leukemia,CALR,126,single-word aliases
+Leukemia,GATA2,219,single-word aliases
+Leukemia,PHF6,97,single-word aliases
+Leukemia,KMT2A,652,single-word aliases
+Leukemia,MYH11,157,single-word aliases
+Leukemia,BCORL1,33,single-word aliases
+Leukemia,ZRSR2,46,single-word aliases
+Leukemia,STAG2,73,single-word aliases
+Leukemia,ATM,447,single-word aliases
+Leukemia,IKZF1,579,single-word aliases
+Leukemia,ETV6,486,single-word aliases
+Leukemia,JAK3,123,single-word aliases
+Leukemia,CD34,3336,single-word aliases
+Leukemia,BIRC3,118,single-word aliases
+Leukemia,JAK1,187,single-word aliases
+Leukemia,CDKN2A,512,single-word aliases
+Leukemia,CBFB,130,single-word aliases
+Leukemia,RARA,553,single-word aliases
+Leukemia,MYD88,106,single-word aliases
+Leukemia,IGLL1,11,single-word aliases
+Leukemia,SETBP1,95,single-word aliases
+Leukemia,KMT2D,42,single-word aliases
+Leukemia,NF1,171,single-word aliases
+Leukemia,TNFRSF11A,259,single-word aliases
+Leukemia,CD7,553,single-word aliases
+Leukemia,STAT3,645,single-word aliases
+Leukemia,HRAS,22,single-word aliases
+Leukemia,FAT1,17,single-word aliases
+Leukemia,GATA1,230,single-word aliases
+Leukemia,SPI1,85,single-word aliases
+Leukemia,SMC3,29,single-word aliases
+Leukemia,PML,885,single-word aliases
+Leukemia,ZAP70,160,single-word aliases
+Leukemia,CSF1R,56,single-word aliases
+Leukemia,THPO,174,single-word aliases
+Leukemia,CR1,813,single-word aliases
+Leukemia,IL7R,122,single-word aliases
+Leukemia,PBX1,108,single-word aliases
+Leukemia,BRCA1,91,single-word aliases
+Leukemia,NR4A3,982,single-word aliases
+Leukemia,SMC1A,26,single-word aliases
+Leukemia,IL7,27,single-word aliases
+Leukemia,F3,271,single-word aliases
+Leukemia,PLCG2,48,single-word aliases
+Leukemia,PRAM1,1,single-word aliases
+Leukemia,CD38,1377,single-word aliases
+Leukemia,SETD2,48,single-word aliases
+Leukemia,DDX41,67,single-word aliases
+Leukemia,XPO1,116,single-word aliases
+Leukemia,NSD2,14,single-word aliases
+Leukemia,MET,690,single-word aliases
+Leukemia,NOTCH2,60,single-word aliases
+Leukemia,BCAR3,1,single-word aliases
+Leukemia,IKZF3,42,single-word aliases
+Leukemia,FANCA,28,single-word aliases
+Leukemia,FAM3A,1,single-word aliases
+Leukemia,RUNX2,68,single-word aliases
+Leukemia,PTEN,378,single-word aliases
+Leukemia,RHD,18,single-word aliases
+Leukemia,MED12,17,single-word aliases
+Leukemia,FASTK,377,single-word aliases
+Leukemia,CREBBP,81,single-word aliases
+Leukemia,RELN,10,single-word aliases
+Leukemia,TCF3,96,single-word aliases
+Leukemia,PAX5,357,single-word aliases
+Leukemia,SH2B3,42,single-word aliases
+Leukemia,NUP98,225,single-word aliases
+Leukemia,BTK,739,single-word aliases
+Leukemia,CISH,31,single-word aliases
+Leukemia,TERT,67,single-word aliases
+Leukemia,BAD,284,single-word aliases
+Leukemia,RAD21,35,single-word aliases
+Leukemia,STAG1,5,single-word aliases
+Leukemia,MAP2K2,18,single-word aliases
+Leukemia,IRAK4,17,single-word aliases
+Leukemia,STAT5B,117,single-word aliases
+Leukemia,CDKN1B,211,single-word aliases
+Leukemia,MAPK3,371,single-word aliases
+Leukemia,MPO,517,single-word aliases
+Leukemia,USP7,25,single-word aliases
+Leukemia,RAF1,29,single-word aliases
+Leukemia,KMT2B,28,single-word aliases
+Leukemia,FAT4,2,single-word aliases
+Leukemia,AICDA,14,single-word aliases
+Leukemia,SBDS,14,single-word aliases
+Leukemia,CCND3,33,single-word aliases
+Leukemia,CCR4,120,single-word aliases
+Leukemia,AURKA,37,single-word aliases
+Leukemia,EP300,196,single-word aliases
+Leukemia,INS,284,single-word aliases
+Leukemia,SUZ12,43,single-word aliases
+Leukemia,TAL1,180,single-word aliases
+Leukemia,CD33,1015,single-word aliases
+Leukemia,RPS15,12,single-word aliases
+Leukemia,LEF1,88,single-word aliases
+Leukemia,FANCG,13,single-word aliases
+Leukemia,CDKN1A,296,single-word aliases
+Leukemia,KDR,126,single-word aliases
+Leukemia,CRLF2,187,single-word aliases
+Leukemia,PIK3CA,1380,single-word aliases
+Leukemia,PIGA,6,single-word aliases
+Leukemia,SPEN,122,single-word aliases
+Leukemia,TYR,38,single-word aliases
+Leukemia,SMARCA4,53,single-word aliases
+Leukemia,SAMHD1,43,single-word aliases
+Leukemia,CD74,50,single-word aliases
+Leukemia,CLIP2,17,single-word aliases
+Leukemia,POMC,42,single-word aliases
+Leukemia,BCL2,980,single-word aliases
+Leukemia,CDKN2B,165,single-word aliases
+Leukemia,PLCG1,18,single-word aliases
+Leukemia,AR,92,single-word aliases
+Leukemia,HOXD13,13,single-word aliases
+Leukemia,BCL11B,81,single-word aliases
+Leukemia,MAP2K1,157,single-word aliases
+Leukemia,MLLT1,27,single-word aliases
+Leukemia,MTOR,866,single-word aliases
+Leukemia,ELANE,16,single-word aliases
+Leukemia,RPL10,13,single-word aliases
+Leukemia,CD244,42,single-word aliases
+Leukemia,EBP,265,single-word aliases
+Leukemia,DDX3X,21,single-word aliases
+Leukemia,DNM2,10,single-word aliases
+Leukemia,IGH,534,single-word aliases
+Leukemia,ASXL2,19,single-word aliases
+Leukemia,POT1,32,single-word aliases
+Leukemia,EGR3,472,single-word aliases
+Leukemia,TCL1A,179,single-word aliases
+Leukemia,ARID1A,21,single-word aliases
+Leukemia,NSD1,46,single-word aliases
+Leukemia,DNMT3B,77,single-word aliases
+Leukemia,NT5C2,43,single-word aliases
+Leukemia,FANCD2,24,single-word aliases
+Leukemia,AKT1,74,single-word aliases
+Leukemia,BRCA2,56,single-word aliases
+Leukemia,IRF8,81,single-word aliases
+Leukemia,SRC,501,single-word aliases
+Leukemia,KDM6A,36,single-word aliases
+Leukemia,TYK2,41,single-word aliases
+Leukemia,MOS,45,single-word aliases
+Leukemia,TNFRSF10B,1709,single-word aliases
+Leukemia,MLLT3,68,single-word aliases
+Leukemia,BAALC,99,single-word aliases
+Leukemia,NOTCH3,54,single-word aliases
+Leukemia,PARP1,687,single-word aliases
+Leukemia,DNMT1,144,single-word aliases
+Leukemia,NUP214,56,single-word aliases
+Leukemia,MYC,844,single-word aliases
+Leukemia,CD2,309,single-word aliases
+Leukemia,CCND1,118,single-word aliases
+Leukemia,AMACR,505,single-word aliases
+Leukemia,CTCF,72,single-word aliases
+Leukemia,AHR,97,single-word aliases
+Leukemia,HES1,80,single-word aliases
+Leukemia,CD79A,192,single-word aliases
+Leukemia,NCAM1,749,single-word aliases
+Leukemia,IL2RA,561,single-word aliases
+Leukemia,ISG20,548,single-word aliases
+Leukemia,FOXD3,153,single-word aliases
+Leukemia,BCL6,103,single-word aliases
+Leukemia,REST,253,single-word aliases
+Leukemia,ITGAX,232,single-word aliases
+Leukemia,NRM,756,single-word aliases
+Leukemia,ERG,214,single-word aliases
+Leukemia,CD52,153,single-word aliases
+Leukemia,MYB,173,single-word aliases
+Leukemia,MME,503,single-word aliases
+Leukemia,CD14,406,single-word aliases
+Leukemia,ITGAM,518,single-word aliases
+Leukemia,SHE,1223,single-word aliases
+Leukemia,CD22,495,single-word aliases
+Leukemia,CD19,1825,single-word aliases
+Leukemia,CXCR4,472,single-word aliases
+Lymphoma,MYD88,481,single-word aliases
+Lymphoma,TP53,739,single-word aliases
+Lymphoma,MYC,1867,single-word aliases
+Lymphoma,CD79B,296,single-word aliases
+Lymphoma,KMT2D,189,single-word aliases
+Lymphoma,EZH2,329,single-word aliases
+Lymphoma,CREBBP,159,single-word aliases
+Lymphoma,BCL2,1713,single-word aliases
+Lymphoma,ATM,278,single-word aliases
+Lymphoma,TET2,205,single-word aliases
+Lymphoma,CARD11,157,single-word aliases
+Lymphoma,RHOA,148,single-word aliases
+Lymphoma,TNFAIP3,137,single-word aliases
+Lymphoma,CDKN2A,339,single-word aliases
+Lymphoma,PIM1,110,single-word aliases
+Lymphoma,NOTCH1,194,single-word aliases
+Lymphoma,TNFRSF14,85,single-word aliases
+Lymphoma,DNMT3A,126,single-word aliases
+Lymphoma,IDH2,77,single-word aliases
+Lymphoma,BCL6,1239,single-word aliases
+Lymphoma,SOCS1,75,single-word aliases
+Lymphoma,NOTCH2,90,single-word aliases
+Lymphoma,STAT3,549,single-word aliases
+Lymphoma,PIK3CA,758,single-word aliases
+Lymphoma,BRAF,89,single-word aliases
+Lymphoma,AICDA,28,single-word aliases
+Lymphoma,NRAS,44,single-word aliases
+Lymphoma,NODAL,2266,single-word aliases
+Lymphoma,EP300,106,single-word aliases
+Lymphoma,KMT2B,43,single-word aliases
+Lymphoma,FAS,381,single-word aliases
+Lymphoma,TBL1XR1,41,single-word aliases
+Lymphoma,MEF2B,43,single-word aliases
+Lymphoma,TNFRSF11A,219,single-word aliases
+Lymphoma,CD274,112,single-word aliases
+Lymphoma,PDCD1,37,single-word aliases
+Lymphoma,NFKB1,79,single-word aliases
+Lymphoma,ARID1A,53,single-word aliases
+Lymphoma,B2M,88,single-word aliases
+Lymphoma,DDIT3,1918,single-word aliases
+Lymphoma,CTNNB1,10,single-word aliases
+Lymphoma,BCL10,150,single-word aliases
+Lymphoma,KRAS,61,single-word aliases
+Lymphoma,CCND3,68,single-word aliases
+Lymphoma,JAK3,108,single-word aliases
+Lymphoma,MSH2,57,single-word aliases
+Lymphoma,CXCR4,242,single-word aliases
+Lymphoma,KMT2C,27,single-word aliases
+Lymphoma,PTEN,181,single-word aliases
+Lymphoma,CCND1,266,single-word aliases
+Lymphoma,STAT6,124,single-word aliases
+Lymphoma,HAVCR2,48,single-word aliases
+Lymphoma,CD79A,571,single-word aliases
+Lymphoma,BTG2,23,single-word aliases
+Lymphoma,ID3,59,single-word aliases
+Lymphoma,FBXW7,29,single-word aliases
+Lymphoma,IGH,1253,single-word aliases
+Lymphoma,KIT,160,single-word aliases
+Lymphoma,NR4A3,585,single-word aliases
+Lymphoma,IL2,38,single-word aliases
+Lymphoma,TRAF3,44,single-word aliases
+Lymphoma,CD58,64,single-word aliases
+Lymphoma,SPEN,109,single-word aliases
+Lymphoma,NFKBIA,70,single-word aliases
+Lymphoma,FASLG,95,single-word aliases
+Lymphoma,FOXD3,118,single-word aliases
+Lymphoma,BTK,549,single-word aliases
+Lymphoma,JAK2,173,single-word aliases
+Lymphoma,BCR,606,single-word aliases
+Lymphoma,PRDM1,111,single-word aliases
+Lymphoma,GNA13,46,single-word aliases
+Lymphoma,DDX3X,38,single-word aliases
+Lymphoma,IRF8,44,single-word aliases
+Lymphoma,FAT1,11,single-word aliases
+Lymphoma,MSH6,30,single-word aliases
+Lymphoma,FOXO1,70,single-word aliases
+Lymphoma,PMS2,25,single-word aliases
+Lymphoma,IKZF1,89,single-word aliases
+Lymphoma,LPL,116,single-word aliases
+Lymphoma,XPO1,65,single-word aliases
+Lymphoma,SGK1,15,single-word aliases
+Lymphoma,MKI67,14,single-word aliases
+Lymphoma,TCF3,42,single-word aliases
+Lymphoma,MTOR,469,single-word aliases
+Lymphoma,BCOR,22,single-word aliases
+Lymphoma,RHOH,24,single-word aliases
+Lymphoma,KLF2,31,single-word aliases
+Lymphoma,NFKBIE,15,single-word aliases
+Lymphoma,STAT5B,52,single-word aliases
+Lymphoma,PRF1,13,single-word aliases
+Lymphoma,TNFRSF10B,2219,single-word aliases
+Lymphoma,IGLL5,22,single-word aliases
+Lymphoma,MLH1,44,single-word aliases
+Lymphoma,ZNF608,3,single-word aliases
+Lymphoma,CD4,2883,single-word aliases
+Lymphoma,NSD2,18,single-word aliases
+Lymphoma,PLCG1,26,single-word aliases
+Lymphoma,TRAF2,52,single-word aliases
+Lymphoma,CD28,193,single-word aliases
+Lymphoma,SMARCA4,27,single-word aliases
+Lymphoma,PDCD1LG2,43,single-word aliases
+Lymphoma,MALT1,253,single-word aliases
+Lymphoma,MME,1268,single-word aliases
+Lymphoma,SF3B1,13,single-word aliases
+Lymphoma,NF1,24,single-word aliases
+Lymphoma,BTG1,23,single-word aliases
+Lymphoma,PCLO,7,single-word aliases
+Lymphoma,IL6,61,single-word aliases
+Lymphoma,UNC13D,7,single-word aliases
+Lymphoma,PAX5,365,single-word aliases
+Lymphoma,TCL1A,60,single-word aliases
+Lymphoma,MAP2K1,47,single-word aliases
+Lymphoma,SETD2,34,single-word aliases
+Lymphoma,BCL11B,33,single-word aliases
+Lymphoma,ICOS,86,single-word aliases
+Lymphoma,COIL,24,single-word aliases
+Lymphoma,JAK1,93,single-word aliases
+Lymphoma,BRCA1,48,single-word aliases
+Lymphoma,BIRC3,59,single-word aliases
+Lymphoma,EAF2,64,single-word aliases
+Lymphoma,IDH1,10,single-word aliases
+Lymphoma,IRF4,304,single-word aliases
+Lymphoma,BIK,18,single-word aliases
+Lymphoma,FOXP1,117,single-word aliases
+Lymphoma,KLHL6,19,single-word aliases
+Lymphoma,PLCG2,21,single-word aliases
+Lymphoma,DTX1,16,single-word aliases
+Lymphoma,BRCA2,35,single-word aliases
+Lymphoma,MGA,8,single-word aliases
+Lymphoma,IL10,86,single-word aliases
+Lymphoma,ALK,1053,single-word aliases
+Lymphoma,UBE2A,3,single-word aliases
+Lymphoma,CIITA,47,single-word aliases
+Lymphoma,UNG,12,single-word aliases
+Lymphoma,TIA1,59,single-word aliases
+Lymphoma,ITGAE,50,single-word aliases
+Lymphoma,CD19,1304,single-word aliases
+Lymphoma,REL,133,single-word aliases
+Lymphoma,PRKDC,10,single-word aliases
+Lymphoma,TNF,549,single-word aliases
+Lymphoma,ETV6,47,single-word aliases
+Lymphoma,TNIP1,3,single-word aliases
+Lymphoma,TNIP2,2,single-word aliases
+Lymphoma,RB1,54,single-word aliases
+Lymphoma,NCOR2,20,single-word aliases
+Lymphoma,LATS1,21,single-word aliases
+Lymphoma,CD5,1170,single-word aliases
+Lymphoma,CHD8,3,single-word aliases
+Lymphoma,CYLD,13,single-word aliases
+Lymphoma,IL4,44,single-word aliases
+Lymphoma,JUN,46,single-word aliases
+Lymphoma,TNFRSF13C,10,single-word aliases
+Lymphoma,IRAK1,21,single-word aliases
+Lymphoma,MAG,8,single-word aliases
+Lymphoma,KDM5A,3,single-word aliases
+Lymphoma,STAT1,98,single-word aliases
+Lymphoma,CTLA4,47,single-word aliases
+Lymphoma,S1PR1,18,single-word aliases
+Lymphoma,IL2RA,366,single-word aliases
+Lymphoma,MDM2,145,single-word aliases
+Lymphoma,DCLRE1C,10,single-word aliases
+Lymphoma,BIRC6,6,single-word aliases
+Lymphoma,HVCN1,3,single-word aliases
+Lymphoma,LILRB1,10,single-word aliases
+Lymphoma,PTPN11,25,single-word aliases
+Lymphoma,PIK3CD,24,single-word aliases
+Lymphoma,RECQL4,6,single-word aliases
+Lymphoma,TNIP3,1,single-word aliases
+Lymphoma,ATP6AP1,3,single-word aliases
+Lymphoma,TP63,41,single-word aliases
+Lymphoma,INS,98,single-word aliases
+Lymphoma,ERBB4,11,single-word aliases
+Lymphoma,OSBPL10,6,single-word aliases
+Lymphoma,PTPRD,10,single-word aliases
+Lymphoma,POT1,18,single-word aliases
+Lymphoma,IL3,4,single-word aliases
+Lymphoma,MAP3K14,8,single-word aliases
+Lymphoma,ARID2,2,single-word aliases
+Lymphoma,BCL7A,12,single-word aliases
+Lymphoma,DOCK8,9,single-word aliases
+Lymphoma,FH,65,single-word aliases
+Lymphoma,AMOTL1,2,single-word aliases
+Lymphoma,POU2F2,70,single-word aliases
+Lymphoma,CHEK2,33,single-word aliases
+Lymphoma,CDK4,128,single-word aliases
+Lymphoma,ARID1B,8,single-word aliases
+Lymphoma,CD38,335,single-word aliases
+Lymphoma,PIGA,1,single-word aliases
+Lymphoma,FBXO11,9,single-word aliases
+Lymphoma,BAD,135,single-word aliases
+Lymphoma,F3,36,single-word aliases
+Lymphoma,MNDA,21,single-word aliases
+Lymphoma,PICALM,14,single-word aliases
+Lymphoma,MAPK1,15,single-word aliases
+Lymphoma,TG,94,single-word aliases
+Lymphoma,CXCL13,166,single-word aliases
+Lymphoma,APC,125,single-word aliases
+Lymphoma,SERPINA9,25,single-word aliases
+Lymphoma,CD69,64,single-word aliases
+Lymphoma,RAD50,14,single-word aliases
+Lymphoma,IGLL1,4,single-word aliases
+Lymphoma,FLT3,44,single-word aliases
+Lymphoma,SRC,113,single-word aliases
+Lymphoma,OLIG2,2,single-word aliases
+Lymphoma,IFITM1,3,single-word aliases
+Lymphoma,MEF2C,8,single-word aliases
+Lymphoma,FANCM,2,single-word aliases
+Lymphoma,UBR5,6,single-word aliases
+Lymphoma,NBN,10,single-word aliases
+Lymphoma,FCER2,400,single-word aliases
+Lymphoma,EBF1,20,single-word aliases
+Lymphoma,POU2AF1,30,single-word aliases
+Lymphoma,CDH1,19,single-word aliases
+Lymphoma,MCL1,81,single-word aliases
+Lymphoma,TGFB1,20,single-word aliases
+Lymphoma,MFHAS1,5,single-word aliases
+Lymphoma,MSC,22,single-word aliases
+Lymphoma,FOS,19,single-word aliases
+Lymphoma,FOSB,2,single-word aliases
+Lymphoma,JUND,16,single-word aliases
+Lymphoma,MEGF6,3,single-word aliases
+Lymphoma,GZMB,17,single-word aliases
+Lymphoma,GNB1,3,single-word aliases
+Lymphoma,MET,707,single-word aliases
+Lymphoma,ITPKB,11,single-word aliases
+Lymphoma,ME2,5,single-word aliases
+Lymphoma,NOTCH3,16,single-word aliases
+Lymphoma,SAMHD1,13,single-word aliases
+Lymphoma,ATR,44,single-word aliases
+Lymphoma,VMA21,2,single-word aliases
+Lymphoma,ZEB2,6,single-word aliases
+Lymphoma,LYN,69,single-word aliases
+Lymphoma,RAG2,46,single-word aliases
+Lymphoma,RUNX1T1,3,single-word aliases
+Lymphoma,ATP6V1B2,3,single-word aliases
+Lymphoma,NFKBIZ,23,single-word aliases
+Lymphoma,STXBP2,6,single-word aliases
+Lymphoma,AR,44,single-word aliases
+Lymphoma,DUSP22,60,single-word aliases
+Lymphoma,KDR,34,single-word aliases
+Lymphoma,YY1,272,single-word aliases
+Lymphoma,KDM6A,11,single-word aliases
+Lymphoma,PPM1D,13,single-word aliases
+Lymphoma,NCAM1,817,single-word aliases
+Lymphoma,GATA3,77,single-word aliases
+Lymphoma,ALB,406,single-word aliases
+Lymphoma,MIR34A,7,single-word aliases
+Lymphoma,SYNE1,6,single-word aliases
+Lymphoma,BCL2L1,33,single-word aliases
+Lymphoma,SHE,1502,single-word aliases
+Lymphoma,ABCC2,20,single-word aliases
+Lymphoma,PI3,20,single-word aliases
+Lymphoma,PIK3R1,20,single-word aliases
+Lymphoma,ZAP70,29,single-word aliases
+Lymphoma,SP140,6,single-word aliases
+Lymphoma,TYK2,23,single-word aliases
+Lymphoma,ULK1,6,single-word aliases
+Lymphoma,CDR2,6,single-word aliases
+Lymphoma,TERT,34,single-word aliases
+Lymphoma,P2RY8,6,single-word aliases
+Lymphoma,IL4R,21,single-word aliases
+Lymphoma,FAT4,6,single-word aliases
+Lymphoma,SH2D1A,40,single-word aliases
+Lymphoma,ACTB,9,single-word aliases
+Lymphoma,CBL,23,single-word aliases
+Lymphoma,RRAGC,6,single-word aliases
+Lymphoma,NOD2,7,single-word aliases
+Lymphoma,RAF1,11,single-word aliases
+Lymphoma,DUSP2,10,single-word aliases
+Lymphoma,TBX21,24,single-word aliases
+Lymphoma,SOX11,145,single-word aliases
+Lymphoma,KMT2A,48,single-word aliases
+Lymphoma,BLM,16,single-word aliases
+Lymphoma,MGMT,71,single-word aliases
+Lymphoma,CISH,36,single-word aliases
+Lymphoma,AKT1,28,single-word aliases
+Lymphoma,PTPN6,34,single-word aliases
+Lymphoma,CD27,142,single-word aliases
+Lymphoma,CDKN2B,53,single-word aliases
+Lymphoma,IFNG,20,single-word aliases
+Lymphoma,VAV1,21,single-word aliases
+Lymphoma,CCR4,173,single-word aliases
+Lymphoma,FYN,34,single-word aliases
+Lymphoma,WT1,28,single-word aliases
+Lymphoma,RAG1,40,single-word aliases
+Lymphoma,CR2,247,single-word aliases
+Lymphoma,RHO,57,single-word aliases
+Lymphoma,EGFR,70,single-word aliases
+Lymphoma,TF,100,single-word aliases
+Lymphoma,CD70,63,single-word aliases
+Lymphoma,SPN,278,single-word aliases
+Lymphoma,CDKN1A,120,single-word aliases
+Lymphoma,ITK,37,single-word aliases
+Lymphoma,TNFSF10,151,single-word aliases
+Lymphoma,BAX,382,single-word aliases
+Lymphoma,LSS,53,single-word aliases
+Lymphoma,IL3RA,88,single-word aliases
+Lymphoma,SLC22A2,67,single-word aliases
+Lymphoma,CCL17,119,single-word aliases
+Lymphoma,XIAP,95,single-word aliases
+Lymphoma,C3,77,single-word aliases
+Lymphoma,SDC1,304,single-word aliases
+Lymphoma,TNFSF13B,126,single-word aliases
+Lymphoma,CD7,412,single-word aliases
+Lymphoma,CD86,92,single-word aliases
+Lymphoma,IGK,103,single-word aliases
+Lymphoma,CD44,134,single-word aliases
+Lymphoma,REST,193,single-word aliases
+Lymphoma,CD68,287,single-word aliases
+Lymphoma,TH,169,single-word aliases
+Lymphoma,CD163,154,single-word aliases
+Lymphoma,PHGDH,257,single-word aliases
+Lymphoma,ISG20,360,single-word aliases
+Lymphoma,CD2,339,single-word aliases
+Lymphoma,IGHV1-2,12,phrase text scan
+Lymphoma,IGHV3-23,10,phrase text scan
+Lymphoma,IGHV4-34,26,phrase text scan
+Lymphoma,HLA-B,45,phrase text scan
+Myeloma,NRAS,68,single-word aliases
+Myeloma,TP53,228,single-word aliases
+Myeloma,BRAF,73,single-word aliases
+Myeloma,KRAS,72,single-word aliases
+Myeloma,DIS3,40,single-word aliases
+Myeloma,SDC1,708,single-word aliases
+Myeloma,IGH,346,single-word aliases
+Myeloma,MYC,294,single-word aliases
+Myeloma,FGFR3,157,single-word aliases
+Myeloma,CCND1,119,single-word aliases
+Myeloma,IRF4,139,single-word aliases
+Myeloma,TRAF3,27,single-word aliases
+Myeloma,RB1,47,single-word aliases
+Myeloma,ATM,42,single-word aliases
+Myeloma,IL6,59,single-word aliases
+Myeloma,DNMT3A,23,single-word aliases
+Myeloma,TET2,18,single-word aliases
+Myeloma,CYLD,13,single-word aliases
+Myeloma,PIK3CA,209,single-word aliases
+Myeloma,NSD2,117,single-word aliases
+Myeloma,MYD88,24,single-word aliases
+Myeloma,BIRC3,22,single-word aliases
+Myeloma,INS,45,single-word aliases
+Myeloma,BCL2,99,single-word aliases
+Myeloma,CRBN,180,single-word aliases
+Myeloma,ASXL1,9,single-word aliases
+Myeloma,MAF,79,single-word aliases
+Myeloma,EGR1,11,single-word aliases
+Myeloma,CDKN2C,23,single-word aliases
+Myeloma,CDKN2A,47,single-word aliases
+Myeloma,BIRC2,18,single-word aliases
+Myeloma,LTB,4,single-word aliases
+Myeloma,PRDM1,18,single-word aliases
+Myeloma,NFKB1,33,single-word aliases
+Myeloma,BCL6,20,single-word aliases
+Myeloma,PSMB5,16,single-word aliases
+Myeloma,CD38,671,single-word aliases
+Myeloma,KMT2A,4,single-word aliases
+Myeloma,STAT3,289,single-word aliases
+Myeloma,KMT2D,5,single-word aliases
+Myeloma,BCL2L1,12,single-word aliases
+Myeloma,KIT,137,single-word aliases
+Myeloma,TNFRSF13B,40,single-word aliases
+Myeloma,FAT1,4,single-word aliases
+Myeloma,TENT5C,3,single-word aliases
+Myeloma,MCL1,43,single-word aliases
+Myeloma,EZH2,60,single-word aliases
+Myeloma,IGLL5,4,single-word aliases
+Myeloma,SF3B1,5,single-word aliases
+Myeloma,IKZF1,97,single-word aliases
+Myeloma,FLT3,11,single-word aliases
+Myeloma,TNFRSF17,33,single-word aliases
+Myeloma,PARP1,152,single-word aliases
+Myeloma,APOB,2,single-word aliases
+Myeloma,BCR,21,single-word aliases
+Myeloma,TRAF2,14,single-word aliases
+Myeloma,SPEN,31,single-word aliases
+Myeloma,IDH2,4,single-word aliases
+Myeloma,MDM2,25,single-word aliases
+Myeloma,CLOCK,4,single-word aliases
+Myeloma,EP300,27,single-word aliases
+Myeloma,CCND2,30,single-word aliases
+Myeloma,UBA1,7,single-word aliases
+Myeloma,MTOR,184,single-word aliases
+Myeloma,APOBEC3B,3,single-word aliases
+Myeloma,CD40,73,single-word aliases
+Myeloma,ERBB2,12,single-word aliases
+Myeloma,SP140,3,single-word aliases
+Myeloma,KDM6A,6,single-word aliases
+Myeloma,KLHL6,3,single-word aliases
+Myeloma,MAX,78,single-word aliases
+Myeloma,AICDA,2,single-word aliases
+Myeloma,BCL10,4,single-word aliases
+Myeloma,NFKB2,10,single-word aliases
+Myeloma,JAK2,73,single-word aliases
+Myeloma,ALK,9,single-word aliases
+Myeloma,FGF1,4,single-word aliases
+Myeloma,DNAH5,2,single-word aliases
+Myeloma,EMD,125,single-word aliases
+Myeloma,ATR,19,single-word aliases
+Myeloma,PTEN,42,single-word aliases
+Myeloma,MKI67,7,single-word aliases
+Myeloma,BCL7A,3,single-word aliases
+Myeloma,XBP1,43,single-word aliases
+Myeloma,IDH1,2,single-word aliases
+Myeloma,B2M,46,single-word aliases
+Myeloma,CXCR4,183,single-word aliases
+Myeloma,LRP1B,3,single-word aliases
+Myeloma,FGFR1,2,single-word aliases
+Myeloma,CUL4A,5,single-word aliases
+Myeloma,CD274,15,single-word aliases
+Myeloma,LPL,15,single-word aliases
+Myeloma,ROBO1,3,single-word aliases
+Myeloma,PRKD2,3,single-word aliases
+Myeloma,TNF,233,single-word aliases
+Myeloma,PMAIP1,58,single-word aliases
+Myeloma,DDB1,7,single-word aliases
+Myeloma,MPL,3,single-word aliases
+Myeloma,SYNE1,3,single-word aliases
+Myeloma,CD19,257,single-word aliases
+Myeloma,PI3,8,single-word aliases
+Myeloma,CD79B,8,single-word aliases
+Myeloma,CD48,24,single-word aliases
+Myeloma,BAD,59,single-word aliases
+Myeloma,FAS,76,single-word aliases
+Myeloma,KMT2C,2,single-word aliases
+Myeloma,MAP2K4,3,single-word aliases
+Myeloma,CDKN1A,51,single-word aliases
+Myeloma,GPRC5D,140,single-word aliases
+Myeloma,CASP3,7,single-word aliases
+Myeloma,AUTS2,2,single-word aliases
+Myeloma,KDM1A,10,single-word aliases
+Myeloma,PTPN11,10,single-word aliases
+Myeloma,CD27,89,single-word aliases
+Myeloma,HUWE1,5,single-word aliases
+Myeloma,HPRT1,5,single-word aliases
+Myeloma,TTN,4,single-word aliases
+Myeloma,CKS1B,37,single-word aliases
+Myeloma,PSMB10,4,single-word aliases
+Myeloma,PSMB9,4,single-word aliases
+Myeloma,SMARCB1,3,single-word aliases
+Myeloma,YBX1,1,single-word aliases
+Myeloma,LGR4,5,single-word aliases
+Myeloma,LTK,3,single-word aliases
+Myeloma,FCRL5,52,single-word aliases
+Myeloma,CD81,44,single-word aliases
+Myeloma,KPNA2,4,single-word aliases
+Myeloma,JUN,26,single-word aliases
+Myeloma,PSMB6,36,single-word aliases
+Myeloma,COPS8,5,single-word aliases
+Myeloma,RELA,15,single-word aliases
+Myeloma,HRAS,4,single-word aliases
+Myeloma,IGF1R,21,single-word aliases
+Myeloma,NFKBIA,32,single-word aliases
+Myeloma,PDCD1,3,single-word aliases
+Myeloma,MAFB,43,single-word aliases
+Myeloma,IGL,22,single-word aliases
+Myeloma,PPM1D,2,single-word aliases
+Myeloma,INSR,3,single-word aliases
+Myeloma,RAF1,1,single-word aliases
+Myeloma,PBK,5,single-word aliases
+Myeloma,CHEK2,10,single-word aliases
+Myeloma,BLM,2,single-word aliases
+Myeloma,MAP3K14,2,single-word aliases
+Myeloma,EML4,1,single-word aliases
+Myeloma,CDR2,5,single-word aliases
+Myeloma,MAFA,5,single-word aliases
+Myeloma,PSMC6,2,single-word aliases
+Myeloma,GBA1,3,single-word aliases
+Myeloma,CTRL,2,single-word aliases
+Myeloma,PHF19,12,single-word aliases
+Myeloma,ITM2C,2,single-word aliases
+Myeloma,CLPTM1L,2,single-word aliases
+Myeloma,MET,290,single-word aliases
+Myeloma,STAT1,40,single-word aliases
+Myeloma,TNFRSF11A,157,single-word aliases
+Myeloma,IKBKG,7,single-word aliases
+Myeloma,SETD2,2,single-word aliases
+Myeloma,HGF,95,single-word aliases
+Myeloma,CEBPA,6,single-word aliases
+Myeloma,FOS,13,single-word aliases
+Myeloma,ARID1A,5,single-word aliases
+Myeloma,PSEN2,2,single-word aliases
+Myeloma,PSEN1,2,single-word aliases
+Myeloma,RELB,7,single-word aliases
+Myeloma,BTK,27,single-word aliases
+Myeloma,IRF1,8,single-word aliases
+Myeloma,TRA,3,single-word aliases
+Myeloma,TNFSF13B,67,single-word aliases
+Myeloma,TF,54,single-word aliases
+Myeloma,SHE,277,single-word aliases
+Myeloma,GLI2,5,single-word aliases
+Myeloma,IL6R,25,single-word aliases
+Myeloma,RUNX1,8,single-word aliases
+Myeloma,TNFAIP3,9,single-word aliases
+Myeloma,NCAM1,252,single-word aliases
+Myeloma,EGFR,113,single-word aliases
+Myeloma,FOSB,1,single-word aliases
+Myeloma,JUND,1,single-word aliases
+Myeloma,CCND3,21,single-word aliases
+Myeloma,FOXO3,6,single-word aliases
+Myeloma,SFRP2,5,single-word aliases
+Myeloma,HAS1,7,single-word aliases
+Myeloma,BAX,182,single-word aliases
+Myeloma,TTR,14,single-word aliases
+Myeloma,IGF1,17,single-word aliases
+Myeloma,CASP8,11,single-word aliases
+Myeloma,AKT1,12,single-word aliases
+Myeloma,CDKN1B,49,single-word aliases
+Myeloma,E2F1,15,single-word aliases
+Myeloma,F3,6,single-word aliases
+Myeloma,NFE2L2,30,single-word aliases
+Myeloma,PAX5,33,single-word aliases
+Myeloma,BRCA1,12,single-word aliases
+Myeloma,MIP,14,single-word aliases
+Myeloma,FOXM1,16,single-word aliases
+Myeloma,HSP90AA1,84,single-word aliases
+Myeloma,ABCB1,24,single-word aliases
+Myeloma,C3,27,single-word aliases
+Myeloma,CD24,13,single-word aliases
+Myeloma,TNFSF10,100,single-word aliases
+Myeloma,ALB,387,single-word aliases
+Myeloma,IGK,20,single-word aliases
+Myeloma,MME,25,single-word aliases
+Myeloma,HDAC1,18,single-word aliases
+Myeloma,TRAF6,13,single-word aliases
+Myeloma,CDK6,31,single-word aliases
+Myeloma,CCL3,29,single-word aliases
+Myeloma,IL2RA,57,single-word aliases
+Myeloma,IKZF3,71,single-word aliases
+Myeloma,PECAM1,32,single-word aliases
+Myeloma,NGF,46,single-word aliases
+Myeloma,CDK4,41,single-word aliases
+Myeloma,EGR3,129,single-word aliases
+Myeloma,CD34,741,single-word aliases
+Myeloma,DKK1,58,single-word aliases
+Myeloma,APC,57,single-word aliases
+Myeloma,DDIT3,65,single-word aliases
+Myeloma,CAST,182,single-word aliases
+Myeloma,TNFSF11,193,single-word aliases
+Myeloma,BIRC5,110,single-word aliases
+Myeloma,PHGDH,152,single-word aliases
+Myeloma,TNFRSF10B,410,single-word aliases
+Myeloma,CD4,366,single-word aliases

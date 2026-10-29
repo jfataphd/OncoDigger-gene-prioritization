@@ -1,0 +1,20 @@
+cancer,parent_mesh,entities_used_in_benchmark
+Breast Cancer,D001943,Breast Neoplasms (D001943)
+Lung Cancer,D008175,"Lung Neoplasms (D008175), Non-Small Cell Lung Carcinoma (D002289), Lung Adenocarcinoma (D000077192)"
+Colorectal Cancer,D015179,"Colorectal Neoplasms (D015179), Colonic Neoplasms (D003110), Rectal Neoplasms (D012004)"
+Prostate Cancer,D011471,Prostatic Neoplasms (D011471)
+Melanoma,D008545,"Melanoma (D008545), Uveal Melanoma (C536494)"
+Bladder Cancer,D001749,Urinary Bladder Neoplasms (D001749)
+Kidney Cancer,D007680,"Kidney Neoplasms (D007680), Renal Cell Carcinoma (D002292), Wilms Tumor (D009396)"
+Pancreatic Cancer,D010190,Pancreatic Neoplasms (D010190)
+Liver Cancer,D008113,"Hepatocellular Carcinoma (D006528), Cholangiocarcinoma (D018281) (the ambiguous parent D008113 itself was not queried; see Results 5.4)"
+Stomach Cancer,D013274,Stomach Neoplasms (D013274)
+Esophageal Cancer,D004938,Esophageal Neoplasms (D004938)
+Ovarian Cancer,D010051,Ovarian Neoplasms (D010051)
+Endometrial Cancer,D016889,Endometrial Neoplasms (D016889)
+Cervical Cancer,D002583,Uterine Cervical Neoplasms (D002583)
+Thyroid Cancer,D013964,Thyroid Neoplasms (D013964)
+Brain Cancer,D001932,"Brain Neoplasms (D001932), Glioma (D005910), Glioblastoma (D005909), Medulloblastoma (D008527), Astrocytoma (D001254), Ependymoma (D004806), Diffuse Intrinsic Pontine Glioma (D000080443)"
+Leukemia,D007938,"Leukemia (D007938), Acute Myeloid Leukemia (D015470), Precursor Cell Lymphoblastic Leukemia-Lymphoma (D054198), Chronic Myeloid Leukemia (D015464), Chronic Lymphocytic Leukemia (D015451), Myelodysplastic Syndromes (D009190), Acute Promyelocytic Leukemia (D015473)"
+Lymphoma,D008223,"Lymphoma (D008223), Non-Hodgkin Lymphoma (D008228), Diffuse Large B-Cell Lymphoma (D016403), Burkitt Lymphoma (D002051), Mantle Cell Lymphoma (D020522), Marginal Zone B-Cell Lymphoma (D018442)"
+Myeloma,D009101,Multiple Myeloma (D009101)

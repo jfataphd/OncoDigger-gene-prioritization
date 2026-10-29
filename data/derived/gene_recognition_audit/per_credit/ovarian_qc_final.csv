@@ -1,0 +1,420 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Ovarian Cancer,BRCA1,11263938,random,brca1,C,M,,symbol 'BRCA1' present,22,risk of endometrial carcinoma associated with brca mutation,M
+Ovarian Cancer,BRCA1,25236687,random,brca1,C,M,,symbol 'BRCA1' present,68,significant clinical impact of recurrent brca1 and brca2 mutations in mexico,M
+Ovarian Cancer,BRCA1,16234499,random,brca1,C,M,,symbol 'BRCA1' present,72,genetic testing in an ethnically diverse cohort of high-risk women a comparative analysis of brca1 and brca2 mutations in american families ,M
+Ovarian Cancer,BRCA1,16433698,random,brca1,C,M,,symbol 'BRCA1' present,83,evaluation of two different models to predict brca1 and brca2 mutations in a cohort of danish hereditary breast and or ovarian cancer famili,M
+Ovarian Cancer,BRCA1,34593530,random,brca1,C,M,target,symbol 'BRCA1' present,89,ovarian cancer-specific brca -like copy-number aberration classifiers detect mutations associated with homologous recombination deficiency i,M
+Ovarian Cancer,BRCA1,17148771,random,brca1,C,M,,symbol 'BRCA1' present,116,population brca1 and brca2 mutation frequencies and cancer penetrances a kin-cohort study in ontario canada,M
+Ovarian Cancer,BRCA1,25666743,random,brca1,C,ML,,symbol 'BRCA1' present,196,analysis of palb2 in a cohort of italian breast cancer patients identification of a novel palb2 truncating mutation,ML
+Ovarian Cancer,BRCA1,15951958,random,brca1,C,M,,symbol 'BRCA1' present,206,a high frequency of germline brca1 2 mutations in western sweden detected with complementary screening techniques,M
+Ovarian Cancer,BRCA1,15300854,random,brca1,C,M,,symbol 'BRCA1' present,207,rna analysis reveals splicing mutations and loss of expression defects in mlh1 and brca1,M
+Ovarian Cancer,BRCA1,24516540,random,brca1,C,M,,symbol 'BRCA1' present,213,characterization of an italian founder mutation in the ring-finger domain of brca1,M
+Ovarian Cancer,BRCA1,42420629,random,brca1,C,M,,symbol 'BRCA1' present,222,olaparib in hr-deficient metastatic triple-negative breast and platinum-sensitive relapsed ovarian cancers without germline mutations in brc,M
+Ovarian Cancer,BRCA1,30535581,random,brca1,C,M,,symbol 'BRCA1' present,238,mutation screening of tp53 chek2 and brca genes in patients at high risk for hereditary breast and ovarian cancer hboc in brazil,M
+Ovarian Cancer,BRCA1,30982232,random,brca1,C,M,,symbol 'BRCA1' present,253,germline mutation landscape of chinese patients with familial breast ovarian cancer in a panel of 22 susceptibility genes,M
+Ovarian Cancer,BRCA1,14666193,random,brca1,C,M,,symbol 'BRCA1' present,278,spectrum of mutations in brca1 gene in hereditary forms of breast and ovarian cancer in russian families,M
+Ovarian Cancer,BRCA1,25863477,random,brca1,C,M,,symbol 'BRCA1' present,303,the prevalence and spectrum of brca1 and brca2 mutations in korean population recent update of the korean hereditary breast cancer kohbra st,M
+Ovarian Cancer,BRCA1,27157322,random,brca1,C,M,,symbol 'BRCA1' present,308,detection of germline mutation in hereditary breast and or ovarian cancers by next-generation sequencing on a four-gene panel,M
+Ovarian Cancer,BRCA1,11389159,random,brca1,C,M,,symbol 'BRCA1' present,374,brca1 and brca2 mutation status and cancer family history of danish women affected with multifocal or bilateral breast cancer at a young age,M
+Ovarian Cancer,BRCA1,30446274,random,brca1,C,M,,symbol 'BRCA1' present,405,pathogenic brca1 mutations may be necessary but not sufficient for tissue genomic heterogeneity deep sequencing data from ovarian cancer pat,M
+Ovarian Cancer,BRCA1,32277283,random,brca1,C,M,target,symbol 'BRCA1' present,412,characterization of therapy-related acute leukemia in hereditary breast-ovarian carcinoma patients role of brca1 mutation and topoisomerase ,M
+Ovarian Cancer,BRCA1,16715518,random,brca1,C,M,,symbol 'BRCA1' present,414,prevalence of brca1 genomic rearrangements in a large cohort of italian breast and breast ovarian cancer families without detectable brca1 a,M
+Ovarian Cancer,BRCA1,18703817,random,brca1,C,M,,symbol 'BRCA1' present,418,the relative contribution of point mutations and genomic rearrangements in brca1 and brca2 in high-risk breast cancer families,M
+Ovarian Cancer,BRCA1,27928164,random,brca1,C,M,,symbol 'BRCA1' present,435,comparison between cagene 5 1 and 6 0 for brca1 2 mutation prediction a retrospective study of 150 brca1 2 genetic tests in 517 families wit,M
+Ovarian Cancer,BRCA1,11192759,random,brca1,C,M,,symbol 'BRCA1' present,452,a high occurrence of brca1 and brca2 mutations among czech hereditary breast and breast-ovarian cancer families,M
+Ovarian Cancer,BRCA1,30111881,random,brca1,C,M,,symbol 'BRCA1' present,488,contribution of rad51d germline mutations in breast and ovarian cancer in greece,M
+Ovarian Cancer,BRCA1,21918853,random,brca1,C,M,,symbol 'BRCA1' present,506,low prevalence of brca1 and brca2 mutations in the sporadic breast cancer of spanish population,M
+Ovarian Cancer,BRCA1,20507347,random,brca1,C,M,,symbol 'BRCA1' present,511,the contribution of founder mutations in brca1 to breast cancer in belarus,M
+Ovarian Cancer,BRCA1,20652400,random,brca1,C,M,,symbol 'BRCA1' present,603,international distribution and age estimation of the portuguese brca2 c 156 157insalu founder mutation,M
+Ovarian Cancer,BRCA1,15242757,random,brca1,C,M,,symbol 'BRCA1' present,609,brca1 185delag mutation inhibits akt-dependent iap-mediated caspase 3 inactivation in human ovarian surface epithelial cells,M
+Ovarian Cancer,BRCA1,18955455,random,brca1,C,M,,symbol 'BRCA1' present,613,brcaness syndrome in ovarian cancer a case-control study describing the clinical features and outcome of patients with epithelial ovarian ca,M
+Ovarian Cancer,BRCA1,28619461,random,brca1,C,M,,symbol 'BRCA1' present,638,predictability of brca1 2 mutation status in patients with ovarian cancer how to select women for genetic testing in middle-income countries,M
+Ovarian Cancer,BRCA1,12505256,random,brca1,C,M,,symbol 'BRCA1' present,667,analysis of brca1 tp53 and tsg101 germline mutations in german breast and or ovarian cancer families,M
+Ovarian Cancer,BRCA1,11358831,random,brca1,C,M,,symbol 'BRCA1' present,672,tp53 mutations in breast cancer associated with brca1 or brca2 germ-line mutations distinctive spectrum and structural distribution,M
+Ovarian Cancer,BRCA1,17925560,random,brca1,C,M,,symbol 'BRCA1' present,732,brca1 and brca2 genetic testing in hispanic patients mutation prevalence and evaluation of the brcapro risk assessment model,M
+Ovarian Cancer,BRCA1,12124814,random,brca1,C,M,,symbol 'BRCA1' present,738,clustering of cancer-related mutations in a subset of brca1 alleles a study in the spanish population,M
+Ovarian Cancer,BRCA1,25066507,random,brca1,C,M,,symbol 'BRCA1' present,783,comprehensive brca1 and brca2 mutational profile in lithuania,M
+Ovarian Cancer,BRCA1,11059339,random,brca1,C,M,,symbol 'BRCA1' present,802,brca1 mutations in taiwanese with epithelial ovarian carcinoma and sporadic primary serous peritoneal carcinoma,M
+Ovarian Cancer,BRCA1,17216544,random,brca1,C,I,,symbol 'BRCA1' present,883,identification of a founder brca2 mutation in sardinian breast cancer families,I
+Ovarian Cancer,BRCA1,23922302,random,brca1,C,M,,symbol 'BRCA1' present,942,efficacy of chemotherapy in brca1 2 mutation carrier ovarian cancer in the setting of parp inhibitor resistance a multi-institutional study,M
+Ovarian Cancer,BRCA1,26014432,random,brca1,C,M,,symbol 'BRCA1' present,956,high prevalence of brca1 stop mutation c 4183c t in the tyrolean population implications for genetic testing,M
+Ovarian Cancer,BRCA1,28632866,random,brca1,C,M,,symbol 'BRCA1' present,989,risks of breast ovarian and contralateral breast cancer for brca1 and brca2 mutation carriers,M
+Ovarian Cancer,BRCA2,37791389,random,brca2,C,M,,symbol 'BRCA2' present,73,clinical characterization of patients with gbrca1 2 mutation-positive unresectable pancreatic cancer a multicenter prospective study,M
+Ovarian Cancer,BRCA2,24156927,random,brca2,C,M,,symbol 'BRCA2' present,113,central european brca2 mutation carriers birth cohort status correlates with onset of breast cancer,M
+Ovarian Cancer,BRCA2,29191972,random,brca2,C,M,,symbol 'BRCA2' present,114,mutations in homologous recombination genes and outcomes in ovarian carcinoma patients in gog 218 an nrg oncology gynecologic oncology group,M
+Ovarian Cancer,BRCA2,17413421,random,brca2,C,M,,symbol 'BRCA2' present,127,prediction of brca1 2 mutation status in patients with ovarian cancer from a hospital-based cohort,M
+Ovarian Cancer,BRCA2,22729394,random,brca2,C,M,,symbol 'BRCA2' present,146,a nonsynonymous polymorphism in irs1 modifies risk of developing breast and ovarian cancers in brca1 and ovarian cancer in brca2 mutation ca,M
+Ovarian Cancer,BRCA2,35710751,random,brca2,C,M,,symbol 'BRCA2' present,209,impact of germline mutations in cancer-predisposing genes on long-term survival in patients with epithelial ovarian cancer,M
+Ovarian Cancer,BRCA2,30825404,random,brca2,C,M,,symbol 'BRCA2' present,224,prevalence spectrum and founder effect of brca1 and brca2 mutations in epithelial ovarian cancer from the middle east,M
+Ovarian Cancer,BRCA2,12798717,random,brca2,C,I,,symbol 'BRCA2' present,246,population attributes affecting the prevalence of brca mutation carriers in epithelial ovarian cancer cases in israel,I
+Ovarian Cancer,BRCA2,21206239,random,brca2,C,M,,symbol 'BRCA2' present,264,brca1 2 germline mutations in jewish patients with uterine serous carcinoma,M
+Ovarian Cancer,BRCA2,21895635,random,brca2,C,M,,symbol 'BRCA2' present,276,brca1 and brca2 mutations among familial breast cancer patients from costa rica,M
+Ovarian Cancer,BRCA2,36716415,random,brca2,C,M,,symbol 'BRCA2' present,284,homologous recombination repair gene mutations to predict olaparib plus bevacizumab efficacy in the first-line ovarian cancer paola-1 engot-,M
+Ovarian Cancer,BRCA2,21318380,random,brca2,C,M,,symbol 'BRCA2' present,315,screening of 1331 danish breast and or ovarian cancer families identified 40 novel brca1 and brca2 mutations,M
+Ovarian Cancer,BRCA2,10790213,random,brca2,C,M,,symbol 'BRCA2' present,327,founder brca1 mutations and two novel germline brca2 mutations in breast and or ovarian cancer families from north-eastern poland,M
+Ovarian Cancer,BRCA2,30309218,targeted,brca2,C,ML,,symbol 'BRCA2' present,337,prevalence of palb2 germline mutations in early-onset and familial breast ovarian cancer patients from pakistan,ML
+Ovarian Cancer,BRCA2,15131399,random,brca2,C,M,,symbol 'BRCA2' present,342,cancer variation associated with the position of the mutation in the brca2 gene,M
+Ovarian Cancer,BRCA2,25395318,random,brca2,C,M,,symbol 'BRCA2' present,346,novel and recurrent brca2 mutations in italian breast ovarian cancer families widen the ovarian cancer cluster region boundaries to exons 13,M
+Ovarian Cancer,BRCA2,27631815,targeted,brca2,X,I,,'brca2' occurs only inside another gene's name (e.g. BRCA1/BRCA2-containing complex subunit 3 or EMSY 'BRCA2-interacting'),393,frequency of germline palb2 mutations among women with epithelial ovarian cancer,I
+Ovarian Cancer,BRCA2,16715518,random,brca2,C,M,,symbol 'BRCA2' present,414,prevalence of brca1 genomic rearrangements in a large cohort of italian breast and breast ovarian cancer families without detectable brca1 a,M
+Ovarian Cancer,BRCA2,16847550,random,brca2,C,M,,symbol 'BRCA2' present,419,novel brca1 and brca2 germline mutations and assessment of mutation spectrum and prevalence in italian breast and or ovarian cancer families,M
+Ovarian Cancer,BRCA2,32856869,random,brca2,C,I,,symbol 'BRCA2' present,421,prevalence of tissue brca gene mutation in ovarian fallopian tube and primary peritoneal cancers a multi-institutional study,I
+Ovarian Cancer,BRCA2,11102977,random,brca2,C,M,,symbol 'BRCA2' present,430,high frequency of recurrent mutations in brca1 and brca2 genes in polish families with breast and ovarian cancer,M
+Ovarian Cancer,BRCA2,20369283,random,brca2,C,M,,symbol 'BRCA2' present,437,copy number variations are not modifiers of phenotypic expression in a pair of identical twins carrying a brca1 mutation,M
+Ovarian Cancer,BRCA2,11251181,random,brca2,C,M,,symbol 'BRCA2' present,529,brca1 and brca2 mutations among finnish ovarian carcinoma families,M
+Ovarian Cancer,BRCA2,35608067,random,brca2,C,I,,symbol 'BRCA2' present,617,germline mutations in chinese ovarian cancer with or without breast cancer,I
+Ovarian Cancer,BRCA2,32280079,random,brca2,C,M,,symbol 'BRCA2' present,644,circulating cell-free dna cfdna levels in brca1 and brca2 mutation carriers a preliminary study,M
+Ovarian Cancer,BRCA2,29975922,random,brca2,C,M,,symbol 'BRCA2' present,680,survival benefit of germline brca mutation is associated with residual disease in ovarian cancer,M
+Ovarian Cancer,BRCA2,22430266,random,brca2,C,M,,symbol 'BRCA2' present,687,breast and ovarian cancer risk and risk reduction in jewish brca1 2 mutation carriers,M
+Ovarian Cancer,BRCA2,25849179,random,brca2,C,M,,symbol 'BRCA2' present,702,association of type and location of brca1 and brca2 mutations with risk of breast and ovarian cancer,M
+Ovarian Cancer,BRCA2,27015555,random,brca2,C,M,,symbol 'BRCA2' present,707,molecular insights into the ogg1 gene a cancer risk modifier in brca1 and brca2 mutations carriers,M
+Ovarian Cancer,BRCA2,19996031,random,brca2,C,M,,symbol 'BRCA2' present,715,survival analysis of cancer risk reduction strategies for brca1 2 mutation carriers,M
+Ovarian Cancer,BRCA2,18439109,random,brca2,C,M,,symbol 'BRCA2' present,725,predominant ashkenazi brca1 2 mutations in families with pancreatic cancer,M
+Ovarian Cancer,BRCA2,10885351,random,brca2,C,M,,symbol 'BRCA2' present,736,presymptomatic dna testing and prophylactic surgery in families with a brca1 or brca2 mutation,M
+Ovarian Cancer,BRCA2,41440203,random,brca2,C,M,,symbol 'BRCA2' present,752,endometriosis in carriers of a pathogenic variant in brca1 or brca2 a descriptive analysis of a large multicentral brca carrier cohort,M
+Ovarian Cancer,BRCA2,27914478,random,brca2,C,M,,symbol 'BRCA2' present,778,germline mutations in brca1 and brca2 in epithelial ovarian cancer patients in brazil,M
+Ovarian Cancer,BRCA2,10637076,random,brca2,C,M,,symbol 'BRCA2' present,779,carcinosarcoma of the ovary in a patient with a germline brca2 mutation evidence for monoclonal origin,M
+Ovarian Cancer,BRCA2,30014164,random,brca2,C,M,,symbol 'BRCA2' present,862,the yield of full brca1 2 genotyping in israeli high-risk breast ovarian cancer patients who do not carry the predominant mutations,M
+Ovarian Cancer,BRCA2,22725699,random,brca2,C,I,,symbol 'BRCA2' present,917,germline rad51c mutations in ovarian cancer susceptibility,I
+Ovarian Cancer,BRCA2,23778531,random,brca2,C,I,,symbol 'BRCA2' present,922,a comparison of the detection of brca mutation carriers through the provision of jewish population-based genetic testing compared with clini,I
+Ovarian Cancer,BRCA2,17319787,random,brca2,C,M,,symbol 'BRCA2' present,949,the spectrum and incidence of brca1 pathogenic mutations in slovak breast ovarian cancer families,M
+Ovarian Cancer,BRCA2,26014432,random,brca2,C,M,,symbol 'BRCA2' present,956,high prevalence of brca1 stop mutation c 4183c t in the tyrolean population implications for genetic testing,M
+Ovarian Cancer,BRCA2,23211700,random,brca2,C,I,,symbol 'BRCA2' present,959,low prevalence of slx4 loss-of-function mutations in non-brca1 2 breast and or ovarian cancer families,I
+Ovarian Cancer,BRCA2,25792249,random,brca2,C,M,,symbol 'BRCA2' present,978,fertility treatments and invasive epithelial ovarian cancer risk in jewish israeli brca1 or brca2 mutation carriers,M
+Ovarian Cancer,TP53,37680633,random,tp53,C,M,,symbol 'TP53' present,19,the fading guardian clinical relevance of tp53 null mutation in high-grade serous ovarian cancers,M
+Ovarian Cancer,TP53,23967324,random,tp53,C,I,,symbol 'TP53' present,28,clinical relevance of gain-of-function mutations of p53 in high-grade serous ovarian carcinoma,I
+Ovarian Cancer,TP53,31780779,random,tp53,C,M,,symbol 'TP53' present,29,clinical relevance of tp53 hotspot mutations in high-grade serous ovarian cancers,M
+Ovarian Cancer,TP53,20802181,random,tp53,C,M,,symbol 'TP53' present,81,braf mutation is rare in advanced-stage low-grade ovarian serous carcinomas,M
+Ovarian Cancer,TP53,36730675,random,tp53,C,M,,symbol 'TP53' present,85,correlative assessment of p53 immunostaining patterns and tp53 mutation status by next-generation sequencing in high-grade endometrial carci,M
+Ovarian Cancer,TP53,38159086,random,tp53,C,M,,symbol 'TP53' present,98,a novel germline mutation of brca1 and integrated analysis with somatic mutation in a chinese multi-cancer family,M
+Ovarian Cancer,TP53,23765252,random,tp53,C,ML,,symbol 'TP53' present,137,ovarian and endometrial endometrioid carcinomas have distinct ctnnb1 and pten mutation profiles,ML
+Ovarian Cancer,TP53,23219661,random,tp53,C,P,,symbol 'TP53' present,157,high-throughput interrogation of pik3ca pten kras fbxw7 and tp53 mutations in primary endometrial carcinoma,P
+Ovarian Cancer,TP53,20229506,random,tp53,C,M,,symbol 'TP53' present,162,driver mutations in tp53 are ubiquitous in high grade serous carcinoma of the ovary,M
+Ovarian Cancer,TP53,26541979,random,tp53,C,ML,,symbol 'TP53' present,174,evaluation of germline brca1 and brca2 mutations in a multi-ethnic asian cohort of ovarian cancer patients,ML
+Ovarian Cancer,TP53,32817165,random,tp53,C,M,,symbol 'TP53' present,184,a pedigree-based prediction model identifies carriers of deleterious de novo mutations in families with li-fraumeni syndrome,M
+Ovarian Cancer,TP53,25118479,random,tp53,C,ML,,symbol 'TP53' present,185,an in vivo model for the study of ovarian cancer and the persistence of characteristic mutations in xenografts,ML
+Ovarian Cancer,TP53,25986173,random,tp53,C,M,,symbol 'TP53' present,260,targeted deep sequencing of mucinous ovarian tumors reveals multiple overlapping ras-pathway activating mutations in borderline and cancerou,M
+Ovarian Cancer,TP53,42034009,random,tp53,C,M,,symbol 'TP53' present,261,pathway-level somatic mutation burden reflects diffuse genomic accumulation rather than selective transcriptional disruption in ovarian sero,M
+Ovarian Cancer,TP53,34483300,random,tp53,C,ML,,symbol 'TP53' present,298,molecular evaluation of low-grade low-stage endometrial cancer with and without recurrence,ML
+Ovarian Cancer,TP53,17764544,random,tp53,C,M,,symbol 'TP53' present,322,high resolution melting for mutation scanning of tp53 exons 5-8,M
+Ovarian Cancer,TP53,31177126,random,tp53,C,M,,symbol 'TP53' present,335,targeted genomic sequencing reveals novel tp53 in-frame deletion mutations leading to p53 overexpression in high-grade serous tubo-ovarian c,M
+Ovarian Cancer,TP53,29187446,random,tp53,C,M,,symbol 'TP53' present,385,tp53 mutation status of tubo-ovarian and peritoneal high-grade serous carcinoma with a wild-type p53 immunostaining pattern,M
+Ovarian Cancer,TP53,28954785,random,tp53,C,M,,symbol 'TP53' present,386,the driver mutational landscape of ovarian squamous cell carcinomas arising in mature cystic teratoma,M
+Ovarian Cancer,TP53,25385265,random,tp53,C,M,,symbol 'TP53' present,427,tp53 oncomorphic mutations predict resistance to platinum and taxanebased standard chemotherapy in patients diagnosed with advanced serous o,M
+Ovarian Cancer,TP53,20501846,random,tp53,C,M,,symbol 'TP53' present,449,population-based estimate of the contribution of tp53 mutations to subgroups of early-onset breast cancer australian breast cancer family st,M
+Ovarian Cancer,TP53,22282309,random,tp53,C,M,,symbol 'TP53' present,479,brca1 and brca2 mutations correlate with tp53 abnormalities and presence of immune cell infiltrates in ovarian high-grade serous carcinoma,M
+Ovarian Cancer,TP53,25390899,random,tp53,C,I,,symbol 'TP53' present,520,somatic mutations favorable to patient survival are predominant in ovarian carcinomas,I
+Ovarian Cancer,TP53,33256706,random,tp53,C,M,,symbol 'TP53' present,605,utility of a custom designed next generation dna sequencing gene panel to molecularly classify endometrial cancers according to the cancer g,M
+Ovarian Cancer,TP53,21535297,random,tp53,C,M,,symbol 'TP53' present,606,apparently brca-related breast and ovarian cancer patient with germline tp53 mutation,M
+Ovarian Cancer,TP53,32022266,random,tp53,C,M,,symbol 'TP53' present,614,molecular profiling identifies synchronous endometrial and ovarian cancers as metastatic endometrial cancer with favorable clinical outcome,M
+Ovarian Cancer,TP53,21926912,random,tp53,C,M,,symbol 'TP53' present,630,improved classification of epithelial ovarian cancer results of 3 danish cohorts,M
+Ovarian Cancer,TP53,27152024,random,tp53,C,M,,symbol 'TP53' present,631,ultra-deep sequencing detects ovarian cancer cells in peritoneal fluid and reveals somatic tp53 mutations in noncancerous tissues,M
+Ovarian Cancer,TP53,16271749,random,tp53,C,M,,symbol 'TP53' present,645,tp53 overexpression in recurrent endometrial carcinoma,M
+Ovarian Cancer,TP53,12505256,random,tp53,C,M,,symbol 'TP53' present,667,analysis of brca1 tp53 and tsg101 germline mutations in german breast and or ovarian cancer families,M
+Ovarian Cancer,TP53,23636398,random,tp53,C,M,,symbol 'TP53' present,673,integrated genomic characterization of endometrial carcinoma,M
+Ovarian Cancer,TP53,40707423,random,tp53,C,M,,symbol 'TP53' present,745,clinical and biological characteristics associated with loss-of-heterozygosity in endometrial cancer,M
+Ovarian Cancer,TP53,10880552,random,tp53,C,M,,symbol 'TP53' present,763,ovarian carcinoma in situ with germline brca1 mutation and loss of heterozygosity at brca1 and tp53,M
+Ovarian Cancer,TP53,28961279,random,tp53,C,ML,,symbol 'TP53' present,765,the frequency of cancer predisposition gene mutations in hereditary breast and ovarian cancer patients in taiwan from brca1 2 to multi-gene ,ML
+Ovarian Cancer,TP53,27276934,random,tp53,C,ML,,symbol 'TP53' present,775,the clinical utility of next generation sequencing results in a community-based hereditary cancer risk program,ML
+Ovarian Cancer,TP53,41395670,random,tp53,C,M,,symbol 'TP53' present,867,ovarian sertoli-leydig cell tumors with heterologous rhabdomyosarcoma clinicopathologic features and molecular analysis highlighting recurre,M
+Ovarian Cancer,TP53,41143909,random,tp53,C,ML,,symbol 'TP53' present,893,clinicopathological characterization of female genital tract cancers with stk11 alterations redefining the spectrum beyond stk11 adnexal tum,ML
+Ovarian Cancer,TP53,33245408,random,tp53,C,M,,symbol 'TP53' present,921,tp53 germline mutations in the context of families with hereditary breast and ovarian cancer a clinical challenge,M
+Ovarian Cancer,TP53,35666535,random,tp53,C,M,,symbol 'TP53' present,969,somatic genomic landscape of east asian epithelial ovarian carcinoma and its clinical implications from prospective clinical sequencing a ko,M
+Ovarian Cancer,TP53,33166861,random,tp53,C,M,,symbol 'TP53' present,996,prevalence of pathogenic variants in actionable genes in advanced ovarian cancer a next-generation sequencing analysis of a nationwide regis,M
+Ovarian Cancer,KRAS,30789355,random,kras,C,M,,symbol 'KRAS' present,3,frequent ctnnb1 or pik3ca mutations occurred in endometrial endometrioid adenocarcinoma with high levels of microsatellite instability and l,M
+Ovarian Cancer,KRAS,29303928,random,kras,C,M,,symbol 'KRAS' present,58,endometrial adenocarcinomas with significant mucinous differentiation a characterization of intratumoral heterogeneity of kras mutations in ,M
+Ovarian Cancer,KRAS,31748433,random,kras,C,I,,symbol 'KRAS' present,61,identification of novel mutations of ovarian cancer-related genes from rna-sequencing data for japanese epithelial ovarian cancer patients,I
+Ovarian Cancer,KRAS,38976671,random,kras,C,I,,symbol 'KRAS' present,67,predictive modeling of gene mutations for the survival outcomes of epithelial ovarian cancer patients,I
+Ovarian Cancer,KRAS,22930283,random,kras,C,M,,symbol 'KRAS' present,87,braf mutation is associated with early stage disease and improved outcome in patients with low-grade serous ovarian cancer,M
+Ovarian Cancer,KRAS,36695555,random,kras,C,M,,symbol 'KRAS' present,90,estrogen progesterone receptor loss ctnnb1 and kras mutations are associated with local recurrence or distant metastasis in low-grade endome,M
+Ovarian Cancer,KRAS,41813377,random,kras,C,M,,symbol 'KRAS' present,96,high frequency of braf mutations and concomitant kras mutations in taiwanese ovarian clear cell carcinoma,M
+Ovarian Cancer,KRAS,21931712,random,kras,C,ML,,symbol 'KRAS' present,131,high throughput interrogation of somatic mutations in high grade serous cancer of the ovary,ML
+Ovarian Cancer,KRAS,23765252,random,kras,C,I,,symbol 'KRAS' present,137,ovarian and endometrial endometrioid carcinomas have distinct ctnnb1 and pten mutation profiles,I
+Ovarian Cancer,KRAS,34794740,random,kras,C,M,,symbol 'KRAS' present,140,high frequency of braf mutations in primary mucinous ovarian carcinoma of taiwanese patients,M
+Ovarian Cancer,KRAS,39992437,random,kras,C,M,,symbol 'KRAS' present,149,foxa1 expression and its association with mucin expression and kras mutation in ovarian mucinous tumors implications for tumor progression a,M
+Ovarian Cancer,KRAS,23219661,random,kras,C,M,,symbol 'KRAS' present,157,high-throughput interrogation of pik3ca pten kras fbxw7 and tp53 mutations in primary endometrial carcinoma,M
+Ovarian Cancer,KRAS,29770477,random,kras,C,M,,symbol 'KRAS' present,161,braf v 600e mutations and immunohistochemical expression of ve1 protein in low-grade serous neoplasms of the ovary,M
+Ovarian Cancer,KRAS,24936796,random,kras,C,ML,,symbol 'KRAS' present,194,analysis and comparison of somatic mutations in paired primary and recurrent epithelial ovarian cancer samples,ML
+Ovarian Cancer,KRAS,25986173,random,kras,C,M,,symbol 'KRAS' present,260,targeted deep sequencing of mucinous ovarian tumors reveals multiple overlapping ras-pathway activating mutations in borderline and cancerou,M
+Ovarian Cancer,KRAS,31576556,random,kras,C,M,,symbol 'KRAS' present,294,oncogenic braf and kras mutations in endosalpingiosis,M
+Ovarian Cancer,KRAS,37219599,random,kras,C,M,,symbol 'KRAS' present,309,kras mutation in primary ovarian serous borderline tumors correlates with tumor recurrence,M
+Ovarian Cancer,KRAS,25174456,random,kras,C,M,,symbol 'KRAS' present,331,usefulness of immunohistochemistry for the detection of the braf v600e mutation in ovarian serous borderline tumors,M
+Ovarian Cancer,KRAS,29380640,random,kras,C,ML,,symbol 'KRAS' present,334,associations between primary tumor ras braf and pik3ca mutation status and metastatic site in patients with chemo-resistant metastatic color,ML
+Ovarian Cancer,KRAS,28488545,random,kras,C,M,,symbol 'KRAS' present,340,determination of braf v600e ve1 protein expression and braf gene mutation status in codon 600 in borderline and low-grade ovarian cancers,M
+Ovarian Cancer,KRAS,23267135,random,kras,C,M,,symbol 'KRAS' present,371,ppp2r1a mutation is a rare event in ovarian carcinoma across histological subtypes,M
+Ovarian Cancer,KRAS,24549645,random,kras,C,M,,symbol 'KRAS' present,426,kras but not braf mutations in ovarian serous borderline tumour are associated with recurrent low-grade serous carcinoma,M
+Ovarian Cancer,KRAS,31030485,random,kras,C,M,,symbol 'KRAS' present,461,ras mutation in mucinous carcinoma of the ovary,M
+Ovarian Cancer,KRAS,28873354,random,kras,C,M,,symbol 'KRAS' present,492,mutation of nras is a rare genetic event in ovarian low-grade serous carcinoma,M
+Ovarian Cancer,KRAS,28734796,random,kras,C,I,,symbol 'KRAS' present,534,clonal composition of human ovarian cancer based on copy number analysis reveals a reciprocal relation with oncogenic mutation status,I
+Ovarian Cancer,KRAS,22246397,random,kras,C,M,target,symbol 'KRAS' present,544,cetuximab inhibits the growth of mucinous ovarian carcinoma tumor cells lacking kras gene mutations,M
+Ovarian Cancer,KRAS,16429393,random,kras,C,M,,symbol 'KRAS' present,575,high frequency of beta-catenin mutations in borderline endometrioid tumours of the ovary,M
+Ovarian Cancer,KRAS,12644542,random,kras,C,M,,symbol 'KRAS' present,581,mutations in braf and kras characterize the development of low-grade ovarian serous carcinoma,M
+Ovarian Cancer,KRAS,29715099,random,kras,C,M,,symbol 'KRAS' present,619,clinicopathological characteristics and kras mutation status of endometrial mucinous metaplasia and carcinoma,M
+Ovarian Cancer,KRAS,21926912,random,kras,C,M,,symbol 'KRAS' present,630,improved classification of epithelial ovarian cancer results of 3 danish cohorts,M
+Ovarian Cancer,KRAS,21258089,random,kras,C,M,,symbol 'KRAS' present,649,kras mutation analysis in genomic dna isolated from formalin-fixed paraffin-embedded ovarian tissue evaluation of a strip-based reverse-hybr,M
+Ovarian Cancer,KRAS,16806438,random,kras,C,M,,symbol 'KRAS' present,694,kras and braf mutations in ovarian tumors a comprehensive study of invasive carcinomas borderline tumors and extraovarian implants,M
+Ovarian Cancer,KRAS,40743575,random,kras,C,M,,symbol 'KRAS' present,774,clinical and pathological analysis of 17 cases of mesonephric-like adenocarcinoma,M
+Ovarian Cancer,KRAS,41378992,random,kras,C,M,,symbol 'KRAS' present,780,molecular profiling and tumor biomarker analysis of gog281 logs a positive late-phase trial of trametinib for recurrent persistent low-grade,M
+Ovarian Cancer,KRAS,35606067,random,kras,C,M,,symbol 'KRAS' present,902,the genomic landscape of low-grade serous ovarian peritoneal carcinoma and its impact on clinical outcomes,M
+Ovarian Cancer,KRAS,30448219,random,kras,C,ML,,symbol 'KRAS' present,910,high frequency of pole mutations in synchronous endometrial and ovarian carcinoma,ML
+Ovarian Cancer,KRAS,15753399,random,kras,C,M,,symbol 'KRAS' present,929,inactivation of the mitogen-activated protein kinase pathway as a potential target-based therapy in ovarian serous tumors with kras or braf ,M
+Ovarian Cancer,KRAS,31902686,random,kras,C,ML,,symbol 'KRAS' present,938,therapeutic options for mucinous ovarian carcinoma,ML
+Ovarian Cancer,KRAS,36609991,random,kras,C,ML,,symbol 'KRAS' present,994,molecular characteristics of low-grade serous carcinoma in effusions,ML
+Ovarian Cancer,KRAS,33166861,random,kras,C,I,,symbol 'KRAS' present,996,prevalence of pathogenic variants in actionable genes in advanced ovarian cancer a next-generation sequencing analysis of a nationwide regis,I
+Ovarian Cancer,POLE,25224212,all,pole,C,M,,symbol 'POLE' present,1,polymerase pole mutations in endometrial cancer clinical outcomes and implications for lynch syndrome testing,M
+Ovarian Cancer,POLE,39950607,all,pole,C,M,,symbol 'POLE' present,2,mutations in homologous recombination repair genes in patients with metastatic endometrial cancer association with clinical characteristics ,M
+Ovarian Cancer,POLE,34907997,all,pole,C,M,,symbol 'POLE' present,6,a multiplex snapshot assay is a rapid and cost-effective method for detecting pole exonuclease domain mutations in endometrial carcinoma,M
+Ovarian Cancer,POLE,26937754,all,pole,C,M,,symbol 'POLE' present,11,prognostic significance of pole exonuclease domain mutations in high-grade endometrioid endometrial cancer on survival and recurrence a suba,M
+Ovarian Cancer,POLE,38666471,all,pole,C,ML,,symbol 'POLE' present,16,ttn mutation in endometrial endometrioid carcinoma is associated with poor clinical outcomes and high tumor mutation burden,ML
+Ovarian Cancer,POLE,24844595,all,pole,C,M,,symbol 'POLE' present,32,pole exonuclease domain mutation predicts long progression-free survival in grade 3 endometrioid carcinoma of the endometrium,M
+Ovarian Cancer,POLE,24472300,all,pole1,C,M,,credited via alias pole1,42,frequent pole1 p s297f mutation in chinese patients with ovarian endometrioid carcinoma,M
+Ovarian Cancer,POLE,35360975,all,pole,C,M,,symbol 'POLE' present,44,pelvic carcinosarcoma showing a diverse histology and hierarchical gene mutation with a common pole mutation to endometrial endometroid carc,M
+Ovarian Cancer,POLE,40878396,all,pole,C,M,,symbol 'POLE' present,53,the relationship between histopathological data and molecular alterations with oncological outcomes in endometrioid-type endometrial cancers,M
+Ovarian Cancer,POLE,31829441,all,pole,C,M,,symbol 'POLE' present,62,p53 immunohistochemistry is an accurate surrogate for tp53 mutational analysis in endometrial carcinoma biopsies,M
+Ovarian Cancer,POLE,25394778,all,pole,C,M,,symbol 'POLE' present,119,clinicopathological analysis of endometrial carcinomas harboring somatic pole exonuclease domain mutations,M
+Ovarian Cancer,POLE,38513273,all,pole,C,M,,symbol 'POLE' present,135,morules and -catenin predict pole mutation status in endometrial cancer a pathway to more cost-effective diagnostic procedures,M
+Ovarian Cancer,POLE,34954471,all,pole,C,M,,symbol 'POLE' present,156,atm immunohistochemistry as a potential marker for the differential diagnosis of no specific molecular profile subtype and pole-mutation sub,M
+Ovarian Cancer,POLE,26748215,all,pole,C,M,,symbol 'POLE' present,180,mutation spectrum of pole and pold1 mutations in south east asian women presenting with grade 3 endometrioid endometrial carcinomas,M
+Ovarian Cancer,POLE,35320887,all,pole,C,M,,symbol 'POLE' present,220,clinicopathological and molecular characterization of high-grade endometrial carcinoma with pole mutation a single center study,M
+Ovarian Cancer,POLE,26556035,all,pole,C,I,,symbol 'POLE' present,221,tp53 mutational spectrum in endometrioid and serous endometrial cancers,I
+Ovarian Cancer,POLE,40341112,all,pole,C,M,,symbol 'POLE' present,258,molecular subtype and mutational profile of endometrial atypical hyperplasia endometrioid intraepithelial neoplasia,M
+Ovarian Cancer,POLE,38282550,all,pole,C,M,,symbol 'POLE' present,262,exploring co-occurring pole exonuclease and non-exonuclease domain mutations and their impact on tumor mutagenicity,M
+Ovarian Cancer,POLE,34483300,all,pole,C,M,,symbol 'POLE' present,298,molecular evaluation of low-grade low-stage endometrial cancer with and without recurrence,M
+Ovarian Cancer,POLE,26548627,all,pole1,C,I,,credited via alias pole1,302,a novel somatic mapk1 mutation in primary ovarian mixed germ cell tumors,I
+Ovarian Cancer,POLE,26166557,all,pole,C,M,,symbol 'POLE' present,513,polymerase epsilon exonuclease domain mutations in ovarian endometrioid carcinoma,M
+Ovarian Cancer,POLE,35365770,all,pole,C,M,,symbol 'POLE' present,555,genomic landscape of endometrial carcinomas of no specific molecular profile,M
+Ovarian Cancer,POLE,37229919,all,pole,C,M,,symbol 'POLE' present,570,surface epithelial slackening pattern in endometrioid carcinoma a morphological feature for differentiating the pole mutation-subtype from t,M
+Ovarian Cancer,POLE,33256706,all,pole,C,M,,symbol 'POLE' present,605,utility of a custom designed next generation dna sequencing gene panel to molecularly classify endometrial cancers according to the cancer g,M
+Ovarian Cancer,POLE,32022266,all,pole,C,ML,,symbol 'POLE' present,614,molecular profiling identifies synchronous endometrial and ovarian cancers as metastatic endometrial cancer with favorable clinical outcome,ML
+Ovarian Cancer,POLE,23636398,all,pole,C,M,,symbol 'POLE' present,673,integrated genomic characterization of endometrial carcinoma,M
+Ovarian Cancer,POLE,40707423,all,pole,C,M,,symbol 'POLE' present,745,clinical and biological characteristics associated with loss-of-heterozygosity in endometrial cancer,M
+Ovarian Cancer,POLE,39705839,all,pole,C,M,,symbol 'POLE' present,748,actionable mutations in early-stage ovarian cancer according to the esmo scale for clinical actionability of molecular targets escat a descr,M
+Ovarian Cancer,POLE,33399963,all,pole,C,M,,symbol 'POLE' present,884,endometrial cancer with a pole mutation progresses frequently through the type i pathway despite its high-grade endometrioid morphology a co,M
+Ovarian Cancer,POLE,30448219,all,pole,C,M,,symbol 'POLE' present,910,high frequency of pole mutations in synchronous endometrial and ovarian carcinoma,M
+Ovarian Cancer,POLE,41436846,all,pole,C,M,,symbol 'POLE' present,963,a deeper dive into pole -mutated endometrial carcinomas the contributions and consequences of tumor mutational burden,M
+Ovarian Cancer,POLE,25860647,all,dna polymerase epsilon catalytic subunit|pole,C,M,,symbol 'POLE' present,975,a novel pole mutation associated with cancers of colon pancreas ovaries and small intestine,M
+Ovarian Cancer,PIK3CA,30789355,random,pik3ca,C,M,,symbol 'PIK3CA' present,3,frequent ctnnb1 or pik3ca mutations occurred in endometrial endometrioid adenocarcinoma with high levels of microsatellite instability and l,M
+Ovarian Cancer,PIK3CA,25677978,random,pik3ca,C,ML,,symbol 'PIK3CA' present,4,mutation profile and clinical outcome of mixed endometrioid-serous endometrial carcinomas are different from that of pure endometrioid or se,ML
+Ovarian Cancer,PIK3CA,34615547,random,pik3ca,C,M,,symbol 'PIK3CA' present,21,identification and clinical significance of somatic oncogenic mutations in epithelial ovarian cancer,M
+Ovarian Cancer,PIK3CA,30315273,random,pik3ca,C,I,target,symbol 'PIK3CA' present,46,targeted next-generation sequencing of endometrial cancer and matched circulating tumor dna identification of plasma-based tumor-associated ,I
+Ovarian Cancer,PIK3CA,22653804,random,pik3ca,C,ML,,symbol 'PIK3CA' present,55,use of mutation profiles to refine the classification of endometrial carcinomas,ML
+Ovarian Cancer,PIK3CA,31748433,random,pik3ca,C,ML,,symbol 'PIK3CA' present,61,identification of novel mutations of ovarian cancer-related genes from rna-sequencing data for japanese epithelial ovarian cancer patients,ML
+Ovarian Cancer,PIK3CA,33475035,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,63,screening for pik3ca mutations among saudi women with ovarian cancer,M
+Ovarian Cancer,PIK3CA,40862791,random,pik3ca,C,ML,,symbol 'PIK3CA' present,84,the -124c t mutation of the tert promoter indicates favorable prognosis in ovarian clear cell carcinoma a single institutional study in chin,ML
+Ovarian Cancer,PIK3CA,24262879,random,pik3ca,C,M,,symbol 'PIK3CA' present,103,pik3ca missense mutation is associated with unfavorable outcome in grade 3 endometrioid carcinoma but not in serous endometrial carcinoma,M
+Ovarian Cancer,PIK3CA,22209294,random,pik3ca,C,M,,symbol 'PIK3CA' present,122,pik3ca mutations in endometrial carcinomas in chinese women phosphatidylinositol 3'-kinase pathway alterations might be associated with favo,M
+Ovarian Cancer,PIK3CA,21931712,random,pik3ca,C,ML,,symbol 'PIK3CA' present,131,high throughput interrogation of somatic mutations in high grade serous cancer of the ovary,ML
+Ovarian Cancer,PIK3CA,36929579,random,pik3ca,C,ML,,symbol 'PIK3CA' present,164,pten mutation predicts unfavorable fertility preserving treatment outcome in the young patients with endometrioid endometrial cancer and aty,ML
+Ovarian Cancer,PIK3CA,34287479,random,phosphatidylinositol 4 5 bisphosphate 3 kinase catalytic subunit alpha|pik3ca,C,M,,symbol 'PIK3CA' present,198,germline and somatic mutations in postmenopausal breast cancer patients,M
+Ovarian Cancer,PIK3CA,30569174,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,216,pilot investigation of the mutation profile of pik3ca pten genes pi3k pathway in grade 3 endometrial cancer,M
+Ovarian Cancer,PIK3CA,32075097,random+targeted,pi3k,X,ML,target,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,218,pik3r1 w624r is an actionable mutation in high grade serous ovarian carcinoma,ML
+Ovarian Cancer,PIK3CA,40341112,random,pik3ca,C,I,,symbol 'PIK3CA' present,258,molecular subtype and mutational profile of endometrial atypical hyperplasia endometrioid intraepithelial neoplasia,I
+Ovarian Cancer,PIK3CA,22102435,random,pik3ca,C,M,,symbol 'PIK3CA' present,359,low-grade serous carcinomas of the ovary contain very few point mutations,M
+Ovarian Cancer,PIK3CA,36311816,random,pik3ca,C,ML,,symbol 'PIK3CA' present,362,uterine lavage identifies cancer mutations and increased tp53 somatic mutation burden in individuals with ovarian cancer,ML
+Ovarian Cancer,PIK3CA,36333181,random,pik3ca,C,I,,symbol 'PIK3CA' present,373,molecular portraits of clear cell ovarian and endometrial carcinoma with comparison to clear cell renal cell carcinoma,I
+Ovarian Cancer,PIK3CA,28954785,random,pik3ca,C,I,,symbol 'PIK3CA' present,386,the driver mutational landscape of ovarian squamous cell carcinomas arising in mature cystic teratoma,I
+Ovarian Cancer,PIK3CA,22705003,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,411,clinicopathologic and biological analysis of pik3ca mutation in ovarian clear cell carcinoma,M
+Ovarian Cancer,PIK3CA,38986422,random,pik3ca,C,I,,symbol 'PIK3CA' present,420,whole exome sequencing reveals diverse genomic relatedness between paired concurrent endometrial and ovarian carcinomas,I
+Ovarian Cancer,PIK3CA,31688243,random,pik3ca,C,ML,,symbol 'PIK3CA' present,428,mutational and immunophenotypic profiling of a series of 8 tubo-ovarian carcinosarcomas revealed a monoclonal origin of the disease,ML
+Ovarian Cancer,PIK3CA,31030485,random,pik3ca,C,I,,symbol 'PIK3CA' present,461,ras mutation in mucinous carcinoma of the ovary,I
+Ovarian Cancer,PIK3CA,28734796,random,pik3ca,C,I,,symbol 'PIK3CA' present,534,clonal composition of human ovarian cancer based on copy number analysis reveals a reciprocal relation with oncogenic mutation status,I
+Ovarian Cancer,PIK3CA,15520168,random,pik3ca,C,M,,symbol 'PIK3CA' present,600,mutation of the pik3ca gene in ovarian and breast cancer,M
+Ovarian Cancer,PIK3CA,33256706,random,pik3ca,C,M,,symbol 'PIK3CA' present,605,utility of a custom designed next generation dna sequencing gene panel to molecularly classify endometrial cancers according to the cancer g,M
+Ovarian Cancer,PIK3CA,25851704,random,pik3ca,C,ML,,symbol 'PIK3CA' present,730,endometrial carcinomas with clear cells a study of a heterogeneous group of tumors including interobserver variability mutation analysis and,ML
+Ovarian Cancer,PIK3CA,40743575,random,pik3ca,C,ML,,symbol 'PIK3CA' present,774,clinical and pathological analysis of 17 cases of mesonephric-like adenocarcinoma,ML
+Ovarian Cancer,PIK3CA,32520976,random,pi3k|pik3ca,C,ML,,symbol 'PIK3CA' present,781,differences in the molecular profile of endometrial cancers from british white and british south asian women,ML
+Ovarian Cancer,PIK3CA,24561032,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,833,assessing the efficacy of targeting the phosphatidylinositol 3-kinase akt mtor signaling pathway in endometrial cancer,M
+Ovarian Cancer,PIK3CA,34015161,random,pik3ca,C,M,,symbol 'PIK3CA' present,842,clinicopathological and molecular characteristics of endometrial neuroendocrine carcinomas reveal preexisting endometrial carcinoma origin,M
+Ovarian Cancer,PIK3CA,23174937,random,pik3ca,C,M,,symbol 'PIK3CA' present,879,frequency of mutations and polymorphisms in borderline ovarian tumors of known cancer genes,M
+Ovarian Cancer,PIK3CA,27681437,random,pik3ca,C,M,,symbol 'PIK3CA' present,881,loss of hdac-mediated repression and gain of nf-b activation underlie cytokine induction in arid1a- and pik3ca-mutation-driven ovarian cance,M
+Ovarian Cancer,PIK3CA,26572704,random,pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,896,arid1a gene mutation in ovarian and endometrial cancers review,M
+Ovarian Cancer,PIK3CA,30448219,random,pik3ca,C,I,,symbol 'PIK3CA' present,910,high frequency of pole mutations in synchronous endometrial and ovarian carcinoma,I
+Ovarian Cancer,PIK3CA,41435653,random,pik3ca,C,ML,,symbol 'PIK3CA' present,935,incidence of esr1 gene mutations among patients with endometrioid endometrial cancer,ML
+Ovarian Cancer,PIK3CA,24889043,random,pik3ca,C,M,,symbol 'PIK3CA' present,945,mutational status of kras nras and braf in primary clear cell ovarian carcinoma,M
+Ovarian Cancer,PIK3CA,35666535,random,pik3ca,C,ML,,symbol 'PIK3CA' present,969,somatic genomic landscape of east asian epithelial ovarian carcinoma and its clinical implications from prospective clinical sequencing a ko,ML
+Ovarian Cancer,PIK3CA,33166861,random,pik3ca,C,ML,,symbol 'PIK3CA' present,996,prevalence of pathogenic variants in actionable genes in advanced ovarian cancer a next-generation sequencing analysis of a nationwide regis,ML
+Ovarian Cancer,BRAF,22653804,all,braf,C,I,,symbol 'BRAF' present,55,use of mutation profiles to refine the classification of endometrial carcinomas,I
+Ovarian Cancer,BRAF,20802181,all,braf,C,M,,symbol 'BRAF' present,81,braf mutation is rare in advanced-stage low-grade ovarian serous carcinomas,M
+Ovarian Cancer,BRAF,15118616,all,braf,C,M,,symbol 'BRAF' present,82,ras raf mutation and defective dna mismatch repair in endometrial cancers,M
+Ovarian Cancer,BRAF,22930283,all,braf,C,M,,symbol 'BRAF' present,87,braf mutation is associated with early stage disease and improved outcome in patients with low-grade serous ovarian cancer,M
+Ovarian Cancer,BRAF,32556513,all,braf,C,M,,symbol 'BRAF' present,95,mucinous borderline ovarian tumors with braf v600e mutation may have low risk for progression to invasive carcinomas,M
+Ovarian Cancer,BRAF,41813377,all,braf,C,M,,symbol 'BRAF' present,96,high frequency of braf mutations and concomitant kras mutations in taiwanese ovarian clear cell carcinoma,M
+Ovarian Cancer,BRAF,34794740,all,braf,C,M,,symbol 'BRAF' present,140,high frequency of braf mutations in primary mucinous ovarian carcinoma of taiwanese patients,M
+Ovarian Cancer,BRAF,34568720,all,braf,C,M,,symbol 'BRAF' present,142,spectrum of braf mutations and gene rearrangements in ovarian serous carcinoma,M
+Ovarian Cancer,BRAF,29770477,all,braf,C,M,,symbol 'BRAF' present,161,braf v 600e mutations and immunohistochemical expression of ve1 protein in low-grade serous neoplasms of the ovary,M
+Ovarian Cancer,BRAF,29027536,all,braf,C,M,,symbol 'BRAF' present,165,kras mutation of extraovarian implants of serous borderline tumor prognostic indicator for adverse clinical outcome,M
+Ovarian Cancer,BRAF,25118479,all,braf,C,ML,,symbol 'BRAF' present,185,an in vivo model for the study of ovarian cancer and the persistence of characteristic mutations in xenografts,ML
+Ovarian Cancer,BRAF,19955937,all,braf,C,M,,symbol 'BRAF' present,190,v-raf murine sarcoma viral oncogene mutation status in serous borderline ovarian tumors and the effect on clinical behavior,M
+Ovarian Cancer,BRAF,29273082,all,braf,C,M,,symbol 'BRAF' present,257,low frequency of braf and kras mutations in chinese patients with low-grade serous carcinoma of the ovary,M
+Ovarian Cancer,BRAF,25986173,all,braf,C,ML,,symbol 'BRAF' present,260,targeted deep sequencing of mucinous ovarian tumors reveals multiple overlapping ras-pathway activating mutations in borderline and cancerou,ML
+Ovarian Cancer,BRAF,34268919,all,braf,C,M,,symbol 'BRAF' present,266,comparative study of braf gene mutations in ovarian serous tumors by immunohistochemistry and dna sequencing,M
+Ovarian Cancer,BRAF,31576556,all,braf,C,M,,symbol 'BRAF' present,294,oncogenic braf and kras mutations in endosalpingiosis,M
+Ovarian Cancer,BRAF,37219599,all,braf,C,M,,symbol 'BRAF' present,309,kras mutation in primary ovarian serous borderline tumors correlates with tumor recurrence,M
+Ovarian Cancer,BRAF,12893203,all,braf,C,M,,symbol 'BRAF' present,313,role of kras and braf gene mutations in mucinous ovarian carcinoma,M
+Ovarian Cancer,BRAF,25174456,all,braf,C,M,,symbol 'BRAF' present,331,usefulness of immunohistochemistry for the detection of the braf v600e mutation in ovarian serous borderline tumors,M
+Ovarian Cancer,BRAF,29380640,all,braf,C,M,,symbol 'BRAF' present,334,associations between primary tumor ras braf and pik3ca mutation status and metastatic site in patients with chemo-resistant metastatic color,M
+Ovarian Cancer,BRAF,28488545,all,braf,C,M,,symbol 'BRAF' present,340,determination of braf v600e ve1 protein expression and braf gene mutation status in codon 600 in borderline and low-grade ovarian cancers,M
+Ovarian Cancer,BRAF,22102435,all,braf,C,M,,symbol 'BRAF' present,359,low-grade serous carcinomas of the ovary contain very few point mutations,M
+Ovarian Cancer,BRAF,23267135,all,braf,C,I,,symbol 'BRAF' present,371,ppp2r1a mutation is a rare event in ovarian carcinoma across histological subtypes,I
+Ovarian Cancer,BRAF,28992761,all,braf,C,M,,symbol 'BRAF' present,394,kras mutation testing in borderline ovarian tumors and low-grade ovarian carcinomas with a rapid fully integrated molecular diagnostic syste,M
+Ovarian Cancer,BRAF,24549645,all,braf,C,M,,symbol 'BRAF' present,426,kras but not braf mutations in ovarian serous borderline tumour are associated with recurrent low-grade serous carcinoma,M
+Ovarian Cancer,BRAF,31688243,all,braf,C,ML,,symbol 'BRAF' present,428,mutational and immunophenotypic profiling of a series of 8 tubo-ovarian carcinosarcomas revealed a monoclonal origin of the disease,ML
+Ovarian Cancer,BRAF,31030485,all,braf|braf 1,C,ML,,symbol 'BRAF' present,461,ras mutation in mucinous carcinoma of the ovary,ML
+Ovarian Cancer,BRAF,28873354,all,braf,C,M,,symbol 'BRAF' present,492,mutation of nras is a rare genetic event in ovarian low-grade serous carcinoma,M
+Ovarian Cancer,BRAF,18060073,all,braf,C,M,,symbol 'BRAF' present,493,mutation analysis of braf mek1 and mek2 in 15 ovarian cancer cell lines implications for therapy,M
+Ovarian Cancer,BRAF,26362194,all,braf,C,M,,symbol 'BRAF' present,507,novel braf and kras mutations in papillary thyroid carcinoma arising in struma ovarii,M
+Ovarian Cancer,BRAF,28734796,all,braf,C,I,,symbol 'BRAF' present,534,clonal composition of human ovarian cancer based on copy number analysis reveals a reciprocal relation with oncogenic mutation status,I
+Ovarian Cancer,BRAF,19018267,all,braf,C,M,,symbol 'BRAF' present,559,kras or braf mutation status is a useful predictor of sensitivity to mek inhibition in ovarian cancer,M
+Ovarian Cancer,BRAF,12644542,all,braf,C,M,,symbol 'BRAF' present,581,mutations in braf and kras characterize the development of low-grade ovarian serous carcinoma,M
+Ovarian Cancer,BRAF,21926912,all,braf,C,M,,symbol 'BRAF' present,630,improved classification of epithelial ovarian cancer results of 3 danish cohorts,M
+Ovarian Cancer,BRAF,19010816,all,braf,C,M,,symbol 'BRAF' present,670,mutation of erbb2 provides a novel alternative mechanism for the ubiquitous activation of ras-mapk in ovarian serous low malignant potential,M
+Ovarian Cancer,BRAF,24307542,all,braf,C,M,,symbol 'BRAF' present,693,mutational analysis of braf and kras in ovarian serous borderline atypical proliferative tumours and associated peritoneal implants,M
+Ovarian Cancer,BRAF,16806438,all,braf,C,M,,symbol 'BRAF' present,694,kras and braf mutations in ovarian tumors a comprehensive study of invasive carcinomas borderline tumors and extraovarian implants,M
+Ovarian Cancer,BRAF,32743766,all,braf,C,M,,symbol 'BRAF' present,733,malignant struma ovarii next-generation sequencing of six cases revealed nras braf and jak3 mutations,M
+Ovarian Cancer,BRAF,39705839,all,braf,C,ML,,symbol 'BRAF' present,748,actionable mutations in early-stage ovarian cancer according to the esmo scale for clinical actionability of molecular targets escat a descr,ML
+Ovarian Cancer,BRAF,23089489,all,braf,C,M,,symbol 'BRAF' present,768,detection of the braf v600e mutation in serous ovarian tumors a comparative analysis of immunohistochemistry with a mutation-specific monocl,M
+Ovarian Cancer,BRAF,41378992,all,braf,C,M,,symbol 'BRAF' present,780,molecular profiling and tumor biomarker analysis of gog281 logs a positive late-phase trial of trametinib for recurrent persistent low-grade,M
+Ovarian Cancer,BRAF,19898969,all,braf,C,M,,symbol 'BRAF' present,800,ras mutation-positive follicular variant of papillary thyroid carcinoma arising in a struma ovarii,M
+Ovarian Cancer,BRAF,18953434,all,braf,C,ML,,symbol 'BRAF' present,852,mutation and methylation analysis of the chromodomain-helicase-dna binding 5 gene in ovarian cancer,ML
+Ovarian Cancer,BRAF,41395670,all,braf,C,ML,,symbol 'BRAF' present,867,ovarian sertoli-leydig cell tumors with heterologous rhabdomyosarcoma clinicopathologic features and molecular analysis highlighting recurre,ML
+Ovarian Cancer,BRAF,19048115,all,braf,C,M,,symbol 'BRAF' present,871,neurofibromin 1 nf1 defects are common in human ovarian serous carcinomas and co-occur with tp53 mutations,M
+Ovarian Cancer,BRAF,26490654,all,braf,C,M,,symbol 'BRAF' present,872,sustained response to vemurafenib in a low grade serous ovarian cancer with a braf v600e mutation,M
+Ovarian Cancer,BRAF,23174937,all,braf,C,M,,symbol 'BRAF' present,879,frequency of mutations and polymorphisms in borderline ovarian tumors of known cancer genes,M
+Ovarian Cancer,BRAF,35606067,all,braf,C,M,,symbol 'BRAF' present,902,the genomic landscape of low-grade serous ovarian peritoneal carcinoma and its impact on clinical outcomes,M
+Ovarian Cancer,BRAF,15753399,all,braf,C,M,,symbol 'BRAF' present,929,inactivation of the mitogen-activated protein kinase pathway as a potential target-based therapy in ovarian serous tumors with kras or braf ,M
+Ovarian Cancer,BRAF,31902686,all,braf,C,M,,symbol 'BRAF' present,938,therapeutic options for mucinous ovarian carcinoma,M
+Ovarian Cancer,BRAF,24889043,all,braf,C,M,,symbol 'BRAF' present,945,mutational status of kras nras and braf in primary clear cell ovarian carcinoma,M
+Ovarian Cancer,BRAF,35666535,all,braf,C,ML,,symbol 'BRAF' present,969,somatic genomic landscape of east asian epithelial ovarian carcinoma and its clinical implications from prospective clinical sequencing a ko,ML
+Ovarian Cancer,BRAF,36609991,all,braf,C,ML,,symbol 'BRAF' present,994,molecular characteristics of low-grade serous carcinoma in effusions,ML
+Ovarian Cancer,CTNNB1,30789355,all,ctnnb1,C,M,,symbol 'CTNNB1' present,3,frequent ctnnb1 or pik3ca mutations occurred in endometrial endometrioid adenocarcinoma with high levels of microsatellite instability and l,M
+Ovarian Cancer,CTNNB1,25214561,all,ctnnb1,C,M,,symbol 'CTNNB1' present,20,clinical significance of ctnnb1 mutation and wnt pathway activation in endometrioid endometrial carcinoma,M
+Ovarian Cancer,CTNNB1,34615547,all,ctnnb1,C,M,,symbol 'CTNNB1' present,21,identification and clinical significance of somatic oncogenic mutations in epithelial ovarian cancer,M
+Ovarian Cancer,CTNNB1,35483739,all,ctnnb1,C,M,,symbol 'CTNNB1' present,31,adjuvant treatment in early-stage endometrial cancer context-dependent impact of somatic ctnnb1 mutation on recurrence-free survival,M
+Ovarian Cancer,CTNNB1,40886777,all,ctnnb1,C,M,,symbol 'CTNNB1' present,35,high-grade endometrioid carcinomas with pilomatrix-like features lacking ctnnb1 mutations clinicopathologic characteristics and novel molecu,M
+Ovarian Cancer,CTNNB1,34420090,all,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,39,clinicopathological features and prognostic significance of ctnnb1 mutation in low-grade early-stage endometrial endometrioid carcinoma,M
+Ovarian Cancer,CTNNB1,30315273,all,ctnnb1,C,ML,target,symbol 'CTNNB1' present,46,targeted next-generation sequencing of endometrial cancer and matched circulating tumor dna identification of plasma-based tumor-associated ,ML
+Ovarian Cancer,CTNNB1,32769429,all,ctnnb1,C,M,,symbol 'CTNNB1' present,47,ctnnb1 mutations and aberrant -catenin expression in ovarian endometrioid carcinoma correlation with patient outcome,M
+Ovarian Cancer,CTNNB1,22653804,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,55,use of mutation profiles to refine the classification of endometrial carcinomas,ML
+Ovarian Cancer,CTNNB1,31748433,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,61,identification of novel mutations of ovarian cancer-related genes from rna-sequencing data for japanese epithelial ovarian cancer patients,ML
+Ovarian Cancer,CTNNB1,18165946,all,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,66,somatic fgf9 mutations in colorectal and endometrial carcinomas associated with membranous beta-catenin,M
+Ovarian Cancer,CTNNB1,36695555,all,ctnnb1,C,M,,symbol 'CTNNB1' present,90,estrogen progesterone receptor loss ctnnb1 and kras mutations are associated with local recurrence or distant metastasis in low-grade endome,M
+Ovarian Cancer,CTNNB1,11385321,all,beta catenin,C,M,,credited via alias beta catenin,102,beta-catenin expression pattern beta-catenin gene mutations and microsatellite instability in endometrioid ovarian carcinomas and synchronou,M
+Ovarian Cancer,CTNNB1,30702464,all,ctnnb1,C,M,,symbol 'CTNNB1' present,118,clinicopathologic and immunohistochemical correlates of ctnnb1 mutated endometrial endometrioid carcinoma,M
+Ovarian Cancer,CTNNB1,23765252,all,ctnnb1,C,M,,symbol 'CTNNB1' present,137,ovarian and endometrial endometrioid carcinomas have distinct ctnnb1 and pten mutation profiles,M
+Ovarian Cancer,CTNNB1,25118479,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,185,an in vivo model for the study of ovarian cancer and the persistence of characteristic mutations in xenografts,ML
+Ovarian Cancer,CTNNB1,24884479,all,ctnnb1,C,I,,symbol 'CTNNB1' present,244,hereditary breast and ovarian cancer assessment of point mutations and copy number variations in brazilian patients,I
+Ovarian Cancer,CTNNB1,40341112,all,ctnnb1,C,I,,symbol 'CTNNB1' present,258,molecular subtype and mutational profile of endometrial atypical hyperplasia endometrioid intraepithelial neoplasia,I
+Ovarian Cancer,CTNNB1,25986173,all,ctnnb1,C,I,,symbol 'CTNNB1' present,260,targeted deep sequencing of mucinous ovarian tumors reveals multiple overlapping ras-pathway activating mutations in borderline and cancerou,I
+Ovarian Cancer,CTNNB1,15492994,all,beta catenin,C,M,,credited via alias beta catenin,299,pten mutations do not cause nuclear beta-catenin accumulation in endometrial carcinomas,M
+Ovarian Cancer,CTNNB1,28281553,all,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,391,ctnnb1 beta-catenin mutation identifies low grade early stage endometrial cancer patients at increased risk of recurrence,M
+Ovarian Cancer,CTNNB1,38986422,all,ctnnb1,C,M,,symbol 'CTNNB1' present,420,whole exome sequencing reveals diverse genomic relatedness between paired concurrent endometrial and ovarian carcinomas,M
+Ovarian Cancer,CTNNB1,23780408,all,ctnnb1,C,M,,symbol 'CTNNB1' present,464,distinct evolutionary trajectories of primary high-grade serous ovarian cancers revealed through spatial mutational profiling,M
+Ovarian Cancer,CTNNB1,33120166,all,ctnnb1,C,M,,symbol 'CTNNB1' present,466,ctnnb1 p l31p mutation in an ovarian endometrioid carcinoma with synchronous uterine endometrioid carcinoma,M
+Ovarian Cancer,CTNNB1,38334284,all,ctnnb1,C,W,,symbol 'CTNNB1' present,485,computational investigations into structure and function impact of novel mutations identified in targeted exons from ovarian cancer cell lin,W
+Ovarian Cancer,CTNNB1,16429393,all,beta catenin,C,M,,credited via alias beta catenin,575,high frequency of beta-catenin mutations in borderline endometrioid tumours of the ovary,M
+Ovarian Cancer,CTNNB1,23636398,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,673,integrated genomic characterization of endometrial carcinoma,ML
+Ovarian Cancer,CTNNB1,26200099,all,ctnnb1,C,M,,symbol 'CTNNB1' present,724,microcystic stromal tumor a distinctive ovarian sex cord-stromal neoplasm characterized by foxl2 sf-1 wt-1 cyclin d1 and -catenin nuclear ex,M
+Ovarian Cancer,CTNNB1,40707423,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,745,clinical and biological characteristics associated with loss-of-heterozygosity in endometrial cancer,ML
+Ovarian Cancer,CTNNB1,11437403,all,beta catenin,C,M,,credited via alias beta catenin,756,mutations of the beta- and gamma-catenin genes are uncommon in human lung breast kidney cervical and ovarian carcinomas,M
+Ovarian Cancer,CTNNB1,34282105,all,ctnnb1,C,M,,symbol 'CTNNB1' present,770,endometrioid tubal intraepithelial neoplasia and bilateral ovarian microcystic stromal tumors harboring apc mutations report of a case,M
+Ovarian Cancer,CTNNB1,40743575,all,ctnnb1,C,M,,symbol 'CTNNB1' present,774,clinical and pathological analysis of 17 cases of mesonephric-like adenocarcinoma,M
+Ovarian Cancer,CTNNB1,33244099,all,ctnnb1,C,I,,symbol 'CTNNB1' present,776,differences in gynecologic tumor development in amhr2-cre mice with kras g12d or kras g12v mutations,I
+Ovarian Cancer,CTNNB1,23174937,all,ctnnb1,C,ML,,symbol 'CTNNB1' present,879,frequency of mutations and polymorphisms in borderline ovarian tumors of known cancer genes,ML
+Ovarian Cancer,CTNNB1,30448219,all,ctnnb1,C,M,,symbol 'CTNNB1' present,910,high frequency of pole mutations in synchronous endometrial and ovarian carcinoma,M
+Ovarian Cancer,CTNNB1,25913412,all,ctnnb1,C,M,,symbol 'CTNNB1' present,926,microcystic stromal tumour of the ovary frequent mutations of -catenin ctnnb1 in six cases,M
+Ovarian Cancer,CTNNB1,37328769,all,ctnnb1,C,M,,symbol 'CTNNB1' present,948,ctnnb1 p d32a c 95a c somatic mutation in stage i grade 1 endometrioid endometrial carcinoma with lung metastasis a case report,M
+Ovarian Cancer,CTNNB1,40348058,all,ctnnb1,C,M,,symbol 'CTNNB1' present,966,differential localization of -catenin protein in ctnnb1 mutant endometrial cancers results in distinct transcriptional profiles,M
+Ovarian Cancer,CTNNB1,35034160,all,ctnnb1,C,M,,symbol 'CTNNB1' present,970,prognostic significance of ctnnb1 mutation in early stage endometrial carcinoma a systematic review and meta-analysis,M
+Ovarian Cancer,PTEN,25677978,all,pten,C,M,,symbol 'PTEN' present,4,mutation profile and clinical outcome of mixed endometrioid-serous endometrial carcinomas are different from that of pure endometrioid or se,M
+Ovarian Cancer,PTEN,34615547,all,pten,C,ML,,symbol 'PTEN' present,21,identification and clinical significance of somatic oncogenic mutations in epithelial ovarian cancer,ML
+Ovarian Cancer,PTEN,30315273,all,pten,C,ML,target,symbol 'PTEN' present,46,targeted next-generation sequencing of endometrial cancer and matched circulating tumor dna identification of plasma-based tumor-associated ,ML
+Ovarian Cancer,PTEN,22653804,all,pten,C,M,,symbol 'PTEN' present,55,use of mutation profiles to refine the classification of endometrial carcinomas,M
+Ovarian Cancer,PTEN,24559118,all,pten,C,M,,symbol 'PTEN' present,60,a functional proteogenomic analysis of endometrioid and clear cell carcinomas using reverse phase protein array and mutation analysis protei,M
+Ovarian Cancer,PTEN,31748433,all,pten,C,I,,symbol 'PTEN' present,61,identification of novel mutations of ovarian cancer-related genes from rna-sequencing data for japanese epithelial ovarian cancer patients,I
+Ovarian Cancer,PTEN,38976671,all,pten,C,I,,symbol 'PTEN' present,67,predictive modeling of gene mutations for the survival outcomes of epithelial ovarian cancer patients,I
+Ovarian Cancer,PTEN,25701704,all,pten,C,M,,symbol 'PTEN' present,77,piking the type and pattern of pi3k pathway mutations in endometrioid endometrial carcinomas,M
+Ovarian Cancer,PTEN,31472684,all,pten,C,I,,symbol 'PTEN' present,117,germline and somatic mutations of multi-gene panel in chinese patients with epithelial ovarian cancer a prospective cohort study,I
+Ovarian Cancer,PTEN,25394778,all,pten,C,ML,,symbol 'PTEN' present,119,clinicopathological analysis of endometrial carcinomas harboring somatic pole exonuclease domain mutations,ML
+Ovarian Cancer,PTEN,22209294,all,phosphatase and tensin homolog,C,M,,credited via alias phosphatase and tensin homolog,122,pik3ca mutations in endometrial carcinomas in chinese women phosphatidylinositol 3'-kinase pathway alterations might be associated with favo,M
+Ovarian Cancer,PTEN,23765252,all,pten,C,M,,symbol 'PTEN' present,137,ovarian and endometrial endometrioid carcinomas have distinct ctnnb1 and pten mutation profiles,M
+Ovarian Cancer,PTEN,23219661,all,pten,C,M,,symbol 'PTEN' present,157,high-throughput interrogation of pik3ca pten kras fbxw7 and tp53 mutations in primary endometrial carcinoma,M
+Ovarian Cancer,PTEN,36929579,all,pten,C,M,,symbol 'PTEN' present,164,pten mutation predicts unfavorable fertility preserving treatment outcome in the young patients with endometrioid endometrial cancer and aty,M
+Ovarian Cancer,PTEN,25118479,all,pten,C,M,,symbol 'PTEN' present,185,an in vivo model for the study of ovarian cancer and the persistence of characteristic mutations in xenografts,M
+Ovarian Cancer,PTEN,30569174,all,phosphatase and tensin homolog|pten,C,M,,symbol 'PTEN' present,216,pilot investigation of the mutation profile of pik3ca pten genes pi3k pathway in grade 3 endometrial cancer,M
+Ovarian Cancer,PTEN,26556035,all,pten,C,ML,,symbol 'PTEN' present,221,tp53 mutational spectrum in endometrioid and serous endometrial cancers,ML
+Ovarian Cancer,PTEN,16793127,all,pten,C,M,,symbol 'PTEN' present,234,pten mutation expression and loh at its locus in ovarian carcinomas relation to tp53 k-ras and brca1 mutations,M
+Ovarian Cancer,PTEN,24884479,all,pten,C,ML,,symbol 'PTEN' present,244,hereditary breast and ovarian cancer assessment of point mutations and copy number variations in brazilian patients,ML
+Ovarian Cancer,PTEN,40341112,all,pten,C,I,,symbol 'PTEN' present,258,molecular subtype and mutational profile of endometrial atypical hyperplasia endometrioid intraepithelial neoplasia,I
+Ovarian Cancer,PTEN,25986173,all,pten,C,I,,symbol 'PTEN' present,260,targeted deep sequencing of mucinous ovarian tumors reveals multiple overlapping ras-pathway activating mutations in borderline and cancerou,I
+Ovarian Cancer,PTEN,31481248,all,pten,C,I,,symbol 'PTEN' present,279,using next-generation sequencing ngs platform to diagnose pathogenic germline brca1 2 mutations from archival tumor specimens,I
+Ovarian Cancer,PTEN,15492994,all,pten,C,M,,symbol 'PTEN' present,299,pten mutations do not cause nuclear beta-catenin accumulation in endometrial carcinomas,M
+Ovarian Cancer,PTEN,27157322,all,pten,C,I,,symbol 'PTEN' present,308,detection of germline mutation in hereditary breast and or ovarian cancers by next-generation sequencing on a four-gene panel,I
+Ovarian Cancer,PTEN,32068069,all,pten,C,ML,,symbol 'PTEN' present,348,germline mutation in 1338 brca-negative chinese hereditary breast and or ovarian cancer patients clinical testing with a multigene test pane,ML
+Ovarian Cancer,PTEN,36311816,all,pten,C,ML,,symbol 'PTEN' present,362,uterine lavage identifies cancer mutations and increased tp53 somatic mutation burden in individuals with ovarian cancer,ML
+Ovarian Cancer,PTEN,36333181,all,pten,C,ML,,symbol 'PTEN' present,373,molecular portraits of clear cell ovarian and endometrial carcinoma with comparison to clear cell renal cell carcinoma,ML
+Ovarian Cancer,PTEN,38986422,all,pten,C,ML,,symbol 'PTEN' present,420,whole exome sequencing reveals diverse genomic relatedness between paired concurrent endometrial and ovarian carcinomas,ML
+Ovarian Cancer,PTEN,22214849,all,pten,C,M,,symbol 'PTEN' present,423,an activating pik3ca mutation coupled with pten loss is sufficient to initiate ovarian tumorigenesis in mice,M
+Ovarian Cancer,PTEN,27048117,all,pten,C,M,,symbol 'PTEN' present,444,possible relevance of tumor-related genes mutation to malignant transformation of endometriosis,M
+Ovarian Cancer,PTEN,33120166,all,pten,C,M,,symbol 'PTEN' present,466,ctnnb1 p l31p mutation in an ovarian endometrioid carcinoma with synchronous uterine endometrioid carcinoma,M
+Ovarian Cancer,PTEN,19407556,all,pten,C,M,,symbol 'PTEN' present,481,expression status and mutational analysis of the pten and p13k subunit genes in ovarian granulosa cell tumors,M
+Ovarian Cancer,PTEN,26976419,all,pten,C,I,,symbol 'PTEN' present,515,frequency of germline mutations in 25 cancer susceptibility genes in a sequential series of patients with breast cancer,I
+Ovarian Cancer,PTEN,28734796,all,pten,C,I,,symbol 'PTEN' present,534,clonal composition of human ovarian cancer based on copy number analysis reveals a reciprocal relation with oncogenic mutation status,I
+Ovarian Cancer,PTEN,35365770,all,pten,C,M,,symbol 'PTEN' present,555,genomic landscape of endometrial carcinomas of no specific molecular profile,M
+Ovarian Cancer,PTEN,16429393,all,pten,C,M,,symbol 'PTEN' present,575,high frequency of beta-catenin mutations in borderline endometrioid tumours of the ovary,M
+Ovarian Cancer,PTEN,33256706,all,pten,C,I,,symbol 'PTEN' present,605,utility of a custom designed next generation dna sequencing gene panel to molecularly classify endometrial cancers according to the cancer g,I
+Ovarian Cancer,PTEN,35608067,all,pten,C,I,,symbol 'PTEN' present,617,germline mutations in chinese ovarian cancer with or without breast cancer,I
+Ovarian Cancer,PTEN,40401766,all,pten,C,M,,symbol 'PTEN' present,665,dominant negative pten alterations in endometrial carcinoma are associated with retained immunohistochemical pten expression,M
+Ovarian Cancer,PTEN,23636398,all,pten,C,ML,,symbol 'PTEN' present,673,integrated genomic characterization of endometrial carcinoma,ML
+Ovarian Cancer,PTEN,25851704,all,pten,C,ML,,symbol 'PTEN' present,730,endometrial carcinomas with clear cells a study of a heterogeneous group of tumors including interobserver variability mutation analysis and,ML
+Ovarian Cancer,PTEN,40707423,all,pten,C,ML,,symbol 'PTEN' present,745,clinical and biological characteristics associated with loss-of-heterozygosity in endometrial cancer,ML
+Ovarian Cancer,PTEN,26045339,all,pten,C,P,,symbol 'PTEN' present,764,pten loss is a context-dependent outcome determinant in obese and non-obese endometrioid endometrial cancer patients,P
+Ovarian Cancer,PTEN,40743575,all,pten,C,ML,,symbol 'PTEN' present,774,clinical and pathological analysis of 17 cases of mesonephric-like adenocarcinoma,ML
+Ovarian Cancer,PTEN,33244099,all,pten,C,I,,symbol 'PTEN' present,776,differences in gynecologic tumor development in amhr2-cre mice with kras g12d or kras g12v mutations,I
+Ovarian Cancer,PTEN,32520976,all,pten,C,M,,symbol 'PTEN' present,781,differences in the molecular profile of endometrial cancers from british white and british south asian women,M
+Ovarian Cancer,PTEN,24561032,all,pten,C,M,,symbol 'PTEN' present,833,assessing the efficacy of targeting the phosphatidylinositol 3-kinase akt mtor signaling pathway in endometrial cancer,M
+Ovarian Cancer,PTEN,34015161,all,pten,C,I,,symbol 'PTEN' present,842,clinicopathological and molecular characteristics of endometrial neuroendocrine carcinomas reveal preexisting endometrial carcinoma origin,I
+Ovarian Cancer,PTEN,30448219,all,pten,C,M,,symbol 'PTEN' present,910,high frequency of pole mutations in synchronous endometrial and ovarian carcinoma,M
+Ovarian Cancer,PTEN,35226219,all,pten,C,I,,symbol 'PTEN' present,916,prevalence of tumor genomic alterations in homologous recombination repair genes among taiwanese breast cancers,I
+Ovarian Cancer,PTEN,41435653,all,pten,C,ML,,symbol 'PTEN' present,935,incidence of esr1 gene mutations among patients with endometrioid endometrial cancer,ML
+Ovarian Cancer,PTEN,31902686,all,pten,C,ML,,symbol 'PTEN' present,938,therapeutic options for mucinous ovarian carcinoma,ML
+Ovarian Cancer,PTEN,37328769,all,pten,C,ML,,symbol 'PTEN' present,948,ctnnb1 p d32a c 95a c somatic mutation in stage i grade 1 endometrioid endometrial carcinoma with lung metastasis a case report,ML
+Ovarian Cancer,PTEN,22300766,all,pten,C,ML,,symbol 'PTEN' present,954,varscan 2 somatic mutation and copy number alteration discovery in cancer by exome sequencing,ML
+Ovarian Cancer,PTEN,41436846,all,pten,C,ML,,symbol 'PTEN' present,963,a deeper dive into pole -mutated endometrial carcinomas the contributions and consequences of tumor mutational burden,ML
+Ovarian Cancer,PTEN,33166861,all,pten,C,ML,,symbol 'PTEN' present,996,prevalence of pathogenic variants in actionable genes in advanced ovarian cancer a next-generation sequencing analysis of a nationwide regis,ML
+Ovarian Cancer,RAD51C,39950607,all,rad51c,C,I,,symbol 'RAD51C' present,2,mutations in homologous recombination repair genes in patients with metastatic endometrial cancer association with clinical characteristics ,I
+Ovarian Cancer,RAD51C,24240112,all,rad51c,C,I,,symbol 'RAD51C' present,50,germline and somatic mutations in homologous recombination genes predict platinum response and survival in ovarian fallopian tube and perito,I
+Ovarian Cancer,RAD51C,34593530,all,rad51c,C,M,,symbol 'RAD51C' present,89,ovarian cancer-specific brca -like copy-number aberration classifiers detect mutations associated with homologous recombination deficiency i,M
+Ovarian Cancer,RAD51C,31472684,all,rad51c,C,ML,,symbol 'RAD51C' present,117,germline and somatic mutations of multi-gene panel in chinese patients with epithelial ovarian cancer a prospective cohort study,ML
+Ovarian Cancer,RAD51C,26720728,all,rad51c,C,ML,,symbol 'RAD51C' present,169,inherited mutations in women with ovarian carcinoma,ML
+Ovarian Cancer,RAD51C,25452441,all,rad51c,C,I,,symbol 'RAD51C' present,172,inherited mutations in 17 breast cancer susceptibility genes among a large triple-negative breast cancer cohort unselected for family histor,I
+Ovarian Cancer,RAD51C,32839226,all,rad51c,C,M,,symbol 'RAD51C' present,217,management of high moderate and low penetrance ovarian cancer susceptibility mutations an assessment of current risk reduction practices,M
+Ovarian Cancer,RAD51C,42420629,all,rad51c,C,M,,symbol 'RAD51C' present,222,olaparib in hr-deficient metastatic triple-negative breast and platinum-sensitive relapsed ovarian cancers without germline mutations in brc,M
+Ovarian Cancer,RAD51C,40517019,all,rad51c,C,ML,,symbol 'RAD51C' present,248,risk of ovarian cancer in women with pelvic inflammatory disease and homologous recombination repair gene mutations under 55 a population-ba,ML
+Ovarian Cancer,RAD51C,26740214,all,rad51c,C,M,,symbol 'RAD51C' present,274,identification of six pathogenic rad51c mutations via mutational screening of 1228 danish individuals with increased risk of hereditary brea,M
+Ovarian Cancer,RAD51C,21822267,all,rad51c,C,M,,symbol 'RAD51C' present,283,germline mutations in rad51d confer susceptibility to ovarian cancer,M
+Ovarian Cancer,RAD51C,36716415,all,rad51c,C,I,,symbol 'RAD51C' present,284,homologous recombination repair gene mutations to predict olaparib plus bevacizumab efficacy in the first-line ovarian cancer paola-1 engot-,I
+Ovarian Cancer,RAD51C,30651582,all,rad51c,C,I,,symbol 'RAD51C' present,289,germline mutations in cancer susceptibility genes in high grade serous ovarian cancer in serbia,I
+Ovarian Cancer,RAD51C,30640700,all,rad51c,C,I,,symbol 'RAD51C' present,291,the clinical importance of brcaness in a population-based cohort of danish epithelial ovarian cancer,I
+Ovarian Cancer,RAD51C,36292577,all,rad51c,C,I,,symbol 'RAD51C' present,295,increased risk of hereditary prostate cancer in italian families with hereditary breast and ovarian cancer syndrome harboring mutations in b,I
+Ovarian Cancer,RAD51C,24139550,all,rad51c,C,I,,symbol 'RAD51C' present,314,germline mutation in the rad51b gene confers predisposition to breast cancer,I
+Ovarian Cancer,RAD51C,33832919,all,rad51c,C,M,,symbol 'RAD51C' present,323,long-term survival of an ovarian cancer patient harboring a rad51c missense mutation,M
+Ovarian Cancer,RAD51C,29233532,all,rad51c,C,M,,symbol 'RAD51C' present,329,clinical characteristics and outcomes of patients with brca1 or rad51c methylated versus mutated ovarian carcinoma,M
+Ovarian Cancer,RAD51C,30309218,all,rad51c,C,ML,,symbol 'RAD51C' present,337,prevalence of palb2 germline mutations in early-onset and familial breast ovarian cancer patients from pakistan,ML
+Ovarian Cancer,RAD51C,24800917,all,rad51c,C,M,,symbol 'RAD51C' present,365,deleterious rad51c germline mutations rarely predispose to breast and ovarian cancer in pakistan,M
+Ovarian Cancer,RAD51C,26976419,all,rad51c,C,I,,symbol 'RAD51C' present,515,frequency of germline mutations in 25 cancer susceptibility genes in a sequential series of patients with breast cancer,I
+Ovarian Cancer,RAD51C,28709830,all,rad51c,C,ML,,symbol 'RAD51C' present,527,pathologic findings in breast fallopian tube and ovary specimens in non-brca hereditary breast and or ovarian cancer syndromes a study of 18,ML
+Ovarian Cancer,RAD51C,26687385,all,rad51c,C,ML,,symbol 'RAD51C' present,539,screening for germline mutations in breast ovarian cancer susceptibility genes in high-risk families in israel,ML
+Ovarian Cancer,RAD51C,35205366,all,rad51c,C,I,,symbol 'RAD51C' present,541,pancreatic cancer with mutation in brca1 2 mlh1 and apc genes phenotype correlation and detection of a novel germline brca2 mutation,I
+Ovarian Cancer,RAD51C,25086635,all,rad51c,C,M,,symbol 'RAD51C' present,543,rad51c germline mutations found in spanish site-specific breast cancer and breast-ovarian cancer families,M
+Ovarian Cancer,RAD51C,28588062,all,rad51c,C,M,,symbol 'RAD51C' present,546,secondary somatic mutations restoring rad51c and rad51d associated with acquired resistance to the parp inhibitor rucaparib in high-grade ov,M
+Ovarian Cancer,RAD51C,23117857,all,rad51c,C,M,,symbol 'RAD51C' present,567,germline mutations in rad51c in jewish high cancer risk families,M
+Ovarian Cancer,RAD51C,21990120,all,rad51c,C,M,,symbol 'RAD51C' present,695,analysis of rad51c germline mutations in high-risk breast and ovarian cancer families and ovarian cancer patients,M
+Ovarian Cancer,RAD51C,32809180,all,rad51c,C,M,,symbol 'RAD51C' present,714,association of rad51c germline mutations with breast cancer among bahamians,M
+Ovarian Cancer,RAD51C,22476429,all,rad51c,C,M,,symbol 'RAD51C' present,729,mutation screening of rad51c in high-risk breast and ovarian cancer families,M
+Ovarian Cancer,RAD51C,20400964,all,rad51c,C,M,,symbol 'RAD51C' present,758,germline mutations in breast and ovarian cancer pedigrees establish rad51c as a human cancer susceptibility gene,M
+Ovarian Cancer,RAD51C,28961279,all,rad51c,C,I,,symbol 'RAD51C' present,765,the frequency of cancer predisposition gene mutations in hereditary breast and ovarian cancer patients in taiwan from brca1 2 to multi-gene ,I
+Ovarian Cancer,RAD51C,35779836,all,rad51c,C,ML,,symbol 'RAD51C' present,854,low brca1 and brca2 germline mutation rates in a french-canadian population with a diagnosis of epithelial tubo-ovarian carcinoma,ML
+Ovarian Cancer,RAD51C,26057125,all,rad51c,C,M,,symbol 'RAD51C' present,861,mutation analysis of the rad51c and rad51d genes in high-risk ovarian cancer patients and families from the czech republic,M
+Ovarian Cancer,RAD51C,30927251,all,rad51c,C,ML,,symbol 'RAD51C' present,864,recurrent moderate-risk mutations in finnish breast and ovarian cancer patients,ML
+Ovarian Cancer,RAD51C,26261251,all,rad51c,C,ML,,symbol 'RAD51C' present,897,contribution of germline mutations in the rad51b rad51c and rad51d genes to ovarian cancer in the population,ML
+Ovarian Cancer,RAD51C,22725699,all,rad51c,C,M,,symbol 'RAD51C' present,917,germline rad51c mutations in ovarian cancer susceptibility,M

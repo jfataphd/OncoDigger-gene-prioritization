@@ -1,0 +1,101 @@
+cancer,gene,pubmed_count
+Bladder Cancer,ARID1A,75
+Bladder Cancer,ERBB2,187
+Bladder Cancer,FGFR3,659
+Bladder Cancer,HRAS,133
+Bladder Cancer,KDM6A,70
+Bladder Cancer,RB1,163
+Bladder Cancer,TERT,203
+Brain Cancer,ATRX,510
+Brain Cancer,IDH1,2076
+Brain Cancer,IDH2,361
+Brain Cancer,PTEN,989
+Brain Cancer,TERT,616
+Breast Cancer,AKT1,569
+Breast Cancer,CHEK2,746
+Breast Cancer,ERBB2,2982
+Breast Cancer,ESR1,1431
+Breast Cancer,PALB2,723
+Breast Cancer,PTEN,1629
+Cervical Cancer,ERBB2,73
+Cervical Cancer,FBXW7,27
+Cervical Cancer,MTOR,297
+Cervical Cancer,PTEN,156
+Cervical Cancer,RB1,38
+Cervical Cancer,STK11,46
+Colorectal Cancer,APC,4509
+Endometrial Cancer,ARID1A,226
+Endometrial Cancer,CTNNB1,216
+Endometrial Cancer,PTEN,839
+Esophageal Cancer,APC,188
+Esophageal Cancer,CDKN2A,121
+Esophageal Cancer,NFE2L2,39
+Esophageal Cancer,NOTCH1,85
+Kidney Cancer,BAP1,261
+Kidney Cancer,FLCN,177
+Kidney Cancer,KDM5C,59
+Kidney Cancer,PBRM1,281
+Kidney Cancer,SETD2,210
+Kidney Cancer,TSC2,309
+Kidney Cancer,VHL,1690
+Kidney Cancer,WT1,634
+Leukemia,ASXL1,690
+Leukemia,BCR,9119
+Leukemia,CEBPA,851
+Leukemia,DNMT3A,995
+Leukemia,IDH1,803
+Leukemia,NPM1,2079
+Leukemia,TET2,862
+Liver Cancer,APC,440
+Liver Cancer,CTNNB1,488
+Liver Cancer,TERT,395
+Lung Cancer,ALK,5478
+Lung Cancer,CD274,142
+Lung Cancer,ERBB2,775
+Lung Cancer,MET,5002
+Lung Cancer,STK11,510
+Lymphoma,ATM,305
+Lymphoma,CARD11,158
+Lymphoma,CD79B,356
+Lymphoma,CREBBP,168
+Lymphoma,EZH2,369
+Lymphoma,KMT2D,209
+Lymphoma,MYD88,603
+Lymphoma,RHOA,169
+Lymphoma,TET2,237
+Melanoma,BAP1,444
+Melanoma,CDKN2A,802
+Melanoma,GNA11,278
+Melanoma,GNAQ,370
+Melanoma,KIT,1003
+Melanoma,NF1,261
+Melanoma,SF3B1,125
+Melanoma,TERT,325
+Myeloma,DIS3,43
+Myeloma,FGFR3,187
+Myeloma,IRF4,159
+Myeloma,MYC,576
+Myeloma,TRAF3,29
+Ovarian Cancer,CTNNB1,202
+Ovarian Cancer,PTEN,782
+Pancreatic Cancer,CDKN2A,512
+Pancreatic Cancer,GNAS,184
+Pancreatic Cancer,MEN1,717
+Pancreatic Cancer,PALB2,177
+Pancreatic Cancer,SMAD4,661
+Prostate Cancer,AR,6485
+Prostate Cancer,ATM,439
+Prostate Cancer,CHEK2,151
+Prostate Cancer,PALB2,98
+Prostate Cancer,PTEN,1789
+Prostate Cancer,SPOP,227
+Stomach Cancer,APC,411
+Stomach Cancer,ARID1A,189
+Stomach Cancer,CDH1,704
+Stomach Cancer,CTNNB1,87
+Stomach Cancer,PDGFRA,119
+Thyroid Cancer,EIF1AX,57
+Thyroid Cancer,HRAS,239
+Thyroid Cancer,RET,2481
+Thyroid Cancer,TERT,551
+Thyroid Cancer,TSHR,271

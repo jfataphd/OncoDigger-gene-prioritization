@@ -1,0 +1,21 @@
+Cancer,Gene,Move,IntOGen driver in this cancer,IntOGen driver in any cancer
+Bladder Cancer,BRAF,enters,yes,yes
+Bladder Cancer,ERBB2,leaves,yes,yes
+Cervical Cancer,ARID1A,enters,yes,yes
+Cervical Cancer,BRAF,enters,no,yes
+Cervical Cancer,MTOR,leaves,no,yes
+Cervical Cancer,RB1,leaves,yes,yes
+Esophageal Cancer,KIT,enters,no,yes
+Esophageal Cancer,APC,leaves,yes,yes
+Kidney Cancer,CTNNB1,enters,yes,yes
+Kidney Cancer,KDM5C,leaves,yes,yes
+Leukemia,RUNX1,enters,yes,yes
+Leukemia,BCR,leaves,yes,yes
+Myeloma,DNMT3A,enters,yes,yes
+Myeloma,RB1,enters,yes,yes
+Myeloma,IRF4,leaves,yes,yes
+Myeloma,TRAF3,leaves,yes,yes
+Prostate Cancer,CDK12,enters,yes,yes
+Prostate Cancer,PALB2,leaves,no,yes
+Stomach Cancer,KIT,enters,no,yes
+Stomach Cancer,ARID1A,leaves,yes,yes

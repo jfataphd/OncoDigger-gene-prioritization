@@ -1,0 +1,6 @@
+weight,any_10,exact_10,any_pct,exact_pct,stat_any_10,stat_exact_10,top10_genes_kept,exact_diff_pp,exact_ci_lo,exact_ci_hi,any_diff_pp,any_ci_lo,any_ci_hi,cancers_better_exact,cancers_worse_exact
+0 (frozen ranking),178,150,93.7,78.9,162,136,190,,,,,,,,
+0.25,178,150,93.7,78.9,162,137,189,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+1,178,151,93.7,79.5,162,136,185,0.5,0.0,1.6,0.0,0.0,0.0,1,0
+3,178,149,93.7,78.4,163,134,180,-0.5,-2.1,1.1,0.0,0.0,0.0,1,2
+10,178,147,93.7,77.4,163,133,178,-1.6,-3.7,0.5,0.0,0.0,0.0,1,4

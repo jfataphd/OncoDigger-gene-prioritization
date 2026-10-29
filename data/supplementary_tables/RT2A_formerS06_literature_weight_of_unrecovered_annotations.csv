@@ -1,0 +1,28 @@
+Cancer,Gene,Rank,Supporting papers,Weakest top-10 threshold
+Leukemia,RUNX1,11,105,84
+Lymphoma,MYC,11,96,42
+Lymphoma,BCL2,13,94,42
+Kidney Cancer,MTOR,14,70,31
+Breast Cancer,EGFR,12,68,37
+Melanoma,CDK4,11,61,47
+Stomach Cancer,ERBB2,17,59,45
+Lymphoma,BCL6,18,56,42
+Esophageal Cancer,ERBB2,11,53,30
+Kidney Cancer,MET,15,48,31
+Melanoma,TP53,12,47,47
+Kidney Cancer,TSC1,11,46,31
+Brain Cancer,PIK3CA,12,45,43
+Breast Cancer,ATM,11,43,37
+Thyroid Cancer,PTEN,14,40,25
+Kidney Cancer,CTNNB1,12,38,31
+Kidney Cancer,PIK3CA,21,38,31
+Kidney Cancer,PTEN,20,32,31
+Myeloma,CCND1,14,27,13
+Cervical Cancer,ARID1A,11,23,15
+Myeloma,NSD2,19,17,13
+Myeloma,RB1,11,16,13
+Myeloma,MAF,25,16,13
+Myeloma,DNMT3A,13,15,13
+Myeloma,TET2,16,15,13
+Cervical Cancer,BRCA2,17,15,15
+Myeloma,ATM,12,13,13

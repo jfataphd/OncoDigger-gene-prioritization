@@ -1,0 +1,35 @@
+cancer,gene,n_sampled,pct_mutation_titled,full_corpus_postings
+Brain Cancer,MAX,20,0.0,439.0
+Breast Cancer,FOXA1,20,0.0,318.0
+Leukemia,HLA-A,20,0.0,255.0
+Kidney Cancer,REST,20,0.0,198.0
+Breast Cancer,CASP8,20,5.0,114.0
+Lymphoma,HLA-A,20,0.0,95.0
+Leukemia,IRF4,20,5.0,82.0
+Colorectal Cancer,ERBB3,20,5.0,80.0
+Myeloma,MAX,20,5.0,78.0
+Lung Cancer,HLA-A,20,0.0,75.0
+Breast Cancer,ARID1A,20,5.0,67.0
+Breast Cancer,RUNX1,20,5.0,66.0
+Breast Cancer,CDKN1B,20,10.0,53.0
+Leukemia,CCND2,20,0.0,47.0
+Breast Cancer,TBX3,20,5.0,43.0
+Breast Cancer,NCOR1,20,15.0,40.0
+Endometrial Cancer,MAX,20,5.0,37.0
+Liver Cancer,EPHA2,20,0.0,35.0
+Stomach Cancer,RELA,20,0.0,35.0
+Pancreatic Cancer,LPA,20,0.0,33.0
+Lung Cancer,CREBBP,20,35.0,32.0
+Lung Cancer,KLF5,20,0.0,29.0
+Lung Cancer,BCR,20,5.0,28.0
+Lung Cancer,B2M,20,5.0,27.0
+Stomach Cancer,TOP2A,20,0.0,27.0
+Bladder Cancer,RHOA,20,0.0,25.0
+Brain Cancer,DNMT3A,20,10.0,25.0
+Breast Cancer,SF3B1,20,20.0,24.0
+Leukemia,KMT2C,20,10.0,22.0
+Lung Cancer,ARID2,20,40.0,21.0
+Leukemia,RIPK1,20,10.0,21.0
+Prostate Cancer,SUZ12,20,5.0,20.0
+Brain Cancer,FBXW7,20,10.0,20.0
+Brain Cancer,TCF4,20,5.0,20.0

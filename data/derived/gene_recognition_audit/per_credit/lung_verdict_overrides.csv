@@ -1,0 +1,3 @@
+gene,pmid,identity,evidence,rationale
+MET,38172228,X,I,"'met' = methionine (thr790 met = T790M substitution), not the MET gene"
+MET,42650153,X,I,"'met' = metastasis ('met organotropism cohort')"

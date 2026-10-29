@@ -1,0 +1,399 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Esophageal Cancer,TP53,29168598,random,tp53,C,M,,symbol 'TP53' present,3,prima-1 induces p53-mediated apoptosis by upregulating noxa in esophageal squamous cell carcinoma with tp53 missense mutation,M
+Esophageal Cancer,TP53,11531258,random,tp53,C,M,,symbol 'TP53' present,30,tp53 mutations amplification of p63 and expression of cell cycle proteins in squamous cell carcinoma of the oesophagus from a low incidence ,M
+Esophageal Cancer,TP53,41481786,random,tp53,C,I,,symbol 'TP53' present,34,genotype-to-phenotype mapping of somatic clonal mosaicism via single-cell co-capture of dna mutations and mrna transcripts,I
+Esophageal Cancer,TP53,40536086,random,tp53,C,M,,symbol 'TP53' present,38,comparison of somatic mutations in primary squamous cell carcinomas of the hypopharynx and the esophagus developed in individual patients,M
+Esophageal Cancer,TP53,16416221,random,tp53,C,M,,symbol 'TP53' present,89,tp53 gene mutations are rare in nondysplastic barrett's esophagus,M
+Esophageal Cancer,TP53,27882726,random,tp53,C,M,,symbol 'TP53' present,90,the high expression instead of mutation of p53 is predictive of overall survival in patients with esophageal squamous-cell carcinoma a meta-,M
+Esophageal Cancer,TP53,19414370,random,tp53,C,I,,symbol 'TP53' present,114,gene mutations in esophageal mucosa of chagas disease patients,I
+Esophageal Cancer,TP53,35013873,random,tp53,C,M,,symbol 'TP53' present,120,biased expression of mutant alleles in cancer-related genes in esophageal squamous cell carcinoma,M
+Esophageal Cancer,TP53,21617227,random,tp53|tumor protein p53,C,M,,symbol 'TP53' present,155,gene mutations and polymorphisms of tp53 and fhit in chronic esophagitis and esophageal carcinoma,M
+Esophageal Cancer,TP53,38158377,random,tp53,C,I,,symbol 'TP53' present,178,comprehensive molecular findings in primary malignant melanoma of the esophagus a multicenter study,I
+Esophageal Cancer,TP53,26470716,random,tp53,C,M,,symbol 'TP53' present,231,genomic analysis of hpv-positive versus hpv-negative oesophageal adenocarcinoma identifies a differential mutational landscape,M
+Esophageal Cancer,TP53,37194195,random,tp53,C,M,,symbol 'TP53' present,244,carcinogenic potential in regenerated mucosa after endoscopic resection of esophageal squamous cell carcinoma,M
+Esophageal Cancer,TP53,30338755,random,tp53,C,ML,,symbol 'TP53' present,245,hpv status and mutation analysis using multiparallel sequencing in distal oesophageal and gastro-oesophageal junction adenocarcinomas,ML
+Esophageal Cancer,TP53,28554745,random,tp53,C,I,,symbol 'TP53' present,247,genomic profiling of esophageal squamous cell carcinoma escc -basis for precision medicine,I
+Esophageal Cancer,TP53,41198547,random,tp53,C,M,,symbol 'TP53' present,254,genomic instability is widespread in esophageal squamous dysplasia and increases during the progression to cancer,M
+Esophageal Cancer,TP53,18791921,random,tp53,C,M,,symbol 'TP53' present,262,association between copper excess zinc deficiency and tp53 mutations in esophageal squamous cell carcinoma from kashmir valley india--a high,M
+Esophageal Cancer,TP53,11004672,random,tp53,C,M,,symbol 'TP53' present,295,tp53 mutations and mdm2 gene amplification in squamous-cell carcinomas of the esophagus in south thailand,M
+Esophageal Cancer,TP53,33826001,random,tp53,C,M,,symbol 'TP53' present,302,whole exome sequencing and deep sequencing of esophageal squamous cell carcinoma and adenocarcinoma in japanese patients using the japanese ,M
+Esophageal Cancer,TP53,41335461,random,tp53,C,M,,symbol 'TP53' present,356,nci 10211 a phase ii single-arm study of berzosertib in combination with irinotecan in patients with advanced tp53 mutant gastroesophageal c,M
+Esophageal Cancer,TP53,29037469,targeted,tumor protein p53,C,M,,credited via alias tumor protein p53,406,management of patients with adenocarcinoma or squamous cancer of the esophagus,M
+Esophageal Cancer,TP53,28365443,random,tp53,C,ML,,symbol 'TP53' present,420,genetic alterations in esophageal tissues from squamous dysplasia to carcinoma,ML
+Esophageal Cancer,TP53,35688970,random,tp53,C,M,,symbol 'TP53' present,426,comprehensive genomic analysis of primary malignant melanoma of the esophagus reveals similar genetic patterns compared with epithelium-asso,M
+Esophageal Cancer,TP53,38726899,random,tp53,C,M,,symbol 'TP53' present,447,transcriptionally active human papillomavirus infection in a minority of esophageal squamous cell carcinomas in north america,M
+Esophageal Cancer,TP53,31570939,random,tp53,C,M,,symbol 'TP53' present,500,clonal evolution of esophageal squamous cell carcinoma from normal mucosa to primary tumor and metastases,M
+Esophageal Cancer,TP53,15489653,random,tp53,C,M,,symbol 'TP53' present,546,do collision tumors of the gastroesophageal junction exist a molecular analysis,M
+Esophageal Cancer,TP53,21890457,random,tp53,C,M,,symbol 'TP53' present,561,bile acid-induced expression of activation-induced cytidine deaminase during the development of barrett's oesophageal adenocarcinoma,M
+Esophageal Cancer,TP53,28731047,random,tp53,C,M,,symbol 'TP53' present,590,targeted next-generation sequencing supports epidermoid metaplasia of the esophagus as a precursor to esophageal squamous neoplasia,M
+Esophageal Cancer,TP53,38902956,random,tp53,C,ML,,symbol 'TP53' present,596,circulating tumor dna molecular analyses and real-world evidence outcomes of fgfr2 amplified gastroesophageal cancers,ML
+Esophageal Cancer,TP53,31444625,random,tp53,C,M,,symbol 'TP53' present,610,molecular and clinicopathological analyses of esophageal carcinosarcoma with special reference to morphological change,M
+Esophageal Cancer,TP53,33079233,random,tp53,C,M,,symbol 'TP53' present,665,verrucous esophageal carcinoma is a unique indolent subtype of squamous cell carcinoma a systematic review and individual patient regression,M
+Esophageal Cancer,TP53,27600491,random,tp53,C,M,,symbol 'TP53' present,689,authentication and characterisation of a new oesophageal adenocarcinoma cell line mfd-1,M
+Esophageal Cancer,TP53,25778705,random,tp53,C,I,,symbol 'TP53' present,718,tumor profiling of gastric and esophageal carcinoma reveal different treatment options,I
+Esophageal Cancer,TP53,24551280,targeted,tumor protein p53,C,P,,credited via alias tumor protein p53,727,microrna-155 acts as an oncogene by targeting the tumor protein 53-induced nuclear protein 1 in esophageal squamous cell carcinoma,P
+Esophageal Cancer,TP53,38097539,random,tp53,C,M,,symbol 'TP53' present,732,aberrant epithelial cell interaction promotes esophageal squamous-cell carcinoma development and progression,M
+Esophageal Cancer,TP53,42753221,random,tp53,C,I,,symbol 'TP53' present,740,clinicopathologic features treatment patterns and outcomes of microsatellite instability-high gastric and gastroesophageal junction adenocar,I
+Esophageal Cancer,TP53,26900290,random,tp53,C,I,,symbol 'TP53' present,762,genomic characterization of esophageal squamous cell carcinoma insights from next-generation sequencing,I
+Esophageal Cancer,TP53,36456612,random,tp53,C,I,,symbol 'TP53' present,812,integrin beta1 itgb1 as a prognostic marker in esophageal adenocarcinoma,I
+Esophageal Cancer,TP53,39422860,random,tp53,C,M,,symbol 'TP53' present,830,a case of esophageal squamous cell carcinoma with epidermization showing a unique morphology,M
+Esophageal Cancer,TP53,17326708,random,tp53,C,M,,symbol 'TP53' present,899,nsaids modulate cdkn2a tp53 and dna content risk for progression to esophageal adenocarcinoma,M
+Esophageal Cancer,TP53,31715145,random,tp53,C,M,,symbol 'TP53' present,927,isoforms of rnf128 regulate the stability of mutant p53 in barrett's esophageal cells,M
+Esophageal Cancer,TP53,35351978,random,tp53,C,M,,symbol 'TP53' present,969,esophageal squamous cell carcinoma with basaloid features are genetically and prognostically similar to conventional squamous cell carcinoma,M
+Esophageal Cancer,TP53,29370903,random,tp53,C,M,,symbol 'TP53' present,970,lkb1 inactivation occurs in a subset of esophageal adenocarcinomas and is sufficient to drive tumor cell proliferation,M
+Esophageal Cancer,PIK3CA,30115035,random,pik3ca,C,M,,symbol 'PIK3CA' present,23,pik3ca mutation is a favorable prognostic factor in esophageal cancer molecular profile by next-generation sequencing using surgically resec,M
+Esophageal Cancer,PIK3CA,27107065,random,pik3ca,C,ML,,symbol 'PIK3CA' present,51,tp53 pik3ca fbxw7 and kras mutations in esophageal cancer identified by targeted sequencing,ML
+Esophageal Cancer,PIK3CA,24422746,random,pik3ca,C,P,,symbol 'PIK3CA' present,53,high-incidence of pten mutations in chinese patients with primary small cell carcinoma of the esophagus,P
+Esophageal Cancer,PIK3CA,22870241,random,pik3ca,C,M,,symbol 'PIK3CA' present,56,high-throughput genotyping in metastatic esophageal squamous cell carcinoma identifies phosphoinositide-3-kinase and braf mutations,M
+Esophageal Cancer,PIK3CA,35575002,random,pik3ca,C,M,,symbol 'PIK3CA' present,65,a practical framework rnmf for exploring the association between mutational signatures and genes using gene cumulative contribution abundanc,M
+Esophageal Cancer,PIK3CA,33054840,random,pik3ca,C,M,,symbol 'PIK3CA' present,78,significance of druggable targets pd-l1 kras braf pik3ca msi and hpv on curatively resected esophageal squamous cell carcinoma,M
+Esophageal Cancer,PIK3CA,25691283,random,pik3ca,C,M,,symbol 'PIK3CA' present,108,molecular characteristics of basaloid squamous cell carcinoma of the esophagus analysis of kras braf and pik3ca mutations and line-1 methyla,M
+Esophageal Cancer,PIK3CA,16380997,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,118,mutation analysis of pik3ca and pik3cb in esophageal cancer and barrett's esophagus,M
+Esophageal Cancer,PIK3CA,39490157,random,pik3ca,C,M,,symbol 'PIK3CA' present,128,immune cell infiltration and drug sensitivity in pik3ca-mutated esophageal squamous cell carcinoma a tcga database analysis,M
+Esophageal Cancer,PIK3CA,23158210,random,pik3ca,C,M,target,symbol 'PIK3CA' present,159,epidermal growth factor receptor phosphatidylinositol-3-kinase catalytic subunit pten and kras nras braf in primary resected esophageal aden,M
+Esophageal Cancer,PIK3CA,26528858,random,pik3ca,C,M,,symbol 'PIK3CA' present,169,mutually exclusive mutations in notch1 and pik3ca associated with clinical prognosis and chemotherapy responses of esophageal squamous cell ,M
+Esophageal Cancer,PIK3CA,23525077,random,pik3ca,C,I,,symbol 'PIK3CA' present,177,exome and whole-genome sequencing of esophageal adenocarcinoma identifies recurrent driver events and mutational complexity,I
+Esophageal Cancer,PIK3CA,28537764,random,pik3ca,C,ML,,symbol 'PIK3CA' present,181,gefitinib and egfr gene copy number aberrations in esophageal cancer,ML
+Esophageal Cancer,PIK3CA,38733174,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,185,molecular and immunological characteristics of postoperative relapse in lymph node-positive esophageal squamous cell cancer,W
+Esophageal Cancer,PIK3CA,34285259,random,pik3ca,C,I,,symbol 'PIK3CA' present,188,exome sequencing identifies novel somatic variants in african american esophageal squamous cell carcinoma,I
+Esophageal Cancer,PIK3CA,28384037,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,191,pi3k overexpression and pik3ca mutations are associated with age tumor staging and other clinical characteristics in chinese patients with e,M
+Esophageal Cancer,PIK3CA,28585132,random,phosphatidylinositol 4 5 bisphosphate 3 kinase catalytic subunit alpha|pik3ca,C,M,,symbol 'PIK3CA' present,193,no significant association between pik3ca mutation and survival of esophageal squamous cell carcinoma a meta-analysis,M
+Esophageal Cancer,PIK3CA,24999713,random,pik3ca,C,M,,symbol 'PIK3CA' present,203,establishment and characterization of esophageal squamous cell carcinoma patient-derived xenograft mouse models for preclinical drug discove,M
+Esophageal Cancer,PIK3CA,28972077,random,pik3ca,C,M,,symbol 'PIK3CA' present,219,multiregional sequencing reveals genomic alterations and clonal dynamics in primary malignant melanoma of the esophagus,M
+Esophageal Cancer,PIK3CA,36167753,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,253,clinical outcome-related cancer pathways and mutational signatures in patients with unresectable esophageal squamous cell carcinoma treated ,W
+Esophageal Cancer,PIK3CA,31949146,random,pik3ca,C,I,,symbol 'PIK3CA' present,264,extreme intratumour heterogeneity and driver evolution in mismatch repair deficient gastro-oesophageal cancer,I
+Esophageal Cancer,PIK3CA,22935382,random,pik3ca,C,M,target,symbol 'PIK3CA' present,293,trastuzumab anti-tumor efficacy in patient-derived esophageal squamous cell carcinoma xenograft pdecx mouse models,M
+Esophageal Cancer,PIK3CA,27095573,random,pik3ca,C,M,,symbol 'PIK3CA' present,303,pik3ca amplification is associated with poor prognosis among patients with curatively resected esophageal squamous cell carcinoma,M
+Esophageal Cancer,PIK3CA,29506494,random,pik3ca,C,M,,symbol 'PIK3CA' present,311,targeted next generation sequencing identified clinically actionable mutations in patients with esophageal sarcomatoid carcinoma,M
+Esophageal Cancer,PIK3CA,24241346,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,315,pik3ca hypomethylation plays a key role in activation of the pi3k akt pathway in esophageal cancer in chinese patients,M
+Esophageal Cancer,PIK3CA,38832974,random+targeted,pi3k,X,G,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,326,prognostic value of genomic mutation signature associated with immune microenvironment in southern chinese patients with esophageal squamous,G
+Esophageal Cancer,PIK3CA,23481512,random,pik3ca,C,ML,,symbol 'PIK3CA' present,338,biomarker analysis in oesophagogastric cancer results from the real3 and transmagic trials,ML
+Esophageal Cancer,PIK3CA,26873401,random,pik3ca,C,ML,,symbol 'PIK3CA' present,362,genomic landscape of esophageal squamous cell carcinoma in a japanese population,ML
+Esophageal Cancer,PIK3CA,19212681,random,pik3ca,C,M,,symbol 'PIK3CA' present,372,overexpression of pik3ca is associated with lymph node metastasis in esophageal squamous cell carcinoma,M
+Esophageal Cancer,PIK3CA,31429737,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,373,targeted sequencing of circulating cell-free dna in stage ii-iii resectable oesophageal squamous cell carcinoma patients,W
+Esophageal Cancer,PIK3CA,28548104,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,501,genomic analysis of oesophageal squamous-cell carcinoma identifies alcohol drinking-related mutation signature and genomic alterations,W
+Esophageal Cancer,PIK3CA,33446653,targeted,pi3k,X,G,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,539,adaptive resistance to pi3k-selective inhibitor cyh33 is mediated by genomic and transcriptomic alterations in escc cells,G
+Esophageal Cancer,PIK3CA,31898183,random,pik3ca,C,ML,target,symbol 'PIK3CA' present,555,a phase 2 clinical trial of the heat shock protein 90 hsp 90 inhibitor ganetespib in patients with refractory advanced esophagogastric cance,ML
+Esophageal Cancer,PIK3CA,26759717,random,pik3ca,C,W,,symbol 'PIK3CA' present,567,genomic analyses reveal fam84b and the notch pathway are associated with the progression of esophageal squamous cell carcinoma,W
+Esophageal Cancer,PIK3CA,30009659,random,pik3ca,C,M,,symbol 'PIK3CA' present,574,primary esophageal mixed sarcomatoid and small cell neuroendocrine carcinoma with brain metastasis a challenging diagnosis on biopsy,M
+Esophageal Cancer,PIK3CA,34725559,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,587,comprehensive analysis of the expression of tgf- signaling regulators and prognosis in human esophageal cancer,W
+Esophageal Cancer,PIK3CA,33414137,targeted,pi3k,X,G,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,591,combining neratinib with cdk4 6 mtor and mek inhibitors in models of her2-positive cancer,G
+Esophageal Cancer,PIK3CA,37059106,random,pik3ca,C,M,,symbol 'PIK3CA' present,604,an immunogenic and oncogenic feature-based classification for chemotherapy plus pd-1 blockade in advanced esophageal squamous cell carcinoma,M
+Esophageal Cancer,PIK3CA,35138918,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,615,defining and targeting esophagogastric cancer genomic subsets with patient-derived xenografts,W
+Esophageal Cancer,PIK3CA,25873175,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,622,axl mediates resistance to pi3k inhibition by activating the egfr pkc mtor axis in head and neck and esophageal squamous cell carcinomas,M
+Esophageal Cancer,PIK3CA,29127303,random,pik3ca,C,I,,symbol 'PIK3CA' present,628,comprehensive genomic analysis of oesophageal squamous cell carcinoma reveals clinical relevance,I
+Esophageal Cancer,PIK3CA,25778705,random,pik3ca,C,P,,symbol 'PIK3CA' present,718,tumor profiling of gastric and esophageal carcinoma reveal different treatment options,P
+Esophageal Cancer,PIK3CA,31981592,random+targeted,pi3k,X,P,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,774,set domain-containing 5 is a potential prognostic biomarker that promotes esophageal squamous cell carcinoma stemness,P
+Esophageal Cancer,PIK3CA,25912437,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,806,immunohistochemical and molecular analysis of pi3k akt mtor pathway in esophageal carcinoma,M
+Esophageal Cancer,EGFR,23274581,random,egfr|epidermal_growth_factor_receptor,C,W,target,symbol 'EGFR' present,18,kras and braf mutations in 203 esophageal squamous cell carcinomas pyrosequencing technology and literature review,W
+Esophageal Cancer,EGFR,16357520,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,49,gefitinib-sensitizing mutation in esophageal carcinoma cell line kyse450,M
+Esophageal Cancer,EGFR,24422746,random,egfr,C,M,,symbol 'EGFR' present,53,high-incidence of pten mutations in chinese patients with primary small cell carcinoma of the esophagus,M
+Esophageal Cancer,EGFR,22870241,random,egfr,C,I,,symbol 'EGFR' present,56,high-throughput genotyping in metastatic esophageal squamous cell carcinoma identifies phosphoinositide-3-kinase and braf mutations,I
+Esophageal Cancer,EGFR,19772171,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,102,correlation of epidermal growth factor receptor mutation immunohistochemistry and fluorescence in situ hybridization in esophageal squamous ,M
+Esophageal Cancer,EGFR,26844548,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,129,expression and prognostic significance of human epidermal growth factor receptors 1 and 3 in gastric and esophageal adenocarcinoma,M
+Esophageal Cancer,EGFR,14695149,random+targeted,epidermal_growth_factor_receptor,C,M,,credited via alias epidermal_growth_factor_receptor,131,epidermal growth factor receptor p53 mutation and pathological response predict survival in patients with locally advanced esophageal cancer,M
+Esophageal Cancer,EGFR,22252115,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,152,lack of egfr mutations benefiting gefitinib treatment in adenocarcinoma of esophagogastric junction,M
+Esophageal Cancer,EGFR,23158210,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,159,epidermal growth factor receptor phosphatidylinositol-3-kinase catalytic subunit pten and kras nras braf in primary resected esophageal aden,M
+Esophageal Cancer,EGFR,41911515,random,egfr,C,G,,symbol 'EGFR' present,199,prognostic biomarkers and immunotherapeutic insights of circulating tumor dna analysis in advanced esophageal squamous cell carcinoma from s,G
+Esophageal Cancer,EGFR,23207070,random,egfr,C,M,,symbol 'EGFR' present,216,alterations in epidermal growth factor receptors 1 and 2 in esophageal squamous cell carcinomas,M
+Esophageal Cancer,EGFR,23426935,random,egfr,C,M,,symbol 'EGFR' present,224,gene amplification of egfr her2 fgfr2 and met in esophageal squamous cell carcinoma,M
+Esophageal Cancer,EGFR,39560927,random,egfr,C,I,,symbol 'EGFR' present,235,prognostic significance of actionable next-generation sequencing multigene panel in esophageal cancer treatment,I
+Esophageal Cancer,EGFR,28554745,targeted,egfr,C,M,,symbol 'EGFR' present,247,genomic profiling of esophageal squamous cell carcinoma escc -basis for precision medicine,M
+Esophageal Cancer,EGFR,26392415,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,250,concurrent radiotherapy with gefitinib in elderly patients with esophageal squamous cell carcinoma preliminary results of a phase ii study,M
+Esophageal Cancer,EGFR,22935382,random,egfr,C,M,,symbol 'EGFR' present,293,trastuzumab anti-tumor efficacy in patient-derived esophageal squamous cell carcinoma xenograft pdecx mouse models,M
+Esophageal Cancer,EGFR,27517839,random+targeted,epidermal_growth_factor_receptor,X,I,target,credited via 'epidermal growth factor receptor' inside HER2's name,304,pten loss is associated with a poor response to trastuzumab in her2-overexpressing gastroesophageal adenocarcinoma,I
+Esophageal Cancer,EGFR,37282854,random,egfr,C,I,,symbol 'EGFR' present,349,analysis of the function of adam17 in irhom2 curly-bare and tylosis with esophageal cancer mutant mice,I
+Esophageal Cancer,EGFR,20840671,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,408,homogeneous egfr amplification defines a subset of aggressive barrett's adenocarcinomas with poor prognosis,M
+Esophageal Cancer,EGFR,28920960,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,446,long noncoding rna egfr-as1 mediates epidermal growth factor receptor addiction and modulates treatment response in squamous cell carcinoma,M
+Esophageal Cancer,EGFR,24643277,random,egfr,C,I,,symbol 'EGFR' present,473,irhom2-dependent regulation of adam17 in cutaneous disease and epidermal barrier function,I
+Esophageal Cancer,EGFR,34611831,random,egfr,C,I,,symbol 'EGFR' present,535,systematic review and meta-analysis of the most common genetic mutations in esophageal squamous cell carcinoma,I
+Esophageal Cancer,EGFR,22265016,random,egfr|epidermal_growth_factor_receptor,C,P,,symbol 'EGFR' present,557,rhbdf2 mutations are associated with tylosis a familial esophageal cancer syndrome,P
+Esophageal Cancer,EGFR,24025254,targeted,erbb1,C,M,,credited via alias erbb1,589,non-canonical p53 signaling to promote invasion,M
+Esophageal Cancer,EGFR,33414137,random,egfr,C,W,,symbol 'EGFR' present,591,combining neratinib with cdk4 6 mtor and mek inhibitors in models of her2-positive cancer,W
+Esophageal Cancer,EGFR,40637454,random,egfr,C,M,target,symbol 'EGFR' present,600,areg and ereg are predictive biomarkers of response to egfr inhibition in gastroesophageal cancer,M
+Esophageal Cancer,EGFR,35138918,random+targeted,egfr|epidermal_growth_factor_receptor,C,P,,symbol 'EGFR' present,615,defining and targeting esophagogastric cancer genomic subsets with patient-derived xenografts,P
+Esophageal Cancer,EGFR,25873175,random,egfr|epidermal_growth_factor_receptor,C,G,,symbol 'EGFR' present,622,axl mediates resistance to pi3k inhibition by activating the egfr pkc mtor axis in head and neck and esophageal squamous cell carcinomas,G
+Esophageal Cancer,EGFR,26432108,random,egfr,C,G,,symbol 'EGFR' present,627,molecular heterogeneity and receptor coamplification drive resistance to targeted therapy in met-amplified esophagogastric cancer,G
+Esophageal Cancer,EGFR,17050876,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,677,phase ii trial of erlotinib in gastroesophageal junction and gastric adenocarcinomas swog 0127,M
+Esophageal Cancer,EGFR,23482783,random+targeted,egfr|epidermal_growth_factor_receptor,C,P,target,symbol 'EGFR' present,684,brain metastases of gastro-oesophageal cancer evaluation of molecules with relevance for targeted therapies,P
+Esophageal Cancer,EGFR,32820577,random,egfr,C,G,,symbol 'EGFR' present,715,revisiting met clinical characteristics and treatment outcomes of patients with locally advanced or metastatic met-amplified esophagogastric,G
+Esophageal Cancer,EGFR,26045734,random,egfr,C,M,,symbol 'EGFR' present,731,molecular pathology and potential therapeutic targets in esophageal basaloid squamous cell carcinoma,M
+Esophageal Cancer,EGFR,11782388,random+targeted,epidermal_growth_factor_receptor,C,I,,credited via alias epidermal_growth_factor_receptor,780,wnt-1 but not epidermal growth factor induces beta-catenin t-cell factor-dependent transcription in esophageal cancer cells,I
+Esophageal Cancer,EGFR,10767643,random,egfr,C,I,,symbol 'EGFR' present,853,genetic steps in the development of squamous cell carcinoma of the esophagus,I
+Esophageal Cancer,EGFR,25795715,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,860,wnt10a promotes an invasive and self-renewing phenotype in esophageal squamous cell carcinoma,M
+Esophageal Cancer,EGFR,20424117,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,906,epidermal growth factor receptor and mutant p53 expand an esophageal cellular subpopulation capable of epithelial-to-mesenchymal transition ,M
+Esophageal Cancer,EGFR,17888033,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,907,pharmacological characterization of mp-412 av-412 a dual epidermal growth factor receptor and erbb2 tyrosine kinase inhibitor,M
+Esophageal Cancer,EGFR,39875210,targeted,epidermal_growth_factor_receptor,X,I,,credited via 'epidermal growth factor receptor' inside HER2's name,947,discussion on the mechanism of her2 resistance in esophagogastric junction and gastric cancer in the era of immunotherapy,I
+Esophageal Cancer,EGFR,36569905,random+targeted,epidermal_growth_factor_receptor,X,I,,credited via 'epidermal growth factor receptor' inside HER2's name,950,patients with positive her-2 amplification advanced gastroesophageal junction cancer achieved complete response with combined chemotherapy o,I
+Esophageal Cancer,EGFR,39182610,random,egfr,C,I,,symbol 'EGFR' present,967,early diagnostic markers for esophageal squamous cell carcinoma copy number alteration gene identification and cfdna detection,I
+Esophageal Cancer,EGFR,19956829,random,egfr|epidermal_growth_factor_receptor,C,G,target,symbol 'EGFR' present,977,a novel pharmacodynamic approach to assess and predict tumor response to the epidermal growth factor receptor inhibitor gefitinib in patient,G
+Esophageal Cancer,EGFR,25064463,random,egfr,C,I,,symbol 'EGFR' present,982,tgf loss activates adamts-1-mediated egf-dependent invasion in a model of esophageal cell invasion,I
+Esophageal Cancer,KRAS,21615826,all,kras,C,M,,symbol 'KRAS' present,16,identification of egfr and kras mutations in chinese patients with esophageal squamous cell carcinoma,M
+Esophageal Cancer,KRAS,23274581,all,kras,C,M,,symbol 'KRAS' present,18,kras and braf mutations in 203 esophageal squamous cell carcinomas pyrosequencing technology and literature review,M
+Esophageal Cancer,KRAS,24360885,all,kras,C,ML,,symbol 'KRAS' present,43,frequency characterization and prognostic analysis of pik3ca gene mutations in chinese esophageal squamous cell carcinoma,ML
+Esophageal Cancer,KRAS,27107065,all,kras,C,ML,,symbol 'KRAS' present,51,tp53 pik3ca fbxw7 and kras mutations in esophageal cancer identified by targeted sequencing,ML
+Esophageal Cancer,KRAS,24422746,all,kras,C,P,,symbol 'KRAS' present,53,high-incidence of pten mutations in chinese patients with primary small cell carcinoma of the esophagus,P
+Esophageal Cancer,KRAS,39115206,all,kras,C,G,,symbol 'KRAS' present,73,the landscape and prognosis of microsatellite stable mss esophageal gastro-esophageal junction and gastric adenocarcinomas with high tumor m,G
+Esophageal Cancer,KRAS,33054840,all,kras,C,M,,symbol 'KRAS' present,78,significance of druggable targets pd-l1 kras braf pik3ca msi and hpv on curatively resected esophageal squamous cell carcinoma,M
+Esophageal Cancer,KRAS,25691283,all,kras,C,M,,symbol 'KRAS' present,108,molecular characteristics of basaloid squamous cell carcinoma of the esophagus analysis of kras braf and pik3ca mutations and line-1 methyla,M
+Esophageal Cancer,KRAS,22152101,all,kras,C,M,,symbol 'KRAS' present,117,biomarker analysis of cetuximab plus oxaliplatin leucovorin 5-fluorouracil in first-line metastatic gastric and oesophago-gastric junction c,M
+Esophageal Cancer,KRAS,26844548,all,kras,C,M,,symbol 'KRAS' present,129,expression and prognostic significance of human epidermal growth factor receptors 1 and 3 in gastric and esophageal adenocarcinoma,M
+Esophageal Cancer,KRAS,23158210,all,kras,C,M,,symbol 'KRAS' present,159,epidermal growth factor receptor phosphatidylinositol-3-kinase catalytic subunit pten and kras nras braf in primary resected esophageal aden,M
+Esophageal Cancer,KRAS,21131919,all,kras,C,I,,symbol 'KRAS' present,171,genetic aberrations in primary esophageal melanomas molecular analysis of c-kit pdgfr kras nras and braf in a series of 10 cases,I
+Esophageal Cancer,KRAS,28537764,all,kras,C,ML,,symbol 'KRAS' present,181,gefitinib and egfr gene copy number aberrations in esophageal cancer,ML
+Esophageal Cancer,KRAS,34285259,all,kras,C,G,,symbol 'KRAS' present,188,exome sequencing identifies novel somatic variants in african american esophageal squamous cell carcinoma,G
+Esophageal Cancer,KRAS,23207070,all,kras,C,M,,symbol 'KRAS' present,216,alterations in epidermal growth factor receptors 1 and 2 in esophageal squamous cell carcinomas,M
+Esophageal Cancer,KRAS,28972077,all,kras,C,M,,symbol 'KRAS' present,219,multiregional sequencing reveals genomic alterations and clonal dynamics in primary malignant melanoma of the esophagus,M
+Esophageal Cancer,KRAS,17693665,all,kras,C,M,,symbol 'KRAS' present,232,genetic pathways and mutation profiles of human cancers site- and exposure-specific patterns,M
+Esophageal Cancer,KRAS,39560927,all,kras,C,I,,symbol 'KRAS' present,235,prognostic significance of actionable next-generation sequencing multigene panel in esophageal cancer treatment,I
+Esophageal Cancer,KRAS,28554745,all,kras,C,I,,symbol 'KRAS' present,247,genomic profiling of esophageal squamous cell carcinoma escc -basis for precision medicine,I
+Esophageal Cancer,KRAS,28859360,all,kras,C,I,,symbol 'KRAS' present,248,targeted next-generation sequencing of commonly mutated genes in esophageal adenocarcinoma patients with long-term survival,I
+Esophageal Cancer,KRAS,42186016,all,kras,C,ML,,symbol 'KRAS' present,288,whole genome sequencing in oesophageal adenocarcinoma unmasks potential precision therapies,ML
+Esophageal Cancer,KRAS,32654197,all,kras,C,I,,symbol 'KRAS' present,332,comprehensive clinicopathological and molecular analysis of primary malignant melanoma of the oesophagus,I
+Esophageal Cancer,KRAS,23481512,all,kras,C,ML,,symbol 'KRAS' present,338,biomarker analysis in oesophagogastric cancer results from the real3 and transmagic trials,ML
+Esophageal Cancer,KRAS,35780460,all,kras,C,W,,symbol 'KRAS' present,357,characterization of the immune infiltration landscape and identification of prognostic biomarkers for esophageal cancer,W
+Esophageal Cancer,KRAS,23412099,all,kras,C,M,target,symbol 'KRAS' present,380,docetaxel plus cetuximab as second-line treatment for docetaxel-refractory oesophagogastric cancer the agitg attax2 trial,M
+Esophageal Cancer,KRAS,19549707,all,kras,C,M,target,symbol 'KRAS' present,397,cetuximab plus cisplatin-5-fluorouracil versus cisplatin-5-fluorouracil alone in first-line metastatic squamous cell carcinoma of the esopha,M
+Esophageal Cancer,KRAS,20840671,all,kras,C,ML,,symbol 'KRAS' present,408,homogeneous egfr amplification defines a subset of aggressive barrett's adenocarcinomas with poor prognosis,ML
+Esophageal Cancer,KRAS,22243784,all,kras,C,M,,symbol 'KRAS' present,418,clear cell variant of squamous cell carcinoma originating in the esophagus report of a case with immunohistochemical and oncogenetic analyse,M
+Esophageal Cancer,KRAS,33295742,all,kras,C,I,,symbol 'KRAS' present,430,genetic mutations in primary malignant melanoma of the esophagus case report and literature review,I
+Esophageal Cancer,KRAS,31041783,all,kras,C,M,,symbol 'KRAS' present,459,mutations in foregut sox2 cells induce efficient proliferation via cxcr2 pathway,M
+Esophageal Cancer,KRAS,25351503,all,kras,C,G,,symbol 'KRAS' present,492,genomic catastrophes frequently arise in esophageal adenocarcinoma and drive tumorigenesis,G
+Esophageal Cancer,KRAS,21811258,all,kras,C,M,,symbol 'KRAS' present,504,phase ii trial of modified folfox6 and erlotinib in patients with metastatic or advanced adenocarcinoma of the oesophagus and gastro-oesopha,M
+Esophageal Cancer,KRAS,23747051,all,kras,C,M,,symbol 'KRAS' present,580,results of docetaxel plus oxaliplatin docox cetuximab in patients with metastatic gastric and or gastroesophageal junction adenocarcinoma re,M
+Esophageal Cancer,KRAS,39883307,all,kras,C,M,,symbol 'KRAS' present,585,multi-omics sequencing of gastroesophageal junction adenocarcinoma reveals prognosis-relevant key factors and a novel immunogenomic classifi,M
+Esophageal Cancer,KRAS,22448886,all,kras,C,M,,symbol 'KRAS' present,594,prognostic significance of anti-p53 and anti-kras circulating antibodies in esophageal cancer patients treated with chemoradiotherapy,M
+Esophageal Cancer,KRAS,40637454,all,kras,C,M,,symbol 'KRAS' present,600,areg and ereg are predictive biomarkers of response to egfr inhibition in gastroesophageal cancer,M
+Esophageal Cancer,KRAS,31906887,all,kras,C,I,,symbol 'KRAS' present,616,loss of the swi snf-atpase subunit members smarcf1 arid1a smarca2 brm smarca4 brg1 and smarcb1 ini1 in oesophageal adenocarcinoma,I
+Esophageal Cancer,KRAS,26432108,all,kras,C,M,,symbol 'KRAS' present,627,molecular heterogeneity and receptor coamplification drive resistance to targeted therapy in met-amplified esophagogastric cancer,M
+Esophageal Cancer,KRAS,22555809,all,kras,C,M,,symbol 'KRAS' present,638,treatment of malignant non-resectable epithelial origin esophageal tumours with the humanized anti-epidermal growth factor antibody nimotuzu,M
+Esophageal Cancer,KRAS,29808010,all,kras,C,M,target,symbol 'KRAS' present,647,targeting wild-type kras-amplified gastroesophageal cancer through combined mek and shp2 inhibition,M
+Esophageal Cancer,KRAS,33300112,all,kras,C,I,,symbol 'KRAS' present,652,gata binding protein 6 gata6 is co-amplified with pik3ca in patients with esophageal adenocarcinoma and is linked to neoadjuvant therapy,I
+Esophageal Cancer,KRAS,41950398,all,kras,C,I,,symbol 'KRAS' present,704,molecular characteristics and clinical outcomes of patients with gastroesophageal cancer diagnosed at ages younger than 50 years,I
+Esophageal Cancer,KRAS,24128808,all,kras,C,M,target,symbol 'KRAS' present,714,cetuximab in combination with chemoradiotherapy in chinese patients with non-resectable locally advanced esophageal squamous cell carcinoma ,M
+Esophageal Cancer,KRAS,25778705,all,kras,C,P,,symbol 'KRAS' present,718,tumor profiling of gastric and esophageal carcinoma reveal different treatment options,P
+Esophageal Cancer,KRAS,33110104,all,kras,C,P,,symbol 'KRAS' present,724,integrin alpha v itgav expression in esophageal adenocarcinoma is associated with shortened overall-survival,P
+Esophageal Cancer,KRAS,29866946,all,kras,C,I,,symbol 'KRAS' present,737,comparative molecular analyses of esophageal squamous cell carcinoma esophageal adenocarcinoma and gastric adenocarcinoma,I
+Esophageal Cancer,KRAS,42753221,all,kras,C,I,,symbol 'KRAS' present,740,clinicopathologic features treatment patterns and outcomes of microsatellite instability-high gastric and gastroesophageal junction adenocar,I
+Esophageal Cancer,KRAS,33506581,all,kras,C,G,,symbol 'KRAS' present,768,molecular profiles of response to neoadjuvant chemoradiotherapy in oesophageal cancers to develop personalized treatment strategies,G
+Esophageal Cancer,KRAS,36456612,all,kras,C,M,,symbol 'KRAS' present,812,integrin beta1 itgb1 as a prognostic marker in esophageal adenocarcinoma,M
+Esophageal Cancer,KRAS,26336083,all,kras,C,I,,symbol 'KRAS' present,835,comprehensive genomic profiling of advanced esophageal squamous cell carcinomas and esophageal adenocarcinomas reveals similarities and diff,I
+Esophageal Cancer,KRAS,24454681,all,kras,C,I,,symbol 'KRAS' present,933,the degree of segmental aneuploidy measured by total copy number abnormalities predicts survival and recurrence in superficial gastroesophag,I
+Esophageal Cancer,KRAS,36593066,all,kras,C,M,,symbol 'KRAS' present,973,molecular underpinnings of exceptional response in primary malignant melanoma of the esophagus to anti-pd-1 monotherapy,M
+Esophageal Cancer,CDKN2A,11531258,all,cdkn2a|ink4a|p16 ink4a,C,P,,symbol 'CDKN2A' present,30,tp53 mutations amplification of p63 and expression of cell cycle proteins in squamous cell carcinoma of the oesophagus from a low incidence ,P
+Esophageal Cancer,CDKN2A,34663841,all,cdkn2a,C,I,,symbol 'CDKN2A' present,61,profile of esophageal squamous cell carcinoma mutations in brazilian patients,I
+Esophageal Cancer,CDKN2A,41160298,all,cdkn2a,C,I,,symbol 'CDKN2A' present,75,site-specific prevalence of the nfe2l2 mutation in esophageal squamous cell carcinoma,I
+Esophageal Cancer,CDKN2A,33725708,all,cdkn2a,C,I,,symbol 'CDKN2A' present,95,gene mutations of esophageal squamous cell carcinoma based on next-generation sequencing,I
+Esophageal Cancer,CDKN2A,19414370,all,cdkn2a,C,M,,symbol 'CDKN2A' present,114,gene mutations in esophageal mucosa of chagas disease patients,M
+Esophageal Cancer,CDKN2A,26386145,all,cdkn2a,C,M,,symbol 'CDKN2A' present,121,an old story retold loss of g1 control defines a distinct genomic subtype of esophageal squamous cell carcinoma,M
+Esophageal Cancer,CDKN2A,33094962,all,cyclin dependent kinase inhibitor 2a,C,M,,credited via alias cyclin dependent kinase inhibitor 2a,122,targeted sequencing of sorted esophageal adenocarcinoma cells unveils known and novel mutations in the separated subpopulations,M
+Esophageal Cancer,CDKN2A,26756304,all,cdkn2a,C,G,,symbol 'CDKN2A' present,126,integrated analysis of dna methylation and mutations in esophageal squamous cell carcinoma,G
+Esophageal Cancer,CDKN2A,35612571,all,cdkn2a,C,M,,symbol 'CDKN2A' present,150,absence of notch1 mutation and presence of cdkn2a deletion predict progression of esophageal lesions,M
+Esophageal Cancer,CDKN2A,23525077,all,cdkn2a,C,I,,symbol 'CDKN2A' present,177,exome and whole-genome sequencing of esophageal adenocarcinoma identifies recurrent driver events and mutational complexity,I
+Esophageal Cancer,CDKN2A,24077944,all,cdkn2a,C,G,,symbol 'CDKN2A' present,186,characterization of a novel tumorigenic esophageal adenocarcinoma cell line oanc1,G
+Esophageal Cancer,CDKN2A,31700061,all,cdkn2a,C,I,,symbol 'CDKN2A' present,204,identification of predictors of drug sensitivity using patient-derived models of esophageal squamous cell carcinoma,I
+Esophageal Cancer,CDKN2A,28972077,all,cdkn2a,C,M,,symbol 'CDKN2A' present,219,multiregional sequencing reveals genomic alterations and clonal dynamics in primary malignant melanoma of the esophagus,M
+Esophageal Cancer,CDKN2A,28859360,all,cdkn2a,C,ML,,symbol 'CDKN2A' present,248,targeted next-generation sequencing of commonly mutated genes in esophageal adenocarcinoma patients with long-term survival,ML
+Esophageal Cancer,CDKN2A,11782570,all,mts1,C,M,,credited via alias mts1,258,infrequent p16 cdkn2 alterations in squamous cell carcinoma of the oesophagus,M
+Esophageal Cancer,CDKN2A,14732922,all,cdkn2a,C,M,,symbol 'CDKN2A' present,285,high frequency of cdkn2a alterations in esophageal squamous cell carcinoma from a high-risk chinese population,M
+Esophageal Cancer,CDKN2A,42186016,all,cdkn2a,C,I,,symbol 'CDKN2A' present,288,whole genome sequencing in oesophageal adenocarcinoma unmasks potential precision therapies,I
+Esophageal Cancer,CDKN2A,11960918,all,cdkn2a|ink4a|p16 ink4a,C,M,,symbol 'CDKN2A' present,298,genetic status of cell cycle regulators in squamous cell carcinoma of the oesophagus the cdkn2a p16 ink4a and p14 arf and p53 genes are majo,M
+Esophageal Cancer,CDKN2A,33826001,all,cdkn2a,C,ML,,symbol 'CDKN2A' present,302,whole exome sequencing and deep sequencing of esophageal squamous cell carcinoma and adenocarcinoma in japanese patients using the japanese ,ML
+Esophageal Cancer,CDKN2A,22724384,all,ink4a|p16 ink4a,C,M,,credited via alias ink4a|p16 ink4a,307,a novel p16 ink4a mutation associated with esophageal squamous cell carcinoma in a high risk population,M
+Esophageal Cancer,CDKN2A,40628272,all,cdkn2a,C,M,,symbol 'CDKN2A' present,361,extremely early genomic events and temporal order of esophageal squamous cell carcinogenesis longitudinal self-comparison of progressors and,M
+Esophageal Cancer,CDKN2A,26873401,all,cdkn2a,C,G,,symbol 'CDKN2A' present,362,genomic landscape of esophageal squamous cell carcinoma in a japanese population,G
+Esophageal Cancer,CDKN2A,16785283,all,ink4a|p16 ink4a,C,P,,credited via alias ink4a|p16 ink4a,363,oesophageal squamous cell carcinoma may develop within a background of accumulating dna methylation in normal and dysplastic mucosa,P
+Esophageal Cancer,CDKN2A,32561500,all,cdkn2a,C,I,,symbol 'CDKN2A' present,369,identification of radioresponsive genes in esophageal cancer from longitudinal and single cell exome sequencing,I
+Esophageal Cancer,CDKN2A,26462025,all,cdkn2a,C,ML,,symbol 'CDKN2A' present,370,phase ii clinical and exploratory biomarker study of dacomitinib in recurrent and or metastatic esophageal squamous cell carcinoma,ML
+Esophageal Cancer,CDKN2A,31923587,all,cdkn2a,C,M,,symbol 'CDKN2A' present,390,development of esophageal squamous cell cancer in patients with fammm syndrome two clinical reports,M
+Esophageal Cancer,CDKN2A,30355311,all,cdkn2a,C,M,,symbol 'CDKN2A' present,402,distinct esophageal adenocarcinoma molecular subtype has subtype-specific gene expression and mutation patterns,M
+Esophageal Cancer,CDKN2A,23695891,all,cdkn2a,C,M,,symbol 'CDKN2A' present,409,crypt dysplasia in barrett's oesophagus shows clonal identity between crypt and surface cells,M
+Esophageal Cancer,CDKN2A,22243784,all,ink4a|p16 ink4a,C,M,,credited via alias ink4a|p16 ink4a,418,clear cell variant of squamous cell carcinoma originating in the esophagus report of a case with immunohistochemical and oncogenetic analyse,M
+Esophageal Cancer,CDKN2A,25460562,all,p16ink4a,C,G,,credited via alias p16ink4a,419,persistence of human papillomavirus overexpression of p53 and outcomes of patients after endoscopic ablation of barrett's esophagus,G
+Esophageal Cancer,CDKN2A,28365443,all,cdkn2a,C,ML,,symbol 'CDKN2A' present,420,genetic alterations in esophageal tissues from squamous dysplasia to carcinoma,ML
+Esophageal Cancer,CDKN2A,15150093,all,cdkn2a|ink4a|mts1,C,M,,symbol 'CDKN2A' present,429,selectively advantageous mutations and hitchhikers in neoplasms p16 lesions are selected in barrett's esophagus,M
+Esophageal Cancer,CDKN2A,25151357,all,cdkn2a,C,ML,,symbol 'CDKN2A' present,439,genetic landscape of esophageal squamous cell carcinoma,ML
+Esophageal Cancer,CDKN2A,33960520,all,cdkn2a,C,M,,symbol 'CDKN2A' present,469,verrucous carcinoma of the oesophagus is a genetically distinct subtype of oesophageal squamous cell carcinoma,M
+Esophageal Cancer,CDKN2A,15492292,all,cdkn2a|ink4a,C,P,,symbol 'CDKN2A' present,472,the combination of genetic instability and clonal expansion predicts progression to esophageal adenocarcinoma,P
+Esophageal Cancer,CDKN2A,24509200,all,cdkn2a,C,G,,symbol 'CDKN2A' present,510,comparison of cancer-associated genetic abnormalities in columnar-lined esophagus tissues with and without goblet cells,G
+Esophageal Cancer,CDKN2A,34611831,all,cdkn2a,C,I,,symbol 'CDKN2A' present,535,systematic review and meta-analysis of the most common genetic mutations in esophageal squamous cell carcinoma,I
+Esophageal Cancer,CDKN2A,18337019,all,ink4,C,I,,credited via alias ink4,540,molecular genetic analysis of surveillance biopsy samples from barrett's mucosa--significance of sampling,I
+Esophageal Cancer,CDKN2A,11719461,all,ink4a|p16 ink4a,C,I,,credited via alias ink4a|p16 ink4a,554,p16 ink4a lesions are common early abnormalities that undergo clonal expansion in barrett's metaplastic epithelium,I
+Esophageal Cancer,CDKN2A,26759717,all,cdkn2a,C,W,,symbol 'CDKN2A' present,567,genomic analyses reveal fam84b and the notch pathway are associated with the progression of esophageal squamous cell carcinoma,W
+Esophageal Cancer,CDKN2A,30009659,all,cdkn2a,C,M,,symbol 'CDKN2A' present,574,primary esophageal mixed sarcomatoid and small cell neuroendocrine carcinoma with brain metastasis a challenging diagnosis on biopsy,M
+Esophageal Cancer,CDKN2A,35701814,all,cdkn2a,C,G,,symbol 'CDKN2A' present,575,targeted genetic and epigenetic profiling of esophageal adenocarcinomas and non-dysplastic barrett's esophagus,G
+Esophageal Cancer,CDKN2A,18980994,all,cdkn2a,C,P,,symbol 'CDKN2A' present,598,cell proliferation cell cycle abnormalities and cancer outcome in patients with barrett's esophagus a long-term prospective study,P
+Esophageal Cancer,CDKN2A,35138918,all,cdkn2a,C,W,,symbol 'CDKN2A' present,615,defining and targeting esophagogastric cancer genomic subsets with patient-derived xenografts,W
+Esophageal Cancer,CDKN2A,27734031,all,cdkn2a,C,ML,,symbol 'CDKN2A' present,644,subtyping sub-saharan esophageal squamous cell carcinoma by comprehensive molecular analysis,ML
+Esophageal Cancer,CDKN2A,30717762,all,cdkn2a,C,M,,symbol 'CDKN2A' present,645,complex structural rearrangements are present in high-grade dysplastic barrett's oesophagus samples,M
+Esophageal Cancer,CDKN2A,12478659,all,ink4a|p16 ink4a,C,G,,credited via alias ink4a|p16 ink4a,674,multigene analysis of rb pathway and apoptosis control in esophageal squamous cell carcinoma identifies patients with good prognosis,G
+Esophageal Cancer,CDKN2A,41950398,all,cdkn2a,C,I,,symbol 'CDKN2A' present,704,molecular characteristics and clinical outcomes of patients with gastroesophageal cancer diagnosed at ages younger than 50 years,I
+Esophageal Cancer,CDKN2A,11304781,all,ink4a|p16 ink4a,C,P,,credited via alias ink4a|p16 ink4a,709,analysis of p53 bax p16 ink4a cdkn2 in esophageal squamous cell carcinoma high bax and p16 ink4a cdkn2 identifies patients with good prognos,P
+Esophageal Cancer,CDKN2A,26192918,all,cdkn2a,C,P,,symbol 'CDKN2A' present,711,paired exome analysis of barrett's esophagus and adenocarcinoma,P
+Esophageal Cancer,CDKN2A,29866946,all,cdkn2a,C,ML,,symbol 'CDKN2A' present,737,comparative molecular analyses of esophageal squamous cell carcinoma esophageal adenocarcinoma and gastric adenocarcinoma,ML
+Esophageal Cancer,CDKN2A,26900290,all,cdkn2a,C,I,,symbol 'CDKN2A' present,762,genomic characterization of esophageal squamous cell carcinoma insights from next-generation sequencing,I
+Esophageal Cancer,CDKN2A,33506581,all,cdkn2a,C,ML,,symbol 'CDKN2A' present,768,molecular profiles of response to neoadjuvant chemoradiotherapy in oesophageal cancers to develop personalized treatment strategies,ML
+Esophageal Cancer,CDKN2A,38032149,all,cdkn2a,C,M,,symbol 'CDKN2A' present,818,molecular profiles of different pd-l1 expression in patients with esophageal squamous cell carcinoma,M
+Esophageal Cancer,CDKN2A,36412562,all,cdkn2a|cyclin dependent kinase inhibitor 2a,C,G,,symbol 'CDKN2A' present,851,clinical and genomic analysis of patients with short survival after surgery for esophageal squamous cell carcinoma,G
+Esophageal Cancer,CDKN2A,19627616,all,ink4a,C,M,,credited via alias ink4a,862,gastroesophageal reflux leads to esophageal cancer in a surgical model with mice,M
+Esophageal Cancer,CDKN2A,17035402,all,cdkn2a,C,M,,symbol 'CDKN2A' present,866,mutagen sensitivity and neoplastic progression in patients with barrett's esophagus a prospective analysis,M
+Esophageal Cancer,CDKN2A,40157906,all,cdkn2a,C,M,,symbol 'CDKN2A' present,881,gastroesophageal circulating tumor cell crosstalk with peripheral immune system guides ctc survival and proliferation,M
+Esophageal Cancer,CDKN2A,17326708,all,cdkn2a,C,M,,symbol 'CDKN2A' present,899,nsaids modulate cdkn2a tp53 and dna content risk for progression to esophageal adenocarcinoma,M
+Esophageal Cancer,CDKN2A,20424117,all,ink4a|p16 ink4a,C,G,,credited via alias ink4a|p16 ink4a,906,epidermal growth factor receptor and mutant p53 expand an esophageal cellular subpopulation capable of epithelial-to-mesenchymal transition ,G
+Esophageal Cancer,CDKN2A,24454681,all,cdkn2a,C,I,,symbol 'CDKN2A' present,933,the degree of segmental aneuploidy measured by total copy number abnormalities predicts survival and recurrence in superficial gastroesophag,I
+Esophageal Cancer,CDKN2A,35351978,all,cdkn2a,C,M,,symbol 'CDKN2A' present,969,esophageal squamous cell carcinoma with basaloid features are genetically and prognostically similar to conventional squamous cell carcinoma,M
+Esophageal Cancer,CDKN2A,15185075,all,cdkn2a|ink4|ink4a|p14arf|p16 ink4a|p16ink4a,C,M,,symbol 'CDKN2A' present,990,ink4a-arf alterations in barrett's epithelium intraepithelial neoplasia and barrett's adenocarcinoma,M
+Esophageal Cancer,CDKN2A,25280564,all,cdkn2a,C,M,,symbol 'CDKN2A' present,993,integrative post-genome-wide association analysis of cdkn2a and tp53 snps and risk of esophageal adenocarcinoma,M
+Esophageal Cancer,BRAF,23274581,all,braf,C,M,,symbol 'BRAF' present,18,kras and braf mutations in 203 esophageal squamous cell carcinomas pyrosequencing technology and literature review,M
+Esophageal Cancer,BRAF,30115035,all,braf,C,M,,symbol 'BRAF' present,23,pik3ca mutation is a favorable prognostic factor in esophageal cancer molecular profile by next-generation sequencing using surgically resec,M
+Esophageal Cancer,BRAF,23343956,all,braf,C,M,,symbol 'BRAF' present,39,no evidence for braf-v600e mutations in gastroeosophageal tumors results from a high-throughput analysis of 534 cases using a mutation-speci,M
+Esophageal Cancer,BRAF,24360885,all,braf,C,I,,symbol 'BRAF' present,43,frequency characterization and prognostic analysis of pik3ca gene mutations in chinese esophageal squamous cell carcinoma,I
+Esophageal Cancer,BRAF,19319568,all,braf,C,M,,symbol 'BRAF' present,48,esophageal melanomas harbor frequent nras mutations unlike melanomas of other mucosal sites,M
+Esophageal Cancer,BRAF,22870241,all,braf,C,M,,symbol 'BRAF' present,56,high-throughput genotyping in metastatic esophageal squamous cell carcinoma identifies phosphoinositide-3-kinase and braf mutations,M
+Esophageal Cancer,BRAF,33054840,all,braf,C,M,,symbol 'BRAF' present,78,significance of druggable targets pd-l1 kras braf pik3ca msi and hpv on curatively resected esophageal squamous cell carcinoma,M
+Esophageal Cancer,BRAF,25691283,all,braf,C,M,,symbol 'BRAF' present,108,molecular characteristics of basaloid squamous cell carcinoma of the esophagus analysis of kras braf and pik3ca mutations and line-1 methyla,M
+Esophageal Cancer,BRAF,22152101,all,braf,C,M,,symbol 'BRAF' present,117,biomarker analysis of cetuximab plus oxaliplatin leucovorin 5-fluorouracil in first-line metastatic gastric and oesophago-gastric junction c,M
+Esophageal Cancer,BRAF,39628355,all,braf,C,M,,symbol 'BRAF' present,141,esophageal submucosal gland duct adenoma an unrecognised esophageal counterpart of minor salivary gland tumours with frequent braf v600e mut,M
+Esophageal Cancer,BRAF,30760858,all,braf,C,ML,,symbol 'BRAF' present,158,primary malignant melanoma of esophagus clinicopathologic characterization of 20 cases including molecular genetic profiling of 15 tumors,ML
+Esophageal Cancer,BRAF,23158210,all,braf,C,ML,,symbol 'BRAF' present,159,epidermal growth factor receptor phosphatidylinositol-3-kinase catalytic subunit pten and kras nras braf in primary resected esophageal aden,ML
+Esophageal Cancer,BRAF,21131919,all,braf,C,ML,,symbol 'BRAF' present,171,genetic aberrations in primary esophageal melanomas molecular analysis of c-kit pdgfr kras nras and braf in a series of 10 cases,ML
+Esophageal Cancer,BRAF,38158377,all,braf,C,I,,symbol 'BRAF' present,178,comprehensive molecular findings in primary malignant melanoma of the esophagus a multicenter study,I
+Esophageal Cancer,BRAF,28537764,all,braf,C,ML,,symbol 'BRAF' present,181,gefitinib and egfr gene copy number aberrations in esophageal cancer,ML
+Esophageal Cancer,BRAF,23207070,all,braf,C,M,,symbol 'BRAF' present,216,alterations in epidermal growth factor receptors 1 and 2 in esophageal squamous cell carcinomas,M
+Esophageal Cancer,BRAF,28972077,all,braf,C,M,,symbol 'BRAF' present,219,multiregional sequencing reveals genomic alterations and clonal dynamics in primary malignant melanoma of the esophagus,M
+Esophageal Cancer,BRAF,17693665,all,braf,C,I,,symbol 'BRAF' present,232,genetic pathways and mutation profiles of human cancers site- and exposure-specific patterns,I
+Esophageal Cancer,BRAF,39560927,all,braf,C,I,,symbol 'BRAF' present,235,prognostic significance of actionable next-generation sequencing multigene panel in esophageal cancer treatment,I
+Esophageal Cancer,BRAF,33622273,all,braf,C,M,,symbol 'BRAF' present,297,v-raf murine sarcoma viral oncogene homolog b1 braf as a prognostic biomarker of poor outcomes in esophageal cancer patients,M
+Esophageal Cancer,BRAF,32654197,all,braf,C,ML,,symbol 'BRAF' present,332,comprehensive clinicopathological and molecular analysis of primary malignant melanoma of the oesophagus,ML
+Esophageal Cancer,BRAF,23481512,all,braf,C,ML,,symbol 'BRAF' present,338,biomarker analysis in oesophagogastric cancer results from the real3 and transmagic trials,ML
+Esophageal Cancer,BRAF,28644569,all,braf,C,M,,symbol 'BRAF' present,351,gastrointestinal stromal tumours of the oesophagus a clinicopathological and molecular analysis of 27 cases,M
+Esophageal Cancer,BRAF,23412099,all,braf,C,M,target,symbol 'BRAF' present,380,docetaxel plus cetuximab as second-line treatment for docetaxel-refractory oesophagogastric cancer the agitg attax2 trial,M
+Esophageal Cancer,BRAF,22243784,all,braf,C,M,,symbol 'BRAF' present,418,clear cell variant of squamous cell carcinoma originating in the esophagus report of a case with immunohistochemical and oncogenetic analyse,M
+Esophageal Cancer,BRAF,35688970,all,braf,C,ML,,symbol 'BRAF' present,426,comprehensive genomic analysis of primary malignant melanoma of the esophagus reveals similar genetic patterns compared with epithelium-asso,ML
+Esophageal Cancer,BRAF,33295742,all,braf,C,M,,symbol 'BRAF' present,430,genetic mutations in primary malignant melanoma of the esophagus case report and literature review,M
+Esophageal Cancer,BRAF,41324652,all,braf,C,M,,symbol 'BRAF' present,498,submucosal gland duct adenoma of the esophagus expanding the morphologic spectrum of a rare tumor entity,M
+Esophageal Cancer,BRAF,31898183,all,braf,C,ML,target,symbol 'BRAF' present,555,a phase 2 clinical trial of the heat shock protein 90 hsp 90 inhibitor ganetespib in patients with refractory advanced esophagogastric cance,ML
+Esophageal Cancer,BRAF,23482783,all,braf,C,M,,symbol 'BRAF' present,684,brain metastases of gastro-oesophageal cancer evaluation of molecules with relevance for targeted therapies,M
+Esophageal Cancer,BRAF,24220097,all,braf,C,M,,symbol 'BRAF' present,802,metastatic melanoma in an esophagus demonstrating barrett esophagus with high grade dysplasia,M
+Esophageal Cancer,BRAF,36593066,all,braf,C,M,,symbol 'BRAF' present,973,molecular underpinnings of exceptional response in primary malignant melanoma of the esophagus to anti-pd-1 monotherapy,M
+Esophageal Cancer,NOTCH1,33934524,all,notch1,C,M,,symbol 'NOTCH1' present,4,comprehensive mutational analysis of background mucosa in patients with lugol-voiding lesions,M
+Esophageal Cancer,NOTCH1,41481786,all,notch1,C,M,,symbol 'NOTCH1' present,34,genotype-to-phenotype mapping of somatic clonal mosaicism via single-cell co-capture of dna mutations and mrna transcripts,M
+Esophageal Cancer,NOTCH1,40179324,all,notch1,C,M,,symbol 'NOTCH1' present,35,notch1 mutation and survival analysis of tislelizumab in advanced or metastatic esophageal squamous cell carcinoma a biomarker analysis from,M
+Esophageal Cancer,NOTCH1,34663841,all,notch1,C,I,,symbol 'NOTCH1' present,61,profile of esophageal squamous cell carcinoma mutations in brazilian patients,I
+Esophageal Cancer,NOTCH1,36658434,all,notch1,C,M,,symbol 'NOTCH1' present,68,notch1 mutations drive clonal expansion in normal esophageal epithelium but impair tumor growth,M
+Esophageal Cancer,NOTCH1,33725708,all,notch1,C,I,,symbol 'NOTCH1' present,95,gene mutations of esophageal squamous cell carcinoma based on next-generation sequencing,I
+Esophageal Cancer,NOTCH1,34269310,all,notch1,C,M,,symbol 'NOTCH1' present,130,multiregion sequencing and subclonal analysis reveal intratumoral heterogeneity in esophageal squamous cell carcinoma,M
+Esophageal Cancer,NOTCH1,35612571,all,notch1,C,M,,symbol 'NOTCH1' present,150,absence of notch1 mutation and presence of cdkn2a deletion predict progression of esophageal lesions,M
+Esophageal Cancer,NOTCH1,41134070,all,notch1,C,M,,symbol 'NOTCH1' present,154,genetic variation in background mucosa across different grades of chronic esophagitis,M
+Esophageal Cancer,NOTCH1,26528858,all,notch1,C,M,,symbol 'NOTCH1' present,169,mutually exclusive mutations in notch1 and pik3ca associated with clinical prognosis and chemotherapy responses of esophageal squamous cell ,M
+Esophageal Cancer,NOTCH1,41326213,all,notch1,C,I,,symbol 'NOTCH1' present,187,current status and clinical usefulness of genomic panel testing using plessision-160 in resectable esophageal squamous cell carcinoma,I
+Esophageal Cancer,NOTCH1,33980813,all,notch1,C,I,,symbol 'NOTCH1' present,207,distinct mutational backgrounds and clonal architectures implicated prognostic discrepancies in small-cell carcinomas of the esophagus and l,I
+Esophageal Cancer,NOTCH1,40569942,all,notch1,C,ML,,symbol 'NOTCH1' present,214,whole genome sequencing revealed esophageal squamous cell carcinoma related biomarkers,ML
+Esophageal Cancer,NOTCH1,28554745,all,notch1,C,M,,symbol 'NOTCH1' present,247,genomic profiling of esophageal squamous cell carcinoma escc -basis for precision medicine,M
+Esophageal Cancer,NOTCH1,21868761,all,notch1,C,ML,,symbol 'NOTCH1' present,261,loss of transcription factor klf5 in the context of p53 ablation drives invasive progression of human squamous cell cancer,ML
+Esophageal Cancer,NOTCH1,36119057,all,notch1,C,G,,symbol 'NOTCH1' present,300,identifying key mutations of radioresponsive genes in esophageal squamous cell carcinoma,G
+Esophageal Cancer,NOTCH1,42631685,all,notch1,C,M,,symbol 'NOTCH1' present,312,prognostic significance of positive margin-informed tumor status in esophageal squamous cell carcinoma using next-generation sequencing,M
+Esophageal Cancer,NOTCH1,40628272,all,notch1,C,M,,symbol 'NOTCH1' present,361,extremely early genomic events and temporal order of esophageal squamous cell carcinogenesis longitudinal self-comparison of progressors and,M
+Esophageal Cancer,NOTCH1,26873401,all,notch1,C,I,,symbol 'NOTCH1' present,362,genomic landscape of esophageal squamous cell carcinoma in a japanese population,I
+Esophageal Cancer,NOTCH1,32561500,all,notch1,C,I,,symbol 'NOTCH1' present,369,identification of radioresponsive genes in esophageal cancer from longitudinal and single cell exome sequencing,I
+Esophageal Cancer,NOTCH1,30337457,all,notch1,C,M,,symbol 'NOTCH1' present,393,somatic mutant clones colonize the human esophagus with age,M
+Esophageal Cancer,NOTCH1,30602793,all,notch1,C,M,,symbol 'NOTCH1' present,434,age-related remodelling of oesophageal epithelia by mutated cancer drivers,M
+Esophageal Cancer,NOTCH1,22877736,all,notch1,C,M,,symbol 'NOTCH1' present,438,comparative genomic analysis of esophageal adenocarcinoma and squamous cell carcinoma,M
+Esophageal Cancer,NOTCH1,25151357,all,notch1,C,I,,symbol 'NOTCH1' present,439,genetic landscape of esophageal squamous cell carcinoma,I
+Esophageal Cancer,NOTCH1,36788021,all,notch1,C,ML,,symbol 'NOTCH1' present,521,oesophageal glomus tumours rare neoplasms with aggressive clinical behaviour,ML
+Esophageal Cancer,NOTCH1,34611831,all,notch1,C,I,,symbol 'NOTCH1' present,535,systematic review and meta-analysis of the most common genetic mutations in esophageal squamous cell carcinoma,I
+Esophageal Cancer,NOTCH1,26759717,all,notch1,C,M,,symbol 'NOTCH1' present,567,genomic analyses reveal fam84b and the notch pathway are associated with the progression of esophageal squamous cell carcinoma,M
+Esophageal Cancer,NOTCH1,35536873,all,notch1,C,M,,symbol 'NOTCH1' present,611,computational identification of preneoplastic cells displaying high stemness and risk of cancer progression,M
+Esophageal Cancer,NOTCH1,39538031,all,notch1,C,M,,symbol 'NOTCH1' present,631,unexpected multiple gastrointestinal cancers in a patient with chronic eosinophilia a case report,M
+Esophageal Cancer,NOTCH1,27734031,all,notch1,C,I,,symbol 'NOTCH1' present,644,subtyping sub-saharan esophageal squamous cell carcinoma by comprehensive molecular analysis,I
+Esophageal Cancer,NOTCH1,29866946,all,notch1,C,I,,symbol 'NOTCH1' present,737,comparative molecular analyses of esophageal squamous cell carcinoma esophageal adenocarcinoma and gastric adenocarcinoma,I
+Esophageal Cancer,NOTCH1,26900290,all,notch1,C,I,,symbol 'NOTCH1' present,762,genomic characterization of esophageal squamous cell carcinoma insights from next-generation sequencing,I
+Esophageal Cancer,NOTCH1,40691441,all,notch1,C,M,,symbol 'NOTCH1' present,791,aberrant notch-signaling promotes tumor angiogenesis in esophageal squamous-cell carcinoma,M
+Esophageal Cancer,NOTCH1,24686850,all,notch1,C,I,,symbol 'NOTCH1' present,795,genomic and molecular characterization of esophageal squamous cell carcinoma,I
+Esophageal Cancer,NOTCH1,30266659,all,notch1,C,M,,symbol 'NOTCH1' present,796,loss of notch1 predisposes oro-esophageal epithelium to tumorigenesis,M
+Esophageal Cancer,NOTCH1,26336083,all,notch1,C,W,,symbol 'NOTCH1' present,835,comprehensive genomic profiling of advanced esophageal squamous cell carcinomas and esophageal adenocarcinomas reveals similarities and diff,W
+Esophageal Cancer,NOTCH1,41910707,all,notch1,C,M,target,symbol 'NOTCH1' present,885,molecular subtyping-guided precision therapy for escc biomarker-driven strategies and clinical translation pathways,M
+Esophageal Cancer,BRCA2,32579544,all,brca2,C,M,,symbol 'BRCA2' present,11,germline brca2 truncating mutation in familial esophageal squamous cell carcinoma a case controlled study in china,M
+Esophageal Cancer,BRCA2,15300854,all,brca2,C,I,,symbol 'BRCA2' present,22,rna analysis reveals splicing mutations and loss of expression defects in mlh1 and brca1,I
+Esophageal Cancer,BRCA2,31396961,all,brca2,C,M,target,symbol 'BRCA2' present,31,brca2 loss-of-function germline mutations are associated with esophageal squamous cell carcinoma risk in chinese,M
+Esophageal Cancer,BRCA2,22126563,all,brca2,C,M,,symbol 'BRCA2' present,63,frequent germline mutation in the brca2 gene in esophageal squamous cell carcinoma patients from a low-risk chinese population,M
+Esophageal Cancer,BRCA2,34725190,all,brca2,C,ML,,symbol 'BRCA2' present,64,association of homologous recombination-dna damage response gene mutations with immune biomarkers in gastroesophageal cancers,ML
+Esophageal Cancer,BRCA2,27838800,all,brca2,C,M,,symbol 'BRCA2' present,71,double germline mutations in apc and brca2 in an individual with a pancreatic tumor,M
+Esophageal Cancer,BRCA2,21279724,all,brca2,C,M,,symbol 'BRCA2' present,115,mutations in fanconi anemia genes and the risk of esophageal cancer,M
+Esophageal Cancer,BRCA2,17724471,all,brca2,C,M,,symbol 'BRCA2' present,166,germline brca2 mutations and the risk of esophageal squamous cell carcinoma,M
+Esophageal Cancer,BRCA2,30338755,all,brca2,C,I,,symbol 'BRCA2' present,245,hpv status and mutation analysis using multiparallel sequencing in distal oesophageal and gastro-oesophageal junction adenocarcinomas,I
+Esophageal Cancer,BRCA2,11948123,all,brca2,C,M,,symbol 'BRCA2' present,273,infrequent mutation in the brca2 gene in esophageal squamous cell carcinoma,M
+Esophageal Cancer,BRCA2,42186016,all,brca2,C,I,,symbol 'BRCA2' present,288,whole genome sequencing in oesophageal adenocarcinoma unmasks potential precision therapies,I
+Esophageal Cancer,BRCA2,26041759,all,brca2,C,M,,symbol 'BRCA2' present,309,the brca2 polymorphic stop codon stuff or nonsense,M
+Esophageal Cancer,BRCA2,26857264,all,brca2,C,I,,symbol 'BRCA2' present,321,genomic landscape of somatic alterations in esophageal squamous cell carcinoma and gastric cancer,I
+Esophageal Cancer,BRCA2,32654197,all,brca2,C,ML,,symbol 'BRCA2' present,332,comprehensive clinicopathological and molecular analysis of primary malignant melanoma of the oesophagus,ML
+Esophageal Cancer,BRCA2,19473207,all,brca2,C,M,,symbol 'BRCA2' present,340,contribution of germ line brca2 sequence alterations to risk of familial esophageal cancer in a high-risk area of india,M
+Esophageal Cancer,BRCA2,34722771,all,brca2,C,P,,symbol 'BRCA2' present,396,construction and validation of an immune-related gene prognostic index for esophageal squamous cell carcinoma,P
+Esophageal Cancer,BRCA2,14647438,all,brca2,C,M,,symbol 'BRCA2' present,421,evaluation of brca2 in the genetic susceptibility of familial esophageal cancer,M
+Esophageal Cancer,BRCA2,37943872,all,brca2,C,M,,symbol 'BRCA2' present,431,a single nucleotide polymorphism in the aldh2 gene modifies the risk of esophageal squamous cell carcinoma in brca2 p k3326 carriers,M
+Esophageal Cancer,BRCA2,25351503,all,brca2,C,M,,symbol 'BRCA2' present,492,genomic catastrophes frequently arise in esophageal adenocarcinoma and drive tumorigenesis,M
+Esophageal Cancer,BRCA2,30499911,all,brca2,C,M,,symbol 'BRCA2' present,573,genetic profile and microsatellite instability in a case of secondary esophageal squamous cell carcinoma 12 years after allogeneic hematopoi,M
+Esophageal Cancer,BRCA2,35122589,all,brca2,C,I,,symbol 'BRCA2' present,691,germline cancer testing in unselected patients with gastric and esophageal cancers a multi-center prospective study,I
+Esophageal Cancer,BRCA2,27656835,all,brca2,C,M,,symbol 'BRCA2' present,917,novel brca2-interacting protein limd1 is essential for the centrosome localization of brca2 in esophageal cancer cell,M
+Esophageal Cancer,BRCA2,11433530,all,brca2,C,M,,symbol 'BRCA2' present,948,allelic loss on chromosome bands 13q11-q13 in esophageal squamous cell carcinoma,M
+Esophageal Cancer,NFE2L2,19967722,all,nrf2,C,M,,credited via alias nrf2,24,oncogenic nrf2 mutations in squamous cell carcinomas of oesophagus and skin,M
+Esophageal Cancer,NFE2L2,40781161,all,nfe2l2,C,M,,symbol 'NFE2L2' present,52,oncogenic nfe2l2 mutations in plasma ctdna and tumors are predictors and prognosticators of chemoradiation therapy in resectable esophageal ,M
+Esophageal Cancer,NFE2L2,34663841,all,nfe2l2,C,I,,symbol 'NFE2L2' present,61,profile of esophageal squamous cell carcinoma mutations in brazilian patients,I
+Esophageal Cancer,NFE2L2,32398863,all,nfe2l2,C,M,,symbol 'NFE2L2' present,62,whole-genome sequencing of 508 patients identifies key molecular features associated with poor prognosis in esophageal squamous cell carcino,M
+Esophageal Cancer,NFE2L2,41160298,all,nfe2l2,C,M,,symbol 'NFE2L2' present,75,site-specific prevalence of the nfe2l2 mutation in esophageal squamous cell carcinoma,M
+Esophageal Cancer,NFE2L2,21969819,all,nrf2,C,M,,credited via alias nrf2,123,nrf2 mutation confers malignant potential and resistance to chemoradiation therapy in advanced esophageal squamous cancer,M
+Esophageal Cancer,NFE2L2,38602872,all,nfe2l2|nrf2,C,M,,symbol 'NFE2L2' present,180,differential squamous cell fates elicited by nrf2 gain of function versus keap1 loss of function,M
+Esophageal Cancer,NFE2L2,41911515,all,nfe2l2,C,ML,,symbol 'NFE2L2' present,199,prognostic biomarkers and immunotherapeutic insights of circulating tumor dna analysis in advanced esophageal squamous cell carcinoma from s,ML
+Esophageal Cancer,NFE2L2,36167753,all,nrf2,C,I,,credited via alias nrf2,253,clinical outcome-related cancer pathways and mutational signatures in patients with unresectable esophageal squamous cell carcinoma treated ,I
+Esophageal Cancer,NFE2L2,33826001,all,nfe2l2,C,ML,,symbol 'NFE2L2' present,302,whole exome sequencing and deep sequencing of esophageal squamous cell carcinoma and adenocarcinoma in japanese patients using the japanese ,ML
+Esophageal Cancer,NFE2L2,26873401,all,nfe2l2,C,M,,symbol 'NFE2L2' present,362,genomic landscape of esophageal squamous cell carcinoma in a japanese population,M
+Esophageal Cancer,NFE2L2,27749841,all,nfe2l2,C,I,,symbol 'NFE2L2' present,367,spatial intratumoral heterogeneity and temporal clonal evolution in esophageal squamous cell carcinoma,I
+Esophageal Cancer,NFE2L2,32561500,all,nfe2l2,C,I,,symbol 'NFE2L2' present,369,identification of radioresponsive genes in esophageal cancer from longitudinal and single cell exome sequencing,I
+Esophageal Cancer,NFE2L2,39022845,all,nfe2l2,C,I,,symbol 'NFE2L2' present,395,multiregion exome sequencing indicates a monoclonal origin of esophageal spindle-cell squamous cell carcinoma,I
+Esophageal Cancer,NFE2L2,28365443,all,nfe2l2,C,I,,symbol 'NFE2L2' present,420,genetic alterations in esophageal tissues from squamous dysplasia to carcinoma,I
+Esophageal Cancer,NFE2L2,25151357,all,nfe2l2,C,I,,symbol 'NFE2L2' present,439,genetic landscape of esophageal squamous cell carcinoma,I
+Esophageal Cancer,NFE2L2,24307696,all,nrf2,C,M,target,credited via alias nrf2,444,the impact of mirna-based molecular diagnostics and treatment of nrf2-stabilized tumors,M
+Esophageal Cancer,NFE2L2,29142225,all,nfe2l2,C,M,,symbol 'NFE2L2' present,529,comparative genomic analysis of esophageal squamous cell carcinoma between asian and caucasian patient populations,M
+Esophageal Cancer,NFE2L2,34761715,all,nfe2l2,C,M,,symbol 'NFE2L2' present,534,mxd1 is a potential prognostic biomarker and correlated with specific molecular change and tumor microenvironment feature in esophageal squa,M
+Esophageal Cancer,NFE2L2,27734031,all,nfe2l2,C,ML,,symbol 'NFE2L2' present,644,subtyping sub-saharan esophageal squamous cell carcinoma by comprehensive molecular analysis,ML
+Esophageal Cancer,NFE2L2,41962116,all,nrf2,C,M,,credited via alias nrf2,697,tislelizumab combined with induction chemotherapy and concurrent chemoradiotherapy in locally advanced esophageal squamous cell carcinoma a ,M
+Esophageal Cancer,NFE2L2,26900290,all,nfe2l2,C,I,,symbol 'NFE2L2' present,762,genomic characterization of esophageal squamous cell carcinoma insights from next-generation sequencing,I
+Esophageal Cancer,NFE2L2,35959623,all,nfe2l2,C,M,,symbol 'NFE2L2' present,792,identification and validation of co-expressed immune-related gene signature affecting the pattern of immune infiltrating in esophageal cance,M
+Esophageal Cancer,NFE2L2,28760781,all,nrf2,C,M,target,credited via alias nrf2,819,mir-432 induces nrf2 stabilization by directly targeting keap1,M
+Esophageal Cancer,NFE2L2,26336083,all,nfe2l2,C,I,,symbol 'NFE2L2' present,835,comprehensive genomic profiling of advanced esophageal squamous cell carcinomas and esophageal adenocarcinomas reveals similarities and diff,I
+Esophageal Cancer,NFE2L2,38087999,all,nfe2l2,C,I,,symbol 'NFE2L2' present,864,identification of prognostic value of anoikis-related gene score model combined with tumor microenvironment score models in esophageal squam,I
+Esophageal Cancer,NFE2L2,35194221,all,nfe2l2|nrf2,C,M,,symbol 'NFE2L2' present,876,high expression of nuclear nrf2 combined with nfe2l2 alterations predicts poor prognosis in esophageal squamous cell carcinoma patients,M
+Esophageal Cancer,NFE2L2,41910707,all,nrf2,C,I,,credited via alias nrf2,885,molecular subtyping-guided precision therapy for escc biomarker-driven strategies and clinical translation pathways,I
+Esophageal Cancer,NFE2L2,36115578,all,nrf2,C,M,,credited via alias nrf2,894,selective elimination of nrf2-activated cells by competition with neighboring cells in the esophageal epithelium,M
+Esophageal Cancer,NFE2L2,36165926,all,nrf2,C,G,,credited via alias nrf2,919,caspase-8 mutants activate nrf2 via phosphorylating sqstm1 to protect against oxidative stress in esophageal squamous cell carcinoma,G
+Esophageal Cancer,NFE2L2,30409900,all,nrf2,C,G,,credited via alias nrf2,975,hyperactivity of the transcription factor nrf2 causes metabolic reprogramming in mouse esophagus,G
+Esophageal Cancer,APC,15300854,all,apc,C,I,,symbol 'APC' present,22,rna analysis reveals splicing mutations and loss of expression defects in mlh1 and brca1,I
+Esophageal Cancer,APC,30115035,all,apc,C,M,,symbol 'APC' present,23,pik3ca mutation is a favorable prognostic factor in esophageal cancer molecular profile by next-generation sequencing using surgically resec,M
+Esophageal Cancer,APC,11048797,all,apc,C,M,,symbol 'APC' present,66,mutations in beta-catenin and apc genes are uncommon in esophageal and esophagogastric junction adenocarcinomas,M
+Esophageal Cancer,APC,27838800,all,apc,C,M,,symbol 'APC' present,71,double germline mutations in apc and brca2 in an individual with a pancreatic tumor,M
+Esophageal Cancer,APC,39115206,all,apc,C,I,,symbol 'APC' present,73,the landscape and prognosis of microsatellite stable mss esophageal gastro-esophageal junction and gastric adenocarcinomas with high tumor m,I
+Esophageal Cancer,APC,25395299,all,apc,C,G,,symbol 'APC' present,79,ptch1 mutation is a frequent event in oesophageal basaloid squamous cell carcinoma,G
+Esophageal Cancer,APC,14970870,all,apc,C,M,,symbol 'APC' present,103,frequent loss of the axin1 locus but absence of axin1 gene mutations in adenocarcinomas of the gastro-oesophageal junction with nuclear beta,M
+Esophageal Cancer,APC,37054973,all,apc,C,ML,,symbol 'APC' present,175,smarca4 mutations in carcinomas of the esophagus esophagogastric junction and stomach,ML
+Esophageal Cancer,APC,35240548,all,apc,C,M,,symbol 'APC' present,192,the mutational landscape of upper gastrointestinal adenocarcinomas- a study of similarities and differences,M
+Esophageal Cancer,APC,17693665,all,apc,C,W,,symbol 'APC' present,232,genetic pathways and mutation profiles of human cancers site- and exposure-specific patterns,W
+Esophageal Cancer,APC,28859360,all,apc,C,ML,,symbol 'APC' present,248,targeted next-generation sequencing of commonly mutated genes in esophageal adenocarcinoma patients with long-term survival,ML
+Esophageal Cancer,APC,10797268,all,apc,C,M,,symbol 'APC' present,255,genetic alterations involving exon 3 of the beta-catenin gene do not play a role in adenocarcinomas of the esophagus,M
+Esophageal Cancer,APC,42186016,all,apc,C,I,,symbol 'APC' present,288,whole genome sequencing in oesophageal adenocarcinoma unmasks potential precision therapies,I
+Esophageal Cancer,APC,24464051,all,apc,C,M,,symbol 'APC' present,322,downregulation of sfrp-2 by epigenetic silencing activates the -catenin wnt signaling pathway in esophageal basaloid squamous cell carcinoma,M
+Esophageal Cancer,APC,11193470,all,apc,C,I,,symbol 'APC' present,354,beta-catenin expression pattern in primary oesophageal squamous cell carcinoma relationship with clinicopathologic features and clinical out,I
+Esophageal Cancer,APC,16785283,all,apc,C,P,,symbol 'APC' present,363,oesophageal squamous cell carcinoma may develop within a background of accumulating dna methylation in normal and dysplastic mucosa,P
+Esophageal Cancer,APC,39469984,all,apc,C,M,,symbol 'APC' present,379,homologous recombination deficiency score is an independent prognostic factor in esophageal squamous cell carcinoma,M
+Esophageal Cancer,APC,39022845,all,apc,C,I,,symbol 'APC' present,395,multiregion exome sequencing indicates a monoclonal origin of esophageal spindle-cell squamous cell carcinoma,I
+Esophageal Cancer,APC,11026105,all,apc,C,W,,symbol 'APC' present,448,nuclear accumulation of beta-catenin is a common and early event during neoplastic progression of barrett esophagus,W
+Esophageal Cancer,APC,32198345,all,apc,X,I,,"'APC/C' = anaphase-promoting complex/cyclosome (ubiquitin ligase), not the adenomatous polyposis coli gene",516,long noncoding rna agpg regulates pfkfb3-mediated tumor glycolytic reprogramming,I
+Esophageal Cancer,APC,10709091,all,apc,C,M,,symbol 'APC' present,524,alteration of beta-catenin expression in esophageal squamous-cell carcinoma,M
+Esophageal Cancer,APC,10907314,all,apc,C,M,,symbol 'APC' present,530,genetic versus environmental interactions in the oesophagitis-metaplasia-dysplasia-adenocarcinoma sequence mcs of barrett's oesophagus,M
+Esophageal Cancer,APC,18337019,all,apc,C,I,,symbol 'APC' present,540,molecular genetic analysis of surveillance biopsy samples from barrett's mucosa--significance of sampling,I
+Esophageal Cancer,APC,35701814,all,apc,C,G,,symbol 'APC' present,575,targeted genetic and epigenetic profiling of esophageal adenocarcinomas and non-dysplastic barrett's esophagus,G
+Esophageal Cancer,APC,25778705,all,apc,C,I,,symbol 'APC' present,718,tumor profiling of gastric and esophageal carcinoma reveal different treatment options,I
+Esophageal Cancer,APC,29866946,all,apc,C,ML,,symbol 'APC' present,737,comparative molecular analyses of esophageal squamous cell carcinoma esophageal adenocarcinoma and gastric adenocarcinoma,ML
+Esophageal Cancer,APC,28376920,all,apc,C,I,,symbol 'APC' present,799,molecular clonality analysis of esophageal adenocarcinoma by multiregion sequencing of tumor samples,I
+Esophageal Cancer,APC,30841855,all,apc,C,M,,symbol 'APC' present,875,in-depth characterization of the wnt-signaling -catenin pathway in an in vitro model of barrett's sequence,M
+Esophageal Cancer,APC,16407829,all,apc,C,M,,symbol 'APC' present,880,alterations of the wnt signaling pathway during the neoplastic progression of barrett's esophagus,M
+Esophageal Cancer,APC,12081731,all,apc,C,I,,symbol 'APC' present,929,genetic pathways involved in the progression of barrett's metaplasia to adenocarcinoma,I

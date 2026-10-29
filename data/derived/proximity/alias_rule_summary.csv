@@ -1,0 +1,6 @@
+setting,any_10,exact_10,stat_any_10,stat_exact_10,exact_diff_vs_reference_pp,ci_lo,ci_hi
+"frozen vocabulary, w = 0",178,150,162.0,136.0,,,
+"frozen vocabulary, w = 3",178,149,163.0,134.0,-0.5,-2.1,1.1
+"alias rule, w = 0",179,151,163.0,136.0,0.5,0.0,1.6
+"alias rule, w = 3",179,150,164.0,134.0,-0.5,-2.1,1.1
+alias rule vs frozen: slots changed (top 10 / top 50),18,293,,,,,

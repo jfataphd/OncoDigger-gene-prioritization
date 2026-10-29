@@ -1,0 +1,424 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Liver Cancer,KRAS,34820593,random,kras,C,M,,symbol 'KRAS' present,1,kras a146 mutations are associated with distinct clinical behavior in patients with colorectal liver metastases,M
+Liver Cancer,KRAS,39377605,random,kras,C,M,,symbol 'KRAS' present,4,association of various ras codon mutations and prognostic outcomes of patients with colorectal liver metastases after hepatectomy,M
+Liver Cancer,KRAS,39522997,random,kras,C,M,,symbol 'KRAS' present,6,a rare case of primary hepatic undifferentiated pleomorphic sarcoma exploring cancer-related gene mutations,M
+Liver Cancer,KRAS,26887348,random,kras,C,M,,symbol 'KRAS' present,27,the impact of kras mutations on prognosis in surgically resected colorectal cancer patients with liver and lung metastases a retrospective a,M
+Liver Cancer,KRAS,25666295,random,kras,C,M,target,symbol 'KRAS' present,36,folfox4 plus cetuximab for patients with previously untreated metastatic colorectal cancer according to tumor ras and braf mutation status u,M
+Liver Cancer,KRAS,34669528,random,kras,C,M,,symbol 'KRAS' present,43,not all kirsten rat sarcoma viral oncogene homolog mutations predict poor survival in patients with unresectable colorectal liver metastasis,M
+Liver Cancer,KRAS,22982650,random,kras,C,M,target,symbol 'KRAS' present,46,impact of systematic egfr and kras mutation evaluation on progression-free survival and overall survival in patients with advanced non-small,M
+Liver Cancer,KRAS,40571815,random,kras,C,M,,symbol 'KRAS' present,74,chemotherapy-associated mutational process signature and genomic alterations associated with outcome in metastatic pancreatic cancer,M
+Liver Cancer,KRAS,22833420,random,kras,C,M,target,symbol 'KRAS' present,76,epidermal growth factor receptor and kras gene expression reliability of mutational analysis on cytological samples,M
+Liver Cancer,KRAS,21729655,random,kras,C,M,,symbol 'KRAS' present,116,egfr mutation status in primary lung adenocarcinomas and corresponding metastatic lesions discordance in pleural metastases,M
+Liver Cancer,KRAS,29799910,random,kras,C,M,,symbol 'KRAS' present,129,association of braf mutations with survival and recurrence in surgically treated patients with metastatic colorectal liver cancer,M
+Liver Cancer,KRAS,21671463,random,kras,C,ML,target,symbol 'KRAS' present,150,the status of egfr-associated genes could predict the outcome and tumor response of chemo-refractory metastatic colorectal patients using ce,ML
+Liver Cancer,KRAS,28767562,random,kras,C,ML,,symbol 'KRAS' present,174,deleterious effect of ras and evolutionary high-risk tp53 double mutation in colorectal liver metastases,ML
+Liver Cancer,KRAS,22971512,random,kras,C,M,,symbol 'KRAS' present,194,detection of kras mutations and their associations with clinicopathological features and survival in chinese colorectal cancer patients,M
+Liver Cancer,KRAS,29194647,random,kras,C,M,target,symbol 'KRAS' present,225,the ras mutation status predicts survival in patients undergoing hepatic resection for colorectal liver metastases the results from a geneti,M
+Liver Cancer,KRAS,26038887,random,kras,C,M,,symbol 'KRAS' present,301,association between specific mutations in kras codon 12 and colorectal liver metastasis,M
+Liver Cancer,KRAS,28000889,random,kras,C,M,target,symbol 'KRAS' present,390,high concordance rate of kras braf mutations and msi-h between primary colorectal cancer and corresponding metastases,M
+Liver Cancer,KRAS,28570009,random,kras,C,M,,symbol 'KRAS' present,398,mucinous cystic neoplasms of the liver and pancreas relationship between kras driver mutations and disease progression,M
+Liver Cancer,KRAS,29409955,random,kras,C,M,,symbol 'KRAS' present,417,kras and 2 rare pi3kca mutations coexisting in a metastatic colorectal cancer patient with aggressive and resistant disease,M
+Liver Cancer,KRAS,32605718,random,kras,C,M,,symbol 'KRAS' present,481,kras g12c metastatic colorectal cancer specific features of a new emerging target population,M
+Liver Cancer,KRAS,41630031,random,kras,C,M,target,symbol 'KRAS' present,619,akr1b10 reprograms neutrophils by histone lactylation to foster immune evasion in kras g12c mutation colorectal cancer liver metastasis,M
+Liver Cancer,KRAS,21303542,random,kras,C,M,,symbol 'KRAS' present,627,mutational profiling reveals pik3ca mutations in gallbladder carcinoma,M
+Liver Cancer,KRAS,29032374,random,kras,C,M,,symbol 'KRAS' present,676,the alpps approach for colorectal liver metastases impact of kras mutation status in survival,M
+Liver Cancer,KRAS,25314637,random,kras,C,M,target,symbol 'KRAS' present,680,kras mutation testing of tumours in adults with metastatic colorectal cancer a systematic review and cost-effectiveness analysis,M
+Liver Cancer,KRAS,40928118,random,kras,C,M,,symbol 'KRAS' present,722,the specific genomic alterations and molecular mechanisms of liver metastases in patients with lung adenocarcinoma,M
+Liver Cancer,KRAS,26695526,random,kras,C,ML,,symbol 'KRAS' present,734,role of race in oncogenic driver prevalence and outcomes in lung adenocarcinoma results from the lung cancer mutation consortium,ML
+Liver Cancer,KRAS,24863535,random,kras,C,P,,symbol 'KRAS' present,759,clinical impact of c-met expression and genetic mutational status in colorectal cancer patients after liver resection,P
+Liver Cancer,KRAS,28068936,random,kras,C,M,,symbol 'KRAS' present,818,retrospective study of ras pik3ca braf tumor mutations as predictors of response to first-line chemotherapy with bevacizumab in metastatic c,M
+Liver Cancer,KRAS,40342004,random,kras,C,M,,symbol 'KRAS' present,833,predictive factors for chemotherapy response in colorectal liver metastasis a retrospective study utilizing next-generation sequencing,M
+Liver Cancer,KRAS,30231850,random,kras,C,ML,,symbol 'KRAS' present,841,exome scale map of genetic alterations promoting metastasis in colorectal cancer,ML
+Liver Cancer,KRAS,28314739,random,kras,C,M,,symbol 'KRAS' present,849,intratumorous heterogeneity for ras mutations in a treatment-naive colorectal tumour,M
+Liver Cancer,KRAS,31917104,random,kras,C,ML,,symbol 'KRAS' present,857,rapid progressive lung cancers harbouring multiple clonal driver mutations with big bang evolution model,ML
+Liver Cancer,KRAS,34403504,random,kras,C,P,,symbol 'KRAS' present,861,cross-platform comparison of next-generation sequencing and matrix-assisted laser desorption ionization time-of-flight mass spectrometry for,P
+Liver Cancer,KRAS,24139215,random,kras,C,M,,symbol 'KRAS' present,862,the frequency of kras and braf mutations in intrahepatic cholangiocarcinomas and their correlation with clinical outcome,M
+Liver Cancer,KRAS,39147970,random,kras,C,M,,symbol 'KRAS' present,905,an in vivo metastasis model using genotype-defined tumor organoids,M
+Liver Cancer,KRAS,42688229,random,kras,C,M,,symbol 'KRAS' present,927,unlocking her2 as a target in kras-mutated rectal cancer a case of significant response to zanidatamab-based regimen,M
+Liver Cancer,KRAS,30979646,random,kras,C,M,,symbol 'KRAS' present,966,kras mutational status impacts pathologic response to pre-hepatectomy chemotherapy a study from the international genetic consortium for liv,M
+Liver Cancer,KRAS,28216246,random,kras,C,M,,symbol 'KRAS' present,972,effect of kras and braf mutations on survival of metastatic colorectal cancer after liver resection a systematic review and meta-analysis,M
+Liver Cancer,KRAS,25526346,random,kras,C,M,,symbol 'KRAS' present,973,mutational landscape of intrahepatic cholangiocarcinoma,M
+Liver Cancer,KRAS,22221894,random,kras,C,I,,symbol 'KRAS' present,997,mutant hras g12v and kras g12d have overlapping but non-identical effects on hepatocyte growth and transformation frequency in transgenic mi,I
+Liver Cancer,TP53,37968991,random,tp53,C,M,,symbol 'TP53' present,71,hepatocellular carcinomas with concomitant mutations of tert tp53 and ctnnb1 is there a role for artificial intelligence,M
+Liver Cancer,TP53,33097857,random,tp53,C,G,,symbol 'TP53' present,79,mutations in circulating tumor dna predict primary resistance to systemic therapies in advanced hepatocellular carcinoma,G
+Liver Cancer,TP53,26109429,random,tp53,C,M,,symbol 'TP53' present,121,genome-wide mutation profiles of colorectal tumors and associated liver metastases at the exome and transcriptome levels,M
+Liver Cancer,TP53,24349281,random,tp53,C,M,,symbol 'TP53' present,163,mutation inactivation of nijmegen breakage syndrome gene nbs1 in hepatocellular carcinoma and intrahepatic cholangiocarcinoma,M
+Liver Cancer,TP53,23886144,random,tp53,C,M,,symbol 'TP53' present,195,hepatitis b virus genetic variation and tp53 r249s mutation in patients with hepatocellular carcinoma in thailand,M
+Liver Cancer,TP53,36960537,random,tp53,C,M,target,symbol 'TP53' present,196,evaluation of radiation sensitivity differences in mouse liver tumor organoids using crispr cas9-mediated gene mutation,M
+Liver Cancer,TP53,37735836,random,tp53,C,I,,symbol 'TP53' present,198,chb patients with rta181t-mutated hbv infection are associated with higher risk hepatocellular carcinoma due to increases in mutation rates ,I
+Liver Cancer,TP53,26474454,random,tp53,C,M,,symbol 'TP53' present,209,phospholipase c gamma 1 plcg1 r707q mutation is counterselected under targeted therapy in a patient with hepatic angiosarcoma,M
+Liver Cancer,TP53,34725784,random,tp53,C,M,,symbol 'TP53' present,245,neither surgical margin status nor somatic mutation predicts local recurrence after r0-intent resection for colorectal liver metastases,M
+Liver Cancer,TP53,17259658,random,tp53,C,M,,symbol 'TP53' present,286,mutations in tp53 are a prognostic factor in colorectal hepatic metastases undergoing surgical resection,M
+Liver Cancer,TP53,35679752,random,tp53,C,M,,symbol 'TP53' present,371,tp53 mutation is enriched in colorectal cancer liver metastasis in the context of polyclonal seeding,M
+Liver Cancer,TP53,26553052,random,tp53,C,M,,symbol 'TP53' present,375,comprehensive analyses of mutations and hepatitis b virus integration in hepatocellular carcinoma with clinicopathological features,M
+Liver Cancer,TP53,32229792,random,tp53,C,M,,symbol 'TP53' present,392,prognostic value of tp53 mutation for transcatheter arterial chemoembolization failure refractoriness in hbv-related advanced hepatocellular,M
+Liver Cancer,TP53,30070724,random,tp53|tumor protein p53,C,M,,symbol 'TP53' present,407,androgen receptor enhances hepatic telomerase reverse transcriptase gene transcription after hepatitis b virus integration or point mutation,M
+Liver Cancer,TP53,25609485,random,tp53,C,M,,symbol 'TP53' present,476,functional tp53 mutations have no impact on response to cytotoxic agents in metastatic colon cancer,M
+Liver Cancer,TP53,37774068,random,tp53,C,M,,symbol 'TP53' present,479,low frequency of aflatoxin induced tp53 gene codon 249 mutation in hepatocellular carcinoma from egyptian patients living in the nile delta ,M
+Liver Cancer,TP53,27246981,random,tp53,C,M,,symbol 'TP53' present,518,differences in somatic mutation landscape of hepatocellular carcinoma in asian american and european american populations,M
+Liver Cancer,TP53,34592239,random,tp53,C,M,,symbol 'TP53' present,544,morphological heterogeneity in beta-catenin-mutated hepatocellular carcinomas implications for tumor molecular classification,M
+Liver Cancer,TP53,12939742,random,tp53,C,P,,symbol 'TP53' present,572,there is no increase in frequency of somatic mutations in metastases compared with primary colorectal carcinomas with microsatellite instabi,P
+Liver Cancer,TP53,38670592,random,tp53,C,M,,symbol 'TP53' present,577,genetic analyses of primary liver cancer cell lines correspondence with morphological features of original tumors,M
+Liver Cancer,TP53,27528217,random,tp53,C,M,,symbol 'TP53' present,595,targeted sequencing reveals tp53 as a potential diagnostic biomarker in the post-treatment surveillance of head and neck cancer,M
+Liver Cancer,TP53,41661474,random,tp53,C,M,,symbol 'TP53' present,598,analysis of genetic mutation characteristics in 40 chinese patients with hepatocellular carcinoma,M
+Liver Cancer,TP53,25822088,random,tp53,C,ML,,symbol 'TP53' present,625,exome sequencing of hepatocellular carcinomas identifies new mutational signatures and potential therapeutic targets,ML
+Liver Cancer,TP53,33351476,random,tp53,C,M,,symbol 'TP53' present,633,ras tp53 co-mutation is associated with worse survival after concurrent resection of colorectal liver metastases and extrahepatic disease,M
+Liver Cancer,TP53,33221766,random,tp53,C,M,,symbol 'TP53' present,635,integrative analysis reveals novel driver genes and molecular subclasses of hepatocellular carcinoma,M
+Liver Cancer,TP53,34299031,random,tp53,C,I,,symbol 'TP53' present,636,somatic mutations in circulating cell-free dna and risk for hepatocellular carcinoma in hispanics,I
+Liver Cancer,TP53,23830926,random,tp53,C,ML,,symbol 'TP53' present,638,somatic changes in primary liver cancer in russia a pilot study,ML
+Liver Cancer,TP53,25526364,random,tp53,C,I,,symbol 'TP53' present,644,integrated analysis of whole genome and transcriptome sequencing reveals diverse transcriptomic aberrations driven by somatic genomic change,I
+Liver Cancer,TP53,39587687,random,tp53,C,M,,symbol 'TP53' present,650,integration of single-cell sequencing and drug sensitivity profiling reveals an 11-gene prognostic model for liver cancer,M
+Liver Cancer,TP53,28949453,random,tp53,C,ML,,symbol 'TP53' present,674,somatic mutation detection using various targeted detection assays in paired samples of circulating tumor dna primary tumor and metastases f,ML
+Liver Cancer,TP53,33325154,random,tp53,C,M,,symbol 'TP53' present,677,genomic and prognostic heterogeneity among ras braf v600e tp53 co-mutated resectable colorectal liver metastases,M
+Liver Cancer,TP53,24599305,random,tp53,C,ML,,symbol 'TP53' present,743,comparative genomic analysis of primary and synchronous metastatic colorectal cancers,ML
+Liver Cancer,TP53,40945619,random,tp53,C,M,,symbol 'TP53' present,823,undifferentiated embryonal sarcoma of the liver a clinicopathological and genomic study of 10 cases from a single institution,M
+Liver Cancer,TP53,11793443,random,tp53,C,M,,symbol 'TP53' present,879,discordance of genetic alterations between primary head and neck tumors and corresponding metastases associated with mutational status of th,M
+Liver Cancer,TP53,34840594,random,tp53,C,M,,symbol 'TP53' present,889,identification of mutator-derived lncrna signatures of genomic instability for promoting the clinical outcome in hepatocellular carcinoma,M
+Liver Cancer,TP53,25502816,random,tp53,C,G,,symbol 'TP53' present,911,a peculiar mutation spectrum emerging from young peruvian patients with hepatocellular carcinoma,G
+Liver Cancer,TP53,27634656,random,tp53,C,M,,symbol 'TP53' present,916,mutational landscape of combined hepatocellular carcinoma and cholangiocarcinoma and its clinicopathological significance,M
+Liver Cancer,TP53,42601689,random,tp53,C,M,,symbol 'TP53' present,932,a novel adrenomedullin receptor signaling-based prognostic model predicts immunosuppressive microenvironment and informs therapeutic stratif,M
+Liver Cancer,TP53,25526346,random,tp53,C,I,,symbol 'TP53' present,973,mutational landscape of intrahepatic cholangiocarcinoma,I
+Liver Cancer,TP53,28532995,random,tp53,C,M,,symbol 'TP53' present,984,histological subtypes of hepatocellular carcinoma are related to gene mutations and molecular tumour classification,M
+Liver Cancer,CTNNB1,16121349,targeted,beta catenin,C,M,,credited via alias beta catenin,22,beta-catenin mutations and expression 249serine p53 tumor suppressor gene mutation and hepatitis b virus infection in southern african black,M
+Liver Cancer,CTNNB1,18282277,targeted,beta catenin,C,M,,credited via alias beta catenin,40,correlation between beta-catenin mutations and expression of wnt-signaling target genes in hepatocellular carcinoma,M
+Liver Cancer,CTNNB1,18720004,targeted,beta catenin,C,M,,credited via alias beta catenin,53,mutational analysis of wtx gene in wnt beta-catenin pathway in gastric colorectal and hepatocellular carcinomas,M
+Liver Cancer,CTNNB1,40650279,random,ctnnb1,C,M,,symbol 'CTNNB1' present,87,high prevalence of tert and ctnnb1 mutations in brazilian hcc tissues insights into early detection and risk stratification,M
+Liver Cancer,CTNNB1,25012536,random,ctnnb1,C,M,,symbol 'CTNNB1' present,123,-catenin ctnnb1 mutations are not associated with prognosis in advanced hepatocellular carcinoma,M
+Liver Cancer,CTNNB1,28012864,random,ctnnb1,C,M,,symbol 'CTNNB1' present,128,germline and somatic dicer1 mutations in familial and sporadic liver tumors,M
+Liver Cancer,CTNNB1,10980116,random+targeted,beta catenin,C,M,,credited via alias beta catenin,131,beta-catenin mutations are associated with a subset of low-stage hepatocellular carcinoma negative for hepatitis b virus and with favorable ,M
+Liver Cancer,CTNNB1,21615622,random,ctnnb1,C,M,,symbol 'CTNNB1' present,138,expression of slco1b3 is associated with intratumoral cholestasis and ctnnb1 mutations in hepatocellular carcinoma,M
+Liver Cancer,CTNNB1,17393110,targeted,beta catenin,C,M,,credited via alias beta catenin,176,pin1 gene overexpression and beta-catenin gene mutation expression in hepatocellular carcinoma and their significance,M
+Liver Cancer,CTNNB1,17487939,targeted,beta catenin,C,M,,credited via alias beta catenin,185,cholestasis is a marker for hepatocellular carcinomas displaying beta-catenin mutations,M
+Liver Cancer,CTNNB1,40344393,random,ctnnb1,C,M,,symbol 'CTNNB1' present,213,high-frequency mutations in tp53 axin1 ctnnb1 and kras and polymorphisms in jak1 genes among mongolian hcc patients,M
+Liver Cancer,CTNNB1,11443619,targeted,beta catenin,C,M,,credited via alias beta catenin,218,beta-catenin mutation and overexpression in hepatocellular carcinoma clinicopathologic and prognostic significance,M
+Liver Cancer,CTNNB1,10811985,random+targeted,beta catenin,C,M,,credited via alias beta catenin,238,beta-catenin mutations are absent in hepatocellular carcinomas of sv40 t-antigen transgenic mice,M
+Liver Cancer,CTNNB1,11429783,random,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,265,ctnnb1 mutations and beta-catenin protein accumulation in human hepatocellular carcinomas associated with high exposure to aflatoxin b1,M
+Liver Cancer,CTNNB1,15814635,targeted,beta catenin,C,M,,credited via alias beta catenin,267,opposite roles of human pancreatitis-associated protein and reg1a expression in hepatocellular carcinoma association of pancreatitis-associa,M
+Liver Cancer,CTNNB1,16012713,targeted,beta catenin,C,M,,credited via alias beta catenin,308,suppression of beta-catenin mutation by dietary exposure of auraptene a citrus antioxidant in n n-diethylnitrosamine-induced hepatocellular ,M
+Liver Cancer,CTNNB1,24633315,random,ctnnb1,C,M,,symbol 'CTNNB1' present,310,genome-wide transcriptional sequencing identifies novel mutations in metabolic genes in human hepatocellular carcinoma,M
+Liver Cancer,CTNNB1,38497929,random+targeted,catenin beta 1,C,M,,credited via alias catenin beta 1,311,therapeutic targeting at genome mutations of liver cancer by the insertion of hsv1 thymidine kinase through cas9-mediated editing,M
+Liver Cancer,CTNNB1,29079173,random,ctnnb1,C,M,target,symbol 'CTNNB1' present,351,general paucity of genomic alteration and low tumor mutation burden in refractory and metastatic hepatoblastoma comprehensive genomic profil,M
+Liver Cancer,CTNNB1,15067328,targeted,beta catenin,C,M,,credited via alias beta catenin,366,immunohistochemical analysis and mutational analyses of beta-catenin axin family and apc genes in hepatocellular carcinomas,M
+Liver Cancer,CTNNB1,11477549,targeted,beta catenin,C,M,,credited via alias beta catenin,408,tumor heterogeneity in small hepatocellular carcinoma analysis of tumor cell proliferation expression and mutation of p53 and beta-catenin,M
+Liver Cancer,CTNNB1,38760594,random,ctnnb1,C,I,,symbol 'CTNNB1' present,418,beyond histology a tissue algorithm predictive of post-surgical recurrence in hepatocellular carcinomas including tert promoter mutation,I
+Liver Cancer,CTNNB1,10850429,random+targeted,beta catenin,C,M,,credited via alias beta catenin,466,beta-catenin mutations and protein accumulation in all hepatoblastomas examined from b6c3f1 mice treated with anthraquinone or oxazepam,M
+Liver Cancer,CTNNB1,33560657,random,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,486,predictive patterns of glutamine synthetase immunohistochemical staining in ctnnb1-mutated hepatocellular adenomas,M
+Liver Cancer,CTNNB1,12893427,targeted,beta catenin,C,M,,credited via alias beta catenin,487,beta-catenin mutations in liver tumors induced by 2-amino-3 4-dimethylimidazo 4 5-f quinoline in cdf1 mice,M
+Liver Cancer,CTNNB1,27511114,random,ctnnb1,C,ML,,symbol 'CTNNB1' present,499,tert promoter mutations and chromosome 8p loss are characteristic of nonalcoholic fatty liver disease-related hepatocellular carcinoma,ML
+Liver Cancer,CTNNB1,15538750,random+targeted,beta catenin,C,M,,credited via alias beta catenin,500,mutations and elevated transcriptional activity of conductin axin2 in hepatoblastomas,M
+Liver Cancer,CTNNB1,14729607,targeted,beta catenin,C,M,,credited via alias beta catenin,506,hepatocarcinogenesis in mice with beta-catenin and ha-ras gene mutations,M
+Liver Cancer,CTNNB1,34238242,random,ctnnb1,C,I,,symbol 'CTNNB1' present,533,genetic expression and mutational profile analysis in different pathologic stages of hepatocellular carcinoma patients,I
+Liver Cancer,CTNNB1,34592239,random,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,544,morphological heterogeneity in beta-catenin-mutated hepatocellular carcinomas implications for tumor molecular classification,M
+Liver Cancer,CTNNB1,12601349,targeted,beta catenin,C,M,,credited via alias beta catenin,547,overexpression of orphan g-protein-coupled receptor gpr49 in human hepatocellular carcinomas with beta-catenin mutations,M
+Liver Cancer,CTNNB1,18358501,random+targeted,beta catenin,C,M,,credited via alias beta catenin,548,large-scale analysis of the genetic and epigenetic alterations in hepatocellular carcinoma from southeast china,M
+Liver Cancer,CTNNB1,12878043,random+targeted,beta catenin,C,M,,credited via alias beta catenin,557,expression of potential beta-catenin targets cyclin d1 c-jun c-myc e-cadherin and egfr in chemically induced hepatocellular neoplasms from b,M
+Liver Cancer,CTNNB1,38670592,random,ctnnb1,C,ML,,symbol 'CTNNB1' present,577,genetic analyses of primary liver cancer cell lines correspondence with morphological features of original tumors,ML
+Liver Cancer,CTNNB1,15698401,targeted,beta catenin,C,M,,credited via alias beta catenin,609,mutations of beta-catenin and axin i genes are a late event in human hepatocellular carcinogenesis,M
+Liver Cancer,CTNNB1,21992464,random,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,623,hgf c-met related activation of -catenin in hepatoblastoma,M
+Liver Cancer,CTNNB1,34299031,random,ctnnb1,C,I,,symbol 'CTNNB1' present,636,somatic mutations in circulating cell-free dna and risk for hepatocellular carcinoma in hispanics,I
+Liver Cancer,CTNNB1,23830926,random,ctnnb1,C,I,,symbol 'CTNNB1' present,638,somatic changes in primary liver cancer in russia a pilot study,I
+Liver Cancer,CTNNB1,12375019,targeted,beta catenin,C,M,,credited via alias beta catenin,642,beta-catenin and cyclin d1 expression in human hepatocellular carcinoma,M
+Liver Cancer,CTNNB1,12297840,targeted,beta catenin,C,M,,credited via alias beta catenin,653,p53 gene and wnt signaling in benign neoplasms beta-catenin mutations in hepatic adenoma but not in focal nodular hyperplasia,M
+Liver Cancer,CTNNB1,18171349,targeted,beta catenin,C,M,,credited via alias beta catenin,675,genetic alterations of wnt signaling pathway-associated genes in hepatocellular carcinoma,M
+Liver Cancer,CTNNB1,40489756,random,ctnnb1,C,M,,symbol 'CTNNB1' present,685,mechanisms of tumor heterogeneity in tace-resistant liver cancer insights from single-cell and whole-exome sequencing,M
+Liver Cancer,CTNNB1,15471898,targeted,beta catenin,C,M,,credited via alias beta catenin,701,a beta-catenin-dependent pathway regulates expression of cytochrome p450 isoforms in mouse liver tumors,M
+Liver Cancer,CTNNB1,40493177,random,catenin beta 1|ctnnb1,C,M,,symbol 'CTNNB1' present,703,ct and mri features of catenin beta 1-mutated hepatocellular carcinoma in a western cohort,M
+Liver Cancer,CTNNB1,33125945,random,ctnnb1,C,M,,symbol 'CTNNB1' present,715,a combined clinical and biological risk classification improves prediction of outcome in hepatoblastoma patients,M
+Liver Cancer,CTNNB1,35636578,random,ctnnb1,C,M,,symbol 'CTNNB1' present,746,bi-allelic hydroxymethylbilane synthase inactivation defines a homogenous clinico-molecular subtype of hepatocellular carcinoma,M
+Liver Cancer,CTNNB1,37872280,targeted,beta catenin|catenin beta 1,C,M,,credited via alias beta catenin|catenin beta 1,754,integrated genotype-phenotype analysis of familial adenomatous polyposis-associated hepatocellular adenomas,M
+Liver Cancer,CTNNB1,34488461,random+targeted,beta catenin,C,M,,credited via alias beta catenin,773,pediatric metastatic hepatoblastoma with an arid1a mutation and rhabdoid cells,M
+Liver Cancer,CTNNB1,39097802,random,ctnnb1,C,ML,,symbol 'CTNNB1' present,789,the utility of next-generation sequencing in challenging liver fna biopsies,ML
+Liver Cancer,CTNNB1,27984126,random,ctnnb1,C,ML,,symbol 'CTNNB1' present,792,malignant transformation of a -catenin inflammatory adenoma due to an s45 -catenin-activating mutation present 12 years before,ML
+Liver Cancer,CTNNB1,36634747,random,ctnnb1,C,I,,symbol 'CTNNB1' present,793,genomic landscape of chinese patients with hepatocellular carcinoma using next-generation sequencing and its association with the prognosis,I
+Liver Cancer,CTNNB1,12663502,targeted,beta catenin,C,M,,credited via alias beta catenin,804,cyclin d1 over-expression correlates with beta-catenin activation but not with h-ras mutations and phosphorylation of akt gsk3 beta and erk1,M
+Liver Cancer,CTNNB1,17187432,targeted,beta catenin,C,M,,credited via alias beta catenin,826,transcriptome classification of hcc is related to gene alterations and to new therapeutic targets,M
+Liver Cancer,CTNNB1,29950351,random,ctnnb1,C,I,,symbol 'CTNNB1' present,827,phase ii studies with refametinib or refametinib plus sorafenib in patients with ras -mutated hepatocellular carcinoma,I
+Liver Cancer,CTNNB1,39047713,random,ctnnb1,C,M,,symbol 'CTNNB1' present,835,changes in mutations of cell-free dna and liver tumor tissue in patients with advanced hepatocellular carcinoma before and after introductio,M
+Liver Cancer,CTNNB1,11570580,targeted,beta catenin,C,M,,credited via alias beta catenin,837,mutation and overexpression of the beta-catenin gene may play an important role in primary hepatocellular carcinoma among chinese people,M
+Liver Cancer,CTNNB1,38825709,random,ctnnb1,C,ML,,symbol 'CTNNB1' present,840,genomic profiling informs therapies and prognosis for patients with hepatocellular carcinoma in clinical practice,ML
+Liver Cancer,CTNNB1,12378619,targeted,beta catenin,C,W,,credited via alias beta catenin,847,association of htcf-4 gene expression and mutation with clinicopathological characteristics of hepatocellular carcinoma,W
+Liver Cancer,CTNNB1,12101426,targeted,beta catenin,C,M,,credited via alias beta catenin,854,mutational spectrum of beta-catenin axin1 and axin2 in hepatocellular carcinomas and hepatoblastomas,M
+Liver Cancer,CTNNB1,11753661,targeted,beta catenin,C,M,,credited via alias beta catenin,875,selective pressure during tumor promotion by phenobarbital leads to clonal outgrowth of beta-catenin-mutated mouse liver tumors,M
+Liver Cancer,CTNNB1,10754205,random+targeted,beta catenin,C,M,,credited via alias beta catenin,900,somatic mutations of beta-catenin play a crucial role in the tumorigenesis of sporadic hepatoblastoma,M
+Liver Cancer,CTNNB1,18467159,targeted,beta catenin,C,M,,credited via alias beta catenin,901,chromosome instability in human hepatocellular carcinoma depends on p53 status and aflatoxin exposure,M
+Liver Cancer,CTNNB1,34777372,random,ctnnb1,C,W,,symbol 'CTNNB1' present,908,ctnnb1 alternation is a potential biomarker for immunotherapy prognosis in patients with hepatocellular carcinoma,W
+Liver Cancer,CTNNB1,42165897,random,ctnnb1,C,M,,symbol 'CTNNB1' present,937,arf6 promotes the nuclear translocation of -catenin to facilitate afp deficiency-mediated metastasis in ctnnb1 s33y -mutant hepatocellular c,M
+Liver Cancer,CTNNB1,12198663,targeted,beta catenin,C,M,,credited via alias beta catenin,940,altered expression of e-cadherin in hepatocellular carcinoma correlations with genetic alterations beta-catenin expression and clinical feat,M
+Liver Cancer,CTNNB1,37733676,random,catenin beta 1|ctnnb1,C,M,,symbol 'CTNNB1' present,947,prognostic significance of ctnnb1 mutation in hepatocellular carcinoma a systematic review and meta-analysis,M
+Liver Cancer,CTNNB1,31597698,random,ctnnb1,C,M,,symbol 'CTNNB1' present,956,-catenin mutations as determinants of hepatoblastoma phenotypes in mice,M
+Liver Cancer,CTNNB1,14642737,targeted,beta catenin,C,M,,credited via alias beta catenin,964,genetic alterations in the catnb gene but not the h-ras gene in hepatocellular neoplasms and hepatoblastomas of b6c3f 1 mice following expos,M
+Liver Cancer,CTNNB1,12603528,targeted,beta catenin,C,M,,credited via alias beta catenin,968,wnt signaling in hepatocellular carcinoma analysis of mutation and expression of beta-catenin t-cell factor-4 and glycogen synthase kinase 3,M
+Liver Cancer,BRAF,26991344,random,braf,C,M,,symbol 'BRAF' present,2,impact of kras braf pik3ca tp53 status and intraindividual mutation heterogeneity on outcome after liver resection for colorectal cancer met,M
+Liver Cancer,BRAF,26887348,random,braf,C,M,,symbol 'BRAF' present,27,the impact of kras mutations on prognosis in surgically resected colorectal cancer patients with liver and lung metastases a retrospective a,M
+Liver Cancer,BRAF,27255157,random,braf,C,M,,symbol 'BRAF' present,37,dabrafenib in an elderly patient with metastatic melanoma and braf v600r mutation a case report,M
+Liver Cancer,BRAF,23765179,random,braf,C,ML,target,symbol 'BRAF' present,44,epidermal growth factor receptor egfr and kras mutations during chemotherapy plus anti-egfr monoclonal antibody treatment in metastatic colo,ML
+Liver Cancer,BRAF,31221662,random,braf,C,ML,,symbol 'BRAF' present,86,mutation status of ras tp53 and smad4 is superior to mutation status of ras alone for predicting prognosis after resection of colorectal liv,ML
+Liver Cancer,BRAF,24798046,random,braf,C,ML,,symbol 'BRAF' present,88,transcriptomic characterization of hepatocellular carcinoma with ctnnb1 mutation,ML
+Liver Cancer,BRAF,32373219,random,braf,C,I,,symbol 'BRAF' present,100,targeted sequencing reveals the mutational landscape responsible for sorafenib therapy in advanced hepatocellular carcinoma,I
+Liver Cancer,BRAF,29799910,random,braf,C,M,,symbol 'BRAF' present,129,association of braf mutations with survival and recurrence in surgically treated patients with metastatic colorectal liver cancer,M
+Liver Cancer,BRAF,21671463,random,braf,C,ML,target,symbol 'BRAF' present,150,the status of egfr-associated genes could predict the outcome and tumor response of chemo-refractory metastatic colorectal patients using ce,ML
+Liver Cancer,BRAF,23233388,random,braf,C,M,,symbol 'BRAF' present,203,kras and braf mutation status in circulating colorectal tumor cells and their correlation with primary and metastatic tumor tissue,M
+Liver Cancer,BRAF,38402342,random,braf,C,M,,symbol 'BRAF' present,230,fluoropyrimidine type patient age tumour sidedness and mutation status as determinants of benefit in patients with metastatic colorectal can,M
+Liver Cancer,BRAF,32638211,random,braf,C,M,,symbol 'BRAF' present,231,diagnostic and prognostic value of a 7-panel mutation testing in thyroid nodules with indeterminate cytology the sweetmac study,M
+Liver Cancer,BRAF,27864688,random,braf,C,M,,symbol 'BRAF' present,244,detection of mutations in the braf gene in patients with kit and pdgfra wild-type gastrointestinal stromal tumors,M
+Liver Cancer,BRAF,41532624,random,braf,C,M,,symbol 'BRAF' present,315,braf mutation drives early multifocal intrahepatic recurrence after curative resection of liver-limited colorectal metastases,M
+Liver Cancer,BRAF,38862093,random,braf,C,M,,symbol 'BRAF' present,327,comparison of genomic profiling of patient-matched primary colorectal and surgical resected distant metastatic stage iv colorectal carcinoma,M
+Liver Cancer,BRAF,30171333,random,braf,C,M,,symbol 'BRAF' present,328,the gene mutational discrepancies between primary and paired metastatic colorectal carcinoma detected by next-generation sequencing,M
+Liver Cancer,BRAF,28000889,random,braf,C,M,,symbol 'BRAF' present,390,high concordance rate of kras braf mutations and msi-h between primary colorectal cancer and corresponding metastases,M
+Liver Cancer,BRAF,27956538,random,braf,C,M,,symbol 'BRAF' present,461,differential radiographic appearance of braf v600e-mutant metastatic colorectal cancer in patients matched by primary tumor location,M
+Liver Cancer,BRAF,28463756,random,braf,C,M,target,symbol 'BRAF' present,474,impact of braf and ras mutations on first-line efficacy of folfiri plus cetuximab versus folfiri plus bevacizumab analysis of the fire-3 aio,M
+Liver Cancer,BRAF,25609485,random,braf,C,M,,symbol 'BRAF' present,476,functional tp53 mutations have no impact on response to cytotoxic agents in metastatic colon cancer,M
+Liver Cancer,BRAF,38814411,random,braf,C,M,,symbol 'BRAF' present,522,prolonged response to dabrafenib trametinib in grade 3 metastatic pancreatic neuroendocrine tumor net g3 with braf v600e mutation,M
+Liver Cancer,BRAF,29937183,random,braf,C,M,,symbol 'BRAF' present,590,clinical significance and prognostic relevance of kras braf pi3k and tp53 genetic mutation analysis for resectable and unresectable colorect,M
+Liver Cancer,BRAF,27253992,random,braf,C,M,,symbol 'BRAF' present,637,role of the brafv637e mutation in hepatocarcinogenesis induced by treatment with diethylnitrosamine in neonatal b6c3f1 mice,M
+Liver Cancer,BRAF,23027075,random,braf,C,M,,symbol 'BRAF' present,668,kras status and outcome of liver resection after neoadjuvant chemotherapy including bevacizumab,M
+Liver Cancer,BRAF,33325154,random,braf,C,M,,symbol 'BRAF' present,677,genomic and prognostic heterogeneity among ras braf v600e tp53 co-mutated resectable colorectal liver metastases,M
+Liver Cancer,BRAF,34544580,random,braf,C,M,,symbol 'BRAF' present,720,reevaluating the prognostic role of braf mutation in colorectal cancer liver metastases,M
+Liver Cancer,BRAF,26695526,random,braf,C,G,,symbol 'BRAF' present,734,role of race in oncogenic driver prevalence and outcomes in lung adenocarcinoma results from the lung cancer mutation consortium,G
+Liver Cancer,BRAF,37526097,random,braf,C,M,,symbol 'BRAF' present,742,anatomical resection improves relapse-free survival in colorectal liver metastases in patients with kras nras braf mutations or right-sided ,M
+Liver Cancer,BRAF,32530992,random,braf,C,M,,symbol 'BRAF' present,772,the coexistence of ras and braf mutations in metastatic colorectal cancer a case report and systematic literature review,M
+Liver Cancer,BRAF,33300106,random,braf,C,I,,symbol 'BRAF' present,796,biomarker alterations associated with distinct patterns of metastatic spread in colorectal cancer,I
+Liver Cancer,BRAF,17567882,random,braf,C,M,,symbol 'BRAF' present,813,hepatoblastoma and heart transplantation in a patient with cardio-facio-cutaneous syndrome,M
+Liver Cancer,BRAF,30843125,random,braf,C,M,,symbol 'BRAF' present,815,a clinical trial of somatic and germline analyses for healthy longevity in a postoperative cancer patient,M
+Liver Cancer,BRAF,28068936,random,braf,C,M,target,symbol 'BRAF' present,818,retrospective study of ras pik3ca braf tumor mutations as predictors of response to first-line chemotherapy with bevacizumab in metastatic c,M
+Liver Cancer,BRAF,24806288,random,braf,C,M,,symbol 'BRAF' present,824,role of nras mutations as prognostic and predictive markers in metastatic colorectal cancer,M
+Liver Cancer,BRAF,23046118,random,braf,C,ML,,symbol 'BRAF' present,855,recurrent nodules in a periauricular plaque-type blue nevus with fatal outcome,ML
+Liver Cancer,BRAF,24139215,random,braf,C,M,,symbol 'BRAF' present,862,the frequency of kras and braf mutations in intrahepatic cholangiocarcinomas and their correlation with clinical outcome,M
+Liver Cancer,BRAF,29307628,random,braf,C,M,,symbol 'BRAF' present,926,genomic heterogeneity in primary colorectal carcinomas and their metastases born bad or brought up a villain,M
+Liver Cancer,BRAF,29995686,random,braf,C,M,,symbol 'BRAF' present,951,is hepatectomy justified for braf mutant colorectal liver metastases a multi-institutional analysis of 1497 patients,M
+Liver Cancer,BRAF,28216246,random,braf,C,M,,symbol 'BRAF' present,972,effect of kras and braf mutations on survival of metastatic colorectal cancer after liver resection a systematic review and meta-analysis,M
+Liver Cancer,BRAF,31634180,random,braf,C,I,,symbol 'BRAF' present,980,extended molecular profiling improves stratification and prediction of survival after resection of colorectal liver metastases,I
+Liver Cancer,NRAS,24968756,all,nras,C,ML,,symbol 'NRAS' present,3,phase ii trial of cetuximab plus irinotecan for oxaliplatin- and irinotecan-based chemotherapy-refractory patients with advanced and or meta,ML
+Liver Cancer,NRAS,39377605,all,nras,C,M,,symbol 'NRAS' present,4,association of various ras codon mutations and prognostic outcomes of patients with colorectal liver metastases after hepatectomy,M
+Liver Cancer,NRAS,21239505,all,nras,C,ML,,symbol 'NRAS' present,8,kras mutation is associated with lung metastasis in patients with curatively resected colorectal cancer,ML
+Liver Cancer,NRAS,32683635,all,nras,C,M,,symbol 'NRAS' present,20,association of ras mutation location and oncologic outcomes after resection of colorectal liver metastases,M
+Liver Cancer,NRAS,28206962,all,nras,C,ML,,symbol 'NRAS' present,26,pi3k pathway mutations are associated with longer time to local progression after radioembolization of colorectal liver metastases,ML
+Liver Cancer,NRAS,25666295,all,nras,C,I,,symbol 'NRAS' present,36,folfox4 plus cetuximab for patients with previously untreated metastatic colorectal cancer according to tumor ras and braf mutation status u,I
+Liver Cancer,NRAS,31982351,all,nras,C,M,,symbol 'NRAS' present,45,high concordance and negative prognostic impact of ras braf pik3ca mutations in multiple resected colorectal liver metastases,M
+Liver Cancer,NRAS,27737491,all,nras,C,M,,symbol 'NRAS' present,65,mutation location on the ras oncogene affects pathologic features and survival after resection of colorectal liver metastases,M
+Liver Cancer,NRAS,24798046,all,nras,C,I,,symbol 'NRAS' present,88,transcriptomic characterization of hepatocellular carcinoma with ctnnb1 mutation,I
+Liver Cancer,NRAS,24018645,all,nras,C,ML,,symbol 'NRAS' present,94,ras mutation status predicts survival and patterns of recurrence in patients undergoing hepatectomy for colorectal liver metastases,ML
+Liver Cancer,NRAS,25738220,all,nras,C,I,,symbol 'NRAS' present,126,multi-institutional oncogenic driver mutation analysis in lung adenocarcinoma the lung cancer mutation consortium experience,I
+Liver Cancer,NRAS,37735836,all,nras,C,I,,symbol 'NRAS' present,198,chb patients with rta181t-mutated hbv infection are associated with higher risk hepatocellular carcinoma due to increases in mutation rates ,I
+Liver Cancer,NRAS,42363289,all,nras,C,I,,symbol 'NRAS' present,201,identification and prognostic analysis of genes related to ctnnb1 mutations in hepatocellular carcinoma,I
+Liver Cancer,NRAS,25491172,all,nras,C,ML,,symbol 'NRAS' present,222,ras mutations affect pattern of metastatic spread and increase propensity for brain metastasis in colorectal cancer,ML
+Liver Cancer,NRAS,29194647,all,nras,C,ML,,symbol 'NRAS' present,225,the ras mutation status predicts survival in patients undergoing hepatic resection for colorectal liver metastases the results from a geneti,ML
+Liver Cancer,NRAS,38402342,all,nras,C,M,,symbol 'NRAS' present,230,fluoropyrimidine type patient age tumour sidedness and mutation status as determinants of benefit in patients with metastatic colorectal can,M
+Liver Cancer,NRAS,32961317,all,nras,C,M,,symbol 'NRAS' present,277,diagnostic strategies toward clinical implementation of liquid biopsy ras braf circulating tumor dna analyses in patients with metastatic co,M
+Liver Cancer,NRAS,27756406,all,nras,C,M,,symbol 'NRAS' present,293,spatio-temporal mutation profiles of case-matched colorectal carcinomas and their metastases reveal unique de novo mutations in metachronous,M
+Liver Cancer,NRAS,30171333,all,nras,C,M,,symbol 'NRAS' present,328,the gene mutational discrepancies between primary and paired metastatic colorectal carcinoma detected by next-generation sequencing,M
+Liver Cancer,NRAS,12385583,all,n ras,C,M,,credited via alias n ras,342,incidence of p53 and ras gene mutations in dmba-induced rat leukemias,M
+Liver Cancer,NRAS,42406708,all,nras,C,I,target,symbol 'NRAS' present,384,higher frequency of subclonal anti-egfr resistance mutations in post-treatment samples from patients with colorectal cancer liver metastases,I
+Liver Cancer,NRAS,28665451,all,n ras,C,M,,credited via alias n ras,416,discordance in ras mutations between primary colon tumor and metastases a real event or a matter of methodology,M
+Liver Cancer,NRAS,29409955,all,nras,C,I,,symbol 'NRAS' present,417,kras and 2 rare pi3kca mutations coexisting in a metastatic colorectal cancer patient with aggressive and resistant disease,I
+Liver Cancer,NRAS,31746520,all,nras,C,ML,,symbol 'NRAS' present,428,quantitative monitoring of circulating tumor dna in patients with advanced pancreatic cancer undergoing chemotherapy,ML
+Liver Cancer,NRAS,23266750,all,n ras,C,M,,credited via alias n ras,458,a rare point mutation in the ras oncogene in hepatocellular carcinoma,M
+Liver Cancer,NRAS,28463756,all,nras,C,ML,,symbol 'NRAS' present,474,impact of braf and ras mutations on first-line efficacy of folfiri plus cetuximab versus folfiri plus bevacizumab analysis of the fire-3 aio,ML
+Liver Cancer,NRAS,28787433,all,nras,C,M,,symbol 'NRAS' present,520,tumour mutation status and sites of metastasis in patients with cutaneous melanoma,M
+Liver Cancer,NRAS,26825879,all,nras,C,ML,,symbol 'NRAS' present,526,gna11 mutation in a patient with cutaneous origin melanoma a case report,ML
+Liver Cancer,NRAS,21303542,all,nras,C,ML,,symbol 'NRAS' present,627,mutational profiling reveals pik3ca mutations in gallbladder carcinoma,ML
+Liver Cancer,NRAS,23830926,all,n ras,C,I,,credited via alias n ras,638,somatic changes in primary liver cancer in russia a pilot study,I
+Liver Cancer,NRAS,33325154,all,nras,C,M,,symbol 'NRAS' present,677,genomic and prognostic heterogeneity among ras braf v600e tp53 co-mutated resectable colorectal liver metastases,M
+Liver Cancer,NRAS,26695526,all,nras,C,G,,symbol 'NRAS' present,734,role of race in oncogenic driver prevalence and outcomes in lung adenocarcinoma results from the lung cancer mutation consortium,G
+Liver Cancer,NRAS,37526097,all,nras,C,M,,symbol 'NRAS' present,742,anatomical resection improves relapse-free survival in colorectal liver metastases in patients with kras nras braf mutations or right-sided ,M
+Liver Cancer,NRAS,32530992,all,nras,C,M,,symbol 'NRAS' present,772,the coexistence of ras and braf mutations in metastatic colorectal cancer a case report and systematic literature review,M
+Liver Cancer,NRAS,33300106,all,nras,C,M,,symbol 'NRAS' present,796,biomarker alterations associated with distinct patterns of metastatic spread in colorectal cancer,M
+Liver Cancer,NRAS,28068936,all,nras,C,M,,symbol 'NRAS' present,818,retrospective study of ras pik3ca braf tumor mutations as predictors of response to first-line chemotherapy with bevacizumab in metastatic c,M
+Liver Cancer,NRAS,24806288,all,nras,C,M,target,symbol 'NRAS' present,824,role of nras mutations as prognostic and predictive markers in metastatic colorectal cancer,M
+Liver Cancer,NRAS,28314739,all,nras,C,M,,symbol 'NRAS' present,849,intratumorous heterogeneity for ras mutations in a treatment-naive colorectal tumour,M
+Liver Cancer,NRAS,23046118,all,nras,C,ML,,symbol 'NRAS' present,855,recurrent nodules in a periauricular plaque-type blue nevus with fatal outcome,ML
+Liver Cancer,NRAS,34403504,all,nras,C,P,,symbol 'NRAS' present,861,cross-platform comparison of next-generation sequencing and matrix-assisted laser desorption ionization time-of-flight mass spectrometry for,P
+Liver Cancer,NRAS,34171097,all,nras,C,I,,symbol 'NRAS' present,873,whole-genome sequencing of follicular thyroid carcinomas reveal recurrent mutations in microrna processing subunit dgcr8,I
+Liver Cancer,NRAS,25420993,all,nras,C,I,,symbol 'NRAS' present,884,colorectal liver metastases are more often super wild type toward treatment based on metastatic site genotyping,I
+Liver Cancer,NRAS,25502816,all,n ras,C,I,,credited via alias n ras,911,a peculiar mutation spectrum emerging from young peruvian patients with hepatocellular carcinoma,I
+Liver Cancer,NRAS,31634180,all,nras,C,I,,symbol 'NRAS' present,980,extended molecular profiling improves stratification and prediction of survival after resection of colorectal liver metastases,I
+Liver Cancer,NRAS,11152562,all,n ras,C,M,,credited via alias n ras,1000,no consistent pattern of mutations in p53 and ras genes in liver tumors of rat treated with the drinking water mutagen 3-chloro-4- dichlorom,M
+Liver Cancer,TERT,34972704,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,11,telomerase reverse transcriptase promoter mutations in human hepatobiliary pancreatic and gastrointestinal cancer cell lines,M
+Liver Cancer,TERT,32135540,random+targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,14,human telomerase reverse transcriptase gene promoter mutation in serum of patients with hepatocellular carcinoma,M
+Liver Cancer,TERT,25267585,random,tert,C,M,,symbol 'TERT' present,72,frequency of tert promoter mutations in primary tumors of the liver,M
+Liver Cancer,TERT,33097857,random,tert,C,G,,symbol 'TERT' present,79,mutations in circulating tumor dna predict primary resistance to systemic therapies in advanced hepatocellular carcinoma,G
+Liver Cancer,TERT,42237300,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,80,blood circulating c228t tert gene promoter mutation is an independent factor for the prognosis of hbv-related hepatocellular carcinoma,M
+Liver Cancer,TERT,38851365,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,90,a systematic analysis with the hierarchical cluster analysis strategy on the complex interaction of tert and ctnnb1 somatic mutations in vie,M
+Liver Cancer,TERT,23887712,random+targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,93,high frequency of telomerase reverse-transcriptase promoter somatic mutations in hepatocellular carcinoma and preneoplastic lesions,M
+Liver Cancer,TERT,25574106,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,156,common telomerase reverse transcriptase promoter mutations in hepatocellular carcinomas from different geographical locations,M
+Liver Cancer,TERT,32830343,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,173,prediction of the prognosis of advanced hepatocellular carcinoma by tert promoter mutations in circulating tumor dna,M
+Liver Cancer,TERT,27248174,random,tert,C,M,,symbol 'TERT' present,221,noninvasive detection of tumor-associated mutations from circulating cell-free dna in hepatocellular carcinoma patients by targeted deep seq,M
+Liver Cancer,TERT,22634756,random,tert,C,I,,symbol 'TERT' present,269,whole-genome sequencing of liver cancers identifies etiological influences on mutation patterns and recurrent mutations in chromatin regulat,I
+Liver Cancer,TERT,41062884,random,tert,C,M,,symbol 'TERT' present,272,calcifying nested stromal-epithelial tumor of the liver report of two cases revealing novel wt1 mutation and distinct epigenetic features,M
+Liver Cancer,TERT,23000435,random,tert,C,M,,symbol 'TERT' present,337,liver transplantation for hepatocellular carcinoma in a patient with a novel telomerase mutation and steatosis,M
+Liver Cancer,TERT,32797164,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,353,studies on the correlation between mutation and integration of hbv in hepatocellular carcinoma,M
+Liver Cancer,TERT,26553052,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,375,comprehensive analyses of mutations and hepatitis b virus integration in hepatocellular carcinoma with clinicopathological features,M
+Liver Cancer,TERT,33947693,random,tert,C,I,,symbol 'TERT' present,382,the landscape of cell-free hbv integrations and mutations in cirrhosis and hepatocellular carcinoma patients,I
+Liver Cancer,TERT,22152854,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,396,wnt signaling and telomerase activation of hepatoblastoma correlation with chemosensitivity and surgical resectability,M
+Liver Cancer,TERT,30070724,random,telomerase reverse transcriptase|tert,C,M,target,symbol 'TERT' present,407,androgen receptor enhances hepatic telomerase reverse transcriptase gene transcription after hepatitis b virus integration or point mutation,M
+Liver Cancer,TERT,38760594,random,tert,C,M,,symbol 'TERT' present,418,beyond histology a tissue algorithm predictive of post-surgical recurrence in hepatocellular carcinomas including tert promoter mutation,M
+Liver Cancer,TERT,27661004,random,tert,C,M,,symbol 'TERT' present,437,frequent somatic tert promoter mutations and ctnnb1 mutations in hepatocellular carcinoma,M
+Liver Cancer,TERT,25135868,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,489,the genomic landscape of hepatoblastoma and their progenies with hcc-like features,M
+Liver Cancer,TERT,42030113,random,tert,C,M,,symbol 'TERT' present,524,whole-exome sequencing identifies frequent ahnak2 mutations with prognostic significance in undifferentiated primary liver carcinoma,M
+Liver Cancer,TERT,38769666,random,telomerase reverse transcriptase|tert,C,M,target,symbol 'TERT' present,532,therapeutic targeting of plk1 in tert promoter-mutant hepatocellular carcinoma,M
+Liver Cancer,TERT,33103505,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,584,tert promoter mutated circulating tumor dna as a biomarker for prognosis in hepatocellular carcinoma,M
+Liver Cancer,TERT,39054058,random,tert,C,ML,,symbol 'TERT' present,607,circulating tumour dna in patients with hepatocellular carcinoma across tumour stages and treatments,ML
+Liver Cancer,TERT,41331082,targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,613,nationwide comprehensive genomic profiling defines the genomic landscape of hepatocellular carcinoma across etiologies,M
+Liver Cancer,TERT,40987182,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,616,analysis of tert promoter hotspot mutations using droplet digital pcr in hepatoblastoma and hepatocellular carcinoma,M
+Liver Cancer,TERT,24866078,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,657,tert promoter mutation in resectable hepatocellular carcinomas a strong association with hepatitis c infection and absence of hepatitis b in,M
+Liver Cancer,TERT,39541004,random,tert,C,ML,,symbol 'TERT' present,692,comprehensive genomic profiling for advanced hepatocellular carcinoma in clinical practice,ML
+Liver Cancer,TERT,37903649,random,tert,C,M,,symbol 'TERT' present,697,differential diagnosis of small hepatocellular nodules in cirrhosis surrogate histological criteria of tert promoter mutations,M
+Liver Cancer,TERT,33125945,random,tert,C,M,,symbol 'TERT' present,715,a combined clinical and biological risk classification improves prediction of outcome in hepatoblastoma patients,M
+Liver Cancer,TERT,28677271,targeted,telomerase reverse transcriptase,C,M,,credited via alias telomerase reverse transcriptase,721,telomerase reverse transcriptase germline mutations and hepatocellular carcinoma in patients with nonalcoholic fatty liver disease,M
+Liver Cancer,TERT,35962322,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,768,ctnnb1 mutations tert polymorphism and cd8 cell densities in resected hepatocellular carcinoma are associated with longer time to recurrence,M
+Liver Cancer,TERT,39097802,random,tert,C,M,,symbol 'TERT' present,789,the utility of next-generation sequencing in challenging liver fna biopsies,M
+Liver Cancer,TERT,39047713,random,tert,C,ML,,symbol 'TERT' present,835,changes in mutations of cell-free dna and liver tumor tissue in patients with advanced hepatocellular carcinoma before and after introductio,ML
+Liver Cancer,TERT,38016019,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,848,base editing of the mutated tert promoter inhibits liver tumor growth,M
+Liver Cancer,TERT,34171097,random,tert,C,I,,symbol 'TERT' present,873,whole-genome sequencing of follicular thyroid carcinomas reveal recurrent mutations in microrna processing subunit dgcr8,I
+Liver Cancer,TERT,27634656,random,tert,C,M,,symbol 'TERT' present,916,mutational landscape of combined hepatocellular carcinoma and cholangiocarcinoma and its clinicopathological significance,M
+Liver Cancer,TERT,30756187,random,tert,C,M,,symbol 'TERT' present,917,comprehensive analysis of genetic aberrations linked to tumorigenesis in regenerative nodules of liver cirrhosis,M
+Liver Cancer,TERT,28460432,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,941,promoter mutations and cellular distribution of telomerase in non-clear cell and clear cell hepatocellular carcinoma,M
+Liver Cancer,TERT,28532995,random,tert,C,M,,symbol 'TERT' present,984,histological subtypes of hepatocellular carcinoma are related to gene mutations and molecular tumour classification,M
+Liver Cancer,TERT,28416747,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,985,the tert promoter mutation incidence is modified by germline tert rs2736098 and rs2736100 polymorphisms in hepatocellular carcinoma,M
+Liver Cancer,EGFR,24968756,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,3,phase ii trial of cetuximab plus irinotecan for oxaliplatin- and irinotecan-based chemotherapy-refractory patients with advanced and or meta,M
+Liver Cancer,EGFR,21894049,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,13,kras mutation in metastatic pancreatic ductal adenocarcinoma results of a multicenter phase ii study evaluating efficacy of cetuximab plus g,M
+Liver Cancer,EGFR,25666295,random+targeted,epidermal_growth_factor_receptor,C,I,,credited via alias epidermal_growth_factor_receptor,36,folfox4 plus cetuximab for patients with previously untreated metastatic colorectal cancer according to tumor ras and braf mutation status u,I
+Liver Cancer,EGFR,23765179,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,44,epidermal growth factor receptor egfr and kras mutations during chemotherapy plus anti-egfr monoclonal antibody treatment in metastatic colo,M
+Liver Cancer,EGFR,22982650,random,egfr,C,M,target,symbol 'EGFR' present,46,impact of systematic egfr and kras mutation evaluation on progression-free survival and overall survival in patients with advanced non-small,M
+Liver Cancer,EGFR,30485437,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,58,clinical outcomes and secondary epidermal growth factor receptor egfr t790m mutation among first-line gefitinib erlotinib and afatinib-treat,M
+Liver Cancer,EGFR,27737491,random,egfr,C,I,target,symbol 'EGFR' present,65,mutation location on the ras oncogene affects pathologic features and survival after resection of colorectal liver metastases,I
+Liver Cancer,EGFR,22833420,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,76,epidermal growth factor receptor and kras gene expression reliability of mutational analysis on cytological samples,M
+Liver Cancer,EGFR,39747343,random,egfr,C,M,target,symbol 'EGFR' present,197,presence of liver metastasis correlated with high tumor abundance and indicated adverse prognostic feature in egfr mutation non-small-cell l,M
+Liver Cancer,EGFR,23233388,random,egfr,C,I,target,symbol 'EGFR' present,203,kras and braf mutation status in circulating colorectal tumor cells and their correlation with primary and metastatic tumor tissue,I
+Liver Cancer,EGFR,29194647,random,egfr,C,I,target,symbol 'EGFR' present,225,the ras mutation status predicts survival in patients undergoing hepatic resection for colorectal liver metastases the results from a geneti,I
+Liver Cancer,EGFR,26339441,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,232,egfr mutation l747p led to gefitinib resistance and accelerated liver metastases in a chinese patient with lung adenocarcinoma,M
+Liver Cancer,EGFR,22674181,targeted,epidermal_growth_factor_receptor,C,I,,credited via alias epidermal_growth_factor_receptor,276,influence of kras mutation status in metachronous and synchronous metastatic colorectal adenocarcinoma,I
+Liver Cancer,EGFR,20361188,random,egfr,C,I,target,symbol 'EGFR' present,309,acquired kras mutations during progression of colorectal cancer metastases possible implications for therapy and prognosis,I
+Liver Cancer,EGFR,42406708,random,egfr,C,M,target,symbol 'EGFR' present,384,higher frequency of subclonal anti-egfr resistance mutations in post-treatment samples from patients with colorectal cancer liver metastases,M
+Liver Cancer,EGFR,28000889,random,egfr,C,I,target,symbol 'EGFR' present,390,high concordance rate of kras braf mutations and msi-h between primary colorectal cancer and corresponding metastases,I
+Liver Cancer,EGFR,29409955,random+targeted,epidermal_growth_factor_receptor,C,P,,credited via alias epidermal_growth_factor_receptor,417,kras and 2 rare pi3kca mutations coexisting in a metastatic colorectal cancer patient with aggressive and resistant disease,P
+Liver Cancer,EGFR,41483371,random,egfr,C,M,target,symbol 'EGFR' present,431,clinical utility of longitudinal circulating tumor dna analysis in metastatic colorectal cancer patients receiving palliative chemotherapy,M
+Liver Cancer,EGFR,23495083,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,436,identification of egfr mutation kras mutation and alk gene rearrangement in cytological specimens of primary and metastatic lung adenocarcin,M
+Liver Cancer,EGFR,20837450,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,464,small-cell carcinoma with an epidermal growth factor receptor mutation in a never-smoker with gefitinib-responsive adenocarcinoma of the lun,M
+Liver Cancer,EGFR,28463756,random,egfr|epidermal_growth_factor_receptor,C,I,target,symbol 'EGFR' present,474,impact of braf and ras mutations on first-line efficacy of folfiri plus cetuximab versus folfiri plus bevacizumab analysis of the fire-3 aio,I
+Liver Cancer,EGFR,25965827,random,egfr,C,I,target,symbol 'EGFR' present,480,correlation between tumor engraftment in patient-derived xenograft models and clinical outcomes in colorectal cancer patients,I
+Liver Cancer,EGFR,37974474,random,egfr,C,I,target,symbol 'EGFR' present,509,development and external validation of mri-based ras mutation status prediction model for liver metastases of colorectal cancer,I
+Liver Cancer,EGFR,29438522,random+targeted,epidermal_growth_factor_receptor,C,M,target,credited via alias epidermal_growth_factor_receptor,555,ras mutation analysis in circulating tumor dna from patients with metastatic colorectal cancer the ageo rasanc prospective multicenter study,M
+Liver Cancer,EGFR,12878043,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,557,expression of potential beta-catenin targets cyclin d1 c-jun c-myc e-cadherin and egfr in chemically induced hepatocellular neoplasms from b,M
+Liver Cancer,EGFR,21364579,targeted,epidermal_growth_factor_receptor,C,I,target,credited via alias epidermal_growth_factor_receptor,604,kras mutation analysis a comparison between primary tumours and matched liver metastases in 305 colorectal cancer patients,I
+Liver Cancer,EGFR,35476635,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,629,epidermal growth factor receptor immunohistochemical expression in hepatocellular carcinoma without epidermal growth factor receptor exons 1,M
+Liver Cancer,EGFR,31351766,targeted,epidermal_growth_factor_receptor,C,I,target,credited via alias epidermal_growth_factor_receptor,651,gene mutation and surgical technique suggestion or more,I
+Liver Cancer,EGFR,35798634,random,egfr,C,M,target,symbol 'EGFR' present,669,mechanisms of resistance to first-line osimertinib in hispanic patients with egfr mutant non-small cell lung cancer freston-clicap,M
+Liver Cancer,EGFR,33325154,random,egfr,C,I,,symbol 'EGFR' present,677,genomic and prognostic heterogeneity among ras braf v600e tp53 co-mutated resectable colorectal liver metastases,I
+Liver Cancer,EGFR,24204737,random,egfr,C,M,,symbol 'EGFR' present,699,clinical molecular and genetic validation of a murine orthotopic xenograft model of pancreatic adenocarcinoma using fresh human specimens,M
+Liver Cancer,EGFR,28538405,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,712,marked response to nab-paclitaxel in egfr mutated lung neuroendocrine carcinoma a case report,M
+Liver Cancer,EGFR,20595818,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,729,egfr expression variance in paired colorectal cancer primary and metastatic tumors,M
+Liver Cancer,EGFR,39972134,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,733,clonal driver neoantigen loss under egfr tki and immune selection pressures,M
+Liver Cancer,EGFR,26695526,targeted,egfr|epidermal_growth_factor_receptor,C,G,,symbol 'EGFR' present,734,role of race in oncogenic driver prevalence and outcomes in lung adenocarcinoma results from the lung cancer mutation consortium,G
+Liver Cancer,EGFR,26436086,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,817,missense mutations in exons 18-24 of egfr in hepatocellular carcinoma tissues,M
+Liver Cancer,EGFR,30459076,random,egfr,C,M,target,symbol 'EGFR' present,821,plasma dynamics of ras raf mutations in patients with metastatic colorectal cancer receiving chemotherapy and anti-egfr treatment,M
+Liver Cancer,EGFR,24806288,random,egfr,C,I,target,symbol 'EGFR' present,824,role of nras mutations as prognostic and predictive markers in metastatic colorectal cancer,I
+Liver Cancer,EGFR,39819288,random,egfr,C,I,,symbol 'EGFR' present,846,characterization of the genomic landscape in liver oligometastatic nsclc,I
+Liver Cancer,EGFR,28314739,random,egfr|epidermal_growth_factor_receptor,C,M,target,symbol 'EGFR' present,849,intratumorous heterogeneity for ras mutations in a treatment-naive colorectal tumour,M
+Liver Cancer,EGFR,30922878,random,egfr|epidermal_growth_factor_receptor,C,M,,symbol 'EGFR' present,860,atezolizumab plus bevacizumab and chemotherapy in non-small-cell lung cancer impower150 key subgroup analyses of patients with egfr mutation,M
+Liver Cancer,EGFR,29720727,random,egfr,C,W,,symbol 'EGFR' present,867,recapitulation of pharmacogenomic data reveals that invalidation of sulf2 enhance sorafenib susceptibility in liver cancer,W
+Liver Cancer,EGFR,34626838,random,egfr,C,M,target,symbol 'EGFR' present,892,impower150 final exploratory analyses for atezolizumab plus bevacizumab and chemotherapy in key nsclc patient subgroups with egfr mutations ,M
+Liver Cancer,EGFR,42688229,targeted,epidermal_growth_factor_receptor,X,G,,credited via 'epidermal growth factor receptor' inside HER2's name,927,unlocking her2 as a target in kras-mutated rectal cancer a case of significant response to zanidatamab-based regimen,G
+Liver Cancer,EGFR,26358790,random,egfr,C,G,,symbol 'EGFR' present,993,her2-mutated breast cancer responds to treatment with single-agent neratinib a second-generation her2 egfr tyrosine kinase inhibitor,G
+Liver Cancer,PIK3CA,26991344,all,pik3ca,C,P,,symbol 'PIK3CA' present,2,impact of kras braf pik3ca tp53 status and intraindividual mutation heterogeneity on outcome after liver resection for colorectal cancer met,P
+Liver Cancer,PIK3CA,24968756,all,pik3ca,C,ML,,symbol 'PIK3CA' present,3,phase ii trial of cetuximab plus irinotecan for oxaliplatin- and irinotecan-based chemotherapy-refractory patients with advanced and or meta,ML
+Liver Cancer,PIK3CA,21239505,all,pik3ca,C,ML,,symbol 'PIK3CA' present,8,kras mutation is associated with lung metastasis in patients with curatively resected colorectal cancer,ML
+Liver Cancer,PIK3CA,28206962,all,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,26,pi3k pathway mutations are associated with longer time to local progression after radioembolization of colorectal liver metastases,M
+Liver Cancer,PIK3CA,31982351,all,pik3ca,C,M,,symbol 'PIK3CA' present,45,high concordance and negative prognostic impact of ras braf pik3ca mutations in multiple resected colorectal liver metastases,M
+Liver Cancer,PIK3CA,27737491,all,pik3ca,C,ML,,symbol 'PIK3CA' present,65,mutation location on the ras oncogene affects pathologic features and survival after resection of colorectal liver metastases,ML
+Liver Cancer,PIK3CA,33097857,all,pi3k,X,ML,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,79,mutations in circulating tumor dna predict primary resistance to systemic therapies in advanced hepatocellular carcinoma,ML
+Liver Cancer,PIK3CA,31221662,all,pik3ca,C,ML,,symbol 'PIK3CA' present,86,mutation status of ras tp53 and smad4 is superior to mutation status of ras alone for predicting prognosis after resection of colorectal liv,ML
+Liver Cancer,PIK3CA,24798046,all,pik3ca,C,G,,symbol 'PIK3CA' present,88,transcriptomic characterization of hepatocellular carcinoma with ctnnb1 mutation,G
+Liver Cancer,PIK3CA,24018645,all,pik3ca,C,I,,symbol 'PIK3CA' present,94,ras mutation status predicts survival and patterns of recurrence in patients undergoing hepatectomy for colorectal liver metastases,I
+Liver Cancer,PIK3CA,23709421,all,pik3ca,C,M,,symbol 'PIK3CA' present,102,pik3ca mutations in hepatocellular carcinoma in korea,M
+Liver Cancer,PIK3CA,25738220,all,pik3ca,C,I,,symbol 'PIK3CA' present,126,multi-institutional oncogenic driver mutation analysis in lung adenocarcinoma the lung cancer mutation consortium experience,I
+Liver Cancer,PIK3CA,21667306,all,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,147,low frequency of pik3ca gene mutations in hepatocellular carcinoma in chinese population,M
+Liver Cancer,PIK3CA,21671463,all,pik3ca,C,ML,target,symbol 'PIK3CA' present,150,the status of egfr-associated genes could predict the outcome and tumor response of chemo-refractory metastatic colorectal patients using ce,ML
+Liver Cancer,PIK3CA,37735836,all,pik3ca,C,I,,symbol 'PIK3CA' present,198,chb patients with rta181t-mutated hbv infection are associated with higher risk hepatocellular carcinoma due to increases in mutation rates ,I
+Liver Cancer,PIK3CA,28379870,all,pik3ca,C,M,,symbol 'PIK3CA' present,208,apc and pik3ca mutational cooperativity predicts pathologic response and survival in patients undergoing resection for colorectal liver meta,M
+Liver Cancer,PIK3CA,25491172,all,pik3ca,C,M,,symbol 'PIK3CA' present,222,ras mutations affect pattern of metastatic spread and increase propensity for brain metastasis in colorectal cancer,M
+Liver Cancer,PIK3CA,24673525,all,pik3ca,C,M,,symbol 'PIK3CA' present,236,clinicopathological characteristics of pik3ca and hbx mutations in korean patients with hepatocellular carcinomas,M
+Liver Cancer,PIK3CA,27756406,all,pik3ca,C,I,,symbol 'PIK3CA' present,293,spatio-temporal mutation profiles of case-matched colorectal carcinomas and their metastases reveal unique de novo mutations in metachronous,I
+Liver Cancer,PIK3CA,30171333,all,pik3ca,C,P,,symbol 'PIK3CA' present,328,the gene mutational discrepancies between primary and paired metastatic colorectal carcinoma detected by next-generation sequencing,P
+Liver Cancer,PIK3CA,28570009,all,pik3ca,C,ML,,symbol 'PIK3CA' present,398,mucinous cystic neoplasms of the liver and pancreas relationship between kras driver mutations and disease progression,ML
+Liver Cancer,PIK3CA,32641413,all,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,399,accumulation of molecular aberrations distinctive to hepatocellular carcinoma progression,W
+Liver Cancer,PIK3CA,41483371,all,pik3ca,C,I,,symbol 'PIK3CA' present,431,clinical utility of longitudinal circulating tumor dna analysis in metastatic colorectal cancer patients receiving palliative chemotherapy,I
+Liver Cancer,PIK3CA,17546593,all,pik3ca,C,M,,symbol 'PIK3CA' present,445,mutations of the pik3ca gene in hereditary colorectal cancers,M
+Liver Cancer,PIK3CA,27132506,all,pi3k,X,I,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,501,oncogenic mutations and dysregulated pathways in obesity-associated hepatocellular carcinoma,I
+Liver Cancer,PIK3CA,17954274,all,pi3k,X,P,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,516,mutation of the pten gene in a human hepatic angiosarcoma,P
+Liver Cancer,PIK3CA,29937183,all,pi3k|pik3ca,C,ML,,symbol 'PIK3CA' present,590,clinical significance and prognostic relevance of kras braf pi3k and tp53 genetic mutation analysis for resectable and unresectable colorect,ML
+Liver Cancer,PIK3CA,27528217,all,pik3ca,C,ML,,symbol 'PIK3CA' present,595,targeted sequencing reveals tp53 as a potential diagnostic biomarker in the post-treatment surveillance of head and neck cancer,ML
+Liver Cancer,PIK3CA,39054058,all,pik3ca,C,G,,symbol 'PIK3CA' present,607,circulating tumour dna in patients with hepatocellular carcinoma across tumour stages and treatments,G
+Liver Cancer,PIK3CA,21303542,all,pik3ca,C,M,,symbol 'PIK3CA' present,627,mutational profiling reveals pik3ca mutations in gallbladder carcinoma,M
+Liver Cancer,PIK3CA,28424412,all,pik3ca,C,M,,symbol 'PIK3CA' present,659,fbxw7 missense mutation a novel negative prognostic factor in metastatic colorectal adenocarcinoma,M
+Liver Cancer,PIK3CA,28949453,all,pik3ca,C,ML,,symbol 'PIK3CA' present,674,somatic mutation detection using various targeted detection assays in paired samples of circulating tumor dna primary tumor and metastases f,ML
+Liver Cancer,PIK3CA,40489756,all,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,685,mechanisms of tumor heterogeneity in tace-resistant liver cancer insights from single-cell and whole-exome sequencing,M
+Liver Cancer,PIK3CA,15608678,all,pik3ca,C,M,,symbol 'PIK3CA' present,694,pik3ca gene is frequently mutated in breast carcinomas and hepatocellular carcinomas,M
+Liver Cancer,PIK3CA,26695526,all,pik3ca,C,G,,symbol 'PIK3CA' present,734,role of race in oncogenic driver prevalence and outcomes in lung adenocarcinoma results from the lung cancer mutation consortium,G
+Liver Cancer,PIK3CA,24599305,all,pik3ca,C,I,,symbol 'PIK3CA' present,743,comparative genomic analysis of primary and synchronous metastatic colorectal cancers,I
+Liver Cancer,PIK3CA,24863535,all,pik3ca,C,P,,symbol 'PIK3CA' present,759,clinical impact of c-met expression and genetic mutational status in colorectal cancer patients after liver resection,P
+Liver Cancer,PIK3CA,30843125,all,pik3ca,C,M,,symbol 'PIK3CA' present,815,a clinical trial of somatic and germline analyses for healthy longevity in a postoperative cancer patient,M
+Liver Cancer,PIK3CA,28068936,all,pik3ca,C,M,target,symbol 'PIK3CA' present,818,retrospective study of ras pik3ca braf tumor mutations as predictors of response to first-line chemotherapy with bevacizumab in metastatic c,M
+Liver Cancer,PIK3CA,17187432,all,pik3ca,C,M,,symbol 'PIK3CA' present,826,transcriptome classification of hcc is related to gene alterations and to new therapeutic targets,M
+Liver Cancer,PIK3CA,40342004,all,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,833,predictive factors for chemotherapy response in colorectal liver metastasis a retrospective study utilizing next-generation sequencing,M
+Liver Cancer,PIK3CA,34403504,all,pik3ca,C,P,,symbol 'PIK3CA' present,861,cross-platform comparison of next-generation sequencing and matrix-assisted laser desorption ionization time-of-flight mass spectrometry for,P
+Liver Cancer,PIK3CA,22258409,all,pik3ca,C,M,,symbol 'PIK3CA' present,864,braf and pik3ca genes are somatically mutated in hepatocellular carcinoma among patients from south italy,M
+Liver Cancer,PIK3CA,34171097,all,pik3ca,C,I,,symbol 'PIK3CA' present,873,whole-genome sequencing of follicular thyroid carcinomas reveal recurrent mutations in microrna processing subunit dgcr8,I
+Liver Cancer,PIK3CA,28351929,all,pik3ca,C,I,,symbol 'PIK3CA' present,912,genetic heterogeneity in therapy-naive synchronous primary breast cancers and their metastases,I
+Liver Cancer,PIK3CA,39269823,all,pik3ca,C,M,,symbol 'PIK3CA' present,920,circulating tumor dna ctdna as a biomarker of response to therapy in advanced hepatocellular carcinoma treated with nivolumab,M
+Liver Cancer,PIK3CA,27133750,all,pik3ca,C,M,,symbol 'PIK3CA' present,923,morphological and genetic heterogeneity in multifocal lung adenocarcinoma the case of a never-smoker woman,M
+Liver Cancer,PIK3CA,31395065,all,pik3ca,C,ML,,symbol 'PIK3CA' present,955,targeted genomic profiling identifies frequent deleterious mutations in fat4 and tp53 genes in hbv-associated hepatocellular carcinoma,ML
+Liver Cancer,PIK3CA,21594665,all,pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,969,evaluation of the association of pik3ca mutations and pten loss with efficacy of trastuzumab therapy in metastatic breast cancer,M
+Liver Cancer,PIK3CA,31796844,all,pik3ca,C,W,,symbol 'PIK3CA' present,979,somatic mutation signatures in primary liver tumors of workers exposed to ionizing radiation,W
+Liver Cancer,PIK3CA,31634180,all,pik3ca,C,I,,symbol 'PIK3CA' present,980,extended molecular profiling improves stratification and prediction of survival after resection of colorectal liver metastases,I
+Liver Cancer,APC,29282223,all,apc,C,M,,symbol 'APC' present,33,combined mutation of apc kras and tgfbr2 effectively drives metastasis of intestinal cancer,M
+Liver Cancer,APC,31221662,all,apc,C,ML,,symbol 'APC' present,86,mutation status of ras tp53 and smad4 is superior to mutation status of ras alone for predicting prognosis after resection of colorectal liv,ML
+Liver Cancer,APC,26109429,all,apc,C,M,,symbol 'APC' present,121,genome-wide mutation profiles of colorectal tumors and associated liver metastases at the exome and transcriptome levels,M
+Liver Cancer,APC,12669311,all,apc,C,M,,symbol 'APC' present,164,mutational analysis of ctnnb1 and apc in tumors from rats given 1 2-dimethylhydrazine or 2-amino-3-methylimidazo 4 5-f quinoline mutational ,M
+Liver Cancer,APC,28767562,all,apc,C,ML,,symbol 'APC' present,174,deleterious effect of ras and evolutionary high-risk tp53 double mutation in colorectal liver metastases,ML
+Liver Cancer,APC,28379870,all,apc,C,M,,symbol 'APC' present,208,apc and pik3ca mutational cooperativity predicts pathologic response and survival in patients undergoing resection for colorectal liver meta,M
+Liver Cancer,APC,27756406,all,apc,C,ML,,symbol 'APC' present,293,spatio-temporal mutation profiles of case-matched colorectal carcinomas and their metastases reveal unique de novo mutations in metachronous,ML
+Liver Cancer,APC,10700176,all,apc,C,M,,symbol 'APC' present,300,axin1 mutations in hepatocellular carcinomas and growth suppression in cancer cells by virus-mediated transfer of axin1,M
+Liver Cancer,APC,15067328,all,apc,C,M,,symbol 'APC' present,366,immunohistochemical analysis and mutational analyses of beta-catenin axin family and apc genes in hepatocellular carcinomas,M
+Liver Cancer,APC,41483371,all,apc,C,ML,,symbol 'APC' present,431,clinical utility of longitudinal circulating tumor dna analysis in metastatic colorectal cancer patients receiving palliative chemotherapy,ML
+Liver Cancer,APC,12893427,all,apc,C,M,,symbol 'APC' present,487,beta-catenin mutations in liver tumors induced by 2-amino-3 4-dimethylimidazo 4 5-f quinoline in cdf1 mice,M
+Liver Cancer,APC,15538750,all,apc,C,M,,symbol 'APC' present,500,mutations and elevated transcriptional activity of conductin axin2 in hepatoblastomas,M
+Liver Cancer,APC,34592239,all,apc,C,ML,,symbol 'APC' present,544,morphological heterogeneity in beta-catenin-mutated hepatocellular carcinomas implications for tumor molecular classification,ML
+Liver Cancer,APC,29251405,all,apc,C,M,,symbol 'APC' present,545,germline apc mutations in hepatoblastoma,M
+Liver Cancer,APC,29937183,all,apc,C,I,,symbol 'APC' present,590,clinical significance and prognostic relevance of kras braf pi3k and tp53 genetic mutation analysis for resectable and unresectable colorect,I
+Liver Cancer,APC,33667566,all,apc,C,ML,,symbol 'APC' present,624,preliminary analysis of liquid biopsy after hepatectomy for colorectal liver metastases,ML
+Liver Cancer,APC,21147764,all,apc,C,W,,symbol 'APC' present,639,gene expression and mutation assessment provide clues of genetic and epigenetic mechanisms in liver tumors of oxazepam-exposed mice,W
+Liver Cancer,APC,23715166,all,apc,C,M,,symbol 'APC' present,640,multifocal hepatic neoplasia in 3 children with apc gene mutation,M
+Liver Cancer,APC,16317745,all,apc,C,M,,symbol 'APC' present,646,should children at risk for familial adenomatous polyposis be screened for hepatoblastoma and children with apparently sporadic hepatoblasto,M
+Liver Cancer,APC,12297840,all,apc,C,I,,symbol 'APC' present,653,p53 gene and wnt signaling in benign neoplasms beta-catenin mutations in hepatic adenoma but not in focal nodular hyperplasia,I
+Liver Cancer,APC,28949453,all,apc,C,ML,,symbol 'APC' present,674,somatic mutation detection using various targeted detection assays in paired samples of circulating tumor dna primary tumor and metastases f,ML
+Liver Cancer,APC,24599305,all,apc,C,ML,,symbol 'APC' present,743,comparative genomic analysis of primary and synchronous metastatic colorectal cancers,ML
+Liver Cancer,APC,38359148,all,apc,C,M,,symbol 'APC' present,745,analysis of tumor-associated axin1 missense mutations identifies variants that activate -catenin signaling,M
+Liver Cancer,APC,37872280,all,apc,C,M,,symbol 'APC' present,754,integrated genotype-phenotype analysis of familial adenomatous polyposis-associated hepatocellular adenomas,M
+Liver Cancer,APC,42156413,all,apc,C,ML,,symbol 'APC' present,774,integrated genomic analyses identify oncogenic pathway interplay in hepatocarcinogenesis defining specific molecular subtypes,ML
+Liver Cancer,APC,30977242,all,apc,C,M,,symbol 'APC' present,786,characterization of pediatric hepatocellular carcinoma reveals genomic heterogeneity and diverse signaling pathway activation,M
+Liver Cancer,APC,30231850,all,apc,C,ML,,symbol 'APC' present,841,exome scale map of genetic alterations promoting metastasis in colorectal cancer,ML
+Liver Cancer,APC,34001798,all,apc,C,M,,symbol 'APC' present,842,early development of colonic adenocarcinoma with minimal polyposis in a young child with metastatic hepatoblastoma and germline apc mutation,M
+Liver Cancer,APC,12378619,all,apc,C,W,,symbol 'APC' present,847,association of htcf-4 gene expression and mutation with clinicopathological characteristics of hepatocellular carcinoma,W
+Liver Cancer,APC,19183332,all,apc,C,M,,symbol 'APC' present,870,noncolonic cancer stem cells in bone marrow of colorectal cancer patients,M
+Liver Cancer,APC,10754205,all,apc,C,W,,symbol 'APC' present,900,somatic mutations of beta-catenin play a crucial role in the tumorigenesis of sporadic hepatoblastoma,W
+Liver Cancer,APC,39147970,all,apc,C,M,,symbol 'APC' present,905,an in vivo metastasis model using genotype-defined tumor organoids,M
+Liver Cancer,APC,29446530,all,apc,C,M,,symbol 'APC' present,967,a novel tissue-based -catenin gene and immunohistochemical analysis to exclude familial adenomatous polyposis among children with hepatoblas,M
+Liver Cancer,APC,31634180,all,apc,C,I,,symbol 'APC' present,980,extended molecular profiling improves stratification and prediction of survival after resection of colorectal liver metastases,I
+Liver Cancer,HFE,18061182,all,hfe,C,M,,symbol 'HFE' present,199,liver iron hfe gene mutations and hepatocellular carcinoma occurrence in patients with cirrhosis,M
+Liver Cancer,HFE,10918159,all,hfe,C,M,,symbol 'HFE' present,224,carriage of hfe mutations and outcome of surgical resection for hepatocellular carcinoma in cirrhotic patients,M
+Liver Cancer,HFE,34582652,all,hfe,C,M,,symbol 'HFE' present,248,significance of hereditary hemochromatosis gene hfe mutations in chronic hepatitis c and hepatocellular carcinoma patients in egypt a pilot ,M
+Liver Cancer,HFE,12003382,all,hfe,C,M,,symbol 'HFE' present,284,hfe gene mutations in alcoholic and virus-related cirrhotic patients with hepatocellular carcinoma,M
+Liver Cancer,HFE,10845668,all,hfe,C,M,,symbol 'HFE' present,318,increased incidence of hfe c282y mutations in patients with iron overload and hepatocellular carcinoma developed in non-cirrhotic liver,M
+Liver Cancer,HFE,11500061,all,hfe,C,M,,symbol 'HFE' present,323,mutations in the hfe gene and their interaction with exogenous risk factors in hepatocellular carcinoma,M
+Liver Cancer,HFE,10673304,all,hfe,C,M,,symbol 'HFE' present,345,incidence of liver disease in people with hfe mutations,M
+Liver Cancer,HFE,15929796,all,hfe,C,M,,symbol 'HFE' present,346,hepatocellular carcinoma and the penetrance of hfe c282y mutations a cross sectional study,M
+Liver Cancer,HFE,18164971,all,hfe,C,M,,symbol 'HFE' present,347,prevalence of common hfe and serpina1 mutations in patients with hepatocellular carcinoma in a moroccan population,M
+Liver Cancer,HFE,33450138,all,hfe,C,M,,symbol 'HFE' present,357,morbidity risk of cancer and mortality in 3645 hfe mutations carriers,M
+Liver Cancer,HFE,28363629,all,hfe,C,M,,symbol 'HFE' present,429,juvenile hemochromatosis and hepatocellular carcinoma in a patient with a novel mutation in the hjv gene,M
+Liver Cancer,HFE,15894495,all,hfe,C,M,,symbol 'HFE' present,449,association between heterozygosity for hfe gene mutations and hepatitis viruses in hepatocellular carcinoma,M
+Liver Cancer,HFE,21669570,all,hfe,C,M,,symbol 'HFE' present,551,iron overload and hfe gene mutations in polish patients with liver cirrhosis,M
+Liver Cancer,HFE,12865278,all,hfe,C,M,,symbol 'HFE' present,596,lack of association between hfe gene mutations and hepatocellular carcinoma in patients with cirrhosis,M
+Liver Cancer,HFE,20196837,all,hfe,C,M,,symbol 'HFE' present,606,association between c282y and h63d mutations of the hfe gene with hepatocellular carcinoma in european populations a meta-analysis,M
+Liver Cancer,HFE,18403150,all,hfe,C,I,,symbol 'HFE' present,801,phenotypic expression of ferroportin disease in a family with the n144h mutation,I
+Liver Cancer,HFE,31622736,all,hfe|homeostatic iron regulator,C,M,,symbol 'HFE' present,907,regression of fibrosis stage with treatment reduces long-term risk of liver cancer in patients with hemochromatosis caused by mutation in hf,M

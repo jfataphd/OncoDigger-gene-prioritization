@@ -1,0 +1,4 @@
+status,pairs,median_proximity,median_supporting_papers
+driver in another cancer,28,0.292,60.0
+driver in this cancer,150,0.309,84.5
+not an IntOGen driver,12,0.244,83.5

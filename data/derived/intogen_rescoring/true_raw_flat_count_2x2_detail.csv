@@ -1,0 +1,381 @@
+cell,cancer,rank,gene,count
+cell3_pool_true_raw,Breast Cancer,1,BRIP1,1000
+cell3_pool_true_raw,Breast Cancer,2,CD44,1000
+cell3_pool_true_raw,Breast Cancer,3,SPI1,1000
+cell3_pool_true_raw,Breast Cancer,4,WWOX,846
+cell3_pool_true_raw,Breast Cancer,5,WAS,803
+cell3_pool_true_raw,Breast Cancer,6,BRCA1,525
+cell3_pool_true_raw,Breast Cancer,7,UBE3A,463
+cell3_pool_true_raw,Breast Cancer,8,NR4A2,459
+cell3_pool_true_raw,Breast Cancer,9,CCDC102B,442
+cell3_pool_true_raw,Breast Cancer,10,DIAPH3,442
+cell1_fullcorpus_true_raw,Breast Cancer,1,BRIP1,249453
+cell1_fullcorpus_true_raw,Breast Cancer,2,SPI1,249453
+cell1_fullcorpus_true_raw,Breast Cancer,3,CD44,246063
+cell1_fullcorpus_true_raw,Breast Cancer,4,WWOX,209386
+cell1_fullcorpus_true_raw,Breast Cancer,5,WAS,173536
+cell1_fullcorpus_true_raw,Breast Cancer,6,UBE3A,141698
+cell1_fullcorpus_true_raw,Breast Cancer,7,PAX6,121423
+cell1_fullcorpus_true_raw,Breast Cancer,8,DIAPH3,121418
+cell1_fullcorpus_true_raw,Breast Cancer,9,CCDC102B,121414
+cell1_fullcorpus_true_raw,Breast Cancer,10,NR4A2,85184
+cell3_pool_true_raw,Lung Cancer,1,BRIP1,999
+cell3_pool_true_raw,Lung Cancer,2,CD44,999
+cell3_pool_true_raw,Lung Cancer,3,SPI1,999
+cell3_pool_true_raw,Lung Cancer,4,WWOX,854
+cell3_pool_true_raw,Lung Cancer,5,WAS,844
+cell3_pool_true_raw,Lung Cancer,6,EGFR,774
+cell3_pool_true_raw,Lung Cancer,7,EGF,517
+cell3_pool_true_raw,Lung Cancer,8,UBE3A,502
+cell3_pool_true_raw,Lung Cancer,9,CCDC102B,429
+cell3_pool_true_raw,Lung Cancer,10,DIAPH3,429
+cell1_fullcorpus_true_raw,Lung Cancer,1,BRIP1,178426
+cell1_fullcorpus_true_raw,Lung Cancer,2,SPI1,178426
+cell1_fullcorpus_true_raw,Lung Cancer,3,CD44,175640
+cell1_fullcorpus_true_raw,Lung Cancer,4,WWOX,147732
+cell1_fullcorpus_true_raw,Lung Cancer,5,WAS,131227
+cell1_fullcorpus_true_raw,Lung Cancer,6,UBE3A,99430
+cell1_fullcorpus_true_raw,Lung Cancer,7,PAX6,85324
+cell1_fullcorpus_true_raw,Lung Cancer,8,DIAPH3,85319
+cell1_fullcorpus_true_raw,Lung Cancer,9,CCDC102B,85318
+cell1_fullcorpus_true_raw,Lung Cancer,10,NR4A2,56611
+cell3_pool_true_raw,Colorectal Cancer,1,BRIP1,999
+cell3_pool_true_raw,Colorectal Cancer,2,CD44,999
+cell3_pool_true_raw,Colorectal Cancer,3,SPI1,999
+cell3_pool_true_raw,Colorectal Cancer,4,WWOX,855
+cell3_pool_true_raw,Colorectal Cancer,5,WAS,827
+cell3_pool_true_raw,Colorectal Cancer,6,UBE3A,468
+cell3_pool_true_raw,Colorectal Cancer,7,NR4A2,454
+cell3_pool_true_raw,Colorectal Cancer,8,CCDC102B,446
+cell3_pool_true_raw,Colorectal Cancer,9,DIAPH3,446
+cell3_pool_true_raw,Colorectal Cancer,10,PAX6,446
+cell1_fullcorpus_true_raw,Colorectal Cancer,1,BRIP1,167820
+cell1_fullcorpus_true_raw,Colorectal Cancer,2,SPI1,167820
+cell1_fullcorpus_true_raw,Colorectal Cancer,3,CD44,165620
+cell1_fullcorpus_true_raw,Colorectal Cancer,4,WWOX,140885
+cell1_fullcorpus_true_raw,Colorectal Cancer,5,WAS,126243
+cell1_fullcorpus_true_raw,Colorectal Cancer,6,UBE3A,92594
+cell1_fullcorpus_true_raw,Colorectal Cancer,7,PAX6,81117
+cell1_fullcorpus_true_raw,Colorectal Cancer,8,DIAPH3,81114
+cell1_fullcorpus_true_raw,Colorectal Cancer,9,CCDC102B,81109
+cell1_fullcorpus_true_raw,Colorectal Cancer,10,NR4A2,57951
+cell3_pool_true_raw,Prostate Cancer,1,BRIP1,999
+cell3_pool_true_raw,Prostate Cancer,2,SPI1,998
+cell3_pool_true_raw,Prostate Cancer,3,CD44,994
+cell3_pool_true_raw,Prostate Cancer,4,WWOX,820
+cell3_pool_true_raw,Prostate Cancer,5,WAS,684
+cell3_pool_true_raw,Prostate Cancer,6,UBE3A,527
+cell3_pool_true_raw,Prostate Cancer,7,CCDC102B,461
+cell3_pool_true_raw,Prostate Cancer,8,DIAPH3,461
+cell3_pool_true_raw,Prostate Cancer,9,PAX6,461
+cell3_pool_true_raw,Prostate Cancer,10,NR4A2,427
+cell1_fullcorpus_true_raw,Prostate Cancer,1,BRIP1,110686
+cell1_fullcorpus_true_raw,Prostate Cancer,2,SPI1,110684
+cell1_fullcorpus_true_raw,Prostate Cancer,3,CD44,108966
+cell1_fullcorpus_true_raw,Prostate Cancer,4,WWOX,94992
+cell1_fullcorpus_true_raw,Prostate Cancer,5,WAS,79310
+cell1_fullcorpus_true_raw,Prostate Cancer,6,UBE3A,63063
+cell1_fullcorpus_true_raw,Prostate Cancer,7,DIAPH3,54075
+cell1_fullcorpus_true_raw,Prostate Cancer,8,CCDC102B,54072
+cell1_fullcorpus_true_raw,Prostate Cancer,9,PAX6,54072
+cell1_fullcorpus_true_raw,Prostate Cancer,10,NR4A2,38115
+cell3_pool_true_raw,Melanoma,1,BRIP1,999
+cell3_pool_true_raw,Melanoma,2,CD44,999
+cell3_pool_true_raw,Melanoma,3,SPI1,999
+cell3_pool_true_raw,Melanoma,4,WWOX,816
+cell3_pool_true_raw,Melanoma,5,WAS,711
+cell3_pool_true_raw,Melanoma,6,BRAF,530
+cell3_pool_true_raw,Melanoma,7,UBE3A,480
+cell3_pool_true_raw,Melanoma,8,CCDC102B,468
+cell3_pool_true_raw,Melanoma,9,DIAPH3,468
+cell3_pool_true_raw,Melanoma,10,PAX6,468
+cell1_fullcorpus_true_raw,Melanoma,1,BRIP1,66277
+cell1_fullcorpus_true_raw,Melanoma,2,SPI1,66277
+cell1_fullcorpus_true_raw,Melanoma,3,CD44,65155
+cell1_fullcorpus_true_raw,Melanoma,4,WWOX,53204
+cell1_fullcorpus_true_raw,Melanoma,5,WAS,43134
+cell1_fullcorpus_true_raw,Melanoma,6,UBE3A,37703
+cell1_fullcorpus_true_raw,Melanoma,7,PAX6,33582
+cell1_fullcorpus_true_raw,Melanoma,8,CCDC102B,33578
+cell1_fullcorpus_true_raw,Melanoma,9,DIAPH3,33578
+cell1_fullcorpus_true_raw,Melanoma,10,NR4A2,22423
+cell3_pool_true_raw,Bladder Cancer,1,BRIP1,997
+cell3_pool_true_raw,Bladder Cancer,2,SPI1,997
+cell3_pool_true_raw,Bladder Cancer,3,CD44,994
+cell3_pool_true_raw,Bladder Cancer,4,WWOX,814
+cell3_pool_true_raw,Bladder Cancer,5,WAS,752
+cell3_pool_true_raw,Bladder Cancer,6,UBE3A,564
+cell3_pool_true_raw,Bladder Cancer,7,CCDC102B,471
+cell3_pool_true_raw,Bladder Cancer,8,DIAPH3,471
+cell3_pool_true_raw,Bladder Cancer,9,PAX6,471
+cell3_pool_true_raw,Bladder Cancer,10,NR4A2,374
+cell1_fullcorpus_true_raw,Bladder Cancer,1,BRIP1,35536
+cell1_fullcorpus_true_raw,Bladder Cancer,2,SPI1,35536
+cell1_fullcorpus_true_raw,Bladder Cancer,3,CD44,34917
+cell1_fullcorpus_true_raw,Bladder Cancer,4,WWOX,30143
+cell1_fullcorpus_true_raw,Bladder Cancer,5,WAS,27102
+cell1_fullcorpus_true_raw,Bladder Cancer,6,UBE3A,19639
+cell1_fullcorpus_true_raw,Bladder Cancer,7,PAX6,17011
+cell1_fullcorpus_true_raw,Bladder Cancer,8,DIAPH3,17007
+cell1_fullcorpus_true_raw,Bladder Cancer,9,CCDC102B,17006
+cell1_fullcorpus_true_raw,Bladder Cancer,10,NR4A2,11673
+cell3_pool_true_raw,Kidney Cancer,1,BRIP1,1000
+cell3_pool_true_raw,Kidney Cancer,2,SPI1,1000
+cell3_pool_true_raw,Kidney Cancer,3,CD44,997
+cell3_pool_true_raw,Kidney Cancer,4,WWOX,767
+cell3_pool_true_raw,Kidney Cancer,5,WAS,703
+cell3_pool_true_raw,Kidney Cancer,6,PAX6,521
+cell3_pool_true_raw,Kidney Cancer,7,CCDC102B,515
+cell3_pool_true_raw,Kidney Cancer,8,DIAPH3,515
+cell3_pool_true_raw,Kidney Cancer,9,UBE3A,509
+cell3_pool_true_raw,Kidney Cancer,10,NR4A2,401
+cell1_fullcorpus_true_raw,Kidney Cancer,1,BRIP1,46613
+cell1_fullcorpus_true_raw,Kidney Cancer,2,SPI1,46613
+cell1_fullcorpus_true_raw,Kidney Cancer,3,CD44,45544
+cell1_fullcorpus_true_raw,Kidney Cancer,4,WWOX,38104
+cell1_fullcorpus_true_raw,Kidney Cancer,5,WAS,34568
+cell1_fullcorpus_true_raw,Kidney Cancer,6,UBE3A,25013
+cell1_fullcorpus_true_raw,Kidney Cancer,7,PAX6,22370
+cell1_fullcorpus_true_raw,Kidney Cancer,8,CCDC102B,22318
+cell1_fullcorpus_true_raw,Kidney Cancer,9,DIAPH3,22318
+cell1_fullcorpus_true_raw,Kidney Cancer,10,NR4A2,14967
+cell3_pool_true_raw,Pancreatic Cancer,1,BRIP1,999
+cell3_pool_true_raw,Pancreatic Cancer,2,CD44,999
+cell3_pool_true_raw,Pancreatic Cancer,3,SPI1,999
+cell3_pool_true_raw,Pancreatic Cancer,4,WWOX,822
+cell3_pool_true_raw,Pancreatic Cancer,5,WAS,749
+cell3_pool_true_raw,Pancreatic Cancer,6,UBE3A,489
+cell3_pool_true_raw,Pancreatic Cancer,7,CCDC102B,471
+cell3_pool_true_raw,Pancreatic Cancer,8,DIAPH3,471
+cell3_pool_true_raw,Pancreatic Cancer,9,PAX6,471
+cell3_pool_true_raw,Pancreatic Cancer,10,NR4A2,440
+cell1_fullcorpus_true_raw,Pancreatic Cancer,1,BRIP1,65063
+cell1_fullcorpus_true_raw,Pancreatic Cancer,2,SPI1,65063
+cell1_fullcorpus_true_raw,Pancreatic Cancer,3,CD44,63925
+cell1_fullcorpus_true_raw,Pancreatic Cancer,4,WWOX,53654
+cell1_fullcorpus_true_raw,Pancreatic Cancer,5,WAS,46130
+cell1_fullcorpus_true_raw,Pancreatic Cancer,6,UBE3A,35893
+cell1_fullcorpus_true_raw,Pancreatic Cancer,7,PAX6,32005
+cell1_fullcorpus_true_raw,Pancreatic Cancer,8,DIAPH3,31994
+cell1_fullcorpus_true_raw,Pancreatic Cancer,9,CCDC102B,31990
+cell1_fullcorpus_true_raw,Pancreatic Cancer,10,NR4A2,20954
+cell3_pool_true_raw,Liver Cancer,1,BRIP1,1000
+cell3_pool_true_raw,Liver Cancer,2,SPI1,1000
+cell3_pool_true_raw,Liver Cancer,3,CD44,999
+cell3_pool_true_raw,Liver Cancer,4,WAS,797
+cell3_pool_true_raw,Liver Cancer,5,WWOX,781
+cell3_pool_true_raw,Liver Cancer,6,HYCC1,502
+cell3_pool_true_raw,Liver Cancer,7,UBE3A,496
+cell3_pool_true_raw,Liver Cancer,8,CCDC102B,449
+cell3_pool_true_raw,Liver Cancer,9,DIAPH3,449
+cell3_pool_true_raw,Liver Cancer,10,PAX6,449
+cell1_fullcorpus_true_raw,Liver Cancer,1,BRIP1,126976
+cell1_fullcorpus_true_raw,Liver Cancer,2,SPI1,126976
+cell1_fullcorpus_true_raw,Liver Cancer,3,CD44,125109
+cell1_fullcorpus_true_raw,Liver Cancer,4,WWOX,104381
+cell1_fullcorpus_true_raw,Liver Cancer,5,WAS,95065
+cell1_fullcorpus_true_raw,Liver Cancer,6,UBE3A,70271
+cell1_fullcorpus_true_raw,Liver Cancer,7,HYCC1,61795
+cell1_fullcorpus_true_raw,Liver Cancer,8,PAX6,59166
+cell1_fullcorpus_true_raw,Liver Cancer,9,DIAPH3,59162
+cell1_fullcorpus_true_raw,Liver Cancer,10,CCDC102B,59160
+cell3_pool_true_raw,Stomach Cancer,1,BRIP1,1000
+cell3_pool_true_raw,Stomach Cancer,2,SPI1,1000
+cell3_pool_true_raw,Stomach Cancer,3,CD44,996
+cell3_pool_true_raw,Stomach Cancer,4,WAS,771
+cell3_pool_true_raw,Stomach Cancer,5,WWOX,737
+cell3_pool_true_raw,Stomach Cancer,6,UBE3A,490
+cell3_pool_true_raw,Stomach Cancer,7,DIAPH3,449
+cell3_pool_true_raw,Stomach Cancer,8,CCDC102B,448
+cell3_pool_true_raw,Stomach Cancer,9,PAX6,448
+cell3_pool_true_raw,Stomach Cancer,10,NR4A2,430
+cell1_fullcorpus_true_raw,Stomach Cancer,1,BRIP1,64243
+cell1_fullcorpus_true_raw,Stomach Cancer,2,SPI1,64243
+cell1_fullcorpus_true_raw,Stomach Cancer,3,CD44,63372
+cell1_fullcorpus_true_raw,Stomach Cancer,4,WWOX,52110
+cell1_fullcorpus_true_raw,Stomach Cancer,5,WAS,51750
+cell1_fullcorpus_true_raw,Stomach Cancer,6,UBE3A,35359
+cell1_fullcorpus_true_raw,Stomach Cancer,7,PAX6,29632
+cell1_fullcorpus_true_raw,Stomach Cancer,8,DIAPH3,29629
+cell1_fullcorpus_true_raw,Stomach Cancer,9,CCDC102B,29628
+cell1_fullcorpus_true_raw,Stomach Cancer,10,NR4A2,20366
+cell3_pool_true_raw,Esophageal Cancer,1,BRIP1,998
+cell3_pool_true_raw,Esophageal Cancer,2,SPI1,998
+cell3_pool_true_raw,Esophageal Cancer,3,CD44,996
+cell3_pool_true_raw,Esophageal Cancer,4,WWOX,783
+cell3_pool_true_raw,Esophageal Cancer,5,WAS,744
+cell3_pool_true_raw,Esophageal Cancer,6,UBE3A,550
+cell3_pool_true_raw,Esophageal Cancer,7,CCDC102B,456
+cell3_pool_true_raw,Esophageal Cancer,8,DIAPH3,456
+cell3_pool_true_raw,Esophageal Cancer,9,PAX6,456
+cell3_pool_true_raw,Esophageal Cancer,10,TP53,390
+cell1_fullcorpus_true_raw,Esophageal Cancer,1,BRIP1,37823
+cell1_fullcorpus_true_raw,Esophageal Cancer,2,SPI1,37823
+cell1_fullcorpus_true_raw,Esophageal Cancer,3,CD44,37204
+cell1_fullcorpus_true_raw,Esophageal Cancer,4,WWOX,32227
+cell1_fullcorpus_true_raw,Esophageal Cancer,5,WAS,30358
+cell1_fullcorpus_true_raw,Esophageal Cancer,6,UBE3A,19698
+cell1_fullcorpus_true_raw,Esophageal Cancer,7,PAX6,18020
+cell1_fullcorpus_true_raw,Esophageal Cancer,8,CCDC102B,18018
+cell1_fullcorpus_true_raw,Esophageal Cancer,9,DIAPH3,18018
+cell1_fullcorpus_true_raw,Esophageal Cancer,10,NR4A2,12583
+cell3_pool_true_raw,Ovarian Cancer,1,BRIP1,1000
+cell3_pool_true_raw,Ovarian Cancer,2,SPI1,1000
+cell3_pool_true_raw,Ovarian Cancer,3,CD44,999
+cell3_pool_true_raw,Ovarian Cancer,4,WWOX,862
+cell3_pool_true_raw,Ovarian Cancer,5,WAS,817
+cell3_pool_true_raw,Ovarian Cancer,6,BRCA1,582
+cell3_pool_true_raw,Ovarian Cancer,7,BRCA2,463
+cell3_pool_true_raw,Ovarian Cancer,8,NR4A2,445
+cell3_pool_true_raw,Ovarian Cancer,9,UBE3A,443
+cell3_pool_true_raw,Ovarian Cancer,10,CCDC102B,438
+cell1_fullcorpus_true_raw,Ovarian Cancer,1,BRIP1,61416
+cell1_fullcorpus_true_raw,Ovarian Cancer,2,SPI1,61416
+cell1_fullcorpus_true_raw,Ovarian Cancer,3,CD44,60364
+cell1_fullcorpus_true_raw,Ovarian Cancer,4,WWOX,49389
+cell1_fullcorpus_true_raw,Ovarian Cancer,5,WAS,44298
+cell1_fullcorpus_true_raw,Ovarian Cancer,6,UBE3A,33960
+cell1_fullcorpus_true_raw,Ovarian Cancer,7,PAX6,30565
+cell1_fullcorpus_true_raw,Ovarian Cancer,8,CCDC102B,30563
+cell1_fullcorpus_true_raw,Ovarian Cancer,9,DIAPH3,30563
+cell1_fullcorpus_true_raw,Ovarian Cancer,10,NR4A2,20750
+cell3_pool_true_raw,Endometrial Cancer,1,BRIP1,999
+cell3_pool_true_raw,Endometrial Cancer,2,CD44,999
+cell3_pool_true_raw,Endometrial Cancer,3,SPI1,999
+cell3_pool_true_raw,Endometrial Cancer,4,WWOX,819
+cell3_pool_true_raw,Endometrial Cancer,5,WAS,758
+cell3_pool_true_raw,Endometrial Cancer,6,UBE3A,508
+cell3_pool_true_raw,Endometrial Cancer,7,CCDC102B,500
+cell3_pool_true_raw,Endometrial Cancer,8,DIAPH3,500
+cell3_pool_true_raw,Endometrial Cancer,9,PAX6,500
+cell3_pool_true_raw,Endometrial Cancer,10,NR4A2,416
+cell1_fullcorpus_true_raw,Endometrial Cancer,1,BRIP1,22049
+cell1_fullcorpus_true_raw,Endometrial Cancer,2,SPI1,22049
+cell1_fullcorpus_true_raw,Endometrial Cancer,3,CD44,21696
+cell1_fullcorpus_true_raw,Endometrial Cancer,4,WWOX,18230
+cell1_fullcorpus_true_raw,Endometrial Cancer,5,WAS,17544
+cell1_fullcorpus_true_raw,Endometrial Cancer,6,UBE3A,11625
+cell1_fullcorpus_true_raw,Endometrial Cancer,7,PAX6,10425
+cell1_fullcorpus_true_raw,Endometrial Cancer,8,CCDC102B,10424
+cell1_fullcorpus_true_raw,Endometrial Cancer,9,DIAPH3,10424
+cell1_fullcorpus_true_raw,Endometrial Cancer,10,NR4A2,8149
+cell3_pool_true_raw,Cervical Cancer,1,BRIP1,861
+cell3_pool_true_raw,Cervical Cancer,2,SPI1,861
+cell3_pool_true_raw,Cervical Cancer,3,CD44,858
+cell3_pool_true_raw,Cervical Cancer,4,WWOX,699
+cell3_pool_true_raw,Cervical Cancer,5,WAS,627
+cell3_pool_true_raw,Cervical Cancer,6,UBE3A,491
+cell3_pool_true_raw,Cervical Cancer,7,DIAPH3,416
+cell3_pool_true_raw,Cervical Cancer,8,CCDC102B,415
+cell3_pool_true_raw,Cervical Cancer,9,PAX6,415
+cell3_pool_true_raw,Cervical Cancer,10,NR4A2,296
+cell1_fullcorpus_true_raw,Cervical Cancer,1,BRIP1,50765
+cell1_fullcorpus_true_raw,Cervical Cancer,2,SPI1,50765
+cell1_fullcorpus_true_raw,Cervical Cancer,3,CD44,50017
+cell1_fullcorpus_true_raw,Cervical Cancer,4,WWOX,43524
+cell1_fullcorpus_true_raw,Cervical Cancer,5,WAS,39451
+cell1_fullcorpus_true_raw,Cervical Cancer,6,UBE3A,27326
+cell1_fullcorpus_true_raw,Cervical Cancer,7,DIAPH3,23128
+cell1_fullcorpus_true_raw,Cervical Cancer,8,PAX6,23128
+cell1_fullcorpus_true_raw,Cervical Cancer,9,CCDC102B,23127
+cell1_fullcorpus_true_raw,Cervical Cancer,10,NR4A2,16366
+cell3_pool_true_raw,Thyroid Cancer,1,BRIP1,1000
+cell3_pool_true_raw,Thyroid Cancer,2,SPI1,1000
+cell3_pool_true_raw,Thyroid Cancer,3,CD44,998
+cell3_pool_true_raw,Thyroid Cancer,4,WAS,866
+cell3_pool_true_raw,Thyroid Cancer,5,WWOX,793
+cell3_pool_true_raw,Thyroid Cancer,6,RET,631
+cell3_pool_true_raw,Thyroid Cancer,7,BRAF,565
+cell3_pool_true_raw,Thyroid Cancer,8,UBE3A,548
+cell3_pool_true_raw,Thyroid Cancer,9,CCDC102B,481
+cell3_pool_true_raw,Thyroid Cancer,10,DIAPH3,481
+cell1_fullcorpus_true_raw,Thyroid Cancer,1,BRIP1,38561
+cell1_fullcorpus_true_raw,Thyroid Cancer,2,SPI1,38561
+cell1_fullcorpus_true_raw,Thyroid Cancer,3,CD44,37891
+cell1_fullcorpus_true_raw,Thyroid Cancer,4,WWOX,31867
+cell1_fullcorpus_true_raw,Thyroid Cancer,5,WAS,30009
+cell1_fullcorpus_true_raw,Thyroid Cancer,6,UBE3A,20686
+cell1_fullcorpus_true_raw,Thyroid Cancer,7,PAX6,17960
+cell1_fullcorpus_true_raw,Thyroid Cancer,8,CCDC102B,17957
+cell1_fullcorpus_true_raw,Thyroid Cancer,9,DIAPH3,17957
+cell1_fullcorpus_true_raw,Thyroid Cancer,10,NR4A2,13462
+cell3_pool_true_raw,Brain Cancer,1,CD44,999
+cell3_pool_true_raw,Brain Cancer,2,BRIP1,998
+cell3_pool_true_raw,Brain Cancer,3,SPI1,998
+cell3_pool_true_raw,Brain Cancer,4,WWOX,797
+cell3_pool_true_raw,Brain Cancer,5,WAS,761
+cell3_pool_true_raw,Brain Cancer,6,UBE3A,493
+cell3_pool_true_raw,Brain Cancer,7,CCDC102B,491
+cell3_pool_true_raw,Brain Cancer,8,DIAPH3,491
+cell3_pool_true_raw,Brain Cancer,9,PAX6,491
+cell3_pool_true_raw,Brain Cancer,10,NR4A2,415
+cell1_fullcorpus_true_raw,Brain Cancer,1,BRIP1,102887
+cell1_fullcorpus_true_raw,Brain Cancer,2,SPI1,102887
+cell1_fullcorpus_true_raw,Brain Cancer,3,CD44,100903
+cell1_fullcorpus_true_raw,Brain Cancer,4,WWOX,83527
+cell1_fullcorpus_true_raw,Brain Cancer,5,WAS,69904
+cell1_fullcorpus_true_raw,Brain Cancer,6,UBE3A,56749
+cell1_fullcorpus_true_raw,Brain Cancer,7,PAX6,50122
+cell1_fullcorpus_true_raw,Brain Cancer,8,DIAPH3,50109
+cell1_fullcorpus_true_raw,Brain Cancer,9,CCDC102B,50108
+cell1_fullcorpus_true_raw,Brain Cancer,10,NR4A2,32371
+cell3_pool_true_raw,Leukemia,1,BRIP1,999
+cell3_pool_true_raw,Leukemia,2,CD44,999
+cell3_pool_true_raw,Leukemia,3,SPI1,999
+cell3_pool_true_raw,Leukemia,4,WAS,750
+cell3_pool_true_raw,Leukemia,5,WWOX,721
+cell3_pool_true_raw,Leukemia,6,UBE3A,472
+cell3_pool_true_raw,Leukemia,7,CCDC102B,464
+cell3_pool_true_raw,Leukemia,8,DIAPH3,464
+cell3_pool_true_raw,Leukemia,9,PAX6,464
+cell3_pool_true_raw,Leukemia,10,BCR,430
+cell1_fullcorpus_true_raw,Leukemia,1,BRIP1,106563
+cell1_fullcorpus_true_raw,Leukemia,2,SPI1,106563
+cell1_fullcorpus_true_raw,Leukemia,3,CD44,105058
+cell1_fullcorpus_true_raw,Leukemia,4,WWOX,82221
+cell1_fullcorpus_true_raw,Leukemia,5,WAS,67016
+cell1_fullcorpus_true_raw,Leukemia,6,UBE3A,58403
+cell1_fullcorpus_true_raw,Leukemia,7,PAX6,51324
+cell1_fullcorpus_true_raw,Leukemia,8,CCDC102B,51322
+cell1_fullcorpus_true_raw,Leukemia,9,DIAPH3,51322
+cell1_fullcorpus_true_raw,Leukemia,10,BCR,43831
+cell3_pool_true_raw,Lymphoma,1,BRIP1,1000
+cell3_pool_true_raw,Lymphoma,2,SPI1,1000
+cell3_pool_true_raw,Lymphoma,3,CD44,996
+cell3_pool_true_raw,Lymphoma,4,WWOX,728
+cell3_pool_true_raw,Lymphoma,5,WAS,660
+cell3_pool_true_raw,Lymphoma,6,UBE3A,490
+cell3_pool_true_raw,Lymphoma,7,CCDC102B,466
+cell3_pool_true_raw,Lymphoma,8,DIAPH3,466
+cell3_pool_true_raw,Lymphoma,9,PAX6,466
+cell3_pool_true_raw,Lymphoma,10,NR4A2,426
+cell1_fullcorpus_true_raw,Lymphoma,1,BRIP1,78782
+cell1_fullcorpus_true_raw,Lymphoma,2,SPI1,78782
+cell1_fullcorpus_true_raw,Lymphoma,3,CD44,76904
+cell1_fullcorpus_true_raw,Lymphoma,4,WWOX,60613
+cell1_fullcorpus_true_raw,Lymphoma,5,WAS,53438
+cell1_fullcorpus_true_raw,Lymphoma,6,UBE3A,41410
+cell1_fullcorpus_true_raw,Lymphoma,7,PAX6,38865
+cell1_fullcorpus_true_raw,Lymphoma,8,CCDC102B,38864
+cell1_fullcorpus_true_raw,Lymphoma,9,DIAPH3,38864
+cell1_fullcorpus_true_raw,Lymphoma,10,NR4A2,27180
+cell3_pool_true_raw,Myeloma,1,BRIP1,814
+cell3_pool_true_raw,Myeloma,2,SPI1,814
+cell3_pool_true_raw,Myeloma,3,CD44,810
+cell3_pool_true_raw,Myeloma,4,WWOX,607
+cell3_pool_true_raw,Myeloma,5,UBE3A,485
+cell3_pool_true_raw,Myeloma,6,CCDC102B,412
+cell3_pool_true_raw,Myeloma,7,DIAPH3,412
+cell3_pool_true_raw,Myeloma,8,PAX6,412
+cell3_pool_true_raw,Myeloma,9,WAS,387
+cell3_pool_true_raw,Myeloma,10,NR4A2,290
+cell1_fullcorpus_true_raw,Myeloma,1,BRIP1,26507
+cell1_fullcorpus_true_raw,Myeloma,2,SPI1,26507
+cell1_fullcorpus_true_raw,Myeloma,3,CD44,26169
+cell1_fullcorpus_true_raw,Myeloma,4,WWOX,21298
+cell1_fullcorpus_true_raw,Myeloma,5,WAS,17189
+cell1_fullcorpus_true_raw,Myeloma,6,UBE3A,15048
+cell1_fullcorpus_true_raw,Myeloma,7,DIAPH3,13202
+cell1_fullcorpus_true_raw,Myeloma,8,CCDC102B,13201
+cell1_fullcorpus_true_raw,Myeloma,9,PAX6,13201
+cell1_fullcorpus_true_raw,Myeloma,10,NR4A2,8907

@@ -1,0 +1,5 @@
+Setting,Same-cancer drivers,Any-cancer drivers,"Same-cancer, statistical-rule reference","Difference from its reference ruleset (95% CI), points"
+"frozen vocabulary, w = 0",150,178,136,
+"frozen vocabulary, w = 3",149,178,134,-0.5 (-2.1 to +1.1)
+"alias rule, w = 0",151,179,135,+0.5 (+0.0 to +1.6)
+"alias rule, w = 3",150,179,134,-0.5 (-2.1 to +1.1)

@@ -1,0 +1,21 @@
+Cancer,"Any-cancer, published","Any-cancer, statistical","Exact, published","Exact, statistical"
+Breast Cancer,10,8,9,7
+Lung Cancer,10,9,9,9
+Colorectal Cancer,7,7,7,6
+Prostate Cancer,9,7,6,6
+Melanoma,10,9,9,9
+Bladder Cancer,10,9,9,9
+Kidney Cancer,9,8,7,6
+Pancreatic Cancer,10,9,7,6
+Liver Cancer,9,8,7,7
+Stomach Cancer,10,9,8,6
+Esophageal Cancer,10,10,7,7
+Ovarian Cancer,9,8,8,5
+Endometrial Cancer,7,6,6,6
+Cervical Cancer,10,10,8,7
+Thyroid Cancer,10,9,9,7
+Brain Cancer,9,8,8,8
+Leukemia,10,9,9,8
+Lymphoma,10,10,9,9
+Myeloma,9,9,8,8
+**All 19**,**178**,**162**,**150**,**136**

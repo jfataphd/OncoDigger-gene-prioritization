@@ -1,0 +1,479 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Endometrial Cancer,PTEN,18221484,random,pten,C,M,,symbol 'PTEN' present,9,mutual exclusiveness between pik3ca and kras mutations in endometrial carcinoma,M
+Endometrial Cancer,PTEN,25308272,random,pten,C,ML,,symbol 'PTEN' present,46,targeted mutation analysis of endometrial clear cell carcinoma,ML
+Endometrial Cancer,PTEN,32279917,random,pten,C,M,,symbol 'PTEN' present,47,pten mutation a potential prognostic factor associated with immune infiltration in endometrial carcinoma,M
+Endometrial Cancer,PTEN,19853286,random,pten,C,M,,symbol 'PTEN' present,48,akt1 pleckstrin homology domain e17k activating mutation in endometrial carcinoma,M
+Endometrial Cancer,PTEN,40311467,random,pten,C,M,,symbol 'PTEN' present,101,molecular evolution of driver mutations in cancer with microsatellite instability and their impact on tumor progression implications for pre,M
+Endometrial Cancer,PTEN,16803540,random,pten,C,I,,symbol 'PTEN' present,102,msh2 splice site mutation and endometrial cancer,I
+Endometrial Cancer,PTEN,25701704,random,pten,C,M,,symbol 'PTEN' present,115,piking the type and pattern of pi3k pathway mutations in endometrioid endometrial carcinomas,M
+Endometrial Cancer,PTEN,27302833,random,pten,C,I,,symbol 'PTEN' present,122,frequent pik3ca mutations in colorectal and endometrial tumors with 2 or more somatic mutations in mismatch repair genes,I
+Endometrial Cancer,PTEN,22209294,targeted,phosphatase and tensin homolog,C,M,,credited via alias phosphatase and tensin homolog,139,pik3ca mutations in endometrial carcinomas in chinese women phosphatidylinositol 3'-kinase pathway alterations might be associated with favo,M
+Endometrial Cancer,PTEN,23765252,random,pten,C,M,,symbol 'PTEN' present,158,ovarian and endometrial endometrioid carcinomas have distinct ctnnb1 and pten mutation profiles,M
+Endometrial Cancer,PTEN,26556035,random,pten,C,ML,,symbol 'PTEN' present,206,tp53 mutational spectrum in endometrioid and serous endometrial cancers,ML
+Endometrial Cancer,PTEN,41743739,random,pten,C,ML,,symbol 'PTEN' present,232,genomic and immunological differences in endometrial cancer a comparative study between young and old asian patients,ML
+Endometrial Cancer,PTEN,15492994,random,pten,C,M,,symbol 'PTEN' present,234,pten mutations do not cause nuclear beta-catenin accumulation in endometrial carcinomas,M
+Endometrial Cancer,PTEN,18829572,random,pten,C,G,,symbol 'PTEN' present,239,pik3ca cooperates with other phosphatidylinositol 3'-kinase pathway mutations to effect oncogenic transformation,G
+Endometrial Cancer,PTEN,38986422,random,pten,C,ML,,symbol 'PTEN' present,258,whole exome sequencing reveals diverse genomic relatedness between paired concurrent endometrial and ovarian carcinomas,ML
+Endometrial Cancer,PTEN,10841828,random,pten,C,M,,symbol 'PTEN' present,269,altered pten expression as a diagnostic marker for the earliest endometrial precancers,M
+Endometrial Cancer,PTEN,33602681,random,pten,C,M,,symbol 'PTEN' present,296,clinicopathologic and genomic analysis of tp53 -mutated endometrial carcinomas,M
+Endometrial Cancer,PTEN,33256706,random,pten,C,I,,symbol 'PTEN' present,300,utility of a custom designed next generation dna sequencing gene panel to molecularly classify endometrial cancers according to the cancer g,I
+Endometrial Cancer,PTEN,21470976,random,pten,C,I,,symbol 'PTEN' present,430,placing mitochondrial dna mutations within the progression model of type i endometrial carcinoma,I
+Endometrial Cancer,PTEN,25195947,random,pten,C,P,,symbol 'PTEN' present,432,ovarian and endometrial endometrioid adenocarcinomas have distinct profiles of microsatellite instability pten expression and arid1a express,P
+Endometrial Cancer,PTEN,11156411,random,pten,C,M,,symbol 'PTEN' present,449,loss of heterozygosity on 10q23 3 and mutation of the tumor suppressor gene pten in benign endometrial cyst of the ovary possible sequence p,M
+Endometrial Cancer,PTEN,21285871,targeted,phosphatase and tensin homolog,C,M,,credited via alias phosphatase and tensin homolog,461,utilization of unlabeled probes for the detection of fibroblast growth factor receptor 2 exons 7 and 12 mutations in endometrial carcinoma,M
+Endometrial Cancer,PTEN,28886696,random,phosphatase and tensin homolog|pten,C,M,target,symbol 'PTEN' present,497,inhibition of pi3k-akt-mtor pathway sensitizes endometrial cancer cell lines to parp inhibitors,M
+Endometrial Cancer,PTEN,29084048,random,pten,C,ML,,symbol 'PTEN' present,532,clinical targeted next-generation sequencing shows increased mutational load in endometrioid-type endometrial adenocarcinoma with deficient ,ML
+Endometrial Cancer,PTEN,28984400,random,pten,C,M,,symbol 'PTEN' present,545,mutation analysis by whole exome sequencing of endometrial hyperplasia and carcinoma in one patient abnormalities of polymerase epsilon and ,M
+Endometrial Cancer,PTEN,27170661,random,pten,C,M,,symbol 'PTEN' present,572,discordant mutations in paired primary and metastatic endometrial adenocarcinomas identified by semiconductor-based sequencing for rapid can,M
+Endometrial Cancer,PTEN,27481051,random,phosphatase and tensin homolog|pten,C,M,,symbol 'PTEN' present,573,structural mutation analysis of pten and its genotype-phenotype correlations in endometriosis and cancer,M
+Endometrial Cancer,PTEN,38593674,random,pten,C,I,,symbol 'PTEN' present,586,disease progression survival and molecular disparities in black and white patients with endometrioid endometrial carcinoma in real-world reg,I
+Endometrial Cancer,PTEN,23468082,random,pten,C,W,,symbol 'PTEN' present,605,combined targeting of fgfr2 and mtor by ponatinib and ridaforolimus results in synergistic antitumor activity in fgfr2 mutant endometrial ca,W
+Endometrial Cancer,PTEN,33020491,random,pten,C,I,,symbol 'PTEN' present,621,molecular stratification of endometrioid ovarian carcinoma predicts clinical outcome,I
+Endometrial Cancer,PTEN,40209441,random,pten,C,ML,,symbol 'PTEN' present,672,genetic predictors of unexpected recurrence in low-risk endometrial cancer a comprehensive genomic analysis reveals fgfr2 as a risk factor a,ML
+Endometrial Cancer,PTEN,15069681,random,pten,C,M,,symbol 'PTEN' present,685,molecular alterations associated with cyclin d1 overexpression in endometrial cancer,M
+Endometrial Cancer,PTEN,28339086,random,pten,C,I,,symbol 'PTEN' present,696,identification of novel mutations in endometrial cancer patients by whole-exome sequencing,I
+Endometrial Cancer,PTEN,25131761,random,pten,C,M,,symbol 'PTEN' present,720,carcinogenic mechanisms of endometrial cancer involvement of genetics and epigenetics,M
+Endometrial Cancer,PTEN,24077915,random,pten,C,M,,symbol 'PTEN' present,733,another surprise from metformin novel mechanism of action via k-ras influences endometrial cancer response to therapy,M
+Endometrial Cancer,PTEN,33328602,random,pten,C,M,,symbol 'PTEN' present,747,clonal relationship and directionality of progression of synchronous endometrial and ovarian carcinomas in patients with dna mismatch repair,M
+Endometrial Cancer,PTEN,24018808,random,pten,C,P,,symbol 'PTEN' present,813,immunophenotypic analysis of ovarian endometrioid adenocarcinoma correlation with kras mutation and the presence of endometriosis,P
+Endometrial Cancer,PTEN,35072951,random,pten,C,M,,symbol 'PTEN' present,817,adiponectin deficiency promotes endometrial carcinoma pathogenesis and development via activation of mitogen-activated protein kinase,M
+Endometrial Cancer,PTEN,37231035,random,pten,C,P,,symbol 'PTEN' present,887,alteration in molecular properties during establishment and passaging of endometrial carcinoma patient-derived xenografts,P
+Endometrial Cancer,PTEN,24556061,random,pten,C,P,,symbol 'PTEN' present,924,high concordance of molecular tumor alterations between pre-operative curettage and hysterectomy specimens in patients with endometrial carc,P
+Endometrial Cancer,PTEN,22635024,random,pten,C,M,,symbol 'PTEN' present,977,genome-wide single nucleotide polymorphism arrays as a diagnostic tool in patients with synchronous endometrial and ovarian cancer,M
+Endometrial Cancer,PTEN,31340883,random,pten,C,M,,symbol 'PTEN' present,983,molecular profiling and molecular classification of endometrioid ovarian carcinomas,M
+Endometrial Cancer,PIK3CA,19853286,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,48,akt1 pleckstrin homology domain e17k activating mutation in endometrial carcinoma,M
+Endometrial Cancer,PIK3CA,30315273,random,pik3ca,C,I,target,symbol 'PIK3CA' present,86,targeted next-generation sequencing of endometrial cancer and matched circulating tumor dna identification of plasma-based tumor-associated ,I
+Endometrial Cancer,PIK3CA,24559118,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,95,a functional proteogenomic analysis of endometrioid and clear cell carcinomas using reverse phase protein array and mutation analysis protei,M
+Endometrial Cancer,PIK3CA,25701704,random,pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,115,piking the type and pattern of pi3k pathway mutations in endometrioid endometrial carcinomas,M
+Endometrial Cancer,PIK3CA,27302833,random,pik3ca,C,M,,symbol 'PIK3CA' present,122,frequent pik3ca mutations in colorectal and endometrial tumors with 2 or more somatic mutations in mismatch repair genes,M
+Endometrial Cancer,PIK3CA,31714586,random,pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,124,phase ii 2-stage 2-arm pik3ca mutation stratified trial of mk-2206 in recurrent endometrial cancer,M
+Endometrial Cancer,PIK3CA,21266528,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,136,a unique spectrum of somatic pik3ca p110alpha mutations within primary endometrial carcinomas,M
+Endometrial Cancer,PIK3CA,25394778,random,pik3ca,C,I,,symbol 'PIK3CA' present,149,clinicopathological analysis of endometrial carcinomas harboring somatic pole exonuclease domain mutations,I
+Endometrial Cancer,PIK3CA,30782821,random+targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,189,ovarian insufficiency and ctnnb1 mutations drive malignant transformation of endometrial hyperplasia with altered pten pi3k activities,M
+Endometrial Cancer,PIK3CA,23300780,random,pik3ca,C,M,target,symbol 'PIK3CA' present,191,high-throughput mutation profiling of primary and metastatic endometrial cancers identifies kras fgfr2 and pik3ca to be frequently mutated,M
+Endometrial Cancer,PIK3CA,37906351,random+targeted,pi3k,X,P,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,254,explore the alterations of downstream molecular pathways caused by arid1a mutation knockout in human endometrial cancer cells,P
+Endometrial Cancer,PIK3CA,42582151,random,pik3ca,C,I,,symbol 'PIK3CA' present,287,molecular classification of endometrial carcinoma clinical utility of an ngs panel with targeted detection of 116 cancer-related genes,I
+Endometrial Cancer,PIK3CA,24651628,targeted,pi3k,X,ML,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,289,the search continues looking for predictive biomarkers for response to mammalian target of rapamycin inhibition in endometrial cancer,ML
+Endometrial Cancer,PIK3CA,39417689,random,pik3ca,C,M,,symbol 'PIK3CA' present,310,genomic landscape of ctdna and real-world outcomes in advanced endometrial cancer,M
+Endometrial Cancer,PIK3CA,23636398,random,pik3ca,C,ML,,symbol 'PIK3CA' present,323,integrated genomic characterization of endometrial carcinoma,ML
+Endometrial Cancer,PIK3CA,32520976,random,pi3k|pik3ca,C,ML,,symbol 'PIK3CA' present,345,differences in the molecular profile of endometrial cancers from british white and british south asian women,ML
+Endometrial Cancer,PIK3CA,30448219,random,pik3ca,C,I,,symbol 'PIK3CA' present,373,high frequency of pole mutations in synchronous endometrial and ovarian carcinoma,I
+Endometrial Cancer,PIK3CA,36724040,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,384,prevalence and associations of beta2-microglobulin mutations in msi-h dmmr cancers,W
+Endometrial Cancer,PIK3CA,23702729,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,386,loss of arid1a expression and its relationship with pi3k-akt pathway alterations tp53 and microsatellite instability in endometrial cancer,M
+Endometrial Cancer,PIK3CA,31953839,random,phosphatidylinositol 4 5 bisphosphate 3 kinase catalytic subunit alpha|pik3ca,C,M,,symbol 'PIK3CA' present,396,detection of somatic mutations in peritoneal lavages and plasma of endometrial cancer patients a proof-of-concept study,M
+Endometrial Cancer,PIK3CA,23028188,targeted,pi3k,X,G,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,407,whole-exome sequencing combined with functional genomics reveals novel candidate driver cancer genes in endometrial cancer,G
+Endometrial Cancer,PIK3CA,37340596,random,pik3ca,C,ML,,symbol 'PIK3CA' present,434,a new type of endometrial cancer models in mice revealing the functional roles of genetic drivers and exploring their susceptibilities,ML
+Endometrial Cancer,PIK3CA,36857998,random,pik3ca,C,ML,,symbol 'PIK3CA' present,444,molecular landscape of mullerian clear cell carcinomas identifies the cancer genome atlas-like prognostic subgroups,ML
+Endometrial Cancer,PIK3CA,25773202,random,pik3ca,C,ML,,symbol 'PIK3CA' present,450,immunohistochemical and genetic profiles of endometrioid endometrial carcinoma arising from atrophic endometrium,ML
+Endometrial Cancer,PIK3CA,19349352,random,pik3ca,C,M,target,symbol 'PIK3CA' present,456,frequent activating mutations of pik3ca in ovarian clear cell carcinoma,M
+Endometrial Cancer,PIK3CA,41061386,random,pik3ca,C,I,,symbol 'PIK3CA' present,463,clonal origins and divergent evolutionary relationships of synchronous multiple malignant neoplasms in gynecology revealed by next-generatio,I
+Endometrial Cancer,PIK3CA,32187665,random,pik3ca,C,ML,,symbol 'PIK3CA' present,471,mutational profile of endometrial hyperplasia and risk of progression to endometrioid adenocarcinoma,ML
+Endometrial Cancer,PIK3CA,17471559,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,484,patterns of pik3ca alterations in familial colorectal and endometrial carcinoma,M
+Endometrial Cancer,PIK3CA,23238879,random,pi3k|pik3ca,C,P,,symbol 'PIK3CA' present,487,predicting everolimus treatment efficacy in patients with advanced endometrial carcinoma a gineco group study,P
+Endometrial Cancer,PIK3CA,28886696,targeted,pi3k,X,G,target,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,497,inhibition of pi3k-akt-mtor pathway sensitizes endometrial cancer cell lines to parp inhibitors,G
+Endometrial Cancer,PIK3CA,16273242,targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,518,exploration of genetic alterations in human endometrial cancer and melanoma distinct tumorigenic pathways that share a frequent abnormal pi3,M
+Endometrial Cancer,PIK3CA,21984976,random+targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,533,high frequency of pik3r1 and pik3r2 mutations in endometrial cancer elucidates a novel mechanism for regulation of pten protein stability,M
+Endometrial Cancer,PIK3CA,22807394,targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,559,molecular alterations in endometrial archived liquid-based cytology,M
+Endometrial Cancer,PIK3CA,31880826,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,580,phase 2 study of ly3023414 in patients with advanced endometrial cancer harboring activating mutations in the pi3k pathway,M
+Endometrial Cancer,PIK3CA,38593674,random+targeted,pi3k,X,ML,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,586,disease progression survival and molecular disparities in black and white patients with endometrioid endometrial carcinoma in real-world reg,ML
+Endometrial Cancer,PIK3CA,32909971,targeted,pi3k,X,ML,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,604,corded and hyalinized endometrioid adenocarcinoma chec of the uterine corpus are characterized by ctnnb1 mutations and can show adverse clin,ML
+Endometrial Cancer,PIK3CA,19917135,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,670,elevated expression of p53 gain-of-function mutation r175h in endometrial cancer cells can increase the invasive phenotypes by activation of,W
+Endometrial Cancer,PIK3CA,19234438,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,689,concomitant pi3k-akt and p53 alterations in endometrial carcinomas are associated with poor prognosis,M
+Endometrial Cancer,PIK3CA,21724579,random,pik3ca,C,I,,symbol 'PIK3CA' present,702,oncogenic events associated with endometrial and ovarian cancers are rare in endometriosis,I
+Endometrial Cancer,PIK3CA,25846551,targeted,pi3k,X,I,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,711,profiling cancer gene mutations in longitudinal epithelial ovarian cancer biopsies by targeted next-generation sequencing a retrospective st,I
+Endometrial Cancer,PIK3CA,26276776,random,pik3ca,C,M,,symbol 'PIK3CA' present,729,distinct -catenin and pik3ca mutation profiles in endometriosis-associated ovarian endometrioid and clear cell carcinomas,M
+Endometrial Cancer,PIK3CA,30711927,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,730,the role of kras in endometrial cancer a mini-review,W
+Endometrial Cancer,PIK3CA,24077915,targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,733,another surprise from metformin novel mechanism of action via k-ras influences endometrial cancer response to therapy,M
+Endometrial Cancer,PIK3CA,25173583,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,750,phase ii study of oral ridaforolimus in women with recurrent or metastatic endometrial cancer,W
+Endometrial Cancer,PIK3CA,37922951,targeted,pi3k,X,P,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,760,prospective clinical prognostication of endometrial carcinomas based on next-generation sequencing and immunohistochemistry-real-world imple,P
+Endometrial Cancer,PIK3CA,38536067,random,pik3ca,C,ML,,symbol 'PIK3CA' present,764,targeted and shallow whole-genome sequencing identifies therapeutic opportunities in p53abn endometrial cancers,ML
+Endometrial Cancer,PIK3CA,37574505,random,pik3ca,C,M,,symbol 'PIK3CA' present,794,clinical availability and characteristics of multigene panel testing for recurrent advanced gynecologic cancer,M
+Endometrial Cancer,PIK3CA,34725206,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,804,activation of oxidative phosphorylation in tp53-inactive endometrial carcinomas with a poor prognosis,W
+Endometrial Cancer,PIK3CA,21411444,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,829,activation of nf-kappab is a novel target of kras-induced endometrial carcinogenesis,W
+Endometrial Cancer,PIK3CA,32046431,random,pi3k|pik3ca,C,ML,,symbol 'PIK3CA' present,853,identification of a gene panel for endometrioid endometrial cancer a possible prognostic value,ML
+Endometrial Cancer,PIK3CA,29426295,targeted,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,857,preclinical evaluation and reverse phase protein array-based profiling of pi3k and mek inhibitors in endometrial carcinoma in vitro,M
+Endometrial Cancer,PIK3CA,22304686,random,pik3ca,C,G,,symbol 'PIK3CA' present,870,new insights on the pathogenesis of ovarian carcinoma molecular basis and clinical implications,G
+Endometrial Cancer,PIK3CA,39269025,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,894,histologic and molecular type changes in endometrial cancer recurrences in comparison with their corresponding primary tumors,W
+Endometrial Cancer,PIK3CA,42312452,random+targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,895,co-mutations of ctnnb1 and pten drive aggressive tumor progression in endometrial cancer,W
+Endometrial Cancer,PIK3CA,27767100,random,pik3ca,C,M,,symbol 'PIK3CA' present,966,ccne1 copy-number gain and overexpression identify ovarian clear cell carcinoma with a poor prognosis,M
+Endometrial Cancer,PIK3CA,23199529,random,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,987,oncogene alterations in endometrial carcinosarcomas,M
+Endometrial Cancer,PIK3CA,27288872,targeted,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,996,effects of the multikinase inhibitors sorafenib and regorafenib in pten deficient neoplasias,W
+Endometrial Cancer,POLE,39950607,targeted,pole,C,M,,symbol 'POLE' present,4,mutations in homologous recombination repair genes in patients with metastatic endometrial cancer association with clinical characteristics ,M
+Endometrial Cancer,POLE,41504649,targeted,pole,C,P,,symbol 'POLE' present,7,esr1 mutation in endocrine treatment-naive endometrial cancer prevalence characteristics and prognostic implications results from the utola ,P
+Endometrial Cancer,POLE,26937754,random,pole,C,M,,symbol 'POLE' present,22,prognostic significance of pole exonuclease domain mutations in high-grade endometrioid endometrial cancer on survival and recurrence a suba,M
+Endometrial Cancer,POLE,38666471,targeted,pole,C,ML,,symbol 'POLE' present,30,ttn mutation in endometrial endometrioid carcinoma is associated with poor clinical outcomes and high tumor mutation burden,ML
+Endometrial Cancer,POLE,33378353,targeted,pole,C,ML,,symbol 'POLE' present,34,dach1 mutation frequency in endometrial cancer is associated with high tumor mutation burden,ML
+Endometrial Cancer,POLE,39931062,random,pole,C,M,,symbol 'POLE' present,39,unveiling immunogenic characteristics and neoantigens in endometrial cancer with pole hotspot mutations for improved immunotherapy,M
+Endometrial Cancer,POLE,40516204,random,pole,C,M,,symbol 'POLE' present,44,an exploratory analysis of driver gene alterations and their potential prognostic relevance in endometrial cancer with pole exonuclease doma,M
+Endometrial Cancer,POLE,25308272,targeted,pole,C,ML,,symbol 'POLE' present,46,targeted mutation analysis of endometrial clear cell carcinoma,ML
+Endometrial Cancer,POLE,24844595,random,pole,C,M,,symbol 'POLE' present,54,pole exonuclease domain mutation predicts long progression-free survival in grade 3 endometrioid carcinoma of the endometrium,M
+Endometrial Cancer,POLE,24472300,targeted,pole1,C,M,,credited via alias pole1,77,frequent pole1 p s297f mutation in chinese patients with ovarian endometrioid carcinoma,M
+Endometrial Cancer,POLE,38914011,targeted,pole,C,ML,,symbol 'POLE' present,155,targetable erbb2 her2 mutations in gynecologic malignancies clinicopathological immunohistochemical and molecular correlations,ML
+Endometrial Cancer,POLE,26556035,random,pole,C,I,,symbol 'POLE' present,206,tp53 mutational spectrum in endometrioid and serous endometrial cancers,I
+Endometrial Cancer,POLE,40341112,random,pole,C,M,,symbol 'POLE' present,211,molecular subtype and mutational profile of endometrial atypical hyperplasia endometrioid intraepithelial neoplasia,M
+Endometrial Cancer,POLE,39235514,targeted,pole,C,I,,symbol 'POLE' present,213,molecular substratification of endometrial carcinomas with no special molecular profile nsmp by using a limited ngs custom panel may facilit,I
+Endometrial Cancer,POLE,39865420,random,pole,C,M,,symbol 'POLE' present,271,pole mutations in endometrial carcinoma clinical and genomic landscape from a large prospective single-center cohort,M
+Endometrial Cancer,POLE,26166557,random,pole,C,M,,symbol 'POLE' present,277,polymerase epsilon exonuclease domain mutations in ovarian endometrioid carcinoma,M
+Endometrial Cancer,POLE,35365770,random+targeted,pole,C,M,,symbol 'POLE' present,282,genomic landscape of endometrial carcinomas of no specific molecular profile,M
+Endometrial Cancer,POLE,32022266,targeted,pole,C,ML,,symbol 'POLE' present,291,molecular profiling identifies synchronous endometrial and ovarian cancers as metastatic endometrial cancer with favorable clinical outcome,ML
+Endometrial Cancer,POLE,35658479,random,pole,C,ML,,symbol 'POLE' present,313,tp53 sequencing and p53 immunohistochemistry predict outcomes when bevacizumab is added to frontline chemotherapy in endometrial cancer an n,ML
+Endometrial Cancer,POLE,23636398,targeted,pole,C,M,,symbol 'POLE' present,323,integrated genomic characterization of endometrial carcinoma,M
+Endometrial Cancer,POLE,41591910,random+targeted,pole,C,M,,symbol 'POLE' present,324,integrated mutational landscape analysis of endometrial stromal sarcoma,M
+Endometrial Cancer,POLE,41208314,random,pole,C,M,,symbol 'POLE' present,325,prognostic biomarker of fertility-preserving hormonal therapy based on multigene panel testing for endometrial cancer,M
+Endometrial Cancer,POLE,40707423,random,pole,C,M,,symbol 'POLE' present,339,clinical and biological characteristics associated with loss-of-heterozygosity in endometrial cancer,M
+Endometrial Cancer,POLE,41171033,random+targeted,pole,C,M,,symbol 'POLE' present,350,correlation between p53 immunohistochemical staining and tp53 molecular testing in endometrial carcinomas a detailed assessment of discrepan,M
+Endometrial Cancer,POLE,30917185,random,pole,C,M,,symbol 'POLE' present,388,phenotype of pole-mutated endometrial cancer,M
+Endometrial Cancer,POLE,38571325,random,pole,C,M,,symbol 'POLE' present,393,high prevalence of non-pathogenic pole mutation with poor prognosis in a cohort of endometrial cancer from south india,M
+Endometrial Cancer,POLE,33867147,random,pole,C,M,,symbol 'POLE' present,425,pp2a and e3 ubiquitin ligase deficiencies seminal biological drivers in endometrial cancer,M
+Endometrial Cancer,POLE,38262245,random,pole,C,M,,symbol 'POLE' present,427,prognosis of polymerase epsilon pole mutation in high-grade endometrioid endometrial cancer systematic review and meta-analysis,M
+Endometrial Cancer,POLE,29659608,random,pole,C,M,,symbol 'POLE' present,428,clinical impact of endometrial cancer stratified by genetic mutational profiles pole mutation and microsatellite instability,M
+Endometrial Cancer,POLE,36857998,targeted,pole,C,M,,symbol 'POLE' present,444,molecular landscape of mullerian clear cell carcinomas identifies the cancer genome atlas-like prognostic subgroups,M
+Endometrial Cancer,POLE,41906781,random,pole,C,M,,symbol 'POLE' present,445,diagnostic accuracy of the droplet digital pcr pole mutation test in endometrial cancer comparison with sanger sequencing and ngs,M
+Endometrial Cancer,POLE,31829442,random,pole,C,M,,symbol 'POLE' present,496,interpretation of somatic pole mutations in endometrial carcinoma,M
+Endometrial Cancer,POLE,36709662,random+targeted,pole,C,M,,symbol 'POLE' present,519,risk stratification and molecular heterogeneity of endometrial cancer and expression profile of tim-3 a retrospective cohort study,M
+Endometrial Cancer,POLE,40833784,targeted,pole,C,P,target,symbol 'POLE' present,529,evolution and co-occurrence of pi3k pathway gene mutations in endometrial carcinoma molecular subtypes at the single-cell level,P
+Endometrial Cancer,POLE,28984400,random,pole,C,M,,symbol 'POLE' present,545,mutation analysis by whole exome sequencing of endometrial hyperplasia and carcinoma in one patient abnormalities of polymerase epsilon and ,M
+Endometrial Cancer,POLE,38979592,targeted,pole,C,I,,symbol 'POLE' present,561,endometrial serous carcinoma with a corded and hyalinized pattern a clinicopathological and molecular analysis,I
+Endometrial Cancer,POLE,26232337,targeted,pole,C,M,,symbol 'POLE' present,569,characterization of patient-derived tumor xenograft models of endometrial cancer for preclinical evaluation of targeted therapies,M
+Endometrial Cancer,POLE,42025847,random,pole,C,M,,symbol 'POLE' present,570,copy number-low tp53-mutated endometrial cancer with wild-type p53 immunoexpression implications for risk stratification and management when,M
+Endometrial Cancer,POLE,41571190,random,pole,C,M,,symbol 'POLE' present,584,clonal progression of a dna polymerase epsilon-mutant endometrial cancer with immune evasion characteristics and metastasis,M
+Endometrial Cancer,POLE,32139151,random,pole,C,M,,symbol 'POLE' present,594,an integrated molecular profile of endometrioid ovarian cancer,M
+Endometrial Cancer,POLE,41930527,random+targeted,pole,C,P,,symbol 'POLE' present,597,molecular heterogeneity of endometrial cancer in the real-world biomarker patterns by tumor stage histology and molecular subtype,P
+Endometrial Cancer,POLE,32604171,targeted,pole,C,ML,,symbol 'POLE' present,608,molecular profiles of mixed endometrial carcinoma,ML
+Endometrial Cancer,POLE,33020491,targeted,pole,C,P,,symbol 'POLE' present,621,molecular stratification of endometrioid ovarian carcinoma predicts clinical outcome,P
+Endometrial Cancer,POLE,23528559,random,pole,C,M,,symbol 'POLE' present,654,dna polymerase and exonuclease domain mutations in endometrial cancer,M
+Endometrial Cancer,POLE,35278272,random,pole,C,M,,symbol 'POLE' present,671,clinical impact of genetic alterations of ctnnb1 in patients with grade 3 endometrial endometrioid carcinoma,M
+Endometrial Cancer,POLE,40209441,targeted,pole,C,M,,symbol 'POLE' present,672,genetic predictors of unexpected recurrence in low-risk endometrial cancer a comprehensive genomic analysis reveals fgfr2 as a risk factor a,M
+Endometrial Cancer,POLE,25720322,random,pole,C,M,,symbol 'POLE' present,691,refining prognosis and identifying targetable pathways for high-risk endometrial cancer a transportec initiative,M
+Endometrial Cancer,POLE,31829447,random,pole,C,M,,symbol 'POLE' present,694,clinicopathological and molecular characterisation of 'multiple-classifier' endometrial carcinomas,M
+Endometrial Cancer,POLE,30523022,targeted,pole,C,M,,symbol 'POLE' present,743,molecular subtype not immune response drives outcomes in endometrial carcinoma,M
+Endometrial Cancer,POLE,37480623,targeted,pole,C,M,,symbol 'POLE' present,755,evaluation of somatic mutations in cervicovaginal samples as a non-invasive method for the detection and molecular classification of endomet,M
+Endometrial Cancer,POLE,37922951,targeted,pole,C,M,,symbol 'POLE' present,760,prospective clinical prognostication of endometrial carcinomas based on next-generation sequencing and immunohistochemistry-real-world imple,M
+Endometrial Cancer,POLE,26492180,random,pole,C,M,,symbol 'POLE' present,773,molecular analysis of mixed endometrial carcinomas shows clonality in most cases,M
+Endometrial Cancer,POLE,28718916,random,pole,C,G,,symbol 'POLE' present,802,the genetic landscape of endometrial clear cell carcinomas,G
+Endometrial Cancer,POLE,40916623,targeted,pole,C,M,,symbol 'POLE' present,818,interpretable machine learning for proteomics-based subtyping and tumor mutational burden prediction in endometrial cancer,M
+Endometrial Cancer,POLE,41342935,targeted,pole,C,ML,,symbol 'POLE' present,848,endometrial carcinomas with solid basaloid morphology and geographic necrosis clinicopathological and molecular features of 18 cases,ML
+Endometrial Cancer,POLE,33290354,random,pole,C,M,,symbol 'POLE' present,849,the many uses of p53 immunohistochemistry in gynecological pathology proceedings of the isgyp companion society session at the 2020 uscap an,M
+Endometrial Cancer,POLE,32046431,targeted,pole,C,ML,,symbol 'POLE' present,853,identification of a gene panel for endometrioid endometrial cancer a possible prognostic value,ML
+Endometrial Cancer,POLE,41911343,random+targeted,pole,C,M,,symbol 'POLE' present,868,genomic and transcriptomic analysis of high-grade endometrial carcinoma reveals biological heterogeneity and molecular classification challe,M
+Endometrial Cancer,POLE,29079180,targeted,pole,C,I,,symbol 'POLE' present,880,mixed endometrial carcinomas with a low-grade serous -like component a clinicopathologic immunohistochemical and molecular genetic study,I
+Endometrial Cancer,POLE,37231035,targeted,pole,C,M,,symbol 'POLE' present,887,alteration in molecular properties during establishment and passaging of endometrial carcinoma patient-derived xenografts,M
+Endometrial Cancer,POLE,37964201,random,pole,C,M,,symbol 'POLE' present,900,molecular-based classification of endometrial carcinoma in northern thailand impact on prognosis and potential for implementation in resourc,M
+Endometrial Cancer,POLE,42128053,targeted,pole,C,P,,symbol 'POLE' present,907,ctnnb1-mutant high-grade endometrial carcinoma clinical outcome and prevalence of pilomatrix-like and corded hyalinized morphologies in an i,P
+Endometrial Cancer,POLE,38696842,targeted,pole,C,P,,symbol 'POLE' present,916,antitumor immunity and prognosis value elicited by fat3 and lrp1b co-mutation in endometrial cancer,P
+Endometrial Cancer,POLE,39062983,random,pole,C,M,,symbol 'POLE' present,917,tailoring endometrial cancer treatment based on molecular pathology current status and possible impacts on systemic and local treatment,M
+Endometrial Cancer,POLE,34875102,targeted,pole,C,M,,symbol 'POLE' present,925,mismatch repair and clinical response to immune checkpoint inhibitors in endometrial cancer,M
+Endometrial Cancer,POLE,41226475,random,pole,C,M,,symbol 'POLE' present,953,mirna signatures in endometrial cancer implications for oncogenesis and polymerase epsilon pole mutation status,M
+Endometrial Cancer,POLE,31678638,targeted,pole,C,P,,symbol 'POLE' present,960,high-resolution copy number analysis of clear cell endometrial carcinoma,P
+Endometrial Cancer,POLE,32384322,random,pole,C,M,,symbol 'POLE' present,974,molecular heterogeneity of endometrioid ovarian carcinoma an analysis of 166 cases using the endometrial cancer subrogate molecular classifi,M
+Endometrial Cancer,POLE,31340883,targeted,pole,C,M,,symbol 'POLE' present,983,molecular profiling and molecular classification of endometrioid ovarian carcinomas,M
+Endometrial Cancer,POLE,41257933,random,pole,C,ML,,symbol 'POLE' present,999,molecular profiling of endometrial cancer in martinique reveals frequent ccne1 amplification in poor prognosis tumors,ML
+Endometrial Cancer,TP53,39950607,random,tp53,C,M,,symbol 'TP53' present,4,mutations in homologous recombination repair genes in patients with metastatic endometrial cancer association with clinical characteristics ,M
+Endometrial Cancer,TP53,40683332,random,tp53,C,M,,symbol 'TP53' present,21,prevalence of atypical and subclonal p53 immunohistochemistry expression in mismatch repair deficient and or pole-mutant endometrial carcino,M
+Endometrial Cancer,TP53,32769429,random,tp53,C,M,,symbol 'TP53' present,90,ctnnb1 mutations and aberrant -catenin expression in ovarian endometrioid carcinoma correlation with patient outcome,M
+Endometrial Cancer,TP53,40311467,random,tp53,C,M,,symbol 'TP53' present,101,molecular evolution of driver mutations in cancer with microsatellite instability and their impact on tumor progression implications for pre,M
+Endometrial Cancer,TP53,23219661,random,tp53,C,P,,symbol 'TP53' present,175,high-throughput interrogation of pik3ca pten kras fbxw7 and tp53 mutations in primary endometrial carcinoma,P
+Endometrial Cancer,TP53,26556035,random,tp53,C,M,,symbol 'TP53' present,206,tp53 mutational spectrum in endometrioid and serous endometrial cancers,M
+Endometrial Cancer,TP53,31779688,random,tp53,C,M,,symbol 'TP53' present,207,combined genetic mutations and dna-methylated genes as biomarkers for endometrial cancer detection from cervical scrapings,M
+Endometrial Cancer,TP53,16793127,random,tp53,C,M,,symbol 'TP53' present,208,pten mutation expression and loh at its locus in ovarian carcinomas relation to tp53 k-ras and brca1 mutations,M
+Endometrial Cancer,TP53,22811390,random,tp53|tumor protein p53,C,M,,symbol 'TP53' present,233,brca1 tp53 and chek2 germline mutations in uterine serous carcinoma,M
+Endometrial Cancer,TP53,37748270,random,tp53,C,M,,symbol 'TP53' present,262,tp53 mutation and abnormal p53 expression in endometrial cancer associations with race and outcomes,M
+Endometrial Cancer,TP53,35128859,random,tp53,C,M,,symbol 'TP53' present,267,genomic landscape of advanced endometrial cancer analyzed by targeted next-generation sequencing and the cancer genome atlas tcga dataset,M
+Endometrial Cancer,TP53,20878066,random,tp53,C,M,,symbol 'TP53' present,292,amifostine enhancement of the anti-cancer effects of paclitaxel in endometrial cancer is tp53-dependent,M
+Endometrial Cancer,TP53,35658479,random,tp53,C,M,,symbol 'TP53' present,313,tp53 sequencing and p53 immunohistochemistry predict outcomes when bevacizumab is added to frontline chemotherapy in endometrial cancer an n,M
+Endometrial Cancer,TP53,39789538,random,tp53,C,M,,symbol 'TP53' present,332,estimation of tp53 mutations for endometrial cancer based on diffusion-weighted imaging deep learning and radiomics features,M
+Endometrial Cancer,TP53,41581707,random,tp53,C,M,,symbol 'TP53' present,365,correlation analysis of tp53 missense mutations and p53 protein expression patterns in endometrial carcinoma,M
+Endometrial Cancer,TP53,40250028,random,tp53,C,M,,symbol 'TP53' present,380,tp53 somatic evolution in the normal endometrium of black and white individuals,M
+Endometrial Cancer,TP53,23702729,random,tp53,C,M,,symbol 'TP53' present,386,loss of arid1a expression and its relationship with pi3k-akt pathway alterations tp53 and microsatellite instability in endometrial cancer,M
+Endometrial Cancer,TP53,32265358,random,tp53,C,M,,symbol 'TP53' present,439,equivalent survival of p53 mutated endometrial endometrioid carcinoma grade 3 and endometrial serous carcinoma,M
+Endometrial Cancer,TP53,39288655,random,tp53,C,M,,symbol 'TP53' present,442,identification of molecular subtypes for endometrial carcinoma using a 46-gene next-generation sequencing panel a retrospective study on a c,M
+Endometrial Cancer,TP53,35002543,random,tp53,C,M,,symbol 'TP53' present,538,molecular evaluation of endometrial dedifferentiated carcinoma endometrioid carcinoma carcinosarcoma and serous carcinoma using a custom-mad,M
+Endometrial Cancer,TP53,32139151,random,tp53,C,M,,symbol 'TP53' present,594,an integrated molecular profile of endometrioid ovarian cancer,M
+Endometrial Cancer,TP53,41930527,random,tp53,C,ML,,symbol 'TP53' present,597,molecular heterogeneity of endometrial cancer in the real-world biomarker patterns by tumor stage histology and molecular subtype,ML
+Endometrial Cancer,TP53,34998597,random,tp53,C,M,,symbol 'TP53' present,624,molecular analysis of endometrial serous carcinoma reveals distinct clinicopathologic and genomic subgroups,M
+Endometrial Cancer,TP53,38212229,random,tp53,C,M,,symbol 'TP53' present,659,predictive and prognostic biomarkers in female genital tract tumours an update highlighting their clinical relevance and practical issues,M
+Endometrial Cancer,TP53,24076778,random,tp53,C,M,,symbol 'TP53' present,682,histotype-genotype correlation in 36 high-grade endometrial carcinomas,M
+Endometrial Cancer,TP53,21724579,random,tp53,C,ML,,symbol 'TP53' present,702,oncogenic events associated with endometrial and ovarian cancers are rare in endometriosis,ML
+Endometrial Cancer,TP53,40298247,random,tp53,C,M,,symbol 'TP53' present,751,clinicopathologic and genomic analysis of uterine serous carcinomas arising from endometrial hyperplasia,M
+Endometrial Cancer,TP53,37922951,random,tp53,C,M,,symbol 'TP53' present,760,prospective clinical prognostication of endometrial carcinomas based on next-generation sequencing and immunohistochemistry-real-world imple,M
+Endometrial Cancer,TP53,35490034,random,tp53,C,M,,symbol 'TP53' present,762,molecular profiles of endometrial cancer tumors among black patients,M
+Endometrial Cancer,TP53,33499282,random,tp53,C,I,,symbol 'TP53' present,763,in silico inference of synthetic cytotoxic interactions from paclitaxel responses,I
+Endometrial Cancer,TP53,28718916,random,tp53,C,M,,symbol 'TP53' present,802,the genetic landscape of endometrial clear cell carcinomas,M
+Endometrial Cancer,TP53,39815187,random,tp53,C,M,,symbol 'TP53' present,805,molecular subtype of ovarian clear cell carcinoma an analysis of 80 chinese patients using the tcga molecular classification of endometrial ,M
+Endometrial Cancer,TP53,16907706,random,tp53,C,M,,symbol 'TP53' present,831,geographical variations in tp53 mutational spectrum in ovarian carcinomas,M
+Endometrial Cancer,TP53,40848684,random,tp53,C,M,,symbol 'TP53' present,885,whole-genome sequencing-based characterization of endometrial serous carcinoma,M
+Endometrial Cancer,TP53,26552420,random,tp53,C,M,,symbol 'TP53' present,898,lavage of the uterine cavity for molecular detection of mullerian duct carcinomas a proof-of-concept study,M
+Endometrial Cancer,TP53,24556061,random,tp53,C,ML,,symbol 'TP53' present,924,high concordance of molecular tumor alterations between pre-operative curettage and hysterectomy specimens in patients with endometrial carc,ML
+Endometrial Cancer,TP53,40358477,random,tp53,C,M,,symbol 'TP53' present,949,genomic profiling in patients with endometrial cancer by deep sequencing of vaginal swabs and plasma,M
+Endometrial Cancer,TP53,31678638,random,tp53,C,M,,symbol 'TP53' present,960,high-resolution copy number analysis of clear cell endometrial carcinoma,M
+Endometrial Cancer,TP53,37003074,random,tp53,C,M,,symbol 'TP53' present,970,her2 endometrioid endometrial cancer possesses distinct molecular and immunologic features associated with a more active immune microenviron,M
+Endometrial Cancer,TP53,32384322,random,tp53,C,ML,,symbol 'TP53' present,974,molecular heterogeneity of endometrioid ovarian carcinoma an analysis of 166 cases using the endometrial cancer subrogate molecular classifi,ML
+Endometrial Cancer,KRAS,30789355,random,kras,C,M,,symbol 'KRAS' present,5,frequent ctnnb1 or pik3ca mutations occurred in endometrial endometrioid adenocarcinoma with high levels of microsatellite instability and l,M
+Endometrial Cancer,KRAS,27016228,random,kras,C,ML,,symbol 'KRAS' present,17,tumor mutational analysis of gog248 a phase ii study of temsirolimus or temsirolimus and alternating megestrol acetate and tamoxifen for adv,ML
+Endometrial Cancer,KRAS,19853286,random,kras,C,ML,,symbol 'KRAS' present,48,akt1 pleckstrin homology domain e17k activating mutation in endometrial carcinoma,ML
+Endometrial Cancer,KRAS,16256179,random,kras,C,M,,symbol 'KRAS' present,49,consistent absence of braf mutations in cervical and endometrial cancer despite kras mutation status,M
+Endometrial Cancer,KRAS,40886777,random,kras,C,ML,,symbol 'KRAS' present,58,high-grade endometrioid carcinomas with pilomatrix-like features lacking ctnnb1 mutations clinicopathologic characteristics and novel molecu,ML
+Endometrial Cancer,KRAS,30315273,random,kras,C,ML,target,symbol 'KRAS' present,86,targeted next-generation sequencing of endometrial cancer and matched circulating tumor dna identification of plasma-based tumor-associated ,ML
+Endometrial Cancer,KRAS,27302833,random,kras,C,ML,,symbol 'KRAS' present,122,frequent pik3ca mutations in colorectal and endometrial tumors with 2 or more somatic mutations in mismatch repair genes,ML
+Endometrial Cancer,KRAS,23765252,random,kras,C,I,,symbol 'KRAS' present,158,ovarian and endometrial endometrioid carcinomas have distinct ctnnb1 and pten mutation profiles,I
+Endometrial Cancer,KRAS,15191558,random,kras,C,ML,,symbol 'KRAS' present,167,braf point mutations in primary melanoma show different prevalences by subtype,ML
+Endometrial Cancer,KRAS,19419940,random,kras,C,M,,symbol 'KRAS' present,173,mutations of the kras oncogene in endometrial hyperplasia and carcinoma,M
+Endometrial Cancer,KRAS,23300780,random,kras,C,M,target,symbol 'KRAS' present,191,high-throughput mutation profiling of primary and metastatic endometrial cancers identifies kras fgfr2 and pik3ca to be frequently mutated,M
+Endometrial Cancer,KRAS,41743739,random,kras,C,ML,,symbol 'KRAS' present,232,genomic and immunological differences in endometrial cancer a comparative study between young and old asian patients,ML
+Endometrial Cancer,KRAS,29715099,random,kras,C,M,,symbol 'KRAS' present,299,clinicopathological characteristics and kras mutation status of endometrial mucinous metaplasia and carcinoma,M
+Endometrial Cancer,KRAS,23702729,random,kras,C,ML,,symbol 'KRAS' present,386,loss of arid1a expression and its relationship with pi3k-akt pathway alterations tp53 and microsatellite instability in endometrial cancer,ML
+Endometrial Cancer,KRAS,21470976,random,kras,C,I,,symbol 'KRAS' present,430,placing mitochondrial dna mutations within the progression model of type i endometrial carcinoma,I
+Endometrial Cancer,KRAS,37340596,random,kras,C,M,,symbol 'KRAS' present,434,a new type of endometrial cancer models in mice revealing the functional roles of genetic drivers and exploring their susceptibilities,M
+Endometrial Cancer,KRAS,39948242,random,kras,C,M,,symbol 'KRAS' present,462,mesonephric-like adenocarcinoma of the endometrium detailed molecular characterization of the first case showing a morphological continuum f,M
+Endometrial Cancer,KRAS,23099803,random,kras,C,M,,symbol 'KRAS' present,467,kras gene amplification and overexpression but not mutation associates with aggressive and metastatic endometrial cancer,M
+Endometrial Cancer,KRAS,28203752,random,kras,C,M,,symbol 'KRAS' present,472,molecular profiles of benign and pre malignant endometrial lesions,M
+Endometrial Cancer,KRAS,17471559,random,kras,C,M,,symbol 'KRAS' present,484,patterns of pik3ca alterations in familial colorectal and endometrial carcinoma,M
+Endometrial Cancer,KRAS,34783431,random,kras,C,ML,,symbol 'KRAS' present,498,application of immunocytochemical and molecular analysis of six genes in liquid-based endometrial cytology,ML
+Endometrial Cancer,KRAS,41160109,random,kras,C,M,,symbol 'KRAS' present,531,multi-institutional study of mesonephric-like adenocarcinoma its clinicopathological characteristics and histogenetic association with ectop,M
+Endometrial Cancer,KRAS,21984976,random,kras,C,M,,symbol 'KRAS' present,533,high frequency of pik3r1 and pik3r2 mutations in endometrial cancer elucidates a novel mechanism for regulation of pten protein stability,M
+Endometrial Cancer,KRAS,25997988,random,kras,C,M,,symbol 'KRAS' present,554,diagnostic application of kras mutation testing in uterine microglandular proliferations,M
+Endometrial Cancer,KRAS,26232337,random,kras,C,ML,,symbol 'KRAS' present,569,characterization of patient-derived tumor xenograft models of endometrial cancer for preclinical evaluation of targeted therapies,ML
+Endometrial Cancer,KRAS,22540299,random,kras,C,M,,symbol 'KRAS' present,607,somatic deletions of the polya tract in the 3' untranslated region of epidermal growth factor receptor are common in microsatellite instabil,M
+Endometrial Cancer,KRAS,35953603,random,kras,C,ML,,symbol 'KRAS' present,620,towards less invasive molecular diagnostics for endometrial cancer massively parallel sequencing of endometrial lavage specimens in women at,ML
+Endometrial Cancer,KRAS,33020491,random,kras,C,I,,symbol 'KRAS' present,621,molecular stratification of endometrioid ovarian carcinoma predicts clinical outcome,I
+Endometrial Cancer,KRAS,31269413,random,kras,C,M,,symbol 'KRAS' present,643,clear cell carcinoma of the endometrium an immunohistochemical and molecular analysis of 45 cases,M
+Endometrial Cancer,KRAS,41983988,random,kras,C,M,,symbol 'KRAS' present,649,endometrial gastrointestinal mucinous metaplasia with goblet cells and kras mutation-report of two patients and review of literature,M
+Endometrial Cancer,KRAS,19243295,random,kras,C,M,,symbol 'KRAS' present,661,fgfr2 as a molecular target in endometrial cancer,M
+Endometrial Cancer,KRAS,31790621,random,kras,C,M,,symbol 'KRAS' present,668,the relationship between kras lcs6 polymorphism and endometrium cancer,M
+Endometrial Cancer,KRAS,21724579,random,kras,C,M,,symbol 'KRAS' present,702,oncogenic events associated with endometrial and ovarian cancers are rare in endometriosis,M
+Endometrial Cancer,KRAS,18757403,random,kras,C,M,,symbol 'KRAS' present,803,inhibition of activated fibroblast growth factor receptor 2 in endometrial cancer cells induces cell death despite pten abrogation,M
+Endometrial Cancer,KRAS,24018808,random,kras,C,M,,symbol 'KRAS' present,813,immunophenotypic analysis of ovarian endometrioid adenocarcinoma correlation with kras mutation and the presence of endometriosis,M
+Endometrial Cancer,KRAS,21285156,random,kras,C,ML,,symbol 'KRAS' present,851,brca genes lessons learned from experimental and clinical cancer,ML
+Endometrial Cancer,KRAS,19542870,random,kras,C,M,,symbol 'KRAS' present,856,pathogenetic pathways in ovarian endometrioid adenocarcinoma a molecular study of 29 cases,M
+Endometrial Cancer,KRAS,29426295,random,kras,C,M,,symbol 'KRAS' present,857,preclinical evaluation and reverse phase protein array-based profiling of pi3k and mek inhibitors in endometrial carcinoma in vitro,M
+Endometrial Cancer,KRAS,23078675,random,kras,C,M,,symbol 'KRAS' present,897,histotype-specific copy-number alterations in ovarian cancer,M
+Endometrial Cancer,KRAS,26552420,random,kras,C,M,,symbol 'KRAS' present,898,lavage of the uterine cavity for molecular detection of mullerian duct carcinomas a proof-of-concept study,M
+Endometrial Cancer,MLH1,30789355,random,mlh1,C,P,,symbol 'MLH1' present,5,frequent ctnnb1 or pik3ca mutations occurred in endometrial endometrioid adenocarcinoma with high levels of microsatellite instability and l,P
+Endometrial Cancer,MLH1,18708397,random,mlh1,C,M,,symbol 'MLH1' present,40,phenotype comparison of mlh1 and msh2 mutation carriers in a cohort of 1 914 individuals undergoing clinical genetic testing in the united s,M
+Endometrial Cancer,MLH1,34420090,random,mlh1,C,P,,symbol 'MLH1' present,61,clinicopathological features and prognostic significance of ctnnb1 mutation in low-grade early-stage endometrial endometrioid carcinoma,P
+Endometrial Cancer,MLH1,39296440,random,mlh1,C,I,,symbol 'MLH1' present,88,somatic and germline mutations in endometrial cancer,I
+Endometrial Cancer,MLH1,18269114,targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,93,germline msh6 mutations are more prevalent in endometrial cancer patient cohorts than hereditary non polyposis colorectal cancer cohorts,M
+Endometrial Cancer,MLH1,11854177,random,hnpcc|mlh1,C,M,,symbol 'MLH1' present,99,distinct pten mutational spectra in hereditary non-polyposis colon cancer syndrome-related endometrial carcinomas compared to sporadic micro,M
+Endometrial Cancer,MLH1,16803540,random+targeted,hnpcc,X,I,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,102,msh2 splice site mutation and endometrial cancer,I
+Endometrial Cancer,MLH1,15118616,random,mlh1,C,G,,symbol 'MLH1' present,119,ras raf mutation and defective dna mismatch repair in endometrial cancers,G
+Endometrial Cancer,MLH1,33549857,random,mlh1,C,M,,symbol 'MLH1' present,120,rna-seq reveals differences in expressed tumor mutation burden in colorectal and endometrial cancers with and without defective dna-mismatch,M
+Endometrial Cancer,MLH1,15805151,targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,137,no msh6 germline mutations in breast cancer families with colorectal and or endometrial cancer,M
+Endometrial Cancer,MLH1,33484353,random,mlh1,C,ML,,symbol 'MLH1' present,183,prevalence of mutations in brca and mmr genes in patients affected with hereditary endometrial cancer,ML
+Endometrial Cancer,MLH1,39235514,random,mlh1,C,I,,symbol 'MLH1' present,213,molecular substratification of endometrial carcinomas with no special molecular profile nsmp by using a limited ngs custom panel may facilit,I
+Endometrial Cancer,MLH1,12537658,random+targeted,hnpcc,X,I,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,250,mutational analysis of the hmsh6 gene in familial and early-onset colorectal and endometrial cancer in israeli patients,I
+Endometrial Cancer,MLH1,17925543,random,mlh1,C,M,,symbol 'MLH1' present,265,prospective determination of prevalence of lynch syndrome in young women with endometrial cancer,M
+Endometrial Cancer,MLH1,23880961,random,mlh1,C,M,,symbol 'MLH1' present,288,endometrial tumour braf mutations and mlh1 promoter methylation as predictors of germline mismatch repair gene mutation status a literature ,M
+Endometrial Cancer,MLH1,18841495,random,mlh1,C,I,,symbol 'MLH1' present,290,high risk of endometrial cancer in colorectal cancer kindred is pathognomonic for mmr-mutation carriers,I
+Endometrial Cancer,MLH1,33256706,random,mlh1,C,ML,,symbol 'MLH1' present,300,utility of a custom designed next generation dna sequencing gene panel to molecularly classify endometrial cancers according to the cancer g,ML
+Endometrial Cancer,MLH1,35483985,random,mlh1,C,ML,,symbol 'MLH1' present,302,utility of germline multi-gene panel testing in patients with endometrial cancer,ML
+Endometrial Cancer,MLH1,34048176,random,mlh1,C,M,,symbol 'MLH1' present,317,lynch syndrome in thai endometrial cancer patients,M
+Endometrial Cancer,MLH1,37683549,random,mlh1,C,M,,symbol 'MLH1' present,335,differential outcomes and immune checkpoint inhibitor response among endometrial cancer patients with mlh1 hypermethylation versus mlh1 lync,M
+Endometrial Cancer,MLH1,39032036,random,mlh1,C,ML,,symbol 'MLH1' present,342,performance evaluation of predictive models for detecting mmr gene mutations associated with lynch syndrome in cancer patients in a chinese ,ML
+Endometrial Cancer,MLH1,27535758,random,hnpcc|mlh1,C,M,,symbol 'MLH1' present,354,prevalence of lynch syndrome in unselected patients with endometrial or ovarian cancer,M
+Endometrial Cancer,MLH1,29133142,random,mlh1,C,I,,symbol 'MLH1' present,416,dedifferentiated endometrial carcinomas with neuroendocrine features a clinicopathologic immunohistochemical and molecular genetic study,I
+Endometrial Cancer,MLH1,29442399,random,mlh1,C,M,,symbol 'MLH1' present,448,clinicopathologic characteristics of double primary endometrial and colorectal cancers in a single institution,M
+Endometrial Cancer,MLH1,15611508,targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,480,refining the amsterdam criteria and bethesda guidelines testing algorithms for the prediction of mismatch repair mutation status in the fami,M
+Endometrial Cancer,MLH1,11306449,random,mlh1,C,P,,symbol 'MLH1' present,492,lack of msh2 and msh6 characterizes endometrial but not colon carcinomas in hereditary nonpolyposis colorectal cancer,P
+Endometrial Cancer,MLH1,30667141,random,mlh1,C,M,,symbol 'MLH1' present,500,impact of universal immunohistochemistry on lynch syndrome diagnosis in an australian colorectal cancer cohort,M
+Endometrial Cancer,MLH1,33021522,random,mlh1,C,I,,symbol 'MLH1' present,590,molecularly classified uterine figo grade 3 endometrioid carcinomas show distinctive clinical outcomes but overlapping morphologic features,I
+Endometrial Cancer,MLH1,11153917,random,hnpcc|mlh1,C,M,,symbol 'MLH1' present,626,do msh6 mutations contribute to double primary cancers of the colorectum and endometrium,M
+Endometrial Cancer,MLH1,19642020,random,mlh1,C,M,,symbol 'MLH1' present,631,are prediction models for lynch syndrome valid for probands with endometrial cancer,M
+Endometrial Cancer,MLH1,18470917,targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,642,uncertain pathogenicity of msh2 variants n127s and g322d challenges their classification,M
+Endometrial Cancer,MLH1,15937084,targeted,hnpcc,C,M,,credited via 'HNPCC' but a variant spelling of the gene (e.g. hMLH1/hMSH2) is in the text,666,risk of colorectal and endometrial cancer for carriers of mutations of the hmlh1 and hmsh2 gene correction for ascertainment,M
+Endometrial Cancer,MLH1,15354210,random,hnpcc|mlh1,C,M,,symbol 'MLH1' present,676,msh6 missense mutations are often associated with no or low cancer susceptibility,M
+Endometrial Cancer,MLH1,23531335,targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,681,lynch syndrome related endometrial cancer clinical significance beyond the endometrium,M
+Endometrial Cancer,MLH1,39853260,random,mlh1,C,M,,symbol 'MLH1' present,701,fertility-sparing treatment outcomes using immune checkpoint inhibitors in endometrial cancer patients with lynch syndrome,M
+Endometrial Cancer,MLH1,31980219,random,mlh1,C,G,,symbol 'MLH1' present,722,analysis of 108 patients with endometrial carcinoma using the promise classification and additional genetic analyses for mmr-d,G
+Endometrial Cancer,MLH1,19575290,random,hnpcc|mlh1,C,P,,symbol 'MLH1' present,742,mismatch repair defective breast cancer in the hereditary nonpolyposis colorectal cancer syndrome,P
+Endometrial Cancer,MLH1,24631699,targeted,hnpcc,X,I,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,749,the results of gynecologic surveillance in families with hereditary nonpolyposis colorectal cancer,I
+Endometrial Cancer,MLH1,26920370,random,mlh1,C,ML,,symbol 'MLH1' present,757,targeted next-generation sequencing for molecular diagnosis of endometriosis-associated ovarian cancer,ML
+Endometrial Cancer,MLH1,11956307,random,hnpcc|mlh1,C,P,,symbol 'MLH1' present,814,microsatellite instability and immunohistochemical analysis of mlh1 and msh2 in normal endometrium endometrial hyperplasia and endometrial c,P
+Endometrial Cancer,MLH1,40916623,random,mlh1,C,I,,symbol 'MLH1' present,818,interpretable machine learning for proteomics-based subtyping and tumor mutational burden prediction in endometrial cancer,I
+Endometrial Cancer,MLH1,20533284,random+targeted,hnpcc,X,I,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,826,risk of endometrial cancer for women diagnosed with hnpcc-related colorectal carcinoma,I
+Endometrial Cancer,MLH1,33426601,random,mlh1,C,G,,symbol 'MLH1' present,861,comparison of universal screening in major lynch-associated tumors a systematic review of literature,G
+Endometrial Cancer,MLH1,28498244,random,mlh1,C,G,,symbol 'MLH1' present,871,identifying lynch syndrome in women presenting with endometrial carcinoma under the age of 50 years,G
+Endometrial Cancer,MLH1,15991064,random,mlh1,C,M,,symbol 'MLH1' present,877,low allele frequency of mlh1 d132h in american colorectal and endometrial cancer patients,M
+Endometrial Cancer,MLH1,26811195,targeted,hnpcc,X,I,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,883,targeted next-generation sequencing of 22 mismatch repair genes identifies lynch syndrome families,I
+Endometrial Cancer,MLH1,31402167,random,mlh1,C,M,,symbol 'MLH1' present,890,granular dot-like staining with mlh1 immunohistochemistry is a clone-dependent artefact,M
+Endometrial Cancer,MLH1,41041321,random,mlh1,C,G,,symbol 'MLH1' present,910,evaluation of microsatellite instability patterns in mismatch repair deficiency a retrospective analysis of 285 endometrial cancers,G
+Endometrial Cancer,MLH1,14574017,targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,921,cancer risk in mismatch repair gene mutation carriers,M
+Endometrial Cancer,MLH1,16884359,targeted,hnpcc,X,W,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,975,gynecological tumors revealing hereditary nonpolyposis colorectal cancer analysis of a large lebanese pedigree,W
+Endometrial Cancer,CTNNB1,27016228,random,ctnnb1,C,M,,symbol 'CTNNB1' present,17,tumor mutational analysis of gog248 a phase ii study of temsirolimus or temsirolimus and alternating megestrol acetate and tamoxifen for adv,M
+Endometrial Cancer,CTNNB1,38408048,random,ctnnb1,C,M,,symbol 'CTNNB1' present,45,detection of driver mutations and genomic signatures in endometrial cancers using artificial intelligence algorithms,M
+Endometrial Cancer,CTNNB1,25308272,random,ctnnb1,C,ML,,symbol 'CTNNB1' present,46,targeted mutation analysis of endometrial clear cell carcinoma,ML
+Endometrial Cancer,CTNNB1,40886777,random,ctnnb1,C,M,,symbol 'CTNNB1' present,58,high-grade endometrioid carcinomas with pilomatrix-like features lacking ctnnb1 mutations clinicopathologic characteristics and novel molecu,M
+Endometrial Cancer,CTNNB1,39653501,random,ctnnb1,C,M,,symbol 'CTNNB1' present,69,lymphoid enhancer-binding factor 1 lef1 immunostaining as a surrogate for -catenin ctnnb1 mutations,M
+Endometrial Cancer,CTNNB1,30315273,random,ctnnb1,C,ML,target,symbol 'CTNNB1' present,86,targeted next-generation sequencing of endometrial cancer and matched circulating tumor dna identification of plasma-based tumor-associated ,ML
+Endometrial Cancer,CTNNB1,11161379,random+targeted,beta catenin,C,M,,credited via alias beta catenin,87,beta- catenin mutations and aberrant nuclear expression during endometrial tumorigenesis,M
+Endometrial Cancer,CTNNB1,40311467,random,ctnnb1,C,M,,symbol 'CTNNB1' present,101,molecular evolution of driver mutations in cancer with microsatellite instability and their impact on tumor progression implications for pre,M
+Endometrial Cancer,CTNNB1,36695555,random,ctnnb1,C,M,,symbol 'CTNNB1' present,132,estrogen progesterone receptor loss ctnnb1 and kras mutations are associated with local recurrence or distant metastasis in low-grade endome,M
+Endometrial Cancer,CTNNB1,11385321,targeted,beta catenin,C,M,,credited via alias beta catenin,143,beta-catenin expression pattern beta-catenin gene mutations and microsatellite instability in endometrioid ovarian carcinomas and synchronou,M
+Endometrial Cancer,CTNNB1,30702464,random,ctnnb1,C,M,,symbol 'CTNNB1' present,146,clinicopathologic and immunohistochemical correlates of ctnnb1 mutated endometrial endometrioid carcinoma,M
+Endometrial Cancer,CTNNB1,23765252,random,ctnnb1,C,M,,symbol 'CTNNB1' present,158,ovarian and endometrial endometrioid carcinomas have distinct ctnnb1 and pten mutation profiles,M
+Endometrial Cancer,CTNNB1,39235514,random,ctnnb1,C,I,,symbol 'CTNNB1' present,213,molecular substratification of endometrial carcinomas with no special molecular profile nsmp by using a limited ngs custom panel may facilit,I
+Endometrial Cancer,CTNNB1,29795437,random,ctnnb1,C,M,,symbol 'CTNNB1' present,214,nuclear -catenin localization and mutation of the ctnnb1 gene a context-dependent association,M
+Endometrial Cancer,CTNNB1,15492994,targeted,beta catenin,C,M,,credited via alias beta catenin,234,pten mutations do not cause nuclear beta-catenin accumulation in endometrial carcinomas,M
+Endometrial Cancer,CTNNB1,28281553,random,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,244,ctnnb1 beta-catenin mutation identifies low grade early stage endometrial cancer patients at increased risk of recurrence,M
+Endometrial Cancer,CTNNB1,16429393,targeted,beta catenin,C,M,,credited via alias beta catenin,293,high frequency of beta-catenin mutations in borderline endometrioid tumours of the ovary,M
+Endometrial Cancer,CTNNB1,41208314,random,ctnnb1,C,ML,,symbol 'CTNNB1' present,325,prognostic biomarker of fertility-preserving hormonal therapy based on multigene panel testing for endometrial cancer,ML
+Endometrial Cancer,CTNNB1,40348058,random,ctnnb1,C,M,,symbol 'CTNNB1' present,394,differential localization of -catenin protein in ctnnb1 mutant endometrial cancers results in distinct transcriptional profiles,M
+Endometrial Cancer,CTNNB1,36528987,random,ctnnb1,C,I,,symbol 'CTNNB1' present,415,histopathological and molecular findings in 98 cases of endometrial carcinoma mmr p53 and next generation sequencing,I
+Endometrial Cancer,CTNNB1,35149615,random,ctnnb1,C,M,,symbol 'CTNNB1' present,424,unusual ovarian tumors with endometrioid proliferations co-expressing estrogen receptor and cdx-2 arising in cystadenofibromatous background,M
+Endometrial Cancer,CTNNB1,25195947,random,ctnnb1,C,ML,,symbol 'CTNNB1' present,432,ovarian and endometrial endometrioid adenocarcinomas have distinct profiles of microsatellite instability pten expression and arid1a express,ML
+Endometrial Cancer,CTNNB1,11957146,random,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,451,ctnnb1 mutations and beta-catenin expression in endometrial carcinomas,M
+Endometrial Cancer,CTNNB1,19349352,random,ctnnb1,C,ML,,symbol 'CTNNB1' present,456,frequent activating mutations of pik3ca in ovarian clear cell carcinoma,ML
+Endometrial Cancer,CTNNB1,15361208,random+targeted,beta catenin,C,I,,credited via alias beta catenin,473,apc beta-catenin and e-cadherin and the development of recurrent endometrial carcinoma,I
+Endometrial Cancer,CTNNB1,11048799,random,beta catenin|ctnnb1,C,M,,symbol 'CTNNB1' present,483,mutational analysis of the ctnnb1 and apc genes in uterine endometrioid carcinoma,M
+Endometrial Cancer,CTNNB1,35283443,random,ctnnb1,C,M,,symbol 'CTNNB1' present,543,clinicopathologic evaluation of ctnnb1 mutations in high-intermediate risk endometrial endometrioid carcinoma,M
+Endometrial Cancer,CTNNB1,30710169,random,ctnnb1,C,I,,symbol 'CTNNB1' present,550,targeted sequencing with a customized panel to assess histological typing in endometrial carcinoma,I
+Endometrial Cancer,CTNNB1,35125405,random,ctnnb1,C,M,,symbol 'CTNNB1' present,551,clinicopathologic evaluation and molecular profiling of recurrent stage ia endometrial endometrioid carcinoma a case-control study,M
+Endometrial Cancer,CTNNB1,12708483,random+targeted,beta catenin,C,M,,credited via alias beta catenin,653,up-regulation and nuclear localization of beta-catenin in endometrial carcinoma in response to progesterone therapy,M
+Endometrial Cancer,CTNNB1,30910249,random,ctnnb1,C,M,,symbol 'CTNNB1' present,663,molecular markers in recurrent stage i grade 1 endometrioid endometrial cancers,M
+Endometrial Cancer,CTNNB1,14747944,targeted,beta catenin,C,M,,credited via alias beta catenin,674,molecular genetic pathways in various types of endometrial carcinoma from a phenotypical to a molecular-based classification,M
+Endometrial Cancer,CTNNB1,31992589,random,ctnnb1,C,M,,symbol 'CTNNB1' present,684,phase ii trial of cabozantinib in recurrent metastatic endometrial cancer a study of the princess margaret chicago and california consortia ,M
+Endometrial Cancer,CTNNB1,15069681,targeted,beta catenin,C,M,,credited via alias beta catenin,685,molecular alterations associated with cyclin d1 overexpression in endometrial cancer,M
+Endometrial Cancer,CTNNB1,38565644,random,ctnnb1,C,M,,symbol 'CTNNB1' present,723,proteogenomic insights into early-onset endometrioid endometrial carcinoma predictors for fertility-sparing therapy response,M
+Endometrial Cancer,CTNNB1,17332319,targeted,beta catenin,C,ML,,credited via alias beta catenin,741,inactivation of the candidate tumor suppressor par-4 in endometrial cancer,ML
+Endometrial Cancer,CTNNB1,11329142,targeted,beta catenin,C,M,,credited via alias beta catenin,759,frequent nuclear beta-catenin accumulation and associated mutations in endometrioid-type endometrial and ovarian carcinomas with squamous di,M
+Endometrial Cancer,CTNNB1,12439748,targeted,beta catenin,C,M,,credited via alias beta catenin,809,abnormalities of the apc beta-catenin pathway in endometrial cancer,M
+Endometrial Cancer,CTNNB1,31412428,random,ctnnb1,C,I,,symbol 'CTNNB1' present,820,molecular biomarkers predicting early development of endometrial carcinoma a pilot study,I
+Endometrial Cancer,CTNNB1,38907043,targeted,beta catenin,C,P,,credited via alias beta catenin,836,endometrial endometrioid adenocarcinoma with a malignant squamous component is the unusual metastatic pattern unique of these tumors,P
+Endometrial Cancer,CTNNB1,41227323,random,ctnnb1,C,M,,symbol 'CTNNB1' present,842,the proteomic landscape of ctnnb1 mutated low-grade early-stage endometrial carcinomas,M
+Endometrial Cancer,CTNNB1,41342935,random,ctnnb1,C,M,,symbol 'CTNNB1' present,848,endometrial carcinomas with solid basaloid morphology and geographic necrosis clinicopathological and molecular features of 18 cases,M
+Endometrial Cancer,CTNNB1,19542870,targeted,beta catenin,C,M,,credited via alias beta catenin,856,pathogenetic pathways in ovarian endometrioid adenocarcinoma a molecular study of 29 cases,M
+Endometrial Cancer,CTNNB1,22304686,random,ctnnb1,C,W,,symbol 'CTNNB1' present,870,new insights on the pathogenesis of ovarian carcinoma molecular basis and clinical implications,W
+Endometrial Cancer,CTNNB1,42128053,random,ctnnb1,C,M,,symbol 'CTNNB1' present,907,ctnnb1-mutant high-grade endometrial carcinoma clinical outcome and prevalence of pilomatrix-like and corded hyalinized morphologies in an i,M
+Endometrial Cancer,CTNNB1,39393363,random,ctnnb1,C,M,,symbol 'CTNNB1' present,939,pilomatrix-like breast carcinoma a mammary analog of pilomatrix-like high-grade endometrioid carcinoma pimhec,M
+Endometrial Cancer,CTNNB1,37003074,random,ctnnb1,C,M,,symbol 'CTNNB1' present,970,her2 endometrioid endometrial cancer possesses distinct molecular and immunologic features associated with a more active immune microenviron,M
+Endometrial Cancer,CTNNB1,22635024,random,ctnnb1,C,I,,symbol 'CTNNB1' present,977,genome-wide single nucleotide polymorphism arrays as a diagnostic tool in patients with synchronous endometrial and ovarian cancer,I
+Endometrial Cancer,CTNNB1,36150916,random,ctnnb1,C,M,,symbol 'CTNNB1' present,986,the role of ctnnb1 mutations and matrix metalloproteinases mmps in anti-angiogenesis treatment of endometrial carcinoma,M
+Endometrial Cancer,CTNNB1,26431491,random,ctnnb1,C,M,,symbol 'CTNNB1' present,993,long non-coding rna profiling links subgroup classification of endometrioid endometrial carcinomas with trithorax and polycomb complex aberr,M
+Endometrial Cancer,MSH2,30789355,random,msh2,C,P,,symbol 'MSH2' present,5,frequent ctnnb1 or pik3ca mutations occurred in endometrial endometrioid adenocarcinoma with high levels of microsatellite instability and l,P
+Endometrial Cancer,MSH2,34420090,random,msh2,C,P,,symbol 'MSH2' present,61,clinicopathological features and prognostic significance of ctnnb1 mutation in low-grade early-stage endometrial endometrioid carcinoma,P
+Endometrial Cancer,MSH2,28819700,random,msh2,C,M,,symbol 'MSH2' present,63,sporadic endometrial adenocarcinoma with mmr deficiency due to biallelic msh2 somatic mutations,M
+Endometrial Cancer,MSH2,18269114,targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,93,germline msh6 mutations are more prevalent in endometrial cancer patient cohorts than hereditary non polyposis colorectal cancer cohorts,M
+Endometrial Cancer,MSH2,15805151,targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,137,no msh6 germline mutations in breast cancer families with colorectal and or endometrial cancer,M
+Endometrial Cancer,MSH2,14961575,random,hnpcc|msh2,C,M,,symbol 'MSH2' present,153,mutation analysis of the mlh1 msh2 and msh6 genes in patients with double primary cancers of the colorectum and the endometrium a population,M
+Endometrial Cancer,MSH2,33577226,random,msh2,C,P,,symbol 'MSH2' present,154,mlh1 pms2-deficient endometrial carcinomas in a universally screened population mlh1 hypermethylation and germline mutation status,P
+Endometrial Cancer,MSH2,19688281,random+targeted,hnpcc,X,I,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,156,cancer risk in a cohort of subjects carrying a single mismatch repair gene mutation,I
+Endometrial Cancer,MSH2,15483016,random,hnpcc|msh2,C,M,,symbol 'MSH2' present,171,lower incidence of colorectal cancer and later age of disease onset in 27 families with pathogenic msh6 germline mutations compared with fam,M
+Endometrial Cancer,MSH2,12732731,random+targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,200,prevalence of defective dna mismatch repair and msh6 mutation in an unselected series of endometrial cancers,M
+Endometrial Cancer,MSH2,22811390,random,msh2|muts homolog 2,C,I,,symbol 'MSH2' present,233,brca1 tp53 and chek2 germline mutations in uterine serous carcinoma,I
+Endometrial Cancer,MSH2,15222003,random,hnpcc|msh2,C,M,,symbol 'MSH2' present,247,association of colonic and endometrial carcinomas in portuguese families with hereditary nonpolyposis colorectal carcinoma significantly inc,M
+Endometrial Cancer,MSH2,12537658,random+targeted,hnpcc,X,I,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,250,mutational analysis of the hmsh6 gene in familial and early-onset colorectal and endometrial cancer in israeli patients,I
+Endometrial Cancer,MSH2,17925543,random,msh2,C,M,,symbol 'MSH2' present,265,prospective determination of prevalence of lynch syndrome in young women with endometrial cancer,M
+Endometrial Cancer,MSH2,35483985,random,msh2,C,ML,,symbol 'MSH2' present,302,utility of germline multi-gene panel testing in patients with endometrial cancer,ML
+Endometrial Cancer,MSH2,34048176,random,msh2,C,P,,symbol 'MSH2' present,317,lynch syndrome in thai endometrial cancer patients,P
+Endometrial Cancer,MSH2,17973265,random,hnpcc|msh2,C,M,,symbol 'MSH2' present,337,hereditary nonpolyposis colorectal cancer in endometrial cancer patients,M
+Endometrial Cancer,MSH2,23385444,random,msh2,C,ML,,symbol 'MSH2' present,367,risks of colorectal and other cancers after endometrial cancer for women with lynch syndrome,ML
+Endometrial Cancer,MSH2,17260015,targeted,hnpcc,X,I,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,414,mechanisms of inactivation of mlh1 in hereditary nonpolyposis colorectal carcinoma a novel approach,I
+Endometrial Cancer,MSH2,36528987,random,msh2,C,P,,symbol 'MSH2' present,415,histopathological and molecular findings in 98 cases of endometrial carcinoma mmr p53 and next generation sequencing,P
+Endometrial Cancer,MSH2,21422863,random,msh2,C,I,,symbol 'MSH2' present,426,body mass index in early adulthood and endometrial cancer risk for mismatch repair gene mutation carriers,I
+Endometrial Cancer,MSH2,19672700,random,msh2,C,P,,symbol 'MSH2' present,436,epitope-positive truncating mlh1 mutation and loss of pms2 implications for ihc-directed genetic testing for lynch syndrome,P
+Endometrial Cancer,MSH2,26848797,random,msh2,C,I,,symbol 'MSH2' present,458,isolated loss of pms2 immunohistochemical expression is frequently caused by heterogenous mlh1 promoter hypermethylation in lynch syndrome s,I
+Endometrial Cancer,MSH2,15611508,targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,480,refining the amsterdam criteria and bethesda guidelines testing algorithms for the prediction of mismatch repair mutation status in the fami,M
+Endometrial Cancer,MSH2,11306449,random,msh2,C,M,,symbol 'MSH2' present,492,lack of msh2 and msh6 characterizes endometrial but not colon carcinomas in hereditary nonpolyposis colorectal cancer,M
+Endometrial Cancer,MSH2,29084048,random,msh2,C,ML,,symbol 'MSH2' present,532,clinical targeted next-generation sequencing shows increased mutational load in endometrioid-type endometrial adenocarcinoma with deficient ,ML
+Endometrial Cancer,MSH2,38979592,random,msh2,C,ML,,symbol 'MSH2' present,561,endometrial serous carcinoma with a corded and hyalinized pattern a clinicopathological and molecular analysis,ML
+Endometrial Cancer,MSH2,16885347,random,msh2,C,M,,symbol 'MSH2' present,592,mlh3 mutation in endometrial cancer,M
+Endometrial Cancer,MSH2,31269413,random,msh2,C,P,,symbol 'MSH2' present,643,clear cell carcinoma of the endometrium an immunohistochemical and molecular analysis of 45 cases,P
+Endometrial Cancer,MSH2,15937084,targeted,hnpcc,C,M,,credited via 'HNPCC' but a variant spelling of the gene (e.g. hMLH1/hMSH2) is in the text,666,risk of colorectal and endometrial cancer for carriers of mutations of the hmlh1 and hmsh2 gene correction for ascertainment,M
+Endometrial Cancer,MSH2,23531335,targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,681,lynch syndrome related endometrial cancer clinical significance beyond the endometrium,M
+Endometrial Cancer,MSH2,26657901,random,msh2,C,ML,,symbol 'MSH2' present,700,cancer incidence and survival in lynch syndrome patients receiving colonoscopic and gynaecological surveillance first report from the prospe,ML
+Endometrial Cancer,MSH2,30277666,random,msh2,C,P,,symbol 'MSH2' present,706,studies on selected molecular factors in endometrial cancers,P
+Endometrial Cancer,MSH2,23255516,random,msh2,C,M,,symbol 'MSH2' present,725,cancer risks for mlh1 and msh2 mutation carriers,M
+Endometrial Cancer,MSH2,19575290,random,hnpcc|msh2,C,M,,symbol 'MSH2' present,742,mismatch repair defective breast cancer in the hereditary nonpolyposis colorectal cancer syndrome,M
+Endometrial Cancer,MSH2,24631699,targeted,hnpcc,X,I,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,749,the results of gynecologic surveillance in families with hereditary nonpolyposis colorectal cancer,I
+Endometrial Cancer,MSH2,18805575,random,msh2,C,M,,symbol 'MSH2' present,768,synchronous occult cancers of the endometrium and fallopian tube in an msh2 mutation carrier at time of prophylactic surgery,M
+Endometrial Cancer,MSH2,29750335,random,msh2|muts homolog 2,C,I,,symbol 'MSH2' present,806,universal screening of both endometrial and colon cancers increases the detection of lynch syndrome,I
+Endometrial Cancer,MSH2,11956307,random,hnpcc|msh2,C,M,,symbol 'MSH2' present,814,microsatellite instability and immunohistochemical analysis of mlh1 and msh2 in normal endometrium endometrial hyperplasia and endometrial c,M
+Endometrial Cancer,MSH2,20533284,targeted,hnpcc,X,I,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,826,risk of endometrial cancer for women diagnosed with hnpcc-related colorectal carcinoma,I
+Endometrial Cancer,MSH2,29710374,random,msh2,C,I,,symbol 'MSH2' present,852,peritumoral granulomatous reaction in endometrial carcinoma association with dna mismatch repair protein deficiency particularly loss of pms,I
+Endometrial Cancer,MSH2,26895074,random,msh2,C,I,,symbol 'MSH2' present,873,mismatch repair deficiency testing in clinical practice,I
+Endometrial Cancer,MSH2,26811195,random+targeted,hnpcc,X,I,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,883,targeted next-generation sequencing of 22 mismatch repair genes identifies lynch syndrome families,I
+Endometrial Cancer,MSH2,41041321,random,msh2,C,P,,symbol 'MSH2' present,910,evaluation of microsatellite instability patterns in mismatch repair deficiency a retrospective analysis of 285 endometrial cancers,P
+Endometrial Cancer,MSH2,37222195,random,msh2,C,ML,,symbol 'MSH2' present,918,genomic profiling of dedifferentiated endometrial carcinomas arising in the background of high-grade carcinoma a targeted next-generation se,ML
+Endometrial Cancer,MSH2,14574017,targeted,hnpcc,X,M,,credited only via the syndrome name 'HNPCC'; no spelling of the gene in the abstract,921,cancer risk in mismatch repair gene mutation carriers,M
+Endometrial Cancer,MSH2,24933100,random,msh2,C,P,,symbol 'MSH2' present,930,consequences of universal msi ihc in screening endometrial cancer patients for lynch syndrome,P
+Endometrial Cancer,MSH2,31307542,random,msh2|muts homolog 2,C,I,,symbol 'MSH2' present,963,comparison of screening strategies for lynch syndrome in patients with newly diagnosed endometrial cancer a prospective cohort study in chin,I
+Endometrial Cancer,MSH2,16264161,random,msh2|muts homolog 2,C,M,,symbol 'MSH2' present,1000,history and molecular genetics of lynch syndrome in family g a century later,M
+Endometrial Cancer,MSH6,36765365,random,msh6,C,M,,symbol 'MSH6' present,23,a novel somatic mutation in pole exonuclease domain associated with ultra-mutational signature and mmr deficiency in endometrial cancer a ca,M
+Endometrial Cancer,MSH6,25194673,random,msh6,C,P,,symbol 'MSH6' present,60,colon and endometrial cancers with mismatch repair deficiency can arise from somatic rather than germline mutations,P
+Endometrial Cancer,MSH6,16691634,random,msh6,C,M,,symbol 'MSH6' present,79,birt-hogg-dube gene mutations in human endometrial carcinomas with microsatellite instability,M
+Endometrial Cancer,MSH6,22498935,random,msh6,C,P,,symbol 'MSH6' present,83,molecular characterization of endometrial cancer a correlative study assessing microsatellite instability mlh1 hypermethylation dna mismatch,P
+Endometrial Cancer,MSH6,18269114,random,msh6,C,M,,symbol 'MSH6' present,93,germline msh6 mutations are more prevalent in endometrial cancer patient cohorts than hereditary non polyposis colorectal cancer cohorts,M
+Endometrial Cancer,MSH6,37874375,random,msh6,C,P,,symbol 'MSH6' present,140,validation of modaplex pole mutation assay in endometrial carcinoma,P
+Endometrial Cancer,MSH6,20727894,random,msh6,C,M,,symbol 'MSH6' present,152,the premm 1 2 6 model predicts risk of mlh1 msh2 and msh6 germline mutations based on cancer history,M
+Endometrial Cancer,MSH6,25081409,random,msh6|muts homolog 6,C,P,,symbol 'MSH6' present,197,performance characteristics of screening strategies for lynch syndrome in unselected women with newly diagnosed endometrial cancer who have ,P
+Endometrial Cancer,MSH6,39235514,random,msh6,C,I,,symbol 'MSH6' present,213,molecular substratification of endometrial carcinomas with no special molecular profile nsmp by using a limited ngs custom panel may facilit,I
+Endometrial Cancer,MSH6,23695190,random,msh6,C,P,,symbol 'MSH6' present,220,double heterozygosity for brca1 and hmlh1 gene mutations in a 46-year-old woman with five primary tumors,P
+Endometrial Cancer,MSH6,38297350,random,msh6,C,M,,symbol 'MSH6' present,223,rare germline mutation and msh2- msh6 expression in a double primary carcinoma of colorectal carcinoma and endometrial carcinoma a case repo,M
+Endometrial Cancer,MSH6,41743739,random,msh6,C,ML,,symbol 'MSH6' present,232,genomic and immunological differences in endometrial cancer a comparative study between young and old asian patients,ML
+Endometrial Cancer,MSH6,20028993,random,msh6,C,M,,symbol 'MSH6' present,241,risks of lynch syndrome cancers for msh6 mutation carriers,M
+Endometrial Cancer,MSH6,17925543,random,msh6,C,M,,symbol 'MSH6' present,265,prospective determination of prevalence of lynch syndrome in young women with endometrial cancer,M
+Endometrial Cancer,MSH6,21155762,random,msh6,C,M,,symbol 'MSH6' present,309,characterization of two ashkenazi jewish founder mutations in msh6 gene causing lynch syndrome,M
+Endometrial Cancer,MSH6,16408224,random,msh6,C,M,,symbol 'MSH6' present,314,mutyh and the mismatch repair system partners in crime,M
+Endometrial Cancer,MSH6,17973265,random,msh6,C,M,,symbol 'MSH6' present,337,hereditary nonpolyposis colorectal cancer in endometrial cancer patients,M
+Endometrial Cancer,MSH6,15837969,random,msh6,C,ML,,symbol 'MSH6' present,398,molecular analysis of familial endometrial carcinoma a manifestation of hereditary nonpolyposis colorectal cancer or a separate syndrome,ML
+Endometrial Cancer,MSH6,21422863,random,msh6,C,I,,symbol 'MSH6' present,426,body mass index in early adulthood and endometrial cancer risk for mismatch repair gene mutation carriers,I
+Endometrial Cancer,MSH6,25195947,random,msh6,C,P,,symbol 'MSH6' present,432,ovarian and endometrial endometrioid adenocarcinomas have distinct profiles of microsatellite instability pten expression and arid1a express,P
+Endometrial Cancer,MSH6,11306449,random,msh6,C,P,,symbol 'MSH6' present,492,lack of msh2 and msh6 characterizes endometrial but not colon carcinomas in hereditary nonpolyposis colorectal cancer,P
+Endometrial Cancer,MSH6,29084048,random,msh6,C,ML,,symbol 'MSH6' present,532,clinical targeted next-generation sequencing shows increased mutational load in endometrioid-type endometrial adenocarcinoma with deficient ,ML
+Endometrial Cancer,MSH6,25229768,random,msh6,C,G,,symbol 'MSH6' present,566,lynch syndrome screening should be considered for all patients with newly diagnosed endometrial cancer,G
+Endometrial Cancer,MSH6,23164213,random,msh6,C,M,,symbol 'MSH6' present,616,germline truncating-mutations in brca1 and msh6 in a patient with early onset endometrial cancer,M
+Endometrial Cancer,MSH6,18972272,random,msh6,C,ML,,symbol 'MSH6' present,623,risk of gynecologic cancers in danish hereditary non-polyposis colorectal cancer families,ML
+Endometrial Cancer,MSH6,28795426,random,msh6,C,I,,symbol 'MSH6' present,630,blinded histopathological characterisation of pole exonuclease domain-mutant endometrial cancers sheep in wolf's clothing,I
+Endometrial Cancer,MSH6,19622357,random,msh6,C,M,,symbol 'MSH6' present,636,calculation of risk of colorectal and endometrial cancer among patients with lynch syndrome,M
+Endometrial Cancer,MSH6,28669579,random,msh6,C,P,,symbol 'MSH6' present,637,lessons learnt from implementation of a lynch syndrome screening program for patients with gynaecological malignancy,P
+Endometrial Cancer,MSH6,27928858,random,msh6,C,M,,symbol 'MSH6' present,641,carcinoma of the lower uterine segment diagnosed with lynch syndrome based on msh6 germline mutation a case report,M
+Endometrial Cancer,MSH6,18470917,random,msh6,C,I,,symbol 'MSH6' present,642,uncertain pathogenicity of msh2 variants n127s and g322d challenges their classification,I
+Endometrial Cancer,MSH6,26657901,random,msh6,C,ML,,symbol 'MSH6' present,700,cancer incidence and survival in lynch syndrome patients receiving colonoscopic and gynaecological surveillance first report from the prospe,ML
+Endometrial Cancer,MSH6,31980219,random,msh6,C,P,,symbol 'MSH6' present,722,analysis of 108 patients with endometrial carcinoma using the promise classification and additional genetic analyses for mmr-d,P
+Endometrial Cancer,MSH6,19575290,random,msh6,C,M,,symbol 'MSH6' present,742,mismatch repair defective breast cancer in the hereditary nonpolyposis colorectal cancer syndrome,M
+Endometrial Cancer,MSH6,38228591,random,msh6,C,I,,symbol 'MSH6' present,855,new insights into lynch syndrome a narrative review,I
+Endometrial Cancer,MSH6,28498244,random,msh6,C,P,,symbol 'MSH6' present,871,identifying lynch syndrome in women presenting with endometrial carcinoma under the age of 50 years,P
+Endometrial Cancer,MSH6,37231035,random,msh6,C,ML,,symbol 'MSH6' present,887,alteration in molecular properties during establishment and passaging of endometrial carcinoma patient-derived xenografts,ML
+Endometrial Cancer,MSH6,41041321,random,msh6,C,M,,symbol 'MSH6' present,910,evaluation of microsatellite instability patterns in mismatch repair deficiency a retrospective analysis of 285 endometrial cancers,M
+Endometrial Cancer,MSH6,37222195,random,msh6,C,ML,,symbol 'MSH6' present,918,genomic profiling of dedifferentiated endometrial carcinomas arising in the background of high-grade carcinoma a targeted next-generation se,ML
+Endometrial Cancer,MSH6,24933100,random,msh6,C,P,,symbol 'MSH6' present,930,consequences of universal msi ihc in screening endometrial cancer patients for lynch syndrome,P
+Endometrial Cancer,MSH6,31307542,random,msh6|muts homolog 6,C,I,,symbol 'MSH6' present,963,comparison of screening strategies for lynch syndrome in patients with newly diagnosed endometrial cancer a prospective cohort study in chin,I
+Endometrial Cancer,ARID1A,25081752,random,arid1a,C,G,,symbol 'ARID1A' present,25,molecular alterations in endometrial and ovarian clear cell carcinomas clinical impacts of telomerase reverse transcriptase promoter mutatio,G
+Endometrial Cancer,ARID1A,40311467,random,arid1a,C,M,,symbol 'ARID1A' present,101,molecular evolution of driver mutations in cancer with microsatellite instability and their impact on tumor progression implications for pre,M
+Endometrial Cancer,ARID1A,21412130,random,arid1a,C,M,,symbol 'ARID1A' present,111,mutation and loss of expression of arid1a in uterine low-grade endometrioid carcinoma,M
+Endometrial Cancer,ARID1A,25394778,random,arid1a,C,ML,,symbol 'ARID1A' present,149,clinicopathological analysis of endometrial carcinomas harboring somatic pole exonuclease domain mutations,ML
+Endometrial Cancer,ARID1A,23765252,random,arid1a,C,I,,symbol 'ARID1A' present,158,ovarian and endometrial endometrioid carcinomas have distinct ctnnb1 and pten mutation profiles,I
+Endometrial Cancer,ARID1A,28498284,random,arid1a,C,P,,symbol 'ARID1A' present,169,undifferentiated and dedifferentiated endometrial carcinomas with pole exonuclease domain mutations have a favorable prognosis,P
+Endometrial Cancer,ARID1A,33052929,random,arid1a,C,M,,symbol 'ARID1A' present,187,establishment and characterization of voa1066 cells an undifferentiated endometrial carcinoma cell line,M
+Endometrial Cancer,ARID1A,39235514,random,arid1a,C,I,,symbol 'ARID1A' present,213,molecular substratification of endometrial carcinomas with no special molecular profile nsmp by using a limited ngs custom panel may facilit,I
+Endometrial Cancer,ARID1A,36333181,random,arid1a,C,I,,symbol 'ARID1A' present,246,molecular portraits of clear cell ovarian and endometrial carcinoma with comparison to clear cell renal cell carcinoma,I
+Endometrial Cancer,ARID1A,37906351,random,arid1a|at rich interaction domain 1a,C,M,,symbol 'ARID1A' present,254,explore the alterations of downstream molecular pathways caused by arid1a mutation knockout in human endometrial cancer cells,M
+Endometrial Cancer,ARID1A,38986422,random,arid1a,C,ML,,symbol 'ARID1A' present,258,whole exome sequencing reveals diverse genomic relatedness between paired concurrent endometrial and ovarian carcinomas,ML
+Endometrial Cancer,ARID1A,40707423,random,arid1a,C,ML,,symbol 'ARID1A' present,339,clinical and biological characteristics associated with loss-of-heterozygosity in endometrial cancer,ML
+Endometrial Cancer,ARID1A,23702729,random,arid1a,C,M,,symbol 'ARID1A' present,386,loss of arid1a expression and its relationship with pi3k-akt pathway alterations tp53 and microsatellite instability in endometrial cancer,M
+Endometrial Cancer,ARID1A,23028188,random,arid1a,C,M,,symbol 'ARID1A' present,407,whole-exome sequencing combined with functional genomics reveals novel candidate driver cancer genes in endometrial cancer,M
+Endometrial Cancer,ARID1A,41436846,random,arid1a,C,ML,,symbol 'ARID1A' present,413,a deeper dive into pole -mutated endometrial carcinomas the contributions and consequences of tumor mutational burden,ML
+Endometrial Cancer,ARID1A,29133142,random,arid1a,C,P,,symbol 'ARID1A' present,416,dedifferentiated endometrial carcinomas with neuroendocrine features a clinicopathologic immunohistochemical and molecular genetic study,P
+Endometrial Cancer,ARID1A,25195947,random,arid1a,C,P,,symbol 'ARID1A' present,432,ovarian and endometrial endometrioid adenocarcinomas have distinct profiles of microsatellite instability pten expression and arid1a express,P
+Endometrial Cancer,ARID1A,38704093,random,arid1a,C,M,,symbol 'ARID1A' present,452,mito end-3 efficacy of avelumab immunotherapy according to molecular profiling in first-line endometrial cancer therapy,M
+Endometrial Cancer,ARID1A,41061386,random,arid1a,C,ML,,symbol 'ARID1A' present,463,clonal origins and divergent evolutionary relationships of synchronous multiple malignant neoplasms in gynecology revealed by next-generatio,ML
+Endometrial Cancer,ARID1A,33016334,random,arid1a,C,I,,symbol 'ARID1A' present,488,genome-wide mutation analysis in precancerous lesions of endometrial carcinoma,I
+Endometrial Cancer,ARID1A,28485815,random,arid1a,C,I,,symbol 'ARID1A' present,489,somatic mutation profiles of clear cell endometrial tumors revealed by whole exome and targeted gene sequencing,I
+Endometrial Cancer,ARID1A,34783431,random,arid1a,C,P,,symbol 'ARID1A' present,498,application of immunocytochemical and molecular analysis of six genes in liquid-based endometrial cytology,P
+Endometrial Cancer,ARID1A,30710169,random,arid1a,C,ML,,symbol 'ARID1A' present,550,targeted sequencing with a customized panel to assess histological typing in endometrial carcinoma,ML
+Endometrial Cancer,ARID1A,35953603,random,arid1a,C,ML,,symbol 'ARID1A' present,620,towards less invasive molecular diagnostics for endometrial cancer massively parallel sequencing of endometrial lavage specimens in women at,ML
+Endometrial Cancer,ARID1A,33020491,random,arid1a,C,ML,,symbol 'ARID1A' present,621,molecular stratification of endometrioid ovarian carcinoma predicts clinical outcome,ML
+Endometrial Cancer,ARID1A,33143664,random,arid1a,C,M,,symbol 'ARID1A' present,655,a clear cancer cell line 150057 derived from human endometrial carcinoma harbors two novel mutations,M
+Endometrial Cancer,ARID1A,25720322,random,arid1a,C,P,,symbol 'ARID1A' present,691,refining prognosis and identifying targetable pathways for high-risk endometrial cancer a transportec initiative,P
+Endometrial Cancer,ARID1A,30277666,random,arid1a,C,P,,symbol 'ARID1A' present,706,studies on selected molecular factors in endometrial cancers,P
+Endometrial Cancer,ARID1A,23887303,random,arid1a|baf250a,C,M,,symbol 'ARID1A' present,736,arid1a loss correlates with mismatch repair deficiency and intact p53 expression in high-grade endometrial carcinomas,M
+Endometrial Cancer,ARID1A,36252860,random,arid1a,C,P,,symbol 'ARID1A' present,740,arid1a brg1 and ini1 deficiency in undifferentiated and dedifferentiated endometrial carcinoma a clinicopathologic immunohistochemical and n,P
+Endometrial Cancer,ARID1A,40298247,random,arid1a,C,M,,symbol 'ARID1A' present,751,clinicopathologic and genomic analysis of uterine serous carcinomas arising from endometrial hyperplasia,M
+Endometrial Cancer,ARID1A,26920370,random,arid1a,C,ML,,symbol 'ARID1A' present,757,targeted next-generation sequencing for molecular diagnosis of endometriosis-associated ovarian cancer,ML
+Endometrial Cancer,ARID1A,35490034,random,arid1a,C,M,,symbol 'ARID1A' present,762,molecular profiles of endometrial cancer tumors among black patients,M
+Endometrial Cancer,ARID1A,34791535,random,arid1a,C,P,,symbol 'ARID1A' present,776,genetic features of endometrioid-type endometrial carcinoma arising in uterine adenomyosis,P
+Endometrial Cancer,ARID1A,42106147,random,arid1a,C,M,,symbol 'ARID1A' present,801,characterizing the discordance between at-rich interacting domain 1a protein and genotype in endometrioid-type endometrial tumors,M
+Endometrial Cancer,ARID1A,24018808,random+targeted,baf250a,C,P,,credited via alias baf250a,813,immunophenotypic analysis of ovarian endometrioid adenocarcinoma correlation with kras mutation and the presence of endometriosis,P
+Endometrial Cancer,ARID1A,40202384,random,arid1a,C,M,,symbol 'ARID1A' present,874,pilomatrix-like high-grade endometrial carcinoma an underdiagnosed entity with aggressive clinicopathologic features,M
+Endometrial Cancer,ARID1A,42162929,random,arid1a,C,P,,symbol 'ARID1A' present,879,dedifferentiated undifferentiated endometrial carcinoma swi snf-deficiency and molecular heterogeneity indicating novel prognostic stratific,P
+Endometrial Cancer,ARID1A,35796805,random,arid1a,C,P,,symbol 'ARID1A' present,942,a 2-tier subdivision of papillary proliferations of the endometrium ppe only emphasizing the complexity of papillae precisely predicts the n,P
+Endometrial Cancer,ARID1A,35647895,random,arid1a,C,M,,symbol 'ARID1A' present,943,definitive study shows no association between arid1a mutation status and clinical outcome in endometriosis-related ovarian cancers,M

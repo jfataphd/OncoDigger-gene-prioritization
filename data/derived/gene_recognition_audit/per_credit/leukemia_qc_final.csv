@@ -1,0 +1,415 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Leukemia,FLT3,26676635,random,flt3,C,ML,,symbol 'FLT3' present,15,the prevalence and clinical profiles of flt3-itd flt3-tkd npm1 c-kit dnmt3a and cebpa mutations in a cohort of patients with de novo acute m,ML
+Leukemia,FLT3,20172040,random,flt3,C,M,,symbol 'FLT3' present,56,favorable outcome in patients with acute myelogenous leukemia with the nucleophosmin gene mutation autografted after conditioning with high-,M
+Leukemia,FLT3,20354824,random,flt3,C,M,,symbol 'FLT3' present,58,mutation of flt3 gene in acute myeloid leukemia with normal cytogenetics and its association with clinical and immunophenotypic features,M
+Leukemia,FLT3,22733614,random,flt3,C,M,,symbol 'FLT3' present,64,flt3 and npm1 mutations in a cohort of aml patients and detection of a novel mutation in tyrosine kinase domain of flt3 gene from western in,M
+Leukemia,FLT3,41345260,random,flt3,C,ML,,symbol 'FLT3' present,73,frequency and impact of somatic co-occurring mutations on post-transplant outcomes in acute myeloid leukemia a multicenter registry analysis,ML
+Leukemia,FLT3,32173273,random,flt3,C,M,,symbol 'FLT3' present,89,the clinical and molecular characteristics of flt3 mutations in chinese de novo adolescent and adult acute lymphoblastic leukemia patients,M
+Leukemia,FLT3,19171880,random,flt3,C,M,,symbol 'FLT3' present,142,double cebpa mutations but not single cebpa mutations define a subgroup of acute myeloid leukemia with a distinctive gene expression profile,M
+Leukemia,FLT3,34617422,random,flt3,C,M,,symbol 'FLT3' present,153,mutation profile of acute myeloid leukaemia in a chinese cohort by targeted next-generation sequencing,M
+Leukemia,FLT3,16015387,random,flt3,C,M,,symbol 'FLT3' present,164,mutations in kit and ras are frequent events in pediatric core-binding factor acute myeloid leukemia,M
+Leukemia,FLT3,31145495,random,flt3,C,M,,symbol 'FLT3' present,168,the combination of npm1 dnmt3a and idh1 2 mutations leads to inferior overall survival in aml,M
+Leukemia,FLT3,14562119,random,flt3,C,M,,symbol 'FLT3' present,182,dual mutations in the aml1 and flt3 genes are associated with leukemogenesis in acute myeloblastic leukemia of the m0 subtype,M
+Leukemia,FLT3,24898826,random,flt3,C,I,,symbol 'FLT3' present,193,tet2 mutations in cytogenetically normal acute myeloid leukemia clinical implications and evolutionary patterns,I
+Leukemia,FLT3,22731647,random,flt3,C,ML,,symbol 'FLT3' present,206,molecular evaluation of cebpa gene mutation in normal karyotype acute myeloid leukemia a comparison of two methods and report of novel cebpa,ML
+Leukemia,FLT3,33494808,random,flt3,C,M,,symbol 'FLT3' present,224,de novo adult acute myeloid leukemia with two new mutations in juxtatransmembrane domain of the flt3 gene a case report,M
+Leukemia,FLT3,34556857,random,flt3,C,M,,symbol 'FLT3' present,245,mutational synergy during leukemia induction remodels chromatin accessibility histone modifications and three-dimensional dna topology to al,M
+Leukemia,FLT3,37540457,random,flt3,C,M,,symbol 'FLT3' present,252,molecular and clinical significance of flt3 npm1 dnmt3a and tp53 mutations in acute myeloid leukemia patients,M
+Leukemia,FLT3,31285539,random,flt3,C,M,,symbol 'FLT3' present,321,the mutational spectrum of flt3 gene in acute lymphoblastic leukemia is different from acute myeloid leukemia,M
+Leukemia,FLT3,15994285,random,flt3,C,M,,symbol 'FLT3' present,351,clinical characteristics and prognostic implications of npm1 mutations in acute myeloid leukemia,M
+Leukemia,FLT3,35249471,random,flt3,C,M,,symbol 'FLT3' present,353,upregulation of fhl1 spns3 and mpzl2 predicts poor prognosis in pediatric acute myeloid leukemia patients with flt3-itd mutation,M
+Leukemia,FLT3,15618961,random,flt3,C,M,,symbol 'FLT3' present,354,cebpalpha mutations in childhood acute myeloid leukemia,M
+Leukemia,FLT3,18192111,random,flt3,C,M,,symbol 'FLT3' present,358,prognostic significance of flt3 internal tandem duplication and npm1 mutations in acute myeloid leukemia in an unselected patient population,M
+Leukemia,FLT3,19995225,random,flt3,C,M,,symbol 'FLT3' present,371,analysis of flt3-itd and flt3-asp835 mutations in de novo acute myeloid leukemia evaluation of incidence distribution pattern correlation wi,M
+Leukemia,FLT3,33289421,random,flt3,C,M,,symbol 'FLT3' present,385,nanopore sequencing sheds a light on the flt3 gene mutations complexity in acute promyelocytic leukemia,M
+Leukemia,FLT3,37300744,random,flt3,C,M,,symbol 'FLT3' present,427,ultrasensitive quantitation of flt3-itd mutation in patients with acute myeloid leukemia using ddpcr,M
+Leukemia,FLT3,15345593,random,flt3,C,M,target,symbol 'FLT3' present,451,identification of a novel activating mutation y842c within the activation loop of flt3 in patients with acute myeloid leukemia aml,M
+Leukemia,FLT3,25809997,random,flt3,C,I,,symbol 'FLT3' present,459,chronic myelomonocytic leukemia with nucleophosmin npm1 mutation,I
+Leukemia,FLT3,39361146,random,flt3,C,ML,,symbol 'FLT3' present,571,clinical features and long-term outcomes of pediatric patients with de novo acute myeloid leukemia in china with or without specific gene ab,ML
+Leukemia,FLT3,42085510,random,flt3,C,ML,,symbol 'FLT3' present,578,clinical implications of variant allele frequencies of genes in patients with acute myeloid leukemia,ML
+Leukemia,FLT3,36738279,random,flt3,C,M,,symbol 'FLT3' present,590,correlation of blood cell counts with mutant subtypes and impact prognosis in acute myeloid leukemia patients with flt3 mutations,M
+Leukemia,FLT3,25066867,random,flt3,C,M,,symbol 'FLT3' present,609,frequent coexistence of ras mutations in runx1-mutated acute myeloid leukemia in arab asian children,M
+Leukemia,FLT3,27797237,random,flt3,C,M,,symbol 'FLT3' present,669,frequency of flt3 itd d835 gene mutations in acute myelogenous leukemia a report from northeastern iran,M
+Leukemia,FLT3,34933728,random,flt3,C,M,,symbol 'FLT3' present,679,prognostic relevance of combined idh1 and npm1 mutations in the intermediate cytogenetic de novo acute myeloid leukemia,M
+Leukemia,FLT3,42104002,random,flt3,C,M,,symbol 'FLT3' present,737,gilteritinib response in acute myeloid leukemia harboring a rare flt3 juxtamembrane domain mutation with subsequent clonal evolution,M
+Leukemia,FLT3,20875128,random,flt3,C,M,,symbol 'FLT3' present,743,flt3 mutation incidence and timing of origin in a population case series of pediatric leukemia,M
+Leukemia,FLT3,20884804,random,flt3,C,I,,symbol 'FLT3' present,797,two types of c ebp mutations play distinct but collaborative roles in leukemogenesis lessons from clinical data and bmt models,I
+Leukemia,FLT3,24859829,random,flt3,C,M,,symbol 'FLT3' present,809,tet2 gene mutation is unfavorable prognostic factor in cytogenetically normal acute myeloid leukemia patients with npm1 and flt3-itd - mutat,M
+Leukemia,FLT3,16453003,random,flt3,C,M,,symbol 'FLT3' present,880,aml patients with cebpalpha mutations mostly retain identical mutant patterns but frequently change in allelic distribution at relapse a com,M
+Leukemia,FLT3,38978049,random,flt3,C,M,target,symbol 'FLT3' present,952,ningetinib a novel flt3 inhibitor overcomes secondary drug resistance in acute myeloid leukemia,M
+Leukemia,FLT3,39639655,random,flt3,C,M,,symbol 'FLT3' present,970,the role of flt3-itd mutation pi3k akt pathway and leukemia stem cells in d3a7 induction therapy - the outcomes of adult indonesian patients,M
+Leukemia,FLT3,11290608,random,flt3,C,M,,symbol 'FLT3' present,987,activating mutation of d835 within the activation loop of flt3 in human hematologic malignancies,M
+Leukemia,NPM1,32970934,random,npm1,C,ML,,symbol 'NPM1' present,46,characteristics and prognostic significance of genetic mutations in acute myeloid leukemia based on a targeted next-generation sequencing te,ML
+Leukemia,NPM1,20172040,random,npm1,C,M,,symbol 'NPM1' present,56,favorable outcome in patients with acute myelogenous leukemia with the nucleophosmin gene mutation autografted after conditioning with high-,M
+Leukemia,NPM1,22733614,random,npm1,C,M,,symbol 'NPM1' present,64,flt3 and npm1 mutations in a cohort of aml patients and detection of a novel mutation in tyrosine kinase domain of flt3 gene from western in,M
+Leukemia,NPM1,25987093,random,npm1,C,M,,symbol 'NPM1' present,78,mutation analysis of idh1 2 genes in unselected de novo acute myeloid leukaemia patients in india - identification of a novel idh2 mutation,M
+Leukemia,NPM1,34847232,random,npm1,C,M,,symbol 'NPM1' present,80,molecular clinical and prognostic implications of ptpn11 mutations in acute myeloid leukemia,M
+Leukemia,NPM1,26016821,random,npm1,C,M,,symbol 'NPM1' present,91,characteristics clinical outcome and prognostic significance of idh mutations in aml,M
+Leukemia,NPM1,39471012,random,npm1,C,M,,symbol 'NPM1' present,109,exploring the prevalence and prognostic impact of wilms tumor 1 exon 7 mutation status with combinations of flt3-itd and npm1 mutations as p,M
+Leukemia,NPM1,28767575,targeted,nucleophosmin 1,C,I,,credited via alias nucleophosmin 1,133,dnmt3a mutations in chinese childhood acute myeloid leukemia,I
+Leukemia,NPM1,29806051,random,npm1,C,M,,symbol 'NPM1' present,185,mutation profiling of 16 candidate genes in de novo acute myeloid leukemia patients,M
+Leukemia,NPM1,26230955,random,npm1,C,ML,,symbol 'NPM1' present,188,tp53 mutations in de novo acute myeloid leukemia patients longitudinal follow-ups show the mutation is stable during disease evolution,ML
+Leukemia,NPM1,22915647,random,npm1,C,ML,,symbol 'NPM1' present,201,a novel hierarchical prognostic model of aml solely based on molecular mutations,ML
+Leukemia,NPM1,36853451,random,npm1,C,M,,symbol 'NPM1' present,207,prognostic impact of flt3-itd npm1 mutation and cebpa bzip domain mutation in cytogenetically normal acute myeloid leukemia a hokkaido leuke,M
+Leukemia,NPM1,20038735,random,npm1,C,M,,symbol 'NPM1' present,223,acute myeloid leukemia with biallelic cebpa gene mutations and normal karyotype represents a distinct genetic entity associated with a favor,M
+Leukemia,NPM1,25648021,random,npm1,C,M,,symbol 'NPM1' present,226,npm1 gene mutation in egyptian patients with cytogenetically normal acute myeloid leukemia,M
+Leukemia,NPM1,38295280,random,npm1,C,ML,,symbol 'NPM1' present,235,prognostic impact of cooccurring mutations in flt3-itd pediatric acute myeloid leukemia,ML
+Leukemia,NPM1,37540457,random,npm1,C,ML,,symbol 'NPM1' present,252,molecular and clinical significance of flt3 npm1 dnmt3a and tp53 mutations in acute myeloid leukemia patients,ML
+Leukemia,NPM1,26189213,targeted,nucleophosmin 1,C,I,,credited via alias nucleophosmin 1,257,prevalence and clinical effect of idh1 and idh2 mutations among cytogenetically normal acute myeloid leukemia patients,I
+Leukemia,NPM1,23613835,random,npm1,C,I,,symbol 'NPM1' present,272,ezh2 mutations are related to low blast percentage in bone marrow and -7 del 7q in de novo acute myeloid leukemia,I
+Leukemia,NPM1,19808697,random,npm1,C,ML,,symbol 'NPM1' present,274,aml1 runx1 mutations in 470 adult patients with de novo acute myeloid leukemia prognostic implication and interaction with other gene altera,ML
+Leukemia,NPM1,34270876,random,npm1,C,M,,symbol 'NPM1' present,281,additional mutations in idh1 2-mutated patients with acute myeloid leukemia,M
+Leukemia,NPM1,30902805,random,npm1,C,M,,symbol 'NPM1' present,316,npm1 mutations define a specific subgroup of mds and mds mpn patients with favorable outcomes with intensive chemotherapy,M
+Leukemia,NPM1,29573577,random,npm1,C,M,,symbol 'NPM1' present,320,mutation profile and associated clinical features in chinese patients with cytogenetically normal acute myeloid leukemia,M
+Leukemia,NPM1,24335498,random,npm1,C,M,,symbol 'NPM1' present,349,mutations in the cohesin complex in acute myeloid leukemia clinical and prognostic implications,M
+Leukemia,NPM1,36815747,random,npm1,C,M,,symbol 'NPM1' present,365,single-center observational study of aml mds-eb with idh1 2 mutations genetic profile immunophenotypes mutational kinetics and outcomes,M
+Leukemia,NPM1,19995225,random,npm1,C,I,,symbol 'NPM1' present,371,analysis of flt3-itd and flt3-asp835 mutations in de novo acute myeloid leukemia evaluation of incidence distribution pattern correlation wi,I
+Leukemia,NPM1,22099964,random,npm1,C,M,,symbol 'NPM1' present,372,novel mutations of the nucleophosmin npm-1 gene in egyptian patients with acute myeloid leukemia a pilot study,M
+Leukemia,NPM1,29165010,random,npm1,C,ML,,symbol 'NPM1' present,374,dnmt3a co-mutation is required for flt3-itd as an adverse prognostic indicator in intermediate-risk cytogenetic group aml,ML
+Leukemia,NPM1,23496932,random,npm1,C,M,,symbol 'NPM1' present,407,hierarchical cluster analysis of immunophenotype classify aml patients with npm1 gene mutation into two groups with distinct prognosis,M
+Leukemia,NPM1,22126574,random,npm1,C,M,,symbol 'NPM1' present,524,flt3 and npm1 gene mutations in childhood acute myeloblastic leukemia,M
+Leukemia,NPM1,38367260,random,npm1,C,ML,,symbol 'NPM1' present,547,clinical characteristics and prognosis of acute myeloid leukemia patients with runt-related transcription factor 1 mutation a single-center ,ML
+Leukemia,NPM1,38170740,random,npm1,C,M,,symbol 'NPM1' present,701,mutations highly specific for secondary aml are associated with poor outcomes in eln favorable risk npm1-mutated aml,M
+Leukemia,NPM1,29947237,random,npm1|nucleophosmin 1,C,I,,symbol 'NPM1' present,731,determination of cebpa mutations by next generation sequencing in pediatric acute leukemia,I
+Leukemia,NPM1,26223865,random,npm1,C,ML,,symbol 'NPM1' present,734,allogeneic hematopoietic stem cell transplantation could improve survival of cytogenetically normal adult acute myeloid leukemia patients wi,ML
+Leukemia,NPM1,24443894,random,npm1,C,M,,symbol 'NPM1' present,767,idh1 and idh2 mutations confer an adverse effect in patients with acute myeloid leukemia lacking the npm1 mutation,M
+Leukemia,NPM1,24859829,random,npm1,C,M,,symbol 'NPM1' present,809,tet2 gene mutation is unfavorable prognostic factor in cytogenetically normal acute myeloid leukemia patients with npm1 and flt3-itd - mutat,M
+Leukemia,NPM1,21844580,random,npm1,C,M,,symbol 'NPM1' present,835,ckit mutation in therapy-related acute myeloid leukemia with mllt3 mll chimeric transcript from t 9 11 p22 q23,M
+Leukemia,NPM1,19055671,random,npm1,C,M,,symbol 'NPM1' present,841,monitoring minimal residual disease in acute myeloid leukaemia with npm1 mutations by quantitative pcr clonal evolution is a limiting factor,M
+Leukemia,NPM1,33550446,random,npm1,C,I,,symbol 'NPM1' present,844,clinical significance of flt3-itd cebpa mutations and minimal residual disease in cytogenetically normal acute myeloid leukemia after hemato,I
+Leukemia,NPM1,20421268,random,npm1,C,M,,symbol 'NPM1' present,851,transcription factor mutations in myelodysplastic myeloproliferative neoplasms,M
+Leukemia,NPM1,33149230,random,npm1,C,M,,symbol 'NPM1' present,887,characterization of somatic mutation-associated microenvironment signatures in acute myeloid leukemia patients based on tcga analysis,M
+Leukemia,NPM1,21933280,random,npm1,C,ML,,symbol 'NPM1' present,910,myeloid malignancies with acquired trisomy 21 as the sole cytogenetic change are clinically highly variable and display a heterogeneous patt,ML
+Leukemia,NPM1,41423432,random,npm1,C,ML,,symbol 'NPM1' present,944,csf3r mutations imply adverse prognostic impact in adult acute myeloid leukemia patients a single-center retrospective study,ML
+Leukemia,DNMT3A,40295826,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,49,somatic mutations and outcomes in chronic myeloid leukemia adolescent and young adults compared to children adults and bcr abl1-positive acu,ML
+Leukemia,DNMT3A,27476855,random,dnmt3a,C,M,,symbol 'DNMT3A' present,72,persistence of dnmt3a r882 mutations during remission does not adversely affect outcomes of patients with acute myeloid leukaemia,M
+Leukemia,DNMT3A,25650308,random,dnmt3a,C,M,,symbol 'DNMT3A' present,81,incidence and prognostic impact of dnmt3a mutations in korean normal karyotype acute myeloid leukemia patients,M
+Leukemia,DNMT3A,22077061,random,dnmt3a,C,M,,symbol 'DNMT3A' present,107,dnmt3a mutations in acute myeloid leukemia stability during disease evolution and clinical implications,M
+Leukemia,DNMT3A,24047651,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,126,bcor and bcorl1 mutations in myelodysplastic syndromes and related disorders,ML
+Leukemia,DNMT3A,29702001,random,dnmt3a,C,M,,symbol 'DNMT3A' present,127,clearance of somatic mutations at remission and the risk of relapse in acute myeloid leukemia,M
+Leukemia,DNMT3A,30171025,random,dnmt3a,C,I,,symbol 'DNMT3A' present,130,persistent idh1 2 mutations in remission can predict relapse in patients with acute myeloid leukemia,I
+Leukemia,DNMT3A,29806051,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,185,mutation profiling of 16 candidate genes in de novo acute myeloid leukemia patients,ML
+Leukemia,DNMT3A,25281355,random,dnmt3a,C,M,,symbol 'DNMT3A' present,186,clinical features of de novo acute myeloid leukemia with concurrent dnmt3a flt3 and npm1 mutations,M
+Leukemia,DNMT3A,38665121,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,196,a comparative analysis of the clinical and genetic profiles of blast phase bcr abl1-negative myeloproliferative neoplasm and acute myeloid l,ML
+Leukemia,DNMT3A,33913388,random,dnmt3a,C,M,,symbol 'DNMT3A' present,214,difference in gene mutation profile in patients with refractory relapsed versus newly diagnosed acute myeloid leukemia based on targeted nex,M
+Leukemia,DNMT3A,34215619,random,dnmt3a,C,M,,symbol 'DNMT3A' present,227,tet2 and dnmt3a mutations exert divergent effects on dna repair and sensitivity of leukemia cells to parp inhibitors,M
+Leukemia,DNMT3A,32457355,random,dnmt3a,C,M,,symbol 'DNMT3A' present,273,prevalence and dynamics of clonal hematopoiesis caused by leukemia-associated mutations in elderly individuals without hematologic disorders,M
+Leukemia,DNMT3A,32730663,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,307,mutation profile and prognostic relevance in elderly patients with de novo acute myeloid leukemia treated with decitabine-based chemotherapy,ML
+Leukemia,DNMT3A,40259101,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,324,impact of myelodysplasia-related gene mutations and residual mutations at remission in venetoclax azacitidine for aml,ML
+Leukemia,DNMT3A,32476595,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,326,mutational landscape of patients with acute myeloid leukemia or myelodysplastic syndromes in the context of runx1 mutation,ML
+Leukemia,DNMT3A,37990829,random,dnmt3a,C,M,,symbol 'DNMT3A' present,336,prognostic significance of persisting dnmt3a asxl1 and tet2 mutation burden in acute myeloid leukemia patients with allogeneic hematopoietic,M
+Leukemia,DNMT3A,36815747,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,365,single-center observational study of aml mds-eb with idh1 2 mutations genetic profile immunophenotypes mutational kinetics and outcomes,ML
+Leukemia,DNMT3A,40413994,random,dna methyltransferase 3 alpha|dnmt3a,C,M,,symbol 'DNMT3A' present,396,engineered cas12a-based one-tube detection of dnmt3a r882 h c mutation in acute myeloid leukemia,M
+Leukemia,DNMT3A,27458708,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,402,immunohistochemical loss of 5-hydroxymethylcytosine expression in acute myeloid leukaemia relationship to somatic gene mutations affecting e,ML
+Leukemia,DNMT3A,27062340,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,423,mutational spectrum and risk stratification of intermediate-risk acute myeloid leukemia patients based on next-generation sequencing,ML
+Leukemia,DNMT3A,34067359,random,dnmt3a,C,M,,symbol 'DNMT3A' present,468,dnmt3a mutation-induced cdk1 overexpression promotes leukemogenesis by modulating the interaction between ezh2 and dnmt3a,M
+Leukemia,DNMT3A,40226311,random,dnmt3a,C,M,,symbol 'DNMT3A' present,471,gene mutation characteristics and prognostic significance in acute myeloid leukemia patients from northeast china,M
+Leukemia,DNMT3A,26234722,random,dnmt3a,C,M,,symbol 'DNMT3A' present,483,dnmt3a r882 mutation with flt3-itd positivity is an extremely poor prognostic factor in patients with normal-karyotype acute myeloid leukemi,M
+Leukemia,DNMT3A,24512939,random,dnmt3a,C,M,,symbol 'DNMT3A' present,554,dnmt3a r882 mutations in patients with cytogenetically normal acute myeloid leukemia and myelodysplastic syndrome,M
+Leukemia,DNMT3A,42085510,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,578,clinical implications of variant allele frequencies of genes in patients with acute myeloid leukemia,ML
+Leukemia,DNMT3A,29321554,random,dnmt3a,C,M,,symbol 'DNMT3A' present,585,mutations in dnmt3a u2af1 and ezh2 identify intermediate-risk acute myeloid leukemia patients with poor outcome after cr1,M
+Leukemia,DNMT3A,33333221,random,dnmt3a,C,I,,symbol 'DNMT3A' present,651,comparison of gene mutation spectra in younger and older chinese acute myeloid leukemia patients and its prognostic value,I
+Leukemia,DNMT3A,33929500,random,dnmt3a,C,I,,symbol 'DNMT3A' present,717,posttransplantation mrd monitoring in patients with aml by next-generation sequencing using dta and non-dta mutations,I
+Leukemia,DNMT3A,39207267,random,dnmt3a,C,M,,symbol 'DNMT3A' present,745,wt1 and dnmt3a mutations in prognostic significance of acute myeloid leukemia a meta-analysis,M
+Leukemia,DNMT3A,26486081,random,dnmt3a,C,M,,symbol 'DNMT3A' present,771,idh1 2 but not dnmt3a mutations are suitable targets for minimal residual disease monitoring in acute myeloid leukemia patients a study by t,M
+Leukemia,DNMT3A,32811132,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,772,leukemic stem cell phenotype is associated with mutational profile in acute myeloid leukemia,ML
+Leukemia,DNMT3A,24859829,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,809,tet2 gene mutation is unfavorable prognostic factor in cytogenetically normal acute myeloid leukemia patients with npm1 and flt3-itd - mutat,ML
+Leukemia,DNMT3A,34376373,random,dnmt3a,C,M,,symbol 'DNMT3A' present,823,prognostic impact of concurrent dnmt3a flt3 and npm1 gene mutations in acute myeloid leukemia patients,M
+Leukemia,DNMT3A,21504050,random,dnmt3a,C,M,,symbol 'DNMT3A' present,850,leukemic mutations in the methylation-associated genes dnmt3a and idh2 are rare events in pediatric aml a report from the children's oncolog,M
+Leukemia,DNMT3A,27218649,random,dnmt3a,C,M,,symbol 'DNMT3A' present,900,the 5q deletion size in myeloid malignancies is correlated to additional chromosomal aberrations and to tp53 mutations,M
+Leukemia,DNMT3A,24887327,random,dnmt3a,C,M,,symbol 'DNMT3A' present,912,comparative examination of various pcr-based methods for dnmt3a and idh1 2 mutations identification in acute myeloid leukemia,M
+Leukemia,DNMT3A,33667811,random,dnmt3a,C,M,,symbol 'DNMT3A' present,960,clinical implications of copy number alteration detection using panel-based next-generation sequencing data in myelodysplastic syndrome,M
+Leukemia,DNMT3A,33711909,random,dnmt3a,C,ML,,symbol 'DNMT3A' present,991,mutational spectrum of de novo npm1 -mutated acute myeloid leukemia patients older than 75 years,ML
+Leukemia,DNMT3A,35558161,random,dnmt3a,C,M,,symbol 'DNMT3A' present,996,npm1 and dnmt3a mutations are associated with distinct blast immunophenotype in acute myeloid leukemia,M
+Leukemia,CEBPA,25468431,random,cebpa,C,M,,symbol 'CEBPA' present,6,a clinical grade sequencing-based assay for cebpa mutation testing report of a large series of myeloid neoplasms,M
+Leukemia,CEBPA,26676635,random,cebpa,C,ML,,symbol 'CEBPA' present,15,the prevalence and clinical profiles of flt3-itd flt3-tkd npm1 c-kit dnmt3a and cebpa mutations in a cohort of patients with de novo acute m,ML
+Leukemia,CEBPA,36799265,random,cebpa,C,I,,symbol 'CEBPA' present,50,gene mutation analysis using next-generation sequencing and its clinical significance in patients with myeloid neoplasm a multi-center study,I
+Leukemia,CEBPA,16109776,random,ccaat enhancer binding protein alpha|cebpa,C,M,,symbol 'CEBPA' present,86,mutations in nucleophosmin npm1 in acute myeloid leukemia aml association with other gene abnormalities and previously established gene expr,M
+Leukemia,CEBPA,22077061,random,cebpa,C,ML,,symbol 'CEBPA' present,107,dnmt3a mutations in acute myeloid leukemia stability during disease evolution and clinical implications,ML
+Leukemia,CEBPA,33998238,random,cebpa,C,ML,,symbol 'CEBPA' present,141,features and impacts on the prognosis of gene mutations in patients with acute myeloid leukemia,ML
+Leukemia,CEBPA,19171880,random,ccaat enhancer binding protein alpha|cebpa,C,M,,symbol 'CEBPA' present,142,double cebpa mutations but not single cebpa mutations define a subgroup of acute myeloid leukemia with a distinctive gene expression profile,M
+Leukemia,CEBPA,24898826,random,cebpa,C,I,,symbol 'CEBPA' present,193,tet2 mutations in cytogenetically normal acute myeloid leukemia clinical implications and evolutionary patterns,I
+Leukemia,CEBPA,22731647,random,cebpa,C,M,,symbol 'CEBPA' present,206,molecular evaluation of cebpa gene mutation in normal karyotype acute myeloid leukemia a comparison of two methods and report of novel cebpa,M
+Leukemia,CEBPA,39961276,random,cebpa,C,M,,symbol 'CEBPA' present,267,novel co-frameshift mutations in n- and c-terminal regions of cebpa in acute myeloid leukemia a case report,M
+Leukemia,CEBPA,19808697,random,cebpa,C,ML,,symbol 'CEBPA' present,274,aml1 runx1 mutations in 470 adult patients with de novo acute myeloid leukemia prognostic implication and interaction with other gene altera,ML
+Leukemia,CEBPA,25014773,random,ccaat enhancer binding protein alpha|cebpa,C,M,,symbol 'CEBPA' present,275,prognostic implications of cebpa mutations in pediatric acute myeloid leukemia a report from the japanese pediatric leukemia lymphoma study ,M
+Leukemia,CEBPA,32730663,random,cebpa,C,M,,symbol 'CEBPA' present,307,mutation profile and prognostic relevance in elderly patients with de novo acute myeloid leukemia treated with decitabine-based chemotherapy,M
+Leukemia,CEBPA,25932436,random,cebpa,C,ML,,symbol 'CEBPA' present,315,incidences and prognostic impact of c-kit wt1 cebpa and cbl mutations and mutations associated with epigenetic modification in core binding ,ML
+Leukemia,CEBPA,32476595,random,cebpa,C,M,,symbol 'CEBPA' present,326,mutational landscape of patients with acute myeloid leukemia or myelodysplastic syndromes in the context of runx1 mutation,M
+Leukemia,CEBPA,35249471,random,cebpa,C,M,,symbol 'CEBPA' present,353,upregulation of fhl1 spns3 and mpzl2 predicts poor prognosis in pediatric acute myeloid leukemia patients with flt3-itd mutation,M
+Leukemia,CEBPA,30942411,random,cebpa,C,P,,symbol 'CEBPA' present,416,mutational spectrum and associations with clinical features in patients with acute myeloid leukaemia based on nextgeneration sequencing,P
+Leukemia,CEBPA,27062340,random,cebpa,C,ML,,symbol 'CEBPA' present,423,mutational spectrum and risk stratification of intermediate-risk acute myeloid leukemia patients based on next-generation sequencing,ML
+Leukemia,CEBPA,20567020,random,cebpa,C,ML,,symbol 'CEBPA' present,425,idh1 and idh2 mutations are frequent genetic alterations in acute myeloid leukemia and confer adverse prognosis in cytogenetically normal ac,ML
+Leukemia,CEBPA,26234722,random,cebpa,C,ML,,symbol 'CEBPA' present,483,dnmt3a r882 mutation with flt3-itd positivity is an extremely poor prognostic factor in patients with normal-karyotype acute myeloid leukemi,ML
+Leukemia,CEBPA,38253683,random,cebpa,C,M,,symbol 'CEBPA' present,514,dysregulated immune and metabolic pathways are associated with poor survival in adult acute myeloid leukemia with cebpa bzip in-frame mutati,M
+Leukemia,CEBPA,42085510,random,cebpa,C,M,,symbol 'CEBPA' present,578,clinical implications of variant allele frequencies of genes in patients with acute myeloid leukemia,M
+Leukemia,CEBPA,16540685,random,cebpa,C,M,,symbol 'CEBPA' present,595,nucleophosmin mutations in de novo acute myeloid leukemia the age-dependent incidences and the stability during disease evolution,M
+Leukemia,CEBPA,38642470,random,cebpa,C,M,,symbol 'CEBPA' present,649,analysis of csf3r mutations in atypical chronic myeloid leukemia and other myeloid malignancies,M
+Leukemia,CEBPA,38442594,random,cebpa,C,M,,symbol 'CEBPA' present,667,clinical features and management of germline cebpa-mutated carriers,M
+Leukemia,CEBPA,23560626,random,cebpa,C,M,,symbol 'CEBPA' present,706,gata2 mutations in sporadic and familial acute myeloid leukaemia patients with cebpa mutations,M
+Leukemia,CEBPA,19666867,random,cebpa,C,G,,symbol 'CEBPA' present,728,gene expression profiling of minimally differentiated acute myeloid leukemia m0 is a distinct entity subdivided by runx1 mutation status,G
+Leukemia,CEBPA,29947237,random,ccaat enhancer binding protein alpha|cebpa,C,M,,symbol 'CEBPA' present,731,determination of cebpa mutations by next generation sequencing in pediatric acute leukemia,M
+Leukemia,CEBPA,22012066,random,cebpa,C,M,,symbol 'CEBPA' present,750,whole-exome sequencing identifies somatic mutations of bcor in acute myeloid leukemia with normal karyotype,M
+Leukemia,CEBPA,16281072,random,cebpa,C,I,,symbol 'CEBPA' present,760,mutations of genes in the receptor tyrosine kinase rtk ras-braf signal transduction pathway in therapy-related myelodysplasia and acute myel,I
+Leukemia,CEBPA,32811132,random,cebpa,C,ML,,symbol 'CEBPA' present,772,leukemic stem cell phenotype is associated with mutational profile in acute myeloid leukemia,ML
+Leukemia,CEBPA,35032366,random,cebpa,C,M,,symbol 'CEBPA' present,780,acute myeloid leukemia due to germline cebpa mutation in a syrian family,M
+Leukemia,CEBPA,16046528,random,ccaat enhancer binding protein alpha|cebpa,C,M,,symbol 'CEBPA' present,784,prevalence clinical profile and prognosis of npm mutations in aml with normal karyotype,M
+Leukemia,CEBPA,24737308,random,cebpa,C,ML,,symbol 'CEBPA' present,805,lack of noncanonical ras mutations in cytogenetically normal acute myeloid leukemia,ML
+Leukemia,CEBPA,19965647,random,cebpa,C,M,,symbol 'CEBPA' present,846,the impact on outcome of the addition of all-trans retinoic acid to intensive chemotherapy in younger patients with nonacute promyelocytic a,M
+Leukemia,CEBPA,19221039,random,cebpa,C,M,,symbol 'CEBPA' present,847,prognostic impact of wt1 mutations in cytogenetically normal acute myeloid leukemia a study of the german-austrian aml study group,M
+Leukemia,CEBPA,41423432,random,cebpa,C,M,,symbol 'CEBPA' present,944,csf3r mutations imply adverse prognostic impact in adult acute myeloid leukemia patients a single-center retrospective study,M
+Leukemia,CEBPA,12351377,random,cebpa,C,M,,symbol 'CEBPA' present,968,favorable prognostic significance of cebpa mutations in patients with de novo acute myeloid leukemia a study from the acute leukemia french ,M
+Leukemia,CEBPA,14592841,random+targeted,ccaat enhancer binding protein alpha,C,P,,credited via alias ccaat enhancer binding protein alpha,985,internal tandem duplication mutation of flt3 blocks myeloid differentiation through suppression of c ebpalpha expression,P
+Leukemia,CEBPA,28984348,random,cebpa,C,I,,symbol 'CEBPA' present,990,acute myeloid leukaemia with gene mutation a correlation with haematological and immunophenotypic characteristics and our experience in a te,I
+Leukemia,NRAS,36739388,random,nras,C,ML,,symbol 'NRAS' present,36,spectrum and clinical features of gene mutations in chinese pediatric acute lymphoblastic leukemia,ML
+Leukemia,NRAS,11167822,targeted,n ras,C,M,,credited via alias n ras,52,mutations in ras proto-oncogenes are associated with lower mdr1 gene expression in adult acute myeloid leukaemia,M
+Leukemia,NRAS,35833755,random,nras,C,ML,,symbol 'NRAS' present,69,mutational landscape and clinical outcome of pediatric acute myeloid leukemia with 11q23 kmt2a rearrangements,ML
+Leukemia,NRAS,41345260,random,nras,C,I,,symbol 'NRAS' present,73,frequency and impact of somatic co-occurring mutations on post-transplant outcomes in acute myeloid leukemia a multicenter registry analysis,I
+Leukemia,NRAS,16109776,random,nras,C,M,,symbol 'NRAS' present,86,mutations in nucleophosmin npm1 in acute myeloid leukemia aml association with other gene abnormalities and previously established gene expr,M
+Leukemia,NRAS,37948498,random,nras,C,ML,,symbol 'NRAS' present,112,genomic mutation profiles of patients with acute myeloid leukemia in korea a single-center experience,ML
+Leukemia,NRAS,34449040,random,nras,C,ML,,symbol 'NRAS' present,114,mutational landscape of chronic myelomonocytic leukemia and its potential clinical significance,ML
+Leukemia,NRAS,14990973,random+targeted,n ras,C,M,,credited via alias n ras,115,ras oncogene mutations and outcome of therapy for childhood acute lymphoblastic leukemia,M
+Leukemia,NRAS,23313659,targeted,n ras,C,M,,credited via alias n ras,134,ras mutation analysis in a large cohort of chinese patients with acute myeloid leukemia,M
+Leukemia,NRAS,16015387,random,nras,C,ML,,symbol 'NRAS' present,164,mutations in kit and ras are frequent events in pediatric core-binding factor acute myeloid leukemia,ML
+Leukemia,NRAS,15889156,random+targeted,n ras,C,M,,credited via alias n ras,228,prognostic implication of flt3 and ras gene mutations in patients with acute promyelocytic leukemia apl a retrospective study from the europ,M
+Leukemia,NRAS,23613835,random,nras,C,I,,symbol 'NRAS' present,272,ezh2 mutations are related to low blast percentage in bone marrow and -7 del 7q in de novo acute myeloid leukemia,I
+Leukemia,NRAS,33491606,random,nras,C,ML,,symbol 'NRAS' present,276,next-generation sequencing reveals gene mutations landscape and clonal evolution in patients with acute myeloid leukemia,ML
+Leukemia,NRAS,35092380,random+targeted,n ras,C,M,,credited via alias n ras,287,rapid detection of n-ras gene common mutations in acute myeloid leukemia aml using high resolution melting hrm method,M
+Leukemia,NRAS,39819262,random,nras,C,M,,symbol 'NRAS' present,290,comprehensive analysis of clinical pathological and molecular features in chronic myelomonocytic leukemia frequent asxl1 and nras mutations ,M
+Leukemia,NRAS,15667533,random,nras,C,I,,symbol 'NRAS' present,318,development of a human acute myeloid leukaemia screening panel and consequent identification of novel gene mutation in flt3 and ccnd3,I
+Leukemia,NRAS,32476595,random,nras,C,ML,,symbol 'NRAS' present,326,mutational landscape of patients with acute myeloid leukemia or myelodysplastic syndromes in the context of runx1 mutation,ML
+Leukemia,NRAS,15618961,targeted,n ras,C,M,,credited via alias n ras,354,cebpalpha mutations in childhood acute myeloid leukemia,M
+Leukemia,NRAS,16424869,random+targeted,n ras,C,M,,credited via alias n ras,373,cooperation of activating ras rtk signal transduction pathway mutations and inactivating myeloid differentiation gene mutations in m0 aml a ,M
+Leukemia,NRAS,25022553,targeted,n ras,C,I,,credited via alias n ras,453,gene mutation patterns in patients with minimally differentiated acute myeloid leukemia,I
+Leukemia,NRAS,22238327,random,nras,C,M,,symbol 'NRAS' present,466,spliceosomal gene aberrations are rare coexist with oncogenic mutations and are unlikely to exert a driver effect in childhood mds and jmml,M
+Leukemia,NRAS,23667841,targeted,n ras,C,M,,credited via alias n ras,477,n-ras mutation detection by pyrosequencing in adult patients with acute myeloid leukemia at a single institution,M
+Leukemia,NRAS,20726318,random+targeted,n ras,C,M,,credited via alias n ras,478,prognostic implication of n-ras gene mutations in egyptian adult acute myeloid leukemia,M
+Leukemia,NRAS,34481124,random,nras,C,I,,symbol 'NRAS' present,480,mutational profiling of myeloid neoplasms associated genes may aid the diagnosis of acute myeloid leukemia with myelodysplasia-related chang,I
+Leukemia,NRAS,19309322,targeted,n ras,C,I,,credited via alias n ras,512,comprehensive analysis of cooperative gene mutations between class i and class ii in de novo acute myeloid leukemia,I
+Leukemia,NRAS,22887781,random,nras,C,M,,symbol 'NRAS' present,513,constitutional nras mutations are rare among patients with noonan syndrome or juvenile myelomonocytic leukemia,M
+Leukemia,NRAS,20678218,random,nras,C,I,,symbol 'NRAS' present,563,combined mutations of asxl1 cbl flt3 idh1 idh2 jak2 kras npm1 nras runx1 tet2 and wt1 genes in myelodysplastic syndromes and acute myeloid l,I
+Leukemia,NRAS,26189108,random,nras,C,ML,,symbol 'NRAS' present,592,next-generation-sequencing of recurrent childhood high hyperdiploid acute lymphoblastic leukemia reveals mutations typically associated with,ML
+Leukemia,NRAS,19908318,random,nras,C,ML,,symbol 'NRAS' present,599,modeling interactions between leukemia-specific chromosomal changes somatic mutations and gene expression patterns during progression of cor,ML
+Leukemia,NRAS,34024223,random,nras,C,M,,symbol 'NRAS' present,615,co-occurrence of kit and nras mutations defines an adverse prognostic core-binding factor acute myeloid leukemia,M
+Leukemia,NRAS,34020042,random,nras,C,ML,,symbol 'NRAS' present,619,double drop-off droplet digital pcr a novel versatile tool for mutation screening and residual disease monitoring in acute myeloid leukemia ,ML
+Leukemia,NRAS,33333221,random,nras,C,I,,symbol 'NRAS' present,651,comparison of gene mutation spectra in younger and older chinese acute myeloid leukemia patients and its prognostic value,I
+Leukemia,NRAS,21798259,random,nras,C,M,,symbol 'NRAS' present,656,wt1 mutations and polymorphisms in southeast asian acute myeloid leukemia,M
+Leukemia,NRAS,15756005,random+targeted,n ras,C,M,,credited via alias n ras,657,heterogeneous patterns of cebpalpha mutation status in the progression of myelodysplastic syndrome and chronic myelomonocytic leukemia to ac,M
+Leukemia,NRAS,16969076,random,nras,C,M,,symbol 'NRAS' present,658,recurrent kras codon 146 mutations in human colorectal cancer,M
+Leukemia,NRAS,20008300,random,nras,C,ML,,symbol 'NRAS' present,674,two routes to leukemic transformation after a jak2 mutation-positive myeloproliferative neoplasm,ML
+Leukemia,NRAS,38636413,random,nras,C,M,,symbol 'NRAS' present,676,poor prognosis of srsf2 gene mutations in patients treated with ven-aza for newly diagnosed acute myeloid leukemia,M
+Leukemia,NRAS,21881046,targeted,n ras,C,I,,credited via alias n ras,687,gene mutation patterns and their prognostic impact in a cohort of 1185 patients with acute myeloid leukemia,I
+Leukemia,NRAS,28245838,random,nras,C,I,,symbol 'NRAS' present,724,spectrum of somatic mutations detected by targeted next-generation sequencing and their prognostic significance in adult patients with acute,I
+Leukemia,NRAS,24619868,random,nras,C,ML,,symbol 'NRAS' present,777,acute lymphoblastic leukemia with low hypodiploid near triploid karyotype is a specific clinical entity and exhibits a very high tp53 mutati,ML
+Leukemia,NRAS,24737308,targeted,n ras,C,M,,credited via alias n ras,805,lack of noncanonical ras mutations in cytogenetically normal acute myeloid leukemia,M
+Leukemia,NRAS,31992840,random,nras,C,M,,symbol 'NRAS' present,827,adult t-cell acute lymphoblastic leukemias with il7r pathway mutations are slow-responders who do not benefit from allogeneic stem-cell tran,M
+Leukemia,NRAS,28923882,random,nras,C,I,,symbol 'NRAS' present,863,mutational profiling of acute myeloid leukemia with normal cytogenetics in brazilian patients the value of next-generation sequencing for ge,I
+Leukemia,NRAS,12239147,random+targeted,n ras,C,M,,credited via alias n ras,877,studies of flt3 mutations in paired presentation and relapse samples from patients with acute myeloid leukemia implications for the role of ,M
+Leukemia,NRAS,16453003,random+targeted,n ras,C,M,,credited via alias n ras,880,aml patients with cebpalpha mutations mostly retain identical mutant patterns but frequently change in allelic distribution at relapse a com,M
+Leukemia,NRAS,17960171,targeted,n ras,C,M,,credited via alias n ras,915,cooperating mutations of receptor tyrosine kinases and ras genes in childhood core-binding factor acute myeloid leukemia and a comparative a,M
+Leukemia,NRAS,16573741,targeted,n ras,C,M,,credited via alias n ras,917,frequency of ras gene mutation and its cooperative genetic events in southeast asian adult acute myeloid leukemia,M
+Leukemia,NRAS,33755092,random,nras,C,M,,symbol 'NRAS' present,945,a prognostic score including mutation profile and clinical features for patients with cmml undergoing stem cell transplantation,M
+Leukemia,NRAS,18566322,random,nras,C,ML,,symbol 'NRAS' present,948,leukemic transformation in mice expressing a nup98-hoxd13 transgene is accompanied by spontaneous mutations in nras kras and cbl,ML
+Leukemia,NRAS,20408841,random,nras,C,ML,,symbol 'NRAS' present,994,spectrum of molecular defects in juvenile myelomonocytic leukaemia includes asxl1 mutations,ML
+Leukemia,ASXL1,40542832,random,asxl1,C,ML,,symbol 'ASXL1' present,2,impact of etv6 mutations on clinical outcomes in acute myeloid leukemia a real-world retrospective cohort study,ML
+Leukemia,ASXL1,20693432,random,asxl1,C,M,,symbol 'ASXL1' present,19,distinct clinical and biological features of de novo acute myeloid leukemia with additional sex comb-like 1 asxl1 mutations,M
+Leukemia,ASXL1,21576631,random,asxl1,C,M,,symbol 'ASXL1' present,33,prognostic significance of asxl1 mutations in patients with myelodysplastic syndromes,M
+Leukemia,ASXL1,40295826,random,asxl1,C,M,target,symbol 'ASXL1' present,49,somatic mutations and outcomes in chronic myeloid leukemia adolescent and young adults compared to children adults and bcr abl1-positive acu,M
+Leukemia,ASXL1,36799265,random,asxl1,C,I,,symbol 'ASXL1' present,50,gene mutation analysis using next-generation sequencing and its clinical significance in patients with myeloid neoplasm a multi-center study,I
+Leukemia,ASXL1,41814508,random,asxl1,C,M,,symbol 'ASXL1' present,54,co-mutation of asxl1 and kras defines a novel ultra-adverse-risk subtype of acute myeloid leukemia in a large-scale cohort,M
+Leukemia,ASXL1,41145671,random,asxl1,C,ML,,symbol 'ASXL1' present,63,differential prognostic impact of myelodysplasia-related gene mutations in a european cohort of 4978 intensively treated aml patients,ML
+Leukemia,ASXL1,36307398,random,asxl1,C,M,,symbol 'ASXL1' present,140,prognostic impact of asxl1 mutations in chronic phase chronic myeloid leukemia,M
+Leukemia,ASXL1,32045476,random,asxl1,C,ML,,symbol 'ASXL1' present,236,mutation accumulation in cancer genes relates to nonoptimal outcome in chronic myeloid leukemia,ML
+Leukemia,ASXL1,28424163,random,asxl1,C,P,,symbol 'ASXL1' present,246,clinical significance of somatic mutation in unexplained blood cytopenia,P
+Leukemia,ASXL1,36583229,random,asxl1,C,ML,,symbol 'ASXL1' present,265,etnk1 mutation occurs in a wide spectrum of myeloid neoplasms and is not specific for atypical chronic myeloid leukemia,ML
+Leukemia,ASXL1,23613835,random,asxl1,C,ML,,symbol 'ASXL1' present,272,ezh2 mutations are related to low blast percentage in bone marrow and -7 del 7q in de novo acute myeloid leukemia,ML
+Leukemia,ASXL1,33491606,random,asxl1,C,I,,symbol 'ASXL1' present,276,next-generation sequencing reveals gene mutations landscape and clonal evolution in patients with acute myeloid leukemia,I
+Leukemia,ASXL1,39819262,random,asxl1,C,M,,symbol 'ASXL1' present,290,comprehensive analysis of clinical pathological and molecular features in chronic myelomonocytic leukemia frequent asxl1 and nras mutations ,M
+Leukemia,ASXL1,35902731,random,asxl1,C,M,,symbol 'ASXL1' present,299,asxl1 mutations predict inferior molecular response to nilotinib treatment in chronic myeloid leukemia,M
+Leukemia,ASXL1,39853273,random,asxl1,C,ML,,symbol 'ASXL1' present,302,acquired mutations in patients with relapsed refractory cll who progressed in the alpine study,ML
+Leukemia,ASXL1,38952007,random,asxl1,C,ML,,symbol 'ASXL1' present,303,clonal hematopoiesis-associated gene mutations affect acute graft-versus-host disease after hematopoietic stem cell transplantation in aml p,ML
+Leukemia,ASXL1,37990829,random,asxl1,C,M,,symbol 'ASXL1' present,336,prognostic significance of persisting dnmt3a asxl1 and tet2 mutation burden in acute myeloid leukemia patients with allogeneic hematopoietic,M
+Leukemia,ASXL1,35200567,random,asxl1,C,M,,symbol 'ASXL1' present,461,co-occurring csf3r w791 germline and somatic t618i driver mutations induce early cnl and clonal progression to mixed phenotype acute leukemi,M
+Leukemia,ASXL1,26812887,random,asxl1,C,ML,,symbol 'ASXL1' present,463,splicing factor mutations predict poor prognosis in patients with de novo acute myeloid leukemia,ML
+Leukemia,ASXL1,40226311,random,asxl1,C,P,,symbol 'ASXL1' present,471,gene mutation characteristics and prognostic significance in acute myeloid leukemia patients from northeast china,P
+Leukemia,ASXL1,26623729,random,asxl1,C,M,,symbol 'ASXL1' present,542,asxl1 mutation correction by crispr cas9 restores gene function in leukemia cells and increases survival in mouse xenografts,M
+Leukemia,ASXL1,29321554,random,asxl1,C,M,,symbol 'ASXL1' present,585,mutations in dnmt3a u2af1 and ezh2 identify intermediate-risk acute myeloid leukemia patients with poor outcome after cr1,M
+Leukemia,ASXL1,30970181,random,asxl1,C,I,,symbol 'ASXL1' present,598,importance of prognostic stratification via gene mutation analysis in elderly patients with acute myelogenous leukemia,I
+Leukemia,ASXL1,36788335,random,asxl1,C,M,,symbol 'ASXL1' present,602,impact of gene alterations on clinical outcome in young adults with myelodysplastic syndromes,M
+Leukemia,ASXL1,26648538,random,asxl1,C,I,,symbol 'ASXL1' present,607,age-related mutations and chronic myelomonocytic leukemia,I
+Leukemia,ASXL1,38642470,random,asxl1,C,M,,symbol 'ASXL1' present,649,analysis of csf3r mutations in atypical chronic myeloid leukemia and other myeloid malignancies,M
+Leukemia,ASXL1,22919025,random,asxl1,C,I,,symbol 'ASXL1' present,650,srsf2 mutations in 275 cases with chronic myelomonocytic leukemia cmml,I
+Leukemia,ASXL1,33333221,random,asxl1,C,ML,,symbol 'ASXL1' present,651,comparison of gene mutation spectra in younger and older chinese acute myeloid leukemia patients and its prognostic value,ML
+Leukemia,ASXL1,23349305,random,asxl1,C,I,,symbol 'ASXL1' present,661,mutational analysis of therapy-related myelodysplastic syndromes and acute myelogenous leukemia,I
+Leukemia,ASXL1,38791222,random,asxl1,C,ML,,symbol 'ASXL1' present,705,braf mutations in patients with myeloid neoplasms a cancer center multigene next-generation sequencing analysis experience,ML
+Leukemia,ASXL1,33929500,random,asxl1,C,M,,symbol 'ASXL1' present,717,posttransplantation mrd monitoring in patients with aml by next-generation sequencing using dta and non-dta mutations,M
+Leukemia,ASXL1,42733996,random,asxl1,C,ML,,symbol 'ASXL1' present,738,genetic mutations in patients with acute myeloid leukemia and their impact on prognosis,ML
+Leukemia,ASXL1,40164144,random,asxl1,C,ML,,symbol 'ASXL1' present,751,mutation dynamics from diagnosis to relapse in acute myeloid leukemia with chromosomal 7 deletions,ML
+Leukemia,ASXL1,35922444,random,asxl1,C,M,,symbol 'ASXL1' present,757,genomic landscape of patients with flt3-mutated acute myeloid leukemia aml treated within the calgb 10603 ratify trial,M
+Leukemia,ASXL1,24859829,random,asxl1,C,ML,,symbol 'ASXL1' present,809,tet2 gene mutation is unfavorable prognostic factor in cytogenetically normal acute myeloid leukemia patients with npm1 and flt3-itd - mutat,ML
+Leukemia,ASXL1,34212373,random,asxl1,C,ML,,symbol 'ASXL1' present,853,hierarchical distribution of somatic variants in newly diagnosed chronic myeloid leukaemia at diagnosis and early follow-up,ML
+Leukemia,ASXL1,32238878,random,asxl1,C,ML,,symbol 'ASXL1' present,914,clinico-pathologic characteristics and outcomes of the world health organization who provisional entity de novo acute myeloid leukemia with ,ML
+Leukemia,ASXL1,42037246,random,asxl1,C,ML,,symbol 'ASXL1' present,930,mutations in chip-associated genes at myeloid neoplasm diagnosis and risk of cardiovascular cerebrovascular events,ML
+Leukemia,ASXL1,33755092,random,asxl1,C,M,,symbol 'ASXL1' present,945,a prognostic score including mutation profile and clinical features for patients with cmml undergoing stem cell transplantation,M
+Leukemia,TP53,19643983,random,tp53,C,M,,symbol 'TP53' present,10,detailed analysis of p53 pathway defects in fludarabine-refractory chronic lymphocytic leukemia cll dissecting the contribution of 17p delet,M
+Leukemia,TP53,24584352,random,tp53,C,I,,symbol 'TP53' present,23,atm mutation rather than birc3 deletion and or mutation predicts reduced survival in 11q-deleted chronic lymphocytic leukemia data from the ,I
+Leukemia,TP53,33095873,random,tp53,C,M,,symbol 'TP53' present,70,landscape of driver mutations and their clinical impacts in pediatric b-cell precursor acute lymphoblastic leukemia,M
+Leukemia,TP53,27476855,random,tp53,C,I,,symbol 'TP53' present,72,persistence of dnmt3a r882 mutations during remission does not adversely affect outcomes of patients with acute myeloid leukaemia,I
+Leukemia,TP53,39302466,random,tp53,C,M,,symbol 'TP53' present,88,distinct mutation features and its clinical significance in myelodysplastic syndromes with normal karyotype,M
+Leukemia,TP53,32015491,random,tp53,C,M,,symbol 'TP53' present,96,clinical significance of tp53 birc3 atm and mapk-erk genes in chronic lymphocytic leukaemia data from the randomised uk lrf cll4 trial,M
+Leukemia,TP53,37948498,random,tp53,C,ML,,symbol 'TP53' present,112,genomic mutation profiles of patients with acute myeloid leukemia in korea a single-center experience,ML
+Leukemia,TP53,26316624,random,tp53,C,M,,symbol 'TP53' present,128,presence of multiple recurrent mutations confers poor trial outcome of relapsed refractory cll,M
+Leukemia,TP53,28476805,random,tp53|tumor protein p53,C,M,,symbol 'TP53' present,163,tumor protein 53 gene mutations without 17p13 deletion have no significant clinical implications in chronic lymphocytic leukemia detection o,M
+Leukemia,TP53,26230955,random,tp53,C,M,,symbol 'TP53' present,188,tp53 mutations in de novo acute myeloid leukemia patients longitudinal follow-ups show the mutation is stable during disease evolution,M
+Leukemia,TP53,38665121,random,tp53,C,ML,,symbol 'TP53' present,196,a comparative analysis of the clinical and genetic profiles of blast phase bcr abl1-negative myeloproliferative neoplasm and acute myeloid l,ML
+Leukemia,TP53,22915647,random,tp53,C,M,,symbol 'TP53' present,201,a novel hierarchical prognostic model of aml solely based on molecular mutations,M
+Leukemia,TP53,25952993,random,tp53,C,M,,symbol 'TP53' present,230,tp53 mutation characteristics in therapy-related myelodysplastic syndromes and acute myeloid leukemia is similar to de novo diseases,M
+Leukemia,TP53,40998265,random,tp53,C,M,,symbol 'TP53' present,268,remission status prior to allogeneic stem cell transplantation in acute myeloid leukemia myelodysplastic syndrome patients harboring single-,M
+Leukemia,TP53,33491606,random,tp53,C,ML,,symbol 'TP53' present,276,next-generation sequencing reveals gene mutations landscape and clonal evolution in patients with acute myeloid leukemia,ML
+Leukemia,TP53,32730663,random,tp53,C,ML,,symbol 'TP53' present,307,mutation profile and prognostic relevance in elderly patients with de novo acute myeloid leukemia treated with decitabine-based chemotherapy,ML
+Leukemia,TP53,21483000,random,tp53,C,M,,symbol 'TP53' present,312,mutational status of the tp53 gene as a predictor of response and survival in patients with chronic lymphocytic leukemia results from the lr,M
+Leukemia,TP53,29573577,random,tp53,C,ML,,symbol 'TP53' present,320,mutation profile and associated clinical features in chinese patients with cytogenetically normal acute myeloid leukemia,ML
+Leukemia,TP53,15994285,random,tp53,C,ML,,symbol 'TP53' present,351,clinical characteristics and prognostic implications of npm1 mutations in acute myeloid leukemia,ML
+Leukemia,TP53,40996462,random,tp53,C,ML,,symbol 'TP53' present,405,comprehensive analysis of the clinical feature myeloid neoplasm-related gene mutation profiles and t cell diversity acquired pure red cell a,ML
+Leukemia,TP53,39007733,random,tp53,C,M,,symbol 'TP53' present,417,case report tp53 c 848g a germline mutation as a possible screening target at initial diagnosis for acute lymphoblastic leukemia,M
+Leukemia,TP53,28744014,random,tp53,C,M,,symbol 'TP53' present,434,low-burden tp53 mutations in chronic phase of myeloproliferative neoplasms association with age hydroxyurea administration disease type and ,M
+Leukemia,TP53,23585524,random,tp53,C,M,,symbol 'TP53' present,437,atm mutations uniformly lead to atm dysfunction in chronic lymphocytic leukemia application of functional test using doxorubicin,M
+Leukemia,TP53,35323988,random,tp53,C,M,,symbol 'TP53' present,450,tp53 lossoffunction mutations reduce sensitivity of acute leukaemia to the curaxin cbl0137,M
+Leukemia,TP53,40226311,random,tp53,C,I,,symbol 'TP53' present,471,gene mutation characteristics and prognostic significance in acute myeloid leukemia patients from northeast china,I
+Leukemia,TP53,28980058,random,tp53,C,M,,symbol 'TP53' present,476,full-length mutation search of the tp53 gene in acute myeloid leukemia has increased significance as a prognostic factor,M
+Leukemia,TP53,34481124,random,tp53,C,M,,symbol 'TP53' present,480,mutational profiling of myeloid neoplasms associated genes may aid the diagnosis of acute myeloid leukemia with myelodysplasia-related chang,M
+Leukemia,TP53,27503198,random,tp53,C,M,,symbol 'TP53' present,500,survival of del17p cll depends on genomic complexity and somatic mutation,M
+Leukemia,TP53,40414698,random,tp53,C,M,,symbol 'TP53' present,518,detection of tp53 mutations by immunohistochemistry in acute myeloid leukemia varies with interpreter expertise and mutation status,M
+Leukemia,TP53,20870288,random,tp53,C,M,,symbol 'TP53' present,528,tp53 mutations are infrequent in newly diagnosed chronic lymphocytic leukemia,M
+Leukemia,TP53,19188171,random,tp53,C,M,,symbol 'TP53' present,568,the prognostic value of tp53 mutations in chronic lymphocytic leukemia is independent of del17p13 implications for overall survival and chem,M
+Leukemia,TP53,42085510,random,tp53,C,ML,,symbol 'TP53' present,578,clinical implications of variant allele frequencies of genes in patients with acute myeloid leukemia,ML
+Leukemia,TP53,18843282,random,tp53,C,M,,symbol 'TP53' present,586,the detection of tp53 mutations in chronic lymphocytic leukemia independently predicts rapid disease progression and is highly correlated wi,M
+Leukemia,TP53,20008300,random,tp53,C,ML,,symbol 'TP53' present,674,two routes to leukemic transformation after a jak2 mutation-positive myeloproliferative neoplasm,ML
+Leukemia,TP53,26558352,random,tp53,C,ML,,symbol 'TP53' present,748,lpl gene expression is associated with poor prognosis in cll and closely related to notch1 mutations,ML
+Leukemia,TP53,34212373,random,tp53,C,ML,,symbol 'TP53' present,853,hierarchical distribution of somatic variants in newly diagnosed chronic myeloid leukaemia at diagnosis and early follow-up,ML
+Leukemia,TP53,27218649,random,tp53,C,M,,symbol 'TP53' present,900,the 5q deletion size in myeloid malignancies is correlated to additional chromosomal aberrations and to tp53 mutations,M
+Leukemia,TP53,42037246,random,tp53,C,ML,,symbol 'TP53' present,930,mutations in chip-associated genes at myeloid neoplasm diagnosis and risk of cardiovascular cerebrovascular events,ML
+Leukemia,TP53,26967821,random,tp53,C,M,,symbol 'TP53' present,932,lenalidomide treatment and prognostic markers in relapsed or refractory chronic lymphocytic leukemia data from the prospective multicenter p,M
+Leukemia,TP53,16014569,random,tp53,C,M,,symbol 'TP53' present,940,mutations in the atm gene lead to impaired overall and treatment-free survival that is independent of igvh mutation status in patients with ,M
+Leukemia,IDH1,29950729,random,idh1,C,G,,symbol 'IDH1' present,35,acquired resistance to idh inhibition through trans or cis dimer-interface mutations,G
+Leukemia,IDH1,41345260,random,idh1,C,ML,,symbol 'IDH1' present,73,frequency and impact of somatic co-occurring mutations on post-transplant outcomes in acute myeloid leukemia a multicenter registry analysis,ML
+Leukemia,IDH1,34794176,random,idh1,C,M,,symbol 'IDH1' present,76,differential impact of idh1 2 mutational subclasses on outcome in adult aml results from a large multicenter study,M
+Leukemia,IDH1,25987093,random,idh1,C,M,,symbol 'IDH1' present,78,mutation analysis of idh1 2 genes in unselected de novo acute myeloid leukaemia patients in india - identification of a novel idh2 mutation,M
+Leukemia,IDH1,26016821,random,idh1,C,M,,symbol 'IDH1' present,91,characteristics clinical outcome and prognostic significance of idh mutations in aml,M
+Leukemia,IDH1,26375248,random,idh1,C,ML,,symbol 'IDH1' present,117,high frequency of additional gene mutations in acute myeloid leukemia with mll partial tandem duplication dnmt3a mutation is associated with,ML
+Leukemia,IDH1,31145495,random,idh1,C,M,,symbol 'IDH1' present,168,the combination of npm1 dnmt3a and idh1 2 mutations leads to inferior overall survival in aml,M
+Leukemia,IDH1,38665121,random,idh1,C,I,,symbol 'IDH1' present,196,a comparative analysis of the clinical and genetic profiles of blast phase bcr abl1-negative myeloproliferative neoplasm and acute myeloid l,I
+Leukemia,IDH1,22658276,random,idh1,C,I,,symbol 'IDH1' present,200,multiplex high-throughput gene mutation analysis in acute myeloid leukemia,I
+Leukemia,IDH1,34946913,random,idh1,C,M,,symbol 'IDH1' present,218,investigation of isocitrate dehydrogenase 1 and 2 mutations in acute leukemia patients in saudi arabia,M
+Leukemia,IDH1,26189213,random,idh1,C,M,,symbol 'IDH1' present,257,prevalence and clinical effect of idh1 and idh2 mutations among cytogenetically normal acute myeloid leukemia patients,M
+Leukemia,IDH1,23613835,random,idh1,C,I,,symbol 'IDH1' present,272,ezh2 mutations are related to low blast percentage in bone marrow and -7 del 7q in de novo acute myeloid leukemia,I
+Leukemia,IDH1,29309772,random,idh1,C,ML,,symbol 'IDH1' present,279,gene mutation patterns of chinese acute myeloid leukemia patients by targeted next-generation sequencing and bioinformatic analysis,ML
+Leukemia,IDH1,34270876,random,idh1,C,M,,symbol 'IDH1' present,281,additional mutations in idh1 2-mutated patients with acute myeloid leukemia,M
+Leukemia,IDH1,36815747,random,idh1,C,M,,symbol 'IDH1' present,365,single-center observational study of aml mds-eb with idh1 2 mutations genetic profile immunophenotypes mutational kinetics and outcomes,M
+Leukemia,IDH1,23365461,random,idh1,C,M,,symbol 'IDH1' present,383,cooperating gene mutations in childhood acute myeloid leukemia with special reference on mutations of asxl1 tet2 idh1 idh2 and dnmt3a,M
+Leukemia,IDH1,35526267,random,idh1,C,M,,symbol 'IDH1' present,388,molecular and clinical characteristics of idh mutations in chinese nsclc patients and potential treatment strategies,M
+Leukemia,IDH1,33941203,random,idh1,C,M,,symbol 'IDH1' present,397,oncogenetic landscape and clinical impact of idh1 and idh2 mutations in t-all,M
+Leukemia,IDH1,22172803,random,idh1,C,M,,symbol 'IDH1' present,401,detection of idh1 r132h mutation in acute myeloid leukemia by mutation-specific immunohistochemistry,M
+Leukemia,IDH1,40996462,random,idh1,C,ML,,symbol 'IDH1' present,405,comprehensive analysis of the clinical feature myeloid neoplasm-related gene mutation profiles and t cell diversity acquired pure red cell a,ML
+Leukemia,IDH1,25651001,random,idh1,C,M,,symbol 'IDH1' present,413,presence of isocitrate dehydrogenase mutations may predict clinical response to hypomethylating agents in patients with acute myeloid leukem,M
+Leukemia,IDH1,21646683,random,idh1,C,I,,symbol 'IDH1' present,498,myeloproliferative neoplasms from jak2 mutations discovery to jak2 inhibitor therapies,I
+Leukemia,IDH1,20678218,random,idh1,C,ML,,symbol 'IDH1' present,563,combined mutations of asxl1 cbl flt3 idh1 idh2 jak2 kras npm1 nras runx1 tet2 and wt1 genes in myelodysplastic syndromes and acute myeloid l,ML
+Leukemia,IDH1,39615653,random,idh1,C,M,,symbol 'IDH1' present,577,the validation of digital pcr-based minimal residual disease detection for the common mutations in idh1 and idh2 genes in patients with acut,M
+Leukemia,IDH1,35551192,random,idh1,C,M,,symbol 'IDH1' present,632,germline mutations in mitochondrial complex i reveal genetic and targetable vulnerability in idh1-mutant acute myeloid leukaemia,M
+Leukemia,IDH1,34933728,random,idh1,C,M,,symbol 'IDH1' present,679,prognostic relevance of combined idh1 and npm1 mutations in the intermediate cytogenetic de novo acute myeloid leukemia,M
+Leukemia,IDH1,21881046,random,idh1,C,ML,,symbol 'IDH1' present,687,gene mutation patterns and their prognostic impact in a cohort of 1185 patients with acute myeloid leukemia,ML
+Leukemia,IDH1,32296873,random,idh1,C,M,target,symbol 'IDH1' present,718,clinical pharmacokinetics and pharmacodynamics of ivosidenib in patients with advanced hematologic malignancies with an idh1 mutation,M
+Leukemia,IDH1,42733996,random,idh1,C,I,,symbol 'IDH1' present,738,genetic mutations in patients with acute myeloid leukemia and their impact on prognosis,I
+Leukemia,IDH1,22012066,random,idh1,C,ML,,symbol 'IDH1' present,750,whole-exome sequencing identifies somatic mutations of bcor in acute myeloid leukemia with normal karyotype,ML
+Leukemia,IDH1,21539821,random,idh1,C,M,,symbol 'IDH1' present,756,rapid and reliable detection of idh1 r132 mutations in acute myeloid leukemia using high-resolution melting curve analysis,M
+Leukemia,IDH1,26486081,random,idh1,C,M,,symbol 'IDH1' present,771,idh1 2 but not dnmt3a mutations are suitable targets for minimal residual disease monitoring in acute myeloid leukemia patients a study by t,M
+Leukemia,IDH1,32811132,random,idh1,C,ML,,symbol 'IDH1' present,772,leukemic stem cell phenotype is associated with mutational profile in acute myeloid leukemia,ML
+Leukemia,IDH1,37267439,random,idh1,C,I,,symbol 'IDH1' present,788,characteristics and prognostic impact of idh mutations in aml a cog swog and ecog analysis,I
+Leukemia,IDH1,24737308,random,idh1,C,ML,,symbol 'IDH1' present,805,lack of noncanonical ras mutations in cytogenetically normal acute myeloid leukemia,ML
+Leukemia,IDH1,22616558,random,idh1,C,M,,symbol 'IDH1' present,839,potential application of idh1 and idh2 mutations as prognostic indicators in non-promyelocytic acute myeloid leukemia a meta-analysis,M
+Leukemia,IDH1,28923882,random,idh1,C,G,,symbol 'IDH1' present,863,mutational profiling of acute myeloid leukemia with normal cytogenetics in brazilian patients the value of next-generation sequencing for ge,G
+Leukemia,IDH1,22809434,random,idh1,C,M,,symbol 'IDH1' present,868,mutation analysis of isocitrate dehydrogenase in acute lymphoblastic leukemia,M
+Leukemia,IDH1,24887327,random,idh1,C,M,,symbol 'IDH1' present,912,comparative examination of various pcr-based methods for dnmt3a and idh1 2 mutations identification in acute myeloid leukemia,M
+Leukemia,IDH1,36064577,random,idh1,C,M,,symbol 'IDH1' present,955,impact of idh1 and idh2 mutational subgroups in aml patients after allogeneic stem cell transplantation,M
+Leukemia,BCR,41660930,random,bcr,C,M,,symbol 'BCR' present,5,clinical significance of the s348l mutation in bcr-abl as a dominant variant in indonesian cml patients under tyrosine kinase inhibitor ther,M
+Leukemia,BCR,34292760,random,bcr,C,M,,symbol 'BCR' present,31,spectrum of bcr-abl mutations and treatment outcomes in ethiopian imatinib-resistant patients with chronic myeloid leukemia,M
+Leukemia,BCR,37731314,random,bcr,C,M,target,symbol 'BCR' present,37,bcr abl1 kinase domain mutation testing and clinical outcome in a nationwide chronic myeloid leukemia patient population,M
+Leukemia,BCR,39225048,random,bcr,C,G,target,symbol 'BCR' present,43,a novel next-generation sequencing assay for the identification of bcr abl1 transcript type and accurate and sensitive detection of tki-resi,G
+Leukemia,BCR,38643202,random,bcr,C,M,target,symbol 'BCR' present,74,mutation analysis of bcr-abl1 kinase domain in chronic myeloid leukemia patients with tyrosine kinase inhibitors resistance a malaysian coho,M
+Leukemia,BCR,24456693,random,bcr,C,M,target,symbol 'BCR' present,79,bcr-abl kinase domain mutations including 2 novel mutations in imatinib resistant malaysian chronic myeloid leukemia patients-frequency and ,M
+Leukemia,BCR,32803312,random,bcr,C,M,,symbol 'BCR' present,83,the impacts of bcr-abl1 mutations in patients with philadelphia chromosome-positive acute lymphoblastic leukemia who underwent allogeneic he,M
+Leukemia,BCR,21663510,random,bcr,C,M,,symbol 'BCR' present,129,clinical outcome of chronic myeloid leukemia imatinib-resistant patients do bcr-abl kinase domain mutations affect patient survival first mu,M
+Leukemia,BCR,34673444,random,bcr,C,M,,symbol 'BCR' present,148,ultra-deep sequencing mutation analysis of the bcr abl1 kinase domain in newly diagnosed chronic myeloid leukemia patients,M
+Leukemia,BCR,36155130,random,bcr,C,M,,symbol 'BCR' present,161,deep sequencing reveals the spectrum of bcr-abl1 mutations upon front-line therapy resistance in chronic myeloid leukemia an eastern-indian ,M
+Leukemia,BCR,32047037,random+targeted,bcr,X,I,,"'BCR' = B-cell antigen receptor (BCR signaling, IGH stereotypes), not the BCR gene",189,iglv3-21 01 is an inherited risk factor for cll through the acquisition of a single-point mutation enabling autonomous bcr signaling,I
+Leukemia,BCR,33403687,random,bcr,C,M,target,symbol 'BCR' present,194,next-generation sequencing improves bcr-abl1 mutation detection in philadelphia chromosome-positive acute lymphoblastic leukaemia,M
+Leukemia,BCR,32045476,random,bcr,C,I,,symbol 'BCR' present,236,mutation accumulation in cancer genes relates to nonoptimal outcome in chronic myeloid leukemia,I
+Leukemia,BCR,21239056,random,bcr,C,M,,symbol 'BCR' present,241,bcr-abl1 mutations in patients with imatinib-resistant philadelphia chromosome-positive leukemia by use of the pcr-invader assay,M
+Leukemia,BCR,25300870,random,bcr,C,M,,symbol 'BCR' present,297,patients with philadelphia-positive leukemia with bcr-abl kinase mutations before allogeneic transplantation predominantly relapse with the ,M
+Leukemia,BCR,20659155,random,bcr,C,M,,symbol 'BCR' present,304,molecular monitoring and mutation analysis of patients with advanced phase cml and ph all receiving dasatinib,M
+Leukemia,BCR,16855631,random,bcr,C,M,,symbol 'BCR' present,319,frequency and clinical significance of bcr-abl mutations in patients with chronic myeloid leukemia treated with imatinib mesylate,M
+Leukemia,BCR,36990968,random,bcr,C,M,,symbol 'BCR' present,334,droplet digital polymerase chain reaction improves the detection of bcr-abl1 kinase domain mutation in philadelphia chromosome-positive acut,M
+Leukemia,BCR,30419862,random,bcr,C,M,,symbol 'BCR' present,343,finding the right bcr-abl1 tyrosine kinase inhibitor a case report of successful treatment of a patient with chronic myeloid leukemia and a ,M
+Leukemia,BCR,22035739,random,bcr,C,M,,symbol 'BCR' present,361,dasatinib combined with interferon-alfa induces a complete cytogenetic response and major molecular response in a patient with chronic myelo,M
+Leukemia,BCR,35906470,random,bcr,C,M,,symbol 'BCR' present,368,detection of kinase domain mutations in bcr abl1 leukemia by ultra-deep sequencing of genomic dna,M
+Leukemia,BCR,20367437,random,bcr,C,M,,symbol 'BCR' present,370,mutations in abl kinase domain are associated with inferior progression-free survival,M
+Leukemia,BCR,15867198,random,bcr,C,I,,symbol 'BCR' present,377,abl mutations in late chronic phase chronic myeloid leukemia patients with up-front cytogenetic resistance to imatinib are associated with a,I
+Leukemia,BCR,18645191,random,bcr,C,M,,symbol 'BCR' present,406,finding of kinase domain mutations in patients with chronic phase chronic myeloid leukemia responding to imatinib may identify those at high,M
+Leukemia,BCR,23502220,random,bcr,C,M,,symbol 'BCR' present,442,nilotinib is associated with a reduced incidence of bcr-abl mutations vs imatinib in patients with newly diagnosed chronic myeloid leukemia ,M
+Leukemia,BCR,12859990,random,bcr,C,M,,symbol 'BCR' present,452,sensitive and quantitative detection of mutations associated with clinical resistance to sti-571,M
+Leukemia,BCR,12663457,random,bcr,C,M,,symbol 'BCR' present,470,presence of the bcr-abl mutation glu255lys prior to sti571 imatinib treatment in patients with ph acute lymphoblastic leukemia,M
+Leukemia,BCR,23289634,random,bcr,C,M,target,symbol 'BCR' present,494,bcr-abl1 kinase domain mutation analysis in an irish cohort of chronic myeloid leukemia patients,M
+Leukemia,BCR,23409026,random,bcr,C,M,,symbol 'BCR' present,504,sensitive detection of pre-existing bcr-abl kinase domain mutations in cd34 cells of newly diagnosed chronic-phase chronic myeloid leukemia ,M
+Leukemia,BCR,20557306,random,bcr,C,M,,symbol 'BCR' present,567,rapid clonal shifts in response to kinase inhibitor therapy in chronic myelogenous leukemia are identified by quantitation mutation assays,M
+Leukemia,BCR,32638549,random+targeted,bcr,C,I,,symbol 'BCR' present,635,spectrum of gene mutations identified by targeted next-generation sequencing in chinese leukemia patients,I
+Leukemia,BCR,17982022,random,bcr,C,I,,symbol 'BCR' present,682,in vivo kinetics of kinase domain mutations in cml patients treated with dasatinib after failing imatinib,I
+Leukemia,BCR,16461309,random,bcr,C,M,,symbol 'BCR' present,752,the role of serial bcr-abl transcript monitoring in predicting the emergence of bcr-abl kinase mutations in imatinib-treated patients with c,M
+Leukemia,BCR,37689224,random,bcr,C,G,,symbol 'BCR' present,774,frequency and prognostic influence of asxl1 mutations and its potential association with bcr-abl1 transcript type and smoke in chronic myelo,G
+Leukemia,BCR,23252482,random,bcr,C,M,,symbol 'BCR' present,778,detection of bcr-abl1 mutations in chronic myeloid leukaemia by massive parallel sequencing,M
+Leukemia,BCR,36287227,targeted,bcr,X,I,,'BCR' = B-cell receptor signaling (BTK inhibitor trial),825,pirtobrutinib targets btk c481s in ibrutinib-resistant cll but second-site btk mutations lead to resistance,I
+Leukemia,BCR,18308387,random,bcr,C,M,,symbol 'BCR' present,903,high-resolution melt curve analysis initial screening for mutations in bcr-abl kinase domain,M
+Leukemia,BCR,39332790,random,bcr,C,G,target,symbol 'BCR' present,919,structure optimization synthesis and bioactivity evaluation of novel bcr-abl tyrosine kinase inhibitor targeting t315i mutation,G
+Leukemia,BCR,32821940,random,bcr,C,I,,symbol 'BCR' present,920,abl kinase domain mutations in iranian chronic myeloid leukemia patients with resistance to tyrosine kinase inhibitors,I
+Leukemia,BCR,26892479,random,bcr,C,ML,,symbol 'BCR' present,935,clinical impact of abl1 kinase domain mutations and ikzf1 deletion in adults under age 60 with philadelphia chromosome-positive ph acute lym,ML
+Leukemia,BCR,32711426,random,bcr,C,M,,symbol 'BCR' present,976,practical laboratory tools for monitoring of bcr-abl1 transcripts and tyrosine kinase tk domain mutations in chronic myeloid leukemia patien,M
+Leukemia,BCR,35120522,targeted,bcr,X,I,,'BCR' = B-cell antigen receptor signaling,981,overexpression of wild type rras2 without oncogenic mutations drives chronic lymphocytic leukemia,I
+Leukemia,TET2,34818692,random,tet2,C,M,,symbol 'TET2' present,17,the clinical characteristics and prognosis of chinese acute myeloid leukemia patients with csf3r mutations,M
+Leukemia,TET2,32970934,random,tet2,C,M,,symbol 'TET2' present,46,characteristics and prognostic significance of genetic mutations in acute myeloid leukemia based on a targeted next-generation sequencing te,M
+Leukemia,TET2,40295826,random,tet2,C,ML,,symbol 'TET2' present,49,somatic mutations and outcomes in chronic myeloid leukemia adolescent and young adults compared to children adults and bcr abl1-positive acu,ML
+Leukemia,TET2,34847232,random,tet2,C,ML,,symbol 'TET2' present,80,molecular clinical and prognostic implications of ptpn11 mutations in acute myeloid leukemia,ML
+Leukemia,TET2,39302466,random,tet2,C,I,,symbol 'TET2' present,88,distinct mutation features and its clinical significance in myelodysplastic syndromes with normal karyotype,I
+Leukemia,TET2,37948498,random,tet2,C,ML,,symbol 'TET2' present,112,genomic mutation profiles of patients with acute myeloid leukemia in korea a single-center experience,ML
+Leukemia,TET2,26375248,random,tet2,C,ML,,symbol 'TET2' present,117,high frequency of additional gene mutations in acute myeloid leukemia with mll partial tandem duplication dnmt3a mutation is associated with,ML
+Leukemia,TET2,29702001,random,tet2,C,M,,symbol 'TET2' present,127,clearance of somatic mutations at remission and the risk of relapse in acute myeloid leukemia,M
+Leukemia,TET2,35544613,random,tet2,C,ML,,symbol 'TET2' present,166,clinical and molecular characteristics of acute myeloid leukemia with mpl mutation,ML
+Leukemia,TET2,39921715,random,tet2,C,M,,symbol 'TET2' present,167,prognostic impact of tet2 mutations in patients with acute myeloid leukemia hm-screen-japan 01 and 02 study,M
+Leukemia,TET2,20724988,random,tet2,C,M,,symbol 'TET2' present,184,lnk mutation studies in blast-phase myeloproliferative neoplasms and in chronic-phase disease with tet2 idh jak2 or mpl mutations,M
+Leukemia,TET2,36117041,random,tet2,C,G,,symbol 'TET2' present,190,sf3b1 runx1 and tp53 mutations significantly impact the outcome of patients with lower-risk myelodysplastic syndrome,G
+Leukemia,TET2,38665121,random,tet2,C,ML,,symbol 'TET2' present,196,a comparative analysis of the clinical and genetic profiles of blast phase bcr abl1-negative myeloproliferative neoplasm and acute myeloid l,ML
+Leukemia,TET2,34215619,random,tet2,C,M,,symbol 'TET2' present,227,tet2 and dnmt3a mutations exert divergent effects on dna repair and sensitivity of leukemia cells to parp inhibitors,M
+Leukemia,TET2,23613835,random,tet2,C,I,,symbol 'TET2' present,272,ezh2 mutations are related to low blast percentage in bone marrow and -7 del 7q in de novo acute myeloid leukemia,I
+Leukemia,TET2,33491606,random,tet2,C,I,,symbol 'TET2' present,276,next-generation sequencing reveals gene mutations landscape and clonal evolution in patients with acute myeloid leukemia,I
+Leukemia,TET2,29309772,random,tet2,C,M,,symbol 'TET2' present,279,gene mutation patterns of chinese acute myeloid leukemia patients by targeted next-generation sequencing and bioinformatic analysis,M
+Leukemia,TET2,29573577,random,tet2,C,ML,,symbol 'TET2' present,320,mutation profile and associated clinical features in chinese patients with cytogenetically normal acute myeloid leukemia,ML
+Leukemia,TET2,40259101,random,tet2,C,I,,symbol 'TET2' present,324,impact of myelodysplasia-related gene mutations and residual mutations at remission in venetoclax azacitidine for aml,I
+Leukemia,TET2,32476595,random,tet2,C,ML,,symbol 'TET2' present,326,mutational landscape of patients with acute myeloid leukemia or myelodysplastic syndromes in the context of runx1 mutation,ML
+Leukemia,TET2,37990829,random,tet2,C,M,,symbol 'TET2' present,336,prognostic significance of persisting dnmt3a asxl1 and tet2 mutation burden in acute myeloid leukemia patients with allogeneic hematopoietic,M
+Leukemia,TET2,35390143,random,tet2,C,G,,symbol 'TET2' present,364,tp53 copy number and protein expression inform mutation status across risk categories in acute myeloid leukemia,G
+Leukemia,TET2,33941203,random,tet2,C,ML,,symbol 'TET2' present,397,oncogenetic landscape and clinical impact of idh1 and idh2 mutations in t-all,ML
+Leukemia,TET2,36087739,random,tet2,C,ML,,symbol 'TET2' present,430,many faces of sf3b1-mutated myeloid neoplasms concurrent mutational profiles contribute to the diverse clinical and morphologic features,ML
+Leukemia,TET2,26812887,random,tet2,C,ML,,symbol 'TET2' present,463,splicing factor mutations predict poor prognosis in patients with de novo acute myeloid leukemia,ML
+Leukemia,TET2,40226311,random,tet2,C,P,,symbol 'TET2' present,471,gene mutation characteristics and prognostic significance in acute myeloid leukemia patients from northeast china,P
+Leukemia,TET2,30587503,random,tet methylcytosine dioxygenase 2|tet2,C,M,,symbol 'TET2' present,484,does sf3b1 tet2 double mutation portend better or worse prognosis than isolated sf3b1 or tet2 mutation,M
+Leukemia,TET2,21646683,random,tet2,C,ML,,symbol 'TET2' present,498,myeloproliferative neoplasms from jak2 mutations discovery to jak2 inhibitor therapies,ML
+Leukemia,TET2,31638252,random,tet2,C,I,,symbol 'TET2' present,550,gene mutation profile and risk stratification in aml1etopositive acute myeloid leukemia based on nextgeneration sequencing,I
+Leukemia,TET2,36738279,random,tet2,C,M,,symbol 'TET2' present,590,correlation of blood cell counts with mutant subtypes and impact prognosis in acute myeloid leukemia patients with flt3 mutations,M
+Leukemia,TET2,23349305,random,tet2,C,I,,symbol 'TET2' present,661,mutational analysis of therapy-related myelodysplastic syndromes and acute myelogenous leukemia,I
+Leukemia,TET2,30327374,random,tet2,C,ML,,symbol 'TET2' present,672,the mutational landscape of accelerated- and blast-phase myeloproliferative neoplasms impacts patient outcomes,ML
+Leukemia,TET2,20008300,random,tet2,C,ML,,symbol 'TET2' present,674,two routes to leukemic transformation after a jak2 mutation-positive myeloproliferative neoplasm,ML
+Leukemia,TET2,21881046,random,tet2,C,ML,,symbol 'TET2' present,687,gene mutation patterns and their prognostic impact in a cohort of 1185 patients with acute myeloid leukemia,ML
+Leukemia,TET2,42733996,random,tet2,C,ML,,symbol 'TET2' present,738,genetic mutations in patients with acute myeloid leukemia and their impact on prognosis,ML
+Leukemia,TET2,28331128,random,tet2,C,M,,symbol 'TET2' present,769,tet2 mutation in diffuse large b-cell lymphoma,M
+Leukemia,TET2,28913558,random,tet2,C,ML,,symbol 'TET2' present,891,only setbp1 hotspot mutations are associated with refractory disease in myeloid malignancies,ML
+Leukemia,TET2,42037246,random,tet2,C,ML,,symbol 'TET2' present,930,mutations in chip-associated genes at myeloid neoplasm diagnosis and risk of cardiovascular cerebrovascular events,ML
+Leukemia,TET2,24994606,random,tet2,C,M,,symbol 'TET2' present,982,clinical and biological impact of tet2 mutations and expression in younger adult aml patients treated within the eortc gimema aml-12 clinica,M
+Leukemia,TET2,33711909,random,tet2,C,ML,,symbol 'TET2' present,991,mutational spectrum of de novo npm1 -mutated acute myeloid leukemia patients older than 75 years,ML

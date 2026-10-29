@@ -1,0 +1,5 @@
+gene,pmid,identity,evidence,rationale
+PIK3CA,22744290,C,M,"'PI3KCA' = PIK3CA (gene named, mutation study); credited via 'PI3K'"
+BRCA2,28825143,X,I,"'brca2' occurs only inside PALB2's full name 'partner and localizer of BRCA2'"
+BRCA2,36966080,X,I,"'brca2' occurs only inside PALB2's full name"
+BRCA2,21618343,X,I,"'brca2' occurs only inside PALB2's full name"

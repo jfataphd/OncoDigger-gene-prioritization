@@ -1,0 +1,11 @@
+gene,main_rank,excluded_rank
+KRAS,1,4
+BRAF,4,7
+NRAS,5,10
+APC,9,8
+TP53,2,2
+CTNNB1,3,1
+TERT,6,3
+EGFR,7,40
+PIK3CA,8,14
+HFE,10,9

@@ -1,0 +1,465 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Melanoma,BRAF,40869231,random,braf,C,M,,symbol 'BRAF' present,9,braf v600e mutation has variable tumor-specific effects on expression of mapk pathway genes that could affect patient outcome,M
+Melanoma,BRAF,23922205,random,braf,C,M,,symbol 'BRAF' present,43,clinical characteristics and outcomes with specific braf and nras mutations in patients with metastatic melanoma,M
+Melanoma,BRAF,29100713,random,braf,C,M,,symbol 'BRAF' present,45,a hrm assay for identification of low level braf v600e and v600k mutations using the cadma principle in ffpe specimens,M
+Melanoma,BRAF,31959346,random,braf,C,M,,symbol 'BRAF' present,49,vemurafenib in non-small-cell lung cancer patients with braf v600 and braf nonv600 mutations,M
+Melanoma,BRAF,15948220,random,braf,C,M,,symbol 'BRAF' present,52,braf mutation detection and identification by cycling temperature capillary electrophoresis,M
+Melanoma,BRAF,32561648,random,braf,C,M,,symbol 'BRAF' present,73,tert promoter mutation determines apoptotic and therapeutic responses of braf -mutant cancers to braf and mek inhibitors achilles heel,M
+Melanoma,BRAF,36227105,random,braf,C,M,,symbol 'BRAF' present,134,machine learning techniques in predicting braf mutation status in cutaneous melanoma from clinical and histopathologic features,M
+Melanoma,BRAF,32445930,random,braf,C,M,,symbol 'BRAF' present,157,impact of sun exposure and tanning patterns on next-generation sequencing mutations in melanoma,M
+Melanoma,BRAF,30241212,random,braf,C,M,,symbol 'BRAF' present,168,frequency of braf v600e mutation in the mexican population of patients with metastatic melanoma,M
+Melanoma,BRAF,34955076,random,braf,C,M,,symbol 'BRAF' present,170,gene mutations and clinical prognosis of mucosal melanoma in different locations of head and neck,M
+Melanoma,BRAF,22382362,random,braf,C,M,,symbol 'BRAF' present,175,assessment of association between braf-v600e mutation status in melanomas and clinical response to ipilimumab,M
+Melanoma,BRAF,31382929,random,braf,C,ML,,symbol 'BRAF' present,183,germline and somatic mutations in patients with multiple primary melanomas a next generation sequencing study,ML
+Melanoma,BRAF,25588152,random,braf,C,M,,symbol 'BRAF' present,201,brafv600e protein expression in primary cutaneous malignant melanomas and paired metastases,M
+Melanoma,BRAF,26709572,random,braf,C,ML,,symbol 'BRAF' present,224,molecular profiling including tert promoter mutations of acral lentiginous melanomas,ML
+Melanoma,BRAF,21224857,random,braf,C,M,,symbol 'BRAF' present,247,polyclonality of braf mutations in primary melanoma and the selection of mutant alleles during progression,M
+Melanoma,BRAF,29178146,random,braf,C,M,,symbol 'BRAF' present,277,braf mutations might be more common than supposed in vulvar melanomas,M
+Melanoma,BRAF,27566656,random,braf,C,M,,symbol 'BRAF' present,281,a sensitive peptide nucleic acid probe assay for detection of braf v600 mutations in melanoma,M
+Melanoma,BRAF,16799476,random,braf,C,M,,symbol 'BRAF' present,355,braf and nras mutations in spitzoid melanocytic lesions,M
+Melanoma,BRAF,22588879,random,braf,C,M,,symbol 'BRAF' present,392,preexisting mek1 exon 3 mutations in v600e kbraf melanomas do not confer resistance to braf inhibitors,M
+Melanoma,BRAF,28039443,random,braf,C,M,,symbol 'BRAF' present,396,heterogeneity and frequency of braf mutations in primary melanoma comparison between molecular methods and immunohistochemistry,M
+Melanoma,BRAF,24388723,random,braf,C,M,,symbol 'BRAF' present,399,prognostic value of braf mutations in localized cutaneous melanoma,M
+Melanoma,BRAF,25070294,random,braf,C,M,,symbol 'BRAF' present,404,braf mutation status is an independent prognostic factor for resected stage iiib and iiic melanoma implications for melanoma staging and adj,M
+Melanoma,BRAF,30558566,random,braf,C,I,,symbol 'BRAF' present,417,detection of mutations in sf3b1 eif1ax and gnaq in primary orbital melanoma by candidate gene analysis,I
+Melanoma,BRAF,25544760,random,braf,C,ML,,symbol 'BRAF' present,438,whole exome sequencing identifies a recurrent rqcd1 p131l mutation in cutaneous melanoma,ML
+Melanoma,BRAF,24148783,random,braf,C,M,,symbol 'BRAF' present,470,the genetic heterogeneity and mutational burden of engineered melanomas in zebrafish models,M
+Melanoma,BRAF,30552700,random,braf,C,M,,symbol 'BRAF' present,493,nras q61r and braf g466a mutations in atypical melanocytic lesions newly arising in advanced melanoma patients treated with vemurafenib,M
+Melanoma,BRAF,30928620,random,braf,C,M,,symbol 'BRAF' present,505,patient-reported outcomes in patients with resected high-risk melanoma with braf v600e or braf v600k mutations treated with adjuvant dabrafe,M
+Melanoma,BRAF,25315378,random,braf,C,ML,,symbol 'BRAF' present,535,mutations in g protein encoding genes and chromosomal alterations in primary leptomeningeal melanocytic neoplasms,ML
+Melanoma,BRAF,39912664,targeted,b raf proto oncogene serine threonine kinase,C,M,,credited via alias b raf proto oncogene serine threonine kinase,576,brca1-associated protein-1 inactivated melanoma arising in a pre-existing nevus with alk fusion and low tumor mutational burden,M
+Melanoma,BRAF,14691295,random,braf,C,M,,symbol 'BRAF' present,619,absence of mutations of the braf gene and constitutive activation of extracellular-regulated kinase in malignant melanomas of the uvea,M
+Melanoma,BRAF,29202777,random,braf,C,M,,symbol 'BRAF' present,630,identification of coexistence of braf v600e mutation and ezh2 gain specifically in melanoma as a promising target for combination therapy,M
+Melanoma,BRAF,18524847,random,braf,C,M,,symbol 'BRAF' present,639,in vitro differential sensitivity of melanomas to phenothiazines is based on the presence of codon 600 braf mutation,M
+Melanoma,BRAF,31647501,random,braf,C,M,,symbol 'BRAF' present,667,integrative exome and transcriptome analysis of conjunctival melanoma and its potential application for personalized therapy,M
+Melanoma,BRAF,30776432,random,braf,C,M,,symbol 'BRAF' present,675,dynamic evolution of clonal composition and neoantigen landscape in recurrent metastatic melanoma with a rare combination of driver mutation,M
+Melanoma,BRAF,24714776,random,braf,C,M,,symbol 'BRAF' present,710,correlation of somatic mutations and clinical outcome in melanoma patients treated with carboplatin paclitaxel and sorafenib,M
+Melanoma,BRAF,41486542,random,braf,C,M,,symbol 'BRAF' present,713,somatic gene variants in unresectable cutaneous melanoma cells and detection of pharmacogenomic markers influence on strategy of effective c,M
+Melanoma,BRAF,41342263,random,braf,C,M,,symbol 'BRAF' present,795,real-world outcomes of adjuvant therapy in stage iii melanoma and the impact of somatic mutations,M
+Melanoma,BRAF,23211290,random,braf,C,M,,symbol 'BRAF' present,804,immunohistochemical analysis of braf v600e expression of primary and metastatic melanoma and comparison with mutation status and melanocyte ,M
+Melanoma,BRAF,32118628,random,braf,C,M,,symbol 'BRAF' present,852,genomic and clinicopathologic characteristics of prkar1a-inactivated melanomas toward genetic distinctions of animal-type melanoma pigment s,M
+Melanoma,BRAF,26376781,random,braf,C,M,,symbol 'BRAF' present,868,primary pulmonary melanoma a report of two cases,M
+Melanoma,BRAF,36389735,random,braf,C,M,,symbol 'BRAF' present,974,genomic landscape of the immunogenicity regulation in skin melanomas with diverse tumor mutation burden,M
+Melanoma,NRAS,12960123,targeted,n ras,C,M,,credited via alias n ras,5,braf mutations in metastatic melanoma a possible association with clinical outcome,M
+Melanoma,NRAS,25317746,targeted,n ras,C,M,,credited via alias n ras,14,characterization of s628n a novel kit mutation found in a metastatic melanoma,M
+Melanoma,NRAS,22261812,random,nras,C,M,,symbol 'NRAS' present,35,sunitinib therapy for melanoma patients with kit mutations,M
+Melanoma,NRAS,41408518,random,nras,C,M,,symbol 'NRAS' present,61,genetic diversity in melanomagenesis a comprehensive analysis of braf nras kit and novel mutations across melanoma subtypes,M
+Melanoma,NRAS,38564430,random,nras,C,M,,symbol 'NRAS' present,76,assessing melanoma prognosis the interplay between patient profiles survival and braf nras kit and twt mutations in a retrospective multi-st,M
+Melanoma,NRAS,15760917,targeted,n ras,C,M,,credited via alias n ras,80,effect of common b-raf and n-ras mutations on global gene expression in melanoma cell lines,M
+Melanoma,NRAS,30905807,random,nras,C,I,,symbol 'NRAS' present,88,exome sequencing of abcb5 identifies recurrent melanoma mutations that result in increased proliferative and invasive capacities,I
+Melanoma,NRAS,28134726,random,nras,C,M,,symbol 'NRAS' present,93,mutational status of nras and braf genes and protein expression analysis in a series of primary oral mucosal melanoma,M
+Melanoma,NRAS,23751074,random,nras,C,ML,,symbol 'NRAS' present,94,identification of anaplastic lymphoma kinase break points and oncogenic mutation profiles in acral mucosal melanomas,ML
+Melanoma,NRAS,21750866,random,nras,C,M,,symbol 'NRAS' present,100,nras and braf mutation frequency in primary oral mucosal melanoma,M
+Melanoma,NRAS,11406571,targeted,n ras,C,M,,credited via alias n ras,119,a novel n-ras mutation in malignant melanoma is associated with excellent prognosis,M
+Melanoma,NRAS,15737846,targeted,n ras,C,M,,credited via alias n ras,143,detection of b-raf and n-ras mutations in human melanoma,M
+Melanoma,NRAS,23833303,random,nras,C,M,,symbol 'NRAS' present,147,braf nras wild-type melanomas have a high mutation load correlating with histologic and molecular signatures of uv damage,M
+Melanoma,NRAS,26709572,random,nras,C,ML,,symbol 'NRAS' present,224,molecular profiling including tert promoter mutations of acral lentiginous melanomas,ML
+Melanoma,NRAS,35469904,random,nras,C,M,,symbol 'NRAS' present,246,associations between tert promoter mutations and survival in superficial spreading and nodular melanomas in a large prospective patient coho,M
+Melanoma,NRAS,42449548,random,nras,C,M,,symbol 'NRAS' present,260,characterizing the mutational landscape of in-transit melanoma metastases,M
+Melanoma,NRAS,31756131,random,nras,C,ML,,symbol 'NRAS' present,287,mutational profile of driver genes in brazilian melanomas,ML
+Melanoma,NRAS,27117140,random,nras,C,M,,symbol 'NRAS' present,321,mutation analysis of metastatic melanomas in the central nervous system results of a panel of 5 genes in 48 cases,M
+Melanoma,NRAS,34071371,random,nras,C,I,,symbol 'NRAS' present,322,molecular genetics of conjunctival melanoma and prognostic value of tert promoter mutation analysis,I
+Melanoma,NRAS,24336958,random,nras,C,M,,symbol 'NRAS' present,336,pp6c hotspot mutations in melanoma display sensitivity to aurora kinase inhibition,M
+Melanoma,NRAS,14695143,random+targeted,n ras,C,M,,credited via alias n ras,353,detection of mutations in the mitogen-activated protein kinase pathway in human melanoma,M
+Melanoma,NRAS,25030020,random,nras,C,M,,symbol 'NRAS' present,354,gnaq mutation in a patient with metastatic mucosal melanoma,M
+Melanoma,NRAS,28191690,random,nras,C,M,,symbol 'NRAS' present,356,mutational profiling of acral melanomas in korean populations,M
+Melanoma,NRAS,16096402,targeted,n ras,C,M,,credited via alias n ras,366,analysis of mutations in b-raf n-ras and h-ras genes in the differential diagnosis of spitz nevus and spitzoid melanoma,M
+Melanoma,NRAS,23934677,targeted,n ras,C,M,,credited via alias n ras,389,functional significance of the novel h-ras gene mutation m72i in a patient with medullary thyroid cancer,M
+Melanoma,NRAS,11886512,targeted,n ras,C,M,,credited via alias n ras,391,analysis of n- and k-ras mutations in the distinctive tumor progression phases of melanoma,M
+Melanoma,NRAS,12873990,random+targeted,n ras,C,M,,credited via alias n ras,395,analysis of braf and n-ras mutations in metastatic melanoma tissues,M
+Melanoma,NRAS,22842228,random,nras,C,M,,symbol 'NRAS' present,419,exome sequencing identifies recurrent somatic rac1 mutations in melanoma,M
+Melanoma,NRAS,42369209,random,nras,C,M,,symbol 'NRAS' present,421,driver mutation subtypes differentially shape immune evasion landscapes in melanoma an ai-driven inflammatory pathway model implicating ccne,M
+Melanoma,NRAS,28721890,random,nras,C,M,,symbol 'NRAS' present,422,the prognostic value of braf c-kit and nras mutations in melanoma patients with brain metastases,M
+Melanoma,NRAS,18980976,random,nras,C,M,,symbol 'NRAS' present,426,kit gene mutations and copy number in melanoma subtypes,M
+Melanoma,NRAS,25544760,random,nras,C,ML,,symbol 'NRAS' present,438,whole exome sequencing identifies a recurrent rqcd1 p131l mutation in cutaneous melanoma,ML
+Melanoma,NRAS,14681681,targeted,n ras,C,M,,credited via alias n ras,452,activating braf and n-ras mutations in sporadic primary melanomas an inverse association with allelic loss on chromosome 9,M
+Melanoma,NRAS,21615881,random,nras,C,M,,symbol 'NRAS' present,453,clinical outcome and pathological features associated with nras mutation in cutaneous melanoma,M
+Melanoma,NRAS,27914687,random,nras,C,M,,symbol 'NRAS' present,481,braf nras kit tert gnaq gna11 mutation profile analysis of head and neck mucosal melanomas a study of 42 cases,M
+Melanoma,NRAS,17311103,random+targeted,n ras,C,M,,credited via alias n ras,504,b-raf and n-ras mutations are preserved during short time in vitro propagation and differentially impact prognosis,M
+Melanoma,NRAS,28797232,random,nras,C,M,target,symbol 'NRAS' present,566,prognostic significance of braf and nras mutations in melanoma a german study from routine care,M
+Melanoma,NRAS,17438182,targeted,n ras,C,M,,credited via alias n ras,575,multiple melanomas after treatment for hodgkin lymphoma in a non-dutch p16-leiden mutation carrier with 2 mc1r high-risk variants,M
+Melanoma,NRAS,15517911,targeted,n ras,C,M,,credited via alias n ras,579,absence of ras-gene hot-spot mutations in canine fibrosarcomas and melanomas,M
+Melanoma,NRAS,27216186,random,nras,C,I,,symbol 'NRAS' present,584,multiregion whole-exome sequencing uncovers the genetic evolution and mutational heterogeneity of early-stage metastatic melanoma,I
+Melanoma,NRAS,26744134,random,nras,C,M,,symbol 'NRAS' present,596,targeted next generation sequencing reveals unique mutation profile of primary melanocytic tumors of the central nervous system,M
+Melanoma,NRAS,12429636,targeted,n ras,C,M,,credited via alias n ras,602,screening of n-ras codon 61 mutations in paired primary and metastatic cutaneous melanomas mutations occur early and persist throughout tumo,M
+Melanoma,NRAS,12446472,random+targeted,n ras,C,M,,credited via alias n ras,617,pyrosequencing as an alternative to single-strand conformation polymorphism analysis for detection of n-ras mutations in human melanoma meta,M
+Melanoma,NRAS,40090763,random,nras,C,M,,symbol 'NRAS' present,656,primary cutaneous neoplasm with rhabdomyosarcomatous differentiation and a melanoma-like mutational landscape,M
+Melanoma,NRAS,31647501,random,nras,C,M,,symbol 'NRAS' present,667,integrative exome and transcriptome analysis of conjunctival melanoma and its potential application for personalized therapy,M
+Melanoma,NRAS,24591764,random+targeted,n ras,C,M,,credited via alias n ras,765,molecular targeted approaches for advanced braf v600 n-ras c-kit and gnaq melanomas,M
+Melanoma,NRAS,28356599,random,nras,C,ML,,symbol 'NRAS' present,779,towards personalized medicine in melanoma implementation of a clinical next-generation sequencing panel,ML
+Melanoma,NRAS,36162600,random,nras,C,M,,symbol 'NRAS' present,785,reciprocal positive regulation between brd4 and yap in gnaq-mutant uveal melanoma cells confers sensitivity to bet inhibitors,M
+Melanoma,NRAS,30760858,random,nras,C,ML,,symbol 'NRAS' present,871,primary malignant melanoma of esophagus clinicopathologic characterization of 20 cases including molecular genetic profiling of 15 tumors,ML
+Melanoma,NRAS,14595679,targeted,n ras,C,M,,credited via alias n ras,921,microarray-based resequencing by apyrase-mediated allele-specific extension,M
+Melanoma,NRAS,38360887,random,nras,C,M,,symbol 'NRAS' present,943,transactivation of met signaling by oncogenic gnaq drives the evolution of melanoma in hgf-cdk4 mice,M
+Melanoma,NRAS,18953432,random+targeted,n ras,C,M,,credited via alias n ras,978,p16ink4a expression and absence of activated b-raf are independent predictors of chemosensitivity in melanoma tumors,M
+Melanoma,NRAS,31655118,random,nras,C,I,,symbol 'NRAS' present,990,the mutational landscape of mucosal melanoma,I
+Melanoma,KIT,38946192,targeted,kit,X,I,,"'kit' = BRAF mutation detection kit (assay), KIT gene not mentioned",7,spectrum and frequency of braf mutations in skin melanomas in the dalmatian region of croatia,I
+Melanoma,KIT,29708815,random+targeted,kit,X,I,,'kit' = mTOR activity assay kit; KIT gene not mentioned,10,pi3k akt mtor pathway inhibitors inhibit the growth of melanoma cells with mtor h2189y mutations in vitro,I
+Melanoma,KIT,22536370,targeted,kit,C,ML,,symbol 'KIT' present,18,routine multiplex mutational profiling of melanomas enables enrollment in genotype-driven therapeutic trials,ML
+Melanoma,KIT,28130756,random+targeted,kit,X,I,,'kit' = commercial BRAF V600 test kit; KIT gene not mentioned,41,comparison of five different assays for the detection of braf mutations in formalin-fixed paraffin embedded tissues of patients with metasta,I
+Melanoma,KIT,39739287,targeted,kit,C,M,,symbol 'KIT' present,58,real-world evidence of the prevalence of driver mutations in anorectal melanoma,M
+Melanoma,KIT,20372153,random,kit,C,M,,symbol 'KIT' present,63,clinical responses observed with imatinib or sorafenib in melanoma patients expressing mutations in kit,M
+Melanoma,KIT,38564430,random,kit,C,M,,symbol 'KIT' present,76,assessing melanoma prognosis the interplay between patient profiles survival and braf nras kit and twt mutations in a retrospective multi-st,M
+Melanoma,KIT,23775962,random,kit,C,M,,symbol 'KIT' present,110,imatinib for melanomas harboring mutationally activated or amplified kit arising on mucosal acral and chronically sun-damaged skin,M
+Melanoma,KIT,37831226,random+targeted,kit,C,M,,symbol 'KIT' present,128,whole-exome sequencing reveals mutational profiles of anorectal and gynecological melanoma,M
+Melanoma,KIT,31277584,targeted,kit,C,ML,,symbol 'KIT' present,145,clinical mutational profiling and categorization of braf mutations in melanomas using next generation sequencing,ML
+Melanoma,KIT,23833303,targeted,kit,C,I,,symbol 'KIT' present,147,braf nras wild-type melanomas have a high mutation load correlating with histologic and molecular signatures of uv damage,I
+Melanoma,KIT,25746038,random+targeted,kit,C,I,,symbol 'KIT' present,156,high-throughput oncogene mutation profiling shows demographic differences in braf mutation rates among melanoma patients,I
+Melanoma,KIT,23890154,targeted,kit,C,I,,symbol 'KIT' present,171,melanomas of unknown primary have a mutation profile consistent with cutaneous sun-exposed melanoma,I
+Melanoma,KIT,37403699,random,kit,C,M,,symbol 'KIT' present,173,a real-world study of adjuvant anti-pd -1 immunotherapy on stage iii melanoma with braf nras and kit mutations,M
+Melanoma,KIT,28494469,random,kit,C,M,,symbol 'KIT' present,182,mutation status among patients with sinonasal mucosal melanoma and its impact on survival,M
+Melanoma,KIT,31382929,random+targeted,kit,C,ML,,symbol 'KIT' present,183,germline and somatic mutations in patients with multiple primary melanomas a next generation sequencing study,ML
+Melanoma,KIT,38183457,targeted,kit,C,ML,,symbol 'KIT' present,187,low incidence of braf and nras mutations in a population with a high incidence of melanoma,ML
+Melanoma,KIT,28380455,random,kit,C,M,,symbol 'KIT' present,196,targeted next generation sequencing of mucosal melanomas identifies frequent nf1 and ras mutations,M
+Melanoma,KIT,34571863,targeted,kit,C,P,,symbol 'KIT' present,199,prognostic roles of braf kit nras igf2r and sf3b1 mutations in mucosal melanomas,P
+Melanoma,KIT,28074614,targeted,kit,C,I,,symbol 'KIT' present,215,mutation analysis and gene expression profiling of ocular melanomas in cats,I
+Melanoma,KIT,24755198,random+targeted,kit,C,ML,,symbol 'KIT' present,234,a meta-analysis of somatic mutations from next generation sequencing of 241 melanomas a road map for the study of genes with potential clini,ML
+Melanoma,KIT,25766129,random,c kit|kit,C,M,,symbol 'KIT' present,237,braf kit and nras mutations and expression of c-kit phosphorylated extracellular signal-regulated kinase and phosphorylated akt in japanese ,M
+Melanoma,KIT,19319568,random,kit,C,M,,symbol 'KIT' present,306,esophageal melanomas harbor frequent nras mutations unlike melanomas of other mucosal sites,M
+Melanoma,KIT,29752127,random,c kit|kit,C,M,,symbol 'KIT' present,319,implementation of next generation sequencing technology for somatic mutation detection in routine laboratory practice,M
+Melanoma,KIT,24258993,random,c kit|kit,C,M,,symbol 'KIT' present,339,erbb4 mutation analysis emerging molecular target for melanoma treatment,M
+Melanoma,KIT,28248732,targeted,kit,X,I,,'kit' = DNA extraction kit; KIT gene not mentioned,372,the role of mutation rates of gnaq or gna11 in cases of uveal melanoma in japan,I
+Melanoma,KIT,27771229,random+targeted,kit,C,I,,symbol 'KIT' present,373,comparative study on driver mutations in primary and metastatic melanomas at a single japanese institute a clue for intra- and inter-tumor h,I
+Melanoma,KIT,16123397,targeted,kit,X,I,,'kit' = MutectoR assay kit; KIT gene not mentioned,375,t1799a braf mutations in conjunctival melanocytic lesions,I
+Melanoma,KIT,31567539,targeted,kit,C,M,,symbol 'KIT' present,380,mutational profile in vulvar vaginal and urethral melanomas review of 37 cases with focus on primary tumor site,M
+Melanoma,KIT,30028779,targeted,kit,C,ML,,symbol 'KIT' present,407,female genitourinary tract melanoma mutation analysis with clinicopathologic correlation a single-institution experience,ML
+Melanoma,KIT,25304235,random,kit,C,M,,symbol 'KIT' present,418,driver kit mutations in melanoma cluster in four hotspots,M
+Melanoma,KIT,27739435,random,c kit|kit,C,M,,symbol 'KIT' present,420,identification of recurrent mutational events in anorectal melanoma,M
+Melanoma,KIT,18980976,random,cd117|kit,C,M,,symbol 'KIT' present,426,kit gene mutations and copy number in melanoma subtypes,M
+Melanoma,KIT,31944535,targeted,kit,C,ML,,symbol 'KIT' present,446,distinct genomic traits of acral and mucosal melanomas revealed by targeted mutational profiling,ML
+Melanoma,KIT,22798288,random+targeted,kit,C,M,,symbol 'KIT' present,465,braf l597 mutations in melanoma are associated with sensitivity to mek inhibitors,M
+Melanoma,KIT,27914687,targeted,kit,C,ML,,symbol 'KIT' present,481,braf nras kit tert gnaq gna11 mutation profile analysis of head and neck mucosal melanomas a study of 42 cases,ML
+Melanoma,KIT,20425130,random,kit,C,M,,symbol 'KIT' present,484,low incidence of kit gene mutations and no pdgfra gene mutations in primary cutaneous melanoma an immunohistochemical and molecular genetic ,M
+Melanoma,KIT,23938765,random,kit,C,M,,symbol 'KIT' present,489,braf and kit somatic mutations are present in amelanotic melanoma,M
+Melanoma,KIT,28700778,targeted,kit,C,I,,symbol 'KIT' present,520,frequent gnaq gna11 and eif1ax mutations in iris melanoma,I
+Melanoma,KIT,27089179,targeted,kit,C,ML,,symbol 'KIT' present,523,recurrent activating mutations of g-protein-coupled receptor cysltr2 in uveal melanoma,ML
+Melanoma,KIT,25376477,random+targeted,kit,X,I,,'kit' = BRAF RGQ PCR kit (Qiagen); KIT gene not mentioned,549,discordancy in braf mutations among primary and metastatic melanoma lesions clinical implications for targeted therapy,I
+Melanoma,KIT,23860532,random+targeted,kit,C,M,,symbol 'KIT' present,616,kit nras and braf mutations in sinonasal mucosal melanoma a study of 56 cases,M
+Melanoma,KIT,31900433,targeted,kit,C,ML,,symbol 'KIT' present,624,spitz melanoma is a distinct subset of spitzoid melanoma,ML
+Melanoma,KIT,21495997,random,kit,C,M,,symbol 'KIT' present,647,tumour heterogeneity of mucosal melanomas during treatment with imatinib,M
+Melanoma,KIT,35912549,random,kit,C,G,,symbol 'KIT' present,664,clinical and pathological characteristics of familial melanoma with germline tert promoter variants,G
+Melanoma,KIT,32264863,targeted,kit,C,ML,,symbol 'KIT' present,671,comprehensive routine diagnostic screening to identify predictive mutations gene amplifications and microsatellite instability in ffpe tumor,ML
+Melanoma,KIT,31804055,random+targeted,kit,C,I,,symbol 'KIT' present,691,personalized and targeted mutational analysis of multiple second primary melanomas under kinase inhibitors,I
+Melanoma,KIT,25623140,random,c kit|kit,C,G,,symbol 'KIT' present,694,prognostic and predictive values of oncogenic braf nras c-kit and mitf in cutaneous and mucous melanoma,G
+Melanoma,KIT,32043781,targeted,kit,C,M,,symbol 'KIT' present,696,prevalence of nras mutation pd-l1 expression and amplification and overall survival analysis in 36 primary vaginal melanomas,M
+Melanoma,KIT,26825879,targeted,kit,C,ML,,symbol 'KIT' present,759,gna11 mutation in a patient with cutaneous origin melanoma a case report,ML
+Melanoma,KIT,41954344,targeted,kit,C,I,,symbol 'KIT' present,766,immunohistochemical and molecular profiling of uveal melanoma clinicopathological correlations from an italian cohort,I
+Melanoma,KIT,19671763,random,kit,C,M,,symbol 'KIT' present,786,activity of dasatinib against l576p kit mutant melanoma molecular cellular and clinical correlates,M
+Melanoma,KIT,29371009,random,c kit|kit,C,ML,,symbol 'KIT' present,815,genetic background of iris melanomas and iris melanocytic tumors of uncertain malignant potential,ML
+Melanoma,KIT,31320640,targeted,kit,C,ML,target,symbol 'KIT' present,820,whole-genome landscape of mucosal melanoma reveals diverse drivers and therapeutic targets,ML
+Melanoma,KIT,16647948,random,c kit|kit,C,M,target,symbol 'KIT' present,838,braf and c-kit gene copy number in mutation-positive malignant melanoma,M
+Melanoma,KIT,21069551,random,kit,C,M,,symbol 'KIT' present,891,anorectal melanoma with a kit-activating mutation which is a target for tyrosine kinase inhibitor,M
+Melanoma,KIT,22809251,random,kit,C,M,,symbol 'KIT' present,902,braf nras and kit sequencing analysis of spindle cell melanoma,M
+Melanoma,KIT,40474710,random,kit,C,ML,,symbol 'KIT' present,912,kras nras variants and copy number alterations prognostically stratify patients with sinonasal melanoma,ML
+Melanoma,KIT,29746316,random,kit,C,M,,symbol 'KIT' present,937,the clinical significance of kit mutations in melanoma a meta-analysis,M
+Melanoma,KIT,37982490,targeted,kit,C,M,,symbol 'KIT' present,953,melanocytic neoplasm with kit and apc mutations a new subtype of melanocytoma,M
+Melanoma,KIT,23414474,targeted,kit,C,ML,,symbol 'KIT' present,959,towards personalized therapy for patients with malignant melanoma molecular insights into the biology of braf mutations,ML
+Melanoma,KIT,24276025,random,kit,C,M,,symbol 'KIT' present,963,metastatic melanoma of unknown primary resembles the genotype of cutaneous melanomas,M
+Melanoma,KIT,23576709,targeted,kit,C,I,,symbol 'KIT' present,965,melanoma patients in a phase i clinic molecular aberrations targeted therapy and outcomes,I
+Melanoma,KIT,32581366,random+targeted,kit,C,ML,,symbol 'KIT' present,968,lung-only melanoma uv mutational signature supports origin from occult cutaneous primaries and argues against the concept of primary pulmona,ML
+Melanoma,KIT,19264228,random,kit,C,M,,symbol 'KIT' present,981,mutations of the kit gene and loss of heterozygosity of the pten region in a primary malignant melanoma arising from a mature cystic teratom,M
+Melanoma,KIT,31655118,targeted,kit,C,M,,symbol 'KIT' present,990,the mutational landscape of mucosal melanoma,M
+Melanoma,KIT,36416305,targeted,kit,C,M,,symbol 'KIT' present,993,primary mucosal melanomas of the head and neck are characterised by overexpression of the dna mutating enzyme apobec3b,M
+Melanoma,KIT,20088873,random,kit,C,M,,symbol 'KIT' present,1000,mutations in kit occur at low frequency in melanomas arising from anatomical sites associated with chronic and intermittent sun exposure,M
+Melanoma,CDKN2A,30291219,random,cdkn2a,C,M,,symbol 'CDKN2A' present,11,efficacy of novel immunotherapy regimens in patients with metastatic melanoma with germline cdkn2a mutations,M
+Melanoma,CDKN2A,32305056,random,cdkn2a,C,I,,symbol 'CDKN2A' present,125,presence and prevalence of uv related genetic mutations in uveal melanoma similarities with cutaneous melanoma,I
+Melanoma,CDKN2A,16893909,random,cdkn2a|p14arf,C,M,,symbol 'CDKN2A' present,235,impact of e27x a novel cdkn2a germ line mutation on p16 and p14arf expression in italian melanoma families displaying pancreatic cancer and ,M
+Melanoma,CDKN2A,17518771,random,cdkn2a,C,I,,symbol 'CDKN2A' present,252,low prevalence of ras-raf-activating mutations in spitz melanocytic nevi compared with other melanocytic lesions,I
+Melanoma,CDKN2A,11579459,random,cdkn2a,C,M,,symbol 'CDKN2A' present,259,sporadic multiple primary melanoma cases cdkn2a germline mutations with a founder effect,M
+Melanoma,CDKN2A,11726555,random,cdkn2a,C,M,,symbol 'CDKN2A' present,282,a deep intronic mutation in cdkn2a is associated with disease in a subset of melanoma pedigrees,M
+Melanoma,CDKN2A,19571771,random,cdkn2a,C,M,,symbol 'CDKN2A' present,302,germline mutations in cdkn2a are infrequent in female patients with melanoma and breast cancer,M
+Melanoma,CDKN2A,21150883,random,cdkn2a|p14arf,C,M,,symbol 'CDKN2A' present,310,prevalence of cdkn2a mutations in pancreatic cancer patients implications for genetic counseling,M
+Melanoma,CDKN2A,16374456,random,cdkn2a,C,M,,symbol 'CDKN2A' present,323,germline cdkn2a mutations among greek patients with early-onset and multiple primary cutaneous melanoma,M
+Melanoma,CDKN2A,23384855,random,cdkn2a,C,M,,symbol 'CDKN2A' present,331,melanoma prone families with cdk4 germline mutation phenotypic profile and associations with mc1r variants,M
+Melanoma,CDKN2A,26154183,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,363,multiple cutaneous melanomas and clinically atypical moles in a patient with a novel germline bap1 mutation,ML
+Melanoma,CDKN2A,16397522,random,cdkn2a|cyclin dependent kinase inhibitor 2a,C,M,,symbol 'CDKN2A' present,364,population-based prevalence of cdkn2a mutations in utah melanoma families,M
+Melanoma,CDKN2A,32989607,random,cdkn2a,C,M,,symbol 'CDKN2A' present,367,frame familial risk assessment of melanoma-a risk prediction tool to guide cdkn2a germline mutation testing in australian familial melanoma,M
+Melanoma,CDKN2A,26225579,random,cdkn2a,C,M,,symbol 'CDKN2A' present,379,novel cdkn2a mutations in austrian melanoma patients,M
+Melanoma,CDKN2A,36719926,random,cdkn2a,C,M,,symbol 'CDKN2A' present,394,molecular profiling of primary uveal melanoma results of a polish cohort,M
+Melanoma,CDKN2A,16905682,random,cdkn2a,C,M,,symbol 'CDKN2A' present,425,features associated with germline cdkn2a mutations a genomel study of melanoma-prone families from three continents,M
+Melanoma,CDKN2A,11319798,random,cdkn2a,C,M,,symbol 'CDKN2A' present,516,haplotype analysis and age estimation of the 113insr cdkn2a founder mutation in swedish melanoma families,M
+Melanoma,CDKN2A,21614589,random,cdkn2a,C,M,,symbol 'CDKN2A' present,545,lack of germline palb2 mutations in melanoma-prone families with cdkn2a mutations and pancreatic cancer,M
+Melanoma,CDKN2A,25252692,targeted,p16ink4a,C,I,,credited via alias p16ink4a,550,mutation-specific ras oncogenicity explains nras codon 61 selection in melanoma,I
+Melanoma,CDKN2A,18023021,random,cdkn2a,C,M,,symbol 'CDKN2A' present,586,population-based prevalence of cdkn2a and cdk4 mutations in patients with multiple primary melanomas,M
+Melanoma,CDKN2A,10999737,random,cdkn2a|p16ink4a,C,M,,symbol 'CDKN2A' present,589,cdkn2a mutation and deletion status in thin and thick primary melanoma,M
+Melanoma,CDKN2A,15304098,random,cdkn2a,C,M,,symbol 'CDKN2A' present,600,a novel methionine-53-valine mutation of p16 in a hereditary melanoma kindred,M
+Melanoma,CDKN2A,32196516,random,cdkn2a,C,M,,symbol 'CDKN2A' present,614,assessment of clinical outcomes with immune checkpoint inhibitor therapy in melanoma patients with cdkn2a and tp53 pathogenic mutations,M
+Melanoma,CDKN2A,10869234,random,cdkn2a,C,M,,symbol 'CDKN2A' present,629,a single genetic origin for the g101w cdkn2a mutation in 20 melanoma-prone families,M
+Melanoma,CDKN2A,18178632,random,cdkn2a|p14arf,C,M,,symbol 'CDKN2A' present,657,cdkn2a mutations and melanoma risk in the icelandic population,M
+Melanoma,CDKN2A,28818438,random,cdkn2a,C,M,,symbol 'CDKN2A' present,672,cancer risks and survival in patients with multiple primary melanomas association with family history of melanoma and germline cdkn2a mutati,M
+Melanoma,CDKN2A,12459645,random,cdkn2a,C,M,,symbol 'CDKN2A' present,770,the cdkn2a tumour suppressor gene no mutations detected in patients with melanoma and additional unrelated cancers,M
+Melanoma,CDKN2A,11479422,targeted,p16ink4a,C,I,,credited via alias p16ink4a,780,no evidence of a role for activating cdk2 mutations in melanoma,I
+Melanoma,CDKN2A,15819981,random,cdkn2a,C,M,,symbol 'CDKN2A' present,789,mutation analysis of genes that control the g1 s cell cycle in melanoma tp53 cdkn1a cdkn2a and cdkn2b,M
+Melanoma,CDKN2A,11500805,random,cdkn2a,C,M,,symbol 'CDKN2A' present,802,mc1r genotype modifies risk of melanoma in families segregating cdkn2a mutations,M
+Melanoma,CDKN2A,21325014,random,cdkn2a,C,M,,symbol 'CDKN2A' present,811,melanoma risk for cdkn2a mutation carriers who are relatives of population-based case carriers in australia and the uk,M
+Melanoma,CDKN2A,10861313,random,cdkn2a,C,M,,symbol 'CDKN2A' present,818,genotype-phenotype relationships in u s melanoma-prone families with cdkn2a and cdk4 mutations,M
+Melanoma,CDKN2A,19500876,random+targeted,cyclin dependent kinase inhibitor 2a,C,M,,credited via alias cyclin dependent kinase inhibitor 2a,832,clinical genetic testing for familial melanoma in italy a cooperative study,M
+Melanoma,CDKN2A,20140953,random,cdkn2a|p14arf,C,I,,symbol 'CDKN2A' present,849,deletion at chromosome arm 9p in relation to braf nras mutations and prognostic significance for primary melanoma,I
+Melanoma,CDKN2A,17414113,random,cdkn2a|ink4a,C,M,,symbol 'CDKN2A' present,856,cdkn2a ink4a-arf mutation analysis to distinguish cutaneous melanoma metastasis from a second primary melanoma,M
+Melanoma,CDKN2A,14735200,targeted,ink4a,C,M,,credited via alias ink4a,865,germline mutations of the ink4a-arf gene in patients with suspected genetic predisposition to melanoma,M
+Melanoma,CDKN2A,28146043,random,cdkn2a,C,M,,symbol 'CDKN2A' present,873,characterization of melanoma susceptibility genes in high-risk patients from central italy,M
+Melanoma,CDKN2A,26111702,random,cdkn2a,C,M,,symbol 'CDKN2A' present,879,pancreatic cancer-associated gene polymorphisms in a nation-wide cohort of p16-leiden germline mutation carriers a case-control study,M
+Melanoma,CDKN2A,26876133,random,cdkn2a,C,M,,symbol 'CDKN2A' present,884,cdkn2a mutations with p14 loss predisposing to multiple nerve sheath tumours melanoma dysplastic naevi and internal malignancies a case seri,M
+Melanoma,CDKN2A,11571653,targeted,ink4a|p14arf|p16 ink4a,C,M,,credited via alias ink4a|p14arf|p16 ink4a,899,a melanoma-associated germline mutation in exon 1beta inactivates p14arf,M
+Melanoma,CDKN2A,22791410,targeted,ink4a|p16 ink4a,C,P,,credited via alias ink4a|p16 ink4a,940,sinonasal mucosal melanoma molecular profile and therapeutic implications from a series of 32 cases,P
+Melanoma,CDKN2A,37982490,random,cdkn2a,C,I,,symbol 'CDKN2A' present,953,melanocytic neoplasm with kit and apc mutations a new subtype of melanocytoma,I
+Melanoma,CDKN2A,22250051,random,cdkn2a,C,ML,,symbol 'CDKN2A' present,961,identification of tfg trk-fused gene as a putative metastatic melanoma tumor suppressor gene,ML
+Melanoma,CDKN2A,27287845,random,cdkn2a,C,M,,symbol 'CDKN2A' present,966,germline cdkn2a mutation status and survival in familial melanoma cases,M
+Melanoma,CDKN2A,18953432,targeted,ink4a|p16 ink4a|p16ink4a,C,M,,credited via alias ink4a|p16 ink4a|p16ink4a,978,p16ink4a expression and absence of activated b-raf are independent predictors of chemosensitivity in melanoma tumors,M
+Melanoma,CDKN2A,17297468,targeted,ink4a,C,P,,credited via alias ink4a,989,differential oncogenic potential of activated ras isoforms in melanocytes,P
+Melanoma,CDKN2A,38670237,random,cdkn2a,C,I,,symbol 'CDKN2A' present,991,primary leptomeningeal melanocytic neoplasms a clinicopathologic immunohistochemical and molecular study of 12 cases,I
+Melanoma,TERT,30500343,random,tert,C,M,,symbol 'TERT' present,2,noninvasive analysis of high-risk driver mutations and gene expression profiles in primary cutaneous melanoma,M
+Melanoma,TERT,26327518,random,tert,C,M,,symbol 'TERT' present,26,analysis of sdhd promoter mutations in various types of melanoma,M
+Melanoma,TERT,25746036,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,27,tert promoter mutations in sinonasal malignant melanoma a study of 49 cases,M
+Melanoma,TERT,25217772,random,tert,C,M,,symbol 'TERT' present,47,tert promoter mutation status as an independent prognostic factor in cutaneous melanoma,M
+Melanoma,TERT,29123258,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,50,prognostic impact and concordance of tert promoter mutation and protein expression in matched primary and metastatic cutaneous melanoma,M
+Melanoma,TERT,32305056,random,tert,C,I,,symbol 'TERT' present,125,presence and prevalence of uv related genetic mutations in uveal melanoma similarities with cutaneous melanoma,I
+Melanoma,TERT,38224873,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,172,tert promoter mutations in atypical melanocytic lesions a series of seven cases with adverse melanoma-specific outcome,M
+Melanoma,TERT,26251183,random,tert,C,I,,symbol 'TERT' present,190,pole mutations in families predisposed to cutaneous melanoma,I
+Melanoma,TERT,26055532,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,195,coexistence of tert promoter and braf mutations in cutaneous melanoma is associated with more clinicopathological features of aggressiveness,M
+Melanoma,TERT,30451293,random,tert,C,M,,symbol 'TERT' present,207,pot1 germline mutations but not tert promoter mutations are implicated in melanoma susceptibility in a large cohort of spanish melanoma fami,M
+Melanoma,TERT,26709572,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,224,molecular profiling including tert promoter mutations of acral lentiginous melanomas,M
+Melanoma,TERT,41894668,random,tert,C,M,,symbol 'TERT' present,273,clinicopathological study of a series of melanomas with idh1 mutation,M
+Melanoma,TERT,35876628,random,tert,C,ML,,symbol 'TERT' present,298,landscape of mutations in early stage primary cutaneous melanoma an intermel study,ML
+Melanoma,TERT,34071371,random,tert,C,M,,symbol 'TERT' present,322,molecular genetics of conjunctival melanoma and prognostic value of tert promoter mutation analysis,M
+Melanoma,TERT,38153178,random,tert,C,M,,symbol 'TERT' present,342,clinical histological and molecular differences in melanoma due to different tert promoter mutations subtypes a retrospective cross-sectiona,M
+Melanoma,TERT,24588324,random,tert,C,M,,symbol 'TERT' present,424,tert promoter mutation is uncommon in acral lentiginous melanoma,M
+Melanoma,TERT,27914687,random,tert,C,M,,symbol 'TERT' present,481,braf nras kit tert gnaq gna11 mutation profile analysis of head and neck mucosal melanomas a study of 42 cases,M
+Melanoma,TERT,30211730,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,494,utility of tert promoter mutations for cutaneous primary melanoma diagnosis,M
+Melanoma,TERT,30203894,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,531,telomere length telomerase reverse transcriptase promoter mutations and melanoma risk,M
+Melanoma,TERT,28720667,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,538,mapk pathway and tert promoter gene mutation pattern and its prognostic value in melanoma patients a retrospective study of 2 793 cases,M
+Melanoma,TERT,28489852,random,tert,C,M,,symbol 'TERT' present,541,recurrent promoter mutations in melanoma are defined by an extended context-specific mutational signature,M
+Melanoma,TERT,35642348,random,tert,C,G,,symbol 'TERT' present,565,braf nras kit tert gnaq gna11 mutation profile and histomorphological analysis of anorectal melanomas a clinicopathologic study,G
+Melanoma,TERT,39912664,random+targeted,telomerase reverse transcriptase,C,G,,credited via alias telomerase reverse transcriptase,576,brca1-associated protein-1 inactivated melanoma arising in a pre-existing nevus with alk fusion and low tumor mutational burden,G
+Melanoma,TERT,25159205,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,587,prevalence and implications of tert promoter mutation in uveal and conjunctival melanoma and in benign and premalignant conjunctival melanoc,M
+Melanoma,TERT,31900433,random,tert,C,M,,symbol 'TERT' present,624,spitz melanoma is a distinct subset of spitzoid melanoma,M
+Melanoma,TERT,40090763,random,tert,C,M,,symbol 'TERT' present,656,primary cutaneous neoplasm with rhabdomyosarcomatous differentiation and a melanoma-like mutational landscape,M
+Melanoma,TERT,35912549,random,tert,C,M,,symbol 'TERT' present,664,clinical and pathological characteristics of familial melanoma with germline tert promoter variants,M
+Melanoma,TERT,32043781,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,696,prevalence of nras mutation pd-l1 expression and amplification and overall survival analysis in 36 primary vaginal melanomas,M
+Melanoma,TERT,25823555,random,tert,C,M,,symbol 'TERT' present,708,hmga2 expression pattern and tert mutations in tumors of the vulva,M
+Melanoma,TERT,34569488,random,tert,C,M,,symbol 'TERT' present,715,tert promoter mutational status in the management of cutaneous melanoma comparison with sentinel lymph node biopsy,M
+Melanoma,TERT,32526042,random,tert,C,M,,symbol 'TERT' present,732,molecular analysis of atypical deep penetrating nevus progressing to melanoma,M
+Melanoma,TERT,37338065,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,781,prame immunohistochemical expression and tert promoter mutational analysis as ancillary diagnostic tools for differentiating proliferative n,M
+Melanoma,TERT,27181379,random,tert,C,I,,symbol 'TERT' present,803,cdkn2a and bap1 germline mutations predispose to melanoma and mesothelioma,I
+Melanoma,TERT,29371009,random,tert,C,I,,symbol 'TERT' present,815,genetic background of iris melanomas and iris melanocytic tumors of uncertain malignant potential,I
+Melanoma,TERT,27449293,random,tert,C,M,,symbol 'TERT' present,823,tert promoter mutations in melanoma render tert expression dependent on mapk pathway activation,M
+Melanoma,TERT,32249949,random,tert,C,I,,symbol 'TERT' present,831,germline mutations predisposing to melanoma,I
+Melanoma,TERT,32118628,random,tert,C,M,,symbol 'TERT' present,852,genomic and clinicopathologic characteristics of prkar1a-inactivated melanomas toward genetic distinctions of animal-type melanoma pigment s,M
+Melanoma,TERT,41928463,random,tert,C,ML,,symbol 'TERT' present,864,expanding the molecular landscape of deep penetrating nevus-like melanomas beyond ctnnb1 and apc mutations a clinicopathologic and molecular,ML
+Melanoma,TERT,23799844,random,tert,C,M,,symbol 'TERT' present,962,tert promoter mutations in ocular melanoma distinguish between conjunctival and uveal tumours,M
+Melanoma,TERT,37462445,random,telomerase reverse transcriptase|tert,C,M,target,symbol 'TERT' present,979,tert promoter mutations frequency across race sex and cancer type,M
+Melanoma,GNAQ,27123562,random,gnaq,C,M,,symbol 'GNAQ' present,42,driver mutations in uveal melanoma associations with gene expression profile and patient outcomes,M
+Melanoma,GNAQ,18719078,random,gnaq,C,M,,symbol 'GNAQ' present,74,oncogenic mutations in gnaq occur early in uveal melanoma,M
+Melanoma,GNAQ,25361747,random,gnaq,C,ML,,symbol 'GNAQ' present,105,uveal melanoma hepatic metastases mutation spectrum analysis using targeted next-generation sequencing of 400 cancer genes,ML
+Melanoma,GNAQ,22977135,random,gnaq,C,M,,symbol 'GNAQ' present,116,high throughput mass spectrometry-based mutation profiling of primary uveal melanoma,M
+Melanoma,GNAQ,26645730,random,gnaq,C,M,,symbol 'GNAQ' present,120,melanomas associated with blue nevi or mimicking cellular blue nevi clinical pathologic and molecular study of 11 cases displaying a high fr,M
+Melanoma,GNAQ,24141786,random,gnaq,C,M,,symbol 'GNAQ' present,153,combined pkc and mek inhibition in uveal melanoma with gnaq and gna11 mutations,M
+Melanoma,GNAQ,23890154,random,gnaq,C,I,,symbol 'GNAQ' present,171,melanomas of unknown primary have a mutation profile consistent with cutaneous sun-exposed melanoma,I
+Melanoma,GNAQ,24423917,random,gnaq,C,M,,symbol 'GNAQ' present,220,mutation frequencies of gnaq gna11 bap1 sf3b1 eif1ax and tert in uveal melanoma detection of an activating mutation in the tert gene promote,M
+Melanoma,GNAQ,19654573,random,gnaq,C,M,,symbol 'GNAQ' present,249,oncogenic gnaq mutations are not correlated with disease-free survival in uveal melanoma,M
+Melanoma,GNAQ,29689622,random,gnaq,C,ML,,symbol 'GNAQ' present,296,prognostic value of chromosomal imbalances gene mutations and bap1 expression in uveal melanoma,ML
+Melanoma,GNAQ,34071371,random,gnaq,C,ML,,symbol 'GNAQ' present,322,molecular genetics of conjunctival melanoma and prognostic value of tert promoter mutation analysis,ML
+Melanoma,GNAQ,25030020,random,gnaq,C,M,,symbol 'GNAQ' present,354,gnaq mutation in a patient with metastatic mucosal melanoma,M
+Melanoma,GNAQ,28248732,random,gnaq,C,M,,symbol 'GNAQ' present,372,the role of mutation rates of gnaq or gna11 in cases of uveal melanoma in japan,M
+Melanoma,GNAQ,24970262,random,gnaq,C,ML,,symbol 'GNAQ' present,387,chromosome 3 status combined with bap1 and eif1ax mutation profiles are associated with metastasis in uveal melanoma,ML
+Melanoma,GNAQ,30558566,random,gnaq,C,M,,symbol 'GNAQ' present,417,detection of mutations in sf3b1 eif1ax and gnaq in primary orbital melanoma by candidate gene analysis,M
+Melanoma,GNAQ,26399561,random,gnaq,C,ML,,symbol 'GNAQ' present,466,mutation scanning of braf nras kit and gnaq gna11 in oral mucosal melanoma a study of 57 cases,ML
+Melanoma,GNAQ,27914687,random,gnaq,C,ML,,symbol 'GNAQ' present,481,braf nras kit tert gnaq gna11 mutation profile analysis of head and neck mucosal melanomas a study of 42 cases,ML
+Melanoma,GNAQ,38903495,random,gnaq,C,M,,symbol 'GNAQ' present,528,clinical and genetic characteristics of bap1 -mutated non-uveal and uveal melanoma,M
+Melanoma,GNAQ,35642348,random,gnaq,C,ML,,symbol 'GNAQ' present,565,braf nras kit tert gnaq gna11 mutation profile and histomorphological analysis of anorectal melanomas a clinicopathologic study,ML
+Melanoma,GNAQ,25357015,random,gnaq,C,I,,symbol 'GNAQ' present,592,clinicopathological characteristics and mutation profiling in primary cutaneous melanoma,I
+Melanoma,GNAQ,27498141,random,gnaq,C,M,,symbol 'GNAQ' present,641,gnaq and gna11 mutations occur in 9 5 of mucosal melanoma and are associated with poor prognosis,M
+Melanoma,GNAQ,40628177,random,gnaq,C,M,,symbol 'GNAQ' present,678,molecular determinants of survival in metastatic uveal melanoma the impact of sf3b1 mutations,M
+Melanoma,GNAQ,25653058,random,gnaq,C,M,,symbol 'GNAQ' present,681,detection of gnaq mutations and reduction of cell viability in uveal melanoma cells with functionalized gold nanoparticles,M
+Melanoma,GNAQ,26769193,random,gnaq,C,M,,symbol 'GNAQ' present,689,sf3b1 and eif1ax mutations occur in primary leptomeningeal melanocytic neoplasms yet another similarity to uveal melanomas,M
+Melanoma,GNAQ,35835335,random,gnaq,C,M,,symbol 'GNAQ' present,692,iris and ciliary body melanocytomas are defined by solitary gnaq mutation without additional oncogenic alterations,M
+Melanoma,GNAQ,32043781,random,gnaq,C,ML,,symbol 'GNAQ' present,696,prevalence of nras mutation pd-l1 expression and amplification and overall survival analysis in 36 primary vaginal melanomas,ML
+Melanoma,GNAQ,28444874,random,gnaq,C,M,,symbol 'GNAQ' present,719,prognostic impact of chromosomal aberrations and gnaq gna11 and bap1 mutations in uveal melanoma,M
+Melanoma,GNAQ,30480620,random,gnaq,C,ML,,symbol 'GNAQ' present,731,molecular and immunohistochemical analyses of uveal melanoma patient cohort,ML
+Melanoma,GNAQ,31227497,random,gnaq,C,ML,,symbol 'GNAQ' present,753,integrative copy number analysis of uveal melanoma reveals novel candidate genes involved in tumorigenesis including a tumor suppressor role,ML
+Melanoma,GNAQ,19936769,random,gnaq,C,M,,symbol 'GNAQ' present,754,activating mutations of the gnaq gene a frequent event in primary melanocytic neoplasms of the central nervous system,M
+Melanoma,GNAQ,41954344,random,gnaq,C,M,,symbol 'GNAQ' present,766,immunohistochemical and molecular profiling of uveal melanoma clinicopathological correlations from an italian cohort,M
+Melanoma,GNAQ,36162600,random,gnaq,C,M,,symbol 'GNAQ' present,785,reciprocal positive regulation between brd4 and yap in gnaq-mutant uveal melanoma cells confers sensitivity to bet inhibitors,M
+Melanoma,GNAQ,29371009,random,gnaq,C,ML,,symbol 'GNAQ' present,815,genetic background of iris melanomas and iris melanocytic tumors of uncertain malignant potential,ML
+Melanoma,GNAQ,26086698,random,gnaq,C,I,,symbol 'GNAQ' present,887,metastatic disease in uveal melanoma importance of a genetic profile,I
+Melanoma,GNAQ,22550165,random,gnaq,C,M,,symbol 'GNAQ' present,897,identification of unique mek-dependent genes in gnaq mutant uveal melanoma involved in cell growth tumor cell invasion and mek resistance,M
+Melanoma,GNAQ,38360887,random,gnaq,C,M,,symbol 'GNAQ' present,943,transactivation of met signaling by oncogenic gnaq drives the evolution of melanoma in hgf-cdk4 mice,M
+Melanoma,GNAQ,27116551,random,gnaq,C,ML,,symbol 'GNAQ' present,955,metastatic disease in polyploid uveal melanoma patients is associated with bap1 mutations,ML
+Melanoma,GNAQ,33588787,random,gnaq,C,M,,symbol 'GNAQ' present,972,involvement of mutant and wild-type cysltr2 in the development and progression of uveal nevi and melanoma,M
+Melanoma,GNAQ,24504448,random,gnaq,C,M,,symbol 'GNAQ' present,975,whole-genome sequencing reveals complex mechanisms of intrinsic resistance to braf inhibition,M
+Melanoma,GNAQ,38670237,random,gnaq,C,ML,,symbol 'GNAQ' present,991,primary leptomeningeal melanocytic neoplasms a clinicopathologic immunohistochemical and molecular study of 12 cases,ML
+Melanoma,GNA11,22536370,random,gna11,C,I,,symbol 'GNA11' present,18,routine multiplex mutational profiling of melanomas enables enrollment in genotype-driven therapeutic trials,I
+Melanoma,GNA11,35212356,random,gna11,C,ML,,symbol 'GNA11' present,34,genomic profiling of metastatic uveal melanoma shows frequent coexisting bap1 or sf3b1 and gnaq gna11 mutations and correlation with prognos,ML
+Melanoma,GNA11,29209985,random,gna11,C,M,,symbol 'GNA11' present,92,frequent and yet unreported gnaq and gna11 mutations are found in uveal melanomas,M
+Melanoma,GNA11,24141786,random,gna11,C,M,,symbol 'GNA11' present,153,combined pkc and mek inhibition in uveal melanoma with gnaq and gna11 mutations,M
+Melanoma,GNA11,23890154,random,gna11,C,I,,symbol 'GNA11' present,171,melanomas of unknown primary have a mutation profile consistent with cutaneous sun-exposed melanoma,I
+Melanoma,GNA11,26275246,random,gna11,C,M,,symbol 'GNA11' present,186,braf kit nras gnaq and gna11 mutation analysis in cutaneous melanomas in turkish population,M
+Melanoma,GNA11,28074614,random,gna11,C,I,,symbol 'GNA11' present,215,mutation analysis and gene expression profiling of ocular melanomas in cats,I
+Melanoma,GNA11,24423917,random,gna11,C,M,,symbol 'GNA11' present,220,mutation frequencies of gnaq gna11 bap1 sf3b1 eif1ax and tert in uveal melanoma detection of an activating mutation in the tert gene promote,M
+Melanoma,GNA11,29059311,random,gna11,C,M,,symbol 'GNA11' present,275,sox10 expression as well as braf and gnaq 11 mutations distinguish pigmented ciliary epithelium neoplasms from uveal melanomas,M
+Melanoma,GNA11,25769001,random,gna11,C,P,,symbol 'GNA11' present,317,mutational dichotomy in desmoplastic malignant melanoma corroborated by multigene panel analysis,P
+Melanoma,GNA11,34071371,random,gna11,C,ML,,symbol 'GNA11' present,322,molecular genetics of conjunctival melanoma and prognostic value of tert promoter mutation analysis,ML
+Melanoma,GNA11,35580369,random,gna11,C,M,,symbol 'GNA11' present,333,in uveal melanoma g-protein gna11 mutations convey a shorter disease-specific survival and are more strongly associated with loss of bap1 an,M
+Melanoma,GNA11,24970262,random,gna11,C,ML,,symbol 'GNA11' present,387,chromosome 3 status combined with bap1 and eif1ax mutation profiles are associated with metastasis in uveal melanoma,ML
+Melanoma,GNA11,36719926,random,gna11,C,M,,symbol 'GNA11' present,394,molecular profiling of primary uveal melanoma results of a polish cohort,M
+Melanoma,GNA11,26368812,random,gna11,C,M,,symbol 'GNA11' present,432,distribution of gnaq and gna11 mutation signatures in uveal melanoma points to a light dependent mutation mechanism,M
+Melanoma,GNA11,26399561,random,gna11,C,ML,,symbol 'GNA11' present,466,mutation scanning of braf nras kit and gnaq gna11 in oral mucosal melanoma a study of 57 cases,ML
+Melanoma,GNA11,27914687,random,gna11,C,ML,,symbol 'GNA11' present,481,braf nras kit tert gnaq gna11 mutation profile analysis of head and neck mucosal melanomas a study of 42 cases,ML
+Melanoma,GNA11,26683228,random,gna11,C,ML,,symbol 'GNA11' present,511,deep sequencing of uveal melanoma identifies a recurrent mutation in plcb4,ML
+Melanoma,GNA11,28409567,random,gna11,C,M,,symbol 'GNA11' present,514,sf3b1 and bap1 mutations in blue nevus-like melanoma,M
+Melanoma,GNA11,28700778,random,gna11,C,M,,symbol 'GNA11' present,520,frequent gnaq gna11 and eif1ax mutations in iris melanoma,M
+Melanoma,GNA11,27089179,random,gna11,C,M,,symbol 'GNA11' present,523,recurrent activating mutations of g-protein-coupled receptor cysltr2 in uveal melanoma,M
+Melanoma,GNA11,25315378,random,gna11,C,M,,symbol 'GNA11' present,535,mutations in g protein encoding genes and chromosomal alterations in primary leptomeningeal melanocytic neoplasms,M
+Melanoma,GNA11,32946880,random,gna11,C,M,,symbol 'GNA11' present,553,lack of distinct molecular profile of primary dermal melanoma,M
+Melanoma,GNA11,23887304,random,gna11,C,M,,symbol 'GNA11' present,631,genetic and clinico-pathologic analysis of metastatic uveal melanoma,M
+Melanoma,GNA11,27498141,random,gna11,C,M,,symbol 'GNA11' present,641,gnaq and gna11 mutations occur in 9 5 of mucosal melanoma and are associated with poor prognosis,M
+Melanoma,GNA11,40628177,random,gna11,C,M,,symbol 'GNA11' present,678,molecular determinants of survival in metastatic uveal melanoma the impact of sf3b1 mutations,M
+Melanoma,GNA11,35835335,random,gna11,C,M,,symbol 'GNA11' present,692,iris and ciliary body melanocytomas are defined by solitary gnaq mutation without additional oncogenic alterations,M
+Melanoma,GNA11,32043781,random,gna11,C,G,,symbol 'GNA11' present,696,prevalence of nras mutation pd-l1 expression and amplification and overall survival analysis in 36 primary vaginal melanomas,G
+Melanoma,GNA11,28444874,random,gna11,C,M,,symbol 'GNA11' present,719,prognostic impact of chromosomal aberrations and gnaq gna11 and bap1 mutations in uveal melanoma,M
+Melanoma,GNA11,30480620,random,gna11,C,ML,,symbol 'GNA11' present,731,molecular and immunohistochemical analyses of uveal melanoma patient cohort,ML
+Melanoma,GNA11,31227497,random,gna11,C,ML,,symbol 'GNA11' present,753,integrative copy number analysis of uveal melanoma reveals novel candidate genes involved in tumorigenesis including a tumor suppressor role,ML
+Melanoma,GNA11,31533929,random,gna11,C,ML,,symbol 'GNA11' present,775,heterogeneity of gnaq 11 mutation inversely correlates with the metastatic rate in uveal melanoma,ML
+Melanoma,GNA11,29371009,random,gna11,C,ML,,symbol 'GNA11' present,815,genetic background of iris melanomas and iris melanocytic tumors of uncertain malignant potential,ML
+Melanoma,GNA11,22236444,random,gna11,C,M,,symbol 'GNA11' present,822,genetic and molecular characterization of uveal melanoma cell lines,M
+Melanoma,GNA11,31173078,random,gna11,C,M,,symbol 'GNA11' present,848,heterogeneity in mitogen-activated protein kinase mapk pathway activation in uveal melanoma with somatic gnaq and gna11 mutations,M
+Melanoma,GNA11,32118628,random,gna11,C,ML,,symbol 'GNA11' present,852,genomic and clinicopathologic characteristics of prkar1a-inactivated melanomas toward genetic distinctions of animal-type melanoma pigment s,ML
+Melanoma,GNA11,30760858,random,gna11,C,ML,,symbol 'GNA11' present,871,primary malignant melanoma of esophagus clinicopathologic characterization of 20 cases including molecular genetic profiling of 15 tumors,ML
+Melanoma,GNA11,26086698,random,gna11,C,M,,symbol 'GNA11' present,887,metastatic disease in uveal melanoma importance of a genetic profile,M
+Melanoma,GNA11,23464620,random,gna11,C,M,,symbol 'GNA11' present,952,skin metastases in metastatic uveal melanoma gnaq gna11 mutational analysis as a valuable tool,M
+Melanoma,GNA11,29570931,random,gna11,C,P,,symbol 'GNA11' present,971,uveal melanoma driver mutations in gnaq 11 yield numerous changes in melanocyte biology,P
+Melanoma,BAP1,35212356,random,bap1,C,M,,symbol 'BAP1' present,34,genomic profiling of metastatic uveal melanoma shows frequent coexisting bap1 or sf3b1 and gnaq gna11 mutations and correlation with prognos,M
+Melanoma,BAP1,30073324,random,bap1,C,M,,symbol 'BAP1' present,62,association of uveal melanoma metastatic rate with stochastic mutation rate and type of mutation,M
+Melanoma,BAP1,41813058,random,bap1,C,M,,symbol 'BAP1' present,82,beyond the stain bap1 -inactivated melanocytic tumors with retained bap1 nuclear expression due to missense mutations in the catalytic domai,M
+Melanoma,BAP1,37803816,random,bap1,C,ML,,symbol 'BAP1' present,84,next-generation sequencing of uveal melanoma with clinical and histological correlations prognostic value of new mutations in the pi3k akt m,ML
+Melanoma,BAP1,25361747,random,bap1,C,M,,symbol 'BAP1' present,105,uveal melanoma hepatic metastases mutation spectrum analysis using targeted next-generation sequencing of 400 cancer genes,M
+Melanoma,BAP1,29554022,random,bap1,C,M,,symbol 'BAP1' present,107,clinical implications of real-time integrative sequencing in management of patients with suspected germline bap1 mutations,M
+Melanoma,BAP1,26645730,random,bap1,C,M,,symbol 'BAP1' present,120,melanomas associated with blue nevi or mimicking cellular blue nevi clinical pathologic and molecular study of 11 cases displaying a high fr,M
+Melanoma,BAP1,28618948,random,bap1,C,M,,symbol 'BAP1' present,155,tissue-specific significance of bap1 gene mutation in prognostic prediction and molecular taxonomy among different types of cancer,M
+Melanoma,BAP1,31382929,random,bap1,C,M,,symbol 'BAP1' present,183,germline and somatic mutations in patients with multiple primary melanomas a next generation sequencing study,M
+Melanoma,BAP1,26251183,random,bap1,C,I,,symbol 'BAP1' present,190,pole mutations in families predisposed to cutaneous melanoma,I
+Melanoma,BAP1,24423917,random,bap1,C,M,,symbol 'BAP1' present,220,mutation frequencies of gnaq gna11 bap1 sf3b1 eif1ax and tert in uveal melanoma detection of an activating mutation in the tert gene promote,M
+Melanoma,BAP1,26748926,random,bap1,C,M,,symbol 'BAP1' present,225,germline bap1 mutations misreported as somatic based on tumor-only testing,M
+Melanoma,BAP1,34071371,random,bap1,C,M,,symbol 'BAP1' present,322,molecular genetics of conjunctival melanoma and prognostic value of tert promoter mutation analysis,M
+Melanoma,BAP1,22889334,random,bap1,C,M,,symbol 'BAP1' present,343,a cryptic bap1 splice mutation in a family with uveal and cutaneous melanoma and paraganglioma,M
+Melanoma,BAP1,26154183,random,bap1,C,M,,symbol 'BAP1' present,363,multiple cutaneous melanomas and clinically atypical moles in a patient with a novel germline bap1 mutation,M
+Melanoma,BAP1,24970262,random,bap1,C,M,,symbol 'BAP1' present,387,chromosome 3 status combined with bap1 and eif1ax mutation profiles are associated with metastasis in uveal melanoma,M
+Melanoma,BAP1,36719926,random,bap1,C,M,,symbol 'BAP1' present,394,molecular profiling of primary uveal melanoma results of a polish cohort,M
+Melanoma,BAP1,41644099,random,bap1,C,M,,symbol 'BAP1' present,467,mutations with prognostic value in uveal melanoma analytical study of variants detected by targeted next-generation sequencing,M
+Melanoma,BAP1,26683228,random,bap1,C,I,,symbol 'BAP1' present,511,deep sequencing of uveal melanoma identifies a recurrent mutation in plcb4,I
+Melanoma,BAP1,34353217,random,bap1,C,M,,symbol 'BAP1' present,512,bioinformatics analysis of gnaq gna11 bap1 sf3b1 srsf2 eif1ax plcb4 and cysltr2 genes and their role in the pathogenesis of uveal melanoma,M
+Melanoma,BAP1,28409567,random,bap1,C,M,,symbol 'BAP1' present,514,sf3b1 and bap1 mutations in blue nevus-like melanoma,M
+Melanoma,BAP1,28700778,random,bap1,C,ML,,symbol 'BAP1' present,520,frequent gnaq gna11 and eif1ax mutations in iris melanoma,ML
+Melanoma,BAP1,28062663,random,bap1,C,M,,symbol 'BAP1' present,561,a population-based analysis of germline bap1 mutations in melanoma,M
+Melanoma,BAP1,25687217,random,bap1,C,M,,symbol 'BAP1' present,569,analysis of bap1 germline gene mutation in young uveal melanoma patients,M
+Melanoma,BAP1,23977234,random,bap1,C,M,,symbol 'BAP1' present,578,a bap1 mutation in a danish family predisposes to uveal melanoma and other cancers,M
+Melanoma,BAP1,21051595,random,bap1,C,M,,symbol 'BAP1' present,585,frequent mutation of bap1 in metastasizing uveal melanomas,M
+Melanoma,BAP1,26744134,random,bap1,C,M,,symbol 'BAP1' present,596,targeted next generation sequencing reveals unique mutation profile of primary melanocytic tumors of the central nervous system,M
+Melanoma,BAP1,25787093,random,bap1,C,M,,symbol 'BAP1' present,687,prevalence of germline bap1 cdkn2a and cdk4 mutations in an australian population-based sample of cutaneous melanoma cases,M
+Melanoma,BAP1,40059100,random,bap1,C,M,,symbol 'BAP1' present,747,identification of diagnostic and prognostic genetic alterations in uveal melanoma using rna sequencing,M
+Melanoma,BAP1,31227497,random,bap1,C,ML,,symbol 'BAP1' present,753,integrative copy number analysis of uveal melanoma reveals novel candidate genes involved in tumorigenesis including a tumor suppressor role,ML
+Melanoma,BAP1,41954344,random,bap1,C,P,,symbol 'BAP1' present,766,immunohistochemical and molecular profiling of uveal melanoma clinicopathological correlations from an italian cohort,P
+Melanoma,BAP1,26433962,random,bap1,C,ML,,symbol 'BAP1' present,784,germline tert promoter mutations are rare in familial melanoma,ML
+Melanoma,BAP1,34283976,random,bap1,C,M,,symbol 'BAP1' present,787,multiple genetically distinct uveal melanomas arise in the same eye of two patients with melanosis oculi,M
+Melanoma,BAP1,27181379,random,bap1,C,M,,symbol 'BAP1' present,803,cdkn2a and bap1 germline mutations predispose to melanoma and mesothelioma,M
+Melanoma,BAP1,32249949,random,bap1,C,M,,symbol 'BAP1' present,831,germline mutations predisposing to melanoma,M
+Melanoma,BAP1,23585512,random,bap1,C,M,,symbol 'BAP1' present,835,well-differentiated papillary mesothelioma clustering in a portuguese family with a germline bap1 mutation,M
+Melanoma,BAP1,23341325,random,bap1,C,M,,symbol 'BAP1' present,882,hereditary uveal melanoma a report of a germline mutation in bap1,M
+Melanoma,BAP1,26086698,random,bap1,C,M,,symbol 'BAP1' present,887,metastatic disease in uveal melanoma importance of a genetic profile,M
+Melanoma,BAP1,41996828,random,bap1,C,M,,symbol 'BAP1' present,947,a novel pdzrn3 braf fusion as potential driver mechanism in bap1-inactivated melanocytoma,M
+Melanoma,BAP1,27116551,random,bap1,C,M,,symbol 'BAP1' present,955,metastatic disease in polyploid uveal melanoma patients is associated with bap1 mutations,M
+Melanoma,SF3B1,35212356,all,sf3b1,C,M,,symbol 'SF3B1' present,34,genomic profiling of metastatic uveal melanoma shows frequent coexisting bap1 or sf3b1 and gnaq gna11 mutations and correlation with prognos,M
+Melanoma,SF3B1,27123562,all,sf3b1,C,M,,symbol 'SF3B1' present,42,driver mutations in uveal melanoma associations with gene expression profile and patient outcomes,M
+Melanoma,SF3B1,39739287,all,sf3b1,C,ML,,symbol 'SF3B1' present,58,real-world evidence of the prevalence of driver mutations in anorectal melanoma,ML
+Melanoma,SF3B1,30073324,all,sf3b1,C,M,,symbol 'SF3B1' present,62,association of uveal melanoma metastatic rate with stochastic mutation rate and type of mutation,M
+Melanoma,SF3B1,34706158,all,sf3b1|splicing factor 3b subunit 1,C,M,,symbol 'SF3B1' present,67,co-occurrence of bap1 and sf3b1 mutations in uveal melanoma induces cellular senescence,M
+Melanoma,SF3B1,37803816,all,sf3b1,C,ML,,symbol 'SF3B1' present,84,next-generation sequencing of uveal melanoma with clinical and histological correlations prognostic value of new mutations in the pi3k akt m,ML
+Melanoma,SF3B1,25361747,all,sf3b1,C,ML,,symbol 'SF3B1' present,105,uveal melanoma hepatic metastases mutation spectrum analysis using targeted next-generation sequencing of 400 cancer genes,ML
+Melanoma,SF3B1,26923342,all,sf3b1,C,M,,symbol 'SF3B1' present,135,uveal melanomas with sf3b1 mutations a distinct subclass associated with late-onset metastases,M
+Melanoma,SF3B1,31614358,all,sf3b1|splicing factor 3b subunit 1,C,M,,symbol 'SF3B1' present,146,mutations of gnaq gna11 sf3b1 eif1ax plcb4 and cysltr in uveal melanoma in chinese patients,M
+Melanoma,SF3B1,28618948,all,sf3b1,C,ML,,symbol 'SF3B1' present,155,tissue-specific significance of bap1 gene mutation in prognostic prediction and molecular taxonomy among different types of cancer,ML
+Melanoma,SF3B1,34571863,all,sf3b1,C,ML,,symbol 'SF3B1' present,199,prognostic roles of braf kit nras igf2r and sf3b1 mutations in mucosal melanomas,ML
+Melanoma,SF3B1,24423917,all,sf3b1,C,M,,symbol 'SF3B1' present,220,mutation frequencies of gnaq gna11 bap1 sf3b1 eif1ax and tert in uveal melanoma detection of an activating mutation in the tert gene promote,M
+Melanoma,SF3B1,23793026,all,sf3b1,C,M,,symbol 'SF3B1' present,250,exome sequencing identifies recurrent somatic mutations in eif1ax and sf3b1 in uveal melanoma with disomy 3,M
+Melanoma,SF3B1,29689622,all,sf3b1,C,ML,,symbol 'SF3B1' present,296,prognostic value of chromosomal imbalances gene mutations and bap1 expression in uveal melanoma,ML
+Melanoma,SF3B1,34071371,all,sf3b1,C,M,,symbol 'SF3B1' present,322,molecular genetics of conjunctival melanoma and prognostic value of tert promoter mutation analysis,M
+Melanoma,SF3B1,39167579,all,splicing factor 3b subunit 1,C,M,,credited via alias splicing factor 3b subunit 1,324,comprehensive molecular profiling of uveal melanoma evaluated with gene expression profiling preferentially expressed antigen in melanoma ex,M
+Melanoma,SF3B1,24970262,all,sf3b1,C,ML,,symbol 'SF3B1' present,387,chromosome 3 status combined with bap1 and eif1ax mutation profiles are associated with metastasis in uveal melanoma,ML
+Melanoma,SF3B1,36719926,all,sf3b1,C,ML,,symbol 'SF3B1' present,394,molecular profiling of primary uveal melanoma results of a polish cohort,ML
+Melanoma,SF3B1,30558566,all,sf3b1,C,M,,symbol 'SF3B1' present,417,detection of mutations in sf3b1 eif1ax and gnaq in primary orbital melanoma by candidate gene analysis,M
+Melanoma,SF3B1,27739435,all,sf3b1,C,M,,symbol 'SF3B1' present,420,identification of recurrent mutational events in anorectal melanoma,M
+Melanoma,SF3B1,23694694,all,sf3b1,C,M,,symbol 'SF3B1' present,460,lack of sf3b1 r625 mutations in cutaneous melanoma,M
+Melanoma,SF3B1,41644099,all,sf3b1,C,ML,,symbol 'SF3B1' present,467,mutations with prognostic value in uveal melanoma analytical study of variants detected by targeted next-generation sequencing,ML
+Melanoma,SF3B1,30273197,all,sf3b1,C,M,,symbol 'SF3B1' present,473,sf3b1 nras kit and braf mutation cd117 and cmyc expression and tumoral pigmentation in sinonasal melanomas an analysis with newly found mole,M
+Melanoma,SF3B1,29327717,all,sf3b1,C,I,,symbol 'SF3B1' present,498,combined mutation and copy-number variation detection by targeted next-generation sequencing in uveal melanoma,I
+Melanoma,SF3B1,26683228,all,sf3b1,C,I,,symbol 'SF3B1' present,511,deep sequencing of uveal melanoma identifies a recurrent mutation in plcb4,I
+Melanoma,SF3B1,34353217,all,sf3b1,C,I,,symbol 'SF3B1' present,512,bioinformatics analysis of gnaq gna11 bap1 sf3b1 srsf2 eif1ax plcb4 and cysltr2 genes and their role in the pathogenesis of uveal melanoma,I
+Melanoma,SF3B1,28409567,all,sf3b1,C,M,,symbol 'SF3B1' present,514,sf3b1 and bap1 mutations in blue nevus-like melanoma,M
+Melanoma,SF3B1,28700778,all,sf3b1,C,I,,symbol 'SF3B1' present,520,frequent gnaq gna11 and eif1ax mutations in iris melanoma,I
+Melanoma,SF3B1,34102999,all,sf3b1,C,M,,symbol 'SF3B1' present,572,recurrent kras kit and sf3b1 mutations in melanoma of the female genital tract,M
+Melanoma,SF3B1,23887304,all,sf3b1,C,ML,,symbol 'SF3B1' present,631,genetic and clinico-pathologic analysis of metastatic uveal melanoma,ML
+Melanoma,SF3B1,40628177,all,sf3b1,C,M,,symbol 'SF3B1' present,678,molecular determinants of survival in metastatic uveal melanoma the impact of sf3b1 mutations,M
+Melanoma,SF3B1,26769193,all,sf3b1,C,M,,symbol 'SF3B1' present,689,sf3b1 and eif1ax mutations occur in primary leptomeningeal melanocytic neoplasms yet another similarity to uveal melanomas,M
+Melanoma,SF3B1,26842708,all,sf3b1,C,M,,symbol 'SF3B1' present,722,cancer-associated sf3b1 mutations affect alternative splicing by promoting alternative branchpoint usage,M
+Melanoma,SF3B1,30480620,all,sf3b1,C,ML,,symbol 'SF3B1' present,731,molecular and immunohistochemical analyses of uveal melanoma patient cohort,ML
+Melanoma,SF3B1,40059100,all,sf3b1,C,I,,symbol 'SF3B1' present,747,identification of diagnostic and prognostic genetic alterations in uveal melanoma using rna sequencing,I
+Melanoma,SF3B1,31227497,all,sf3b1,C,I,,symbol 'SF3B1' present,753,integrative copy number analysis of uveal melanoma reveals novel candidate genes involved in tumorigenesis including a tumor suppressor role,I
+Melanoma,SF3B1,34283976,all,sf3b1,C,ML,,symbol 'SF3B1' present,787,multiple genetically distinct uveal melanomas arise in the same eye of two patients with melanosis oculi,ML
+Melanoma,SF3B1,28810145,all,sf3b1,C,I,,symbol 'SF3B1' present,793,integrative analysis identifies four molecular and clinical subsets in uveal melanoma,I
+Melanoma,SF3B1,29371009,all,sf3b1,C,ML,,symbol 'SF3B1' present,815,genetic background of iris melanomas and iris melanocytic tumors of uncertain malignant potential,ML
+Melanoma,SF3B1,31320640,all,sf3b1,C,ML,target,symbol 'SF3B1' present,820,whole-genome landscape of mucosal melanoma reveals diverse drivers and therapeutic targets,ML
+Melanoma,SF3B1,30760858,all,sf3b1,C,M,,symbol 'SF3B1' present,871,primary malignant melanoma of esophagus clinicopathologic characterization of 20 cases including molecular genetic profiling of 15 tumors,M
+Melanoma,SF3B1,26086698,all,sf3b1,C,M,,symbol 'SF3B1' present,887,metastatic disease in uveal melanoma importance of a genetic profile,M
+Melanoma,SF3B1,35195858,all,sf3b1,C,I,,symbol 'SF3B1' present,896,mutational characteristics of primary mucosal melanoma a systematic review,I
+Melanoma,SF3B1,27116551,all,sf3b1,C,ML,,symbol 'SF3B1' present,955,metastatic disease in polyploid uveal melanoma patients is associated with bap1 mutations,ML
+Melanoma,SF3B1,28467829,all,sf3b1,C,ML,,symbol 'SF3B1' present,957,whole-genome landscapes of major melanoma subtypes,ML
+Melanoma,SF3B1,31655118,all,sf3b1,C,M,,symbol 'SF3B1' present,990,the mutational landscape of mucosal melanoma,M
+Melanoma,SF3B1,38670237,all,sf3b1,C,M,,symbol 'SF3B1' present,991,primary leptomeningeal melanocytic neoplasms a clinicopathologic immunohistochemical and molecular study of 12 cases,M
+Melanoma,NF1,38341515,all,nf1,C,ML,,symbol 'NF1' present,12,arid2 mutations may relay a distinct subset of cutaneous melanoma patients with different outcomes,ML
+Melanoma,NF1,35085662,all,nf1,C,M,,symbol 'NF1' present,19,mutational landscape and outcomes of conjunctival melanoma in 101 patients,M
+Melanoma,NF1,33610559,all,nf1,C,ML,,symbol 'NF1' present,29,prevalence of homologous recombination pathway gene mutations in melanoma rationale for a new targeted therapeutic approach,ML
+Melanoma,NF1,41408518,all,nf1,C,I,,symbol 'NF1' present,61,genetic diversity in melanomagenesis a comprehensive analysis of braf nras kit and novel mutations across melanoma subtypes,I
+Melanoma,NF1,30373548,all,nf1,C,ML,,symbol 'NF1' present,83,predominance of triple wild-type and igf2r mutations in mucosal melanomas,ML
+Melanoma,NF1,37831226,all,nf1,C,ML,,symbol 'NF1' present,128,whole-exome sequencing reveals mutational profiles of anorectal and gynecological melanoma,ML
+Melanoma,NF1,23833303,all,nf1,C,M,,symbol 'NF1' present,147,braf nras wild-type melanomas have a high mutation load correlating with histologic and molecular signatures of uv damage,M
+Melanoma,NF1,28380455,all,nf1,C,M,,symbol 'NF1' present,196,targeted next generation sequencing of mucosal melanomas identifies frequent nf1 and ras mutations,M
+Melanoma,NF1,34571863,all,nf1,C,P,,symbol 'NF1' present,199,prognostic roles of braf kit nras igf2r and sf3b1 mutations in mucosal melanomas,P
+Melanoma,NF1,26082173,all,nf1,C,I,,symbol 'NF1' present,219,systematic screening of promoter regions pinpoints functional cis-regulatory mutations in a cutaneous melanoma genome,I
+Melanoma,NF1,24755198,all,nf1,C,ML,,symbol 'NF1' present,234,a meta-analysis of somatic mutations from next generation sequencing of 241 melanomas a road map for the study of genes with potential clini,ML
+Melanoma,NF1,42449548,all,nf1,C,M,,symbol 'NF1' present,260,characterizing the mutational landscape of in-transit melanoma metastases,M
+Melanoma,NF1,26343386,all,nf1,C,I,,symbol 'NF1' present,263,exome sequencing of desmoplastic melanoma identifies recurrent nfkbie promoter mutations and diverse activating mutations in the mapk pathwa,I
+Melanoma,NF1,29559732,all,nf1,C,M,,symbol 'NF1' present,276,nf1 mutations in conjunctival melanoma,M
+Melanoma,NF1,35876628,all,nf1,C,ML,,symbol 'NF1' present,298,landscape of mutations in early stage primary cutaneous melanoma an intermel study,ML
+Melanoma,NF1,36773463,all,nf1,C,ML,,symbol 'NF1' present,325,characterisation and outcome of rac1 mutated melanoma,ML
+Melanoma,NF1,28067894,all,nf1,C,M,,symbol 'NF1' present,369,unexpected uvr and non-uvr mutation burden in some acral and cutaneous melanomas,M
+Melanoma,NF1,31567539,all,nf1,C,I,,symbol 'NF1' present,380,mutational profile in vulvar vaginal and urethral melanomas review of 37 cases with focus on primary tumor site,I
+Melanoma,NF1,26960397,all,nf1,C,M,,symbol 'NF1' present,397,pd-l1 negative status is associated with lower mutation burden differential expression of immune-related genes and worse survival in stage i,M
+Melanoma,NF1,32234759,all,nf1,C,ML,,symbol 'NF1' present,408,metastatic melanoma patient-derived xenografts respond to mdm2 inhibition as a single agent or in combination with braf mek inhibition,ML
+Melanoma,NF1,34090666,all,nf1,C,P,,symbol 'NF1' present,410,melanoma with osseous or chondroid differentiation a report of eight cases including satb2 expression and mutation analysis,P
+Melanoma,NF1,27739435,all,nf1,C,M,,symbol 'NF1' present,420,identification of recurrent mutational events in anorectal melanoma,M
+Melanoma,NF1,42369209,all,nf1,C,M,,symbol 'NF1' present,421,driver mutation subtypes differentially shape immune evasion landscapes in melanoma an ai-driven inflammatory pathway model implicating ccne,M
+Melanoma,NF1,36990277,all,nf1,C,I,,symbol 'NF1' present,443,undifferentiated and dedifferentiated metastatic melanomas masquerading as soft tissue sarcomas mutational signature analysis and immunother,I
+Melanoma,NF1,27089179,all,nf1,C,ML,,symbol 'NF1' present,523,recurrent activating mutations of g-protein-coupled receptor cysltr2 in uveal melanoma,ML
+Melanoma,NF1,38903495,all,nf1,C,M,,symbol 'NF1' present,528,clinical and genetic characteristics of bap1 -mutated non-uveal and uveal melanoma,M
+Melanoma,NF1,42251234,all,nf1,C,M,,symbol 'NF1' present,536,nf1 mutation may be associated with lung-tropic metastasis in cutaneous melanoma a genomic analysis of 520 patients,M
+Melanoma,NF1,34986841,all,nf1,C,M,,symbol 'NF1' present,557,the clinical significance of adenomatous polyposis coli apc and catenin beta 1 ctnnb1 genetic aberrations in patients with melanoma,M
+Melanoma,NF1,34102999,all,nf1,C,P,,symbol 'NF1' present,572,recurrent kras kit and sf3b1 mutations in melanoma of the female genital tract,P
+Melanoma,NF1,26744134,all,nf1,C,ML,,symbol 'NF1' present,596,targeted next generation sequencing reveals unique mutation profile of primary melanocytic tumors of the central nervous system,ML
+Melanoma,NF1,36383901,all,nf1,C,M,,symbol 'NF1' present,604,next-generation sequencing as a potential diagnostic adjunct in distinguishing between desmoplastic melanocytic neoplasms,M
+Melanoma,NF1,31900433,all,nf1,C,ML,,symbol 'NF1' present,624,spitz melanoma is a distinct subset of spitzoid melanoma,ML
+Melanoma,NF1,40090763,all,nf1,C,M,,symbol 'NF1' present,656,primary cutaneous neoplasm with rhabdomyosarcomatous differentiation and a melanoma-like mutational landscape,M
+Melanoma,NF1,31647501,all,nf1,C,M,,symbol 'NF1' present,667,integrative exome and transcriptome analysis of conjunctival melanoma and its potential application for personalized therapy,M
+Melanoma,NF1,32083130,all,nf1,C,M,,symbol 'NF1' present,674,characterizations of gene alterations in melanoma patients from chinese population,M
+Melanoma,NF1,34742158,all,nf1,C,M,,symbol 'NF1' present,683,nf1-mutated melanomas reveal distinct clinical characteristics depending on tumour origin and respond favourably to immune checkpoint inhibi,M
+Melanoma,NF1,39424026,all,nf1,C,ML,,symbol 'NF1' present,736,circulating tumor dna in conjunctival melanoma landscape and surveillance value,ML
+Melanoma,NF1,40494652,all,neurofibromin 1|nf1,C,M,,symbol 'NF1' present,738,nf1 loss promotes egfr activation and confers sensitivity to egfr inhibition in nf1-mutant melanoma,M
+Melanoma,NF1,36901951,all,nf1,C,ML,,symbol 'NF1' present,739,response and resistance to trametinib in map2k1-mutant triple-negative melanoma,ML
+Melanoma,NF1,38669390,all,nf1,C,M,,symbol 'NF1' present,788,the immune response-related genomic alterations in patients with malignant melanoma,M
+Melanoma,NF1,31320640,all,nf1,C,ML,target,symbol 'NF1' present,820,whole-genome landscape of mucosal melanoma reveals diverse drivers and therapeutic targets,ML
+Melanoma,NF1,31826932,all,nf1,C,I,,symbol 'NF1' present,853,clinical application of next-generation sequencing-based panel to braf wild-type advanced melanoma identifies key oncogenic alterations and ,I
+Melanoma,NF1,35195858,all,nf1,C,I,,symbol 'NF1' present,896,mutational characteristics of primary mucosal melanoma a systematic review,I
+Melanoma,NF1,34547192,all,nf1,C,M,,symbol 'NF1' present,911,intragenic nf1 deletions in sinonasal mucosal malignant melanoma,M
+Melanoma,NF1,31811783,all,nf1,C,ML,,symbol 'NF1' present,938,tumor genetic heterogeneity analysis of chronic sun-damaged melanoma,ML
+Melanoma,NF1,28467829,all,nf1,C,I,,symbol 'NF1' present,957,whole-genome landscapes of major melanoma subtypes,I
+Melanoma,NF1,32581366,all,nf1,C,ML,,symbol 'NF1' present,968,lung-only melanoma uv mutational signature supports origin from occult cutaneous primaries and argues against the concept of primary pulmona,ML
+Melanoma,NF1,36389735,all,nf1,C,M,,symbol 'NF1' present,974,genomic landscape of the immunogenicity regulation in skin melanomas with diverse tumor mutation burden,M

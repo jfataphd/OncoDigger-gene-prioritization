@@ -1,0 +1,191 @@
+cancer,oncodigger_rank,gene_norm,global_hit_published_definition,exact_hit_published_definition,NUM_PAPERS_gene,gene_whitelisted,gene_certain_cgc_lower_bound,catalog_rows_any_scope,n_papers_missing_in_release,has_cancermine_papers,catalog_rows_with_literature_exemption,gene_has_rows_removed_by_literature_filter,would_become_hit_if_literature_filter_removed_exact,would_become_hit_if_literature_filter_removed_global,hit_lost_if_literature_filter_removed,classification
+Bladder Cancer,1,FGFR3,True,True,59.0,False,True,16,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Bladder Cancer,2,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Bladder Cancer,3,TERT,True,False,67.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Bladder Cancer,4,PIK3CA,True,True,194.0,False,True,109,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Bladder Cancer,5,RB1,True,True,564.0,False,True,65,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Bladder Cancer,6,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Bladder Cancer,7,ARID1A,True,True,90.0,False,True,90,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Bladder Cancer,8,HRAS,True,True,138.0,False,True,23,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Bladder Cancer,9,KDM6A,True,True,54.0,False,True,45,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Bladder Cancer,10,ERBB2,True,True,1801.0,False,True,30,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Brain Cancer,1,IDH1,True,True,88.0,False,True,29,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Brain Cancer,2,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Brain Cancer,3,EGFR,True,True,2767.0,False,True,22,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Brain Cancer,4,TERT,True,False,67.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Brain Cancer,5,IDH2,True,True,22.0,False,True,8,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Brain Cancer,6,BRAF,True,True,1686.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Brain Cancer,7,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Brain Cancer,8,ATRX,True,True,19.0,False,True,27,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Brain Cancer,9,MGMT,False,False,,False,False,0,True,False,0,False,False,False,False,not_a_hit
+Brain Cancer,10,PTEN,True,True,917.0,False,True,78,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Breast Cancer,1,BRCA1,True,True,351.0,False,True,11,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Breast Cancer,2,BRCA2,True,True,132.0,False,True,20,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Breast Cancer,3,PIK3CA,True,True,194.0,False,True,109,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Breast Cancer,4,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Breast Cancer,5,ERBB2,True,True,1801.0,False,True,30,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Breast Cancer,6,PALB2,True,False,6.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Breast Cancer,7,ESR1,True,True,52.0,False,True,5,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Breast Cancer,8,PTEN,True,True,917.0,False,True,78,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Breast Cancer,9,CHEK2,True,True,13.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Breast Cancer,10,AKT1,True,True,301.0,False,True,20,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Cervical Cancer,1,PIK3CA,True,True,194.0,False,True,109,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Cervical Cancer,2,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Cervical Cancer,3,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Cervical Cancer,4,PTEN,True,True,917.0,False,True,78,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Cervical Cancer,5,ERBB2,True,True,1801.0,False,True,30,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Cervical Cancer,6,STK11,True,True,168.0,False,True,14,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Cervical Cancer,7,EGFR,True,False,2767.0,False,True,22,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Cervical Cancer,8,FBXW7,True,True,89.0,False,True,42,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Cervical Cancer,9,MTOR,True,False,79.0,False,True,16,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Cervical Cancer,10,RB1,True,True,564.0,False,True,65,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Colorectal Cancer,1,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Colorectal Cancer,2,BRAF,True,True,1686.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Colorectal Cancer,3,EGFR,True,True,2767.0,False,True,22,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Colorectal Cancer,4,NRAS,True,True,692.0,False,True,40,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Colorectal Cancer,5,MLH1,False,False,10.0,False,False,0,False,True,0,False,False,False,False,not_a_hit
+Colorectal Cancer,6,PIK3CA,True,True,194.0,False,True,109,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Colorectal Cancer,7,MSH2,False,False,,False,False,0,True,False,0,False,False,False,False,not_a_hit
+Colorectal Cancer,8,APC,True,True,377.0,False,True,43,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Colorectal Cancer,9,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Colorectal Cancer,10,MSH6,False,False,,False,False,0,True,False,0,False,False,False,False,not_a_hit
+Endometrial Cancer,1,PTEN,True,True,917.0,False,True,78,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Endometrial Cancer,2,PIK3CA,True,True,194.0,False,True,109,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Endometrial Cancer,3,POLE,True,False,0.0,False,True,2,False,False,2,False,False,False,False,zero_papers_hit_via_CGC_or_whitelist_exemption
+Endometrial Cancer,4,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Endometrial Cancer,5,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Endometrial Cancer,6,MLH1,False,False,10.0,False,False,0,False,True,0,False,False,False,False,not_a_hit
+Endometrial Cancer,7,CTNNB1,True,True,112.0,False,True,47,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Endometrial Cancer,8,MSH2,False,False,,False,False,0,True,False,0,False,False,False,False,not_a_hit
+Endometrial Cancer,9,MSH6,False,False,,False,False,0,True,False,0,False,False,False,False,not_a_hit
+Endometrial Cancer,10,ARID1A,True,True,90.0,False,True,90,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Esophageal Cancer,1,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Esophageal Cancer,2,PIK3CA,True,True,194.0,False,True,109,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Esophageal Cancer,3,EGFR,True,False,2767.0,False,True,22,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Esophageal Cancer,4,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Esophageal Cancer,5,CDKN2A,True,True,486.0,False,True,70,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Esophageal Cancer,6,BRAF,True,False,1686.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Esophageal Cancer,7,NOTCH1,True,True,277.0,False,True,39,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Esophageal Cancer,8,BRCA2,True,False,132.0,False,True,20,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Esophageal Cancer,9,NFE2L2,True,True,11.0,False,True,18,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Esophageal Cancer,10,APC,True,True,377.0,False,True,43,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Kidney Cancer,1,VHL,True,True,357.0,False,True,6,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Kidney Cancer,2,WT1,True,False,618.0,False,True,4,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Kidney Cancer,3,BAP1,True,True,88.0,False,True,23,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Kidney Cancer,4,PBRM1,True,True,30.0,False,True,23,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Kidney Cancer,5,FH,False,False,,False,False,0,True,False,0,False,False,False,False,not_a_hit
+Kidney Cancer,6,FLCN,True,False,28.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Kidney Cancer,7,SETD2,True,True,61.0,False,True,34,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Kidney Cancer,8,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Kidney Cancer,9,TSC2,True,True,6.0,False,True,15,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Kidney Cancer,10,KDM5C,True,True,16.0,False,True,10,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Leukemia,1,FLT3,True,True,92.0,False,True,8,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Leukemia,2,NPM1,True,False,102.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Leukemia,3,DNMT3A,True,True,52.0,False,True,13,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Leukemia,4,CEBPA,True,True,26.0,False,True,2,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Leukemia,5,NRAS,True,True,692.0,False,True,40,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Leukemia,6,ASXL1,True,True,5.0,False,True,17,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Leukemia,7,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Leukemia,8,IDH1,True,True,88.0,False,True,29,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Leukemia,9,BCR,True,True,245.0,False,True,7,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Leukemia,10,TET2,True,True,62.0,False,True,9,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Liver Cancer,1,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Liver Cancer,2,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Liver Cancer,3,CTNNB1,True,True,112.0,False,True,47,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Liver Cancer,4,BRAF,True,True,1686.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Liver Cancer,5,NRAS,True,True,692.0,False,True,40,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Liver Cancer,6,TERT,True,False,67.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Liver Cancer,7,EGFR,True,False,2767.0,False,True,22,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Liver Cancer,8,PIK3CA,True,True,194.0,False,True,109,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Liver Cancer,9,APC,True,True,377.0,False,True,43,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Liver Cancer,10,HFE,False,False,,False,False,0,True,False,0,False,False,False,False,not_a_hit
+Lung Cancer,1,EGFR,True,True,2767.0,False,True,22,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lung Cancer,2,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lung Cancer,3,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lung Cancer,4,BRAF,True,True,1686.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lung Cancer,5,ALK,True,True,633.0,False,True,10,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lung Cancer,6,PIK3CA,True,True,194.0,False,True,109,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lung Cancer,7,ERBB2,True,True,1801.0,False,True,30,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lung Cancer,8,CD274,True,False,222.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lung Cancer,9,MET,True,True,405.0,False,True,9,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lung Cancer,10,STK11,True,True,168.0,False,True,14,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lymphoma,1,MYD88,True,True,17.0,False,True,10,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lymphoma,2,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lymphoma,3,KMT2D,True,True,46.0,False,True,91,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lymphoma,4,EZH2,True,True,196.0,False,True,11,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lymphoma,5,CD79B,True,True,4.0,False,True,5,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lymphoma,6,CREBBP,True,True,25.0,False,True,42,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lymphoma,7,TET2,True,True,62.0,False,True,9,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lymphoma,8,ATM,True,False,51.0,False,True,50,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lymphoma,9,CARD11,True,True,13.0,False,True,11,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Lymphoma,10,RHOA,True,True,33.0,False,True,14,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Melanoma,1,BRAF,True,True,1686.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Melanoma,2,NRAS,True,True,692.0,False,True,40,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Melanoma,3,KIT,True,True,939.0,False,True,10,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Melanoma,4,CDKN2A,True,True,486.0,False,True,70,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Melanoma,5,TERT,True,False,67.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Melanoma,6,GNAQ,True,True,34.0,False,True,4,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Melanoma,7,GNA11,True,True,20.0,False,True,2,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Melanoma,8,BAP1,True,True,88.0,False,True,23,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Melanoma,9,SF3B1,True,True,14.0,False,True,25,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Melanoma,10,NF1,True,True,168.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Myeloma,1,NRAS,True,True,692.0,False,True,40,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Myeloma,2,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Myeloma,3,BRAF,True,True,1686.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Myeloma,4,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Myeloma,5,DIS3,True,True,6.0,False,False,1,False,True,0,False,False,False,False,has_papers_literature_condition_satisfied_CGC_status_unknown
+Myeloma,6,IGH,False,False,,False,False,0,True,False,0,False,False,False,False,not_a_hit
+Myeloma,7,FGFR3,True,True,59.0,False,True,16,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Myeloma,8,MYC,True,False,4778.0,False,True,4,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Myeloma,9,IRF4,True,True,30.0,False,True,8,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Myeloma,10,TRAF3,True,True,12.0,False,False,1,False,True,0,False,False,False,False,has_papers_literature_condition_satisfied_CGC_status_unknown
+Ovarian Cancer,1,BRCA1,True,True,351.0,False,True,11,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Ovarian Cancer,2,BRCA2,True,True,132.0,False,True,20,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Ovarian Cancer,3,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Ovarian Cancer,4,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Ovarian Cancer,5,POLE,True,False,0.0,False,True,2,False,False,2,False,False,False,False,zero_papers_hit_via_CGC_or_whitelist_exemption
+Ovarian Cancer,6,PIK3CA,True,True,194.0,False,True,109,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Ovarian Cancer,7,BRAF,True,True,1686.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Ovarian Cancer,8,CTNNB1,True,True,112.0,False,True,47,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Ovarian Cancer,9,PTEN,True,True,917.0,False,True,78,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Ovarian Cancer,10,RAD51C,False,False,,False,False,0,True,False,0,False,False,False,False,not_a_hit
+Pancreatic Cancer,1,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Pancreatic Cancer,2,BRCA2,True,True,132.0,False,True,20,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Pancreatic Cancer,3,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Pancreatic Cancer,4,BRCA1,True,False,351.0,False,True,11,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Pancreatic Cancer,5,CDKN2A,True,True,486.0,False,True,70,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Pancreatic Cancer,6,SMAD4,True,True,138.0,False,True,37,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Pancreatic Cancer,7,GNAS,True,True,38.0,False,True,12,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Pancreatic Cancer,8,BRAF,True,False,1686.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Pancreatic Cancer,9,MEN1,True,True,100.0,False,True,9,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Pancreatic Cancer,10,PALB2,True,False,6.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Prostate Cancer,1,BRCA2,True,True,132.0,False,True,20,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Prostate Cancer,2,BRCA1,True,False,351.0,False,True,11,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Prostate Cancer,3,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Prostate Cancer,4,ATM,True,True,51.0,False,True,50,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Prostate Cancer,5,SPOP,True,True,78.0,False,True,15,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Prostate Cancer,6,AR,True,True,102.0,False,True,17,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Prostate Cancer,7,CHEK2,True,False,13.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Prostate Cancer,8,PTEN,True,True,917.0,False,True,78,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Prostate Cancer,9,PARP1,False,False,8.0,False,False,0,False,True,0,False,False,False,False,not_a_hit
+Prostate Cancer,10,PALB2,True,False,6.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Stomach Cancer,1,CDH1,True,True,168.0,False,True,18,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Stomach Cancer,2,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Stomach Cancer,3,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Stomach Cancer,4,PIK3CA,True,True,194.0,False,True,109,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Stomach Cancer,5,CTNNB1,True,True,112.0,False,True,47,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Stomach Cancer,6,BRAF,True,True,1686.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Stomach Cancer,7,APC,True,True,377.0,False,True,43,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Stomach Cancer,8,BRCA2,True,False,132.0,False,True,20,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Stomach Cancer,9,PDGFRA,True,False,116.0,False,True,9,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Stomach Cancer,10,ARID1A,True,True,90.0,False,True,90,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Thyroid Cancer,1,BRAF,True,True,1686.0,False,True,57,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Thyroid Cancer,2,TERT,True,False,67.0,False,True,1,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Thyroid Cancer,3,RET,True,True,1687.0,False,True,6,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Thyroid Cancer,4,NRAS,True,True,692.0,False,True,40,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Thyroid Cancer,5,HRAS,True,True,138.0,False,True,23,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Thyroid Cancer,6,KRAS,True,True,4871.0,False,True,84,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Thyroid Cancer,7,TP53,True,True,1738.0,False,True,212,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Thyroid Cancer,8,EIF1AX,True,True,5.0,False,True,7,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Thyroid Cancer,9,PIK3CA,True,True,194.0,False,True,109,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC
+Thyroid Cancer,10,TSHR,True,True,5.0,False,True,2,False,True,0,False,False,False,False,has_papers_gene_is_certain_CGC

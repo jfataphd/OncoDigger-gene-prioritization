@@ -1,0 +1,445 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Thyroid Cancer,BRAF,22471241,random,braf,C,M,,symbol 'BRAF' present,14,mutational patterns and novel mutations of the braf gene in a large cohort of korean patients with papillary thyroid carcinoma,M
+Thyroid Cancer,BRAF,31085763,random,braf,C,M,,symbol 'BRAF' present,41,kras g12v mutation in acquired resistance to combined braf and mek inhibition in papillary thyroid cancer,M
+Thyroid Cancer,BRAF,26422023,random,braf,C,M,,symbol 'BRAF' present,44,histopathologic and clinical characterization of thyroid tumors carrying the braf k601e mutation,M
+Thyroid Cancer,BRAF,32561648,random,braf,C,M,,symbol 'BRAF' present,47,tert promoter mutation determines apoptotic and therapeutic responses of braf -mutant cancers to braf and mek inhibitors achilles heel,M
+Thyroid Cancer,BRAF,39548512,random,braf,C,M,,symbol 'BRAF' present,49,detection of genetic mutations in 855 cases of papillary thyroid carcinoma by next generation sequencing and its clinicopathological feature,M
+Thyroid Cancer,BRAF,17785355,random,braf,C,M,,symbol 'BRAF' present,74,association of braf v600e mutation with poor clinicopathological outcomes in 500 consecutive cases of papillary thyroid carcinoma,M
+Thyroid Cancer,BRAF,30200646,random,braf,C,M,,symbol 'BRAF' present,131,coexistence of tert promoter mutations and the braf v600e alteration and its impact on histopathological features of papillary thyroid carci,M
+Thyroid Cancer,BRAF,23585181,random,braf,C,M,,symbol 'BRAF' present,143,application of braf nras kras mutations as markers for the detection of papillary thyroid cancer from fnab specimens by pyrosequencing analy,M
+Thyroid Cancer,BRAF,19147753,random,braf,C,M,,symbol 'BRAF' present,151,high rate of braf and ret ptc dual mutations associated with recurrent papillary thyroid carcinoma,M
+Thyroid Cancer,BRAF,27528624,random,braf,C,M,,symbol 'BRAF' present,152,tert promoter mutations and long-term survival in patients with thyroid cancer,M
+Thyroid Cancer,BRAF,23161556,random,braf,C,M,,symbol 'BRAF' present,158,study of peripheral braf v600e mutation as a possible novel marker for papillary thyroid carcinomas,M
+Thyroid Cancer,BRAF,25244593,random,braf,C,M,,symbol 'BRAF' present,168,prognostic value of genetic mutations in thyroid cancer a meta-analysis,M
+Thyroid Cancer,BRAF,38735658,random,braf,C,M,,symbol 'BRAF' present,187,coexisting ret ptc and tert promoter mutation predict poor prognosis but effective ret and mek targeting in thyroid cancer,M
+Thyroid Cancer,BRAF,18426810,random,braf,C,M,target,symbol 'BRAF' present,222,characterization of a novel complex braf mutation in a follicular variant papillary thyroid carcinoma,M
+Thyroid Cancer,BRAF,19411838,random,braf,C,M,,symbol 'BRAF' present,250,mek1 mutations but not erk2 mutations occur in melanomas and colon carcinomas but none in thyroid carcinomas,M
+Thyroid Cancer,BRAF,15356022,random,braf,C,M,,symbol 'BRAF' present,290,low frequency of braft1796a mutations in childhood thyroid carcinomas,M
+Thyroid Cancer,BRAF,28537807,random,braf,C,M,,symbol 'BRAF' present,301,next-generation sequencing identifies gene mutations that are predictive of malignancy in residual needle rinses collected from fine-needle ,M
+Thyroid Cancer,BRAF,42240062,random,braf,C,M,,symbol 'BRAF' present,386,improving detection efficiency of fnac and braf v600e mutation in thyroid nodules using pipette mixing a retrospective study,M
+Thyroid Cancer,BRAF,16143028,random,braf,C,M,,symbol 'BRAF' present,415,mutations of the braf gene in papillary thyroid carcinoma and in hashimoto's thyroiditis,M
+Thyroid Cancer,BRAF,27875244,random,braf,C,M,,symbol 'BRAF' present,423,a six-genotype genetic prognostic model for papillary thyroid cancer,M
+Thyroid Cancer,BRAF,27936049,random,braf,C,M,,symbol 'BRAF' present,426,clinicopathological features and prognosis of papillary thyroid microcarcinoma for surgery and relationships with the brafv600e mutational s,M
+Thyroid Cancer,BRAF,32240105,random,braf,C,M,,symbol 'BRAF' present,433,immune gene signature delineates a subclass of thyroid cancer with unfavorable clinical outcomes,M
+Thyroid Cancer,BRAF,27350555,random,braf,C,M,,symbol 'BRAF' present,446,frequency of braf v600e mutations in 969 central nervous system neoplasms,M
+Thyroid Cancer,BRAF,26727717,random,braf,C,ML,,symbol 'BRAF' present,466,tert promoter mutations and tumor persistence recurrence in papillary thyroid cancer,ML
+Thyroid Cancer,BRAF,34742355,random,braf,C,M,,symbol 'BRAF' present,503,braf v600e mutation is associated with aggressive features in papillary thyroid carcinomas 1 5 cm,M
+Thyroid Cancer,BRAF,27833153,random,braf,C,M,,symbol 'BRAF' present,522,tert promoter mutation and its association with clinicopathological features and prognosis of papillary thyroid cancer a meta-analysis,M
+Thyroid Cancer,BRAF,27696251,random,braf,C,ML,,symbol 'BRAF' present,527,targeted next-generation sequencing for tp53 ras braf alk and nf1 mutations in anaplastic thyroid cancer,ML
+Thyroid Cancer,BRAF,17355635,random,braf,C,M,,symbol 'BRAF' present,637,effect of brafv600e mutation on transcription and post-transcriptional regulation in a papillary thyroid carcinoma model,M
+Thyroid Cancer,BRAF,23513230,random,braf,C,M,,symbol 'BRAF' present,642,diagnostic and prognostic value of immunocytochemistry and braf mutation analysis on liquid-based biopsies of thyroid neoplasms suspicious f,M
+Thyroid Cancer,BRAF,31585718,random,braf,C,M,,symbol 'BRAF' present,649,dual inhibition of braf and mek increases expression of sodium iodide symporter in patient-derived papillary thyroid cancer cells in vitro,M
+Thyroid Cancer,BRAF,36592623,random,braf,C,M,,symbol 'BRAF' present,674,thyroid fine needle aspiration the bethesda system and the brafv600e mutation in papillary thyroid carcinoma association and prediction for ,M
+Thyroid Cancer,BRAF,26125698,random,braf,C,M,,symbol 'BRAF' present,705,braf overexpression is associated with braf v600e mutation in papillary thyroid carcinomas,M
+Thyroid Cancer,BRAF,31229486,random,braf,C,M,,symbol 'BRAF' present,707,loss of nuclear localization of thyroid transcription factor 1 and adverse outcomes in papillary thyroid cancer,M
+Thyroid Cancer,BRAF,25404749,random,braf,C,M,,symbol 'BRAF' present,765,clinical implication of highly sensitive detection of the brafv600e mutation in fine-needle aspirations according to the thyroid bethesda sy,M
+Thyroid Cancer,BRAF,25712893,random,braf,C,M,,symbol 'BRAF' present,775,braf mutation is not predictive of long-term outcome in papillary thyroid carcinoma,M
+Thyroid Cancer,BRAF,31558473,random,braf,C,M,,symbol 'BRAF' present,814,analysis of biomarkers and association with clinical outcomes in patients with differentiated thyroid cancer subanalysis of the sorafenib ph,M
+Thyroid Cancer,BRAF,38060243,random,braf,C,M,,symbol 'BRAF' present,833,characterizing genetic alterations related to radioiodine avidity in metastatic thyroid cancer,M
+Thyroid Cancer,BRAF,30285776,random,braf,C,ML,,symbol 'BRAF' present,911,cell adhesion-related gene somatic mutations are enriched in aggressive papillary thyroid microcarcinomas,ML
+Thyroid Cancer,BRAF,21134548,random,braf,C,ML,,symbol 'BRAF' present,966,a prospective study evaluating the accuracy of using combined clinical factors and candidate diagnostic markers to refine the accuracy of th,ML
+Thyroid Cancer,BRAF,30265861,random,braf,C,M,,symbol 'BRAF' present,987,the transcription factor etv5 mediates brafv600e-induced proliferation and twist1 expression in papillary thyroid cancer cells,M
+Thyroid Cancer,TERT,33197629,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,27,spatial distribution patterns of clinically relevant tert promoter mutations in follicular thyroid tumors of uncertain malignant potential a,M
+Thyroid Cancer,TERT,39761124,random,tert,C,ML,,symbol 'TERT' present,37,high-grade follicular cell-derived non-anaplastic thyroid carcinoma correlating extent of invasion and mutation profile with oncologic outco,ML
+Thyroid Cancer,TERT,35950639,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,40,a significance of concomitant braf v600e and tert mutations in polish patients with papillary thyroid microcarcinoma a retrospective cohort ,M
+Thyroid Cancer,TERT,26667986,random,tert,C,M,,symbol 'TERT' present,46,tert promoter mutations are a major indicator of recurrence and death due to papillary thyroid carcinomas,M
+Thyroid Cancer,TERT,24141777,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,56,the age- and shorter telomere-dependent tert promoter mutation in follicular thyroid cell-derived carcinomas,M
+Thyroid Cancer,TERT,27064992,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,115,braf v600e and tert promoter mutations in papillary thyroid carcinoma in chinese patients,M
+Thyroid Cancer,TERT,31300059,random,tert,C,M,,symbol 'TERT' present,117,relevance and clinicopathologic relationship of braf v600e tert and nras mutations for papillary thyroid carcinoma patients in northwest chi,M
+Thyroid Cancer,TERT,40988283,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,133,prognostic significance of braf v600e and tert promoter mutations in radioiodine resistance and recurrence of differentiated thyroid cancer,M
+Thyroid Cancer,TERT,39682039,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,150,high prevalence of tbc1d12 5'utr mutations in anaplastic thyroid cancer,M
+Thyroid Cancer,TERT,33247684,random,tert,C,M,,symbol 'TERT' present,166,clinical utility of braf nras and tert promoter mutation in preoperative thyroid fine-needle aspiration biopsy a diagnostic study from dharm,M
+Thyroid Cancer,TERT,35501518,random,tert,C,M,,symbol 'TERT' present,176,the genetic duet of braf v600e and tert promoter mutations predicts the poor curative effect of radioiodine therapy in papillary thyroid can,M
+Thyroid Cancer,TERT,42475304,random,tert,C,M,,symbol 'TERT' present,177,association between autoimmune thyroiditis and brafv600e tert promoter mutations in patients with papillary thyroid carcinoma from central a,M
+Thyroid Cancer,TERT,32326836,random,tert,C,M,,symbol 'TERT' present,190,risk stratification using a novel genetic classifier including plekhs1 promoter mutations for differentiated thyroid cancer with distant met,M
+Thyroid Cancer,TERT,40608056,random,tert,C,M,,symbol 'TERT' present,207,dicer1 mutations in bethesda category ii iii and iv thyroid nodules a mutually exclusive relationship with braf v600e mutation,M
+Thyroid Cancer,TERT,30916166,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,208,preoperative detection of tert promoter and brafv600e mutations in papillary thyroid carcinoma in high-risk thyroid nodules,M
+Thyroid Cancer,TERT,37144982,random,tert,C,M,,symbol 'TERT' present,223,tert and braf v600e mutations in thyroid cancer of world trade center responders,M
+Thyroid Cancer,TERT,41135466,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,232,characterizing thyroid carcinomas in the elderly histological subtypes and tert promoter mutation analysis based on the latest who classific,M
+Thyroid Cancer,TERT,32594366,random,tert,C,M,,symbol 'TERT' present,242,identification of recurrent tert promoter mutations in intrathyroid thymic carcinomas,M
+Thyroid Cancer,TERT,42353802,random,tert,C,M,,symbol 'TERT' present,284,the correlation between the presence of braf v600e and tert promoter mutation and the response to treatment with iodine 131 in differentiate,M
+Thyroid Cancer,TERT,38961252,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,331,role of ultrasound in predicting telomerase reverse transcriptase tert promoter mutation in follicular thyroid carcinoma,M
+Thyroid Cancer,TERT,32816325,random,tert,C,M,,symbol 'TERT' present,344,the predictive value of coexisting brafv600e and tert promoter mutations on poor outcomes and high tumour aggressiveness in papillary thyroi,M
+Thyroid Cancer,TERT,39390090,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,349,tert promoter mutations contribute to adverse clinical outcomes and poor prognosis in radioiodine refractory differentiated thyroid cancer,M
+Thyroid Cancer,TERT,31077238,random,tert,C,M,,symbol 'TERT' present,362,mutation profiles of follicular thyroid tumors by targeted sequencing,M
+Thyroid Cancer,TERT,39479802,random,tert,C,M,,symbol 'TERT' present,374,association between gross features and coexistence of braf v600e and tert promoter mutations in papillary thyroid carcinomas a combined anal,M
+Thyroid Cancer,TERT,37574466,random,tert,C,M,,symbol 'TERT' present,534,dicer1 mutations do not always indicate dismal prognosis in pediatric poorly differentiated thyroid carcinomas,M
+Thyroid Cancer,TERT,23833040,random,tert,C,M,,symbol 'TERT' present,548,frequent somatic tert promoter mutations in thyroid cancer higher prevalence in advanced forms of the disease,M
+Thyroid Cancer,TERT,38552304,random,telomerase reverse transcriptase|tert,C,M,,symbol 'TERT' present,702,comparison of tert and 5-hydroxymethylcytocine immunohistochemistry in various thyroid carcinomas,M
+Thyroid Cancer,TERT,37805303,random,tert,C,M,,symbol 'TERT' present,724,molecular characteristics of isthmus papillary thyroid cancers supporting evidence for unfavorable clinical behavior,M
+Thyroid Cancer,TERT,32421817,random,tert,C,M,,symbol 'TERT' present,729,foundation one genomic interrogation of thyroid cancers in patients with metastatic disease requiring systemic therapy,M
+Thyroid Cancer,TERT,37879236,random,tert,C,M,,symbol 'TERT' present,746,clinical relevance of gene mutations and rearrangements in advanced differentiated thyroid cancer,M
+Thyroid Cancer,TERT,31937902,random,tert,C,I,,symbol 'TERT' present,795,poorly differentiated thyroid carcinoma of childhood and adolescence a distinct entity characterized by dicer1 mutations,I
+Thyroid Cancer,TERT,25584719,random,tert,C,M,,symbol 'TERT' present,803,association of tert promoter mutation 1 295 228 c t with braf v600e mutation older patient age and distant metastasis in anaplastic thyroid ,M
+Thyroid Cancer,TERT,32621051,random,tert,C,ML,,symbol 'TERT' present,821,molecular characterisation and clinical correlation of papillary thyroid microcarcinoma,ML
+Thyroid Cancer,TERT,40785448,random,tert,C,M,,symbol 'TERT' present,828,exploring the molecular features and clinicopathological correlations of diffuse sclerosing papillary thyroid carcinoma,M
+Thyroid Cancer,TERT,28864536,random,tert,C,M,,symbol 'TERT' present,842,changes in the clinicopathological characteristics and genetic alterations of follicular thyroid cancer,M
+Thyroid Cancer,TERT,36382481,random,tert,C,M,,symbol 'TERT' present,856,thyroid carcinoma metastases to central nervous system and vertebrae,M
+Thyroid Cancer,TERT,32853962,random,tert,C,M,,symbol 'TERT' present,870,primary squamous cell carcinoma of thyroid with a novel braf mutation and high pdl-1 expression a case report with treatment implications an,M
+Thyroid Cancer,TERT,41683917,random,tert,C,M,,symbol 'TERT' present,875,detection of tert promoter mutations in papillary thyroid carcinoma using droplet digital pcr and their association with aggressive tumor fe,M
+Thyroid Cancer,TERT,37465126,random,tert,C,M,,symbol 'TERT' present,880,mutational profiling of chinese patients with thyroid cancer,M
+Thyroid Cancer,TERT,38642578,random,tert,C,M,,symbol 'TERT' present,892,predictors of radioiodine rai -avidity restoration for ntrk fusion-positive rai-resistant metastatic thyroid cancers,M
+Thyroid Cancer,RET,24915144,random,ret,C,ML,,symbol 'RET' present,69,somatic mutations in 33 benign and malignant hot thyroid nodules in children and adolescents,ML
+Thyroid Cancer,RET,34313965,targeted,ret,C,G,,symbol 'RET' present,73,high prevalence of dicer1 mutations and low frequency of gene fusions in pediatric follicular-patterned tumors of the thyroid,G
+Thyroid Cancer,RET,41089282,targeted,ret,C,ML,,symbol 'RET' present,76,mutation interactions of braf and tp53 define novel prognostic stratification and therapeutic implications in papillary thyroid carcinoma,ML
+Thyroid Cancer,RET,26823860,random,ret,C,M,,symbol 'RET' present,90,association between braf and ras mutations and ret rearrangements and the clinical features of papillary thyroid cancer,M
+Thyroid Cancer,RET,22734615,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,106,clinical spectrum of men2a in a large family caused by the infrequent ret mutation cys609phe,M
+Thyroid Cancer,RET,31230400,random,ret,C,G,,symbol 'RET' present,119,mutational profiling of poorly differentiated and anaplastic thyroid carcinoma by the use of targeted next-generation sequencing,G
+Thyroid Cancer,RET,32702947,random,ret,C,M,,symbol 'RET' present,121,vandetanib in a child affected by neurofibromatosis type 1 and medullary thyroid carcinoma with both nf1 and homozygous ret proto-oncogen ge,M
+Thyroid Cancer,RET,39409115,targeted,ret,C,G,,symbol 'RET' present,128,descriptive analysis of common fusion mutations in papillary thyroid carcinoma in hungary,G
+Thyroid Cancer,RET,16419493,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,170,exon 5 of the ret proto-oncogene a newly detected risk exon for familial medullary thyroid carcinoma a novel germ-line mutation gly321arg,M
+Thyroid Cancer,RET,15273715,random+targeted,ret,C,M,,symbol 'RET' present,191,alternative mutations of braf ret and ntrk1 are associated with similar but distinct gene expression patterns in papillary thyroid cancer,M
+Thyroid Cancer,RET,16181240,random,ret,C,M,,symbol 'RET' present,236,no correlation between brafv600e mutation and clinicopathological features of papillary thyroid carcinomas in taiwan,M
+Thyroid Cancer,RET,15741265,random,ret,C,M,,symbol 'RET' present,237,germline homozygous mutations at codon 804 in the ret protooncogene in medullary thyroid carcinoma multiple endocrine neoplasia type 2a pati,M
+Thyroid Cancer,RET,24702198,random,ret,C,M,,symbol 'RET' present,239,familial adenomatous polyposis-associated cribriform morular variant of papillary thyroid carcinoma harboring a k-ras mutation case presenta,M
+Thyroid Cancer,RET,21186952,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,251,multiple endocrine neoplasia type 2b with a ret proto-oncogene a883f mutation displays a more indolent form of medullary thyroid carcinoma c,M
+Thyroid Cancer,RET,34680178,random,ret|ret51,C,M,,symbol 'RET' present,257,higher ret gene expression levels do not represent analternative ret activation mechanism in medullary thyroid carcinoma,M
+Thyroid Cancer,RET,22136825,targeted,ret,C,I,,symbol 'RET' present,279,risk stratification of indeterminate thyroid fine-needle aspiration biopsy specimens based on mutation analysis,I
+Thyroid Cancer,RET,17623957,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,323,germline ret mutations in exons 10 and 11 an iranian survey of 57 medullary thyroid carcinoma cases,M
+Thyroid Cancer,RET,25163725,random,ret,C,M,,symbol 'RET' present,339,mtor activation in medullary thyroid carcinoma with ras mutation,M
+Thyroid Cancer,RET,18381570,random,ret,C,M,,symbol 'RET' present,351,brafv600e mutation is associated with preferential sensitivity to mitogen-activated protein kinase kinase inhibition in thyroid cancer cell ,M
+Thyroid Cancer,RET,15320968,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,377,frequency of ret proto-oncogene mutations in patients with normal and with moderately elevated pentagastrin-stimulated serum concentrations ,M
+Thyroid Cancer,RET,30620446,targeted,ret,C,ML,,symbol 'RET' present,378,centrifuged supernatants from fna provide a liquid biopsy option for clinical next-generation sequencing of thyroid nodules,ML
+Thyroid Cancer,RET,15735849,random,ret,C,M,,symbol 'RET' present,393,ret ptc and braf act as distinct molecular time-dependant triggers in a sporadic irish cohort of papillary thyroid carcinoma,M
+Thyroid Cancer,RET,24361808,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,395,patient affected by neurofibromatosis type 1 and thyroid c-cell hyperplasia harboring pathogenic germ-line mutations in both nf1 and ret gen,M
+Thyroid Cancer,RET,19487299,targeted,ret,C,ML,,symbol 'RET' present,398,mutational profile of advanced primary and metastatic radioactive iodine-refractory thyroid cancers reveals distinct pathogenetic roles for ,ML
+Thyroid Cancer,RET,17372903,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,400,c620r mutation of the murine ret proto-oncogene loss of function effect in homozygotes and possible gain of function effect in heterozygotes,M
+Thyroid Cancer,RET,16487015,targeted,ret,C,P,,symbol 'RET' present,436,low frequency of braf mutations in adult patients with papillary thyroid cancers following childhood radiation exposure,P
+Thyroid Cancer,RET,26837867,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,477,germline ret mutation carriers in japanese patients with apparently sporadic medullary thyroid carcinoma a single institution experience,M
+Thyroid Cancer,RET,38170436,targeted,ret,C,M,,symbol 'RET' present,478,tirosec molecular clinical and histopathological profile of papillary thyroid carcinoma in a colombian cohort,M
+Thyroid Cancer,RET,32196952,targeted,ret,C,I,,symbol 'RET' present,515,mirna expression can classify pediatric thyroid lesions and increases the diagnostic yield of mutation testing,I
+Thyroid Cancer,RET,40235071,targeted,ret,C,ML,,symbol 'RET' present,542,multigene detection analysis of multifocal papillary thyroid carcinoma,ML
+Thyroid Cancer,RET,38339173,random,ret,C,M,,symbol 'RET' present,546,the pathogenic ret val804met variant in acromegaly a new clinical phenotype,M
+Thyroid Cancer,RET,41543354,targeted,ret,C,G,,symbol 'RET' present,557,molecular profiling and real-world outcomes of braf v600e-mutated papillary thyroid cancer,G
+Thyroid Cancer,RET,10826520,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,565,a ret double mutation in the germline of a kindred with fmtc,M
+Thyroid Cancer,RET,16343103,random,ret,C,M,,symbol 'RET' present,568,multiple endocrine neoplasia 2a due to a unique c609s ret mutation presents with pheochromocytoma and reduced penetrance of medullary thyroi,M
+Thyroid Cancer,RET,28507274,targeted,ret,C,G,,symbol 'RET' present,575,targeted next generation sequencing identifies somatic mutations and gene fusions in papillary thyroid carcinoma,G
+Thyroid Cancer,RET,18248647,random,ret,C,M,,symbol 'RET' present,579,the y606c ret mutation causes a receptor gain of function,M
+Thyroid Cancer,RET,18322301,random,ret,C,M,,symbol 'RET' present,586,characterization of the ret protooncogene transmembrane domain mutation s649l associated with nonaggressive medullary thyroid carcinoma,M
+Thyroid Cancer,RET,22156466,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,589,the relationship of cytomorphology of medullary thyroid carcinomas between family members with the same ret proto-oncogene mutation,M
+Thyroid Cancer,RET,30884088,random,ret,C,M,,symbol 'RET' present,614,mice conditionally expressing ret c618f mutation display c cell hyperplasia and hyperganglionosis of the enteric nervous system,M
+Thyroid Cancer,RET,31364476,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,620,ret s409y germline mutation and associated medullary thyroid carcinoma,M
+Thyroid Cancer,RET,21798995,random,ret,C,I,,symbol 'RET' present,681,gene expression profile of human thyroid cancer in relation to its mutational status,I
+Thyroid Cancer,RET,33827048,targeted,ret,C,I,,symbol 'RET' present,696,pan-genomic characterization of high-risk pediatric papillary thyroid carcinoma,I
+Thyroid Cancer,RET,12205548,random,ret,C,M,,symbol 'RET' present,736,surgical strategy in a kindred with a rare ret protooncogene mutation of variable penetrance with regard to multiple endocrine neoplasia,M
+Thyroid Cancer,RET,24357249,random,ret,C,M,,symbol 'RET' present,750,role of preoperative basal calcitonin levels in the timing of prophylactic thyroidectomy in patients with germline ret mutations,M
+Thyroid Cancer,RET,22431868,random,ret,C,I,,symbol 'RET' present,771,follicular variant of papillary thyroid cancer encapsulated nonencapsulated and diffuse distinct biologic and clinical entities,I
+Thyroid Cancer,RET,38763089,targeted,ret,C,I,,symbol 'RET' present,812,uncommon molecular alterations in follicular-derived thyroid carcinoma a single institution study,I
+Thyroid Cancer,RET,32621051,random,ret,C,G,,symbol 'RET' present,821,molecular characterisation and clinical correlation of papillary thyroid microcarcinoma,G
+Thyroid Cancer,RET,36709221,targeted,ret,C,M,,symbol 'RET' present,829,the presence of typical brafv600e-like atypia in papillary thyroid carcinoma is highly specific for the presence of the brafv600e mutation,M
+Thyroid Cancer,RET,36382481,targeted,ret,C,ML,,symbol 'RET' present,856,thyroid carcinoma metastases to central nervous system and vertebrae,ML
+Thyroid Cancer,RET,12534735,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,859,temporal trends and clinical correlates for the ret ptc1 mutation in papillary thyroid carcinoma,M
+Thyroid Cancer,RET,22549934,random,ret,C,W,,symbol 'RET' present,868,mtor pathway overactivation in braf mutated papillary thyroid carcinoma,W
+Thyroid Cancer,RET,15240649,random,ret,C,M,,symbol 'RET' present,890,ret exon 11 g691s polymorphism is significantly more frequent in sporadic medullary thyroid carcinoma than in the general population,M
+Thyroid Cancer,RET,38642578,random,ret,C,G,,symbol 'RET' present,892,predictors of radioiodine rai -avidity restoration for ntrk fusion-positive rai-resistant metastatic thyroid cancers,G
+Thyroid Cancer,RET,19380355,random,ret,C,M,,symbol 'RET' present,912,inhibition of the growth of papillary thyroid carcinoma cells by ci-1040,M
+Thyroid Cancer,RET,20739875,random,ret,C,M,,symbol 'RET' present,964,coincidence of multiple endocrine neoplasia type 2a with acromegaly,M
+Thyroid Cancer,RET,22584703,random,ret|ret proto oncogene,C,M,,symbol 'RET' present,985,ret codon 609 mutations a contribution for better clinical managing,M
+Thyroid Cancer,NRAS,22650231,random,nras,C,M,,symbol 'NRAS' present,1,the associations between ras mutations and clinical characteristics in follicular thyroid tumors new insights from a single center and a lar,M
+Thyroid Cancer,NRAS,34510770,random+targeted,n ras,C,M,,credited via alias n ras,19,association of bethesda category and molecular mutation in patients undergoing thyroidectomy,M
+Thyroid Cancer,NRAS,34313965,random,nras,C,ML,,symbol 'NRAS' present,73,high prevalence of dicer1 mutations and low frequency of gene fusions in pediatric follicular-patterned tumors of the thyroid,ML
+Thyroid Cancer,NRAS,24862939,random,nras,C,ML,,symbol 'NRAS' present,107,mutation profile of differentiated thyroid tumours in an australian urban population,ML
+Thyroid Cancer,NRAS,29439609,random,nras,C,M,,symbol 'NRAS' present,108,braf and ras mutational status in noninvasive follicular thyroid neoplasm with papillary-like nuclear features and invasive subtype of encap,M
+Thyroid Cancer,NRAS,28680105,random,nras,C,M,,symbol 'NRAS' present,113,braf and nras mutations in papillary thyroid carcinoma and concordance in braf mutations between primary and corresponding lymph node metast,M
+Thyroid Cancer,NRAS,25931041,random+targeted,n ras,C,M,,credited via alias n ras,122,the prevalence of somatic ras mutations in medullary thyroid cancer - a polish population study,M
+Thyroid Cancer,NRAS,23585181,random,nras,C,M,,symbol 'NRAS' present,143,application of braf nras kras mutations as markers for the detection of papillary thyroid cancer from fnab specimens by pyrosequencing analy,M
+Thyroid Cancer,NRAS,24898513,random,nras,C,M,,symbol 'NRAS' present,144,tert promoter mutation as an early genetic event activating telomerase in follicular thyroid adenoma fta and atypical fta,M
+Thyroid Cancer,NRAS,40748901,random,nras,C,I,,symbol 'NRAS' present,178,prevalence and diagnostic reliability of braf ras mutations and ret ptc rearrangements in a latin american public health service population ,I
+Thyroid Cancer,NRAS,23240926,targeted,n ras,C,M,,credited via alias n ras,179,evidence of a low prevalence of ras mutations in a large medullary thyroid cancer series,M
+Thyroid Cancer,NRAS,26166089,random+targeted,n ras,C,M,,credited via alias n ras,227,ras mutations in aus flus cytology does it have an additional role in brafv600e mutation-negative nodules,M
+Thyroid Cancer,NRAS,41784850,random,nras,C,M,,symbol 'NRAS' present,266,impact of co-mutations and genetic variations on malignancy risk in ras-positive indeterminate thyroid nodules an institutional experience,M
+Thyroid Cancer,NRAS,23934677,random+targeted,n ras,C,M,,credited via alias n ras,316,functional significance of the novel h-ras gene mutation m72i in a patient with medullary thyroid cancer,M
+Thyroid Cancer,NRAS,10691309,targeted,n ras,C,M,,credited via alias n ras,332,n-ras mutation in poorly differentiated thyroid carcinomas correlation with bone metastases and inverse correlation to thyroglobulin express,M
+Thyroid Cancer,NRAS,37983279,targeted,n ras,C,ML,,credited via alias n ras,336,fine-needle biopsy of thyroid nodules and the contribution of molecular analysis of braf and ras mutations,ML
+Thyroid Cancer,NRAS,11531932,targeted,n ras,C,M,,credited via alias n ras,340,ras mutations are rare in solitary cold and toxic thyroid nodules,M
+Thyroid Cancer,NRAS,31077238,targeted,n ras,C,M,,credited via alias n ras,362,mutation profiles of follicular thyroid tumors by targeted sequencing,M
+Thyroid Cancer,NRAS,11344494,targeted,n ras,C,M,,credited via alias n ras,405,absence of activating mutations in ras and gsp oncogenes in a cohort of nine patients with sporadic pediatric thyroid tumors,M
+Thyroid Cancer,NRAS,32743766,random,nras,C,M,,symbol 'NRAS' present,416,malignant struma ovarii next-generation sequencing of six cases revealed nras braf and jak3 mutations,M
+Thyroid Cancer,NRAS,10674266,targeted,n ras,C,M,,credited via alias n ras,432,role of ras mutation in the progression of thyroid carcinoma of follicular epithelial origin,M
+Thyroid Cancer,NRAS,31545405,random,nras,C,M,,symbol 'NRAS' present,435,sorafenib inhibits vascular endothelial cell proliferation stimulated by anaplastic thyroid cancer cells regardless of braf mutation status,M
+Thyroid Cancer,NRAS,19837916,random,nras,C,ML,,symbol 'NRAS' present,475,ras mutations are the predominant molecular alteration in poorly differentiated thyroid carcinomas and bear prognostic impact,ML
+Thyroid Cancer,NRAS,38170436,random,nras,C,M,,symbol 'NRAS' present,478,tirosec molecular clinical and histopathological profile of papillary thyroid carcinoma in a colombian cohort,M
+Thyroid Cancer,NRAS,12727991,targeted,n ras,C,I,,credited via alias n ras,488,ras point mutations and pax8-ppar gamma rearrangement in thyroid tumors evidence for distinct molecular pathways in thyroid follicular carci,I
+Thyroid Cancer,NRAS,41578760,targeted,n ras,C,M,,credited via alias n ras,516,summary and analysis of molecular biological changes pd-l1 immune status and clinicopathological features of 78 cases of papillary thyroid c,M
+Thyroid Cancer,NRAS,25999051,targeted,n ras,C,M,,credited via alias n ras,523,analysis of ras mutation and pax8 ppar rearrangements in follicular-derived thyroid neoplasms in a korean population frequency and ultrasoun,M
+Thyroid Cancer,NRAS,27696251,random,nras,C,I,,symbol 'NRAS' present,527,targeted next-generation sequencing for tp53 ras braf alk and nf1 mutations in anaplastic thyroid cancer,I
+Thyroid Cancer,NRAS,25751324,random,nras,C,P,,symbol 'NRAS' present,539,identification of unique heterozygous germline mutation stk11 p f354l in a child with an encapsulated follicular variant of papillary thyroi,P
+Thyroid Cancer,NRAS,31013001,random,nras,C,ML,,symbol 'NRAS' present,552,clinical impact of testing for mutations and micrornas in thyroid nodules,ML
+Thyroid Cancer,NRAS,26695504,random,nras,C,ML,,symbol 'NRAS' present,554,molecular imaging with 99m tc-mibi and molecular testing for mutations in differentiating benign from malignant follicular neoplasm a prospe,ML
+Thyroid Cancer,NRAS,17943694,targeted,n ras,C,I,,credited via alias n ras,556,prevalence of ras point mutations in papillary thyroid carcinoma a novel mutation at codon 31 of k-ras,I
+Thyroid Cancer,NRAS,16784981,targeted,n ras,C,M,,credited via alias n ras,567,molecular genetic study comparing follicular variant versus classic papillary thyroid carcinomas association of n-ras mutation in codon 61 w,M
+Thyroid Cancer,NRAS,18070147,random+targeted,n ras,C,M,,credited via alias n ras,597,braf mutation associated with other genetic events identifies a subset of aggressive papillary thyroid carcinoma,M
+Thyroid Cancer,NRAS,21325462,targeted,n ras,C,M,,credited via alias n ras,602,high prevalence of ras mutations in ret-negative sporadic medullary thyroid carcinomas,M
+Thyroid Cancer,NRAS,26338373,random,nras,C,M,,symbol 'NRAS' present,641,braf v600e and decreased nis and tpo expression are associated with aggressiveness of a subgroup of papillary thyroid microcarcinoma,M
+Thyroid Cancer,NRAS,12788883,targeted,n ras,C,M,,credited via alias n ras,647,specific pattern of ras oncogene mutations in follicular thyroid tumors,M
+Thyroid Cancer,NRAS,15320975,targeted,n ras,C,M,,credited via alias n ras,655,selective occurrence of ras mutations in benign and malignant thyroid follicular neoplasms in taiwan,M
+Thyroid Cancer,NRAS,32265839,random,nras,C,M,,symbol 'NRAS' present,672,amplicon-based ngs panels for actionable cancer target identification in follicular cell-derived thyroid neoplasia,M
+Thyroid Cancer,NRAS,21796448,targeted,n ras,C,P,,credited via alias n ras,673,the preeminence of growth pattern and invasiveness and the limited influence of braf and ras mutations in the occurrence of papillary thyroi,P
+Thyroid Cancer,NRAS,31228933,random,nras,C,M,,symbol 'NRAS' present,676,constitutive expression of nras with q61r driver mutation activates processes of epithelial-mesenchymal transition and leads to substantial ,M
+Thyroid Cancer,NRAS,12947056,targeted,n ras,C,M,,credited via alias n ras,700,ras mutations are associated with aggressive tumor phenotypes and poor prognosis in thyroid cancer,M
+Thyroid Cancer,NRAS,30052723,random,nras,C,ML,,symbol 'NRAS' present,714,does noninvasive follicular thyroid neoplasm with papillary-like nuclear features niftp have a unique molecular profile,ML
+Thyroid Cancer,NRAS,29726952,random,nras,C,W,,symbol 'NRAS' present,756,comprehensive genetic analysis of follicular thyroid carcinoma predicts prognosis independent of histology,W
+Thyroid Cancer,NRAS,16896265,random+targeted,n ras,C,ML,,credited via alias n ras,758,no evidence of araf craf and met mutations in braft1799a negative human papillary thyroid carcinoma,ML
+Thyroid Cancer,NRAS,22431868,targeted,n ras,C,I,,credited via alias n ras,771,follicular variant of papillary thyroid cancer encapsulated nonencapsulated and diffuse distinct biologic and clinical entities,I
+Thyroid Cancer,NRAS,40887557,random,nras,C,ML,,symbol 'NRAS' present,798,progression of follicular thyroid carcinomas to anaplastic thyroid carcinomas molecular and clinicopathologic characteristics with compariso,ML
+Thyroid Cancer,NRAS,34972706,random,nras,C,ML,,symbol 'NRAS' present,801,genomic profiling of aggressive thyroid cancer in association with its clinicopathological characteristics,ML
+Thyroid Cancer,NRAS,35397361,random,nras,C,ML,,symbol 'NRAS' present,809,mutational analysis using next generation sequencing in pediatric thyroid cancer reveals braf and fusion oncogenes are common,ML
+Thyroid Cancer,NRAS,29968046,random,nras,C,M,,symbol 'NRAS' present,810,the role of eif1ax in thyroid cancer tumourigenesis and progression,M
+Thyroid Cancer,NRAS,32621051,random,nras,C,M,,symbol 'NRAS' present,821,molecular characterisation and clinical correlation of papillary thyroid microcarcinoma,M
+Thyroid Cancer,NRAS,39397516,random,nras,C,I,,symbol 'NRAS' present,858,small multi-gene dna panel can aid in reducing the surgical resection rate and predicting the malignancy risk of thyroid nodules,I
+Thyroid Cancer,NRAS,35246262,random,nras,C,ML,,symbol 'NRAS' present,886,mutational status may supersede tumor size in predicting the presence of aggressive pathologic features in well differentiated thyroid cance,ML
+Thyroid Cancer,NRAS,27849443,random,nras,C,ML,,symbol 'NRAS' present,888,fusion oncogenes are the main genetic events found in sporadic papillary thyroid carcinomas from children,ML
+Thyroid Cancer,NRAS,21543427,targeted,n ras,C,ML,,credited via alias n ras,909,mammalian target of rapamycin pathway activation is associated to ret mutation status in medullary thyroid carcinoma,ML
+Thyroid Cancer,NRAS,18310288,random+targeted,n ras,C,M,,credited via alias n ras,917,familial non-medullary thyroid carcinoma fnmtc analysis of fptc prn nmtc1 mng1 and tco susceptibility loci and identification of somatic bra,M
+Thyroid Cancer,NRAS,27264674,random,nras,C,ML,,symbol 'NRAS' present,934,genetic alterations of differentiated thyroid carcinoma in iodine-rich and iodine-deficient countries,ML
+Thyroid Cancer,NRAS,32393293,random,nras,C,ML,,symbol 'NRAS' present,953,genomic characterization of high-recurrence risk papillary thyroid carcinoma in a southern chinese population,ML
+Thyroid Cancer,NRAS,18000091,random+targeted,n ras,C,M,,credited via alias n ras,999,clinicopathological analysis of papillary thyroid cancer with pik3ca alterations in a middle eastern population,M
+Thyroid Cancer,HRAS,16007166,random,hras,C,ML,,symbol 'HRAS' present,32,molecular classification of papillary thyroid carcinoma distinct braf ras and ret ptc mutation-specific gene expression profiles discovered ,ML
+Thyroid Cancer,HRAS,27635947,random,hras,C,M,,symbol 'HRAS' present,95,nrasq61r mutation-specific immunohistochemistry also identifies the hrasq61r mutation in medullary thyroid cancer and may have a role in tri,M
+Thyroid Cancer,HRAS,25132659,random,hras,C,M,,symbol 'HRAS' present,103,thyroid nodules with kras mutations are different from nodules with nras and hras mutations with regard to cytopathologic and histopathologi,M
+Thyroid Cancer,HRAS,24862939,random,hras,C,M,,symbol 'HRAS' present,107,mutation profile of differentiated thyroid tumours in an australian urban population,M
+Thyroid Cancer,HRAS,27824297,random,hras,C,ML,,symbol 'HRAS' present,110,single point mutations in pediatric differentiated thyroid cancer,ML
+Thyroid Cancer,HRAS,36744987,random,hras,C,G,,symbol 'HRAS' present,114,detection of driver mutations in plasma cell-free nucleic acids in differentiated thyroid neoplasm,G
+Thyroid Cancer,HRAS,25109485,random,hras,C,M,,symbol 'HRAS' present,141,ras mutations in indeterminate thyroid nodules are predictive of the follicular variant of papillary thyroid carcinoma,M
+Thyroid Cancer,HRAS,23625203,random,hras,C,ML,,symbol 'HRAS' present,184,braf and ras mutations in follicular variants of papillary thyroid carcinoma,ML
+Thyroid Cancer,HRAS,29669480,random,hras,C,M,,symbol 'HRAS' present,244,tert hras and eif1ax mutations in a patient with follicular adenoma,M
+Thyroid Cancer,HRAS,24828033,random,hras,C,ML,,symbol 'HRAS' present,259,high-throughput mutation profiling improves diagnostic stratification of sporadic medullary thyroid carcinomas,ML
+Thyroid Cancer,HRAS,41494277,random,hras,C,ML,,symbol 'HRAS' present,289,decoding the mutational hierarchy of thyroid cancer and associated signaling pathways,ML
+Thyroid Cancer,HRAS,24222113,random,hras,C,M,,symbol 'HRAS' present,324,comprehensive survey of hras kras and nras mutations in proliferative thyroid lesions from an ethnically diverse population,M
+Thyroid Cancer,HRAS,24798740,random,hras,C,ML,,symbol 'HRAS' present,361,concomitant ras ret ptc or braf mutations in advanced stage of papillary thyroid carcinoma,ML
+Thyroid Cancer,HRAS,23837487,random,hras,C,ML,,symbol 'HRAS' present,388,impact of molecular screening for point mutations and rearrangements in routine air-dried fine-needle aspiration samples of thyroid nodules,ML
+Thyroid Cancer,HRAS,41678466,random,hras,C,I,,symbol 'HRAS' present,399,influence of the tumor microenvironment on genetic mutations in thyroid carcinoma,I
+Thyroid Cancer,HRAS,28062544,random,hras,C,I,,symbol 'HRAS' present,404,somatic mutation profiling of hobnail variant of papillary thyroid carcinoma,I
+Thyroid Cancer,HRAS,22865907,random,hras,C,I,,symbol 'HRAS' present,491,somatic ras mutations occur in a large proportion of sporadic ret-negative medullary thyroid carcinomas and extend to a previously unidentif,I
+Thyroid Cancer,HRAS,27696251,random,hras,C,I,,symbol 'HRAS' present,527,targeted next-generation sequencing for tp53 ras braf alk and nf1 mutations in anaplastic thyroid cancer,I
+Thyroid Cancer,HRAS,25751324,random,hras,C,ML,,symbol 'HRAS' present,539,identification of unique heterozygous germline mutation stk11 p f354l in a child with an encapsulated follicular variant of papillary thyroi,ML
+Thyroid Cancer,HRAS,41549926,random,hras,C,I,,symbol 'HRAS' present,549,molecular profiling of sporadic medullary thyroid carcinomas - a next-generation sequencing-based study,I
+Thyroid Cancer,HRAS,40440572,random,hras,C,I,,symbol 'HRAS' present,551,genomic characterization of papillary thyroid cancer reveals germline mutations associated with congenital hypothyroidism,I
+Thyroid Cancer,HRAS,31013001,random,hras,C,ML,,symbol 'HRAS' present,552,clinical impact of testing for mutations and micrornas in thyroid nodules,ML
+Thyroid Cancer,HRAS,41543354,random,hras,C,ML,,symbol 'HRAS' present,557,molecular profiling and real-world outcomes of braf v600e-mutated papillary thyroid cancer,ML
+Thyroid Cancer,HRAS,31623671,random,hras,C,G,,symbol 'HRAS' present,610,molecular mutations as a possible factor for determining extent of thyroid surgery,G
+Thyroid Cancer,HRAS,28114855,random,hras,C,M,,symbol 'HRAS' present,648,noninvasive follicular thyroid neoplasm with papillary-like nuclear features accounts for more than half of carcinomas harboring ras mutatio,M
+Thyroid Cancer,HRAS,31585718,random,hras,C,M,,symbol 'HRAS' present,649,dual inhibition of braf and mek increases expression of sodium iodide symporter in patient-derived papillary thyroid cancer cells in vitro,M
+Thyroid Cancer,HRAS,23477374,random,hras,C,M,,symbol 'HRAS' present,662,molecular alterations in partially-encapsulated or well-circumscribed follicular variant of papillary thyroid carcinoma,M
+Thyroid Cancer,HRAS,38754058,random,hras,C,I,,symbol 'HRAS' present,668,ret alterations differentiate molecular profile of medullary thyroid cancer,I
+Thyroid Cancer,HRAS,29723601,random,hras,C,ML,,symbol 'HRAS' present,686,clinical utility of ezh1 mutations in the diagnosis of follicular-patterned thyroid tumors,ML
+Thyroid Cancer,HRAS,30052723,random,hras,C,ML,,symbol 'HRAS' present,714,does noninvasive follicular thyroid neoplasm with papillary-like nuclear features niftp have a unique molecular profile,ML
+Thyroid Cancer,HRAS,26971368,random,hras,C,ML,,symbol 'HRAS' present,734,highly concordant key genetic alterations in primary tumors and matched distant metastases in differentiated thyroid cancer,ML
+Thyroid Cancer,HRAS,29726952,random,hras,C,ML,,symbol 'HRAS' present,756,comprehensive genetic analysis of follicular thyroid carcinoma predicts prognosis independent of histology,ML
+Thyroid Cancer,HRAS,40887557,random,hras,C,ML,,symbol 'HRAS' present,798,progression of follicular thyroid carcinomas to anaplastic thyroid carcinomas molecular and clinicopathologic characteristics with compariso,ML
+Thyroid Cancer,HRAS,23797723,random,hras,C,ML,,symbol 'HRAS' present,807,molecular and histopathologic characteristics of multifocal papillary thyroid carcinoma,ML
+Thyroid Cancer,HRAS,39397516,random,hras,C,I,,symbol 'HRAS' present,858,small multi-gene dna panel can aid in reducing the surgical resection rate and predicting the malignancy risk of thyroid nodules,I
+Thyroid Cancer,HRAS,23264394,random,hras,C,M,,symbol 'HRAS' present,869,exomic sequencing of medullary thyroid cancer reveals dominant and mutually exclusive oncogenic mutations in ret and ras,M
+Thyroid Cancer,HRAS,35246262,random,hras,C,ML,,symbol 'HRAS' present,886,mutational status may supersede tumor size in predicting the presence of aggressive pathologic features in well differentiated thyroid cance,ML
+Thyroid Cancer,HRAS,29396809,random,hras,C,M,,symbol 'HRAS' present,932,molecular testing of nodules with a suspicious or malignant cytologic diagnosis in the setting of non-invasive follicular thyroid neoplasm w,M
+Thyroid Cancer,HRAS,27264674,random,hras,C,ML,,symbol 'HRAS' present,934,genetic alterations of differentiated thyroid carcinoma in iodine-rich and iodine-deficient countries,ML
+Thyroid Cancer,HRAS,32393293,random,hras,C,ML,,symbol 'HRAS' present,953,genomic characterization of high-recurrence risk papillary thyroid carcinoma in a southern chinese population,ML
+Thyroid Cancer,KRAS,22650231,random,kras,C,I,,symbol 'KRAS' present,1,the associations between ras mutations and clinical characteristics in follicular thyroid tumors new insights from a single center and a lar,I
+Thyroid Cancer,KRAS,16007166,random,kras,C,ML,,symbol 'KRAS' present,32,molecular classification of papillary thyroid carcinoma distinct braf ras and ret ptc mutation-specific gene expression profiles discovered ,ML
+Thyroid Cancer,KRAS,31085763,random,kras,C,M,,symbol 'KRAS' present,41,kras g12v mutation in acquired resistance to combined braf and mek inhibition in papillary thyroid cancer,M
+Thyroid Cancer,KRAS,22199277,random,kras,C,ML,,symbol 'KRAS' present,64,mutational screening of ret hras kras nras braf akt1 and ctnnb1 in medullary thyroid carcinoma,ML
+Thyroid Cancer,KRAS,30036146,random,kras,C,M,,symbol 'KRAS' present,98,unusually long-term responses to vemurafenib in braf v600e mutated colon and thyroid cancers followed by the development of rare ras activat,M
+Thyroid Cancer,KRAS,25132659,random,kras,C,M,,symbol 'KRAS' present,103,thyroid nodules with kras mutations are different from nodules with nras and hras mutations with regard to cytopathologic and histopathologi,M
+Thyroid Cancer,KRAS,29439609,random,kras,C,ML,,symbol 'KRAS' present,108,braf and ras mutational status in noninvasive follicular thyroid neoplasm with papillary-like nuclear features and invasive subtype of encap,ML
+Thyroid Cancer,KRAS,26980298,random,kras,C,ML,,symbol 'KRAS' present,136,genomic alterations of anaplastic thyroid carcinoma detected by targeted massive parallel sequencing in a braf v600e mutation-prevalent area,ML
+Thyroid Cancer,KRAS,39420942,random,kras,C,ML,,symbol 'KRAS' present,165,follicular cell-derived thyroid carcinomas harboring novel genetic braf non-v600e mutations real-world data obtained using a multigene panel,ML
+Thyroid Cancer,KRAS,40748901,random,kras,C,I,,symbol 'KRAS' present,178,prevalence and diagnostic reliability of braf ras mutations and ret ptc rearrangements in a latin american public health service population ,I
+Thyroid Cancer,KRAS,14508525,random,kras,C,ML,,symbol 'KRAS' present,310,braf mutations in papillary carcinomas of the thyroid,ML
+Thyroid Cancer,KRAS,36493736,random,kras,C,M,target,symbol 'KRAS' present,312,identification of potential inhibitor targeting kras mutation in papillary thyroid carcinoma through molecular docking and dynamic simulatio,M
+Thyroid Cancer,KRAS,24222113,random,kras,C,M,,symbol 'KRAS' present,324,comprehensive survey of hras kras and nras mutations in proliferative thyroid lesions from an ethnically diverse population,M
+Thyroid Cancer,KRAS,27863786,random,kras,C,I,,symbol 'KRAS' present,325,preoperative detection of ras mutation may guide extent of thyroidectomy,I
+Thyroid Cancer,KRAS,23590130,random,kras,C,ML,,symbol 'KRAS' present,342,molecular genotyping of follicular variant of papillary thyroid carcinoma correlates with diagnostic category of fine-needle aspiration cyto,ML
+Thyroid Cancer,KRAS,18381570,random,kras,C,I,,symbol 'KRAS' present,351,brafv600e mutation is associated with preferential sensitivity to mitogen-activated protein kinase kinase inhibition in thyroid cancer cell ,I
+Thyroid Cancer,KRAS,19487299,random,kras,C,ML,,symbol 'KRAS' present,398,mutational profile of advanced primary and metastatic radioactive iodine-refractory thyroid cancers reveals distinct pathogenetic roles for ,ML
+Thyroid Cancer,KRAS,33222100,random,kras,C,M,,symbol 'KRAS' present,401,the mutation profile of differentiated thyroid cancer coexisting with undifferentiated anaplastic cancer resembles that of anaplastic thyroi,M
+Thyroid Cancer,KRAS,22865907,random,kras,C,I,,symbol 'KRAS' present,491,somatic ras mutations occur in a large proportion of sporadic ret-negative medullary thyroid carcinomas and extend to a previously unidentif,I
+Thyroid Cancer,KRAS,25588542,random,kras,C,M,,symbol 'KRAS' present,494,anaplastic thyroid cancer outcome and the mutation expression profiles of potential targets,M
+Thyroid Cancer,KRAS,24866065,random,kras,C,M,,symbol 'KRAS' present,536,detection of ras mutation by pyrosequencing in thyroid cytology samples,M
+Thyroid Cancer,KRAS,31013001,random,kras,C,ML,,symbol 'KRAS' present,552,clinical impact of testing for mutations and micrornas in thyroid nodules,ML
+Thyroid Cancer,KRAS,26695504,random,kras,C,ML,,symbol 'KRAS' present,554,molecular imaging with 99m tc-mibi and molecular testing for mutations in differentiating benign from malignant follicular neoplasm a prospe,ML
+Thyroid Cancer,KRAS,38651727,random,kras,C,ML,,symbol 'KRAS' present,593,genomic and transcriptomic landscape of ret wild-type medullary thyroid cancer and potential use of mitogen-activated protein kinase-targete,ML
+Thyroid Cancer,KRAS,21880806,random,kras,C,ML,,symbol 'KRAS' present,608,impact of mutational testing on the diagnosis and management of patients with cytologically indeterminate thyroid nodules a prospective anal,ML
+Thyroid Cancer,KRAS,31623671,random,kras,C,G,,symbol 'KRAS' present,610,molecular mutations as a possible factor for determining extent of thyroid surgery,G
+Thyroid Cancer,KRAS,25641339,random,kras,C,M,,symbol 'KRAS' present,629,genetic profiling of advanced radioactive iodine-resistant differentiated thyroid cancer and correlation with axitinib efficacy,M
+Thyroid Cancer,KRAS,38754058,random,kras,C,M,,symbol 'KRAS' present,668,ret alterations differentiate molecular profile of medullary thyroid cancer,M
+Thyroid Cancer,KRAS,29723601,random,kras,C,ML,,symbol 'KRAS' present,686,clinical utility of ezh1 mutations in the diagnosis of follicular-patterned thyroid tumors,ML
+Thyroid Cancer,KRAS,30052723,random,kras,C,ML,,symbol 'KRAS' present,714,does noninvasive follicular thyroid neoplasm with papillary-like nuclear features niftp have a unique molecular profile,ML
+Thyroid Cancer,KRAS,24830619,random,kras,C,ML,,symbol 'KRAS' present,723,molecular testing for oncogenic gene mutations in thyroid lesions a case-control validation study in 413 postsurgical specimens,ML
+Thyroid Cancer,KRAS,26971368,random,kras,C,ML,,symbol 'KRAS' present,734,highly concordant key genetic alterations in primary tumors and matched distant metastases in differentiated thyroid cancer,ML
+Thyroid Cancer,KRAS,37583345,random,kras,C,M,,symbol 'KRAS' present,767,the histologic outcomes of indeterminate thyroid nodules with rat sarcoma mutations a case series,M
+Thyroid Cancer,KRAS,28864536,random,kras,C,M,,symbol 'KRAS' present,842,changes in the clinicopathological characteristics and genetic alterations of follicular thyroid cancer,M
+Thyroid Cancer,KRAS,35246262,random,kras,C,ML,,symbol 'KRAS' present,886,mutational status may supersede tumor size in predicting the presence of aggressive pathologic features in well differentiated thyroid cance,ML
+Thyroid Cancer,KRAS,22494995,random,kras,C,ML,,symbol 'KRAS' present,907,cribriform-morular variant of papillary thyroid carcinoma in an 8-year-old girl a case report with immunohistochemical and molecular testing,ML
+Thyroid Cancer,KRAS,27387987,random,kras,C,M,,symbol 'KRAS' present,913,single thyroid tumour showing multiple differentiated morphological patterns and intramorphological molecular genetic heterogeneity,M
+Thyroid Cancer,KRAS,37985961,random,kras,C,I,,symbol 'KRAS' present,925,gene mutations as predictors of central lymph mode metastasis in cn0 ptc a meta-analysis,I
+Thyroid Cancer,KRAS,32393293,random,kras,C,ML,,symbol 'KRAS' present,953,genomic characterization of high-recurrence risk papillary thyroid carcinoma in a southern chinese population,ML
+Thyroid Cancer,KRAS,34906047,random,kras,C,I,,symbol 'KRAS' present,958,egfr pathway-based gene signatures of druggable gene mutations in melanoma breast lung and thyroid cancers,I
+Thyroid Cancer,TP53,34075760,all,tp53,C,M,,symbol 'TP53' present,7,characterization and clinical significance of eif1ax mutations and co-mutations in cytologically indeterminate thyroid nodules a 5-year retr,M
+Thyroid Cancer,TP53,35609001,all,tp53,C,M,,symbol 'TP53' present,12,clinicopathological features and outcomes of thyroid nodules with eif1ax mutations,M
+Thyroid Cancer,TP53,35977347,all,tp53,C,ML,,symbol 'TP53' present,13,impact of somatic mutations on survival outcomes in patients with anaplastic thyroid carcinoma,ML
+Thyroid Cancer,TP53,36371345,all,tp53,C,M,,symbol 'TP53' present,20,eif1ax mutation in thyroid tumors a retrospective analysis of cytology histopathology and co-mutation profiles,M
+Thyroid Cancer,TP53,33599171,all,tp53,C,ML,,symbol 'TP53' present,29,clinical utility of circulating cell-free dna mutations in anaplastic thyroid carcinoma,ML
+Thyroid Cancer,TP53,39761124,all,tp53,C,ML,,symbol 'TP53' present,37,high-grade follicular cell-derived non-anaplastic thyroid carcinoma correlating extent of invasion and mutation profile with oncologic outco,ML
+Thyroid Cancer,TP53,34313965,all,tp53,C,ML,,symbol 'TP53' present,73,high prevalence of dicer1 mutations and low frequency of gene fusions in pediatric follicular-patterned tumors of the thyroid,ML
+Thyroid Cancer,TP53,41089282,all,tp53,C,M,,symbol 'TP53' present,76,mutation interactions of braf and tp53 define novel prognostic stratification and therapeutic implications in papillary thyroid carcinoma,M
+Thyroid Cancer,TP53,37842841,all,tp53,C,M,,symbol 'TP53' present,112,association of the genomic profile of medullary thyroid carcinoma with tumor characteristics and clinical outcomes in an international multi,M
+Thyroid Cancer,TP53,31230400,all,tp53,C,ML,,symbol 'TP53' present,119,mutational profiling of poorly differentiated and anaplastic thyroid carcinoma by the use of targeted next-generation sequencing,ML
+Thyroid Cancer,TP53,26980298,all,tp53,C,ML,,symbol 'TP53' present,136,genomic alterations of anaplastic thyroid carcinoma detected by targeted massive parallel sequencing in a braf v600e mutation-prevalent area,ML
+Thyroid Cancer,TP53,32326836,all,tp53,C,G,,symbol 'TP53' present,190,risk stratification using a novel genetic classifier including plekhs1 promoter mutations for differentiated thyroid cancer with distant met,G
+Thyroid Cancer,TP53,23979959,all,tp53,C,I,,symbol 'TP53' present,194,targeted next-generation sequencing panel thyroseq for detection of mutations in thyroid cancer,I
+Thyroid Cancer,TP53,39225726,all,tp53,C,M,,symbol 'TP53' present,195,eif1ax mutation in thyroid nodules a histopathologic analysis of 56 cases in the context of institutional practices,M
+Thyroid Cancer,TP53,41891781,all,tp53,C,M,,symbol 'TP53' present,273,molecular profile of advanced radioiodine-refractory thyroid cancer and response to lenvatinib treatment,M
+Thyroid Cancer,TP53,41494277,all,tp53,C,I,,symbol 'TP53' present,289,decoding the mutational hierarchy of thyroid cancer and associated signaling pathways,I
+Thyroid Cancer,TP53,39424488,all,tp53,C,M,,symbol 'TP53' present,307,oncogenic mutations in the tp53 and pi-3 kinase akt pathway are independent predictors of survival for advanced thyroid cancer analysis from,M
+Thyroid Cancer,TP53,31077238,all,tp53,C,M,,symbol 'TP53' present,362,mutation profiles of follicular thyroid tumors by targeted sequencing,M
+Thyroid Cancer,TP53,30620446,all,tp53,C,ML,,symbol 'TP53' present,378,centrifuged supernatants from fna provide a liquid biopsy option for clinical next-generation sequencing of thyroid nodules,ML
+Thyroid Cancer,TP53,28062544,all,tp53,C,M,,symbol 'TP53' present,404,somatic mutation profiling of hobnail variant of papillary thyroid carcinoma,M
+Thyroid Cancer,TP53,32284020,all,tp53,C,ML,,symbol 'TP53' present,455,dissecting anaplastic thyroid carcinoma a comprehensive clinical histologic immunophenotypic and molecular study of 360 cases,ML
+Thyroid Cancer,TP53,27866339,all,tp53,C,M,,symbol 'TP53' present,463,recurrent tp53 missense mutation in cancer patients of arab descent,M
+Thyroid Cancer,TP53,38044137,all,tp53,C,M,,symbol 'TP53' present,474,the frequency of mutations in advanced thyroid cancer in japan a single-center study,M
+Thyroid Cancer,TP53,25880213,all,tp53,C,M,,symbol 'TP53' present,487,a mutation screening of oncogenes tumor suppressor gene tp53 and nuclear encoded mitochondrial complex i genes in oncocytic thyroid tumors,M
+Thyroid Cancer,TP53,27696251,all,tp53,C,ML,,symbol 'TP53' present,527,targeted next-generation sequencing for tp53 ras braf alk and nf1 mutations in anaplastic thyroid cancer,ML
+Thyroid Cancer,TP53,26530486,all,tp53,C,M,,symbol 'TP53' present,590,pten and tp53 mutations in oncocytic follicular carcinoma,M
+Thyroid Cancer,TP53,29179638,all,tp53,C,M,,symbol 'TP53' present,624,the hobnail variant of papillary thyroid carcinoma clinical molecular characteristics of a large monocentric series and comparison with conv,M
+Thyroid Cancer,TP53,32671653,all,tp53,C,M,,symbol 'TP53' present,660,correlation of thyroseq results with surgical histopathology in cytologically indeterminate thyroid nodules,M
+Thyroid Cancer,TP53,32265839,all,tp53,C,M,,symbol 'TP53' present,672,amplicon-based ngs panels for actionable cancer target identification in follicular cell-derived thyroid neoplasia,M
+Thyroid Cancer,TP53,33428730,all,tp53,C,I,,symbol 'TP53' present,691,novel recurrent altered genes in chinese patients with anaplastic thyroid cancer,I
+Thyroid Cancer,TP53,29695638,all,tp53,C,I,,symbol 'TP53' present,704,molecular profile of advanced thyroid carcinomas by next-generation sequencing characterizing tumors beyond diagnosis for targeted therapy,I
+Thyroid Cancer,TP53,30052723,all,tp53,C,ML,,symbol 'TP53' present,714,does noninvasive follicular thyroid neoplasm with papillary-like nuclear features niftp have a unique molecular profile,ML
+Thyroid Cancer,TP53,40275442,all,tp53,C,M,,symbol 'TP53' present,716,malignancy risk molecular mutations and surgical outcomes of thyroid nodules classified as atypia of undetermined significance in the bethes,M
+Thyroid Cancer,TP53,28965201,all,tp53,C,ML,,symbol 'TP53' present,727,eif1ax mutation in a patient with hurthle cell carcinoma,ML
+Thyroid Cancer,TP53,37879236,all,tp53,C,M,,symbol 'TP53' present,746,clinical relevance of gene mutations and rearrangements in advanced differentiated thyroid cancer,M
+Thyroid Cancer,TP53,21716161,all,tp53,C,M,,symbol 'TP53' present,747,braf p53 and sox2 in anaplastic thyroid carcinoma evidence for multistep carcinogenesis,M
+Thyroid Cancer,TP53,29726952,all,tp53,C,I,,symbol 'TP53' present,756,comprehensive genetic analysis of follicular thyroid carcinoma predicts prognosis independent of histology,I
+Thyroid Cancer,TP53,40277780,all,tp53,C,M,,symbol 'TP53' present,770,folliculin flcn in thyroid tumors incidence significance and role as a driver gene and secondary alteration,M
+Thyroid Cancer,TP53,32179705,all,tp53,C,M,,symbol 'TP53' present,774,germline ret variants underlie a subset of paediatric osteosarcoma,M
+Thyroid Cancer,TP53,28423545,all,tp53,C,M,,symbol 'TP53' present,787,hobnail variant of papillary thyroid carcinoma molecular profiling and comparison to classical papillary thyroid carcinoma poorly differenti,M
+Thyroid Cancer,TP53,34104084,all,tp53,C,ML,,symbol 'TP53' present,797,somatic mutation profiling of papillary thyroid carcinomas by whole-exome sequencing and its relationship with clinical characteristics,ML
+Thyroid Cancer,TP53,40887557,all,tp53,C,ML,,symbol 'TP53' present,798,progression of follicular thyroid carcinomas to anaplastic thyroid carcinomas molecular and clinicopathologic characteristics with compariso,ML
+Thyroid Cancer,TP53,34972706,all,tp53,C,ML,,symbol 'TP53' present,801,genomic profiling of aggressive thyroid cancer in association with its clinicopathological characteristics,ML
+Thyroid Cancer,TP53,39179735,all,tp53,C,M,,symbol 'TP53' present,827,minor role of tp53 and tert promoter mutations in medullary thyroid carcinoma report of new cases and revision of the literature,M
+Thyroid Cancer,TP53,38060243,all,tp53,C,M,,symbol 'TP53' present,833,characterizing genetic alterations related to radioiodine avidity in metastatic thyroid cancer,M
+Thyroid Cancer,TP53,40600748,all,tp53,C,I,,symbol 'TP53' present,854,involvement of keap1 nrf2 pathway in non-braf mutated squamous cell carcinoma of the thyroid,I
+Thyroid Cancer,TP53,36382481,all,tp53,C,ML,,symbol 'TP53' present,856,thyroid carcinoma metastases to central nervous system and vertebrae,ML
+Thyroid Cancer,TP53,39397516,all,tp53,C,G,,symbol 'TP53' present,858,small multi-gene dna panel can aid in reducing the surgical resection rate and predicting the malignancy risk of thyroid nodules,G
+Thyroid Cancer,TP53,32853962,all,tp53,C,M,,symbol 'TP53' present,870,primary squamous cell carcinoma of thyroid with a novel braf mutation and high pdl-1 expression a case report with treatment implications an,M
+Thyroid Cancer,TP53,41675640,all,tp53,C,I,,symbol 'TP53' present,908,multi-gene co-mutations of braf with tert pik3ca or tp53 are powerful predictors of central lymph node metastasis in papillary thyroid carci,I
+Thyroid Cancer,TP53,41582704,all,tp53,C,ML,,symbol 'TP53' present,916,genomic characterization of oncocytic carcinoma of the thyroid using a large multi-institutional database,ML
+Thyroid Cancer,TP53,32393293,all,tp53,C,ML,,symbol 'TP53' present,953,genomic characterization of high-recurrence risk papillary thyroid carcinoma in a southern chinese population,ML
+Thyroid Cancer,TP53,39940804,all,tp53,C,M,,symbol 'TP53' present,1000,rationale for testing tp53 mutations in thyroid cancer-original data and meta-analysis,M
+Thyroid Cancer,EIF1AX,34075760,all,eif1ax,C,M,,symbol 'EIF1AX' present,7,characterization and clinical significance of eif1ax mutations and co-mutations in cytologically indeterminate thyroid nodules a 5-year retr,M
+Thyroid Cancer,EIF1AX,35609001,all,eif1ax,C,M,,symbol 'EIF1AX' present,12,clinicopathological features and outcomes of thyroid nodules with eif1ax mutations,M
+Thyroid Cancer,EIF1AX,34510770,all,eif1ax,C,M,,symbol 'EIF1AX' present,19,association of bethesda category and molecular mutation in patients undergoing thyroidectomy,M
+Thyroid Cancer,EIF1AX,36371345,all,eif1ax,C,M,,symbol 'EIF1AX' present,20,eif1ax mutation in thyroid tumors a retrospective analysis of cytology histopathology and co-mutation profiles,M
+Thyroid Cancer,EIF1AX,39761124,all,eif1ax,C,ML,,symbol 'EIF1AX' present,37,high-grade follicular cell-derived non-anaplastic thyroid carcinoma correlating extent of invasion and mutation profile with oncologic outco,ML
+Thyroid Cancer,EIF1AX,34313965,all,eif1ax,C,I,,symbol 'EIF1AX' present,73,high prevalence of dicer1 mutations and low frequency of gene fusions in pediatric follicular-patterned tumors of the thyroid,I
+Thyroid Cancer,EIF1AX,26911375,all,eif1ax,C,M,,symbol 'EIF1AX' present,145,prevalence and phenotypic correlations of eif1ax mutations in thyroid nodules,M
+Thyroid Cancer,EIF1AX,39225726,all,eif1ax,C,M,,symbol 'EIF1AX' present,195,eif1ax mutation in thyroid nodules a histopathologic analysis of 56 cases in the context of institutional practices,M
+Thyroid Cancer,EIF1AX,30305285,all,eif1ax,C,M,,symbol 'EIF1AX' present,196,eif1ax and ras mutations cooperate to drive thyroid tumorigenesis through atf4 and c-myc,M
+Thyroid Cancer,EIF1AX,29669480,all,eif1ax,C,M,,symbol 'EIF1AX' present,244,tert hras and eif1ax mutations in a patient with follicular adenoma,M
+Thyroid Cancer,EIF1AX,41784850,all,eif1ax,C,ML,,symbol 'EIF1AX' present,266,impact of co-mutations and genetic variations on malignancy risk in ras-positive indeterminate thyroid nodules an institutional experience,ML
+Thyroid Cancer,EIF1AX,37042127,all,eif1ax,C,P,,symbol 'EIF1AX' present,286,unraveling the significance of tshr mutations in indeterminate thyroid cytology specimens,P
+Thyroid Cancer,EIF1AX,31077238,all,eif1ax,C,M,,symbol 'EIF1AX' present,362,mutation profiles of follicular thyroid tumors by targeted sequencing,M
+Thyroid Cancer,EIF1AX,30269267,all,eif1ax,C,M,,symbol 'EIF1AX' present,364,absence of eif1ax ppm1d and chek2 mutations reported in thyroid cancer genome atlas tcga in a large series of thyroid cancer,M
+Thyroid Cancer,EIF1AX,32236306,all,eif1ax,C,M,,symbol 'EIF1AX' present,456,eif1ax c 338-2a t splice site mutation in a patient with trabecular adenoma and cytological indeterminate lesion,M
+Thyroid Cancer,EIF1AX,28502101,all,eif1ax,C,M,,symbol 'EIF1AX' present,514,identification of somatic tert promoter mutations in familial nonmedullary thyroid carcinomas,M
+Thyroid Cancer,EIF1AX,41549926,all,eif1ax,C,M,,symbol 'EIF1AX' present,549,molecular profiling of sporadic medullary thyroid carcinomas - a next-generation sequencing-based study,M
+Thyroid Cancer,EIF1AX,29723601,all,eif1ax,C,M,,symbol 'EIF1AX' present,686,clinical utility of ezh1 mutations in the diagnosis of follicular-patterned thyroid tumors,M
+Thyroid Cancer,EIF1AX,30052723,all,eif1ax,C,ML,,symbol 'EIF1AX' present,714,does noninvasive follicular thyroid neoplasm with papillary-like nuclear features niftp have a unique molecular profile,ML
+Thyroid Cancer,EIF1AX,40275442,all,eif1ax,C,ML,,symbol 'EIF1AX' present,716,malignancy risk molecular mutations and surgical outcomes of thyroid nodules classified as atypia of undetermined significance in the bethes,ML
+Thyroid Cancer,EIF1AX,28965201,all,eif1ax,C,M,,symbol 'EIF1AX' present,727,eif1ax mutation in a patient with hurthle cell carcinoma,M
+Thyroid Cancer,EIF1AX,29726952,all,eif1ax,C,ML,,symbol 'EIF1AX' present,756,comprehensive genetic analysis of follicular thyroid carcinoma predicts prognosis independent of histology,ML
+Thyroid Cancer,EIF1AX,40887557,all,eif1ax,C,ML,,symbol 'EIF1AX' present,798,progression of follicular thyroid carcinomas to anaplastic thyroid carcinomas molecular and clinicopathologic characteristics with compariso,ML
+Thyroid Cancer,EIF1AX,29968046,all,eif1ax,C,M,,symbol 'EIF1AX' present,810,the role of eif1ax in thyroid cancer tumourigenesis and progression,M
+Thyroid Cancer,EIF1AX,39397516,all,eif1ax,C,G,,symbol 'EIF1AX' present,858,small multi-gene dna panel can aid in reducing the surgical resection rate and predicting the malignancy risk of thyroid nodules,G
+Thyroid Cancer,PIK3CA,36371345,all,pik3ca,C,I,,symbol 'PIK3CA' present,20,eif1ax mutation in thyroid tumors a retrospective analysis of cytology histopathology and co-mutation profiles,I
+Thyroid Cancer,PIK3CA,33599171,all,pik3ca,C,M,,symbol 'PIK3CA' present,29,clinical utility of circulating cell-free dna mutations in anaplastic thyroid carcinoma,M
+Thyroid Cancer,PIK3CA,39761124,all,pi3k,X,I,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,37,high-grade follicular cell-derived non-anaplastic thyroid carcinoma correlating extent of invasion and mutation profile with oncologic outco,I
+Thyroid Cancer,PIK3CA,39548512,all,pik3ca,C,M,,symbol 'PIK3CA' present,49,detection of genetic mutations in 855 cases of papillary thyroid carcinoma by next generation sequencing and its clinicopathological feature,M
+Thyroid Cancer,PIK3CA,30565896,all,pik3ca,C,ML,,symbol 'PIK3CA' present,59,the utility of combined mutation analysis and microrna classification in reclassifying cancer risk of cytologically indeterminate thyroid no,ML
+Thyroid Cancer,PIK3CA,41089282,all,pi3k,X,I,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,76,mutation interactions of braf and tp53 define novel prognostic stratification and therapeutic implications in papillary thyroid carcinoma,I
+Thyroid Cancer,PIK3CA,27824297,all,pik3ca,C,M,,symbol 'PIK3CA' present,110,single point mutations in pediatric differentiated thyroid cancer,M
+Thyroid Cancer,PIK3CA,31230400,all,pik3ca,C,M,,symbol 'PIK3CA' present,119,mutational profiling of poorly differentiated and anaplastic thyroid carcinoma by the use of targeted next-generation sequencing,M
+Thyroid Cancer,PIK3CA,26980298,all,pik3ca,C,ML,,symbol 'PIK3CA' present,136,genomic alterations of anaplastic thyroid carcinoma detected by targeted massive parallel sequencing in a braf v600e mutation-prevalent area,ML
+Thyroid Cancer,PIK3CA,39420942,all,pik3ca,C,I,,symbol 'PIK3CA' present,165,follicular cell-derived thyroid carcinomas harboring novel genetic braf non-v600e mutations real-world data obtained using a multigene panel,I
+Thyroid Cancer,PIK3CA,23979959,all,pik3ca,C,I,,symbol 'PIK3CA' present,194,targeted next-generation sequencing panel thyroseq for detection of mutations in thyroid cancer,I
+Thyroid Cancer,PIK3CA,22359510,all,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,203,positive selection for new disease mutations in the human germline evidence from the heritable cancer syndrome multiple endocrine neoplasia ,W
+Thyroid Cancer,PIK3CA,20186503,all,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,210,mutational and immunohistochemical study of the pi3k akt pathway in papillary thyroid carcinoma in greece,M
+Thyroid Cancer,PIK3CA,26054797,all,pik3ca,C,M,,symbol 'PIK3CA' present,255,cribriform-morular variant of papillary thyroid carcinoma a study of 3 cases featuring the pik3ca mutation,M
+Thyroid Cancer,PIK3CA,41494277,all,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,289,decoding the mutational hierarchy of thyroid cancer and associated signaling pathways,W
+Thyroid Cancer,PIK3CA,23934677,all,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,316,functional significance of the novel h-ras gene mutation m72i in a patient with medullary thyroid cancer,W
+Thyroid Cancer,PIK3CA,18381570,all,pik3ca,C,M,,symbol 'PIK3CA' present,351,brafv600e mutation is associated with preferential sensitivity to mitogen-activated protein kinase kinase inhibition in thyroid cancer cell ,M
+Thyroid Cancer,PIK3CA,30620446,all,pik3ca,C,ML,,symbol 'PIK3CA' present,378,centrifuged supernatants from fna provide a liquid biopsy option for clinical next-generation sequencing of thyroid nodules,ML
+Thyroid Cancer,PIK3CA,18558293,all,pi3k,X,I,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,382,a novel mutation of the pten gene in a japanese patient with cowden syndrome and bilateral breast cancer,I
+Thyroid Cancer,PIK3CA,19487299,all,pik3ca,C,M,,symbol 'PIK3CA' present,398,mutational profile of advanced primary and metastatic radioactive iodine-refractory thyroid cancers reveals distinct pathogenetic roles for ,M
+Thyroid Cancer,PIK3CA,28062544,all,pik3ca,C,ML,,symbol 'PIK3CA' present,404,somatic mutation profiling of hobnail variant of papillary thyroid carcinoma,ML
+Thyroid Cancer,PIK3CA,27688081,all,pik3ca,C,ML,,symbol 'PIK3CA' present,414,tert promoter mutation in an aggressive cribriform morular variant of papillary thyroid carcinoma,ML
+Thyroid Cancer,PIK3CA,32284020,all,pik3ca,C,ML,,symbol 'PIK3CA' present,455,dissecting anaplastic thyroid carcinoma a comprehensive clinical histologic immunophenotypic and molecular study of 360 cases,ML
+Thyroid Cancer,PIK3CA,38170436,all,pik3ca,C,G,,symbol 'PIK3CA' present,478,tirosec molecular clinical and histopathological profile of papillary thyroid carcinoma in a colombian cohort,G
+Thyroid Cancer,PIK3CA,28731042,all,pik3ca,C,M,,symbol 'PIK3CA' present,499,molecular alterations of coexisting thyroid papillary carcinoma and anaplastic carcinoma identification of tert mutation as an independent r,M
+Thyroid Cancer,PIK3CA,32196952,all,pik3ca,C,ML,,symbol 'PIK3CA' present,515,mirna expression can classify pediatric thyroid lesions and increases the diagnostic yield of mutation testing,ML
+Thyroid Cancer,PIK3CA,41578760,all,pik3ca,C,P,,symbol 'PIK3CA' present,516,summary and analysis of molecular biological changes pd-l1 immune status and clinicopathological features of 78 cases of papillary thyroid c,P
+Thyroid Cancer,PIK3CA,22136270,all,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,540,braf k601e mutation in a patient with a follicular thyroid carcinoma,W
+Thyroid Cancer,PIK3CA,20526288,all,pik3ca,C,I,,symbol 'PIK3CA' present,543,molecular genotyping of papillary thyroid carcinoma follicular variant according to its histological subtypes encapsulated vs infiltrative r,I
+Thyroid Cancer,PIK3CA,31013001,all,pik3ca,C,I,,symbol 'PIK3CA' present,552,clinical impact of testing for mutations and micrornas in thyroid nodules,I
+Thyroid Cancer,PIK3CA,28375433,all,pik3ca,C,M,,symbol 'PIK3CA' present,571,breast tumor resembling tall cell variant of papillary thyroid carcinoma a solid papillary neoplasm with characteristic immunohistochemical ,M
+Thyroid Cancer,PIK3CA,18070147,all,pik3ca,C,M,,symbol 'PIK3CA' present,597,braf mutation associated with other genetic events identifies a subset of aggressive papillary thyroid carcinoma,M
+Thyroid Cancer,PIK3CA,25641339,all,pik3ca,C,M,,symbol 'PIK3CA' present,629,genetic profiling of advanced radioactive iodine-resistant differentiated thyroid cancer and correlation with axitinib efficacy,M
+Thyroid Cancer,PIK3CA,19500021,all,pi3k,X,ML,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,634,distinct genetic alterations in the mitogen-activated protein kinase pathway dictate sensitivity of thyroid cancer cells to mitogen-activate,ML
+Thyroid Cancer,PIK3CA,38896179,all,pik3ca,C,G,,symbol 'PIK3CA' present,663,papillary thyroid carcinoma correlation between molecular and clinical features,G
+Thyroid Cancer,PIK3CA,33120354,all,pi3k,X,P,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,664,molecular profile of hurthle cell carcinomas recurrent mutations in the wnt -catenin pathway,P
+Thyroid Cancer,PIK3CA,33428730,all,pik3ca,C,G,,symbol 'PIK3CA' present,691,novel recurrent altered genes in chinese patients with anaplastic thyroid cancer,G
+Thyroid Cancer,PIK3CA,29695638,all,pi3k,X,M,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,704,molecular profile of advanced thyroid carcinomas by next-generation sequencing characterizing tumors beyond diagnosis for targeted therapy,M
+Thyroid Cancer,PIK3CA,17989125,all,pik3ca,C,M,,symbol 'PIK3CA' present,730,phosphatidylinositol 3-kinase akt and ras raf-mitogen-activated protein kinase pathway mutations in anaplastic thyroid cancer,M
+Thyroid Cancer,PIK3CA,11039907,all,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,748,role of the camp and mapk pathways in the transformation of mouse 3t3 fibroblasts by a tshr gene constitutively activated by point mutation,W
+Thyroid Cancer,PIK3CA,34104084,all,pi3k,X,P,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,797,somatic mutation profiling of papillary thyroid carcinomas by whole-exome sequencing and its relationship with clinical characteristics,P
+Thyroid Cancer,PIK3CA,38763089,all,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,812,uncommon molecular alterations in follicular-derived thyroid carcinoma a single institution study,W
+Thyroid Cancer,PIK3CA,35193694,all,pik3ca,C,M,,symbol 'PIK3CA' present,813,introduction and expression of pik3ca e545k in a papillary thyroid cancer braf v600e cell line leads to a dedifferentiated aggressive phenot,M
+Thyroid Cancer,PIK3CA,15928251,all,pi3k|pik3ca,C,M,,symbol 'PIK3CA' present,818,uncommon mutation but common amplifications of the pik3ca gene in thyroid tumors,M
+Thyroid Cancer,PIK3CA,31642198,all,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,820,identification of susceptibility gene mutations associated with the pathogenesis of familial nonmedullary thyroid cancer,W
+Thyroid Cancer,PIK3CA,38060243,all,pik3ca,C,M,,symbol 'PIK3CA' present,833,characterizing genetic alterations related to radioiodine avidity in metastatic thyroid cancer,M
+Thyroid Cancer,PIK3CA,40600748,all,pi3k|pik3ca,C,G,,symbol 'PIK3CA' present,854,involvement of keap1 nrf2 pathway in non-braf mutated squamous cell carcinoma of the thyroid,G
+Thyroid Cancer,PIK3CA,39397516,all,pik3ca,C,G,,symbol 'PIK3CA' present,858,small multi-gene dna panel can aid in reducing the surgical resection rate and predicting the malignancy risk of thyroid nodules,G
+Thyroid Cancer,PIK3CA,24136889,all,pi3k|pik3ca,C,W,,symbol 'PIK3CA' present,881,identification of rasal1 as a major tumor suppressor gene in thyroid cancer,W
+Thyroid Cancer,PIK3CA,41675640,all,pik3ca,C,ML,,symbol 'PIK3CA' present,908,multi-gene co-mutations of braf with tert pik3ca or tp53 are powerful predictors of central lymph node metastasis in papillary thyroid carci,ML
+Thyroid Cancer,PIK3CA,10652352,all,pi3k,X,W,,credited only via the alias 'PI3K' (pathway/family term); PIK3CA not named,951,transforming ability of men2a-ret requires activation of the phosphatidylinositol 3-kinase akt signaling pathway,W
+Thyroid Cancer,PIK3CA,32393293,all,pik3ca,C,ML,,symbol 'PIK3CA' present,953,genomic characterization of high-recurrence risk papillary thyroid carcinoma in a southern chinese population,ML
+Thyroid Cancer,PIK3CA,34906047,all,pik3ca,C,G,,symbol 'PIK3CA' present,958,egfr pathway-based gene signatures of druggable gene mutations in melanoma breast lung and thyroid cancers,G
+Thyroid Cancer,PIK3CA,18000091,all,pi3k|pik3ca,C,M,target,symbol 'PIK3CA' present,999,clinicopathological analysis of papillary thyroid cancer with pik3ca alterations in a middle eastern population,M
+Thyroid Cancer,TSHR,21773967,all,tshr,C,M,,symbol 'TSHR' present,26,high prevalence of tshr gs mutation-negative clonal hot thyroid nodules hns in a turkish cohort,M
+Thyroid Cancer,TSHR,32284013,all,tshr,C,M,,symbol 'TSHR' present,39,sensitive sequencing analysis suggests thyrotropin receptor and guanine nucleotide-binding protein g subunit alpha as sole driver mutations ,M
+Thyroid Cancer,TSHR,27500488,all,tshr,C,M,,symbol 'TSHR' present,61,recurrent ezh1 mutations are a second hit in autonomous thyroid adenomas,M
+Thyroid Cancer,TSHR,24915144,all,tshr,C,M,,symbol 'TSHR' present,69,somatic mutations in 33 benign and malignant hot thyroid nodules in children and adolescents,M
+Thyroid Cancer,TSHR,34313965,all,tshr,C,ML,,symbol 'TSHR' present,73,high prevalence of dicer1 mutations and low frequency of gene fusions in pediatric follicular-patterned tumors of the thyroid,ML
+Thyroid Cancer,TSHR,41950860,all,tshr,C,M,,symbol 'TSHR' present,85,outcomes of tshr mutations in indeterminate thyroid nodules,M
+Thyroid Cancer,TSHR,19492584,all,tshr,C,M,,symbol 'TSHR' present,135,activating tsh-receptor mutation met453thr as a cause of adenomatous non-autoimmune hyperthyroidism in a 3-year-old boy,M
+Thyroid Cancer,TSHR,23979959,all,tshr,C,I,,symbol 'TSHR' present,194,targeted next-generation sequencing panel thyroseq for detection of mutations in thyroid cancer,I
+Thyroid Cancer,TSHR,11022192,all,tshr,C,M,,symbol 'TSHR' present,214,a novel activating mutation in the thyrotropin receptor gene in an autonomously functioning thyroid nodule developed by a japanese patient,M
+Thyroid Cancer,TSHR,11434721,all,thyroid stimulating hormone receptor|tshr,C,M,,symbol 'TSHR' present,240,detection of thyroid-stimulating hormone receptor and gsalpha mutations in 75 toxic thyroid nodules by denaturing gradient gel electrophores,M
+Thyroid Cancer,TSHR,12213664,all,tshr,C,M,,symbol 'TSHR' present,261,oncogenic mutations in the thyrotropin receptor of autonomously functioning thyroid nodules in the japanese population,M
+Thyroid Cancer,TSHR,16990652,all,tshr,C,M,,symbol 'TSHR' present,275,similar prevalence of somatic tsh receptor and gsalpha mutations in toxic thyroid nodules in geographical regions with different iodine supp,M
+Thyroid Cancer,TSHR,16756473,all,tshr,C,M,,symbol 'TSHR' present,280,follicular carcinoma presenting as autonomous functioning thyroid nodule and containing an activating mutation of the tsh receptor t620i and,M
+Thyroid Cancer,TSHR,37042127,all,thyroid stimulating hormone receptor|tshr,C,M,,symbol 'TSHR' present,286,unraveling the significance of tshr mutations in indeterminate thyroid cytology specimens,M
+Thyroid Cancer,TSHR,14514342,all,tshr,C,M,,symbol 'TSHR' present,306,autonomously functioning thyroid nodules in a former iodine-deficient area commonly harbor gain-of-function mutations in the thyrotropin sig,M
+Thyroid Cancer,TSHR,29516685,all,thyroid stimulating hormone receptor|tshr,C,M,,symbol 'TSHR' present,343,cancer risk and clinicopathological characteristics of thyroid nodules harboring thyroid-stimulating hormone receptor gene mutations,M
+Thyroid Cancer,TSHR,20929407,all,tshr,C,M,,symbol 'TSHR' present,358,subclinical nonautoimmune hyperthyroidism in a family segregates with a thyrotropin receptor mutation with weakly increased constitutive act,M
+Thyroid Cancer,TSHR,19191749,all,thyroid stimulating hormone receptor|tshr,C,M,,symbol 'TSHR' present,360,a somatic gain-of-function mutation in the thyrotropin receptor gene producing a toxic adenoma in an infant,M
+Thyroid Cancer,TSHR,31077238,all,tshr,C,M,,symbol 'TSHR' present,362,mutation profiles of follicular thyroid tumors by targeted sequencing,M
+Thyroid Cancer,TSHR,10852462,all,tshr,C,M,,symbol 'TSHR' present,391,activating thyrotropin receptor mutations are present in nonadenomatous hyperfunctioning nodules of toxic or autonomous multinodular goiter,M
+Thyroid Cancer,TSHR,15671779,all,tshr,C,M,,symbol 'TSHR' present,461,does a leu 512 arg thyrotropin receptor mutation cause an autonomously functioning papillary carcinoma,M
+Thyroid Cancer,TSHR,19550078,all,tshr,C,M,,symbol 'TSHR' present,476,prevalence of tsh receptor and gsalpha mutations in 45 autonomously functioning thyroid nodules in japan,M
+Thyroid Cancer,TSHR,19169491,all,tshr,C,P,,symbol 'TSHR' present,496,a molecular analysis and long-term follow-up of two siblings with severe congenital hypothyroidism carrying the ivs30 1g t intronic thyroglo,P
+Thyroid Cancer,TSHR,14713269,all,tshr,C,M,,symbol 'TSHR' present,530,two somatic tsh receptor mutations in a patient with toxic metastasising follicular thyroid carcinoma and non-functional lung metastases,M
+Thyroid Cancer,TSHR,12193300,all,tshr,C,M,,symbol 'TSHR' present,584,feline thyroid adenomas are in part associated with mutations in the g s alpha gene and not with polymorphisms found in the thyrotropin rece,M
+Thyroid Cancer,TSHR,19152441,all,tshr,C,P,,symbol 'TSHR' present,613,high prevalence of braf mutation in a brazilian cohort of patients with sporadic papillary thyroid carcinomas correlation with more aggressi,P
+Thyroid Cancer,TSHR,26338373,all,tshr,C,I,,symbol 'TSHR' present,641,braf v600e and decreased nis and tpo expression are associated with aggressiveness of a subgroup of papillary thyroid microcarcinoma,I
+Thyroid Cancer,TSHR,12088927,all,tshr,C,M,,symbol 'TSHR' present,670,expression of g alpha s proteins and tsh receptor signalling in hyperfunctioning thyroid nodules with tsh receptor mutations,M
+Thyroid Cancer,TSHR,22001338,all,thyroid stimulating hormone receptor|tshr,C,M,,symbol 'TSHR' present,711,two rare tsh receptor amino acid substitutions in toxic thyroid adenomas,M
+Thyroid Cancer,TSHR,40275442,all,tshr,C,ML,,symbol 'TSHR' present,716,malignancy risk molecular mutations and surgical outcomes of thyroid nodules classified as atypia of undetermined significance in the bethes,ML
+Thyroid Cancer,TSHR,11039907,all,tshr,C,M,,symbol 'TSHR' present,748,role of the camp and mapk pathways in the transformation of mouse 3t3 fibroblasts by a tshr gene constitutively activated by point mutation,M
+Thyroid Cancer,TSHR,19169486,all,tshr,C,P,,symbol 'TSHR' present,749,seven-year follow-up of a juvenile female with papillary thyroid carcinoma with poor outcome braf mutation and loss of expression of iodine-,P
+Thyroid Cancer,TSHR,29726952,all,tshr,C,ML,,symbol 'TSHR' present,756,comprehensive genetic analysis of follicular thyroid carcinoma predicts prognosis independent of histology,ML
+Thyroid Cancer,TSHR,39468764,all,tshr,C,I,,symbol 'TSHR' present,847,somatic dicer1-mutant benign thyroid nodules in adults a group of follicular nodular disease with continuous growth,I
+Thyroid Cancer,TSHR,20427420,all,tshr,C,M,,symbol 'TSHR' present,850,identification of a paired box gene 8-peroxisome proliferator-activated receptor gamma pax8-ppargamma rearrangement mosaicism in a patient w,M
+Thyroid Cancer,TSHR,23271753,all,tshr,C,M,,symbol 'TSHR' present,923,residual thyroid tissue after thyroidectomy in a patient with tsh receptor-activating mutation presenting as a neck mass,M
+Thyroid Cancer,TSHR,36619548,all,thyroid stimulating hormone receptor|tshr,C,M,,symbol 'TSHR' present,965,risk of malignancy in cytologically indeterminate thyroid nodules harboring thyroid stimulating hormone receptor mutations,M

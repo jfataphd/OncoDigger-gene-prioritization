@@ -1,0 +1,251 @@
+cancer,rank,gene
+Lung Cancer,1,EGFR
+Lung Cancer,2,KRAS
+Lung Cancer,3,TP53
+Lung Cancer,4,BRAF
+Lung Cancer,5,ALK
+Lung Cancer,6,PIK3CA
+Lung Cancer,7,ERBB2
+Lung Cancer,8,CD274
+Lung Cancer,9,MET
+Lung Cancer,10,STK11
+Lung Cancer,11,KEAP1
+Lung Cancer,12,ROS1
+Lung Cancer,13,NRAS
+Lung Cancer,14,BRCA1
+Lung Cancer,15,KIT
+Lung Cancer,16,EML4
+Lung Cancer,17,RET
+Lung Cancer,18,NKX2-1
+Lung Cancer,19,PTEN
+Lung Cancer,20,BRCA2
+Lung Cancer,21,F3
+Lung Cancer,22,EPHA5
+Lung Cancer,23,SMARCA4
+Lung Cancer,24,NF1
+Lung Cancer,25,ATM
+Lung Cancer,26,BAP1
+Lung Cancer,27,RB1
+Lung Cancer,28,KMT2C
+Lung Cancer,29,TYMS
+Lung Cancer,30,PDCD1
+Lung Cancer,31,EGF
+Lung Cancer,32,CTNNB1
+Lung Cancer,33,NFE2L2
+Lung Cancer,34,ERBB4
+Lung Cancer,35,TET2
+Lung Cancer,36,MAP2K1
+Lung Cancer,37,CSMD3
+Lung Cancer,38,BCL2L11
+Lung Cancer,39,ZFHX3
+Lung Cancer,40,AKT1
+Lung Cancer,41,PTPRT
+Lung Cancer,42,ERCC1
+Lung Cancer,43,RBM10
+Lung Cancer,44,CUL3
+Lung Cancer,45,IDH1
+Lung Cancer,46,PDGFRA
+Lung Cancer,47,MAF
+Lung Cancer,48,AXL
+Lung Cancer,49,DNMT3A
+Lung Cancer,50,AURKA
+Melanoma,1,BRAF
+Melanoma,2,NRAS
+Melanoma,3,KIT
+Melanoma,4,CDKN2A
+Melanoma,5,TERT
+Melanoma,6,GNAQ
+Melanoma,7,BAP1
+Melanoma,8,GNA11
+Melanoma,9,SF3B1
+Melanoma,10,NF1
+Melanoma,11,CDK4
+Melanoma,12,TP53
+Melanoma,13,KRAS
+Melanoma,14,EIF1AX
+Melanoma,15,BRCA1
+Melanoma,16,PIK3CA
+Melanoma,17,PTEN
+Melanoma,18,CTNNB1
+Melanoma,19,HRAS
+Melanoma,20,MAP2K1
+Melanoma,21,ARID2
+Melanoma,22,PDCD1
+Melanoma,23,MC1R
+Melanoma,24,ARID1A
+Melanoma,25,EGFR
+Melanoma,26,RAC1
+Melanoma,27,BRCA2
+Melanoma,28,POT1
+Melanoma,29,PDGFRA
+Melanoma,30,ATRX
+Melanoma,31,MUC16
+Melanoma,32,IDH1
+Melanoma,33,PRAME
+Melanoma,34,CPD
+Melanoma,35,ERBB4
+Melanoma,36,LRP1B
+Melanoma,37,CYSLTR2
+Melanoma,38,PLCB4
+Melanoma,39,KDR
+Melanoma,40,MET
+Melanoma,41,PPP6C
+Melanoma,42,CTLA4
+Melanoma,43,PREX2
+Melanoma,44,CD274
+Melanoma,45,MTOR
+Melanoma,46,ATM
+Melanoma,47,ACD
+Melanoma,48,KALRN
+Melanoma,49,APC
+Melanoma,50,TTN
+Kidney Cancer,1,VHL
+Kidney Cancer,2,WT1
+Kidney Cancer,3,BAP1
+Kidney Cancer,4,PBRM1
+Kidney Cancer,5,FH
+Kidney Cancer,6,FLCN
+Kidney Cancer,7,SETD2
+Kidney Cancer,8,TP53
+Kidney Cancer,9,TSC2
+Kidney Cancer,10,CTNNB1
+Kidney Cancer,11,TSC1
+Kidney Cancer,12,SDHB
+Kidney Cancer,13,KDM5C
+Kidney Cancer,14,MTOR
+Kidney Cancer,15,DICER1
+Kidney Cancer,16,BRCA1
+Kidney Cancer,17,BRAF
+Kidney Cancer,18,MET
+Kidney Cancer,19,KRAS
+Kidney Cancer,20,PIK3CA
+Kidney Cancer,21,PTEN
+Kidney Cancer,22,ELOC
+Kidney Cancer,23,BRAP
+Kidney Cancer,24,DROSHA
+Kidney Cancer,25,FGFR3
+Kidney Cancer,26,HIF1A
+Kidney Cancer,27,PRCC
+Kidney Cancer,28,MLH1
+Kidney Cancer,29,DGCR8
+Kidney Cancer,30,SDHA
+Kidney Cancer,31,ATM
+Kidney Cancer,32,MSH2
+Kidney Cancer,33,CHEK2
+Kidney Cancer,34,BRCA2
+Kidney Cancer,35,PAX6
+Kidney Cancer,36,GPNMB
+Kidney Cancer,37,KIT
+Kidney Cancer,38,TERT
+Kidney Cancer,39,SDHC
+Kidney Cancer,40,SDHD
+Kidney Cancer,41,RB1
+Kidney Cancer,42,IGF2
+Kidney Cancer,43,SMARCB1
+Kidney Cancer,44,AMACR
+Kidney Cancer,45,PAX8
+Kidney Cancer,46,TFE3
+Kidney Cancer,47,CD274
+Kidney Cancer,48,ARID1A
+Kidney Cancer,49,GATA3
+Kidney Cancer,50,CA9
+Liver Cancer,1,CTNNB1
+Liver Cancer,2,TP53
+Liver Cancer,3,TERT
+Liver Cancer,4,KRAS
+Liver Cancer,5,AXIN1
+Liver Cancer,6,ARID1A
+Liver Cancer,7,BRAF
+Liver Cancer,8,APC
+Liver Cancer,9,HFE
+Liver Cancer,10,NRAS
+Liver Cancer,11,HNF1A
+Liver Cancer,12,CDKN2A
+Liver Cancer,13,PTEN
+Liver Cancer,14,PIK3CA
+Liver Cancer,15,ARID2
+Liver Cancer,16,JAK1
+Liver Cancer,17,AGT
+Liver Cancer,18,BRCA2
+Liver Cancer,19,NFE2L2
+Liver Cancer,20,HNF1B
+Liver Cancer,21,IDH1
+Liver Cancer,22,AFP
+Liver Cancer,23,GNAS
+Liver Cancer,24,TTN
+Liver Cancer,25,KEAP1
+Liver Cancer,26,HNF4A
+Liver Cancer,27,HRAS
+Liver Cancer,28,MYC
+Liver Cancer,29,TSC2
+Liver Cancer,30,BAP1
+Liver Cancer,31,KIT
+Liver Cancer,32,LRP1B
+Liver Cancer,33,ATRX
+Liver Cancer,34,IL6ST
+Liver Cancer,35,RB1
+Liver Cancer,36,MEN1
+Liver Cancer,37,MUC16
+Liver Cancer,38,CCL14
+Liver Cancer,39,PBRM1
+Liver Cancer,40,EGFR
+Liver Cancer,41,KMT2D
+Liver Cancer,42,IDH2
+Liver Cancer,43,APOB
+Liver Cancer,44,CCND1
+Liver Cancer,45,RPS6KA3
+Liver Cancer,46,BRCA1
+Liver Cancer,47,EAF2
+Liver Cancer,48,ERBB2
+Liver Cancer,49,FAP
+Liver Cancer,50,PCLO
+Brain Cancer,1,IDH1
+Brain Cancer,2,TP53
+Brain Cancer,3,TERT
+Brain Cancer,4,IDH2
+Brain Cancer,5,BRAF
+Brain Cancer,6,EGFR
+Brain Cancer,7,ATRX
+Brain Cancer,8,MGMT
+Brain Cancer,9,PTEN
+Brain Cancer,10,AIP
+Brain Cancer,11,MSH6
+Brain Cancer,12,AHR
+Brain Cancer,13,PMS2
+Brain Cancer,14,PDGFRA
+Brain Cancer,15,MLH1
+Brain Cancer,16,POLE
+Brain Cancer,17,CTNNB1
+Brain Cancer,18,PIK3CA
+Brain Cancer,19,KRAS
+Brain Cancer,20,MEN1
+Brain Cancer,21,MSH2
+Brain Cancer,22,CDKN2A
+Brain Cancer,23,NF1
+Brain Cancer,24,FGFR1
+Brain Cancer,25,H3C3
+Brain Cancer,26,SHH
+Brain Cancer,27,KIAA1549
+Brain Cancer,28,RB1
+Brain Cancer,29,CIC
+Brain Cancer,30,NRAS
+Brain Cancer,31,PTCH1
+Brain Cancer,32,VHL
+Brain Cancer,33,SUFU
+Brain Cancer,34,PIK3R1
+Brain Cancer,35,MET
+Brain Cancer,36,GNAS
+Brain Cancer,37,KRIT1
+Brain Cancer,38,HRAS
+Brain Cancer,39,PTPN11
+Brain Cancer,40,KIT
+Brain Cancer,41,MKI67
+Brain Cancer,42,SMO
+Brain Cancer,43,PPM1D
+Brain Cancer,44,SMARCA4
+Brain Cancer,45,PRL
+Brain Cancer,46,POMC
+Brain Cancer,47,PDCD1
+Brain Cancer,48,APC
+Brain Cancer,49,ACVR1
+Brain Cancer,50,USP8

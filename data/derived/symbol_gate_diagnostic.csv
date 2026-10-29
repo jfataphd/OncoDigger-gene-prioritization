@@ -1,0 +1,991 @@
+cancer,engine_position,gene,status,final_rank
+Breast Cancer,1,BRCA1,kept,1
+Breast Cancer,2,BRCA2,kept,2
+Breast Cancer,3,PIK3CA,kept,3
+Breast Cancer,4,TP53,kept,4
+Breast Cancer,5,ERBB2,kept,5
+Breast Cancer,6,PALB2,kept,6
+Breast Cancer,7,ESR1,kept,7
+Breast Cancer,8,PTEN,kept,8
+Breast Cancer,9,CHEK2,kept,9
+Breast Cancer,10,AKT1,kept,10
+Breast Cancer,11,ATM,kept,11
+Breast Cancer,12,EGFR,kept,12
+Breast Cancer,13,RAD51C,kept,13
+Breast Cancer,14,RAD51D,kept,14
+Breast Cancer,15,CYP19A1,kept,15
+Breast Cancer,16,CDH1,kept,16
+Breast Cancer,17,BRAF,kept,17
+Breast Cancer,18,PGR,kept,18
+Breast Cancer,19,BARD1,kept,19
+Breast Cancer,20,WDHD1,excluded,
+Breast Cancer,21,GATA3,kept,20
+Breast Cancer,22,PARP1,kept,21
+Breast Cancer,23,KRAS,kept,22
+Breast Cancer,24,MSH2,kept,23
+Breast Cancer,25,MET,kept,24
+Breast Cancer,26,MED12,kept,25
+Breast Cancer,27,MLH1,kept,26
+Breast Cancer,28,RB1,kept,27
+Breast Cancer,29,MTOR,kept,28
+Breast Cancer,30,NBN,kept,29
+Breast Cancer,31,PIK3R1,kept,30
+Breast Cancer,32,MSH6,kept,31
+Breast Cancer,33,APC,kept,32
+Breast Cancer,34,STK11,kept,33
+Breast Cancer,35,MKI67,kept,34
+Breast Cancer,36,MAP3K1,kept,35
+Breast Cancer,37,KIT,kept,36
+Breast Cancer,38,RAD51,kept,37
+Breast Cancer,39,BRIP1,kept,38
+Breast Cancer,40,ERBB3,kept,39
+Breast Cancer,41,NF1,kept,40
+Breast Cancer,42,CDKN2A,kept,41
+Breast Cancer,43,SART3,kept,42
+Breast Cancer,44,PDGFRA,kept,43
+Breast Cancer,45,BCAR3,kept,44
+Breast Cancer,46,MAP2K4,kept,45
+Breast Cancer,47,MUTYH,kept,46
+Breast Cancer,48,BANK1,GATE_dropped,
+Breast Cancer,49,FGFR3,kept,47
+Breast Cancer,50,IDH2,kept,48
+Breast Cancer,51,FH,kept,49
+Breast Cancer,52,CDK4,kept,50
+Lung Cancer,1,EGFR,kept,1
+Lung Cancer,2,KRAS,kept,2
+Lung Cancer,3,TP53,kept,3
+Lung Cancer,4,BRAF,kept,4
+Lung Cancer,5,ALK,kept,5
+Lung Cancer,6,PIK3CA,kept,6
+Lung Cancer,7,ERBB2,kept,7
+Lung Cancer,8,CD274,kept,8
+Lung Cancer,9,MET,kept,9
+Lung Cancer,10,STK11,kept,10
+Lung Cancer,11,NRAS,kept,11
+Lung Cancer,12,KEAP1,kept,12
+Lung Cancer,13,ROS1,kept,13
+Lung Cancer,14,KIT,kept,14
+Lung Cancer,15,BRCA1,kept,15
+Lung Cancer,16,EML4,kept,16
+Lung Cancer,17,PTEN,kept,17
+Lung Cancer,18,RET,kept,18
+Lung Cancer,19,WDHD1,excluded,
+Lung Cancer,20,NKX2-1,kept,19
+Lung Cancer,21,BRCA2,kept,20
+Lung Cancer,22,F3,kept,21
+Lung Cancer,23,SMARCA4,kept,22
+Lung Cancer,24,EPHA5,kept,23
+Lung Cancer,25,NF1,kept,24
+Lung Cancer,26,ATM,kept,25
+Lung Cancer,27,BAP1,kept,26
+Lung Cancer,28,RB1,kept,27
+Lung Cancer,29,KMT2C,kept,28
+Lung Cancer,30,EGF,kept,29
+Lung Cancer,31,PDCD1,kept,30
+Lung Cancer,32,TYMS,kept,31
+Lung Cancer,33,PC,excluded,
+Lung Cancer,34,AKT1,kept,32
+Lung Cancer,35,MAP2K1,kept,33
+Lung Cancer,36,CTNNB1,kept,34
+Lung Cancer,37,PDZK1,GATE_dropped,
+Lung Cancer,38,SPEF1,GATE_dropped,
+Lung Cancer,39,NFE2L2,kept,35
+Lung Cancer,40,ERBB4,kept,36
+Lung Cancer,41,TET2,kept,37
+Lung Cancer,42,IGLL3P,GATE_dropped,
+Lung Cancer,43,CSMD3,kept,38
+Lung Cancer,44,BCL2L11,kept,39
+Lung Cancer,45,ZFHX3,kept,40
+Lung Cancer,46,IDH1,kept,41
+Lung Cancer,47,PTPRT,kept,42
+Lung Cancer,48,BRAP,GATE_dropped,
+Lung Cancer,49,ERCC1,kept,43
+Lung Cancer,50,RBM10,kept,44
+Lung Cancer,51,DDR2,kept,45
+Lung Cancer,52,CUL3,kept,46
+Lung Cancer,53,TMEM200B,GATE_dropped,
+Lung Cancer,54,IGLL2P,GATE_dropped,
+Lung Cancer,55,PDGFRA,kept,47
+Lung Cancer,56,AXL,kept,48
+Lung Cancer,57,IDH2,kept,49
+Lung Cancer,58,AURKA,kept,50
+Colorectal Cancer,1,KRAS,kept,1
+Colorectal Cancer,2,BRAF,kept,2
+Colorectal Cancer,3,EGFR,kept,3
+Colorectal Cancer,4,NRAS,kept,4
+Colorectal Cancer,5,MLH1,kept,5
+Colorectal Cancer,6,PIK3CA,kept,6
+Colorectal Cancer,7,MSH2,kept,7
+Colorectal Cancer,8,APC,kept,8
+Colorectal Cancer,9,TP53,kept,9
+Colorectal Cancer,10,MSH6,kept,10
+Colorectal Cancer,11,PMS2,kept,11
+Colorectal Cancer,12,POLE,kept,12
+Colorectal Cancer,13,MUTYH,kept,13
+Colorectal Cancer,14,FAP,kept,14
+Colorectal Cancer,15,KIT,kept,15
+Colorectal Cancer,16,PTEN,kept,16
+Colorectal Cancer,17,CTNNB1,kept,17
+Colorectal Cancer,18,WDHD1,excluded,
+Colorectal Cancer,19,BRCA2,kept,18
+Colorectal Cancer,20,SMAD4,kept,19
+Colorectal Cancer,21,MET,kept,20
+Colorectal Cancer,22,BRCA1,kept,21
+Colorectal Cancer,23,POLD1,kept,22
+Colorectal Cancer,24,RNF43,kept,23
+Colorectal Cancer,25,HRAS,kept,24
+Colorectal Cancer,26,ATM,kept,25
+Colorectal Cancer,27,FBXW7,kept,26
+Colorectal Cancer,28,ERBB2,kept,27
+Colorectal Cancer,29,GNAS,kept,28
+Colorectal Cancer,30,PDGFRA,kept,29
+Colorectal Cancer,31,AKT1,kept,30
+Colorectal Cancer,32,AFAP1,GATE_dropped,
+Colorectal Cancer,33,NF1,kept,31
+Colorectal Cancer,34,MAP2K1,kept,32
+Colorectal Cancer,35,CHEK2,kept,33
+Colorectal Cancer,36,KMT2D,kept,34
+Colorectal Cancer,37,MTOR,kept,35
+Colorectal Cancer,38,BMPR1A,kept,36
+Colorectal Cancer,39,CDKN2A,kept,37
+Colorectal Cancer,40,PALB2,kept,38
+Colorectal Cancer,41,TGFBR2,kept,39
+Colorectal Cancer,42,EGF,kept,40
+Colorectal Cancer,43,PTCH1,kept,41
+Colorectal Cancer,44,ARID1A,kept,42
+Colorectal Cancer,45,MLH3,kept,43
+Colorectal Cancer,46,PKHD1,kept,44
+Colorectal Cancer,47,RET,kept,45
+Colorectal Cancer,48,ACVRL1,kept,46
+Colorectal Cancer,49,RAD51D,kept,47
+Colorectal Cancer,50,BCAR3,kept,48
+Colorectal Cancer,51,PDCD1,kept,49
+Colorectal Cancer,52,TTR,kept,50
+Prostate Cancer,1,BRCA2,kept,1
+Prostate Cancer,2,BRCA1,kept,2
+Prostate Cancer,3,TP53,kept,3
+Prostate Cancer,4,ATM,kept,4
+Prostate Cancer,5,SPOP,kept,5
+Prostate Cancer,6,AR,kept,6
+Prostate Cancer,7,CHEK2,kept,7
+Prostate Cancer,8,PTEN,kept,8
+Prostate Cancer,9,PARP1,kept,9
+Prostate Cancer,10,PALB2,kept,10
+Prostate Cancer,11,RB1,kept,11
+Prostate Cancer,12,CDK12,kept,12
+Prostate Cancer,13,ERG,kept,13
+Prostate Cancer,14,MSH2,kept,14
+Prostate Cancer,15,HOXB13,kept,15
+Prostate Cancer,16,FOXA1,kept,16
+Prostate Cancer,17,MLH1,kept,17
+Prostate Cancer,18,MSH6,kept,18
+Prostate Cancer,19,NBN,kept,19
+Prostate Cancer,20,BRAF,kept,20
+Prostate Cancer,21,APC,kept,21
+Prostate Cancer,22,TMPRSS2,kept,22
+Prostate Cancer,23,PC,excluded,
+Prostate Cancer,24,RAD51C,kept,23
+Prostate Cancer,25,PIK3CA,kept,24
+Prostate Cancer,26,CHD1,kept,25
+Prostate Cancer,27,BRIP1,kept,26
+Prostate Cancer,28,KRAS,kept,27
+Prostate Cancer,29,PMS2,kept,28
+Prostate Cancer,30,CTNNB1,kept,29
+Prostate Cancer,31,EGFR,kept,30
+Prostate Cancer,32,MED12,kept,31
+Prostate Cancer,33,MYC,kept,32
+Prostate Cancer,34,IDH1,kept,33
+Prostate Cancer,35,RAD51,kept,34
+Prostate Cancer,36,FANCA,kept,35
+Prostate Cancer,37,ATR,kept,36
+Prostate Cancer,38,MSR1,kept,37
+Prostate Cancer,39,WDHD1,excluded,
+Prostate Cancer,40,KMT2C,kept,38
+Prostate Cancer,41,CHEK1,kept,39
+Prostate Cancer,42,NLRP2,GATE_dropped,
+Prostate Cancer,43,KMT2D,kept,40
+Prostate Cancer,44,FANCL,kept,41
+Prostate Cancer,45,RNASEL,kept,42
+Prostate Cancer,46,MUTYH,kept,43
+Prostate Cancer,47,RAD51D,kept,44
+Prostate Cancer,48,ELAC2,kept,45
+Prostate Cancer,49,KLF6,kept,46
+Prostate Cancer,50,MT-ATP6,kept,47
+Prostate Cancer,51,KDM6A,kept,48
+Prostate Cancer,52,RNF43,kept,49
+Prostate Cancer,53,FGFR3,kept,50
+Melanoma,1,BRAF,kept,1
+Melanoma,2,NRAS,kept,2
+Melanoma,3,KIT,kept,3
+Melanoma,4,CDKN2A,kept,4
+Melanoma,5,TERT,kept,5
+Melanoma,6,GNAQ,kept,6
+Melanoma,7,GNA11,kept,7
+Melanoma,8,BAP1,kept,8
+Melanoma,9,SF3B1,kept,9
+Melanoma,10,NF1,kept,10
+Melanoma,11,CDK4,kept,11
+Melanoma,12,TP53,kept,12
+Melanoma,13,KRAS,kept,13
+Melanoma,14,EIF1AX,kept,14
+Melanoma,15,PIK3CA,kept,15
+Melanoma,16,PTEN,kept,16
+Melanoma,17,BRCA1,kept,17
+Melanoma,18,CTNNB1,kept,18
+Melanoma,19,HRAS,kept,19
+Melanoma,20,MAP2K1,kept,20
+Melanoma,21,BRAP,GATE_dropped,
+Melanoma,22,EGFR,kept,21
+Melanoma,23,RAC1,kept,22
+Melanoma,24,PDGFRA,kept,23
+Melanoma,25,ARID2,kept,24
+Melanoma,26,PDCD1,kept,25
+Melanoma,27,BRCA2,kept,26
+Melanoma,28,ARID1A,kept,27
+Melanoma,29,POT1,kept,28
+Melanoma,30,IDH1,kept,29
+Melanoma,31,WDHD1,excluded,
+Melanoma,32,MC1R,kept,30
+Melanoma,33,ERBB4,kept,31
+Melanoma,34,PRAME,kept,32
+Melanoma,35,MUC16,kept,33
+Melanoma,36,LRP1B,kept,34
+Melanoma,37,CPD,kept,35
+Melanoma,38,ATRX,kept,36
+Melanoma,39,KDR,kept,37
+Melanoma,40,CYSLTR2,kept,38
+Melanoma,41,PLCB4,kept,39
+Melanoma,42,PPP6C,kept,40
+Melanoma,43,PREX2,kept,41
+Melanoma,44,MTOR,kept,42
+Melanoma,45,CD274,kept,43
+Melanoma,46,MET,kept,44
+Melanoma,47,PTPRD,kept,45
+Melanoma,48,CTLA4,kept,46
+Melanoma,49,ACD,kept,47
+Melanoma,50,KALRN,kept,48
+Melanoma,51,APC,kept,49
+Melanoma,52,IDH2,kept,50
+Bladder Cancer,1,FGFR3,kept,1
+Bladder Cancer,2,TP53,kept,2
+Bladder Cancer,3,TERT,kept,3
+Bladder Cancer,4,PIK3CA,kept,4
+Bladder Cancer,5,RB1,kept,5
+Bladder Cancer,6,KRAS,kept,6
+Bladder Cancer,7,ARID1A,kept,7
+Bladder Cancer,8,HRAS,kept,8
+Bladder Cancer,9,KDM6A,kept,9
+Bladder Cancer,10,ERBB2,kept,10
+Bladder Cancer,11,BRAF,kept,11
+Bladder Cancer,12,ERCC2,kept,12
+Bladder Cancer,13,CD274,kept,13
+Bladder Cancer,14,KMT2D,kept,14
+Bladder Cancer,15,NRAS,kept,15
+Bladder Cancer,16,TSC1,kept,16
+Bladder Cancer,17,APC,kept,17
+Bladder Cancer,18,CDKN2A,kept,18
+Bladder Cancer,19,EGFR,kept,19
+Bladder Cancer,20,FGFR1,kept,20
+Bladder Cancer,21,ATM,kept,21
+Bladder Cancer,22,MSH2,kept,22
+Bladder Cancer,23,FGFR2,kept,23
+Bladder Cancer,24,MTOR,kept,24
+Bladder Cancer,25,PTEN,kept,25
+Bladder Cancer,26,EP300,kept,26
+Bladder Cancer,27,BRCA2,kept,27
+Bladder Cancer,28,STAG2,kept,28
+Bladder Cancer,29,MLH1,kept,29
+Bladder Cancer,30,CREBBP,kept,30
+Bladder Cancer,31,PDCD1,kept,31
+Bladder Cancer,32,CDKN1A,kept,32
+Bladder Cancer,33,MDM2,kept,33
+Bladder Cancer,34,MSH6,kept,34
+Bladder Cancer,35,CTNNB1,kept,35
+Bladder Cancer,36,BRCA1,kept,36
+Bladder Cancer,37,SDHB,kept,37
+Bladder Cancer,38,AKT1,kept,38
+Bladder Cancer,39,ERBB3,kept,39
+Bladder Cancer,40,TACC3,kept,40
+Bladder Cancer,41,KMT2C,kept,41
+Bladder Cancer,42,KIT,kept,42
+Bladder Cancer,43,CHEK2,kept,43
+Bladder Cancer,44,TTN,kept,44
+Bladder Cancer,45,TSC2,kept,45
+Bladder Cancer,46,MKI67,kept,46
+Bladder Cancer,47,WDHD1,excluded,
+Bladder Cancer,48,FANCC,kept,47
+Bladder Cancer,49,PMS2,kept,48
+Bladder Cancer,50,KRT20,kept,49
+Bladder Cancer,51,CTLA4,kept,50
+Kidney Cancer,1,VHL,kept,1
+Kidney Cancer,2,WT1,kept,2
+Kidney Cancer,3,BAP1,kept,3
+Kidney Cancer,4,PBRM1,kept,4
+Kidney Cancer,5,FH,kept,5
+Kidney Cancer,6,FLCN,kept,6
+Kidney Cancer,7,SETD2,kept,7
+Kidney Cancer,8,TP53,kept,8
+Kidney Cancer,9,TSC2,kept,9
+Kidney Cancer,10,KDM5C,kept,10
+Kidney Cancer,11,TSC1,kept,11
+Kidney Cancer,12,CTNNB1,kept,12
+Kidney Cancer,13,SDHB,kept,13
+Kidney Cancer,14,MTOR,kept,14
+Kidney Cancer,15,MET,kept,15
+Kidney Cancer,16,BRCA1,kept,16
+Kidney Cancer,17,BRAF,kept,17
+Kidney Cancer,18,DICER1,kept,18
+Kidney Cancer,19,KRAS,kept,19
+Kidney Cancer,20,PTEN,kept,20
+Kidney Cancer,21,PIK3CA,kept,21
+Kidney Cancer,22,ELOC,kept,22
+Kidney Cancer,23,BRAP,kept,23
+Kidney Cancer,24,DROSHA,kept,24
+Kidney Cancer,25,FGFR3,kept,25
+Kidney Cancer,26,WDHD1,excluded,
+Kidney Cancer,27,TERT,kept,26
+Kidney Cancer,28,HIF1A,kept,27
+Kidney Cancer,29,PRCC,kept,28
+Kidney Cancer,30,MLH1,kept,29
+Kidney Cancer,31,DGCR8,kept,30
+Kidney Cancer,32,ATM,kept,31
+Kidney Cancer,33,MSH2,kept,32
+Kidney Cancer,34,RB1,kept,33
+Kidney Cancer,35,CHEK2,kept,34
+Kidney Cancer,36,BRCA2,kept,35
+Kidney Cancer,37,SDHA,kept,36
+Kidney Cancer,38,KIT,kept,37
+Kidney Cancer,39,GPNMB,kept,38
+Kidney Cancer,40,PAX6,kept,39
+Kidney Cancer,41,SDHC,kept,40
+Kidney Cancer,42,IGF2,kept,41
+Kidney Cancer,43,SMARCB1,kept,42
+Kidney Cancer,44,SDHD,kept,43
+Kidney Cancer,45,AMACR,kept,44
+Kidney Cancer,46,TFE3,kept,45
+Kidney Cancer,47,ARID1A,kept,46
+Kidney Cancer,48,GATA3,kept,47
+Kidney Cancer,49,CD274,kept,48
+Kidney Cancer,50,CA9,kept,49
+Kidney Cancer,51,TFEB,kept,50
+Pancreatic Cancer,1,KRAS,kept,1
+Pancreatic Cancer,2,BRCA2,kept,2
+Pancreatic Cancer,3,TP53,kept,3
+Pancreatic Cancer,4,BRCA1,kept,4
+Pancreatic Cancer,5,CDKN2A,kept,5
+Pancreatic Cancer,6,SMAD4,kept,6
+Pancreatic Cancer,7,GNAS,kept,7
+Pancreatic Cancer,8,BRAF,kept,8
+Pancreatic Cancer,9,MEN1,kept,9
+Pancreatic Cancer,10,PALB2,kept,10
+Pancreatic Cancer,11,ATM,kept,11
+Pancreatic Cancer,12,EGFR,kept,12
+Pancreatic Cancer,13,PIK3CA,kept,13
+Pancreatic Cancer,14,CTNNB1,kept,14
+Pancreatic Cancer,15,CHEK2,kept,15
+Pancreatic Cancer,16,RNF43,kept,16
+Pancreatic Cancer,17,PRSS1,kept,17
+Pancreatic Cancer,18,PC,excluded,
+Pancreatic Cancer,19,MLH1,kept,18
+Pancreatic Cancer,20,DAXX,kept,19
+Pancreatic Cancer,21,WDHD1,excluded,
+Pancreatic Cancer,22,PARP1,kept,20
+Pancreatic Cancer,23,MSH2,kept,21
+Pancreatic Cancer,24,CFTR,kept,22
+Pancreatic Cancer,25,APC,kept,23
+Pancreatic Cancer,26,ATRX,kept,24
+Pancreatic Cancer,27,SPINK1,kept,25
+Pancreatic Cancer,28,ARID1A,kept,26
+Pancreatic Cancer,29,PTEN,kept,27
+Pancreatic Cancer,30,TSC2,kept,28
+Pancreatic Cancer,31,RB1,kept,29
+Pancreatic Cancer,32,NRAS,kept,30
+Pancreatic Cancer,33,MSH6,kept,31
+Pancreatic Cancer,34,MET,kept,32
+Pancreatic Cancer,35,RAD51D,kept,33
+Pancreatic Cancer,36,STK11,kept,34
+Pancreatic Cancer,37,SPN,kept,35
+Pancreatic Cancer,38,ERBB2,kept,36
+Pancreatic Cancer,39,VHL,kept,37
+Pancreatic Cancer,40,YY1,kept,38
+Pancreatic Cancer,41,MTOR,kept,39
+Pancreatic Cancer,42,KIT,kept,40
+Pancreatic Cancer,43,PMS2,kept,41
+Pancreatic Cancer,44,SCT,kept,42
+Pancreatic Cancer,45,AKT1,kept,43
+Pancreatic Cancer,46,HP,kept,44
+Pancreatic Cancer,47,MUC2,kept,45
+Pancreatic Cancer,48,MYC,kept,46
+Pancreatic Cancer,49,SMARCB1,kept,47
+Pancreatic Cancer,50,KDM6A,kept,48
+Pancreatic Cancer,51,BARD1,kept,49
+Pancreatic Cancer,52,POLE,kept,50
+Liver Cancer,1,KRAS,kept,1
+Liver Cancer,2,TP53,kept,2
+Liver Cancer,3,CTNNB1,kept,3
+Liver Cancer,4,BRAF,kept,4
+Liver Cancer,5,NRAS,kept,5
+Liver Cancer,6,TERT,kept,6
+Liver Cancer,7,EGFR,kept,7
+Liver Cancer,8,PIK3CA,kept,8
+Liver Cancer,9,APC,kept,9
+Liver Cancer,10,C2,excluded,
+Liver Cancer,11,HFE,kept,10
+Liver Cancer,12,AXIN1,kept,11
+Liver Cancer,13,HNF1A,kept,12
+Liver Cancer,14,ARID1A,kept,13
+Liver Cancer,15,KIT,kept,14
+Liver Cancer,16,ERBB2,kept,15
+Liver Cancer,17,PTEN,kept,16
+Liver Cancer,18,CDKN2A,kept,17
+Liver Cancer,19,BAP1,kept,18
+Liver Cancer,20,WDHD1,excluded,
+Liver Cancer,21,FBXW7,kept,19
+Liver Cancer,22,GNAQ,kept,20
+Liver Cancer,23,BRCA2,kept,21
+Liver Cancer,24,PDGFRA,kept,22
+Liver Cancer,25,HRAS,kept,23
+Liver Cancer,26,GNA11,kept,24
+Liver Cancer,27,AKT1,kept,25
+Liver Cancer,28,ALK,kept,26
+Liver Cancer,29,IGLL3P,GATE_dropped,
+Liver Cancer,30,IDH1,kept,27
+Liver Cancer,31,SMAD4,kept,28
+Liver Cancer,32,JAK1,kept,29
+Liver Cancer,33,MET,kept,30
+Liver Cancer,34,TSC2,kept,31
+Liver Cancer,35,RB1,kept,32
+Liver Cancer,36,MEN1,kept,33
+Liver Cancer,37,NFE2L2,kept,34
+Liver Cancer,38,KEAP1,kept,35
+Liver Cancer,39,TTR,kept,36
+Liver Cancer,40,GNAS,kept,37
+Liver Cancer,41,AFP,kept,38
+Liver Cancer,42,HNF4A,kept,39
+Liver Cancer,43,KMT2D,kept,40
+Liver Cancer,44,HNF1B,kept,41
+Liver Cancer,45,TTN,kept,42
+Liver Cancer,46,ARID2,kept,43
+Liver Cancer,47,BRCA1,kept,44
+Liver Cancer,48,CCL14,kept,45
+Liver Cancer,49,STK11,kept,46
+Liver Cancer,50,ATM,kept,47
+Liver Cancer,51,MYC,kept,48
+Liver Cancer,52,ATRX,kept,49
+Liver Cancer,53,IL6ST,kept,50
+Stomach Cancer,1,CDH1,kept,1
+Stomach Cancer,2,TP53,kept,2
+Stomach Cancer,3,KRAS,kept,3
+Stomach Cancer,4,PIK3CA,kept,4
+Stomach Cancer,5,CTNNB1,kept,5
+Stomach Cancer,6,BRAF,kept,6
+Stomach Cancer,7,APC,kept,7
+Stomach Cancer,8,BRCA2,kept,8
+Stomach Cancer,9,PDGFRA,kept,9
+Stomach Cancer,10,ARID1A,kept,10
+Stomach Cancer,11,KIT,kept,11
+Stomach Cancer,12,BRCA1,kept,12
+Stomach Cancer,13,EGFR,kept,13
+Stomach Cancer,14,ATM,kept,14
+Stomach Cancer,15,RHOA,kept,15
+Stomach Cancer,16,MLH1,kept,16
+Stomach Cancer,17,ERBB2,kept,17
+Stomach Cancer,18,PTEN,kept,18
+Stomach Cancer,19,LRP1B,kept,19
+Stomach Cancer,20,MSH2,kept,20
+Stomach Cancer,21,STK11,kept,21
+Stomach Cancer,22,MET,kept,22
+Stomach Cancer,23,WDHD1,excluded,
+Stomach Cancer,24,BLM,kept,23
+Stomach Cancer,25,RAD50,kept,24
+Stomach Cancer,26,GNAS,kept,25
+Stomach Cancer,27,CD274,kept,26
+Stomach Cancer,28,NBN,kept,27
+Stomach Cancer,29,SMAD4,kept,28
+Stomach Cancer,30,PALB2,kept,29
+Stomach Cancer,31,MUC6,kept,30
+Stomach Cancer,32,CTNNA1,kept,31
+Stomach Cancer,33,KMT2C,kept,32
+Stomach Cancer,34,MUC16,kept,33
+Stomach Cancer,35,KMT2D,kept,34
+Stomach Cancer,36,BRIP1,kept,35
+Stomach Cancer,37,ERBB3,kept,36
+Stomach Cancer,38,RNF43,kept,37
+Stomach Cancer,39,SDHB,kept,38
+Stomach Cancer,40,FAP,kept,39
+Stomach Cancer,41,RAD51C,kept,40
+Stomach Cancer,42,FGFR2,kept,41
+Stomach Cancer,43,TTN,kept,42
+Stomach Cancer,44,CHEK2,kept,43
+Stomach Cancer,45,RB1,kept,44
+Stomach Cancer,46,FAT4,kept,45
+Stomach Cancer,47,SMARCB1,kept,46
+Stomach Cancer,48,CDKN2A,kept,47
+Stomach Cancer,49,POLE,kept,48
+Stomach Cancer,50,ARID2,kept,49
+Stomach Cancer,51,MKI67,kept,50
+Esophageal Cancer,1,TP53,kept,1
+Esophageal Cancer,2,PIK3CA,kept,2
+Esophageal Cancer,3,EGFR,kept,3
+Esophageal Cancer,4,KRAS,kept,4
+Esophageal Cancer,5,CDKN2A,kept,5
+Esophageal Cancer,6,BRAF,kept,6
+Esophageal Cancer,7,NOTCH1,kept,7
+Esophageal Cancer,8,BRCA2,kept,8
+Esophageal Cancer,9,NFE2L2,kept,9
+Esophageal Cancer,10,APC,kept,10
+Esophageal Cancer,11,ERBB2,kept,11
+Esophageal Cancer,12,KIT,kept,12
+Esophageal Cancer,13,PDGFRA,kept,13
+Esophageal Cancer,14,ARID1A,kept,14
+Esophageal Cancer,15,CD274,kept,15
+Esophageal Cancer,16,PTEN,kept,16
+Esophageal Cancer,17,CTNNB1,kept,17
+Esophageal Cancer,18,SMAD4,kept,18
+Esophageal Cancer,19,CCND1,kept,19
+Esophageal Cancer,20,BRCA1,kept,20
+Esophageal Cancer,21,FBXW7,kept,21
+Esophageal Cancer,22,MDM2,kept,22
+Esophageal Cancer,23,KMT2D,kept,23
+Esophageal Cancer,24,NRAS,kept,24
+Esophageal Cancer,25,RHBDF2,kept,25
+Esophageal Cancer,26,EP300,kept,26
+Esophageal Cancer,27,APOB,GATE_dropped,
+Esophageal Cancer,28,TET2,kept,27
+Esophageal Cancer,29,MLH1,kept,28
+Esophageal Cancer,30,MET,kept,29
+Esophageal Cancer,31,FAT1,kept,30
+Esophageal Cancer,32,ZNF750,kept,31
+Esophageal Cancer,33,MYC,kept,32
+Esophageal Cancer,34,SMARCA4,kept,33
+Esophageal Cancer,35,WDHD1,excluded,
+Esophageal Cancer,36,RB1,kept,34
+Esophageal Cancer,37,ATM,kept,35
+Esophageal Cancer,38,KEAP1,kept,36
+Esophageal Cancer,39,PDCD1,kept,37
+Esophageal Cancer,40,PROX1,kept,38
+Esophageal Cancer,41,EGF,kept,39
+Esophageal Cancer,42,MSH2,kept,40
+Esophageal Cancer,43,NF1,kept,41
+Esophageal Cancer,44,ERBB4,kept,42
+Esophageal Cancer,45,ASXL1,kept,43
+Esophageal Cancer,46,CDH1,kept,44
+Esophageal Cancer,47,PRIMA1,GATE_dropped,
+Esophageal Cancer,48,CDK4,kept,45
+Esophageal Cancer,49,MKI67,kept,46
+Esophageal Cancer,50,MGMT,kept,47
+Esophageal Cancer,51,PTCH1,kept,48
+Esophageal Cancer,52,CD34,kept,49
+Esophageal Cancer,53,BAP1,kept,50
+Ovarian Cancer,1,BRCA1,kept,1
+Ovarian Cancer,2,BRCA2,kept,2
+Ovarian Cancer,3,TP53,kept,3
+Ovarian Cancer,4,KRAS,kept,4
+Ovarian Cancer,5,POLE,kept,5
+Ovarian Cancer,6,PIK3CA,kept,6
+Ovarian Cancer,7,BRAF,kept,7
+Ovarian Cancer,8,CTNNB1,kept,8
+Ovarian Cancer,9,PTEN,kept,9
+Ovarian Cancer,10,RAD51C,kept,10
+Ovarian Cancer,11,MLH1,kept,11
+Ovarian Cancer,12,PALB2,kept,12
+Ovarian Cancer,13,RAD51D,kept,13
+Ovarian Cancer,14,MSH2,kept,14
+Ovarian Cancer,15,ARID1A,kept,15
+Ovarian Cancer,16,BRIP1,kept,16
+Ovarian Cancer,17,MSH6,kept,17
+Ovarian Cancer,18,ATM,kept,18
+Ovarian Cancer,19,CHEK2,kept,19
+Ovarian Cancer,20,PMS2,kept,20
+Ovarian Cancer,21,BARD1,kept,21
+Ovarian Cancer,22,PPP2R1A,kept,22
+Ovarian Cancer,23,WDHD1,excluded,
+Ovarian Cancer,24,PARP1,kept,23
+Ovarian Cancer,25,DICER1,kept,24
+Ovarian Cancer,26,RAD51,kept,25
+Ovarian Cancer,27,FOXL2,kept,26
+Ovarian Cancer,28,TERT,kept,27
+Ovarian Cancer,29,NRAS,kept,28
+Ovarian Cancer,30,NBN,kept,29
+Ovarian Cancer,31,RAD50,kept,30
+Ovarian Cancer,32,PIK3R1,kept,31
+Ovarian Cancer,33,KIT,kept,32
+Ovarian Cancer,34,ERBB2,kept,33
+Ovarian Cancer,35,SMARCA4,kept,34
+Ovarian Cancer,36,TTN,kept,35
+Ovarian Cancer,37,MUC16,kept,36
+Ovarian Cancer,38,FGFR2,kept,37
+Ovarian Cancer,39,MET,kept,38
+Ovarian Cancer,40,ATR,kept,39
+Ovarian Cancer,41,APC,kept,40
+Ovarian Cancer,42,CDK12,kept,41
+Ovarian Cancer,43,PGR,kept,42
+Ovarian Cancer,44,CDH1,kept,43
+Ovarian Cancer,45,PPM1D,kept,44
+Ovarian Cancer,46,HGS,kept,45
+Ovarian Cancer,47,STK11,kept,46
+Ovarian Cancer,48,MYC,kept,47
+Ovarian Cancer,49,MUTYH,kept,48
+Ovarian Cancer,50,MT-ATP6,kept,49
+Ovarian Cancer,51,EGFR,kept,50
+Endometrial Cancer,1,PTEN,kept,1
+Endometrial Cancer,2,PIK3CA,kept,2
+Endometrial Cancer,3,POLE,kept,3
+Endometrial Cancer,4,TP53,kept,4
+Endometrial Cancer,5,KRAS,kept,5
+Endometrial Cancer,6,MLH1,kept,6
+Endometrial Cancer,7,CTNNB1,kept,7
+Endometrial Cancer,8,MSH2,kept,8
+Endometrial Cancer,9,MSH6,kept,9
+Endometrial Cancer,10,ARID1A,kept,10
+Endometrial Cancer,11,BRCA1,kept,11
+Endometrial Cancer,12,PMS2,kept,12
+Endometrial Cancer,13,BRCA2,kept,13
+Endometrial Cancer,14,BRAF,kept,14
+Endometrial Cancer,15,PPP2R1A,kept,15
+Endometrial Cancer,16,FBXW7,kept,16
+Endometrial Cancer,17,FGFR2,kept,17
+Endometrial Cancer,18,WDHD1,excluded,
+Endometrial Cancer,19,PIK3R1,kept,18
+Endometrial Cancer,20,ERBB2,kept,19
+Endometrial Cancer,21,ATM,kept,20
+Endometrial Cancer,22,AKT1,kept,21
+Endometrial Cancer,23,CHEK2,kept,22
+Endometrial Cancer,24,BRIP1,kept,23
+Endometrial Cancer,25,MTOR,kept,24
+Endometrial Cancer,26,NRAS,kept,25
+Endometrial Cancer,27,RAD51D,kept,26
+Endometrial Cancer,28,ATR,kept,27
+Endometrial Cancer,29,PALB2,kept,28
+Endometrial Cancer,30,APC,kept,29
+Endometrial Cancer,31,ESR1,kept,30
+Endometrial Cancer,32,RAD51C,kept,31
+Endometrial Cancer,33,EGFR,kept,32
+Endometrial Cancer,34,BARD1,kept,33
+Endometrial Cancer,35,SPOP,kept,34
+Endometrial Cancer,36,POLD1,kept,35
+Endometrial Cancer,37,CCND1,kept,36
+Endometrial Cancer,38,CCNE1,kept,37
+Endometrial Cancer,39,JAK1,kept,38
+Endometrial Cancer,40,SMARCB1,kept,39
+Endometrial Cancer,41,CDKN2A,kept,40
+Endometrial Cancer,42,RPL22,kept,41
+Endometrial Cancer,43,EPCAM,kept,42
+Endometrial Cancer,44,SART3,GATE_dropped,
+Endometrial Cancer,45,AXIN2,kept,43
+Endometrial Cancer,46,MET,kept,44
+Endometrial Cancer,47,CDK12,kept,45
+Endometrial Cancer,48,CHEK1,kept,46
+Endometrial Cancer,49,PARP1,kept,47
+Endometrial Cancer,50,CD274,kept,48
+Endometrial Cancer,51,SMARCA4,kept,49
+Endometrial Cancer,52,BAX,kept,50
+Cervical Cancer,1,PIK3CA,kept,1
+Cervical Cancer,2,KRAS,kept,2
+Cervical Cancer,3,TP53,kept,3
+Cervical Cancer,4,PTEN,kept,4
+Cervical Cancer,5,ERBB2,kept,5
+Cervical Cancer,6,STK11,kept,6
+Cervical Cancer,7,EGFR,kept,7
+Cervical Cancer,8,FBXW7,kept,8
+Cervical Cancer,9,MTOR,kept,9
+Cervical Cancer,10,RB1,kept,10
+Cervical Cancer,11,ARID1A,kept,11
+Cervical Cancer,12,BRAF,kept,12
+Cervical Cancer,13,KMT2D,kept,13
+Cervical Cancer,14,CD274,kept,14
+Cervical Cancer,15,BRCA1,kept,15
+Cervical Cancer,16,FGFR3,kept,16
+Cervical Cancer,17,BRCA2,kept,17
+Cervical Cancer,18,LRP1B,kept,18
+Cervical Cancer,19,EP300,kept,19
+Cervical Cancer,20,GNAS,kept,20
+Cervical Cancer,21,TERT,kept,21
+Cervical Cancer,22,KMT2C,kept,22
+Cervical Cancer,23,NOTCH1,kept,23
+Cervical Cancer,24,DICER1,kept,24
+Cervical Cancer,25,NRAS,kept,25
+Cervical Cancer,26,MYC,kept,26
+Cervical Cancer,27,CDKN2A,kept,27
+Cervical Cancer,28,FAT1,kept,28
+Cervical Cancer,29,MSH2,kept,29
+Cervical Cancer,30,CTNNB1,kept,30
+Cervical Cancer,31,HRAS,kept,31
+Cervical Cancer,32,SMAD4,kept,32
+Cervical Cancer,33,HLA-B,kept,33
+Cervical Cancer,34,ERBB3,kept,34
+Cervical Cancer,35,ATM,kept,35
+Cervical Cancer,36,CDKN1A,kept,36
+Cervical Cancer,37,FGFR4,kept,37
+Cervical Cancer,38,KMT2B,kept,38
+Cervical Cancer,39,PDCD1,kept,39
+Cervical Cancer,40,MLH1,kept,40
+Cervical Cancer,41,ALK,kept,41
+Cervical Cancer,42,MSH6,kept,42
+Cervical Cancer,43,RET,kept,43
+Cervical Cancer,44,FHIT,kept,44
+Cervical Cancer,45,TNF,kept,45
+Cervical Cancer,46,MDM2,kept,46
+Cervical Cancer,47,WDHD1,excluded,
+Cervical Cancer,48,HLA-A,kept,47
+Cervical Cancer,49,GATA3,kept,48
+Cervical Cancer,50,PALB2,kept,49
+Cervical Cancer,51,PMS2,kept,50
+Thyroid Cancer,1,BRAF,kept,1
+Thyroid Cancer,2,TERT,kept,2
+Thyroid Cancer,3,RET,kept,3
+Thyroid Cancer,4,NRAS,kept,4
+Thyroid Cancer,5,HRAS,kept,5
+Thyroid Cancer,6,KRAS,kept,6
+Thyroid Cancer,7,TP53,kept,7
+Thyroid Cancer,8,EIF1AX,kept,8
+Thyroid Cancer,9,PIK3CA,kept,9
+Thyroid Cancer,10,TSHR,kept,10
+Thyroid Cancer,11,CCDC6,kept,11
+Thyroid Cancer,12,PAX8,kept,12
+Thyroid Cancer,13,DICER1,kept,13
+Thyroid Cancer,14,PTEN,kept,14
+Thyroid Cancer,15,WDHD1,excluded,
+Thyroid Cancer,16,KALRN,GATE_dropped,
+Thyroid Cancer,17,GNAS,kept,15
+Thyroid Cancer,18,PPARG,kept,16
+Thyroid Cancer,19,NCOA4,kept,17
+Thyroid Cancer,20,APC,kept,18
+Thyroid Cancer,21,ALK,kept,19
+Thyroid Cancer,22,EGFR,kept,20
+Thyroid Cancer,23,NF1,kept,21
+Thyroid Cancer,24,CTNNB1,kept,22
+Thyroid Cancer,25,EZH1,kept,23
+Thyroid Cancer,26,MKI67,kept,24
+Thyroid Cancer,27,MET,kept,25
+Thyroid Cancer,28,TPO,kept,26
+Thyroid Cancer,29,NTRK1,kept,27
+Thyroid Cancer,30,KIT,kept,28
+Thyroid Cancer,31,MAP2K1,kept,29
+Thyroid Cancer,32,STK11,kept,30
+Thyroid Cancer,33,NTRK3,kept,31
+Thyroid Cancer,34,TYR,kept,32
+Thyroid Cancer,35,AKT1,kept,33
+Thyroid Cancer,36,MTOR,kept,34
+Thyroid Cancer,37,FAP,kept,35
+Thyroid Cancer,38,CHEK2,kept,36
+Thyroid Cancer,39,PLEKHS1,kept,37
+Thyroid Cancer,40,TG,kept,38
+Thyroid Cancer,41,AR,kept,39
+Thyroid Cancer,42,ETV6,kept,40
+Thyroid Cancer,43,IGLL2P,GATE_dropped,
+Thyroid Cancer,44,MAPK3,kept,41
+Thyroid Cancer,45,DGCR8,kept,42
+Thyroid Cancer,46,NKX2-1,kept,43
+Thyroid Cancer,47,LGALS3,kept,44
+Thyroid Cancer,48,BCAR3,GATE_dropped,
+Thyroid Cancer,49,ATRX,kept,45
+Thyroid Cancer,50,MIR21,kept,46
+Thyroid Cancer,51,CD274,kept,47
+Thyroid Cancer,52,KMT2D,kept,48
+Thyroid Cancer,53,NOTCH1,kept,49
+Thyroid Cancer,54,CREB3L2,kept,50
+Brain Cancer,1,IDH1,kept,1
+Brain Cancer,2,TP53,kept,2
+Brain Cancer,3,EGFR,kept,3
+Brain Cancer,4,TERT,kept,4
+Brain Cancer,5,IDH2,kept,5
+Brain Cancer,6,BRAF,kept,6
+Brain Cancer,7,KRAS,kept,7
+Brain Cancer,8,ATRX,kept,8
+Brain Cancer,9,MGMT,kept,9
+Brain Cancer,10,PTEN,kept,10
+Brain Cancer,11,AIP,kept,11
+Brain Cancer,12,PIK3CA,kept,12
+Brain Cancer,13,MLH1,kept,13
+Brain Cancer,14,AHR,kept,14
+Brain Cancer,15,MSH6,kept,15
+Brain Cancer,16,PMS2,kept,16
+Brain Cancer,17,PDGFRA,kept,17
+Brain Cancer,18,POLE,kept,18
+Brain Cancer,19,NRAS,kept,19
+Brain Cancer,20,CTNNB1,kept,20
+Brain Cancer,21,NF1,kept,21
+Brain Cancer,22,MSH2,kept,22
+Brain Cancer,23,CDKN2A,kept,23
+Brain Cancer,24,MEN1,kept,24
+Brain Cancer,25,FGFR1,kept,25
+Brain Cancer,26,ALK,kept,26
+Brain Cancer,27,H3C3,kept,27
+Brain Cancer,28,H3C6,GATE_dropped,
+Brain Cancer,29,WDHD1,excluded,
+Brain Cancer,30,RB1,kept,28
+Brain Cancer,31,KIT,kept,29
+Brain Cancer,32,KIAA1549,kept,30
+Brain Cancer,33,SHH,kept,31
+Brain Cancer,34,CIC,kept,32
+Brain Cancer,35,MET,kept,33
+Brain Cancer,36,KRIT1,kept,34
+Brain Cancer,37,GNAS,kept,35
+Brain Cancer,38,HRAS,kept,36
+Brain Cancer,39,PTCH1,kept,37
+Brain Cancer,40,SUFU,kept,38
+Brain Cancer,41,PIK3R1,kept,39
+Brain Cancer,42,SMO,kept,40
+Brain Cancer,43,PTPN11,kept,41
+Brain Cancer,44,VHL,kept,42
+Brain Cancer,45,PPM1D,kept,43
+Brain Cancer,46,MKI67,kept,44
+Brain Cancer,47,SMARCA4,kept,45
+Brain Cancer,48,PRL,kept,46
+Brain Cancer,49,USP8,kept,47
+Brain Cancer,50,ACVR1,kept,48
+Brain Cancer,51,DICER1,kept,49
+Brain Cancer,52,POMC,kept,50
+Leukemia,1,FLT3,kept,1
+Leukemia,2,NPM1,kept,2
+Leukemia,3,DNMT3A,kept,3
+Leukemia,4,CEBPA,kept,4
+Leukemia,5,NRAS,kept,5
+Leukemia,6,ASXL1,kept,6
+Leukemia,7,TP53,kept,7
+Leukemia,8,IDH1,kept,8
+Leukemia,9,BCR,kept,9
+Leukemia,10,TET2,kept,10
+Leukemia,11,RUNX1,kept,11
+Leukemia,12,IDH2,kept,12
+Leukemia,13,KRAS,kept,13
+Leukemia,14,SRSF2,kept,14
+Leukemia,15,ABL1,kept,15
+Leukemia,16,KIT,kept,16
+Leukemia,17,U2AF1,kept,17
+Leukemia,18,PTPN11,kept,18
+Leukemia,19,SF3B1,kept,19
+Leukemia,20,NOTCH1,kept,20
+Leukemia,21,WT1,kept,21
+Leukemia,22,JAK2,kept,22
+Leukemia,23,MPL,kept,23
+Leukemia,24,EZH2,kept,24
+Leukemia,25,BRAF,kept,25
+Leukemia,26,CSF3R,kept,26
+Leukemia,27,WDHD1,excluded,
+Leukemia,28,CBL,kept,27
+Leukemia,29,BCOR,kept,28
+Leukemia,30,FBXW7,kept,29
+Leukemia,31,PHF6,kept,30
+Leukemia,32,GATA2,kept,31
+Leukemia,33,CALR,kept,32
+Leukemia,34,BCORL1,kept,33
+Leukemia,35,ZRSR2,kept,34
+Leukemia,36,STAG2,kept,35
+Leukemia,37,RUNX1T1,kept,36
+Leukemia,38,ATM,kept,37
+Leukemia,39,MYH11,kept,38
+Leukemia,40,JAK3,kept,39
+Leukemia,41,CD34,kept,40
+Leukemia,42,JAK1,kept,41
+Leukemia,43,ETV6,kept,42
+Leukemia,44,BIRC3,kept,43
+Leukemia,45,MYD88,kept,44
+Leukemia,46,IKZF1,kept,45
+Leukemia,47,SETBP1,kept,46
+Leukemia,48,CBFB,kept,47
+Leukemia,49,NF1,kept,48
+Leukemia,50,KMT2D,kept,49
+Leukemia,51,KMT2A,kept,50
+Lymphoma,1,MYD88,kept,1
+Lymphoma,2,TP53,kept,2
+Lymphoma,3,KMT2D,kept,3
+Lymphoma,4,EZH2,kept,4
+Lymphoma,5,CD79B,kept,5
+Lymphoma,6,CREBBP,kept,6
+Lymphoma,7,TET2,kept,7
+Lymphoma,8,ATM,kept,8
+Lymphoma,9,CARD11,kept,9
+Lymphoma,10,RHOA,kept,10
+Lymphoma,11,MYC,kept,11
+Lymphoma,12,TNFAIP3,kept,12
+Lymphoma,13,BCL2,kept,13
+Lymphoma,14,PIM1,kept,14
+Lymphoma,15,NOTCH1,kept,15
+Lymphoma,16,DNMT3A,kept,16
+Lymphoma,17,IDH2,kept,17
+Lymphoma,18,BCL6,kept,18
+Lymphoma,19,SOCS1,kept,19
+Lymphoma,20,NOTCH2,kept,20
+Lymphoma,21,STAT3,kept,21
+Lymphoma,22,TNFRSF14,kept,22
+Lymphoma,23,BRAF,kept,23
+Lymphoma,24,NRAS,kept,24
+Lymphoma,25,CDKN2A,kept,25
+Lymphoma,26,MEF2B,kept,26
+Lymphoma,27,TBL1XR1,kept,27
+Lymphoma,28,KMT2B,kept,28
+Lymphoma,29,EP300,kept,29
+Lymphoma,30,ARID1A,kept,30
+Lymphoma,31,AICDA,kept,31
+Lymphoma,32,KRAS,kept,32
+Lymphoma,33,BCL10,kept,33
+Lymphoma,34,JAK3,kept,34
+Lymphoma,35,FAS,kept,35
+Lymphoma,36,KMT2C,kept,36
+Lymphoma,37,B2M,kept,37
+Lymphoma,38,CXCR4,kept,38
+Lymphoma,39,PTEN,kept,39
+Lymphoma,40,CCND3,kept,40
+Lymphoma,41,STAT6,kept,41
+Lymphoma,42,BTG2,kept,42
+Lymphoma,43,ID3,kept,43
+Lymphoma,44,CTNNB1,kept,44
+Lymphoma,45,IGH,kept,45
+Lymphoma,46,CD58,kept,46
+Lymphoma,47,TRAF3,kept,47
+Lymphoma,48,DDIT3,kept,48
+Lymphoma,49,MSH2,kept,49
+Lymphoma,50,FBXW7,kept,50
+Myeloma,1,NRAS,kept,1
+Myeloma,2,TP53,kept,2
+Myeloma,3,BRAF,kept,3
+Myeloma,4,KRAS,kept,4
+Myeloma,5,DIS3,kept,5
+Myeloma,6,IGH,kept,6
+Myeloma,7,FGFR3,kept,7
+Myeloma,8,MYC,kept,8
+Myeloma,9,IRF4,kept,9
+Myeloma,10,TRAF3,kept,10
+Myeloma,11,RB1,kept,11
+Myeloma,12,ATM,kept,12
+Myeloma,13,DNMT3A,kept,13
+Myeloma,14,CCND1,kept,14
+Myeloma,15,CYLD,kept,15
+Myeloma,16,TET2,kept,16
+Myeloma,17,MYD88,kept,17
+Myeloma,18,SDC1,kept,18
+Myeloma,19,NSD2,kept,19
+Myeloma,20,ASXL1,kept,20
+Myeloma,21,BIRC3,kept,21
+Myeloma,22,EGR1,kept,22
+Myeloma,23,PC,excluded,
+Myeloma,24,CDKN2C,kept,23
+Myeloma,25,LTB,kept,24
+Myeloma,26,MAF,kept,25
+Myeloma,27,CRBN,kept,26
+Myeloma,28,BCL6,kept,27
+Myeloma,29,PSMB5,kept,28
+Myeloma,30,PIK3CA,kept,29
+Myeloma,31,BIRC2,kept,30
+Myeloma,32,PRDM1,kept,31
+Myeloma,33,KMT2D,kept,32
+Myeloma,34,STAT3,kept,33
+Myeloma,35,IL6,kept,34
+Myeloma,36,FAT1,kept,35
+Myeloma,37,BCL2,kept,36
+Myeloma,38,CD38,kept,37
+Myeloma,39,KMT2A,kept,38
+Myeloma,40,CDKN2A,kept,39
+Myeloma,41,TENT5C,kept,40
+Myeloma,42,EZH2,kept,41
+Myeloma,43,IGLL5,kept,42
+Myeloma,44,SF3B1,kept,43
+Myeloma,45,FLT3,kept,44
+Myeloma,46,TRAF2,kept,45
+Myeloma,47,IDH2,kept,46
+Myeloma,48,INS,kept,47
+Myeloma,49,UBA1,kept,48
+Myeloma,50,TNFRSF13B,kept,49
+Myeloma,51,APOBEC3B,kept,50

@@ -1,0 +1,3 @@
+metric,proximity_w3,matched_counting,diff_pp,ci_lo,ci_hi,cancers_better,cancers_equal,cancers_worse
+intogen_exact,149,145,2.1,-0.5,4.7,6,11,2
+intogen_any,178,175,1.6,0.0,3.2,3,16,0

@@ -1,0 +1,6 @@
+variant,n,any_hits,any_pct,exact_hits,exact_pct
+"full_pipeline (BM25+enrichment, vetted vocab)",190,178,93.6842105263158,150,78.94736842105263
+"frequency_only (vetted vocab + aliases, no BM25/enrichment)",190,118,62.10526315789474,78,41.05263157894737
+"frequency_only (primary HGNC symbols only, strictest)",190,121,63.68421052631579,73,38.421052631578945
+"bm25_pipeline (vetted vocab, no longest-match fix)",190,175,92.10526315789474,147,77.36842105263158
+"bm25_pipeline (raw, uncleaned vocab)",190,81,42.63157894736842,53,27.89473684210526

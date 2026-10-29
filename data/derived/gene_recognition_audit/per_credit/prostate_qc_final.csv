@@ -1,0 +1,511 @@
+cancer,gene,pmid,sampling_method,triggering_alias,identity,evidence_draft,target_context,rationale,pool_rank,title,evidence_final
+Prostate Cancer,BRCA2,20043088,random,brca2,C,M,,symbol 'BRCA2' present,7,elevated expression of ki-67 identifies aggressive prostate cancers but does not distinguish brca1 or brca2 mutation carriers,M
+Prostate Cancer,BRCA2,34102435,random,brca2,C,ML,,symbol 'BRCA2' present,21,homologous recombination repair gene mutations in chinese localized and locally advanced prostate cancer patients,ML
+Prostate Cancer,BRCA2,38653037,random,brca2,C,M,,symbol 'BRCA2' present,25,treatment patterns and clinical outcomes among patients with metastatic prostate cancer harboring homologous recombination repair mutations,M
+Prostate Cancer,BRCA2,32686918,random,brca2|brca2 dna repair associated,C,M,,symbol 'BRCA2' present,27,brca2 c 8827c t pathogenic mutation in a consanguineous chinese family with hereditary breast cancer,M
+Prostate Cancer,BRCA2,37562861,random,brca2,C,M,,symbol 'BRCA2' present,73,severe hypercalcaemia in metastatic prostate cancer with biallelic brca2 mutations and lytic bone lesions,M
+Prostate Cancer,BRCA2,31816118,random,brca2,C,M,,symbol 'BRCA2' present,76,germline blm mutations and metastatic prostate cancer,M
+Prostate Cancer,BRCA2,30309687,random,brca2,C,M,,symbol 'BRCA2' present,82,germline mutations in atm and brca1 2 are associated with grade reclassification in men on active surveillance for prostate cancer,M
+Prostate Cancer,BRCA2,15131025,random,brca2,C,M,,symbol 'BRCA2' present,93,brca mutations and risk of prostate cancer in ashkenazi jews,M
+Prostate Cancer,BRCA2,19188187,random,brca2,C,M,,symbol 'BRCA2' present,117,associations of high-grade prostate cancer with brca1 and brca2 founder mutations,M
+Prostate Cancer,BRCA2,24096176,random,brca2,C,M,,symbol 'BRCA2' present,131,a common nonsense mutation of the blm gene and prostate cancer risk and survival,M
+Prostate Cancer,BRCA2,38182487,random,brca2,C,W,,symbol 'BRCA2' present,171,tumour-based mutational profiles predict visceral metastasis outcome and early death in prostate cancer patients,W
+Prostate Cancer,BRCA2,31948886,random,brca2,C,I,,symbol 'BRCA2' present,190,rare germline pathogenic mutations of dna repair genes are most strongly associated with grade group 5 prostate cancer,I
+Prostate Cancer,BRCA2,31631483,random,brca2,C,M,,symbol 'BRCA2' present,198,a first japanese case of neuroendocrine prostate cancer accompanied by lung and brain metastasis with somatic and germline brca2 mutation,M
+Prostate Cancer,BRCA2,40247739,random,brca2,C,M,,symbol 'BRCA2' present,208,brca mutations and prostate cancer should urologist improve daily clinical practice,M
+Prostate Cancer,BRCA2,34254341,random,brca2,C,I,,symbol 'BRCA2' present,210,observed evidence for guideline-recommended genes in predicting prostate cancer risk from a large population-based cohort,I
+Prostate Cancer,BRCA2,29368341,random,brca2,C,ML,,symbol 'BRCA2' present,221,intraductal ductal histology and lymphovascular invasion are associated with germline dna-repair gene mutations in prostate cancer,ML
+Prostate Cancer,BRCA2,34516663,random,brca2,C,M,,symbol 'BRCA2' present,240,efficacy of systemic therapies in men with metastatic castration resistant prostate cancer harboring germline atm versus brca2 mutations,M
+Prostate Cancer,BRCA2,42431822,random,brca2,C,I,,symbol 'BRCA2' present,242,real-world clinical outcomes genetic testing patterns and treatment patterns of patients with metastatic castration-resistant prostate cance,I
+Prostate Cancer,BRCA2,31322208,targeted,brca2,C,M,,symbol 'BRCA2' present,331,a systematic review of the prevalence of dna damage response gene mutations in prostate cancer,M
+Prostate Cancer,BRCA2,33994169,random,brca2,C,M,,symbol 'BRCA2' present,372,a clinical trial of prophylactic prostatectomy for brca2 mutation carriers is now the time,M
+Prostate Cancer,BRCA2,21147910,random,brca2,C,ML,,symbol 'BRCA2' present,374,copy number and targeted mutational analysis reveals novel somatic events in metastatic prostate tumors,ML
+Prostate Cancer,BRCA2,32190957,random,brca2,C,M,,symbol 'BRCA2' present,391,prognostic value of germline dna repair gene mutations in de novo metastatic and castration-sensitive prostate cancer,M
+Prostate Cancer,BRCA2,15880530,random,brca2,C,M,,symbol 'BRCA2' present,447,male brca1 and brca2 mutation carriers a pilot study investigating medical characteristics of patients participating in a prostate cancer pr,M
+Prostate Cancer,BRCA2,25948675,random,brca2,C,ML,,symbol 'BRCA2' present,490,brcapro 6 0 model validation in male patients presenting for brca testing,ML
+Prostate Cancer,BRCA2,31972048,random,brca2,C,M,,symbol 'BRCA2' present,503,extreme responses to immune checkpoint blockade following bipolar androgen therapy and enzalutamide in patients with metastatic castration r,M
+Prostate Cancer,BRCA2,36999648,random,brca2,C,M,,symbol 'BRCA2' present,533,brca1 and brca2 carriers with breast ovarian and prostate cancer demonstrate a different pattern of metastatic disease compared with non-car,M
+Prostate Cancer,BRCA2,37558543,random,brca2,C,ML,,symbol 'BRCA2' present,534,identification of a predictive genomic biomarker for prostate-directed therapy in synchronous low-volume metastatic castration-sensitive pro,ML
+Prostate Cancer,BRCA2,28410213,random,brca2,C,M,,symbol 'BRCA2' present,551,brca2 mutations should be screened early and routinely as markers of poor prognosis evidence from 8 988 patients with prostate cancer,M
+Prostate Cancer,BRCA2,28448241,random,brca2,C,M,,symbol 'BRCA2' present,590,prediction of breast and prostate cancer risks in male brca1 and brca2 mutation carriers using polygenic risk scores,M
+Prostate Cancer,BRCA2,25746941,random,brca2,C,ML,,symbol 'BRCA2' present,595,the role of the prostate cancer gene 3 urine test in addition to serum prostate-specific antigen level in prostate cancer screening among br,ML
+Prostate Cancer,BRCA2,32634759,random,brca2,C,I,,symbol 'BRCA2' present,648,impact of dna damage repair defects on response to radium-223 and overall survival in metastatic castration-resistant prostate cancer,I
+Prostate Cancer,BRCA2,35725469,random,brca2,C,M,,symbol 'BRCA2' present,666,a japanese case of castration-resistant prostate cancer with brca2 and rb1 co-loss and tp53 mutation a case report,M
+Prostate Cancer,BRCA2,28595730,random,brca2,C,M,,symbol 'BRCA2' present,674,recurrent large genomic rearrangements in brca1 and brca2 in an irish case series,M
+Prostate Cancer,BRCA2,17591842,random,brca2,C,M,,symbol 'BRCA2' present,689,high prevalence of brca1 deletions in brcapro-positive patients with high carrier probability,M
+Prostate Cancer,BRCA2,29762244,random,brca2,C,M,,symbol 'BRCA2' present,728,brca2 mutation as a possible cause of poor response to 177lu-psma therapy,M
+Prostate Cancer,BRCA2,22252577,random,brca2,C,P,,symbol 'BRCA2' present,730,the relevance of brca genetics to prostate cancer pathogenesis and treatment,P
+Prostate Cancer,BRCA2,41538264,random,brca2,C,M,,symbol 'BRCA2' present,760,emergence of brca reversion mutations in prostate cancer prior to parp inhibitor exposure clinical and therapeutic implications,M
+Prostate Cancer,BRCA2,28657667,targeted,brca2,C,ML,,symbol 'BRCA2' present,790,germline genetic variants in men with prostate cancer and one or more additional cancers,ML
+Prostate Cancer,BRCA2,28697982,random,brca2,C,M,,symbol 'BRCA2' present,908,prostate cancer screening in a new era of genetics,M
+Prostate Cancer,BRCA2,42114035,random,brca2,C,P,,symbol 'BRCA2' present,921,detection of homologous recombination repair gene mutations by tumor tissue and circulating tumor dna testing in prostate cancer in the phas,P
+Prostate Cancer,BRCA2,39348607,random,brca2,C,I,,symbol 'BRCA2' present,983,genomic landscape in prostate cancer in a latin american population,I
+Prostate Cancer,BRCA2,33722420,random,brca2,C,I,,symbol 'BRCA2' present,984,untangling the profound trial for advanced prostate cancer is there really a role for olaparib,I
+Prostate Cancer,BRCA1,20215531,random,brca1,C,M,,symbol 'BRCA1' present,53,germline brca mutations denote a clinicopathologic subset of prostate cancer,M
+Prostate Cancer,BRCA1,20840664,random,brca1,C,M,,symbol 'BRCA1' present,81,targeted prostate cancer screening in men with mutations in brca1 and brca2 detects aggressive prostate cancer preliminary analysis of the r,M
+Prostate Cancer,BRCA1,15131025,random,brca1,C,M,,symbol 'BRCA1' present,93,brca mutations and risk of prostate cancer in ashkenazi jews,M
+Prostate Cancer,BRCA1,26150619,random,brca1,C,M,,symbol 'BRCA1' present,111,brca 1 2 gene mutation and gastrointestinal stromal tumours a potential association,M
+Prostate Cancer,BRCA1,31640893,random,brca1,C,P,,symbol 'BRCA1' present,113,clinical outcomes in cyclin-dependent kinase 12 mutant advanced prostate cancer,P
+Prostate Cancer,BRCA1,19188187,random,brca1,C,M,,symbol 'BRCA1' present,117,associations of high-grade prostate cancer with brca1 and brca2 founder mutations,M
+Prostate Cancer,BRCA1,27456091,random,brca1,C,M,,symbol 'BRCA1' present,118,a cohort analysis of men with a family history of brca1 2 and lynch mutations for prostate cancer,M
+Prostate Cancer,BRCA1,35292633,random,brca1,C,I,,symbol 'BRCA1' present,125,germline mutation landscape of dna damage repair genes in african americans with prostate cancer highlights potentially targetable rad genes,I
+Prostate Cancer,BRCA1,31278035,random,brca1,C,M,,symbol 'BRCA1' present,170,prevalence of suspected hereditary cancer syndromes and germline mutations among a diverse cohort of probands reporting a family history of ,M
+Prostate Cancer,BRCA1,18577985,random,brca1,C,M,,symbol 'BRCA1' present,188,rapid progression of prostate cancer in men with a brca2 mutation,M
+Prostate Cancer,BRCA1,27532258,random,brca1,C,M,,symbol 'BRCA1' present,231,analysis of founder mutations in rare tumors associated with hereditary breast ovarian cancer reveals a novel association of brca2 mutations,M
+Prostate Cancer,BRCA1,19277124,random,brca1,C,M,,symbol 'BRCA1' present,253,potential excess mortality in brca1 2 mutation carriers beyond breast ovarian prostate and pancreatic cancers and melanoma,M
+Prostate Cancer,BRCA1,30900310,random,brca1,C,M,,symbol 'BRCA1' present,266,the association of brca1 and brca2 mutations with prostate cancer risk frequency and mortality a meta-analysis,M
+Prostate Cancer,BRCA1,15550590,random,brca1,C,M,,symbol 'BRCA1' present,269,risk of cancer at sites other than the breast in swedish families eligible for brca1 or brca2 mutation testing,M
+Prostate Cancer,BRCA1,19127258,random,brca1,C,I,,symbol 'BRCA1' present,306,a recurrent truncating germline mutation in the brip1 fancj gene and susceptibility to prostate cancer,I
+Prostate Cancer,BRCA1,36054589,random,brca1,C,M,,symbol 'BRCA1' present,317,a comprehensive literature review and meta-analysis of the prevalence of pan-cancer brca mutations homologous recombination repair gene muta,M
+Prostate Cancer,BRCA1,25047061,random,brca1,C,M,,symbol 'BRCA1' present,329,personalized prostate cancer screening among men with high risk genetic predisposition- study protocol for a prospective cohort study,M
+Prostate Cancer,BRCA1,36922933,random,brca1,C,M,,symbol 'BRCA1' present,332,whole-exome sequencing of nigerian prostate tumors from the prostate cancer transatlantic consortium captc reveals dna repair genes associat,M
+Prostate Cancer,BRCA1,34517749,random,brca1,C,M,,symbol 'BRCA1' present,388,is olaparib cost effective in metastatic castration-resistant prostate cancer patients with at least one favorable gene mutation in brca1 br,M
+Prostate Cancer,BRCA1,34242281,random,brca1,C,M,,symbol 'BRCA1' present,392,next-generation sequencing of brca1 and brca2 genes in moroccan prostate cancer patients with positive family history,M
+Prostate Cancer,BRCA1,36243543,random,brca1,C,M,,symbol 'BRCA1' present,397,emergence of brca reversion mutations in patients with metastatic castration-resistant prostate cancer after treatment with rucaparib,M
+Prostate Cancer,BRCA1,33556450,random,brca1,C,M,,symbol 'BRCA1' present,407,management of a prostate cancer patient with inherited germline brca1 and brca2 mutations a case report,M
+Prostate Cancer,BRCA1,34778690,random,brca1,C,M,,symbol 'BRCA1' present,409,differential activity of parp inhibitors in brca1 - versus brca2 -altered metastatic castration-resistant prostate cancer,M
+Prostate Cancer,BRCA1,12938098,random,brca1,C,M,,symbol 'BRCA1' present,415,twenty-three novel brca1 and brca2 sequence alterations in breast and or ovarian cancer families in southern germany,M
+Prostate Cancer,BRCA1,40019487,random,brca1,C,M,,symbol 'BRCA1' present,427,germline-somatic interactions in brca-associated cancers unique molecular profiles and clinical outcomes linking atm to tp53 synthetic essen,M
+Prostate Cancer,BRCA1,39947293,random,brca1,C,M,,symbol 'BRCA1' present,429,early diagnosis of prostate cancer in healthy men with germline mutations in dna damage response ddr pathways a literature review and propos,M
+Prostate Cancer,BRCA1,37698310,random,brca1,C,M,,symbol 'BRCA1' present,436,age-related changes of the prostate on magnetic resonance imaging quantitative and qualitative evaluation in a screening cohort of brca muta,M
+Prostate Cancer,BRCA1,15880530,random,brca1,C,M,,symbol 'BRCA1' present,447,male brca1 and brca2 mutation carriers a pilot study investigating medical characteristics of patients participating in a prostate cancer pr,M
+Prostate Cancer,BRCA1,37801600,random,brca1,C,M,,symbol 'BRCA1' present,528,image-guided fine-needle aspiration cytology for brca mutation assessment of psma-positive lymph node metastases in a patient with metastati,M
+Prostate Cancer,BRCA1,38862340,random,brca1,C,I,,symbol 'BRCA1' present,531,genomic determinants associated with modes of progression and patterns of failure in metachronous oligometastatic castration-sensitive prost,I
+Prostate Cancer,BRCA1,38452035,random,brca1,C,ML,,symbol 'BRCA1' present,638,a phase ii study of rucaparib monotherapy in nonmetastatic hormone-sensitive prostate cancer demonstrating brcaness genotype roar,ML
+Prostate Cancer,BRCA1,28595730,random,brca1,C,M,,symbol 'BRCA1' present,674,recurrent large genomic rearrangements in brca1 and brca2 in an irish case series,M
+Prostate Cancer,BRCA1,22252577,random,brca1,C,P,,symbol 'BRCA1' present,730,the relevance of brca genetics to prostate cancer pathogenesis and treatment,P
+Prostate Cancer,BRCA1,38748947,random,brca1,C,I,,symbol 'BRCA1' present,768,prospective study of homologous recombination repair gene mutation prevalence in patients with advanced prostate cancer from latin america c,I
+Prostate Cancer,BRCA1,42370172,random,brca1,C,M,target,symbol 'BRCA1' present,794,cdk9 degrader induces brcaness and sensitizes castration-resistant prostate cancer to parp inhibitor,M
+Prostate Cancer,BRCA1,39178368,random,brca1,C,M,,symbol 'BRCA1' present,800,dna-damaging therapies in patients with prostate cancer and pathogenic alterations in homologous recombination repair genes,M
+Prostate Cancer,BRCA1,41071892,random,brca1,C,P,target,symbol 'BRCA1' present,853,targeting the atm-trmt10a-brca1 axis confers synthetic lethality to parp inhibition in metastatic castration-resistant prostate cancer,P
+Prostate Cancer,BRCA1,23636849,random,brca1,C,M,,symbol 'BRCA1' present,893,somatic alterations contributing to metastasis of a castration-resistant prostate cancer,M
+Prostate Cancer,BRCA1,38461085,random,brca1,C,ML,,symbol 'BRCA1' present,943,mainstream model of genetic testing for prostate cancer at a large tertiary cancer centre,ML
+Prostate Cancer,BRCA1,33722420,random,brca1,C,I,,symbol 'BRCA1' present,984,untangling the profound trial for advanced prostate cancer is there really a role for olaparib,I
+Prostate Cancer,TP53,32875559,random,tp53,C,ML,,symbol 'TP53' present,28,mutations in atm nbn and brca2 predispose to aggressive prostate cancer in poland,ML
+Prostate Cancer,TP53,35768267,random,tp53,C,M,target,symbol 'TP53' present,72,genetic features of tp53 mutation and its downstream foxa1 in prostate cancer,M
+Prostate Cancer,TP53,35422210,random,tp53,C,ML,,symbol 'TP53' present,75,flg gene mutation up-regulates the abnormal tumor immune response and promotes the progression of prostate cancer,ML
+Prostate Cancer,TP53,16941491,random,tp53,C,M,,symbol 'TP53' present,77,unique substitution of chek2 and tp53 mutations implicated in primary prostate tumors and cancer cell lines,M
+Prostate Cancer,TP53,39642328,random,tp53,C,M,,symbol 'TP53' present,169,cancer-control outcomes of patients with metastatic castration-resistant prostate cancer with brca gene or tumor suppressor mutations underg,M
+Prostate Cancer,TP53,29650325,random,tp53,C,ML,,symbol 'TP53' present,181,improving the genetic signature of prostate cancer the somatic mutations,ML
+Prostate Cancer,TP53,18225585,random,tp53,C,M,,symbol 'TP53' present,192,tp53 mutation in prostate needle biopsies--comparison with patients follow-up,M
+Prostate Cancer,TP53,37838503,random,tp53,C,M,,symbol 'TP53' present,277,metastatic prostate cancer is associated with distinct higher frequency of genetic mutations at diagnosis,M
+Prostate Cancer,TP53,41121095,random,tp53,C,M,,symbol 'TP53' present,310,comprehensive genomic landscape of metastatic hormone-sensitive prostate cancer in the chinese population,M
+Prostate Cancer,TP53,21949389,random,tp53,C,I,,symbol 'TP53' present,318,exome sequencing identifies a spectrum of mutation frequencies in advanced and lethal prostate cancers,I
+Prostate Cancer,TP53,31744831,random,tp53,C,M,,symbol 'TP53' present,330,identification of hypermutation and defective mismatch repair in ctdna from metastatic prostate cancer,M
+Prostate Cancer,TP53,38662984,random,tp53,C,M,,symbol 'TP53' present,365,genomic correlates of prostate-specific membrane antigen expression and response to 177 lu-psma-617 a retrospective multicenter cohort study,M
+Prostate Cancer,TP53,41714123,random,tp53,C,M,,symbol 'TP53' present,376,differential response to 177 lu-psma-617 in patients with tumor suppressor gene-mutated metastatic castration-resistant prostate cancer,M
+Prostate Cancer,TP53,25512615,random,tp53,C,M,,symbol 'TP53' present,379,p53 mutation directs aurka overexpression via mir-25 and fbxw7 in prostatic small cell neuroendocrine carcinoma,M
+Prostate Cancer,TP53,41134550,random,tp53,C,M,,symbol 'TP53' present,421,investigating genomic differences by ethnicity in breast colorectal and prostate cancers secondary data analysis of the genomic data commons,M
+Prostate Cancer,TP53,35975690,random,tp53,C,M,,symbol 'TP53' present,425,tp53 loss-of-function causes vulnerability to autophagy inhibition in aggressive prostate cancer,M
+Prostate Cancer,TP53,28842510,random,tp53,C,ML,,symbol 'TP53' present,444,impact of therapy on genomics and transcriptomics in high-risk prostate cancer treated with neoadjuvant docetaxel and androgen deprivation t,ML
+Prostate Cancer,TP53,33955569,random,tp53,C,M,,symbol 'TP53' present,455,genomic profiles and clinical outcomes in primary versus secondary metastatic hormone-sensitive prostate cancer,M
+Prostate Cancer,TP53,36401126,random,tp53,C,ML,,symbol 'TP53' present,458,genetic profiling of hormone-sensitive and castration-resistant prostate cancers and identification of genetic mutations prone to castration,ML
+Prostate Cancer,TP53,34783071,random,tp53,C,ML,,symbol 'TP53' present,513,clinical and genomic features of spop-mutant prostate cancer,ML
+Prostate Cancer,TP53,40558274,random,tp53,C,M,,symbol 'TP53' present,515,pten mutations associated with increased recurrence and decreased survival in patients with prostate cancer spinal metastasis,M
+Prostate Cancer,TP53,37558543,random,tp53,C,ML,,symbol 'TP53' present,534,identification of a predictive genomic biomarker for prostate-directed therapy in synchronous low-volume metastatic castration-sensitive pro,ML
+Prostate Cancer,TP53,34716314,random,tp53,C,I,,symbol 'TP53' present,593,somatic driver mutation prevalence in 1844 prostate cancers identifies znrf3 loss as a predictor of metastatic relapse,I
+Prostate Cancer,TP53,42220083,random,tp53,C,ML,,symbol 'TP53' present,604,mitf gain-of-function mutation in metastatic prostate cancer a rare finding with potential therapeutic significance,ML
+Prostate Cancer,TP53,20592345,random,tp53,C,M,,symbol 'TP53' present,609,tp53 gene mutations in prostate cancer progression,M
+Prostate Cancer,TP53,22563073,random,tp53,C,M,,symbol 'TP53' present,662,initiation of prostate cancer in mice by tp53r270h evidence for an alternative molecular progression,M
+Prostate Cancer,TP53,42070269,random,tp53,C,M,,symbol 'TP53' present,672,impact of genomic mutations on the transcriptional pathways and tumor microenvironment landscape of localized early prostate cancer,M
+Prostate Cancer,TP53,26975494,random,tp53,C,M,,symbol 'TP53' present,684,dna alterations in the tumor genome and their associations with clinical outcome in prostate cancer,M
+Prostate Cancer,TP53,41217768,random,tp53,C,G,,symbol 'TP53' present,692,blood-based genomic alteration signature for predicting progression-free survival in de novo metastatic hormone-sensitive prostate cancer a ,G
+Prostate Cancer,TP53,25586381,random,tp53,C,I,,symbol 'TP53' present,734,mutation detection in formalin-fixed prostate cancer biopsies taken at the time of diagnosis using next-generation dna sequencing,I
+Prostate Cancer,TP53,37584393,random,tp53,C,M,,symbol 'TP53' present,741,prospective clinical sequencing of 1016 chinese prostate cancer patients uncovering genomic characterization and race disparity,M
+Prostate Cancer,TP53,40037891,random,tp53,C,M,,symbol 'TP53' present,743,genomic profiling of small cell neuroendocrine prostate cancer and its implications for targeted therapies,M
+Prostate Cancer,TP53,34645983,random,tp53,C,ML,,symbol 'TP53' present,751,characterization of a castrate-resistant prostate cancer xenograft derived from a patient of west african ancestry,ML
+Prostate Cancer,TP53,38153859,random,tp53,C,M,,symbol 'TP53' present,776,association of pathological features and multiparametric mri-based radiomics with tp53-mutated prostate cancer,M
+Prostate Cancer,TP53,37812042,random,tp53,C,M,,symbol 'TP53' present,786,tp53 structure-function relationships in metastatic castrate-sensitive prostate cancer and the impact of apr-246 treatment,M
+Prostate Cancer,TP53,41746190,random,tp53,C,ML,,symbol 'TP53' present,801,characterizing longitudinal molecular changes in ctdna in patients with metastatic castration-resistant prostate cancer,ML
+Prostate Cancer,TP53,39937427,random,tp53,C,M,,symbol 'TP53' present,841,prospective observational study on the relationships between genetic alterations and survival in japanese patients with metastatic castratio,M
+Prostate Cancer,TP53,34321039,random,tp53,C,M,target,symbol 'TP53' present,914,functional and mutational analysis after radiation and cetuximab treatment on prostate carcinoma cell line du145,M
+Prostate Cancer,TP53,41161480,random,tp53,C,I,,symbol 'TP53' present,967,repertoire and clinical hierarchy of ar locus alterations in castration-resistant prostate cancer,I
+Prostate Cancer,TP53,35013522,random,tp53,C,M,,symbol 'TP53' present,981,definitions of disease burden across the spectrum of metastatic castration-sensitive prostate cancer comparison by disease outcomes and geno,M
+Prostate Cancer,ATM,38256334,random,atm,C,ML,,symbol 'ATM' present,10,germline dna damage response gene mutations in localized prostate cancer,ML
+Prostate Cancer,ATM,34102435,targeted,atm,C,I,,symbol 'ATM' present,21,homologous recombination repair gene mutations in chinese localized and locally advanced prostate cancer patients,I
+Prostate Cancer,ATM,29439820,random,atm,C,M,,symbol 'ATM' present,22,germline dna-repair gene mutations and outcomes in men with metastatic castration-resistant prostate cancer receiving first-line abiraterone,M
+Prostate Cancer,ATM,32875559,targeted,atm,C,M,,symbol 'ATM' present,28,mutations in atm nbn and brca2 predispose to aggressive prostate cancer in poland,M
+Prostate Cancer,ATM,34653963,targeted,atm,C,ML,,symbol 'ATM' present,46,inherited mutations in chinese men with prostate cancer,ML
+Prostate Cancer,ATM,36451132,random+targeted,atm,C,M,,symbol 'ATM' present,58,the germline mutational landscape of genitourinary cancers and its indication for prognosis and risk,M
+Prostate Cancer,ATM,36001857,random+targeted,atm,C,ML,,symbol 'ATM' present,80,long-term outcomes and genetic predictors of response to metastasis-directed therapy versus observation in oligometastatic prostate cancer a,ML
+Prostate Cancer,ATM,39172235,random,atm,C,ML,,symbol 'ATM' present,89,real-world data on the prevalence of brca1 2 and hrr gene mutations in patients with primary and metastatic castration resistant prostate ca,ML
+Prostate Cancer,ATM,31640893,targeted,atm,C,P,,symbol 'ATM' present,113,clinical outcomes in cyclin-dependent kinase 12 mutant advanced prostate cancer,P
+Prostate Cancer,ATM,35347810,random+targeted,atm,C,ML,,symbol 'ATM' present,123,detection of disease-causing mutations in prostate cancer by ngs sequencing,ML
+Prostate Cancer,ATM,27989354,random,atm,C,M,,symbol 'ATM' present,138,germline mutations in atm and brca1 2 distinguish risk for lethal and indolent prostate cancer and are associated with early age at death,M
+Prostate Cancer,ATM,40849250,targeted,atm,C,I,,symbol 'ATM' present,166,impact of hrr gene subclass on clinical outcomes of parp inhibitors in metastatic castration-resistant prostate cancer,I
+Prostate Cancer,ATM,34533610,random,atm,C,M,,symbol 'ATM' present,176,association between pathogenic germline mutations in brca2 and atm and tumor-infiltrating lymphocytes in primary prostate cancer,M
+Prostate Cancer,ATM,34254341,random+targeted,atm,C,I,,symbol 'ATM' present,210,observed evidence for guideline-recommended genes in predicting prostate cancer risk from a large population-based cohort,I
+Prostate Cancer,ATM,34674288,random,atm,C,I,,symbol 'ATM' present,215,association of germline rare pathogenic mutations in guideline-recommended genes with prostate cancer progression a meta-analysis,I
+Prostate Cancer,ATM,29368341,random,atm,C,I,,symbol 'ATM' present,221,intraductal ductal histology and lymphovascular invasion are associated with germline dna-repair gene mutations in prostate cancer,I
+Prostate Cancer,ATM,28623070,targeted,atm,C,I,,symbol 'ATM' present,228,commentary on inherited dna-repair gene mutations in men with metastatic prostate cancer pritchard cc mateo j walsh mf de sarkar n abida w b,I
+Prostate Cancer,ATM,27433846,targeted,atm,C,I,,symbol 'ATM' present,232,inherited dna-repair gene mutations in men with metastatic prostate cancer,I
+Prostate Cancer,ATM,28789927,random+targeted,atm,C,I,,symbol 'ATM' present,233,commentary on inherited dna-repair gene mutations in men with metastatic prostate cancer pritchard cc mateo j walsh mf de sarkar n abida w b,I
+Prostate Cancer,ATM,42431822,targeted,atm,C,I,,symbol 'ATM' present,242,real-world clinical outcomes genetic testing patterns and treatment patterns of patients with metastatic castration-resistant prostate cance,I
+Prostate Cancer,ATM,36054589,targeted,atm,C,I,,symbol 'ATM' present,317,a comprehensive literature review and meta-analysis of the prevalence of pan-cancer brca mutations homologous recombination repair gene muta,I
+Prostate Cancer,ATM,35652560,random,atm,C,M,,symbol 'ATM' present,323,dna damage repair gene germline profiling for metastatic prostate cancer patients of different ancestries,M
+Prostate Cancer,ATM,32300177,random,atm,C,I,,symbol 'ATM' present,333,somatic mutations in the dna repairome in prostate cancers in african americans and caucasians,I
+Prostate Cancer,ATM,41714123,random+targeted,atm,C,I,,symbol 'ATM' present,376,differential response to 177 lu-psma-617 in patients with tumor suppressor gene-mutated metastatic castration-resistant prostate cancer,I
+Prostate Cancer,ATM,34517749,random,atm,C,M,,symbol 'ATM' present,388,is olaparib cost effective in metastatic castration-resistant prostate cancer patients with at least one favorable gene mutation in brca1 br,M
+Prostate Cancer,ATM,35260348,targeted,atm,C,ML,,symbol 'ATM' present,399,hereditary cancer gene variants in hispanic men with a personal or family history of prostate cancer,ML
+Prostate Cancer,ATM,31307507,random,atm,C,P,,symbol 'ATM' present,401,p53 mutant-type in human prostate cancer cells determines the sensitivity to phenethyl isothiocyanate induced growth inhibition,P
+Prostate Cancer,ATM,41134550,targeted,atm,C,M,,symbol 'ATM' present,421,investigating genomic differences by ethnicity in breast colorectal and prostate cancers secondary data analysis of the genomic data commons,M
+Prostate Cancer,ATM,38735436,targeted,atm,C,I,,symbol 'ATM' present,422,prevalence of dna-repair gene mutations in mexican men with prostate cancer,I
+Prostate Cancer,ATM,32315455,random,atm,C,ML,,symbol 'ATM' present,432,germline and somatic dna repair gene alterations in prostate cancer,ML
+Prostate Cancer,ATM,31248605,random,atm,C,I,,symbol 'ATM' present,435,germline dna repair gene mutation landscape in chinese prostate cancer patients,I
+Prostate Cancer,ATM,32220973,targeted,atm,C,I,,symbol 'ATM' present,445,an emerging landscape for canonical and actionable molecular alterations in primary and metastatic prostate cancer,I
+Prostate Cancer,ATM,36800845,targeted,atm,C,M,,symbol 'ATM' present,487,homologous recombination repair gene mutations in malaysian prostate cancer patients,M
+Prostate Cancer,ATM,38278448,targeted,atm,C,I,,symbol 'ATM' present,512,histologic patterns in prostatic adenocarcinoma are not predictive of mutations in the homologous recombination repair pathway,I
+Prostate Cancer,ATM,38458890,targeted,atm,C,ML,,symbol 'ATM' present,514,identification of genes with rare loss of function variants associated with aggressive prostate cancer and survival,ML
+Prostate Cancer,ATM,27324988,random,atm,C,I,,symbol 'ATM' present,524,a pilot study of clinical targeted next generation sequencing for prostate cancer consequences for treatment and genetic counseling,I
+Prostate Cancer,ATM,37558543,random+targeted,atm,C,ML,,symbol 'ATM' present,534,identification of a predictive genomic biomarker for prostate-directed therapy in synchronous low-volume metastatic castration-sensitive pro,ML
+Prostate Cancer,ATM,41465280,targeted,atm,C,I,,symbol 'ATM' present,563,complex relationships between homologous recombination deficiency hrd score and mutational status of homologous recombination repair hrr gen,I
+Prostate Cancer,ATM,34877933,random,atm,C,M,,symbol 'ATM' present,564,genomic attributes of homology-directed dna repair deficiency in metastatic prostate cancer,M
+Prostate Cancer,ATM,36362213,random,atm,C,M,,symbol 'ATM' present,573,characteristics of brca2 mutated prostate cancer at presentation,M
+Prostate Cancer,ATM,27084275,random+targeted,atm,C,ML,,symbol 'ATM' present,594,determining the frequency of pathogenic germline variants from exome sequencing in patients with castrate-resistant prostate cancer,ML
+Prostate Cancer,ATM,36434163,random+targeted,atm,C,I,,symbol 'ATM' present,626,germline mutations in prostate cancer a systematic review of the evidence for personalized medicine,I
+Prostate Cancer,ATM,30498248,targeted,atm,C,ML,,symbol 'ATM' present,636,parp inhibition - not all gene mutations are created equal,ML
+Prostate Cancer,ATM,38452035,random,atm,C,ML,,symbol 'ATM' present,638,a phase ii study of rucaparib monotherapy in nonmetastatic hormone-sensitive prostate cancer demonstrating brcaness genotype roar,ML
+Prostate Cancer,ATM,32634759,random,atm,C,M,,symbol 'ATM' present,648,impact of dna damage repair defects on response to radium-223 and overall survival in metastatic castration-resistant prostate cancer,M
+Prostate Cancer,ATM,39326497,targeted,atm,C,ML,,symbol 'ATM' present,651,histopathologic and molecular characterization of idh-mutant prostatic adenocarcinoma,ML
+Prostate Cancer,ATM,39180789,targeted,atm,C,M,,symbol 'ATM' present,663,assessing olaparib efficacy in u s veterans with metastatic prostate cancer utilizing a time-indifferent g-rate method ideal for real-world ,M
+Prostate Cancer,ATM,33115829,random+targeted,atm,C,ML,,symbol 'ATM' present,665,distinct genomic alterations in prostate tumors derived from african american men,ML
+Prostate Cancer,ATM,35448200,random,atm,C,ML,,symbol 'ATM' present,681,outcomes of patients with metastatic castration-resistant prostate cancer according to somatic damage dna repair gene alterations,ML
+Prostate Cancer,ATM,33511206,random,atm,C,W,,symbol 'ATM' present,699,elucidation of the genomic-epigenomic interaction landscape of aggressive prostate cancer,W
+Prostate Cancer,ATM,38453598,random+targeted,atm,C,M,,symbol 'ATM' present,747,magnetic resonance imaging-based prostate cancer screening in carriers of pathogenic germline mutations interim results from the initial scr,M
+Prostate Cancer,ATM,38748947,random+targeted,atm,C,I,,symbol 'ATM' present,768,prospective study of homologous recombination repair gene mutation prevalence in patients with advanced prostate cancer from latin america c,I
+Prostate Cancer,ATM,28657667,random,atm,C,ML,,symbol 'ATM' present,790,germline genetic variants in men with prostate cancer and one or more additional cancers,ML
+Prostate Cancer,ATM,39178368,targeted,atm,C,I,,symbol 'ATM' present,800,dna-damaging therapies in patients with prostate cancer and pathogenic alterations in homologous recombination repair genes,I
+Prostate Cancer,ATM,38417742,targeted,atm,C,I,,symbol 'ATM' present,807,treatment patterns and outcomes in metastatic castration-resistant prostate cancer patients with and without somatic or germline alterations,I
+Prostate Cancer,ATM,41729953,random+targeted,atm,C,ML,,symbol 'ATM' present,862,prevalence and spectrum of homologous recombination repair mutations in patients with metastatic prostate cancer from india,ML
+Prostate Cancer,ATM,35043687,random+targeted,atm,C,I,,symbol 'ATM' present,873,real-world homologous recombination repair mutation testing in metastatic castration-resistant prostate cancer in the usa europe and japan,I
+Prostate Cancer,ATM,31874108,targeted,atm,C,I,,symbol 'ATM' present,876,genomics of lethal prostate cancer at diagnosis and castration resistance,I
+Prostate Cancer,ATM,39920014,random,atm,C,M,,symbol 'ATM' present,888,association of prior parp inhibitor exposure with clinical outcomes after 177 lu-psma-617 in men with castration-resistant prostate cancer a,M
+Prostate Cancer,ATM,28697982,random,atm,C,I,,symbol 'ATM' present,908,prostate cancer screening in a new era of genetics,I
+Prostate Cancer,ATM,37240284,random+targeted,atm,C,I,,symbol 'ATM' present,917,multi-gene next-generation sequencing panel for analysis of brca1 brca2 and homologous recombination repair genes alterations metastatic cas,I
+Prostate Cancer,ATM,31085765,random+targeted,atm,C,I,,symbol 'ATM' present,960,germline and somatic mutations in prostate cancer for the clinician,I
+Prostate Cancer,ATM,33558422,random,atm,C,M,,symbol 'ATM' present,975,genomic analysis of circulating tumor dna in 3 334 patients with advanced prostate cancer identifies targetable brca alterations and ar resi,M
+Prostate Cancer,ATM,33722420,targeted,atm,C,I,,symbol 'ATM' present,984,untangling the profound trial for advanced prostate cancer is there really a role for olaparib,I
+Prostate Cancer,SPOP,24563616,random,spop,C,M,,symbol 'SPOP' present,3,spop mutations in prostate cancer across demographically diverse patient cohorts,M
+Prostate Cancer,SPOP,37677121,random,spop,C,M,,symbol 'SPOP' present,4,opposing roles of spop mutations in human prostate and endometrial cancers,M
+Prostate Cancer,SPOP,23216165,random,spop,C,M,,symbol 'SPOP' present,20,mutational and expressional analyses of spop a candidate tumor suppressor gene in prostate gastric and colorectal cancers,M
+Prostate Cancer,SPOP,32875559,random,spop,C,I,,symbol 'SPOP' present,28,mutations in atm nbn and brca2 predispose to aggressive prostate cancer in poland,I
+Prostate Cancer,SPOP,34588438,random,spop,C,M,,symbol 'SPOP' present,29,spop mutation induces dna methylation via stabilizing glp g9a,M
+Prostate Cancer,SPOP,35422210,random,spop,C,I,,symbol 'SPOP' present,75,flg gene mutation up-regulates the abnormal tumor immune response and promotes the progression of prostate cancer,I
+Prostate Cancer,SPOP,39630373,random,spop,C,M,,symbol 'SPOP' present,203,prevalence of spop and idh gene mutations in prostate cancer in a jordanian population,M
+Prostate Cancer,SPOP,41029752,random,spop,C,M,,symbol 'SPOP' present,261,evaluating sensitivity of ngs-based mutation detection across diverse sample types in prostate cancer,M
+Prostate Cancer,SPOP,28292441,random,spop,C,M,,symbol 'SPOP' present,301,spop mutation drives prostate tumorigenesis in vivo through coordinate regulation of pi3k mtor and ar signaling,M
+Prostate Cancer,SPOP,34610962,random,spop,C,M,,symbol 'SPOP' present,341,gli3 is stabilized by spop mutations and promotes castration resistance via functional cooperation with androgen receptor in prostate cancer,M
+Prostate Cancer,SPOP,26763545,random,spop,C,M,target,symbol 'SPOP' present,417,two paths for stabilization of erg in prostate carcinogenesis tmprss2-erg fusions and speckle-type pox virus and zinc finger protein mutatio,M
+Prostate Cancer,SPOP,40172755,random,spop,C,ML,,symbol 'SPOP' present,430,genomic features of liquid biopsies from patients with prostate cancer with and without ductal adenocarcinoma,ML
+Prostate Cancer,SPOP,28842510,random,spop,C,ML,,symbol 'SPOP' present,444,impact of therapy on genomics and transcriptomics in high-risk prostate cancer treated with neoadjuvant docetaxel and androgen deprivation t,ML
+Prostate Cancer,SPOP,37581614,random,spop,C,M,,symbol 'SPOP' present,477,spop mutations target sting1 signaling in prostate cancer and create therapeutic vulnerabilities to parp inhibitor-induced growth suppressio,M
+Prostate Cancer,SPOP,24994784,random,spop,C,M,,symbol 'SPOP' present,488,identification of speckle-type poz protein somatic mutations in african american prostate cancer,M
+Prostate Cancer,SPOP,23559371,random,spop,C,M,,symbol 'SPOP' present,493,prostate cancer-associated mutations in speckle-type poz protein spop regulate steroid receptor coactivator 3 protein turnover,M
+Prostate Cancer,SPOP,40975747,random,spop,C,M,target,symbol 'SPOP' present,510,trim24-mediated k27-linked ubiquitination of ulk1 alleviates energy stress-induced autophagy and promote prostate cancer growth in the conte,M
+Prostate Cancer,SPOP,40568593,random,spop,C,M,,symbol 'SPOP' present,520,prognostic and immunological implications of cathepsin z overexpression in prostate cancer,M
+Prostate Cancer,SPOP,38862340,random,spop,C,M,,symbol 'SPOP' present,531,genomic determinants associated with modes of progression and patterns of failure in metachronous oligometastatic castration-sensitive prost,M
+Prostate Cancer,SPOP,40260915,random,spop,C,M,,symbol 'SPOP' present,548,spop mutations increase parp inhibitor sensitivity via ck2 pias1 spop axis in prostate cancer,M
+Prostate Cancer,SPOP,30701334,random,spop,C,ML,,symbol 'SPOP' present,560,clinical relevance of gene expression in localized and metastatic prostate cancer exemplified by fabp5,ML
+Prostate Cancer,SPOP,31884093,random,spop,C,M,,symbol 'SPOP' present,562,whole-genome sequencing of prostate cancer reveals novel mutation-driven processes and molecular subgroups,M
+Prostate Cancer,SPOP,41667321,random,spop,C,M,,symbol 'SPOP' present,612,outcomes for patients with spop mutated castration-resistant prostate cancer crpc treated with an androgen receptor pathway inhibitor arpi,M
+Prostate Cancer,SPOP,26542946,random,spop,C,M,,symbol 'SPOP' present,637,genetic progression of high grade prostatic intraepithelial neoplasia to prostate cancer,M
+Prostate Cancer,SPOP,31771591,random,spop,C,M,,symbol 'SPOP' present,673,prostate cancer-associated spop mutations enhance cancer cell survival and docetaxel resistance by upregulating caprin1-dependent stress gra,M
+Prostate Cancer,SPOP,22610119,random,spop,C,M,,symbol 'SPOP' present,696,exome sequencing identifies recurrent spop foxa1 and med12 mutations in prostate cancer,M
+Prostate Cancer,SPOP,30993692,random,spop,C,ML,,symbol 'SPOP' present,709,intraductal carcinoma of the prostate in the absence of high-grade invasive carcinoma represents a molecularly distinct type of in situ carc,ML
+Prostate Cancer,SPOP,24998678,random,spop,C,M,,symbol 'SPOP' present,727,spheroid culture of lucap 147 as an authentic preclinical model of prostate cancer subtype with spop mutation and hypermutator phenotype,M
+Prostate Cancer,SPOP,30595535,random,spop,C,M,,symbol 'SPOP' present,732,ampk promotes spop-mediated nanog degradation to regulate prostate cancer cell stemness,M
+Prostate Cancer,SPOP,25586381,random,spop,C,ML,,symbol 'SPOP' present,734,mutation detection in formalin-fixed prostate cancer biopsies taken at the time of diagnosis using next-generation dna sequencing,ML
+Prostate Cancer,SPOP,28805821,random,spop,C,M,,symbol 'SPOP' present,755,opposing effects of cancer-type-specific spop mutants on bet protein degradation and sensitivity to bet inhibitors,M
+Prostate Cancer,SPOP,30595538,random,spop,C,M,,symbol 'SPOP' present,781,spop promotes nanog destruction to suppress stem cell traits and prostate cancer progression,M
+Prostate Cancer,SPOP,34496233,random,spop,C,M,,symbol 'SPOP' present,820,reshaping of the androgen-driven chromatin landscape in normal prostate cells by early cancer drivers and effect on therapeutic sensitivity,M
+Prostate Cancer,SPOP,26374986,random,spop,C,M,,symbol 'SPOP' present,824,spop mutation leads to genomic instability in prostate cancer,M
+Prostate Cancer,SPOP,42380152,random,spop,C,M,target,symbol 'SPOP' present,829,divergent roles of spop and chd1 in acsl4 regulation reveal context-dependent vulnerabilities for targeting ferroptosis,M
+Prostate Cancer,SPOP,30290146,random,spop,C,M,,symbol 'SPOP' present,832,cancer mutations in spop put a stop to its inter-compartmental hops,M
+Prostate Cancer,SPOP,28699202,random,spop,C,ML,,symbol 'SPOP' present,837,ductal adenocarcinoma of the prostate clinical and biological profiles,ML
+Prostate Cancer,SPOP,38704358,random,spop,C,M,,symbol 'SPOP' present,898,prognostic and predictive role of spop mutations in prostate cancer a systematic review and meta-analysis,M
+Prostate Cancer,SPOP,25204806,random,spop,C,M,,symbol 'SPOP' present,962,clinico-pathological significance of the molecular alterations of the spop gene in prostate cancer,M
+Prostate Cancer,SPOP,25201530,random,spop,C,ML,,symbol 'SPOP' present,987,organoid cultures derived from patients with advanced prostate cancer,ML
+Prostate Cancer,AR,37677121,random,androgen receptor,C,G,,credited via alias androgen receptor,4,opposing roles of spop mutations in human prostate and endometrial cancers,G
+Prostate Cancer,AR,41348987,random+targeted,androgen receptor,C,G,,credited via alias androgen receptor,32,impact of spop mutations on clinical outcomes in metastatic prostate cancer,G
+Prostate Cancer,AR,36088616,targeted,androgen receptor,C,W,,credited via alias androgen receptor,49,spop mutations as a predictive biomarker for androgen receptor axis-targeted therapy in de novo metastatic castration-sensitive prostate can,W
+Prostate Cancer,AR,41855405,targeted,androgen receptor,C,M,,credited via alias androgen receptor,86,spop mutations in veterans with prostate cancer and outcomes with doublet and triplet therapy in de novo metastatic hormone sensitive prosta,M
+Prostate Cancer,AR,31640893,random+targeted,androgen receptor,C,G,,credited via alias androgen receptor,113,clinical outcomes in cyclin-dependent kinase 12 mutant advanced prostate cancer,G
+Prostate Cancer,AR,39155209,random,androgen receptor,C,G,,credited via alias androgen receptor,116,should only patients with brca mutation be treated with a combination of an androgen receptor pathway inhibitor and a parp inhibitor for met,G
+Prostate Cancer,AR,22334387,random,androgen receptor|ar,C,M,,symbol 'AR' present,127,the androgen receptor gene mutations database 2012 update,M
+Prostate Cancer,AR,38072760,targeted,androgen receptor,C,G,,credited via alias androgen receptor,150,co-occurring brca2 spop mutations predict exceptional poly adp-ribose polymerase inhibitor sensitivity in metastatic castration-resistant pr,G
+Prostate Cancer,AR,40849250,targeted,androgen receptor,C,G,,credited via alias androgen receptor,166,impact of hrr gene subclass on clinical outcomes of parp inhibitors in metastatic castration-resistant prostate cancer,G
+Prostate Cancer,AR,42019357,random,androgen receptor|ar,C,M,,symbol 'AR' present,194,ultra-sensitive detection of somatic mutations in androgen receptor conferring resistance to anti-androgen therapy in prostate cancer,M
+Prostate Cancer,AR,15146455,random,androgen receptor|ar,C,M,,symbol 'AR' present,206,the androgen receptor gene mutations database ardb 2004 update,M
+Prostate Cancer,AR,30871495,targeted,androgen receptor,C,W,,credited via alias androgen receptor,207,integrating germline and somatic variation information using genomic data for the discovery of biomarkers in prostate cancer,W
+Prostate Cancer,AR,37126020,targeted,ar,C,ML,,symbol 'AR' present,209,metastatic prostate cancers with brca2 versus atm mutations exhibit divergent molecular features and clinical outcomes,ML
+Prostate Cancer,AR,41029752,targeted,ar,C,M,,symbol 'AR' present,261,evaluating sensitivity of ngs-based mutation detection across diverse sample types in prostate cancer,M
+Prostate Cancer,AR,22722839,random,androgen receptor|ar,C,M,,symbol 'AR' present,270,the mutational landscape of lethal castration-resistant prostate cancer,M
+Prostate Cancer,AR,33470111,random,androgen receptor|ar,C,M,,symbol 'AR' present,281,discovery of jnj-63576253 a clinical stage androgen receptor antagonist for f877l mutant and wild-type castration-resistant prostate cancer ,M
+Prostate Cancer,AR,41121095,targeted,ar,C,ML,,symbol 'AR' present,310,comprehensive genomic landscape of metastatic hormone-sensitive prostate cancer in the chinese population,ML
+Prostate Cancer,AR,26512780,random,androgen receptor|ar,C,P,,symbol 'AR' present,312,anti-cancer efficacy of srebp inhibitor alone or in combination with docetaxel in prostate cancer harboring p53 mutations,P
+Prostate Cancer,AR,39053228,targeted,androgen receptor,C,G,,credited via alias androgen receptor,337,rna modification regulators' co-expression score rmrcoes predicts biochemical recurrence and therapy response in prostate cancer a multi-omi,G
+Prostate Cancer,AR,38652202,random,androgen receptor|ar,C,M,target,symbol 'AR' present,348,developing a novel enzalutamide-resistant prostate cancer model via ar f877l mutation in lncap cells,M
+Prostate Cancer,AR,30858508,random,androgen receptor|ar,C,M,,symbol 'AR' present,350,clinical utility of androgen receptor gene aberrations in circulating cell-free dna as a biomarker for treatment of castration-resistant pro,M
+Prostate Cancer,AR,34533858,targeted,ar,C,G,,symbol 'AR' present,369,spop and chd1 alterations in prostate cancer relationship with pten loss tumor grade perineural infiltration and psa recurrence,G
+Prostate Cancer,AR,38851712,random+targeted,androgen receptor,C,W,,credited via alias androgen receptor,370,the efficacy and safety of parp inhibitors in mcrpc with hrr mutation in second-line treatment a systematic review and bayesian network meta,W
+Prostate Cancer,AR,28663546,targeted,androgen receptor,C,W,,credited via alias androgen receptor,371,inherited determinants of early recurrent somatic mutations in prostate cancer,W
+Prostate Cancer,AR,38528115,targeted,ar,C,I,,symbol 'AR' present,377,clinically-observed foxa1 mutations upregulate sema3c through transcriptional derepression in prostate cancer,I
+Prostate Cancer,AR,17991730,random,androgen receptor|ar,C,M,,symbol 'AR' present,383,wild-type but not mutant androgen receptor inhibits expression of the htert telomerase subunit a novel role of ar mutation for prostate canc,M
+Prostate Cancer,AR,32907840,targeted,androgen receptor,C,W,,credited via alias androgen receptor,389,a deep learning framework identifies pathogenic noncoding somatic mutations from personal prostate cancer genomes,W
+Prostate Cancer,AR,36243543,targeted,androgen receptor,C,I,,credited via alias androgen receptor,397,emergence of brca reversion mutations in patients with metastatic castration-resistant prostate cancer after treatment with rucaparib,I
+Prostate Cancer,AR,31822380,targeted,ar,C,ML,,symbol 'AR' present,412,tp53 gain-of-function mutations in circulating tumor dna in men with metastatic castration-resistant prostate cancer,ML
+Prostate Cancer,AR,26763545,random,androgen receptor|ar,C,I,,symbol 'AR' present,417,two paths for stabilization of erg in prostate carcinogenesis tmprss2-erg fusions and speckle-type pox virus and zinc finger protein mutatio,I
+Prostate Cancer,AR,35975690,targeted,androgen receptor,C,I,,credited via alias androgen receptor,425,tp53 loss-of-function causes vulnerability to autophagy inhibition in aggressive prostate cancer,I
+Prostate Cancer,AR,34951700,random+targeted,ar,C,M,,symbol 'AR' present,428,genomic analyses of the metastasis-derived prostate cancer cell lines lncap vcap and pc3-ar,M
+Prostate Cancer,AR,40172755,targeted,ar,C,W,,symbol 'AR' present,430,genomic features of liquid biopsies from patients with prostate cancer with and without ductal adenocarcinoma,W
+Prostate Cancer,AR,24931216,targeted,ar,C,I,,symbol 'AR' present,442,in situ sequencing identifies tmprss2-erg fusion transcripts somatic point mutations and gene expression levels in prostate cancers,I
+Prostate Cancer,AR,40716035,targeted,ar,C,M,,symbol 'AR' present,443,nationwide genomic data analysis of japanese prostate cancer patients from c-cat database,M
+Prostate Cancer,AR,28842510,random,ar,C,M,,symbol 'AR' present,444,impact of therapy on genomics and transcriptomics in high-risk prostate cancer treated with neoadjuvant docetaxel and androgen deprivation t,M
+Prostate Cancer,AR,32220973,targeted,ar,C,ML,,symbol 'AR' present,445,an emerging landscape for canonical and actionable molecular alterations in primary and metastatic prostate cancer,ML
+Prostate Cancer,AR,41621066,targeted,androgen receptor,C,W,,credited via alias androgen receptor,450,foxa1 mutations co-opt nascent transcription factor networks in partnership with androgen receptor to enhance prostate tumorigenicity,W
+Prostate Cancer,AR,36401126,targeted,ar,C,M,,symbol 'AR' present,458,genetic profiling of hormone-sensitive and castration-resistant prostate cancers and identification of genetic mutations prone to castration,M
+Prostate Cancer,AR,40847760,targeted,androgen receptor,C,I,,credited via alias androgen receptor,469,the utility of next-generation sequencing in metastatic prostate cancer fna biopsies,I
+Prostate Cancer,AR,40957713,targeted,androgen receptor,C,G,,credited via alias androgen receptor,476,development of a synthetic lethality-based combination therapy using lig1 and parp inhibitors for prostate cancer,G
+Prostate Cancer,AR,37581614,targeted,androgen receptor,C,W,,credited via alias androgen receptor,477,spop mutations target sting1 signaling in prostate cancer and create therapeutic vulnerabilities to parp inhibitor-induced growth suppressio,W
+Prostate Cancer,AR,23559371,targeted,androgen receptor,C,G,,credited via alias androgen receptor,493,prostate cancer-associated mutations in speckle-type poz protein spop regulate steroid receptor coactivator 3 protein turnover,G
+Prostate Cancer,AR,35931885,targeted,androgen receptor,C,G,,credited via alias androgen receptor,501,emerging role of parp inhibitors in metastatic prostate cancer,G
+Prostate Cancer,AR,38907236,targeted,ar,C,P,,symbol 'AR' present,502,rare histologic transformation of a ctnnb1 -catenin mutated prostate cancer with aggressive clinical course,P
+Prostate Cancer,AR,20628607,random,androgen receptor|ar,C,M,,symbol 'AR' present,521,loss of androgen receptor-dependent growth suppression by prostate cancer cells can occur independently from acquiring oncogenic addiction t,M
+Prostate Cancer,AR,37144757,random,androgen receptor|ar,C,M,,symbol 'AR' present,540,structural insights into the mechanism of resistance to bicalutamide by the clinical mutations in androgen receptor in chemo-treatment resis,M
+Prostate Cancer,AR,40512155,random+targeted,androgen receptor,C,M,,credited via alias androgen receptor,557,germline-somatic liaison dictates cancer subtypes via de novo steroid biosynthesis,M
+Prostate Cancer,AR,17262801,random,androgen receptor|ar,C,M,,symbol 'AR' present,566,the oncogenic potential of a prostate cancer-derived androgen receptor mutant,M
+Prostate Cancer,AR,41056506,random,androgen receptor|ar,C,I,,symbol 'AR' present,582,recurrent immunogenic neoantigens and their cognate t-cell receptors in treatment-resistant metastatic prostate cancer,I
+Prostate Cancer,AR,28059767,targeted,androgen receptor,C,G,,credited via alias androgen receptor,586,rb1 and trp53 cooperate to suppress prostate cancer lineage plasticity metastasis and antiandrogen resistance,G
+Prostate Cancer,AR,34716314,targeted,ar,C,ML,,symbol 'AR' present,593,somatic driver mutation prevalence in 1844 prostate cancers identifies znrf3 loss as a predictor of metastatic relapse,ML
+Prostate Cancer,AR,32651179,random+targeted,ar,C,I,,symbol 'AR' present,600,genomic profiling of prostate cancers from men with african and european ancestry,I
+Prostate Cancer,AR,42331681,targeted,androgen receptor,C,G,,credited via alias androgen receptor,608,longitudinal tumor mutation burden dynamics in advanced prostate cancer using circulating tumor dna profiling,G
+Prostate Cancer,AR,16081517,random,androgen receptor|ar,C,M,,symbol 'AR' present,610,mutation of histidine 874 in the androgen receptor ligand-binding domain leads to promiscuous ligand activation and altered p160 coactivator,M
+Prostate Cancer,AR,23779130,random,androgen receptor|ar,C,M,,symbol 'AR' present,632,a clinically relevant androgen receptor mutation confers resistance to second-generation antiandrogens enzalutamide and arn-509,M
+Prostate Cancer,AR,34974131,random,androgen receptor|ar,C,W,target,symbol 'AR' present,639,spop-mutant prostate cancer translating fundamental biology into patient care,W
+Prostate Cancer,AR,39180789,targeted,androgen receptor,C,G,,credited via alias androgen receptor,663,assessing olaparib efficacy in u s veterans with metastatic prostate cancer utilizing a time-indifferent g-rate method ideal for real-world ,G
+Prostate Cancer,AR,16033069,targeted,androgen receptor,C,M,,credited via alias androgen receptor,678,polymorphisms of human androgen receptor har gene in prostate cancer cell lines pc-ew and pc-or,M
+Prostate Cancer,AR,26975494,targeted,ar,C,ML,,symbol 'AR' present,684,dna alterations in the tumor genome and their associations with clinical outcome in prostate cancer,ML
+Prostate Cancer,AR,10811100,random,ar,C,I,,symbol 'AR' present,695,ligand responsiveness in human prostate cancer structural analysis of mutant androgen receptors from lncap and cwr22 tumors,I
+Prostate Cancer,AR,12115546,random,androgen receptor|ar,C,M,,symbol 'AR' present,698,broadened ligand responsiveness of androgen receptor mutants obtained by random amino acid substitution of h874 and mutation hot spot t877 i,M
+Prostate Cancer,AR,33511206,targeted,ar,C,W,,symbol 'AR' present,699,elucidation of the genomic-epigenomic interaction landscape of aggressive prostate cancer,W
+Prostate Cancer,AR,12517791,random,androgen receptor|ar,C,M,,symbol 'AR' present,701,novel mutations of androgen receptor a possible mechanism of bicalutamide withdrawal syndrome,M
+Prostate Cancer,AR,14665948,targeted,androgen receptor,C,M,,credited via alias androgen receptor,725,germline mutation analysis of the androgen receptor gene in finnish patients with prostate cancer,M
+Prostate Cancer,AR,37584393,random,androgen receptor|ar,C,M,,symbol 'AR' present,741,prospective clinical sequencing of 1016 chinese prostate cancer patients uncovering genomic characterization and race disparity,M
+Prostate Cancer,AR,41243500,targeted,ar,C,G,,symbol 'AR' present,742,spop and mmr msi alterations in prostate cancer relationship with pd-l1 tils and ar expression,G
+Prostate Cancer,AR,40701571,targeted,androgen receptor,C,W,,credited via alias androgen receptor,766,genomic evaluation of canine prostatic carcinomas as a model for the human disease or 'uc or not uc - that is the question',W
+Prostate Cancer,AR,39745364,targeted,androgen receptor,C,G,,credited via alias androgen receptor,779,structurally oriented classification of foxa1 alterations identifies prostate cancers with opposing clinical outcomes and distinct molecular,G
+Prostate Cancer,AR,39287426,targeted,androgen receptor,C,G,,credited via alias androgen receptor,780,clonal hematopoiesis and clinical outcomes in metastatic castration-resistant prostate cancer patients given androgen receptor pathway inhib,G
+Prostate Cancer,AR,38417742,targeted,androgen receptor,C,G,,credited via alias androgen receptor,807,treatment patterns and outcomes in metastatic castration-resistant prostate cancer patients with and without somatic or germline alterations,G
+Prostate Cancer,AR,34496233,random,androgen receptor|ar,C,G,target,symbol 'AR' present,820,reshaping of the androgen-driven chromatin landscape in normal prostate cells by early cancer drivers and effect on therapeutic sensitivity,G
+Prostate Cancer,AR,21784672,targeted,androgen receptor,C,G,,credited via alias androgen receptor,823,eastern cooperative oncology group phase ii trial of lapatinib in men with biochemically relapsed androgen dependent prostate cancer,G
+Prostate Cancer,AR,17611654,random,androgen receptor|ar,C,G,,symbol 'AR' present,836,differential levels of human leukocyte antigen-class i multidrug-resistance 1 and androgen receptor expressions in untreated prostate cancer,G
+Prostate Cancer,AR,16202619,targeted,androgen receptor,C,M,,credited via alias androgen receptor,848,androgen receptor in prostate cancer cause or cure,M
+Prostate Cancer,AR,16705072,targeted,androgen receptor,C,M,,credited via alias androgen receptor,849,frequent finding of the androgen receptor a645d variant in normal population,M
+Prostate Cancer,AR,40467032,targeted,androgen receptor,C,G,,credited via alias androgen receptor,850,brca1 2 and homologous recombination repair alterations in high- and low-volume metastatic hormone-sensitive prostate cancer prevalence and ,G
+Prostate Cancer,AR,31580249,targeted,ar,C,ML,,symbol 'AR' present,865,integrative exome sequencing analysis in castration-resistant prostate cancer in chinese population,ML
+Prostate Cancer,AR,37327205,random,androgen receptor|ar,C,P,,symbol 'AR' present,867,genetic profiling of african american patients with prostatic adenocarcinoma metastatic to the lymph nodes a pilot study,P
+Prostate Cancer,AR,40045414,random+targeted,ar,C,I,,symbol 'AR' present,871,evaluating the heterogeneity of advanced prostate cancer by 18 f-dcfpyl and 18 f-fdg pet ct in a prospective cohort,I
+Prostate Cancer,AR,31874108,targeted,ar,C,M,,symbol 'AR' present,876,genomics of lethal prostate cancer at diagnosis and castration resistance,M
+Prostate Cancer,AR,38427749,targeted,androgen receptor,C,M,,credited via alias androgen receptor,881,comparison of molecular analysis results determined by next-generation sequencing to immunohistochemical indicators and clinicopathological ,M
+Prostate Cancer,AR,38704358,targeted,androgen receptor,C,G,,credited via alias androgen receptor,898,prognostic and predictive role of spop mutations in prostate cancer a systematic review and meta-analysis,G
+Prostate Cancer,AR,29620284,targeted,androgen receptor,C,M,,credited via alias androgen receptor,902,enrichment and mutation detection of circulating tumor cells from blood samples,M
+Prostate Cancer,AR,33727260,targeted,androgen receptor,C,I,target,credited via alias androgen receptor,904,a randomized phase ii study of androgen deprivation therapy with or without palbociclib in rb-positive metastatic hormone-sensitive prostate,I
+Prostate Cancer,AR,39115414,targeted,androgen receptor,C,W,,credited via alias androgen receptor,910,abiraterone olaparib or abiraterone olaparib in first-line metastatic castration-resistant prostate cancer with dna repair defects brcaaway,W
+Prostate Cancer,AR,28614298,targeted,androgen receptor,C,G,,credited via alias androgen receptor,918,erf mutations reveal a balance of ets factors controlling prostate oncogenesis,G
+Prostate Cancer,AR,18037956,random,androgen receptor,C,M,,credited via alias androgen receptor,923,mechanisms of androgen receptor activation in advanced prostate cancer differential co-activator recruitment and gene expression,M
+Prostate Cancer,AR,33112115,targeted,ar,C,P,,symbol 'AR' present,928,comprehensive analysis in mucin-producing urothelial-type adenocarcinoma of the prostate case study with literature review,P
+Prostate Cancer,AR,32297439,random,androgen receptor|ar,C,M,,symbol 'AR' present,932,comprehensive analysis of ar alterations in circulating tumor dna from patients with advanced prostate cancer,M
+Prostate Cancer,AR,34593416,random+targeted,androgen receptor,C,I,target,credited via alias androgen receptor,944,treatment of metastatic castration-resistant prostate cancer are parp inhibitors shifting the paradigm,I
+Prostate Cancer,AR,38600681,random,androgen receptor|ar,C,M,,symbol 'AR' present,953,tas3681 an androgen receptor antagonist prevents drug resistance driven by aberrant androgen receptor signaling in prostate cancer,M
+Prostate Cancer,AR,41161480,random,androgen receptor|ar,C,M,,symbol 'AR' present,967,repertoire and clinical hierarchy of ar locus alterations in castration-resistant prostate cancer,M
+Prostate Cancer,AR,21075385,random,androgen receptor,C,M,,credited via alias androgen receptor,969,inhibition of aberrant androgen receptor induction of prostate specific antigen gene expression cell proliferation and tumor growth by 17-es,M
+Prostate Cancer,AR,40645032,targeted,ar,C,M,,symbol 'AR' present,979,the correlation of liquid biopsy genomic data to radiomics in colon pancreatic lung and prostatic cancer patients,M
+Prostate Cancer,CHEK2,36919124,all,chek2,C,M,,symbol 'CHEK2' present,5,the prevalence of chek1 and chek2 mutations in prostate cancer a retrospective cohort study,M
+Prostate Cancer,CHEK2,38256334,all,chek2,C,M,,symbol 'CHEK2' present,10,germline dna damage response gene mutations in localized prostate cancer,M
+Prostate Cancer,CHEK2,38885246,all,chek2,C,M,,symbol 'CHEK2' present,19,triumph phase ii trial of rucaparib monotherapy in patients with metastatic hormone-sensitive prostate cancer harboring germline homologous ,M
+Prostate Cancer,CHEK2,32875559,all,chek2,C,ML,,symbol 'CHEK2' present,28,mutations in atm nbn and brca2 predispose to aggressive prostate cancer in poland,ML
+Prostate Cancer,CHEK2,29520813,all,chek2,C,M,,symbol 'CHEK2' present,33,a comprehensive evaluation of chek2 germline mutations in men with prostate cancer,M
+Prostate Cancer,CHEK2,36451132,all,chek2,C,ML,,symbol 'CHEK2' present,58,the germline mutational landscape of genitourinary cancers and its indication for prognosis and risk,ML
+Prostate Cancer,CHEK2,33780728,all,chek2,C,M,,symbol 'CHEK2' present,64,generation of two induced pluripotent stem cell lines from blood cells of a prostate cancer patient carrying germline mutation in chek2,M
+Prostate Cancer,CHEK2,16941491,all,chek2,C,M,,symbol 'CHEK2' present,77,unique substitution of chek2 and tp53 mutations implicated in primary prostate tumors and cancer cell lines,M
+Prostate Cancer,CHEK2,39172235,all,chek2,C,ML,,symbol 'CHEK2' present,89,real-world data on the prevalence of brca1 2 and hrr gene mutations in patients with primary and metastatic castration resistant prostate ca,ML
+Prostate Cancer,CHEK2,16835864,all,checkpoint kinase 2|chek2|chk2,C,M,,symbol 'CHEK2' present,126,characterization of chek2 mutations in prostate cancer,M
+Prostate Cancer,CHEK2,12533788,all,chek2,C,M,,symbol 'CHEK2' present,153,mutations in chek2 associated with prostate cancer risk,M
+Prostate Cancer,CHEK2,40849250,all,chek2,C,I,,symbol 'CHEK2' present,166,impact of hrr gene subclass on clinical outcomes of parp inhibitors in metastatic castration-resistant prostate cancer,I
+Prostate Cancer,CHEK2,34254341,all,chek2,C,I,,symbol 'CHEK2' present,210,observed evidence for guideline-recommended genes in predicting prostate cancer risk from a large population-based cohort,I
+Prostate Cancer,CHEK2,34674288,all,chek2,C,I,,symbol 'CHEK2' present,215,association of germline rare pathogenic mutations in guideline-recommended genes with prostate cancer progression a meta-analysis,I
+Prostate Cancer,CHEK2,36358026,all,chek2,C,I,,symbol 'CHEK2' present,216,the prevalence of gene mutations in homologous recombination repair pathways in japanese patients with metastatic castration-resistant prost,I
+Prostate Cancer,CHEK2,23149842,all,chek2,C,M,,symbol 'CHEK2' present,217,an inherited nbn mutation is associated with poor prognosis prostate cancer,M
+Prostate Cancer,CHEK2,29368341,all,chek2,C,I,,symbol 'CHEK2' present,221,intraductal ductal histology and lymphovascular invasion are associated with germline dna-repair gene mutations in prostate cancer,I
+Prostate Cancer,CHEK2,18297428,all,chek2,C,M,,symbol 'CHEK2' present,222,deleterious chek2 1100delc and l303x mutants identified among 38 human breast cancer cell lines,M
+Prostate Cancer,CHEK2,28623070,all,chek2,C,I,,symbol 'CHEK2' present,228,commentary on inherited dna-repair gene mutations in men with metastatic prostate cancer pritchard cc mateo j walsh mf de sarkar n abida w b,I
+Prostate Cancer,CHEK2,19401704,all,chek2,C,M,,symbol 'CHEK2' present,229,cancer risks in first-degree relatives of chek2 mutation carriers effects of mutation type and cancer site in proband,M
+Prostate Cancer,CHEK2,27433846,all,chek2,C,I,,symbol 'CHEK2' present,232,inherited dna-repair gene mutations in men with metastatic prostate cancer,I
+Prostate Cancer,CHEK2,28789927,all,chek2,C,I,,symbol 'CHEK2' present,233,commentary on inherited dna-repair gene mutations in men with metastatic prostate cancer pritchard cc mateo j walsh mf de sarkar n abida w b,I
+Prostate Cancer,CHEK2,42431822,all,chek2,C,I,,symbol 'CHEK2' present,242,real-world clinical outcomes genetic testing patterns and treatment patterns of patients with metastatic castration-resistant prostate cance,I
+Prostate Cancer,CHEK2,17721994,all,chek2|chk2,C,M,,symbol 'CHEK2' present,282,genetic and functional analysis of chek2 chk2 variants in multiethnic cohorts,M
+Prostate Cancer,CHEK2,36054589,all,chek2,C,I,,symbol 'CHEK2' present,317,a comprehensive literature review and meta-analysis of the prevalence of pan-cancer brca mutations homologous recombination repair gene muta,I
+Prostate Cancer,CHEK2,32191583,all,chek2,C,I,,symbol 'CHEK2' present,361,short-term outcomes of active surveillance for low risk prostate cancer among men with germline dna repair gene mutations,I
+Prostate Cancer,CHEK2,41714123,all,chek2,C,I,,symbol 'CHEK2' present,376,differential response to 177 lu-psma-617 in patients with tumor suppressor gene-mutated metastatic castration-resistant prostate cancer,I
+Prostate Cancer,CHEK2,40019487,all,chek2,C,ML,,symbol 'CHEK2' present,427,germline-somatic interactions in brca-associated cancers unique molecular profiles and clinical outcomes linking atm to tp53 synthetic essen,ML
+Prostate Cancer,CHEK2,31535940,all,chek2,C,I,,symbol 'CHEK2' present,451,effect of dna damage response mutations on prostate cancer prognosis a systematic review,I
+Prostate Cancer,CHEK2,29699892,all,chek2,C,M,,symbol 'CHEK2' present,457,primary mutational landscape linked with pre-docetaxel lactate dehydrogenase levels predicts docetaxel response in metastatic castrate-resis,M
+Prostate Cancer,CHEK2,30293905,all,chek2,C,I,,symbol 'CHEK2' present,464,efficacy of radium-223 in bone-metastatic castration-resistant prostate cancer with and without homologous repair gene defects,I
+Prostate Cancer,CHEK2,38278448,all,chek2,C,I,,symbol 'CHEK2' present,512,histologic patterns in prostatic adenocarcinoma are not predictive of mutations in the homologous recombination repair pathway,I
+Prostate Cancer,CHEK2,34783071,all,chek2,C,ML,,symbol 'CHEK2' present,513,clinical and genomic features of spop-mutant prostate cancer,ML
+Prostate Cancer,CHEK2,27324988,all,chek2,C,I,,symbol 'CHEK2' present,524,a pilot study of clinical targeted next generation sequencing for prostate cancer consequences for treatment and genetic counseling,I
+Prostate Cancer,CHEK2,41465280,all,chek2,C,ML,,symbol 'CHEK2' present,563,complex relationships between homologous recombination deficiency hrd score and mutational status of homologous recombination repair hrr gen,ML
+Prostate Cancer,CHEK2,34877933,all,checkpoint kinase 2,C,P,,credited via alias checkpoint kinase 2,564,genomic attributes of homology-directed dna repair deficiency in metastatic prostate cancer,P
+Prostate Cancer,CHEK2,38982928,all,checkpoint kinase 2|chek2,C,ML,,symbol 'CHEK2' present,580,impact of homologous recombination repair breast cancer brca gene alterations on survival in a real-world setting of metastatic prostate can,ML
+Prostate Cancer,CHEK2,31601699,all,chek2,C,ML,,symbol 'CHEK2' present,619,patients resistant against psma-targeting -radiation therapy often harbor mutations in dna damage-repair-associated genes,ML
+Prostate Cancer,CHEK2,38452035,all,chek2,C,ML,,symbol 'CHEK2' present,638,a phase ii study of rucaparib monotherapy in nonmetastatic hormone-sensitive prostate cancer demonstrating brcaness genotype roar,ML
+Prostate Cancer,CHEK2,17591842,all,chek2,C,I,,symbol 'CHEK2' present,689,high prevalence of brca1 deletions in brcapro-positive patients with high carrier probability,I
+Prostate Cancer,CHEK2,30993692,all,chek2,C,I,,symbol 'CHEK2' present,709,intraductal carcinoma of the prostate in the absence of high-grade invasive carcinoma represents a molecularly distinct type of in situ carc,I
+Prostate Cancer,CHEK2,23722471,all,chek2,C,M,,symbol 'CHEK2' present,753,a personalised approach to prostate cancer screening based on genotyping of risk founder alleles,M
+Prostate Cancer,CHEK2,38748947,all,chek2,C,I,,symbol 'CHEK2' present,768,prospective study of homologous recombination repair gene mutation prevalence in patients with advanced prostate cancer from latin america c,I
+Prostate Cancer,CHEK2,29659569,all,chek2,C,ML,,symbol 'CHEK2' present,772,targeted next generation sequencing identifies functionally deleterious germline mutations in novel genes in early-onset familial prostate c,ML
+Prostate Cancer,CHEK2,15087378,all,chek2,C,M,,symbol 'CHEK2' present,787,a novel founder chek2 mutation is associated with increased prostate cancer risk,M
+Prostate Cancer,CHEK2,28657667,all,checkpoint kinase 2|chek2,C,P,,symbol 'CHEK2' present,790,germline genetic variants in men with prostate cancer and one or more additional cancers,P
+Prostate Cancer,CHEK2,39178368,all,chek2,C,I,,symbol 'CHEK2' present,800,dna-damaging therapies in patients with prostate cancer and pathogenic alterations in homologous recombination repair genes,I
+Prostate Cancer,CHEK2,38417742,all,chek2,C,I,,symbol 'CHEK2' present,807,treatment patterns and outcomes in metastatic castration-resistant prostate cancer patients with and without somatic or germline alterations,I
+Prostate Cancer,CHEK2,33462368,all,chek2,C,M,,symbol 'CHEK2' present,817,homologous recombination deficiency hrd score in germline brca2- versus atm-altered prostate cancer,M
+Prostate Cancer,CHEK2,32268276,all,chek2,C,I,,symbol 'CHEK2' present,831,clinical and genomic insights into circulating tumor dna-based alterations across the spectrum of metastatic hormone-sensitive and castrate-,I
+Prostate Cancer,CHEK2,30730411,all,chek2,C,I,,symbol 'CHEK2' present,863,bringing prostate cancer germline genetics into clinical practice,I
+Prostate Cancer,CHEK2,28697982,all,chek2,C,I,,symbol 'CHEK2' present,908,prostate cancer screening in a new era of genetics,I
+Prostate Cancer,CHEK2,38461085,all,chek2,C,ML,,symbol 'CHEK2' present,943,mainstream model of genetic testing for prostate cancer at a large tertiary cancer centre,ML
+Prostate Cancer,CHEK2,36653039,all,chek2,C,M,,symbol 'CHEK2' present,957,response to bipolar androgen therapy and pd-1 inhibition in a patient with metastatic castration-resistant prostate cancer and a germline ch,M
+Prostate Cancer,CHEK2,31085765,all,chek2,C,I,,symbol 'CHEK2' present,960,germline and somatic mutations in prostate cancer for the clinician,I
+Prostate Cancer,CHEK2,33558422,all,chek2,C,M,,symbol 'CHEK2' present,975,genomic analysis of circulating tumor dna in 3 334 patients with advanced prostate cancer identifies targetable brca alterations and ar resi,M
+Prostate Cancer,PTEN,31352849,random,pten,C,M,,symbol 'PTEN' present,1,clinical outcomes associated with pathogenic genomic instability mutations in prostate cancer a retrospective analysis of us pharmacy and me,M
+Prostate Cancer,PTEN,32875559,random,pten,C,ML,,symbol 'PTEN' present,28,mutations in atm nbn and brca2 predispose to aggressive prostate cancer in poland,ML
+Prostate Cancer,PTEN,35422210,random,pten,C,ML,,symbol 'PTEN' present,75,flg gene mutation up-regulates the abnormal tumor immune response and promotes the progression of prostate cancer,ML
+Prostate Cancer,PTEN,41855405,random,pten,C,I,,symbol 'PTEN' present,86,spop mutations in veterans with prostate cancer and outcomes with doublet and triplet therapy in de novo metastatic hormone sensitive prosta,I
+Prostate Cancer,PTEN,29427004,random,pten,C,ML,,symbol 'PTEN' present,109,immunohistochemically detected idh1 r132h mutation is rare and mostly heterogeneous in prostate cancer,ML
+Prostate Cancer,PTEN,11234884,random,mmac1|pten,C,M,,symbol 'PTEN' present,146,mutations of pten mmac1 in primary prostate cancers from chinese patients,M
+Prostate Cancer,PTEN,29650325,random,pten,C,I,,symbol 'PTEN' present,181,improving the genetic signature of prostate cancer the somatic mutations,I
+Prostate Cancer,PTEN,22722839,random,pten,C,G,,symbol 'PTEN' present,270,the mutational landscape of lethal castration-resistant prostate cancer,G
+Prostate Cancer,PTEN,37838503,random,pten,C,I,,symbol 'PTEN' present,277,metastatic prostate cancer is associated with distinct higher frequency of genetic mutations at diagnosis,I
+Prostate Cancer,PTEN,31744831,random,pten,C,I,,symbol 'PTEN' present,330,identification of hypermutation and defective mismatch repair in ctdna from metastatic prostate cancer,I
+Prostate Cancer,PTEN,35354467,random,pten,C,P,,symbol 'PTEN' present,363,kmt2c methyltransferase domain regulated ink4a expression suppresses prostate cancer metastasis,P
+Prostate Cancer,PTEN,21147910,random,pten,C,I,,symbol 'PTEN' present,374,copy number and targeted mutational analysis reveals novel somatic events in metastatic prostate tumors,I
+Prostate Cancer,PTEN,21685943,random,pten,C,M,,symbol 'PTEN' present,394,a mouse model of heterogeneous c-myc-initiated prostate cancer with loss of pten and p53,M
+Prostate Cancer,PTEN,28842510,random,pten,C,ML,,symbol 'PTEN' present,444,impact of therapy on genomics and transcriptomics in high-risk prostate cancer treated with neoadjuvant docetaxel and androgen deprivation t,ML
+Prostate Cancer,PTEN,33955569,random,pten,C,ML,,symbol 'PTEN' present,455,genomic profiles and clinical outcomes in primary versus secondary metastatic hormone-sensitive prostate cancer,ML
+Prostate Cancer,PTEN,23810788,random,pten,C,G,,symbol 'PTEN' present,465,the poly adp-ribose polymerase inhibitor niraparib mk4827 in brca mutation carriers and patients with sporadic cancer a phase 1 dose-escalat,G
+Prostate Cancer,PTEN,40847760,random,pten,C,P,,symbol 'PTEN' present,469,the utility of next-generation sequencing in metastatic prostate cancer fna biopsies,P
+Prostate Cancer,PTEN,31791268,random,phosphatase and tensin homolog|pten,C,M,,symbol 'PTEN' present,492,identification of key pathways and genes in pten mutation prostate cancer by bioinformatics analysis,M
+Prostate Cancer,PTEN,40558274,random,pten,C,M,,symbol 'PTEN' present,515,pten mutations associated with increased recurrence and decreased survival in patients with prostate cancer spinal metastasis,M
+Prostate Cancer,PTEN,28186998,random,pten,C,P,,symbol 'PTEN' present,596,somatic molecular subtyping of prostate tumors from hoxb13 g84e carriers,P
+Prostate Cancer,PTEN,32651179,random,pten,C,ML,,symbol 'PTEN' present,600,genomic profiling of prostate cancers from men with african and european ancestry,ML
+Prostate Cancer,PTEN,42220083,random,pten,C,ML,,symbol 'PTEN' present,604,mitf gain-of-function mutation in metastatic prostate cancer a rare finding with potential therapeutic significance,ML
+Prostate Cancer,PTEN,30217929,random,pten,C,ML,,symbol 'PTEN' present,621,whole-genome sequencing reveals elevated tumor mutational burden and initiating driver mutations in african men with treatment-naive high-ri,ML
+Prostate Cancer,PTEN,10851068,random,pten,C,M,target,symbol 'PTEN' present,680,igf-i receptor signaling in a prostatic cancer cell line with a pten mutation,M
+Prostate Cancer,PTEN,26612463,random,pten,C,M,,symbol 'PTEN' present,693,integrated analysis of the genomic instability of pten in clinically insignificant and significant prostate cancer,M
+Prostate Cancer,PTEN,33511206,random,pten,C,M,,symbol 'PTEN' present,699,elucidation of the genomic-epigenomic interaction landscape of aggressive prostate cancer,M
+Prostate Cancer,PTEN,28515055,random,pten,C,M,,symbol 'PTEN' present,717,exome sequencing of african-american prostate cancer reveals loss-of-function erf mutations,M
+Prostate Cancer,PTEN,27034017,random,pten,C,M,,symbol 'PTEN' present,770,hoxb13 and other high penetrant genes for prostate cancer,M
+Prostate Cancer,PTEN,21138868,random,pten,C,M,,symbol 'PTEN' present,808,combination therapy targeting both tumor-initiating and differentiated cell populations in prostate carcinoma,M
+Prostate Cancer,PTEN,28762374,random,pten,C,ML,,symbol 'PTEN' present,819,molecular alterations in prostate cancer and association with mri features,ML
+Prostate Cancer,PTEN,12569555,random,pten,C,M,,symbol 'PTEN' present,825,frequent monoallelic deletion of pten and its reciprocal associatioin with pik3ca amplification in gastric carcinoma,M
+Prostate Cancer,PTEN,28699202,random,pten,C,ML,,symbol 'PTEN' present,837,ductal adenocarcinoma of the prostate clinical and biological profiles,ML
+Prostate Cancer,PTEN,30068710,random,pten,C,P,,symbol 'PTEN' present,856,spop-mutated chd1-deleted lethal prostate cancer and abiraterone sensitivity,P
+Prostate Cancer,PTEN,40045414,random,pten,C,I,,symbol 'PTEN' present,871,evaluating the heterogeneity of advanced prostate cancer by 18 f-dcfpyl and 18 f-fdg pet ct in a prospective cohort,I
+Prostate Cancer,PTEN,31874108,random,pten,C,I,,symbol 'PTEN' present,876,genomics of lethal prostate cancer at diagnosis and castration resistance,I
+Prostate Cancer,PTEN,25056375,random,pten,C,M,,symbol 'PTEN' present,877,evidence for molecular differences in prostate cancer between african american and caucasian men,M
+Prostate Cancer,PTEN,38427749,targeted,phosphatase and tensin homolog,C,M,,credited via alias phosphatase and tensin homolog,881,comparison of molecular analysis results determined by next-generation sequencing to immunohistochemical indicators and clinicopathological ,M
+Prostate Cancer,PTEN,27288872,random,phosphatase and tensin homolog|pten,C,P,,symbol 'PTEN' present,886,effects of the multikinase inhibitors sorafenib and regorafenib in pten deficient neoplasias,P
+Prostate Cancer,PTEN,34280123,random,pten,C,P,,symbol 'PTEN' present,961,ar gene rearrangement analysis in liquid biopsies reveals heterogeneity in lethal prostate cancer,P
+Prostate Cancer,PTEN,30553611,random,pten,C,ML,,symbol 'PTEN' present,970,compound genomic alterations of tp53 pten and rb1 tumor suppressors in localized and metastatic prostate cancer,ML
+Prostate Cancer,PTEN,21532617,random,pten,C,M,,symbol 'PTEN' present,999,differential regulation of pten expression by androgen receptor in prostate and breast cancers,M
+Prostate Cancer,PARP1,38885246,random+targeted,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,19,triumph phase ii trial of rucaparib monotherapy in patients with metastatic hormone-sensitive prostate cancer harboring germline homologous ,W
+Prostate Cancer,PARP1,30333000,random,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,51,response to olaparib in metastatic castration-resistant prostate cancer with germline brca2 mutation a case report,W
+Prostate Cancer,PARP1,32171277,random,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,122,polyclonal brca2 mutations following carboplatin treatment confer resistance to the parp inhibitor rucaparib in a patient with mcrpc a case ,W
+Prostate Cancer,PARP1,38072760,random,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,150,co-occurring brca2 spop mutations predict exceptional poly adp-ribose polymerase inhibitor sensitivity in metastatic castration-resistant pr,W
+Prostate Cancer,PARP1,28450426,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,160,analysis of circulating cell-free dna identifies multiclonal heterogeneity of brca2 reversion mutations associated with resistance to parp i,W
+Prostate Cancer,PARP1,34325986,random+targeted,parp,U,I,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,165,mutations in tp53 or dna damage repair genes define poor prognostic subgroups in primary prostate cancer,W
+Prostate Cancer,PARP1,40849250,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,166,impact of hrr gene subclass on clinical outcomes of parp inhibitors in metastatic castration-resistant prostate cancer,W
+Prostate Cancer,PARP1,30587560,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,235,metastatic prostate cancer in a rad51c mutation carrier,W
+Prostate Cancer,PARP1,39321214,targeted,parp,U,G,target,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,247,synthetic lethal targeting of cdk12-deficient prostate cancer with parp inhibitors,W
+Prostate Cancer,PARP1,40189997,random,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,296,discovery of a recurrent frameshift ashkenazi jewish founder mutation f722fs in the parp inhibitor-sensitive mms22l gene associated with hig,W
+Prostate Cancer,PARP1,32997692,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,309,impact of mutations in homologous recombination repair genes on treatment outcomes for metastatic castration resistant prostate cancer,W
+Prostate Cancer,PARP1,29429804,random,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,321,clinical outcome of prostate cancer patients with germline dna repair mutations retrospective analysis from an international study,W
+Prostate Cancer,PARP1,34700141,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,336,emergence of polyclonal brca2 reversions following parp inhibitor treatment an illustrative case report,W
+Prostate Cancer,PARP1,42464142,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,343,next-generation sequencing-based characterization of brca1 2 variants across multiple tumor types in vietnamese patients,W
+Prostate Cancer,PARP1,30797618,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,347,differential response to olaparib treatment among men with metastatic castration-resistant prostate cancer harboring brca1 or brca2 versus a,W
+Prostate Cancer,PARP1,38851712,random+targeted,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,370,the efficacy and safety of parp inhibitors in mcrpc with hrr mutation in second-line treatment a systematic review and bayesian network meta,W
+Prostate Cancer,PARP1,36283420,random,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,387,prognostic role of dna damage response genes mutations and their association with the sensitivity of olaparib in prostate cancer patients,W
+Prostate Cancer,PARP1,36243543,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,397,emergence of brca reversion mutations in patients with metastatic castration-resistant prostate cancer after treatment with rucaparib,W
+Prostate Cancer,PARP1,34778690,random,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,409,differential activity of parp inhibitors in brca1 - versus brca2 -altered metastatic castration-resistant prostate cancer,W
+Prostate Cancer,PARP1,38735436,random,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,422,prevalence of dna-repair gene mutations in mexican men with prostate cancer,W
+Prostate Cancer,PARP1,29699892,random,parp1,C,P,,symbol 'PARP1' present,457,primary mutational landscape linked with pre-docetaxel lactate dehydrogenase levels predicts docetaxel response in metastatic castrate-resis,P
+Prostate Cancer,PARP1,40596117,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,466,mutational and low-coverage whole genome sequencing identifies actionable dna repair alterations in prostate cancer plasma dna,W
+Prostate Cancer,PARP1,40957713,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,476,development of a synthetic lethality-based combination therapy using lig1 and parp inhibitors for prostate cancer,W
+Prostate Cancer,PARP1,36800845,random,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,487,homologous recombination repair gene mutations in malaysian prostate cancer patients,W
+Prostate Cancer,PARP1,28864639,random+targeted,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,491,reversion mutations with clinical use of parp inhibitors many genes many versions,W
+Prostate Cancer,PARP1,32071115,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,499,detection of molecular signatures of homologous recombination deficiency in prostate cancer with or without brca1 2 mutations,W
+Prostate Cancer,PARP1,35931885,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,501,emerging role of parp inhibitors in metastatic prostate cancer,W
+Prostate Cancer,PARP1,38278448,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,512,histologic patterns in prostatic adenocarcinoma are not predictive of mutations in the homologous recombination repair pathway,W
+Prostate Cancer,PARP1,34783071,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,513,clinical and genomic features of spop-mutant prostate cancer,W
+Prostate Cancer,PARP1,41465280,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,563,complex relationships between homologous recombination deficiency hrd score and mutational status of homologous recombination repair hrr gen,W
+Prostate Cancer,PARP1,36434163,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,626,germline mutations in prostate cancer a systematic review of the evidence for personalized medicine,W
+Prostate Cancer,PARP1,30498248,random,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,636,parp inhibition - not all gene mutations are created equal,W
+Prostate Cancer,PARP1,38452035,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,638,a phase ii study of rucaparib monotherapy in nonmetastatic hormone-sensitive prostate cancer demonstrating brcaness genotype roar,W
+Prostate Cancer,PARP1,41002593,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,650,pulmonary embolism associated with olaparib in brca2 -mutated prostate cancer a case report,W
+Prostate Cancer,PARP1,39180789,random,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,663,assessing olaparib efficacy in u s veterans with metastatic prostate cancer utilizing a time-indifferent g-rate method ideal for real-world ,W
+Prostate Cancer,PARP1,30099369,targeted,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,702,dna repair gene alterations and parp inhibitor response in patients with metastatic castration-resistant prostate cancer,W
+Prostate Cancer,PARP1,33263430,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,731,dna damage repair gene mutation testing and genetic counseling in men with without prostate cancer a systematic review,W
+Prostate Cancer,PARP1,32745972,random+targeted,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,733,parp inhibitors in castration-resistant prostate cancer,W
+Prostate Cancer,PARP1,41529070,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,740,mecom function is critical for ar-driven treatment-resistant prostate cancer,W
+Prostate Cancer,PARP1,41538264,random,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,760,emergence of brca reversion mutations in prostate cancer prior to parp inhibitor exposure clinical and therapeutic implications,W
+Prostate Cancer,PARP1,26658963,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,789,olaparib targets some advanced prostate cancers,W
+Prostate Cancer,PARP1,42370172,targeted,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,794,cdk9 degrader induces brcaness and sensitizes castration-resistant prostate cancer to parp inhibitor,W
+Prostate Cancer,PARP1,40397306,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,799,olaparib monotherapy or in combination with abiraterone for the treatment of patients with metastatic castration-resistant prostate cancer m,W
+Prostate Cancer,PARP1,35657156,random+targeted,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,811,clinical implications of homologous recombination repair mutations in prostate cancer,W
+Prostate Cancer,PARP1,23847380,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,826,olaparib shows promise in multiple tumor types,W
+Prostate Cancer,PARP1,41071892,random,parp,U,I,target,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,853,targeting the atm-trmt10a-brca1 axis confers synthetic lethality to parp inhibition in metastatic castration-resistant prostate cancer,W
+Prostate Cancer,PARP1,30730411,random,parp,U,I,target,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,863,bringing prostate cancer germline genetics into clinical practice,W
+Prostate Cancer,PARP1,39920014,random,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,888,association of prior parp inhibitor exposure with clinical outcomes after 177 lu-psma-617 in men with castration-resistant prostate cancer a,W
+Prostate Cancer,PARP1,32921062,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,939,germline mutations and prostate cancer is it time to change treatment algorithms,W
+Prostate Cancer,PARP1,28450425,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,945,circulating cell-free dna to guide prostate cancer treatment with parp inhibition,W
+Prostate Cancer,PARP1,25904654,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,949,stratifying prostate patients for olaparib,W
+Prostate Cancer,PARP1,40460119,targeted,parp,U,M,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,951,brca2 reversion mutation-independent resistance to parp inhibition through impaired dna prereplication complex function,W
+Prostate Cancer,PARP1,31085765,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,960,germline and somatic mutations in prostate cancer for the clinician,W
+Prostate Cancer,PARP1,34844712,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,964,genetics of prostate cancer and its utility in treatment and screening,W
+Prostate Cancer,PARP1,40358364,random,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,976,cambridge neoadjuvant cancer of the prostate cancap03 a window study into the effects of olaparib degarelix in primary prostate cancer,W
+Prostate Cancer,PARP1,33722420,targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,984,untangling the profound trial for advanced prostate cancer is there really a role for olaparib,W
+Prostate Cancer,PARP1,34884434,random+targeted,parp,U,G,,credited only via the family/drug-class term 'PARP' (e.g. 'PARP inhibitor'); PARP1 not specified,989,brca mutations in prostate cancer assessment implications and treatment considerations,W
+Prostate Cancer,PALB2,34102435,all,palb2,C,ML,,symbol 'PALB2' present,21,homologous recombination repair gene mutations in chinese localized and locally advanced prostate cancer patients,ML
+Prostate Cancer,PALB2,30171229,all,palb2,C,I,,symbol 'PALB2' present,30,prevalence of dna repair gene mutations in localized prostate cancer according to clinical and pathologic features association of gleason sc,I
+Prostate Cancer,PALB2,34653963,all,palb2,C,ML,,symbol 'PALB2' present,46,inherited mutations in chinese men with prostate cancer,ML
+Prostate Cancer,PALB2,36292577,all,palb2,C,I,,symbol 'PALB2' present,55,increased risk of hereditary prostate cancer in italian families with hereditary breast and ovarian cancer syndrome harboring mutations in b,I
+Prostate Cancer,PALB2,34006922,all,palb2,C,M,,symbol 'PALB2' present,84,palb2 mutations and prostate cancer risk and survival,M
+Prostate Cancer,PALB2,39172235,all,palb2,C,I,,symbol 'PALB2' present,89,real-world data on the prevalence of brca1 2 and hrr gene mutations in patients with primary and metastatic castration resistant prostate ca,I
+Prostate Cancer,PALB2,24989076,all,palb2,C,W,,symbol 'PALB2' present,133,finnish fanconi anemia mutations and hereditary predisposition to breast and prostate cancer,W
+Prostate Cancer,PALB2,40849250,all,palb2,C,I,,symbol 'PALB2' present,166,impact of hrr gene subclass on clinical outcomes of parp inhibitors in metastatic castration-resistant prostate cancer,I
+Prostate Cancer,PALB2,34254341,all,palb2,C,I,,symbol 'PALB2' present,210,observed evidence for guideline-recommended genes in predicting prostate cancer risk from a large population-based cohort,I
+Prostate Cancer,PALB2,34674288,all,palb2,C,I,,symbol 'PALB2' present,215,association of germline rare pathogenic mutations in guideline-recommended genes with prostate cancer progression a meta-analysis,I
+Prostate Cancer,PALB2,28623070,all,palb2,C,ML,,symbol 'PALB2' present,228,commentary on inherited dna-repair gene mutations in men with metastatic prostate cancer pritchard cc mateo j walsh mf de sarkar n abida w b,ML
+Prostate Cancer,PALB2,27433846,all,palb2,C,ML,,symbol 'PALB2' present,232,inherited dna-repair gene mutations in men with metastatic prostate cancer,ML
+Prostate Cancer,PALB2,28789927,all,palb2,C,ML,,symbol 'PALB2' present,233,commentary on inherited dna-repair gene mutations in men with metastatic prostate cancer pritchard cc mateo j walsh mf de sarkar n abida w b,ML
+Prostate Cancer,PALB2,42431822,all,palb2,C,I,,symbol 'PALB2' present,242,real-world clinical outcomes genetic testing patterns and treatment patterns of patients with metastatic castration-resistant prostate cance,I
+Prostate Cancer,PALB2,17287723,all,palb2,C,M,,symbol 'PALB2' present,304,a recurrent mutation in palb2 in finnish cancer families,M
+Prostate Cancer,PALB2,32997692,all,palb2,C,M,,symbol 'PALB2' present,309,impact of mutations in homologous recombination repair genes on treatment outcomes for metastatic castration resistant prostate cancer,M
+Prostate Cancer,PALB2,36054589,all,palb2,C,I,,symbol 'PALB2' present,317,a comprehensive literature review and meta-analysis of the prevalence of pan-cancer brca mutations homologous recombination repair gene muta,I
+Prostate Cancer,PALB2,30625039,all,palb2,C,ML,,symbol 'PALB2' present,322,prorepair-b a prospective cohort study of the impact of germline dna repair mutations on the outcomes of patients with metastatic castration,ML
+Prostate Cancer,PALB2,31322208,all,palb2|partner and localizer of brca2,C,ML,,symbol 'PALB2' present,331,a systematic review of the prevalence of dna damage response gene mutations in prostate cancer,ML
+Prostate Cancer,PALB2,41714123,all,palb2,C,I,,symbol 'PALB2' present,376,differential response to 177 lu-psma-617 in patients with tumor suppressor gene-mutated metastatic castration-resistant prostate cancer,I
+Prostate Cancer,PALB2,40019487,all,palb2,C,ML,,symbol 'PALB2' present,427,germline-somatic interactions in brca-associated cancers unique molecular profiles and clinical outcomes linking atm to tp53 synthetic essen,ML
+Prostate Cancer,PALB2,31535940,all,palb2,C,ML,,symbol 'PALB2' present,451,effect of dna damage response mutations on prostate cancer prognosis a systematic review,ML
+Prostate Cancer,PALB2,30293905,all,palb2,C,I,,symbol 'PALB2' present,464,efficacy of radium-223 in bone-metastatic castration-resistant prostate cancer with and without homologous repair gene defects,I
+Prostate Cancer,PALB2,28864639,all,palb2,C,ML,,symbol 'PALB2' present,491,reversion mutations with clinical use of parp inhibitors many genes many versions,ML
+Prostate Cancer,PALB2,38278448,all,palb2,C,I,,symbol 'PALB2' present,512,histologic patterns in prostatic adenocarcinoma are not predictive of mutations in the homologous recombination repair pathway,I
+Prostate Cancer,PALB2,41465280,all,palb2,C,I,,symbol 'PALB2' present,563,complex relationships between homologous recombination deficiency hrd score and mutational status of homologous recombination repair hrr gen,I
+Prostate Cancer,PALB2,31601699,all,palb2,C,I,,symbol 'PALB2' present,619,patients resistant against psma-targeting -radiation therapy often harbor mutations in dna damage-repair-associated genes,I
+Prostate Cancer,PALB2,38452035,all,palb2,C,I,,symbol 'PALB2' present,638,a phase ii study of rucaparib monotherapy in nonmetastatic hormone-sensitive prostate cancer demonstrating brcaness genotype roar,I
+Prostate Cancer,PALB2,28657667,all,palb2|partner and localizer of brca2,C,I,,symbol 'PALB2' present,790,germline genetic variants in men with prostate cancer and one or more additional cancers,I
+Prostate Cancer,PALB2,39178368,all,palb2,C,I,,symbol 'PALB2' present,800,dna-damaging therapies in patients with prostate cancer and pathogenic alterations in homologous recombination repair genes,I
+Prostate Cancer,PALB2,32814685,all,palb2,C,M,,symbol 'PALB2' present,802,when and how to use parp inhibitors in prostate cancer a systematic review of the literature with an update on on-going trials,M
+Prostate Cancer,PALB2,38417742,all,palb2,C,I,,symbol 'PALB2' present,807,treatment patterns and outcomes in metastatic castration-resistant prostate cancer patients with and without somatic or germline alterations,I
+Prostate Cancer,PALB2,30730411,all,palb2,C,I,,symbol 'PALB2' present,863,bringing prostate cancer germline genetics into clinical practice,I
+Prostate Cancer,PALB2,28450425,all,palb2,C,M,,symbol 'PALB2' present,945,circulating cell-free dna to guide prostate cancer treatment with parp inhibition,M
+Prostate Cancer,PALB2,31085765,all,palb2,C,I,,symbol 'PALB2' present,960,germline and somatic mutations in prostate cancer for the clinician,I

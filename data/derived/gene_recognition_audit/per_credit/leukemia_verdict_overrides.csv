@@ -1,0 +1,4 @@
+gene,pmid,identity,evidence,rationale
+BCR,32047037,X,I,"'BCR' = B-cell antigen receptor (BCR signaling, IGH stereotypes), not the BCR gene"
+BCR,36287227,X,I,"'BCR' = B-cell receptor signaling (BTK inhibitor trial)"
+BCR,35120522,X,I,"'BCR' = B-cell antigen receptor signaling"

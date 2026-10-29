@@ -1,0 +1,951 @@
+cancer,rank,gene,tier,in_intogen_any,intogen_hits_cumulative,precision_at_k
+Bladder Cancer,1,FGFR3,established,True,1,1.0
+Bladder Cancer,2,TP53,established,True,2,1.0
+Bladder Cancer,3,TERT,established,True,3,1.0
+Bladder Cancer,4,PIK3CA,established,True,4,1.0
+Bladder Cancer,5,RB1,established,True,5,1.0
+Bladder Cancer,6,KRAS,established,True,6,1.0
+Bladder Cancer,7,ARID1A,established,True,7,1.0
+Bladder Cancer,8,HRAS,established,True,8,1.0
+Bladder Cancer,9,KDM6A,established,True,9,1.0
+Bladder Cancer,10,ERBB2,established,True,10,1.0
+Bladder Cancer,11,BRAF,emerging,True,11,1.0
+Bladder Cancer,12,ERCC2,emerging,True,12,1.0
+Bladder Cancer,13,CD274,emerging,True,13,1.0
+Bladder Cancer,14,KMT2D,emerging,True,14,1.0
+Bladder Cancer,15,NRAS,emerging,True,15,1.0
+Bladder Cancer,16,TSC1,emerging,True,16,1.0
+Bladder Cancer,17,APC,emerging,True,17,1.0
+Bladder Cancer,18,CDKN2A,emerging,True,18,1.0
+Bladder Cancer,19,EGFR,emerging,True,19,1.0
+Bladder Cancer,20,FGFR1,emerging,True,20,1.0
+Bladder Cancer,21,ATM,discovery,True,21,1.0
+Bladder Cancer,22,MSH2,discovery,False,21,0.9545454545454546
+Bladder Cancer,23,FGFR2,discovery,True,22,0.9565217391304348
+Bladder Cancer,24,MTOR,discovery,True,23,0.9583333333333334
+Bladder Cancer,25,PTEN,discovery,True,24,0.96
+Bladder Cancer,26,EP300,discovery,True,25,0.9615384615384616
+Bladder Cancer,27,BRCA2,discovery,True,26,0.9629629629629629
+Bladder Cancer,28,STAG2,discovery,True,27,0.9642857142857143
+Bladder Cancer,29,MLH1,discovery,False,27,0.9310344827586207
+Bladder Cancer,30,CREBBP,discovery,True,28,0.9333333333333333
+Bladder Cancer,31,PDCD1,extended,False,28,0.9032258064516129
+Bladder Cancer,32,CDKN1A,extended,True,29,0.90625
+Bladder Cancer,33,MDM2,extended,True,30,0.9090909090909091
+Bladder Cancer,34,MSH6,extended,False,30,0.8823529411764706
+Bladder Cancer,35,CTNNB1,extended,True,31,0.8857142857142857
+Bladder Cancer,36,BRCA1,extended,True,32,0.8888888888888888
+Bladder Cancer,37,SDHB,extended,False,32,0.8648648648648649
+Bladder Cancer,38,AKT1,extended,True,33,0.868421052631579
+Bladder Cancer,39,ERBB3,extended,True,34,0.8717948717948718
+Bladder Cancer,40,TACC3,extended,False,34,0.85
+Bladder Cancer,41,KMT2C,extended,True,35,0.8536585365853658
+Bladder Cancer,42,KIT,extended,True,36,0.8571428571428571
+Bladder Cancer,43,CHEK2,extended,True,37,0.8604651162790697
+Bladder Cancer,44,TTN,extended,False,37,0.8409090909090909
+Bladder Cancer,45,TSC2,extended,True,38,0.8444444444444444
+Bladder Cancer,46,MKI67,extended,False,38,0.8260869565217391
+Bladder Cancer,47,FANCC,extended,False,38,0.8085106382978723
+Bladder Cancer,48,PMS2,extended,True,39,0.8125
+Bladder Cancer,49,KRT20,extended,False,39,0.7959183673469388
+Bladder Cancer,50,CTLA4,extended,False,39,0.78
+Brain Cancer,1,IDH1,established,True,1,1.0
+Brain Cancer,2,TP53,established,True,2,1.0
+Brain Cancer,3,EGFR,established,True,3,1.0
+Brain Cancer,4,TERT,established,True,4,1.0
+Brain Cancer,5,IDH2,established,True,5,1.0
+Brain Cancer,6,BRAF,established,True,6,1.0
+Brain Cancer,7,KRAS,established,True,7,1.0
+Brain Cancer,8,ATRX,established,True,8,1.0
+Brain Cancer,9,MGMT,established,False,8,0.8888888888888888
+Brain Cancer,10,PTEN,established,True,9,0.9
+Brain Cancer,11,AIP,emerging,False,9,0.8181818181818182
+Brain Cancer,12,PIK3CA,emerging,True,10,0.8333333333333334
+Brain Cancer,13,MLH1,emerging,False,10,0.7692307692307693
+Brain Cancer,14,AHR,emerging,False,10,0.7142857142857143
+Brain Cancer,15,MSH6,emerging,False,10,0.6666666666666666
+Brain Cancer,16,PMS2,emerging,True,11,0.6875
+Brain Cancer,17,PDGFRA,emerging,True,12,0.7058823529411765
+Brain Cancer,18,POLE,emerging,True,13,0.7222222222222222
+Brain Cancer,19,NRAS,emerging,True,14,0.7368421052631579
+Brain Cancer,20,CTNNB1,emerging,True,15,0.75
+Brain Cancer,21,NF1,discovery,True,16,0.7619047619047619
+Brain Cancer,22,MSH2,discovery,False,16,0.7272727272727273
+Brain Cancer,23,CDKN2A,discovery,True,17,0.7391304347826086
+Brain Cancer,24,MEN1,discovery,True,18,0.75
+Brain Cancer,25,FGFR1,discovery,True,19,0.76
+Brain Cancer,26,ALK,discovery,True,20,0.7692307692307693
+Brain Cancer,27,H3C3,discovery,False,20,0.7407407407407407
+Brain Cancer,28,RB1,discovery,True,21,0.75
+Brain Cancer,29,KIT,discovery,True,22,0.7586206896551724
+Brain Cancer,30,KIAA1549,discovery,False,22,0.7333333333333333
+Brain Cancer,31,SHH,extended,False,22,0.7096774193548387
+Brain Cancer,32,CIC,extended,True,23,0.71875
+Brain Cancer,33,MET,extended,True,24,0.7272727272727273
+Brain Cancer,34,KRIT1,extended,False,24,0.7058823529411765
+Brain Cancer,35,GNAS,extended,True,25,0.7142857142857143
+Brain Cancer,36,HRAS,extended,True,26,0.7222222222222222
+Brain Cancer,37,PTCH1,extended,True,27,0.7297297297297297
+Brain Cancer,38,SUFU,extended,True,28,0.7368421052631579
+Brain Cancer,39,PIK3R1,extended,True,29,0.7435897435897436
+Brain Cancer,40,SMO,extended,True,30,0.75
+Brain Cancer,41,PTPN11,extended,True,31,0.7560975609756098
+Brain Cancer,42,VHL,extended,True,32,0.7619047619047619
+Brain Cancer,43,PPM1D,extended,True,33,0.7674418604651163
+Brain Cancer,44,MKI67,extended,False,33,0.75
+Brain Cancer,45,SMARCA4,extended,True,34,0.7555555555555555
+Brain Cancer,46,PRL,extended,False,34,0.7391304347826086
+Brain Cancer,47,USP8,extended,True,35,0.7446808510638298
+Brain Cancer,48,ACVR1,extended,True,36,0.75
+Brain Cancer,49,DICER1,extended,True,37,0.7551020408163265
+Brain Cancer,50,POMC,extended,False,37,0.74
+Breast Cancer,1,BRCA1,established,True,1,1.0
+Breast Cancer,2,BRCA2,established,True,2,1.0
+Breast Cancer,3,PIK3CA,established,True,3,1.0
+Breast Cancer,4,TP53,established,True,4,1.0
+Breast Cancer,5,ERBB2,established,True,5,1.0
+Breast Cancer,6,PALB2,established,True,6,1.0
+Breast Cancer,7,ESR1,established,True,7,1.0
+Breast Cancer,8,PTEN,established,True,8,1.0
+Breast Cancer,9,CHEK2,established,True,9,1.0
+Breast Cancer,10,AKT1,established,True,10,1.0
+Breast Cancer,11,ATM,emerging,True,11,1.0
+Breast Cancer,12,EGFR,emerging,True,12,1.0
+Breast Cancer,13,RAD51C,emerging,False,12,0.9230769230769231
+Breast Cancer,14,RAD51D,emerging,False,12,0.8571428571428571
+Breast Cancer,15,CYP19A1,emerging,False,12,0.8
+Breast Cancer,16,CDH1,emerging,True,13,0.8125
+Breast Cancer,17,BRAF,emerging,True,14,0.8235294117647058
+Breast Cancer,18,PGR,emerging,False,14,0.7777777777777778
+Breast Cancer,19,BARD1,emerging,True,15,0.7894736842105263
+Breast Cancer,20,GATA3,emerging,True,16,0.8
+Breast Cancer,21,PARP1,discovery,False,16,0.7619047619047619
+Breast Cancer,22,KRAS,discovery,True,17,0.7727272727272727
+Breast Cancer,23,MSH2,discovery,False,17,0.7391304347826086
+Breast Cancer,24,MET,discovery,True,18,0.75
+Breast Cancer,25,MED12,discovery,True,19,0.76
+Breast Cancer,26,MLH1,discovery,False,19,0.7307692307692307
+Breast Cancer,27,RB1,discovery,True,20,0.7407407407407407
+Breast Cancer,28,MTOR,discovery,True,21,0.75
+Breast Cancer,29,NBN,discovery,False,21,0.7241379310344828
+Breast Cancer,30,PIK3R1,discovery,True,22,0.7333333333333333
+Breast Cancer,31,MSH6,extended,False,22,0.7096774193548387
+Breast Cancer,32,APC,extended,True,23,0.71875
+Breast Cancer,33,STK11,extended,True,24,0.7272727272727273
+Breast Cancer,34,MKI67,extended,False,24,0.7058823529411765
+Breast Cancer,35,MAP3K1,extended,True,25,0.7142857142857143
+Breast Cancer,36,KIT,extended,True,26,0.7222222222222222
+Breast Cancer,37,RAD51,extended,False,26,0.7027027027027027
+Breast Cancer,38,BRIP1,extended,False,26,0.6842105263157895
+Breast Cancer,39,ERBB3,extended,True,27,0.6923076923076923
+Breast Cancer,40,NF1,extended,True,28,0.7
+Breast Cancer,41,CDKN2A,extended,True,29,0.7073170731707317
+Breast Cancer,42,SART3,extended,False,29,0.6904761904761905
+Breast Cancer,43,PDGFRA,extended,True,30,0.6976744186046512
+Breast Cancer,44,BCAR3,extended,False,30,0.6818181818181818
+Breast Cancer,45,MAP2K4,extended,True,31,0.6888888888888889
+Breast Cancer,46,MUTYH,extended,False,31,0.6739130434782609
+Breast Cancer,47,FGFR3,extended,True,32,0.6808510638297872
+Breast Cancer,48,IDH2,extended,True,33,0.6875
+Breast Cancer,49,FH,extended,False,33,0.673469387755102
+Breast Cancer,50,CDK4,extended,True,34,0.68
+Cervical Cancer,1,PIK3CA,established,True,1,1.0
+Cervical Cancer,2,KRAS,established,True,2,1.0
+Cervical Cancer,3,TP53,established,True,3,1.0
+Cervical Cancer,4,PTEN,established,True,4,1.0
+Cervical Cancer,5,ERBB2,established,True,5,1.0
+Cervical Cancer,6,STK11,established,True,6,1.0
+Cervical Cancer,7,EGFR,established,True,7,1.0
+Cervical Cancer,8,FBXW7,established,True,8,1.0
+Cervical Cancer,9,MTOR,established,True,9,1.0
+Cervical Cancer,10,RB1,established,True,10,1.0
+Cervical Cancer,11,ARID1A,emerging,True,11,1.0
+Cervical Cancer,12,BRAF,emerging,True,12,1.0
+Cervical Cancer,13,KMT2D,emerging,True,13,1.0
+Cervical Cancer,14,CD274,emerging,True,14,1.0
+Cervical Cancer,15,BRCA1,emerging,True,15,1.0
+Cervical Cancer,16,FGFR3,emerging,True,16,1.0
+Cervical Cancer,17,BRCA2,emerging,True,17,1.0
+Cervical Cancer,18,LRP1B,emerging,True,18,1.0
+Cervical Cancer,19,EP300,emerging,True,19,1.0
+Cervical Cancer,20,GNAS,emerging,True,20,1.0
+Cervical Cancer,21,TERT,discovery,True,21,1.0
+Cervical Cancer,22,KMT2C,discovery,True,22,1.0
+Cervical Cancer,23,NOTCH1,discovery,True,23,1.0
+Cervical Cancer,24,DICER1,discovery,True,24,1.0
+Cervical Cancer,25,NRAS,discovery,True,25,1.0
+Cervical Cancer,26,MYC,discovery,True,26,1.0
+Cervical Cancer,27,CDKN2A,discovery,True,27,1.0
+Cervical Cancer,28,FAT1,discovery,True,28,1.0
+Cervical Cancer,29,MSH2,discovery,False,28,0.9655172413793104
+Cervical Cancer,30,CTNNB1,discovery,True,29,0.9666666666666667
+Cervical Cancer,31,HRAS,extended,True,30,0.967741935483871
+Cervical Cancer,32,SMAD4,extended,True,31,0.96875
+Cervical Cancer,33,HLA-B,extended,True,32,0.9696969696969697
+Cervical Cancer,34,ERBB3,extended,True,33,0.9705882352941176
+Cervical Cancer,35,ATM,extended,True,34,0.9714285714285714
+Cervical Cancer,36,CDKN1A,extended,True,35,0.9722222222222222
+Cervical Cancer,37,FGFR4,extended,True,36,0.972972972972973
+Cervical Cancer,38,KMT2B,extended,True,37,0.9736842105263158
+Cervical Cancer,39,PDCD1,extended,False,37,0.9487179487179487
+Cervical Cancer,40,MLH1,extended,False,37,0.925
+Cervical Cancer,41,ALK,extended,True,38,0.926829268292683
+Cervical Cancer,42,MSH6,extended,False,38,0.9047619047619048
+Cervical Cancer,43,RET,extended,True,39,0.9069767441860465
+Cervical Cancer,44,FHIT,extended,True,40,0.9090909090909091
+Cervical Cancer,45,TNF,extended,False,40,0.8888888888888888
+Cervical Cancer,46,MDM2,extended,True,41,0.8913043478260869
+Cervical Cancer,47,HLA-A,extended,True,42,0.8936170212765957
+Cervical Cancer,48,GATA3,extended,True,43,0.8958333333333334
+Cervical Cancer,49,PALB2,extended,True,44,0.8979591836734694
+Cervical Cancer,50,PMS2,extended,True,45,0.9
+Colorectal Cancer,1,KRAS,established,True,1,1.0
+Colorectal Cancer,2,BRAF,established,True,2,1.0
+Colorectal Cancer,3,EGFR,established,True,3,1.0
+Colorectal Cancer,4,NRAS,established,True,4,1.0
+Colorectal Cancer,5,MLH1,established,False,4,0.8
+Colorectal Cancer,6,PIK3CA,established,True,5,0.8333333333333334
+Colorectal Cancer,7,MSH2,established,False,5,0.7142857142857143
+Colorectal Cancer,8,APC,established,True,6,0.75
+Colorectal Cancer,9,TP53,established,True,7,0.7777777777777778
+Colorectal Cancer,10,MSH6,established,False,7,0.7
+Colorectal Cancer,11,PMS2,emerging,True,8,0.7272727272727273
+Colorectal Cancer,12,POLE,emerging,True,9,0.75
+Colorectal Cancer,13,MUTYH,emerging,False,9,0.6923076923076923
+Colorectal Cancer,14,FAP,emerging,False,9,0.6428571428571429
+Colorectal Cancer,15,KIT,emerging,True,10,0.6666666666666666
+Colorectal Cancer,16,PTEN,emerging,True,11,0.6875
+Colorectal Cancer,17,CTNNB1,emerging,True,12,0.7058823529411765
+Colorectal Cancer,18,BRCA2,emerging,True,13,0.7222222222222222
+Colorectal Cancer,19,SMAD4,emerging,True,14,0.7368421052631579
+Colorectal Cancer,20,MET,emerging,True,15,0.75
+Colorectal Cancer,21,BRCA1,discovery,True,16,0.7619047619047619
+Colorectal Cancer,22,POLD1,discovery,True,17,0.7727272727272727
+Colorectal Cancer,23,RNF43,discovery,True,18,0.782608695652174
+Colorectal Cancer,24,HRAS,discovery,True,19,0.7916666666666666
+Colorectal Cancer,25,ATM,discovery,True,20,0.8
+Colorectal Cancer,26,FBXW7,discovery,True,21,0.8076923076923077
+Colorectal Cancer,27,ERBB2,discovery,True,22,0.8148148148148148
+Colorectal Cancer,28,GNAS,discovery,True,23,0.8214285714285714
+Colorectal Cancer,29,PDGFRA,discovery,True,24,0.8275862068965517
+Colorectal Cancer,30,AKT1,discovery,True,25,0.8333333333333334
+Colorectal Cancer,31,NF1,extended,True,26,0.8387096774193549
+Colorectal Cancer,32,MAP2K1,extended,True,27,0.84375
+Colorectal Cancer,33,CHEK2,extended,True,28,0.8484848484848485
+Colorectal Cancer,34,KMT2D,extended,True,29,0.8529411764705882
+Colorectal Cancer,35,MTOR,extended,True,30,0.8571428571428571
+Colorectal Cancer,36,BMPR1A,extended,True,31,0.8611111111111112
+Colorectal Cancer,37,CDKN2A,extended,True,32,0.8648648648648649
+Colorectal Cancer,38,PALB2,extended,True,33,0.868421052631579
+Colorectal Cancer,39,TGFBR2,extended,True,34,0.8717948717948718
+Colorectal Cancer,40,EGF,extended,False,34,0.85
+Colorectal Cancer,41,PTCH1,extended,True,35,0.8536585365853658
+Colorectal Cancer,42,ARID1A,extended,True,36,0.8571428571428571
+Colorectal Cancer,43,MLH3,extended,False,36,0.8372093023255814
+Colorectal Cancer,44,PKHD1,extended,False,36,0.8181818181818182
+Colorectal Cancer,45,RET,extended,True,37,0.8222222222222222
+Colorectal Cancer,46,ACVRL1,extended,False,37,0.8043478260869565
+Colorectal Cancer,47,RAD51D,extended,False,37,0.7872340425531915
+Colorectal Cancer,48,BCAR3,extended,False,37,0.7708333333333334
+Colorectal Cancer,49,PDCD1,extended,False,37,0.7551020408163265
+Colorectal Cancer,50,TTR,extended,False,37,0.74
+Endometrial Cancer,1,PTEN,established,True,1,1.0
+Endometrial Cancer,2,PIK3CA,established,True,2,1.0
+Endometrial Cancer,3,POLE,established,True,3,1.0
+Endometrial Cancer,4,TP53,established,True,4,1.0
+Endometrial Cancer,5,KRAS,established,True,5,1.0
+Endometrial Cancer,6,MLH1,established,False,5,0.8333333333333334
+Endometrial Cancer,7,CTNNB1,established,True,6,0.8571428571428571
+Endometrial Cancer,8,MSH2,established,False,6,0.75
+Endometrial Cancer,9,MSH6,established,False,6,0.6666666666666666
+Endometrial Cancer,10,ARID1A,established,True,7,0.7
+Endometrial Cancer,11,BRCA1,emerging,True,8,0.7272727272727273
+Endometrial Cancer,12,PMS2,emerging,True,9,0.75
+Endometrial Cancer,13,BRCA2,emerging,True,10,0.7692307692307693
+Endometrial Cancer,14,BRAF,emerging,True,11,0.7857142857142857
+Endometrial Cancer,15,PPP2R1A,emerging,True,12,0.8
+Endometrial Cancer,16,FBXW7,emerging,True,13,0.8125
+Endometrial Cancer,17,FGFR2,emerging,True,14,0.8235294117647058
+Endometrial Cancer,18,PIK3R1,emerging,True,15,0.8333333333333334
+Endometrial Cancer,19,ERBB2,emerging,True,16,0.8421052631578947
+Endometrial Cancer,20,ATM,emerging,True,17,0.85
+Endometrial Cancer,21,AKT1,discovery,True,18,0.8571428571428571
+Endometrial Cancer,22,CHEK2,discovery,True,19,0.8636363636363636
+Endometrial Cancer,23,BRIP1,discovery,False,19,0.8260869565217391
+Endometrial Cancer,24,MTOR,discovery,True,20,0.8333333333333334
+Endometrial Cancer,25,NRAS,discovery,True,21,0.84
+Endometrial Cancer,26,RAD51D,discovery,False,21,0.8076923076923077
+Endometrial Cancer,27,ATR,discovery,True,22,0.8148148148148148
+Endometrial Cancer,28,PALB2,discovery,True,23,0.8214285714285714
+Endometrial Cancer,29,APC,discovery,True,24,0.8275862068965517
+Endometrial Cancer,30,ESR1,discovery,True,25,0.8333333333333334
+Endometrial Cancer,31,RAD51C,extended,False,25,0.8064516129032258
+Endometrial Cancer,32,EGFR,extended,True,26,0.8125
+Endometrial Cancer,33,BARD1,extended,True,27,0.8181818181818182
+Endometrial Cancer,34,SPOP,extended,True,28,0.8235294117647058
+Endometrial Cancer,35,POLD1,extended,True,29,0.8285714285714286
+Endometrial Cancer,36,CCND1,extended,True,30,0.8333333333333334
+Endometrial Cancer,37,CCNE1,extended,False,30,0.8108108108108109
+Endometrial Cancer,38,JAK1,extended,True,31,0.8157894736842105
+Endometrial Cancer,39,SMARCB1,extended,True,32,0.8205128205128205
+Endometrial Cancer,40,CDKN2A,extended,True,33,0.825
+Endometrial Cancer,41,RPL22,extended,True,34,0.8292682926829268
+Endometrial Cancer,42,EPCAM,extended,False,34,0.8095238095238095
+Endometrial Cancer,43,AXIN2,extended,False,34,0.7906976744186046
+Endometrial Cancer,44,MET,extended,True,35,0.7954545454545454
+Endometrial Cancer,45,CDK12,extended,True,36,0.8
+Endometrial Cancer,46,CHEK1,extended,False,36,0.782608695652174
+Endometrial Cancer,47,PARP1,extended,False,36,0.7659574468085106
+Endometrial Cancer,48,CD274,extended,True,37,0.7708333333333334
+Endometrial Cancer,49,SMARCA4,extended,True,38,0.7755102040816326
+Endometrial Cancer,50,BAX,extended,False,38,0.76
+Esophageal Cancer,1,TP53,established,True,1,1.0
+Esophageal Cancer,2,PIK3CA,established,True,2,1.0
+Esophageal Cancer,3,EGFR,established,True,3,1.0
+Esophageal Cancer,4,KRAS,established,True,4,1.0
+Esophageal Cancer,5,CDKN2A,established,True,5,1.0
+Esophageal Cancer,6,BRAF,established,True,6,1.0
+Esophageal Cancer,7,NOTCH1,established,True,7,1.0
+Esophageal Cancer,8,BRCA2,established,True,8,1.0
+Esophageal Cancer,9,NFE2L2,established,True,9,1.0
+Esophageal Cancer,10,APC,established,True,10,1.0
+Esophageal Cancer,11,ERBB2,emerging,True,11,1.0
+Esophageal Cancer,12,KIT,emerging,True,12,1.0
+Esophageal Cancer,13,PDGFRA,emerging,True,13,1.0
+Esophageal Cancer,14,ARID1A,emerging,True,14,1.0
+Esophageal Cancer,15,CD274,emerging,True,15,1.0
+Esophageal Cancer,16,PTEN,emerging,True,16,1.0
+Esophageal Cancer,17,CTNNB1,emerging,True,17,1.0
+Esophageal Cancer,18,SMAD4,emerging,True,18,1.0
+Esophageal Cancer,19,CCND1,emerging,True,19,1.0
+Esophageal Cancer,20,BRCA1,emerging,True,20,1.0
+Esophageal Cancer,21,FBXW7,discovery,True,21,1.0
+Esophageal Cancer,22,MDM2,discovery,True,22,1.0
+Esophageal Cancer,23,KMT2D,discovery,True,23,1.0
+Esophageal Cancer,24,NRAS,discovery,True,24,1.0
+Esophageal Cancer,25,RHBDF2,discovery,False,24,0.96
+Esophageal Cancer,26,EP300,discovery,True,25,0.9615384615384616
+Esophageal Cancer,27,TET2,discovery,True,26,0.9629629629629629
+Esophageal Cancer,28,MLH1,discovery,False,26,0.9285714285714286
+Esophageal Cancer,29,MET,discovery,True,27,0.9310344827586207
+Esophageal Cancer,30,FAT1,discovery,True,28,0.9333333333333333
+Esophageal Cancer,31,ZNF750,extended,True,29,0.9354838709677419
+Esophageal Cancer,32,MYC,extended,True,30,0.9375
+Esophageal Cancer,33,SMARCA4,extended,True,31,0.9393939393939394
+Esophageal Cancer,34,RB1,extended,True,32,0.9411764705882353
+Esophageal Cancer,35,ATM,extended,True,33,0.9428571428571428
+Esophageal Cancer,36,KEAP1,extended,True,34,0.9444444444444444
+Esophageal Cancer,37,PDCD1,extended,False,34,0.918918918918919
+Esophageal Cancer,38,PROX1,extended,False,34,0.8947368421052632
+Esophageal Cancer,39,EGF,extended,False,34,0.8717948717948718
+Esophageal Cancer,40,MSH2,extended,False,34,0.85
+Esophageal Cancer,41,NF1,extended,True,35,0.8536585365853658
+Esophageal Cancer,42,ERBB4,extended,True,36,0.8571428571428571
+Esophageal Cancer,43,ASXL1,extended,True,37,0.8604651162790697
+Esophageal Cancer,44,CDH1,extended,True,38,0.8636363636363636
+Esophageal Cancer,45,CDK4,extended,True,39,0.8666666666666667
+Esophageal Cancer,46,MKI67,extended,False,39,0.8478260869565217
+Esophageal Cancer,47,MGMT,extended,False,39,0.8297872340425532
+Esophageal Cancer,48,PTCH1,extended,True,40,0.8333333333333334
+Esophageal Cancer,49,CD34,extended,False,40,0.8163265306122449
+Esophageal Cancer,50,BAP1,extended,True,41,0.82
+Kidney Cancer,1,VHL,established,True,1,1.0
+Kidney Cancer,2,WT1,established,True,2,1.0
+Kidney Cancer,3,BAP1,established,True,3,1.0
+Kidney Cancer,4,PBRM1,established,True,4,1.0
+Kidney Cancer,5,FH,established,False,4,0.8
+Kidney Cancer,6,FLCN,established,True,5,0.8333333333333334
+Kidney Cancer,7,SETD2,established,True,6,0.8571428571428571
+Kidney Cancer,8,TP53,established,True,7,0.875
+Kidney Cancer,9,TSC2,established,True,8,0.8888888888888888
+Kidney Cancer,10,KDM5C,established,True,9,0.9
+Kidney Cancer,11,TSC1,emerging,True,10,0.9090909090909091
+Kidney Cancer,12,CTNNB1,emerging,True,11,0.9166666666666666
+Kidney Cancer,13,SDHB,emerging,False,11,0.8461538461538461
+Kidney Cancer,14,MTOR,emerging,True,12,0.8571428571428571
+Kidney Cancer,15,MET,emerging,True,13,0.8666666666666667
+Kidney Cancer,16,BRCA1,emerging,True,14,0.875
+Kidney Cancer,17,BRAF,emerging,True,15,0.8823529411764706
+Kidney Cancer,18,DICER1,emerging,True,16,0.8888888888888888
+Kidney Cancer,19,KRAS,emerging,True,17,0.8947368421052632
+Kidney Cancer,20,PTEN,emerging,True,18,0.9
+Kidney Cancer,21,PIK3CA,discovery,True,19,0.9047619047619048
+Kidney Cancer,22,ELOC,discovery,False,19,0.8636363636363636
+Kidney Cancer,23,BRAP,discovery,False,19,0.8260869565217391
+Kidney Cancer,24,DROSHA,discovery,True,20,0.8333333333333334
+Kidney Cancer,25,FGFR3,discovery,True,21,0.84
+Kidney Cancer,26,TERT,discovery,True,22,0.8461538461538461
+Kidney Cancer,27,HIF1A,discovery,True,23,0.8518518518518519
+Kidney Cancer,28,PRCC,discovery,False,23,0.8214285714285714
+Kidney Cancer,29,MLH1,discovery,False,23,0.7931034482758621
+Kidney Cancer,30,DGCR8,discovery,True,24,0.8
+Kidney Cancer,31,ATM,extended,True,25,0.8064516129032258
+Kidney Cancer,32,MSH2,extended,False,25,0.78125
+Kidney Cancer,33,RB1,extended,True,26,0.7878787878787878
+Kidney Cancer,34,CHEK2,extended,True,27,0.7941176470588235
+Kidney Cancer,35,BRCA2,extended,True,28,0.8
+Kidney Cancer,36,SDHA,extended,True,29,0.8055555555555556
+Kidney Cancer,37,KIT,extended,True,30,0.8108108108108109
+Kidney Cancer,38,GPNMB,extended,False,30,0.7894736842105263
+Kidney Cancer,39,PAX6,extended,False,30,0.7692307692307693
+Kidney Cancer,40,SDHC,extended,False,30,0.75
+Kidney Cancer,41,IGF2,extended,False,30,0.7317073170731707
+Kidney Cancer,42,SMARCB1,extended,True,31,0.7380952380952381
+Kidney Cancer,43,SDHD,extended,False,31,0.7209302325581395
+Kidney Cancer,44,AMACR,extended,False,31,0.7045454545454546
+Kidney Cancer,45,TFE3,extended,False,31,0.6888888888888889
+Kidney Cancer,46,ARID1A,extended,True,32,0.6956521739130435
+Kidney Cancer,47,GATA3,extended,True,33,0.7021276595744681
+Kidney Cancer,48,CD274,extended,True,34,0.7083333333333334
+Kidney Cancer,49,CA9,extended,False,34,0.6938775510204082
+Kidney Cancer,50,TFEB,extended,False,34,0.68
+Leukemia,1,FLT3,established,True,1,1.0
+Leukemia,2,NPM1,established,True,2,1.0
+Leukemia,3,DNMT3A,established,True,3,1.0
+Leukemia,4,CEBPA,established,True,4,1.0
+Leukemia,5,NRAS,established,True,5,1.0
+Leukemia,6,ASXL1,established,True,6,1.0
+Leukemia,7,TP53,established,True,7,1.0
+Leukemia,8,IDH1,established,True,8,1.0
+Leukemia,9,BCR,established,True,9,1.0
+Leukemia,10,TET2,established,True,10,1.0
+Leukemia,11,RUNX1,emerging,True,11,1.0
+Leukemia,12,IDH2,emerging,True,12,1.0
+Leukemia,13,KRAS,emerging,True,13,1.0
+Leukemia,14,SRSF2,emerging,True,14,1.0
+Leukemia,15,ABL1,emerging,True,15,1.0
+Leukemia,16,KIT,emerging,True,16,1.0
+Leukemia,17,U2AF1,emerging,True,17,1.0
+Leukemia,18,PTPN11,emerging,True,18,1.0
+Leukemia,19,SF3B1,emerging,True,19,1.0
+Leukemia,20,NOTCH1,emerging,True,20,1.0
+Leukemia,21,WT1,discovery,True,21,1.0
+Leukemia,22,JAK2,discovery,True,22,1.0
+Leukemia,23,MPL,discovery,True,23,1.0
+Leukemia,24,EZH2,discovery,True,24,1.0
+Leukemia,25,BRAF,discovery,True,25,1.0
+Leukemia,26,CSF3R,discovery,True,26,1.0
+Leukemia,27,CBL,discovery,True,27,1.0
+Leukemia,28,BCOR,discovery,True,28,1.0
+Leukemia,29,FBXW7,discovery,True,29,1.0
+Leukemia,30,PHF6,discovery,True,30,1.0
+Leukemia,31,GATA2,extended,True,31,1.0
+Leukemia,32,CALR,extended,False,31,0.96875
+Leukemia,33,BCORL1,extended,True,32,0.9696969696969697
+Leukemia,34,ZRSR2,extended,True,33,0.9705882352941176
+Leukemia,35,STAG2,extended,True,34,0.9714285714285714
+Leukemia,36,RUNX1T1,extended,True,35,0.9722222222222222
+Leukemia,37,ATM,extended,True,36,0.972972972972973
+Leukemia,38,MYH11,extended,True,37,0.9736842105263158
+Leukemia,39,JAK3,extended,True,38,0.9743589743589743
+Leukemia,40,CD34,extended,False,38,0.95
+Leukemia,41,JAK1,extended,True,39,0.9512195121951219
+Leukemia,42,ETV6,extended,True,40,0.9523809523809523
+Leukemia,43,BIRC3,extended,True,41,0.9534883720930233
+Leukemia,44,MYD88,extended,True,42,0.9545454545454546
+Leukemia,45,IKZF1,extended,True,43,0.9555555555555556
+Leukemia,46,SETBP1,extended,True,44,0.9565217391304348
+Leukemia,47,CBFB,extended,True,45,0.9574468085106383
+Leukemia,48,NF1,extended,True,46,0.9583333333333334
+Leukemia,49,KMT2D,extended,True,47,0.9591836734693877
+Leukemia,50,KMT2A,extended,True,48,0.96
+Liver Cancer,1,KRAS,established,True,1,1.0
+Liver Cancer,2,TP53,established,True,2,1.0
+Liver Cancer,3,CTNNB1,established,True,3,1.0
+Liver Cancer,4,BRAF,established,True,4,1.0
+Liver Cancer,5,NRAS,established,True,5,1.0
+Liver Cancer,6,TERT,established,True,6,1.0
+Liver Cancer,7,EGFR,established,True,7,1.0
+Liver Cancer,8,PIK3CA,established,True,8,1.0
+Liver Cancer,9,APC,established,True,9,1.0
+Liver Cancer,10,HFE,established,False,9,0.9
+Liver Cancer,11,AXIN1,emerging,True,10,0.9090909090909091
+Liver Cancer,12,HNF1A,emerging,True,11,0.9166666666666666
+Liver Cancer,13,ARID1A,emerging,True,12,0.9230769230769231
+Liver Cancer,14,KIT,emerging,True,13,0.9285714285714286
+Liver Cancer,15,ERBB2,emerging,True,14,0.9333333333333333
+Liver Cancer,16,PTEN,emerging,True,15,0.9375
+Liver Cancer,17,CDKN2A,emerging,True,16,0.9411764705882353
+Liver Cancer,18,BAP1,emerging,True,17,0.9444444444444444
+Liver Cancer,19,FBXW7,emerging,True,18,0.9473684210526315
+Liver Cancer,20,GNAQ,emerging,True,19,0.95
+Liver Cancer,21,BRCA2,discovery,True,20,0.9523809523809523
+Liver Cancer,22,PDGFRA,discovery,True,21,0.9545454545454546
+Liver Cancer,23,HRAS,discovery,True,22,0.9565217391304348
+Liver Cancer,24,GNA11,discovery,True,23,0.9583333333333334
+Liver Cancer,25,AKT1,discovery,True,24,0.96
+Liver Cancer,26,ALK,discovery,True,25,0.9615384615384616
+Liver Cancer,27,IDH1,discovery,True,26,0.9629629629629629
+Liver Cancer,28,SMAD4,discovery,True,27,0.9642857142857143
+Liver Cancer,29,JAK1,discovery,True,28,0.9655172413793104
+Liver Cancer,30,MET,discovery,True,29,0.9666666666666667
+Liver Cancer,31,TSC2,extended,True,30,0.967741935483871
+Liver Cancer,32,RB1,extended,True,31,0.96875
+Liver Cancer,33,MEN1,extended,True,32,0.9696969696969697
+Liver Cancer,34,NFE2L2,extended,True,33,0.9705882352941176
+Liver Cancer,35,KEAP1,extended,True,34,0.9714285714285714
+Liver Cancer,36,TTR,extended,False,34,0.9444444444444444
+Liver Cancer,37,GNAS,extended,True,35,0.9459459459459459
+Liver Cancer,38,AFP,extended,False,35,0.9210526315789473
+Liver Cancer,39,HNF4A,extended,False,35,0.8974358974358975
+Liver Cancer,40,KMT2D,extended,True,36,0.9
+Liver Cancer,41,HNF1B,extended,False,36,0.8780487804878049
+Liver Cancer,42,TTN,extended,False,36,0.8571428571428571
+Liver Cancer,43,ARID2,extended,True,37,0.8604651162790697
+Liver Cancer,44,BRCA1,extended,True,38,0.8636363636363636
+Liver Cancer,45,CCL14,extended,False,38,0.8444444444444444
+Liver Cancer,46,STK11,extended,True,39,0.8478260869565217
+Liver Cancer,47,ATM,extended,True,40,0.851063829787234
+Liver Cancer,48,MYC,extended,True,41,0.8541666666666666
+Liver Cancer,49,ATRX,extended,True,42,0.8571428571428571
+Liver Cancer,50,IL6ST,extended,True,43,0.86
+Lung Cancer,1,EGFR,established,True,1,1.0
+Lung Cancer,2,KRAS,established,True,2,1.0
+Lung Cancer,3,TP53,established,True,3,1.0
+Lung Cancer,4,BRAF,established,True,4,1.0
+Lung Cancer,5,ALK,established,True,5,1.0
+Lung Cancer,6,PIK3CA,established,True,6,1.0
+Lung Cancer,7,ERBB2,established,True,7,1.0
+Lung Cancer,8,CD274,established,True,8,1.0
+Lung Cancer,9,MET,established,True,9,1.0
+Lung Cancer,10,STK11,established,True,10,1.0
+Lung Cancer,11,NRAS,emerging,True,11,1.0
+Lung Cancer,12,KEAP1,emerging,True,12,1.0
+Lung Cancer,13,ROS1,emerging,True,13,1.0
+Lung Cancer,14,KIT,emerging,True,14,1.0
+Lung Cancer,15,BRCA1,emerging,True,15,1.0
+Lung Cancer,16,EML4,emerging,False,15,0.9375
+Lung Cancer,17,PTEN,emerging,True,16,0.9411764705882353
+Lung Cancer,18,RET,emerging,True,17,0.9444444444444444
+Lung Cancer,19,NKX2-1,emerging,True,18,0.9473684210526315
+Lung Cancer,20,BRCA2,emerging,True,19,0.95
+Lung Cancer,21,F3,discovery,False,19,0.9047619047619048
+Lung Cancer,22,SMARCA4,discovery,True,20,0.9090909090909091
+Lung Cancer,23,EPHA5,discovery,False,20,0.8695652173913043
+Lung Cancer,24,NF1,discovery,True,21,0.875
+Lung Cancer,25,ATM,discovery,True,22,0.88
+Lung Cancer,26,BAP1,discovery,True,23,0.8846153846153846
+Lung Cancer,27,RB1,discovery,True,24,0.8888888888888888
+Lung Cancer,28,KMT2C,discovery,True,25,0.8928571428571429
+Lung Cancer,29,EGF,discovery,False,25,0.8620689655172413
+Lung Cancer,30,PDCD1,discovery,False,25,0.8333333333333334
+Lung Cancer,31,TYMS,extended,False,25,0.8064516129032258
+Lung Cancer,32,AKT1,extended,True,26,0.8125
+Lung Cancer,33,MAP2K1,extended,True,27,0.8181818181818182
+Lung Cancer,34,CTNNB1,extended,True,28,0.8235294117647058
+Lung Cancer,35,NFE2L2,extended,True,29,0.8285714285714286
+Lung Cancer,36,ERBB4,extended,True,30,0.8333333333333334
+Lung Cancer,37,TET2,extended,True,31,0.8378378378378378
+Lung Cancer,38,CSMD3,extended,True,32,0.8421052631578947
+Lung Cancer,39,BCL2L11,extended,False,32,0.8205128205128205
+Lung Cancer,40,ZFHX3,extended,True,33,0.825
+Lung Cancer,41,IDH1,extended,True,34,0.8292682926829268
+Lung Cancer,42,PTPRT,extended,True,35,0.8333333333333334
+Lung Cancer,43,ERCC1,extended,False,35,0.813953488372093
+Lung Cancer,44,RBM10,extended,True,36,0.8181818181818182
+Lung Cancer,45,DDR2,extended,True,37,0.8222222222222222
+Lung Cancer,46,CUL3,extended,True,38,0.8260869565217391
+Lung Cancer,47,PDGFRA,extended,True,39,0.8297872340425532
+Lung Cancer,48,AXL,extended,False,39,0.8125
+Lung Cancer,49,IDH2,extended,True,40,0.8163265306122449
+Lung Cancer,50,AURKA,extended,False,40,0.8
+Lymphoma,1,MYD88,established,True,1,1.0
+Lymphoma,2,TP53,established,True,2,1.0
+Lymphoma,3,KMT2D,established,True,3,1.0
+Lymphoma,4,EZH2,established,True,4,1.0
+Lymphoma,5,CD79B,established,True,5,1.0
+Lymphoma,6,CREBBP,established,True,6,1.0
+Lymphoma,7,TET2,established,True,7,1.0
+Lymphoma,8,ATM,established,True,8,1.0
+Lymphoma,9,CARD11,established,True,9,1.0
+Lymphoma,10,RHOA,established,True,10,1.0
+Lymphoma,11,MYC,emerging,True,11,1.0
+Lymphoma,12,TNFAIP3,emerging,True,12,1.0
+Lymphoma,13,BCL2,emerging,True,13,1.0
+Lymphoma,14,PIM1,emerging,True,14,1.0
+Lymphoma,15,NOTCH1,emerging,True,15,1.0
+Lymphoma,16,DNMT3A,emerging,True,16,1.0
+Lymphoma,17,IDH2,emerging,True,17,1.0
+Lymphoma,18,BCL6,emerging,True,18,1.0
+Lymphoma,19,SOCS1,emerging,True,19,1.0
+Lymphoma,20,NOTCH2,emerging,True,20,1.0
+Lymphoma,21,STAT3,discovery,True,21,1.0
+Lymphoma,22,TNFRSF14,discovery,True,22,1.0
+Lymphoma,23,BRAF,discovery,True,23,1.0
+Lymphoma,24,NRAS,discovery,True,24,1.0
+Lymphoma,25,CDKN2A,discovery,True,25,1.0
+Lymphoma,26,MEF2B,discovery,True,26,1.0
+Lymphoma,27,TBL1XR1,discovery,True,27,1.0
+Lymphoma,28,KMT2B,discovery,True,28,1.0
+Lymphoma,29,EP300,discovery,True,29,1.0
+Lymphoma,30,ARID1A,discovery,True,30,1.0
+Lymphoma,31,AICDA,extended,False,30,0.967741935483871
+Lymphoma,32,KRAS,extended,True,31,0.96875
+Lymphoma,33,BCL10,extended,True,32,0.9696969696969697
+Lymphoma,34,JAK3,extended,True,33,0.9705882352941176
+Lymphoma,35,FAS,extended,True,34,0.9714285714285714
+Lymphoma,36,KMT2C,extended,True,35,0.9722222222222222
+Lymphoma,37,B2M,extended,True,36,0.972972972972973
+Lymphoma,38,CXCR4,extended,True,37,0.9736842105263158
+Lymphoma,39,PTEN,extended,True,38,0.9743589743589743
+Lymphoma,40,CCND3,extended,True,39,0.975
+Lymphoma,41,STAT6,extended,True,40,0.975609756097561
+Lymphoma,42,BTG2,extended,True,41,0.9761904761904762
+Lymphoma,43,ID3,extended,True,42,0.9767441860465116
+Lymphoma,44,CTNNB1,extended,True,43,0.9772727272727273
+Lymphoma,45,IGH,extended,False,43,0.9555555555555556
+Lymphoma,46,CD58,extended,True,44,0.9565217391304348
+Lymphoma,47,TRAF3,extended,True,45,0.9574468085106383
+Lymphoma,48,DDIT3,extended,False,45,0.9375
+Lymphoma,49,MSH2,extended,False,45,0.9183673469387755
+Lymphoma,50,FBXW7,extended,True,46,0.92
+Melanoma,1,BRAF,established,True,1,1.0
+Melanoma,2,NRAS,established,True,2,1.0
+Melanoma,3,KIT,established,True,3,1.0
+Melanoma,4,CDKN2A,established,True,4,1.0
+Melanoma,5,TERT,established,True,5,1.0
+Melanoma,6,GNAQ,established,True,6,1.0
+Melanoma,7,GNA11,established,True,7,1.0
+Melanoma,8,BAP1,established,True,8,1.0
+Melanoma,9,SF3B1,established,True,9,1.0
+Melanoma,10,NF1,established,True,10,1.0
+Melanoma,11,CDK4,emerging,True,11,1.0
+Melanoma,12,TP53,emerging,True,12,1.0
+Melanoma,13,KRAS,emerging,True,13,1.0
+Melanoma,14,EIF1AX,emerging,True,14,1.0
+Melanoma,15,PIK3CA,emerging,True,15,1.0
+Melanoma,16,PTEN,emerging,True,16,1.0
+Melanoma,17,BRCA1,emerging,True,17,1.0
+Melanoma,18,CTNNB1,emerging,True,18,1.0
+Melanoma,19,HRAS,emerging,True,19,1.0
+Melanoma,20,MAP2K1,emerging,True,20,1.0
+Melanoma,21,EGFR,discovery,True,21,1.0
+Melanoma,22,RAC1,discovery,True,22,1.0
+Melanoma,23,PDGFRA,discovery,True,23,1.0
+Melanoma,24,ARID2,discovery,True,24,1.0
+Melanoma,25,PDCD1,discovery,False,24,0.96
+Melanoma,26,BRCA2,discovery,True,25,0.9615384615384616
+Melanoma,27,ARID1A,discovery,True,26,0.9629629629629629
+Melanoma,28,POT1,discovery,True,27,0.9642857142857143
+Melanoma,29,IDH1,discovery,True,28,0.9655172413793104
+Melanoma,30,MC1R,discovery,False,28,0.9333333333333333
+Melanoma,31,ERBB4,extended,True,29,0.9354838709677419
+Melanoma,32,PRAME,extended,False,29,0.90625
+Melanoma,33,MUC16,extended,False,29,0.8787878787878788
+Melanoma,34,LRP1B,extended,True,30,0.8823529411764706
+Melanoma,35,CPD,extended,False,30,0.8571428571428571
+Melanoma,36,ATRX,extended,True,31,0.8611111111111112
+Melanoma,37,KDR,extended,True,32,0.8648648648648649
+Melanoma,38,CYSLTR2,extended,True,33,0.868421052631579
+Melanoma,39,PLCB4,extended,False,33,0.8461538461538461
+Melanoma,40,PPP6C,extended,True,34,0.85
+Melanoma,41,PREX2,extended,True,35,0.8536585365853658
+Melanoma,42,MTOR,extended,True,36,0.8571428571428571
+Melanoma,43,CD274,extended,True,37,0.8604651162790697
+Melanoma,44,MET,extended,True,38,0.8636363636363636
+Melanoma,45,PTPRD,extended,True,39,0.8666666666666667
+Melanoma,46,CTLA4,extended,False,39,0.8478260869565217
+Melanoma,47,ACD,extended,False,39,0.8297872340425532
+Melanoma,48,KALRN,extended,False,39,0.8125
+Melanoma,49,APC,extended,True,40,0.8163265306122449
+Melanoma,50,IDH2,extended,True,41,0.82
+Myeloma,1,NRAS,established,True,1,1.0
+Myeloma,2,TP53,established,True,2,1.0
+Myeloma,3,BRAF,established,True,3,1.0
+Myeloma,4,KRAS,established,True,4,1.0
+Myeloma,5,DIS3,established,True,5,1.0
+Myeloma,6,IGH,established,False,5,0.8333333333333334
+Myeloma,7,FGFR3,established,True,6,0.8571428571428571
+Myeloma,8,MYC,established,True,7,0.875
+Myeloma,9,IRF4,established,True,8,0.8888888888888888
+Myeloma,10,TRAF3,established,True,9,0.9
+Myeloma,11,RB1,emerging,True,10,0.9090909090909091
+Myeloma,12,ATM,emerging,True,11,0.9166666666666666
+Myeloma,13,DNMT3A,emerging,True,12,0.9230769230769231
+Myeloma,14,CCND1,emerging,True,13,0.9285714285714286
+Myeloma,15,CYLD,emerging,True,14,0.9333333333333333
+Myeloma,16,TET2,emerging,True,15,0.9375
+Myeloma,17,MYD88,emerging,True,16,0.9411764705882353
+Myeloma,18,SDC1,emerging,False,16,0.8888888888888888
+Myeloma,19,NSD2,emerging,True,17,0.8947368421052632
+Myeloma,20,ASXL1,emerging,True,18,0.9
+Myeloma,21,BIRC3,discovery,True,19,0.9047619047619048
+Myeloma,22,EGR1,discovery,False,19,0.8636363636363636
+Myeloma,23,CDKN2C,discovery,True,20,0.8695652173913043
+Myeloma,24,LTB,discovery,False,20,0.8333333333333334
+Myeloma,25,MAF,discovery,True,21,0.84
+Myeloma,26,CRBN,discovery,False,21,0.8076923076923077
+Myeloma,27,BCL6,discovery,True,22,0.8148148148148148
+Myeloma,28,PSMB5,discovery,False,22,0.7857142857142857
+Myeloma,29,PIK3CA,discovery,True,23,0.7931034482758621
+Myeloma,30,BIRC2,discovery,False,23,0.7666666666666667
+Myeloma,31,PRDM1,extended,True,24,0.7741935483870968
+Myeloma,32,KMT2D,extended,True,25,0.78125
+Myeloma,33,STAT3,extended,True,26,0.7878787878787878
+Myeloma,34,IL6,extended,False,26,0.7647058823529411
+Myeloma,35,FAT1,extended,True,27,0.7714285714285715
+Myeloma,36,BCL2,extended,True,28,0.7777777777777778
+Myeloma,37,CD38,extended,False,28,0.7567567567567568
+Myeloma,38,KMT2A,extended,True,29,0.7631578947368421
+Myeloma,39,CDKN2A,extended,True,30,0.7692307692307693
+Myeloma,40,TENT5C,extended,True,31,0.775
+Myeloma,41,EZH2,extended,True,32,0.7804878048780488
+Myeloma,42,IGLL5,extended,False,32,0.7619047619047619
+Myeloma,43,SF3B1,extended,True,33,0.7674418604651163
+Myeloma,44,FLT3,extended,True,34,0.7727272727272727
+Myeloma,45,TRAF2,extended,False,34,0.7555555555555555
+Myeloma,46,IDH2,extended,True,35,0.7608695652173914
+Myeloma,47,INS,extended,False,35,0.7446808510638298
+Myeloma,48,UBA1,extended,False,35,0.7291666666666666
+Myeloma,49,TNFRSF13B,extended,False,35,0.7142857142857143
+Myeloma,50,APOBEC3B,extended,False,35,0.7
+Ovarian Cancer,1,BRCA1,established,True,1,1.0
+Ovarian Cancer,2,BRCA2,established,True,2,1.0
+Ovarian Cancer,3,TP53,established,True,3,1.0
+Ovarian Cancer,4,KRAS,established,True,4,1.0
+Ovarian Cancer,5,POLE,established,True,5,1.0
+Ovarian Cancer,6,PIK3CA,established,True,6,1.0
+Ovarian Cancer,7,BRAF,established,True,7,1.0
+Ovarian Cancer,8,CTNNB1,established,True,8,1.0
+Ovarian Cancer,9,PTEN,established,True,9,1.0
+Ovarian Cancer,10,RAD51C,established,False,9,0.9
+Ovarian Cancer,11,MLH1,emerging,False,9,0.8181818181818182
+Ovarian Cancer,12,PALB2,emerging,True,10,0.8333333333333334
+Ovarian Cancer,13,RAD51D,emerging,False,10,0.7692307692307693
+Ovarian Cancer,14,MSH2,emerging,False,10,0.7142857142857143
+Ovarian Cancer,15,ARID1A,emerging,True,11,0.7333333333333333
+Ovarian Cancer,16,BRIP1,emerging,False,11,0.6875
+Ovarian Cancer,17,MSH6,emerging,False,11,0.6470588235294118
+Ovarian Cancer,18,ATM,emerging,True,12,0.6666666666666666
+Ovarian Cancer,19,CHEK2,emerging,True,13,0.6842105263157895
+Ovarian Cancer,20,PMS2,emerging,True,14,0.7
+Ovarian Cancer,21,BARD1,discovery,True,15,0.7142857142857143
+Ovarian Cancer,22,PPP2R1A,discovery,True,16,0.7272727272727273
+Ovarian Cancer,23,PARP1,discovery,False,16,0.6956521739130435
+Ovarian Cancer,24,DICER1,discovery,True,17,0.7083333333333334
+Ovarian Cancer,25,RAD51,discovery,False,17,0.68
+Ovarian Cancer,26,FOXL2,discovery,True,18,0.6923076923076923
+Ovarian Cancer,27,TERT,discovery,True,19,0.7037037037037037
+Ovarian Cancer,28,NRAS,discovery,True,20,0.7142857142857143
+Ovarian Cancer,29,NBN,discovery,False,20,0.6896551724137931
+Ovarian Cancer,30,RAD50,discovery,True,21,0.7
+Ovarian Cancer,31,PIK3R1,extended,True,22,0.7096774193548387
+Ovarian Cancer,32,KIT,extended,True,23,0.71875
+Ovarian Cancer,33,ERBB2,extended,True,24,0.7272727272727273
+Ovarian Cancer,34,SMARCA4,extended,True,25,0.7352941176470589
+Ovarian Cancer,35,TTN,extended,False,25,0.7142857142857143
+Ovarian Cancer,36,MUC16,extended,False,25,0.6944444444444444
+Ovarian Cancer,37,FGFR2,extended,True,26,0.7027027027027027
+Ovarian Cancer,38,MET,extended,True,27,0.7105263157894737
+Ovarian Cancer,39,ATR,extended,True,28,0.717948717948718
+Ovarian Cancer,40,APC,extended,True,29,0.725
+Ovarian Cancer,41,CDK12,extended,True,30,0.7317073170731707
+Ovarian Cancer,42,PGR,extended,False,30,0.7142857142857143
+Ovarian Cancer,43,CDH1,extended,True,31,0.7209302325581395
+Ovarian Cancer,44,PPM1D,extended,True,32,0.7272727272727273
+Ovarian Cancer,45,HGS,extended,False,32,0.7111111111111111
+Ovarian Cancer,46,STK11,extended,True,33,0.717391304347826
+Ovarian Cancer,47,MYC,extended,True,34,0.723404255319149
+Ovarian Cancer,48,MUTYH,extended,False,34,0.7083333333333334
+Ovarian Cancer,49,MT-ATP6,extended,False,34,0.6938775510204082
+Ovarian Cancer,50,EGFR,extended,True,35,0.7
+Pancreatic Cancer,1,KRAS,established,True,1,1.0
+Pancreatic Cancer,2,BRCA2,established,True,2,1.0
+Pancreatic Cancer,3,TP53,established,True,3,1.0
+Pancreatic Cancer,4,BRCA1,established,True,4,1.0
+Pancreatic Cancer,5,CDKN2A,established,True,5,1.0
+Pancreatic Cancer,6,SMAD4,established,True,6,1.0
+Pancreatic Cancer,7,GNAS,established,True,7,1.0
+Pancreatic Cancer,8,BRAF,established,True,8,1.0
+Pancreatic Cancer,9,MEN1,established,True,9,1.0
+Pancreatic Cancer,10,PALB2,established,True,10,1.0
+Pancreatic Cancer,11,ATM,emerging,True,11,1.0
+Pancreatic Cancer,12,EGFR,emerging,True,12,1.0
+Pancreatic Cancer,13,PIK3CA,emerging,True,13,1.0
+Pancreatic Cancer,14,CTNNB1,emerging,True,14,1.0
+Pancreatic Cancer,15,CHEK2,emerging,True,15,1.0
+Pancreatic Cancer,16,RNF43,emerging,True,16,1.0
+Pancreatic Cancer,17,PRSS1,emerging,False,16,0.9411764705882353
+Pancreatic Cancer,18,MLH1,emerging,False,16,0.8888888888888888
+Pancreatic Cancer,19,DAXX,emerging,True,17,0.8947368421052632
+Pancreatic Cancer,20,PARP1,emerging,False,17,0.85
+Pancreatic Cancer,21,MSH2,discovery,False,17,0.8095238095238095
+Pancreatic Cancer,22,CFTR,discovery,False,17,0.7727272727272727
+Pancreatic Cancer,23,APC,discovery,True,18,0.782608695652174
+Pancreatic Cancer,24,ATRX,discovery,True,19,0.7916666666666666
+Pancreatic Cancer,25,SPINK1,discovery,False,19,0.76
+Pancreatic Cancer,26,ARID1A,discovery,True,20,0.7692307692307693
+Pancreatic Cancer,27,PTEN,discovery,True,21,0.7777777777777778
+Pancreatic Cancer,28,TSC2,discovery,True,22,0.7857142857142857
+Pancreatic Cancer,29,RB1,discovery,True,23,0.7931034482758621
+Pancreatic Cancer,30,NRAS,discovery,True,24,0.8
+Pancreatic Cancer,31,MSH6,extended,False,24,0.7741935483870968
+Pancreatic Cancer,32,MET,extended,True,25,0.78125
+Pancreatic Cancer,33,RAD51D,extended,False,25,0.7575757575757576
+Pancreatic Cancer,34,STK11,extended,True,26,0.7647058823529411
+Pancreatic Cancer,35,SPN,extended,False,26,0.7428571428571429
+Pancreatic Cancer,36,ERBB2,extended,True,27,0.75
+Pancreatic Cancer,37,VHL,extended,True,28,0.7567567567567568
+Pancreatic Cancer,38,YY1,extended,False,28,0.7368421052631579
+Pancreatic Cancer,39,MTOR,extended,True,29,0.7435897435897436
+Pancreatic Cancer,40,KIT,extended,True,30,0.75
+Pancreatic Cancer,41,PMS2,extended,True,31,0.7560975609756098
+Pancreatic Cancer,42,SCT,extended,False,31,0.7380952380952381
+Pancreatic Cancer,43,AKT1,extended,True,32,0.7441860465116279
+Pancreatic Cancer,44,HP,extended,False,32,0.7272727272727273
+Pancreatic Cancer,45,MUC2,extended,False,32,0.7111111111111111
+Pancreatic Cancer,46,MYC,extended,True,33,0.717391304347826
+Pancreatic Cancer,47,SMARCB1,extended,True,34,0.723404255319149
+Pancreatic Cancer,48,KDM6A,extended,True,35,0.7291666666666666
+Pancreatic Cancer,49,BARD1,extended,True,36,0.7346938775510204
+Pancreatic Cancer,50,POLE,extended,True,37,0.74
+Prostate Cancer,1,BRCA2,established,True,1,1.0
+Prostate Cancer,2,BRCA1,established,True,2,1.0
+Prostate Cancer,3,TP53,established,True,3,1.0
+Prostate Cancer,4,ATM,established,True,4,1.0
+Prostate Cancer,5,SPOP,established,True,5,1.0
+Prostate Cancer,6,AR,established,True,6,1.0
+Prostate Cancer,7,CHEK2,established,True,7,1.0
+Prostate Cancer,8,PTEN,established,True,8,1.0
+Prostate Cancer,9,PARP1,established,False,8,0.8888888888888888
+Prostate Cancer,10,PALB2,established,True,9,0.9
+Prostate Cancer,11,RB1,emerging,True,10,0.9090909090909091
+Prostate Cancer,12,CDK12,emerging,True,11,0.9166666666666666
+Prostate Cancer,13,ERG,emerging,True,12,0.9230769230769231
+Prostate Cancer,14,MSH2,emerging,False,12,0.8571428571428571
+Prostate Cancer,15,HOXB13,emerging,False,12,0.8
+Prostate Cancer,16,FOXA1,emerging,True,13,0.8125
+Prostate Cancer,17,MLH1,emerging,False,13,0.7647058823529411
+Prostate Cancer,18,MSH6,emerging,False,13,0.7222222222222222
+Prostate Cancer,19,NBN,emerging,False,13,0.6842105263157895
+Prostate Cancer,20,BRAF,emerging,True,14,0.7
+Prostate Cancer,21,APC,discovery,True,15,0.7142857142857143
+Prostate Cancer,22,TMPRSS2,discovery,True,16,0.7272727272727273
+Prostate Cancer,23,RAD51C,discovery,False,16,0.6956521739130435
+Prostate Cancer,24,PIK3CA,discovery,True,17,0.7083333333333334
+Prostate Cancer,25,CHD1,discovery,False,17,0.68
+Prostate Cancer,26,BRIP1,discovery,False,17,0.6538461538461539
+Prostate Cancer,27,KRAS,discovery,True,18,0.6666666666666666
+Prostate Cancer,28,PMS2,discovery,True,19,0.6785714285714286
+Prostate Cancer,29,CTNNB1,discovery,True,20,0.6896551724137931
+Prostate Cancer,30,EGFR,discovery,True,21,0.7
+Prostate Cancer,31,MED12,extended,True,22,0.7096774193548387
+Prostate Cancer,32,MYC,extended,True,23,0.71875
+Prostate Cancer,33,IDH1,extended,True,24,0.7272727272727273
+Prostate Cancer,34,RAD51,extended,False,24,0.7058823529411765
+Prostate Cancer,35,FANCA,extended,True,25,0.7142857142857143
+Prostate Cancer,36,ATR,extended,True,26,0.7222222222222222
+Prostate Cancer,37,MSR1,extended,False,26,0.7027027027027027
+Prostate Cancer,38,KMT2C,extended,True,27,0.7105263157894737
+Prostate Cancer,39,CHEK1,extended,False,27,0.6923076923076923
+Prostate Cancer,40,KMT2D,extended,True,28,0.7
+Prostate Cancer,41,FANCL,extended,False,28,0.6829268292682927
+Prostate Cancer,42,RNASEL,extended,False,28,0.6666666666666666
+Prostate Cancer,43,MUTYH,extended,False,28,0.6511627906976745
+Prostate Cancer,44,RAD51D,extended,False,28,0.6363636363636364
+Prostate Cancer,45,ELAC2,extended,False,28,0.6222222222222222
+Prostate Cancer,46,KLF6,extended,True,29,0.6304347826086957
+Prostate Cancer,47,MT-ATP6,extended,False,29,0.6170212765957447
+Prostate Cancer,48,KDM6A,extended,True,30,0.625
+Prostate Cancer,49,RNF43,extended,True,31,0.6326530612244898
+Prostate Cancer,50,FGFR3,extended,True,32,0.64
+Stomach Cancer,1,CDH1,established,True,1,1.0
+Stomach Cancer,2,TP53,established,True,2,1.0
+Stomach Cancer,3,KRAS,established,True,3,1.0
+Stomach Cancer,4,PIK3CA,established,True,4,1.0
+Stomach Cancer,5,CTNNB1,established,True,5,1.0
+Stomach Cancer,6,BRAF,established,True,6,1.0
+Stomach Cancer,7,APC,established,True,7,1.0
+Stomach Cancer,8,BRCA2,established,True,8,1.0
+Stomach Cancer,9,PDGFRA,established,True,9,1.0
+Stomach Cancer,10,ARID1A,established,True,10,1.0
+Stomach Cancer,11,KIT,emerging,True,11,1.0
+Stomach Cancer,12,BRCA1,emerging,True,12,1.0
+Stomach Cancer,13,EGFR,emerging,True,13,1.0
+Stomach Cancer,14,ATM,emerging,True,14,1.0
+Stomach Cancer,15,RHOA,emerging,True,15,1.0
+Stomach Cancer,16,MLH1,emerging,False,15,0.9375
+Stomach Cancer,17,ERBB2,emerging,True,16,0.9411764705882353
+Stomach Cancer,18,PTEN,emerging,True,17,0.9444444444444444
+Stomach Cancer,19,LRP1B,emerging,True,18,0.9473684210526315
+Stomach Cancer,20,MSH2,emerging,False,18,0.9
+Stomach Cancer,21,STK11,discovery,True,19,0.9047619047619048
+Stomach Cancer,22,MET,discovery,True,20,0.9090909090909091
+Stomach Cancer,23,BLM,discovery,False,20,0.8695652173913043
+Stomach Cancer,24,RAD50,discovery,True,21,0.875
+Stomach Cancer,25,GNAS,discovery,True,22,0.88
+Stomach Cancer,26,CD274,discovery,True,23,0.8846153846153846
+Stomach Cancer,27,NBN,discovery,False,23,0.8518518518518519
+Stomach Cancer,28,SMAD4,discovery,True,24,0.8571428571428571
+Stomach Cancer,29,PALB2,discovery,True,25,0.8620689655172413
+Stomach Cancer,30,MUC6,discovery,True,26,0.8666666666666667
+Stomach Cancer,31,CTNNA1,extended,True,27,0.8709677419354839
+Stomach Cancer,32,KMT2C,extended,True,28,0.875
+Stomach Cancer,33,MUC16,extended,False,28,0.8484848484848485
+Stomach Cancer,34,KMT2D,extended,True,29,0.8529411764705882
+Stomach Cancer,35,BRIP1,extended,False,29,0.8285714285714286
+Stomach Cancer,36,ERBB3,extended,True,30,0.8333333333333334
+Stomach Cancer,37,RNF43,extended,True,31,0.8378378378378378
+Stomach Cancer,38,SDHB,extended,False,31,0.8157894736842105
+Stomach Cancer,39,FAP,extended,False,31,0.7948717948717948
+Stomach Cancer,40,RAD51C,extended,False,31,0.775
+Stomach Cancer,41,FGFR2,extended,True,32,0.7804878048780488
+Stomach Cancer,42,TTN,extended,False,32,0.7619047619047619
+Stomach Cancer,43,CHEK2,extended,True,33,0.7674418604651163
+Stomach Cancer,44,RB1,extended,True,34,0.7727272727272727
+Stomach Cancer,45,FAT4,extended,True,35,0.7777777777777778
+Stomach Cancer,46,SMARCB1,extended,True,36,0.782608695652174
+Stomach Cancer,47,CDKN2A,extended,True,37,0.7872340425531915
+Stomach Cancer,48,POLE,extended,True,38,0.7916666666666666
+Stomach Cancer,49,ARID2,extended,True,39,0.7959183673469388
+Stomach Cancer,50,MKI67,extended,False,39,0.78
+Thyroid Cancer,1,BRAF,established,True,1,1.0
+Thyroid Cancer,2,TERT,established,True,2,1.0
+Thyroid Cancer,3,RET,established,True,3,1.0
+Thyroid Cancer,4,NRAS,established,True,4,1.0
+Thyroid Cancer,5,HRAS,established,True,5,1.0
+Thyroid Cancer,6,KRAS,established,True,6,1.0
+Thyroid Cancer,7,TP53,established,True,7,1.0
+Thyroid Cancer,8,EIF1AX,established,True,8,1.0
+Thyroid Cancer,9,PIK3CA,established,True,9,1.0
+Thyroid Cancer,10,TSHR,established,True,10,1.0
+Thyroid Cancer,11,CCDC6,emerging,True,11,1.0
+Thyroid Cancer,12,PAX8,emerging,False,11,0.9166666666666666
+Thyroid Cancer,13,DICER1,emerging,True,12,0.9230769230769231
+Thyroid Cancer,14,PTEN,emerging,True,13,0.9285714285714286
+Thyroid Cancer,15,GNAS,emerging,True,14,0.9333333333333333
+Thyroid Cancer,16,PPARG,emerging,False,14,0.875
+Thyroid Cancer,17,NCOA4,emerging,False,14,0.8235294117647058
+Thyroid Cancer,18,APC,emerging,True,15,0.8333333333333334
+Thyroid Cancer,19,ALK,emerging,True,16,0.8421052631578947
+Thyroid Cancer,20,EGFR,emerging,True,17,0.85
+Thyroid Cancer,21,NF1,discovery,True,18,0.8571428571428571
+Thyroid Cancer,22,CTNNB1,discovery,True,19,0.8636363636363636
+Thyroid Cancer,23,EZH1,discovery,False,19,0.8260869565217391
+Thyroid Cancer,24,MKI67,discovery,False,19,0.7916666666666666
+Thyroid Cancer,25,MET,discovery,True,20,0.8
+Thyroid Cancer,26,TPO,discovery,False,20,0.7692307692307693
+Thyroid Cancer,27,NTRK1,discovery,True,21,0.7777777777777778
+Thyroid Cancer,28,KIT,discovery,True,22,0.7857142857142857
+Thyroid Cancer,29,MAP2K1,discovery,True,23,0.7931034482758621
+Thyroid Cancer,30,STK11,discovery,True,24,0.8
+Thyroid Cancer,31,NTRK3,extended,True,25,0.8064516129032258
+Thyroid Cancer,32,TYR,extended,False,25,0.78125
+Thyroid Cancer,33,AKT1,extended,True,26,0.7878787878787878
+Thyroid Cancer,34,MTOR,extended,True,27,0.7941176470588235
+Thyroid Cancer,35,FAP,extended,False,27,0.7714285714285715
+Thyroid Cancer,36,CHEK2,extended,True,28,0.7777777777777778
+Thyroid Cancer,37,PLEKHS1,extended,False,28,0.7567567567567568
+Thyroid Cancer,38,TG,extended,False,28,0.7368421052631579
+Thyroid Cancer,39,AR,extended,True,29,0.7435897435897436
+Thyroid Cancer,40,ETV6,extended,True,30,0.75
+Thyroid Cancer,41,MAPK3,extended,False,30,0.7317073170731707
+Thyroid Cancer,42,DGCR8,extended,True,31,0.7380952380952381
+Thyroid Cancer,43,NKX2-1,extended,True,32,0.7441860465116279
+Thyroid Cancer,44,LGALS3,extended,False,32,0.7272727272727273
+Thyroid Cancer,45,ATRX,extended,True,33,0.7333333333333333
+Thyroid Cancer,46,MIR21,extended,False,33,0.717391304347826
+Thyroid Cancer,47,CD274,extended,True,34,0.723404255319149
+Thyroid Cancer,48,KMT2D,extended,True,35,0.7291666666666666
+Thyroid Cancer,49,NOTCH1,extended,True,36,0.7346938775510204
+Thyroid Cancer,50,CREB3L2,extended,False,36,0.72

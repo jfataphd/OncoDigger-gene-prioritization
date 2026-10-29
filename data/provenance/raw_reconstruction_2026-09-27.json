@@ -1,0 +1,166 @@
+{
+ "build": "2026-09-27",
+ "rule": "(May raw U incremental raw) restricted to the build database PMIDs; incremental preferred on overlap",
+ "total_records": 1640505,
+ "total_differing": 3,
+ "corpora": {
+  "breast": {
+   "documents": 250061,
+   "from_incremental": 5305,
+   "from_may_baseline": 244756,
+   "records_in_sources_not_in_build": 209,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "bd2c8d8a730e5a6f4dc761cbf1ee8644f38656aa52f70959a759cce22e0a181c"
+  },
+  "lung": {
+   "documents": 178908,
+   "from_incremental": 4350,
+   "from_may_baseline": 174558,
+   "records_in_sources_not_in_build": 145,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "d6e3ed91c25a054ec9c797e4a5eae9b9a2080871cf6de642cc3fecc933727277"
+  },
+  "colorectal": {
+   "documents": 168174,
+   "from_incremental": 3794,
+   "from_may_baseline": 164380,
+   "records_in_sources_not_in_build": 141,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "49611c399c18d6494b85e3d6eff8f9cbec604edc809c8f80bc198ebe3f010d4c"
+  },
+  "prostate": {
+   "documents": 110937,
+   "from_incremental": 2279,
+   "from_may_baseline": 108658,
+   "records_in_sources_not_in_build": 100,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "92ba3e2161c7b3d7e14da44bd74994f6450d269992497e4603c2b1c042f9d76a"
+  },
+  "melanoma": {
+   "documents": 66447,
+   "from_incremental": 1164,
+   "from_may_baseline": 65283,
+   "records_in_sources_not_in_build": 100,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "fdf5e54eca7da66059e773cdb381934221de666fb257cec712de3d2d4fe104c7"
+  },
+  "bladder": {
+   "documents": 35620,
+   "from_incremental": 888,
+   "from_may_baseline": 34732,
+   "records_in_sources_not_in_build": 27,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "b60a7b1699c38bda341f5caf9b7fbbdb2222d27fd8c832bdec8475e50639c3e1"
+  },
+  "kidney": {
+   "documents": 46739,
+   "from_incremental": 995,
+   "from_may_baseline": 45744,
+   "records_in_sources_not_in_build": 45,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "125f3832b1d73707b365802639376368088368aab5c5ba4e8c63e012a0a3db12"
+  },
+  "pancreas": {
+   "documents": 65223,
+   "from_incremental": 1686,
+   "from_may_baseline": 63537,
+   "records_in_sources_not_in_build": 86,
+   "title_or_abstract_differs_from_database": [
+    "42004856"
+   ],
+   "sha256": "286be6153fbfd13ab2bf70793a78bb6c2ef1bcb74a81564e0f137687c31d3fd5"
+  },
+  "liver": {
+   "documents": 127252,
+   "from_incremental": 2747,
+   "from_may_baseline": 124505,
+   "records_in_sources_not_in_build": 49,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "01f0c152048fe902f90f6cb2f5707488930a38b8cb2cdbe171ca5682a2012a7f"
+  },
+  "stomach": {
+   "documents": 64372,
+   "from_incremental": 1452,
+   "from_may_baseline": 62920,
+   "records_in_sources_not_in_build": 38,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "55152d3a09713b4c6c7a63593916b746ed8e4da3d9c663cf2bd83e067fdfe153"
+  },
+  "esophageal": {
+   "documents": 37925,
+   "from_incremental": 822,
+   "from_may_baseline": 37103,
+   "records_in_sources_not_in_build": 26,
+   "title_or_abstract_differs_from_database": [
+    "42101311"
+   ],
+   "sha256": "543581e7cbd4e7fa49836a28c6b659b6583f5f72f6b18e83f05b53808158dfe7"
+  },
+  "ovarian": {
+   "documents": 61538,
+   "from_incremental": 1170,
+   "from_may_baseline": 60368,
+   "records_in_sources_not_in_build": 49,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "2dcd3c50d1222f6d03f6fcb88f67f4a07982eb84c18e9aaabb20bedab645e51d"
+  },
+  "endometrial": {
+   "documents": 22079,
+   "from_incremental": 474,
+   "from_may_baseline": 21605,
+   "records_in_sources_not_in_build": 12,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "2d0441af42f0e87c5b18049f6718d506bb7f54789114023e7c6db15409767fb0"
+  },
+  "cervical": {
+   "documents": 50875,
+   "from_incremental": 1131,
+   "from_may_baseline": 49744,
+   "records_in_sources_not_in_build": 44,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "ae5c65145ebfae9e67ae6b11caa160cf41d090a51859f9d201b80d8a59af9419"
+  },
+  "thyroid": {
+   "documents": 38640,
+   "from_incremental": 926,
+   "from_may_baseline": 37714,
+   "records_in_sources_not_in_build": 58,
+   "title_or_abstract_differs_from_database": [
+    "42018436"
+   ],
+   "sha256": "dbdd7248b8b8538c35d2b30418160829a73afb2d4d0404b7349c5e713564094c"
+  },
+  "brain": {
+   "documents": 103180,
+   "from_incremental": 2525,
+   "from_may_baseline": 100655,
+   "records_in_sources_not_in_build": 103,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "3aef84ad19e6f1c49d0c8331619feb8251ad72cd0ac4d19d76beab30da25b52b"
+  },
+  "leukemia": {
+   "documents": 106922,
+   "from_incremental": 1816,
+   "from_may_baseline": 105106,
+   "records_in_sources_not_in_build": 153,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "1a81022a6272eaf1639a5102b129de64b19daafbc214103b1d06e1e7db525e86"
+  },
+  "lymphoma": {
+   "documents": 79022,
+   "from_incremental": 1321,
+   "from_may_baseline": 77701,
+   "records_in_sources_not_in_build": 101,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "b47720533354897cf8c54a784e5f4e3b9ffd135f3c77de6550ed6c89225ebd7f"
+  },
+  "myeloma": {
+   "documents": 26591,
+   "from_incremental": 639,
+   "from_may_baseline": 25952,
+   "records_in_sources_not_in_build": 36,
+   "title_or_abstract_differs_from_database": [],
+   "sha256": "f6cd45dbfb05bdb09c12c7084cbc90313bfe08b22a4b4cfc6c9074045ac67075"
+  }
+ }
+}
