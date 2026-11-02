@@ -7,6 +7,8 @@ Code, derived outputs and a build-provenance record for the manuscript
 which evaluates OncoDigger's mutation-focused gene rankings against IntOGen (Martínez-Jiménez et al., 2020)
 as an external, cohort-computed reference. This repository is the code and data release for that manuscript.
 
+Preprint (not peer reviewed): https://doi.org/10.21203/rs.3.rs-11556965/v1 (Research Square, CC BY 4.0).
+
 **All results are computed from one corpus build, the 2026-09-27 release (1,640,505 abstracts).** See
 `data/provenance/README.md`. A script that reads the corpora refuses to run on any other build.
 

@@ -14,3 +14,18 @@ keywords:
   - mutations
   - BM25
   - IntOGen
+identifiers:
+  - type: doi
+    value: "10.21203/rs.3.rs-11556965/v1"
+    description: "Research Square preprint (v1)"
+preferred-citation:
+  type: article
+  title: "OncoDigger Prioritizes Mutation-Associated Genes in Cancer-Specific PubMed Abstracts"
+  authors:
+    - family-names: "Fata"
+      given-names: "Jimmie E."
+      orcid: "https://orcid.org/0000-0001-5797-6619"
+  journal: "Research Square (preprint)"
+  year: 2026
+  doi: "10.21203/rs.3.rs-11556965/v1"
+  url: "https://doi.org/10.21203/rs.3.rs-11556965/v1"
